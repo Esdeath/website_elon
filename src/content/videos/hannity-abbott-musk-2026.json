@@ -1,0 +1,358 @@
+{
+  "id": "hannity-abbott-musk-2026",
+  "slug": "hannity-abbott-musk-2026",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2026-07-08",
+  "titleEn": "The Sean Hannity Show — Interviewed by Gov. Greg Abbott",
+  "titleZh": "《肖恩·汉尼提秀》——由州长格雷格·阿博特采访",
+  "summaryEn": "Days before Starship Flight 13, Texas Governor Greg Abbott — guest-hosting Sean Hannity's radio show — interviews Elon Musk on what SpaceX actually does for everyday Americans: Starlink's global internet, flying NASA astronauts, ~85% of all payload to orbit, first crews on the Moon within 2–3 years and a Moon city of thousands within ten, Mars, AI satellites launching next year with large-scale compute in space soon after — and why Texas is the home for big ideas.",
+  "summaryZh": "在星舰第13次飞行前几天，得克萨斯州州长格雷格·阿博特代班主持肖恩·汉尼提的广播节目，采访埃隆·马斯克，谈及SpaceX实际上为普通美国人做了什么：星链的全球互联网服务、运送NASA宇航员、将全部入轨有效载荷中的约85%送入轨道、未来2至3年内将首批人员送上月球并在10年内建成一座拥有数千人的月球城市、火星、明年发射AI卫星并在不久后于太空开展大规模计算，以及得克萨斯州为何是宏大构想的家园。",
+  "sourceUrl": "https://www.youtube.com/watch?v=eKg-nFDIPkQ",
+  "sourceLabel": "The Sean Hannity Show",
+  "archiveUrl": "https://elonmuskarchive.org/video/hannity-abbott-musk-2026",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/eKg-nFDIPkQ",
+  "thumbnailUrl": "https://i.ytimg.com/vi/eKg-nFDIPkQ/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 860,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Greg Abbott",
+      "startSec": 0.24,
+      "textEn": "Welcome back to the Sean Hannity Show. I am Texas Governor Greg Abbott and I am your guest host today and very excited that we have a first time caller to the Sean Hannity Show. But to set it up, I want to call for a cut 97",
+      "textZh": "欢迎回到《肖恩·汉尼提秀》。我是得克萨斯州州长格雷格·阿博特，也是你们今天的代班主持人，我非常激动，因为我们迎来了《肖恩·汉尼提秀》的一位首次来电者。不过在开始之前，我想播放第97段音频",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "SpaceX Webcast Host",
+      "startSec": 17.04,
+      "textEn": "booster. Coming in hot for booster catch. Ignite 13 of those raptor engines. And this view is incredible. Right now. We're now down to three Raptor engines. We can see those.",
+      "textZh": "助推器。正高速飞来，准备捕获助推器。点燃其中13台猛禽发动机。这个画面令人难以置信。就在此刻。我们现在已经减至3台猛禽发动机。我们能看到它们。",
+      "speakerZh": "SpaceX网络直播主持人"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "SpaceX Webcast Host",
+      "startSec": 38.62,
+      "textEn": "Hello.",
+      "textZh": "喂。",
+      "speakerZh": "SpaceX网络直播主持人"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Greg Abbott",
+      "startSec": 39.26,
+      "textEn": "We've just witnessed history.",
+      "textZh": "我们刚刚见证了历史。",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Greg Abbott",
+      "startSec": 42.22,
+      "textEn": "Well, that was the world watching in amazement at the stunning accomplishment to catch a rocket that SpaceX had previously launched as it returned to Earth. You know, many Americans have seen the marvels of SpaceX but really don't know much about what SpaceX is actually doing in their lives right now. And there is nobody better in the world, world, I should say maybe in the universe to describe that than none other than Elon Musk.",
+      "textZh": "好吧，刚才全世界都在惊叹地观看这一惊人成就：捕获一枚此前由SpaceX发射、如今返回地球的火箭。你知道，许多美国人都见识过SpaceX的奇迹，但其实并不太了解SpaceX眼下究竟在他们的生活中做些什么。而要说明这一点，世界上，世界上，我应该说或许是宇宙中，没有谁比埃隆·马斯克更合适了。",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Greg Abbott",
+      "startSec": 71,
+      "textEn": "Elon, welcome to Sean Hannity Show.",
+      "textZh": "埃隆，欢迎来到《肖恩·汉尼提秀》。",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 74.36,
+      "textEn": "Thank you for having me.",
+      "textZh": "谢谢你邀请我。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Greg Abbott",
+      "startSec": 76.52,
+      "textEn": "Listen, you know, you and I have talked before about your vision and about what you're doing, and I, I know that you have visited with those who have invested in SpaceX about what you're doing, but the truth is, probably most of our Americans across the country really don't know much about what SpaceX is actually doing to affect their lives. Can you give us a short explanation about what SpaceX actually is doing right now for the average American?",
+      "textZh": "听着，你知道，你我之前谈过你的愿景，也谈过你正在做的事，而且我，我知道你曾与那些投资SpaceX的人交流过你正在做的事，但事实是，全国大多数美国人可能真的不太了解SpaceX究竟在做些什么来影响他们的生活。你能简短解释一下SpaceX眼下究竟在为普通美国人做些什么吗？",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 107.25,
+      "textEn": "Yeah. So SpaceX launches satellites that provide communication, especially the Starlink Internet system. So Starlink provides global high bandwidth Internet connectivity. So throughout the world, if you're anywhere from Texas to the North Pole or the South Pole or in the middle of the ocean, you can get high bandwidth, low latency Internet connectivity. And it's the only such system that exists in the world. That's the main thing that we launch with SpaceX.",
+      "textZh": "是的。所以SpaceX发射提供通信服务的卫星，尤其是星链互联网系统。星链提供全球性的高带宽互联网连接。所以在世界各地，无论你身处得克萨斯州、北极、南极还是大洋中央，都能获得高带宽、低延迟的互联网连接。这是世界上唯一存在的此类系统。这是我们通过SpaceX发射的主要项目。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 141.81,
+      "textEn": "Then SpaceX also is the main provider to NASA for transporting astronauts to and from the space station, as well as resupplying the space station with cargo and bringing scientific experiments to and from the space station. So in fact, we're currently the only spacecraft, our Dragon spacecraft is the only spacecraft that is qualified by NASA to transport astronauts to and from the space station besides the Russian Soyuz system.",
+      "textZh": "此外，SpaceX还是NASA运送宇航员往返空间站的主要服务商，同时也为空间站补给货物，并将科学实验送往空间站和从空间站带回。所以事实上，目前我们是唯一的航天器，我们的龙飞船是除俄罗斯联盟号系统之外，唯一获得NASA认证、可运送宇航员往返空间站的航天器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 174.64,
+      "textEn": "So we transport both US and international astronauts to and from the space station.",
+      "textZh": "所以我们运送美国和国际宇航员往返空间站。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Greg Abbott",
+      "startSec": 182.23,
+      "textEn": "So for those Starlink deployments, about how many launches do you have a year and about how many satellites do you have across the universe?",
+      "textZh": "那么对于这些星链部署，你们每年大约发射多少次，又在整个宇宙中拥有大约多少颗卫星？",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 192.71,
+      "textEn": "Yeah, so SpaceX right now delivers about 85% of all the payload to orbit of Earth. So of the remaining 15% most of that is China, and then I think they're probably about 8%, and then about roughly 7% is the rest of the world, including the rest of the US. So SpaceX transports almost 10 times as many satellites to orbit as the rest of the world combined. Yeah.",
+      "textZh": "是的，所以SpaceX目前将地球全部入轨有效载荷中的约85%送入轨道。那么在剩余的15%中，大部分来自中国，我认为他们可能约占8%，然后其余约7%来自世界其他地区，包括美国的其他部分。所以SpaceX送入轨道的卫星数量几乎是世界其他地区总和的10倍。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Greg Abbott",
+      "startSec": 226.71,
+      "textEn": "So after you move on from deploying satellites, as you cast your vision toward the next 10 years, which, by the way, every time I talk to you, it seems like you're constantly thinking 10 or even 20 or more years than that ahead. But what do you see SpaceX doing 10 years from now?",
+      "textZh": "那么，在卫星部署之后，当你把愿景投向未来10年时，顺便说一句，每次我和你交谈时，感觉你似乎一直都在思考10年、甚至20年或更久以后的事情。但你认为SpaceX在10年后会做些什么？",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 249.04,
+      "textEn": "Well, hopefully we've established a base on the moon, so. And not just a base with a small number of people, but in 10 years, hopefully we've enabled thousands, if not tens of thousands of people to go to the Moon, which makes it. Which it's going to. It's going to seem like a pretty outrageous number given that, you know, there's only about a dozen or so people that have been to the Moon so far. But our starship system is designed to carry ultimately tens of thousands of tons to the Moon to create effectively a city on the Moon and ultimately a city on Mars as well.",
+      "textZh": "嗯，希望我们已经在月球上建立了基地，所以。而且不只是一个只有少数人的基地，而是希望在10年内，我们已经让数千人、甚至数万人能够前往月球，这使得它。这将会。考虑到，你知道，迄今只有大约12人左右去过月球，这听起来会是一个相当惊人的数字。但我们的星舰系统被设计为最终可向月球运送数万吨物资，从而切实在月球上建造一座城市，并最终也在火星上建造一座城市。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 293.62,
+      "textEn": "And the overarching goal of SpaceX is to extend life and consciousness as we know it beyond Earth to the rest of the solar system and eventually to other star systems.",
+      "textZh": "SpaceX的总体目标，是把我们所知的生命和意识延伸到地球之外，扩展至太阳系其他区域，并最终扩展至其他恒星系统。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Greg Abbott",
+      "startSec": 307.7,
+      "textEn": "So how many years from now would it take to actually build a city on the moon? What are we talking about? 5, 10 years? More or less?",
+      "textZh": "那么从现在起，还需要多少年才能真正建成一座月球城市？我们说的是多久？5年、10年？更多还是更少？",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 317.07,
+      "textEn": "Yeah. I think we'll have landed up first people on the Moon in less than five years. If things go well, we might be able to put the first astronauts on the moon in two to three years and then expand rapidly from there so that in, say, 10 years from now, there are thousands of people on the Moon. And let's just go ahead. We want to ultimately make it such that anyone who wants to go to the Moon, like any member of the public that wants to go to the moon, can go to the Moon and, and go to Mars.",
+      "textZh": "是的。我认为我们会在不到5年内让首批人员登上月球。如果一切顺利，我们或许能在2到3年内把首批宇航员送上月球，然后从那里迅速扩大规模，这样，比如说，从现在起10年后，月球上会有数千人。而且我们就继续推进吧。我们最终希望做到，任何想去月球的人，比如任何想去月球的普通公众，都可以去月球，并且，并且去火星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Greg Abbott",
+      "startSec": 356.41,
+      "textEn": "So a person who wants to go to the moon, you know, we see astronauts go up there and they stay there for a couple of days and come back, but you're talking about a city on the moon. So when you are talking 10 years from now, people are going to the Moon, will they be staying there for weeks, months, years? What would it be like?",
+      "textZh": "那么，一个想去月球的人，你知道，我们看到宇航员去那里，停留几天后返回，但你说的是一座月球城市。所以当你谈到从现在起10年后人们前往月球时，他们会在那里停留几周、几个月、几年吗？那会是什么样子？",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 375.19,
+      "textEn": "Yes, I think it's up to the person. They may wish to go for a vacation on the Moon, or they may wish to move permanently to the Moon, depending on the individual. But I think we want to, it would be very cool to have a full blown self sustaining city on the moon, like an actual metropolis on the moon. So the goal is, a way to think about it is we want to make the things that people see in science fiction, not fiction.",
+      "textZh": "是的，我认为这取决于个人。他们可能想去月球度假，也可能想永久移居月球，这取决于个人。但我认为我们想要，这会非常酷，在月球上建成一座完全成熟、自给自足的城市，就像月球上一座真正的大都市。所以这个目标，一种理解它的方式是，我们希望让人们在科幻作品中看到的事物不再是虚构。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 408.46,
+      "textEn": "We want to make them real and become a true space faring civilization where we're out there among the stars. And I think that's a very inspiring future. That's one where I think people can really look forward to it. And there need to be things in life that are not just about solving one miserable problem after another. We need to solve the problems of Earth, of course, but, but we also need things that inspire us about the future and make us glad to be alive.",
+      "textZh": "我们希望让它们成为现实，成为一个真正的太空文明，让我们置身于群星之间。而我认为，那是一个非常鼓舞人心的未来。那是一个我认为人们可以真正期待的未来。生活中需要有一些事情，不能只是接连解决一个又一个令人痛苦的问题。当然，我们需要解决地球上的问题，但，但是我们也需要一些能让我们对未来感到振奋、让我们庆幸自己活着的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Greg Abbott",
+      "startSec": 437.24,
+      "textEn": "And you know, I think it'd be a heck of a honeymoon trip to take a trip to the moon. Honey, let's not go to Singapore, let's go to the moon this year. That's something in the future. So another thing that I've heard you talk about is building data centers in space. Is that something that's going to be a reality and if so, when?",
+      "textZh": "而且你知道，我觉得去月球旅行会是一次很棒的蜜月之旅。亲爱的，我们别去新加坡了，今年去月球吧。那是未来会发生的事。所以，我还听你谈过另一件事，就是在太空中建设数据中心。这会成为现实吗？如果会，什么时候？",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 460.16,
+      "textEn": "Yeah, I think the way to expand compute is really in space. There's a lot of room in space and if you look at the size of Earth relative to the sun or relative to the solar system, you realize just how tiny Earth is. We're very, very tiny.",
+      "textZh": "是的，我认为扩展算力的途径确实是在太空中。太空有很大的空间，如果你观察地球相对于太阳或相对于太阳系的大小，就会意识到地球有多么渺小。我们非常、非常渺小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 480.71,
+      "textEn": "We only receive about half a billionth of the sun's energy. So you can really think about this being like a tiny dust mote in a vast darkness. So the way to expand compute without using up all the land on Earth is to do so in space. And then you can do it without using space for power and water on Earth. You can just do it in space. So I think we'll probably be launching our first AI satellites next year and then we'll be able to do that, I think at large scale in about two years.",
+      "textZh": "我们只接收到太阳能量的大约20亿分之一。所以你真的可以把这里想象成浩瀚黑暗中的一粒微小尘埃。因此，在不耗尽地球上所有土地的情况下扩展算力，方法就是在太空中进行。这样做也不需要占用地球上的空间、能源和水。你可以直接在太空中完成。所以我认为，我们可能会在明年发射首批AI卫星，然后大约2年后，我认为我们就能大规模开展这项工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Greg Abbott",
+      "startSec": 528.59,
+      "textEn": "That's just incredible. Well, listen, you know, you're such an aspiring individual and you have accomplished so much and you still have so much ahead of you, but you know, you inspired different people in different ways. And one of which is what happened in the aftermath of SpaceX becoming a public company where people could go to the stock Exchange and buy SpaceX stock. And when that happened, it suddenly made fortunes for long standing SpaceX employees.",
+      "textZh": "这简直不可思议。好吧，听着，你知道，你是一个非常有抱负的人，已经取得了如此多的成就，前方仍有如此多的事情等着你，但你知道，你以不同的方式激励了不同的人。其中一种方式，就是SpaceX成为上市公司后发生的事情，人们可以去证券交易所购买SpaceX股票。而当这件事发生时，它突然让长期任职的SpaceX员工获得了巨额财富。",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Greg Abbott",
+      "startSec": 560.82,
+      "textEn": "And there, there was a story that I'm sure you've heard about, know about very well and that is it was about a welder who I think began working for SpaceX in 2015, making about $28 an hour. Who, when SpaceX became a public company, they became a millionaire. What do you think it means to the American dream that welders at SpaceX can work hard and then become independently wealthy because they work for such a remarkable business like SpaceX?",
+      "textZh": "而且，有一个故事，我确信你听说过，也非常了解，那是关于一名焊工的，我想他在2015年开始为SpaceX工作，时薪约为28美元。当SpaceX成为上市公司时，他们成了百万富翁。SpaceX的焊工可以努力工作，然后因为供职于SpaceX这样一家卓越的企业而实现个人财富自由，你认为这对美国梦意味着什么？",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 594.88,
+      "textEn": "Yeah, well, I've always had the philosophy that everyone at the company should receive stock in the company so that they can participate in the upside of the company. And it's great for aligning incentives as well. So as the company prospers, then the people at the company, the employees also prosper. So that's just been, you know, my philosophy from day one is make sure everyone gets stuck in the company. So there are, I think, several thousand people who've been made.",
+      "textZh": "是的，嗯，我一直秉持这样一种理念：公司的每个人都应该获得公司股票，这样他们就能分享公司的上涨收益。而且这也非常有利于统一激励机制。因此，随着公司繁荣发展，公司里的人、员工也会跟着获益。所以这从第一天起就是我的理念，你知道，要确保每个人都被困在公司里。因此，我想，有几千人已经被造就了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 625.02,
+      "textEn": "It's not just one welder, it's, it's several thousand people who were, you know, working on the production line. And if they started at the company relatively early, then, then probably their stock is, is worth over a million dollars at this point.",
+      "textZh": "不只是一名焊工，而是、是几千名员工，他们曾经，你知道，在生产线上工作。如果他们相对较早加入公司，那么、那么此时他们的股票可能、可能已经价值超过100万美元。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Greg Abbott",
+      "startSec": 643.26,
+      "textEn": "Just astonishing. Listen, you've been fabulous. I got two more quick questions for you. What you mentioned Mars earlier.",
+      "textZh": "简直令人震惊。听着，你表现得非常出色。我还有2个简短的问题要问你。什么，你刚才提到了火星。",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Greg Abbott",
+      "startSec": 650.63,
+      "textEn": "What does the Mars timeline look like with regard to what you want to accomplish there? We're talking more than 10 years, 20 years. Give us an approximation.",
+      "textZh": "关于你想在火星上实现的目标，时间表大致是怎样的？我们说的是超过10年，还是20年？请给我们一个大概的时间。",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 661.83,
+      "textEn": "Yeah, so Mars is much harder to get to than the Moon. And you can only travel to Mars roughly every two years. So the Earth and Mars, the planets align such that you can travel to Mars only once every 26 months. So that's that. That makes it a lot harder than the Moon where you can go to the Moon pretty much, pretty much any time. And, and it only takes a few days to get to the Moon, whereas it takes about six months to get to Mars.",
+      "textZh": "是的，所以火星比月球难到达得多。而且你大约每2年才能前往火星一次。因此，地球和火星这两颗行星会排列到让你每26个月只能前往火星一次。所以就是这样。这让它比月球困难得多，因为你几乎、几乎随时都可以前往月球。而且，而且到达月球只需要几天，而到达火星则需要大约6个月。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 696.05,
+      "textEn": "So, so that, that's why we can do the Moon faster than we can do Mars. But I think probably, if things go well, we can, we can probably send the first people to Mars in a, in about five years and then rapidly increase the cadence of sending people to Mars thereafter. So every, every two years we would dramatically increase the number of ships going to Mars. And you know, hopefully in the 10 or 12 year time frame, we've, we've sent thousands of people to Mars.",
+      "textZh": "所以，所以这、这就是为什么我们能比火星更快实现登月。但我认为，如果进展顺利，我们大概可以、我们大概可以在、在大约5年内把第一批人送上火星，然后迅速提高此后向火星运送人员的频率。所以每、每2年，我们都会大幅增加前往火星的飞船数量。而且你知道，希望在10年或12年的时间范围内，我们已经、我们已经把数千人送上火星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Greg Abbott",
+      "startSec": 732.96,
+      "textEn": "Just astonishing. Well, listen, you've been a great guest and a great Texan, I must add, and we're proud that you are in Texas. We're proud that SpaceX is headquartered in Texas. We're proud. I'm going to quote you here about something you said at the announcement of Tarifab, that all of your exes live in Texas. And of course, Starbase Texas is in the Lone Star State and will be known not just around the world, but pursuant to your aspirations, it's going to be known around the universe.",
+      "textZh": "真是令人惊叹。好，听着，你是一位很棒的嘉宾，我必须补充一句，也是一位很棒的得州人，我们为你身在得州而自豪。我们为 SpaceX 总部设在得州而自豪。我们很自豪。我要在这里引用你在 Tarifab 发布会上说过的一句话，你所有的前任都住在得州。当然，得州星港位于孤星之州，而且它不仅会闻名于全世界，按照你的抱负，它还将闻名于全宇宙。",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Greg Abbott",
+      "startSec": 766.59,
+      "textEn": "And so I got a really tough question for you, and that is, now that you have all these Texas connections, can we finally get a Texas emoji flag on your platform X?",
+      "textZh": "所以我要问你一个非常棘手的问题，那就是，既然你现在与得州有这么多联系，我们终于能在你的平台 X 上获得一个得州旗帜表情符号了吗？",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 781.95,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 784.11,
+      "textEn": "I will ask the team to make.",
+      "textZh": "我会让团队制作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 788.43,
+      "textEn": "And you know, we've got a giant Texas flag. I'm here at the Giga Texas factory right now. We've got a big Texas flag, you know, American flag and a Texas flag. Just right outside the bullying and yeah, certainly I'd like to thank, thank you and everyone for all the support we've gotten in Texas. It's a great state to do business in. It's super supportive and I think really emblematic of American values. So, you know, I love being here and love being in Texan.",
+      "textZh": "而且你知道，我们有一面巨大的得州旗帜。我现在就在得州超级工厂。我们有一面很大的得州旗帜，你知道，美国国旗和得州旗帜。就在霸凌行为外面，而且，是的，我当然要感谢、感谢你和所有人给予我们在得州获得的全部支持。这是一个非常适合经商的州。它极其支持我们，我认为它确实是美国价值观的象征。所以，你知道，我喜欢待在这里，也喜欢身在得州人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Greg Abbott",
+      "startSec": 821.95,
+      "textEn": "Well, thank you. We're very proud of you. Keep up your great work and maybe we'll see you on the moon one day.",
+      "textZh": "好，谢谢你。我们为你感到非常自豪。继续你出色的工作，也许有一天我们会在月球上见到你。",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 827.39,
+      "textEn": "All right, sounds good.",
+      "textZh": "好的，听起来不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Greg Abbott",
+      "startSec": 829.23,
+      "textEn": "Take care, Elon.",
+      "textZh": "保重，埃隆。",
+      "speakerZh": "格雷格·阿博特"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Greg Abbott",
+      "startSec": 832.67,
+      "textEn": "What a guest. What a man. He's the leading visionary of our time. Thomas Edison. Just like that, maybe even bigger. Dreaming for the stars and actually reaching the stars, unlike anybody in the history of mankind, the one and only Elon Musk. Listen, we're going to take a quick break. We'll be right back again to the Sean Hannity Show.",
+      "textZh": "多么了不起的嘉宾。多么了不起的人。他是我们这个时代首屈一指的远见者。托马斯·爱迪生。就是那样，甚至可能更伟大。梦想着星辰，而且真的抵达了星辰，这是人类历史上任何人都未曾做到的，独一无二的埃隆·马斯克。听着，我们要短暂休息一下。我们马上再次回到《肖恩·汉尼蒂秀》。",
+      "speakerZh": "格雷格·阿博特"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T21:32:26.593Z",
+    "reviewedAt": "2026-09-12T21:49:43.359Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:21.214Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "f14a1414ab30a6bd02e9171d0ce3b933c9f38519a8df3911f1dea5737dac1ed3"
+}

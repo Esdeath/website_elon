@@ -1,0 +1,762 @@
+{
+  "id": "spacex-q2-2026-earnings-call",
+  "slug": "spacex-q2-2026-earnings-call",
+  "snapshotId": "2026-09-12",
+  "type": "earnings",
+  "date": "2026-08-04",
+  "titleEn": "SpaceX Q2 2026 Earnings Call",
+  "titleZh": "SpaceX 2026年第2季度财报电话会议",
+  "summaryEn": "SpaceX's first earnings webcast as a public company: Elon Musk, Gwynne Shotwell and CFO Bret Johnsen present the second-quarter 2026 results, then answer questions from equity analysts and shareholders.",
+  "summaryZh": "SpaceX作为上市公司的首次财报网络直播：埃隆·马斯克、格温·肖特韦尔和首席财务官布雷特·约翰森公布2026年第2季度业绩，随后回答股票分析师和股东的问题。",
+  "sourceUrl": "https://x.com/i/broadcasts/1XxyggqBZZRGM",
+  "sourceLabel": "SpaceX webcast (X)",
+  "archiveUrl": "https://elonmuskarchive.org/video/spacex-q2-2026-earnings-call",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/rz7B8fgY06c",
+  "thumbnailUrl": "https://i.ytimg.com/vi/rz7B8fgY06c/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 3595,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Andrea Williams (Investor Relations) (00:00:00): Good afternoon everyone. Thank you for joining us today for SpaceX's second quarter 2026 earnings conference call. I'm Andrea Williams, Head of Investor Relations. Joining me today are Elon, Gwen and Brett and we are speaking to you from our facility in Bastrop, Texas. Our second quarter financial results were announced just after 3:00pm Central Time and all relevant materials have been published to our investor relations website@ir.sp SpaceX.com for this webcast, our prepared remarks will be followed by a question and answer session. We will take live Q and A from equity analysts and then move to questions directly from our investors that were polled on our dedicated earnings Q and A platform. Thank you to everyone who submitted your questions in advance. During this webcast, we will discuss our business outlook and make forward looking statements. These statements are based on our predictions and expectations as of today.",
+      "textZh": "安德烈娅·威廉姆斯（投资者关系）（00:00:00）：大家下午好。感谢各位今天参加SpaceX的2026年第二季度业绩电话会议。我是投资者关系主管安德烈娅·威廉姆斯。今天与我一同参会的有埃隆、格温和布雷特，我们正在得克萨斯州巴斯特罗普的设施向各位讲话。我们的第二季度财务业绩已于美国中部时间下午3:00刚过时公布，所有相关材料均已发布到我们的投资者关系网站@ir.sp SpaceX.com，本次网络直播中，我们的事先准备发言之后将进行问答环节。我们将先接受股票分析师的现场问答，然后转向直接来自投资者的问题，这些问题是在我们专门的业绩问答平台上投票选出的。感谢所有提前提交问题的人。在本次网络直播中，我们将讨论业务展望并作出前瞻性陈述。这些陈述基于我们截至今天的预测和预期。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "Andrea Williams (Investor Relations) (00:00:51): Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC, including our final prospectus and today's published Form 10Q. Additionally, during this call we may discuss certain non GAAP measures. In our press release and our filings with the sec, you can find additional disclosures, including all reconciliations with comparable GAAP measures. For the second quarter of 2026, we announced the following financial results as compared to the prior year revenues of $7.8 billion, up 92% from $4.1 billion a quarterly net loss of $541 million, an improvement of 467 million. An adjusted EBITDA of $3.5 billion, up 191% from 1.2 billion. Now I will hand the call over to Elon for his opening remarks.",
+      "textZh": "Andrea Williams（投资者关系）（00:00:51）：由于多项风险和不确定性，实际事件或结果可能存在重大差异，其中包括我们最近向SEC提交的文件中提及的风险和不确定性，包括我们的最终招股说明书以及今天发布的Form 10Q。此外，在本次电话会议中，我们可能会讨论某些非GAAP指标。在我们的新闻稿以及向sec提交的文件中，你们可以找到更多披露，包括与可比GAAP指标的所有调节项。对于2026年第二季度，我们公布了以下财务业绩，与上年相比：营收为78亿美元，较41亿美元增长92%；季度净亏损5.41亿美元，改善了4.67亿；调整后EBITDA为35亿美元，较12亿美元增长191%。现在我将把电话会议交给埃隆，由他致开场辞。"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 110,
+      "textEn": "Thank you. So it's been another milestone here. Thank you. So it's been another milestone year for SpaceX. So far we're making great progress developing a fully and rapidly reusable reliable rocket. With Starship, we're connecting millions more people globally across 170 markets with fast, reliable Starlink Internet. We're building AI compute capacity at scale faster than anyone else we believe. And we're Significantly improving our AI models, most notably with the release of GROG 4.5 last month, and now I'll dive into each of those topics separately. So with starship, we completed two successful flights of Starship V3 in the past 90 days. Flight 13 demonstrated core capabilities necessary to achieve an orbital mission and return to Starbase for catching and on. Flight 14 will be our first flight to fly our version 3 Starlink satellites, our communication satellites, to operational orbit.",
+      "textZh": "谢谢。所以这又是这里的一个里程碑。谢谢。所以到目前为止，对SpaceX而言，这又是一个里程碑之年。我们在开发完全且快速可复用的可靠火箭方面取得了巨大进展。借助星舰，我们正通过快速、可靠的星链互联网，在全球170个市场连接更多的数百万人。我们正在以前所未有的速度大规模建设AI算力。我们也在显著改进AI模型，其中最值得注意的是上个月发布的GROG 4.5，现在我将分别深入谈谈这些主题。关于星舰，我们在过去90天内完成了2次成功的星舰V3飞行。第13次飞行展示了实现轨道任务、返回星港接受捕获以及继续所必需的核心能力。第14次飞行将是我们首次把第3版星链卫星，也就是我们的通信卫星，送入运行轨道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 179,
+      "textEn": "We will try to actually catch the first and the second stage of Starlink V3 this year, and we could possibly catch the ship as soon as the next flight. And it's difficult to actually explain to most people just the incredible significance of Starship. And I think perhaps describing it in terms of challenge to orbit is a good way to appreciate the magnitude of the impact Starship will have on the future of civilization. So right now we deliver, call it roughly 2,500 tons a year to orbit via Falcon. And this is a big number by normal standards. The rest of the world, I think, delivers around 300 tons.",
+      "textZh": "今年我们将尝试实际捕获星链V3的第一级和第二级，并且最早可能在下一次飞行时捕获飞船。而要向大多数人真正解释星舰不可思议的重要意义是很困难的。我认为，或许用入轨挑战来描述它，是理解星舰将对文明未来产生多大影响的好方法。所以现在我们通过猎鹰每年向轨道运送，大致可称为2,500吨。按通常标准，这个数字很大。我认为世界其他地区运送约300吨。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 237,
+      "textEn": "So we deliver 80 to 90% of total Earth mass to orbit per year with, with Falcon, now with, with Starship, our aspirations, and I think we will achieve these aspirations, are to deliver well over a million tons to orbit per year and probably ultimately 10 million tons per year. So this is, this is not like if you had a chart where you plotted things. You would need a very, very big table to put the chart on to see, to even see any of our competitors on that chart. And to make that so next biggest competitor was one pixel high on the bar chart, you would still need a very big bar chart to represent the SpaceX Starship vehicle.",
+      "textZh": "所以，我们每年用猎鹰运送了地球送入轨道总质量的80%到90%，现在有了，有了星舰，我们的目标，而且我认为我们会实现这些目标，是每年将远超100万吨送入轨道，最终可能达到每年1000万吨。所以这，这不像是，如果你有一张图表，在上面绘制这些东西。你需要一张非常、非常大的桌子来放这张图表，才能看到，甚至只是看到图表上的任何一个竞争对手。而要让第二大的竞争对手在柱状图上有1个像素高，你仍然需要一张非常大的柱状图来表示SpaceX的星舰运载器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 294,
+      "textEn": "And it's worth noting that we actually, you know, encourage our competitors to copy us. We do nothing to slow them down. We actually launch, we launch competing satellite constellations at the fair prices, the same price we charge everyone. So we do encourage our competitors to copy us. But it's quite difficult to copy something like Starship. But we don't, you know, use patents as, you know, sort of a landmine exercise to stop people from copying us. We actively encourage it. So anyways, but when you think about it on that, you know, go from 2,500 tons a year to, you know, a million, potentially 10 million tons per year. It's really a ridiculously profound difference. But that is, that is our plan and I think we will achieve that plan.",
+      "textZh": "而且值得注意的是，我们实际上，你知道，鼓励竞争对手复制我们。我们没有做任何事情来拖慢他们。我们实际上发射，我们以公平的价格发射竞争对手的卫星星座，价格与我们向所有人收取的一样。所以我们确实鼓励竞争对手复制我们。但要复制星舰这样的东西相当困难。不过我们不会，你知道，把专利用作，你知道，某种布设地雷的手段来阻止别人复制我们。我们积极鼓励这样做。所以无论如何，但当你这样想时，你知道，从每年2,500吨增加到，你知道，100万吨，可能达到每年1000万吨。这确实是一个大得荒谬的深刻差异。但那就是，那就是我们的计划，而且我认为我们会实现这个计划。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 348,
+      "textEn": "Regarding Starlink, it's also worth just noting that the Starlink V3 satellite is about an order of magnitude more capable than the Starlink V2 satellite, which was already a very capable satellite, and we expect to launch about an order of magnitude more Starlink V3 satellites. So that would mean a roughly two order of magnitude increase in the delivered bandwidth. Even if our monetization per bit dropped by a factor of 10, that would still mean a 10x increase in the revenue of Starlink. So I think people are really underestimating Starlink here.",
+      "textZh": "关于星链，还有一点值得注意，星链V3卫星的能力大约比星链V2卫星高1个数量级，而V2已经是能力很强的卫星了，并且我们预计发射的星链V3卫星数量将多大约1个数量级。所以，这意味着所提供的带宽将增加大约2个数量级。即使我们每比特的变现收入下降到原来的1/10，那仍然意味着星链的收入将增长10倍。所以我认为人们在这里确实低估了星链。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 396,
+      "textEn": "So this is, this is a big deal. It's kind of hard for people to wrap their minds around this. But it's not out of the question that at some point Starlink will deliver a majority of the world's Internet, at least in countries where we're allowed to operate, which is the vast majority of countries. So this is important to bear in mind. And it's not in like the infinity future. It's, it's less than 10 years.",
+      "textZh": "所以这、这是一件大事。人们有点难以理解这一点。但不能排除星链在某个时候会承载世界上大部分互联网流量的可能，至少在获准运营的国家是如此，而这涵盖了绝大多数国家。所以这一点必须牢记。而且它并不是在类似无限遥远的未来。它、它不到10年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 433,
+      "textEn": "And with the advent of AI and humanoid robotics and vehicle robotics and just a massive number of robots, the appetite for bandwidth will be much greater than it has been in the past. You think of a human consuming perhaps or producing perhaps about a few hundred bits per second of output, and actually the average human is outputting less than 1 bit per second over the course of a day, which is 86,400 seconds. Now computers easily do billions of bits per second continuously over a 24 hour period. So this is why I would expect the appetite for bandwidth to grow dramatically with the growth of AI and robotics.",
+      "textZh": "而随着AI、人形机器人、车辆机器人以及数量庞大的机器人的出现，对带宽的需求将远远超过过去。你可以想象，一个人每秒消耗或产生的输出或许约为几百比特，而实际上，按一天86,400秒计算，普通人平均每秒输出不到1比特。现在，计算机可以轻易地在24小时内持续做到每秒数十亿比特。所以这就是为什么我预计，随着AI和机器人技术的发展，对带宽的需求将大幅增长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 482,
+      "textEn": "And really I think Starlink is the only thing that can actually service that bandwidth. Regarding AI, we're making rapid progress on GROQ. GROQ 4.5 was a huge improvement and we have GROK 4.6 coming out probably next week. And then GROK 4.7 is about three or four weeks from today. And we expect the cadence of AI development to improve dramatically. And then with GROK 5, which should be out before the end of this year, we will be incorporating the entire corpus of SpaceX data. Basically all the data that SpaceX has ever produced, which is a tremendous amount over the course of a quarter century, will be incorporated into GROK training. And we think this will make GROK by far the best engineer.",
+      "textZh": "而且我确实认为，星链是唯一真正能够服务于这种带宽需求的东西。关于AI，我们在GROQ方面正取得快速进展。GROQ 4.5是一次巨大改进，而Grok 4.6可能会在下周发布。然后Grok 4.7大约会在从今天起3或4周后发布。我们预计AI开发的节奏将大幅加快。然后是Grok 5，它应该会在今年年底前发布，我们将把SpaceX的全部数据语料纳入其中。基本上，SpaceX在过去1/4个世纪里产生过的所有数据，数量极其庞大，都将被纳入Grok的训练。我们认为，这将使Grok成为遥遥领先的最佳工程师。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 542,
+      "textEn": "So this is, these are all like very, very big things. In addition, of course, we are providing compute to others and we are, we are building and deploying computer, I think faster. Our rate of growth certainly is faster than anyone else. And our efficiency of compute deployment I think is also the highest. So we expect to end this year with over 2 gigawatts of compute, and probably our cumulative compute Online by the end of next year will be several times higher.",
+      "textZh": "所以这些，这些全都是非常、非常重大的事情。此外，当然，我们还在向其他人提供算力，而且我们，我们构建和部署计算机的速度，我认为更快。我们的增长速度肯定比任何其他人都快。而且我认为，我们部署算力的效率也是最高的。所以我们预计，到今年年底将拥有超过2吉瓦的算力，而到明年年底，我们累计上线的算力可能会高出数倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 584,
+      "textEn": "So it may, let's say, be closer to 10 gigawatts of compute than 5 gigawatts of compute. As a way to think about it and going forward, we've decided to build exclusively on Nvidia because we think the Vera Rubin architecture is the best architecture, we think it's the best AI computer and, and we greatly value our close cooperation and partnership on many levels with Nvidia. So we're, we're exclusive to Nvidia.",
+      "textZh": "所以，假设一下，它可能更接近10吉瓦算力，而不是5吉瓦算力。可以这样理解，而且展望未来，我们已经决定只使用Nvidia进行建设，因为我们认为Vera Rubin架构是最好的架构，我们认为它是最好的AI计算机，而且，而且我们非常重视与Nvidia在多个层面上的密切合作与伙伴关系。所以我们，我们将只采用Nvidia。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 627,
+      "textEn": "And this new capacity coming online will obviously further benefit the development of groq, as will our COSR acquisition, which should close quite soon. I think we're through almost all of the regulatory hurdles. And then with respect to the StarMind AI satellite, which will be essentially an optimized Bara Rubin NVL72 computer, this is not some sort of far future distant thing. We expect to start launching these next year and the, we think the Design of the NVL72VR computer is a much better design than is typical, having a standard rack style design. And so we expect to actually deploy this on the ground as well as in orbit because we think it's going to be a radical simplification of the normal NVL72 rack. It will cost less, it'll be more effective, and so if we're going to put it in space, why not put it on the ground?",
+      "textZh": "而且，这些即将上线的新产能显然会进一步促进GROQ的发展，我们对COSR的收购也会如此，该交易应该很快就会完成。我认为我们已经通过了几乎所有监管障碍。然后，关于StarMind AI卫星，它实质上将是一台经过优化的Bara Rubin NVL72计算机，这并不是什么遥远未来的事情。我们预计明年开始发射这些卫星，而这个，我们认为NVL72VR计算机的设计比通常采用标准机架式设计的方案好得多。所以我们预计，实际上会把它部署在地面和轨道上，因为我们认为它将从根本上简化常规的NVL72机架。它的成本会更低，效果会更好，所以如果我们要把它放进太空，为什么不也把它放在地面上呢？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 713,
+      "textEn": "So I think that's going to be pretty cool. In conclusion, the SpaceX team is solving some of the hardest engineering problems in the history of humanity. And I think the team is succeeding because we've got in a lot of ways the smartest, most dedicated team of humans that has ever existed. I'm incredibly proud to work with such a team and I'd like to thank the team for their incredible hard work and also thank you to investors who have supported us along the way.",
+      "textZh": "所以我认为那会相当酷。总而言之，SpaceX团队正在解决人类历史上一些最困难的工程问题。而且我认为团队正在取得成功，是因为从许多方面来说，我们拥有有史以来最聪明、最敬业的人类团队。能与这样一支团队共事，我感到无比自豪，我要感谢团队付出的难以置信的辛勤工作，也要感谢一路支持我们的投资者。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 758,
+      "textEn": "Thanks Elon. We had an exceptional second quarter and today I'll focus on the operational and commercial highlights as well as the initiatives we are prioritized going forward. Starting with our space business. We remain the leading launch provider globally with 78 total launches and 1,041 tons of mass to orbit delivered in the first half of this year, primarily allocated to our own internal Starlink missions, but with great customer missions as well. While our launch capabilities are key to supporting our connectivity business, we continue to have a very robust commercial manifest and, and a very robust and growing US government mission demand which drives revenue for the segment we're currently launching at our highest Falcon cadence and are on the precipice of operationalizing Starship. As Elon said, the first two flights of our V3 Starship vehicles put us in an excellent position to achieve our near term goals of reaching orbit, catching and reusing the ships and boosters, and deploying our V3 Starlink broadband satellites.",
+      "textZh": "谢谢，埃隆。我们度过了一个异常出色的第二季度，今天我会重点介绍运营和商业亮点，以及我们今后被优先考虑的举措。先从我们的太空业务说起。今年上半年，我们共完成78次发射，将1,041吨质量送入轨道，继续保持全球领先发射服务提供商的地位；这些运力主要分配给我们自己的内部星链任务，但也执行了很棒的客户任务。虽然我们的发射能力是支持连接业务的关键，但我们仍然拥有非常充实的商业任务清单，而且，而且美国政府任务需求非常强劲并持续增长，这推动了这一业务板块的收入。我们目前正以猎鹰有史以来最高的频率进行发射，并即将实现星舰的投入运营。正如埃隆所说，我们V3星舰运载器的前2次飞行为我们实现近期目标奠定了极佳基础，包括进入轨道、捕获并重复使用飞船和助推器，以及部署我们的V3星链宽带卫星。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 825,
+      "textEn": "Speaking of which, Starlink had a standout quarter driven by continued growth across our consumer, enterprise and government businesses. During the second quarter we added net more than 1.7 million Starlink subscribers globally. Consumer this reflects our best quarter of new customers to date, an increase from the 1.4 million we added during the first quarter. We achieved this by holding ARPU, which is the average revenue per user stable at $66 per month compared to the first quarter. We ended the second quarter with service availability in 167 markets and have continued to activate new markets since then, with some very exciting announcements coming soon, maybe even as early as today. As of June 30, our constellation of operational Starterlink broadband and mobile satellites in orbit grew to roughly 10,000, with our 9,600 broadband satellites delivering roughly 800 terabits per second of total downlink capacity.",
+      "textZh": "说到这里，星链迎来了一个表现出众的季度，这得益于我们的消费者、企业和政府业务持续增长。第二季度期间，我们在全球净增超过170万名星链订阅用户。消费者方面，这是我们迄今新增客户最多的一个季度，高于第一季度新增的140万名。我们在实现这一成绩的同时，将 ARPU，也就是每用户平均收入，维持在每月66美元，与第一季度持平。第二季度结束时，我们的服务已覆盖167个市场，此后我们又继续启用了新市场，很快还会有一些非常令人兴奋的公告，也许甚至最早就在今天。截至6月30日，我们在轨运行的 Starterlink 宽带和移动卫星星座已增至约10,000颗，其中9,600颗宽带卫星提供约每秒800太比特的总下行链路容量。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 889,
+      "textEn": "Following a successful speedrun test of the V3 Starlink satellites on the most recent Starship launch, during which we connected every satellite through every laser link, we intend to deploy V3 satellites into the Constellation for operational use on the upcoming Starship missions. The significant amount of capacity we're able to add to the Starlink Constellation from the V3 satellites will enable us to continue providing even better service. I think it's pretty great already, but to do so while serving more and more customers over the world. In fact, in the years ahead, we expect Starlink will represent a significant portion of global Internet traffic, which Elon also talked about. We also see significant growth opportunities for Starlink on the enterprise and government side of the business. We believe revenue from these markets have the potential to reach a scale at least comparable, but likely exceed our consumer business.",
+      "textZh": "在最近一次星舰发射中成功完成 V3 星链卫星的快速测试后，测试期间我们通过每一条激光链路连接了每一颗卫星，我们打算在即将进行的星舰任务中把 V3 卫星部署到星座中投入运行。我们能够通过 V3 卫星为星链星座增加的大量容量，将使我们能够继续提供更好的服务。我认为现在已经相当不错了，但还要在为全球越来越多客户提供服务的同时做到这一点。事实上，未来几年，我们预计星链将占全球互联网流量的很大一部分，埃隆也谈到了这一点。我们还看到，星链在企业和政府业务方面存在重大增长机会。我们认为，来自这些市场的收入有潜力达到至少与消费者业务相当的规模，但很可能会超过消费者业务。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 946,
+      "textEn": "As we continue to gain share in the second quarter, we signed a major agreement with American Airlines as well as activated our service with new partners including Southwest, Virgin Atlantic, Iberia and AER Lingus. We have become the provider of choice among major airlines with outstanding customer feedback, but still have significant room for growth. In fact, we heard from one of our airline customers, shockingly, customers are flying shorter hop flights instead of direct so that they could ensure that they're on a Starlink activated flight. They'd never seen this in the business before on the government side, we won more than $6 billion in U.S. contracts in in Q2 supporting major space force programs that offer our nation mission critical communications and sensing capabilities and we see even more room for growth in this sector in this coming year. In Q2 we also launched the new Starlink Mobile partnerships with international carriers including SoftBank, NTT, DoCoMo and Sparc new Zealand.",
+      "textZh": "随着我们在第二季度继续扩大份额，我们与美国航空签署了一项重大协议，并为包括西南航空、维珍大西洋航空、伊比利亚航空和爱尔兰航空在内的新合作伙伴启用了服务。凭借出色的客户反馈，我们已成为各大航空公司的首选供应商，但仍有巨大的增长空间。事实上，令人震惊的是，我们从一家航空公司客户那里听说，乘客宁愿乘坐航程较短的中转航班而不是直飞航班，以确保自己乘坐的是已启用星链的航班。他们以前从未在这个行业里见过这种情况。在政府业务方面，我们在在第二季度赢得了超过60亿美元的美国合同，用于支持为我国提供任务关键型通信和感知能力的重大太空军项目，而且我们认为这个领域在未来一年还有更大的增长空间。第二季度，我们还与包括软银、NTT、DoCoMo 和新西兰 Sparc 在内的国际运营商启动了新的星链移动合作。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 1012,
+      "textEn": "Our near term priority is launching mobile V2 satellites on Starship ahead of integrating the 65 MHz of EchoStar spectrum later next year. This spectrum transfer was recently approved by the FCC and represents a foundational competitive advantage for starLink Mobile in AI. The industry is hurtling towards ever more compute demands. We're rapidly expanding our compute capacity to meet our own needs as GROK expands, as well as those for other leading companies such as Google and Anthropic. In terms of our own GROK models, the enterprise feedback on rollout of Grok 4.5 has been very positive so far. Token consumption tripled out of the gate after the July release and we continue to see strong signals on usage and monetization for the model. We're looking forward to welcoming the cursor team to SpaceX to integrate our engineering and begin to benefit from a combined sales capability. In review Our momentum as a business is extraordinary.",
+      "textZh": "我们的近期重点，是在明年晚些时候整合 EchoStar 的65 MHz频谱之前，用星舰发射移动 V2 卫星。这项频谱转让最近已获 FCC 批准，并构成了星链移动业务在 AI 领域的一项基础性竞争优势。这个行业正在飞速迈向越来越高的算力需求。随着 Grok 扩展，我们正在迅速扩大算力容量，以满足自身需求，也满足 Google 和 Anthropic 等其他领先公司的需求。就我们自己的 Grok 模型而言，企业对 Grok 4.5 推出的反馈迄今非常积极。7月发布后，词元消耗量一开始就增至3倍，而且我们继续看到该模型在使用量和商业化方面传出强劲信号。我们期待欢迎 Cursor 团队加入 SpaceX，以整合我们的工程工作，并开始从合并后的销售能力中受益。回顾来看，我们作为一家企业的发展势头非同寻常。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 1071,
+      "textEn": "Our engineering teams are scaling Starship and our next gen satellites while our sales teams expand Starlink aviation mobility and global markets. At the same time, we're bringing on additional compute capacity and expanding and deepening our AI partnerships across a broader set of customers. And though I've been in this business for 24 years, I could not be more excited about the months ahead with all the exciting and amazing things going on and it really feels like we're just getting started all over again now. I'll turn the call over to Brett.",
+      "textZh": "我们的工程团队正在扩大星舰和下一代卫星的规模，同时销售团队正在拓展星链航空、移动和全球市场。与此同时，我们正在增加更多算力容量，并面向更广泛的客户群扩大和深化 AI 合作伙伴关系。尽管我已经在这个行业工作了24年，但对于未来几个月正在发生的所有令人兴奋和惊叹的事情，我从未如此激动，现在确实感觉我们又一次才刚刚开始。下面我把电话交给布雷特。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "Bret Johnsen (CFO) (00:18:26): Thank you Gwen. We demonstrated Strong results in Q2. Revenue growth accelerated across every segment. We narrowed our net losses by nearly half and on a year over year basis on a year over year basis and we grew adjusted EBITDA meaningfully faster than revenue. Importantly, we significantly strengthened the balance sheet through our IPO and inaugural investment grade bond offering. The combination of our global launch leadership, recurring Starlink revenue and rapid growth in AI infrastructure continues to drive improved operating leverage. Now I'll walk through the financials for each segment. For the space segment, revenue grew 55% sequentially and 29% year over year to 962 million, driven by a higher number of larger customer launches and a favorable customer mix. Segment costs and expenses rose 389 million year over year and we continue to accelerate R and D investments in our Starship program.",
+      "textZh": "布雷特·约翰森（首席财务官）（00:18:26）：谢谢你，格温。我们在第二季度取得了强劲业绩。每个业务板块的收入增长都在加速。按同比计算，按同比计算，我们的净亏损缩减了近一半，调整后 EBITDA 的增长速度明显快于收入。重要的是，我们通过首次公开募股和首次投资级债券发行，大幅增强了资产负债表。我们在全球发射领域的领先地位、星链的经常性收入以及 AI 基础设施的快速增长相结合，持续推动经营杠杆改善。现在我将逐一介绍各板块的财务数据。太空板块收入环比增长55%、同比增长29%，达到9.62亿，主要得益于规模较大的客户发射次数增加以及有利的客户组合。板块成本和费用同比增加3.89亿，我们继续加快对星舰项目的研发投入。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "Bret Johnsen (CFO) (00:19:31): Starship aims to quadruple payload capacity and reduce launch costs by 10 times compared to our Falcon 9 rocket, unlocking significant capabilities across all of our business segments. We continue to make progress building the infrastructure required to support thousands of Starship launches per year, including accelerating Raptor and launch vehicle production, the build out of our gigabays, and making significant progress towards activating multiple launch pads at Starbase and in Cape Canaveral at pad 39A and pad 37 space adjusted EBITDA was a loss of 205 million for the quarter, primarily reflecting these higher R and D expenses moving to the Connectivity segment Revenue was up in the Connectivity segment by OR was up to 4.3 billion, up 32% sequentially and 66% year over year. Growth was driven by record net additions of Starlink subscribers and a sharp increase in enterprise and government revenue.",
+      "textZh": "布雷特·约翰森（首席财务官）（00:19:31）：与我们的猎鹰9号火箭相比，星舰的目标是将有效载荷能力提高至4倍，并将发射成本降低至1/10，从而释放我们所有业务板块的重大能力。我们继续推进建设支持每年数千次星舰发射所需的基础设施，包括加快猛禽发动机和运载火箭生产、扩建我们的超级厂房，以及在星港和卡纳维拉尔角的39A号发射台及37号发射台启用多个发射台方面取得重大进展。太空板块本季度调整后 EBITDA 亏损2.05亿，主要反映了这些更高的研发费用。接下来转向连接业务板块，连接业务板块收入上升了，或者说升至43亿，环比增长32%，同比增长66%。这一增长得益于星链订阅用户净增量创纪录，以及企业和政府收入大幅增加。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Bret Johnsen (CFO) (00:20:38): Starlink subscriber ARPU was $66 unchanged compared to Q1. As we continue our global expansion, we're taking a localized go to market approach that ensures our product and service offerings fit local needs. While our geographic expansion may drive down blended ARPU over time, we anticipate continued subscriber momentum to deliver strong revenue growth. Enterprise and government revenue grew 108% year over year and represents a durable source of revenue contributing to strong segment margins overall. As Gwen mentioned, we see enormous opportunity for growth in this segment as we remain, for example, less than 10% penetrated in one of the largest segments being aviation.",
+      "textZh": "布雷特·约翰森（首席财务官）（00:20:38）：星链订阅用户 ARPU 为66美元，与第一季度相比没有变化。随着我们继续在全球扩张，我们正在采取本地化的市场进入方式，以确保我们的产品和服务适合当地需求。尽管地域扩张可能会随着时间推移拉低综合 ARPU，但我们预计持续的订阅用户增长势头将带来强劲的收入增长。企业和政府收入同比增长108%，构成了一个持久的收入来源，为板块整体强劲的利润率作出贡献。正如格温所说，我们认为这一板块存在巨大的增长机会，例如，我们在最大的细分市场之一航空领域的渗透率仍低于10%。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "Bret Johnsen (CFO) (00:21:27): Total costs and expenses for the connectivity segment increased 970 million or approximately 58% year over year. The increase was driven by higher spend to support our revenue growth, including growth in our satellite constellation, increased R and D investment for our next gen version 3 satellites and incremental marketing spend. As Elon mentioned, our version 3 satellites are expected to deliver 10 times the amount of broadband capacity and data density from our current generations, which I think we believe are already pretty amazing and which are essential to supporting continued subscriber growth and higher value service tiers. Income from operations from the connectivity segment increased 79% year over year to $1.7 billion, outpacing revenue growth and driving nearly three points of operating margin expansion. Connectivity segment adjusted EBITDA rose 64% year over year to $2.6 billion.",
+      "textZh": "布雷特·约翰森（首席财务官）（00:21:27）：连接业务板块的总成本和费用同比增加9.70亿，即约58%。增长是由为支持收入增长而增加的支出所推动，包括扩充我们的卫星星座、增加对下一代第3版卫星的研发投入，以及增加营销支出。正如埃隆所说，我们的第3版卫星预计将提供相当于当前几代卫星10倍的宽带容量和数据密度，我认为我们相信当前几代卫星已经相当惊人，而这对于支持订阅用户持续增长和更高价值的服务层级至关重要。连接业务板块的营业利润同比增长79%，达到17亿美元，增速超过收入，并推动营业利润率扩大近3个百分点。连接业务板块调整后 EBITDA 同比增长64%，达到26亿美元。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Bret Johnsen (CFO) (00:22:31): AI segment revenue was $2.6 billion, up 213% sequentially and 247% year over year. The increase was driven primarily by new cloud services agreements as well as growth in GROK and X subscription revenue. Advertising revenue grew 7% sequentially as we overhauled our advertising platform technology to enable AI functionality and enhance self service for all customer types. In Q2, we entered into cloud services agreements providing access to compute capacity at our Colossus and Colossus 2 sites. The initial ramp from these agreements contributed $1.6 billion of incremental AI infrastructure revenue in the quarter. Total cost and expenses for the AI segment rose $1.6 billion year over year, reflecting increased R and D primarily due to higher infrastructure spend. As we accelerated compute deployment. We meaningfully narrowed our AI segment net operating loss to 1.3 billion and turned adjusted EBITDA positive for the segment in the second quarter at $1.1 billion.",
+      "textZh": "布雷特·约翰森（首席财务官）（00:22:31）：AI 业务收入为26亿美元，环比增长213%，同比增长247%。增长主要由新的云服务协议以及 Grok 和 X 订阅收入的增长推动。随着我们全面改造广告平台技术，以启用 AI 功能并增强面向所有客户类型的自助服务，广告收入环比增长7%。第二季度，我们签订了云服务协议，提供使用 Colossus 和 Colossus 2 站点算力的权限。这些协议的初期爬坡在本季度贡献了16亿美元的新增 AI 基础设施收入。AI 业务的总成本和费用同比增加16亿美元，反映出研发支出增加，主要原因是基础设施支出提高。随着我们加快算力部署。我们将 AI 业务的净营业亏损显著收窄至13亿，并在第二季度使该业务的调整后 EBITDA 转正，达到11亿美元。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "Bret Johnsen (CFO) (00:23:46): The incremental revenue from new hosting deals generated high incremental EBITDA margins as we monetized available compute capacity. We ended the second quarter with 1.4 gigawatts of nameplate compute, up from 1 gigawatt in Q1 and 400 megawatts a year earlier. We expect to end this year at over 2 gigawatts of compute capacity. Total company capital expenditures in the second quarter were approximately 18.4 billion, of which roughly 15.8 billion supported AI compute infrastructure. The remainder funded ongoing starship and launch infrastructure, satellite production and global ground station expansion. Additionally, we paid out 856 million during the quarter under our Spectrum Credit agreement related to our pending EchoStar transaction. Our capital allocation priorities remain clear and disciplined. We plan to continue to invest aggressively in the three areas we believe generate the highest long term returns Starship development and production scale, next generation Starlink broadband and mobile constellations and AI compute infrastructure.",
+      "textZh": "Bret Johnsen（首席财务官）（00:23:46）：随着我们将可用算力变现，新托管协议带来的新增收入产生了很高的增量 EBITDA 利润率。第二季度末，我们的铭牌算力为1.4吉瓦，高于第一季度的1吉瓦和一年前的400兆瓦。我们预计今年末算力将超过2吉瓦。公司第二季度的资本支出总额约为184亿，其中约158亿用于支持 AI 算力基础设施。其余资金用于持续推进星舰及发射基础设施、卫星生产和全球地面站扩建。此外，根据与尚待完成的 EchoStar 交易相关的频谱信贷协议，我们在本季度支付了8.56亿。我们的资本配置优先事项依然明确且严格。我们计划继续积极投资于我们认为能产生最高长期回报的3个领域：星舰开发和生产规模、下一代星链宽带及移动星座，以及 AI 算力基础设施。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Bret Johnsen (CFO) (00:25:00): Across all three of these investments we remain focused on capital efficiency, return on investment and preservation of a strong investment grade balance sheet. The second quarter was transformative from a capital markets perspective. We completed our initial public offering raising approximately $85.7 billion in net proceeds and followed that with a $25 billion inaugural and investment grade senior notes offering that was partially used to repay our 20 billion bridge loan. The senior notes were issued across five tranches with a weighted average interest rate of 5.855% and average maturity of 11.7 years. We ended the quarter with 100 billion of cash, cash equivalents and marketable securities and 47.5 billion in backlog.",
+      "textZh": "布雷特·约翰森（首席财务官）（00:25:00）：在所有这3项投资中，我们仍专注于资本效率、投资回报以及维持强劲的投资级资产负债表。从资本市场角度看，第二季度具有变革意义。我们完成了首次公开募股，筹集约857亿美元净收益，随后又进行了250亿美元的首次和投资级优先票据发行，其中一部分用于偿还我们的200亿过桥贷款。这些优先票据分5批发行，加权平均利率为5.855%，平均期限为11.7年。季度末，我们拥有1,000亿现金、现金等价物及有价证券，以及475亿待履行订单。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "Bret Johnsen (CFO) (00:25:51): Looking ahead, we continue to see robust demand in all three of our business segments, but in particular in our cloud services arrangements. We see increasingly favorable economics with Each agreement we sign and as Elon mentioned, we expect the supply demand imbalance in the compute market to continue. The current economics have translated into a less than one year payback on our new capital deployments for computer. For example, in the first few weeks of the third quarter, we've already contracted an additional $6.7 billion of cloud services revenue over a six month period that begins ramping starting in October of this year. We believe this puts us on a trajectory including contribution from cursor to reach 100 billion of ARR or annualized revenue run rate by the end of this year based on our expected revenue in the month of December of this year. With that, I'll turn the call back to Andrea.",
+      "textZh": "Bret Johnsen（首席财务官）（00:25:51）：展望未来，我们继续看到所有3个业务板块都有强劲需求，尤其是我们的云服务安排。随着我们签署每一份协议，我们看到经济效益日益有利；正如埃隆所提到的，我们预计计算市场的供需失衡将持续下去。目前的经济效益已经使我们新部署的计算机资本实现了不到1年的回收期。例如，在第三季度的最初几周，我们已经额外签订了67亿美元的云服务收入合同，合同期为6个月，并将从今年10月开始逐步提升。我们认为，包括 Cursor 的贡献在内，这使我们有望根据今年12月的预期收入，在今年年底前达到1000亿的 ARR，即年化收入运行率。说到这里，我把电话交还给 Andrea。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Andrea Williams (Investor Relations) (00:26:53): Thank you, Elon, Gwen and Brett. This concludes our prepared remarks for today's Q and A session. We will take our first questions from the Equity Analysts. Please press star1 to join the question queue and also please limit yourself to one question. Operator, please. Please proceed with the queue.",
+      "textZh": "Andrea Williams（投资者关系）（00:26:53）：谢谢埃隆、Gwen 和 Brett。我们为今天问答环节准备的发言到此结束。我们将首先回答股票分析师的问题。请按星号键1加入提问队列，也请将问题限制为1个。有请接线员。请继续处理队列。"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Operator",
+      "startSec": 1632,
+      "textEn": "We will now begin the question and answer session. If you would like to ask a question, please press Star one to raise your hand to withdraw your question, press Star one. Again, we ask that you pick up your handset when asking a question to allow for optimum sound quality if you are muted locally. Please remember to unmute your device. Please stand by while we compile the Q and A roster.",
+      "textZh": "我们现在开始问答环节。如果您想提问，请按星号键1举手；如要撤回您的问题，请按星号键1。再次提醒，如果您在本地被静音，我们请您在提问时拿起听筒，以获得最佳音质。请记得取消设备静音。在我们整理问答名单时，请稍候。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Operator",
+      "startSec": 1660,
+      "textEn": "Your first question comes from the line of Eric Sheridan with Goldman Sachs. Your line is open. Please go ahead.",
+      "textZh": "第1个问题来自高盛的 Eric Sheridan。您的线路已接通。请讲。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Analyst",
+      "startSec": 1667,
+      "textEn": "Thanks so much for taking the question and thanks for all the details in the prepared remarks. Maybe just one. On the connectivity segment, can you discuss the backlog of enterprise and government contracts in that segment of the business and how we think about that backlog, converting it to revenue, and what that might mean for the pace and cadence of growth in the next couple of years. Thanks so much.",
+      "textZh": "非常感谢你们接受提问，也感谢你们在准备好的发言中提供的所有细节。或许就问1个。关于连接业务板块，能否谈谈该业务板块积压的企业和政府合同，以及我们应如何看待这些积压订单转化为收入，还有这对未来几年增长的速度和节奏可能意味着什么。非常感谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 1691,
+      "textEn": "Yeah, we are quite bullish on our enterprise activities. I mentioned alone that we received from the government over $6 billion in contracts. Those are, those are. You can look at those as tranches and beginnings of additional capability that we will bring online, some of which we will have to compete. But fundamentally we have the contracts in place to fulfill many phenomenologies, both the ones we've recently announced as well as additional ones that we'll be working on going forward? Enterprise revenue is quite sticky. We have never lost an enterprise customer. They're quite happy with the Starlink capability that we have right now. Brett mentioned we are only 10% penetrated in the aviation industry, which definitely represents a lot of headroom for revenue going Forward Maritime, I think is Starlink opens up the TAM dramatically. Starlink offers the capability that other, that ships that don't really have much connectivity right now because they can't afford VSATs, we can basically outfit those ships with Starlink Maritime.",
+      "textZh": "是的，我们非常看好企业业务活动。我单独提到过，我们从政府获得了超过60亿美元的合同。那些是，那些是。你可以把它们看作我们将上线的额外能力的若干批次和开端，其中一些我们将不得不参与竞争。但从根本上说，我们已经签订了合同，可以满足许多现象类型，既包括我们最近宣布的那些，也包括我们今后将继续开展的其他类型？企业收入的黏性相当强。我们从未失去过任何企业客户。他们对我们目前拥有的星链能力相当满意。Brett 提到，我们在航空业的渗透率仅为10%，这无疑意味着未来收入还有很大的增长空间。至于海事领域，我认为星链极大地拓展了 TAM。星链提供了一种能力，其他的，那些目前确实没有多少连接能力的船舶，因为它们负担不起 VSAT，我们基本上可以为那些船舶配备星链海事服务。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 1768,
+      "textEn": "So I'm quite bullish on Enterprise, very bullish on government, and quite happy with the stickiness that we've seen in those, in those markets.",
+      "textZh": "所以我非常看好企业业务，极其看好政府业务，并且对我们在那些、那些市场中看到的黏性感到相当满意。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 1778,
+      "textEn": "Yeah, I'll just elaborate a little bit on that, which is that obviously in order to secure a large amount of enterprise revenue, you have to demonstrate and very high reliability, very high uptime. And in the early days, Starlink did not have high uptime. And there's a lot of enterprise customers, most enterprise customers, I'd say, that do that still have that maybe early Starlink experience where it was a little patchy. So we actually, we're building up a large enterprise sales team just to go out there, meet with Enterprise, you know, basically corporate and government customers, show them the incredible uptime and low latency of the Starlink system today so that they realized that they can actually treat Starlink as a primary provider, not sort of as a backup provider.",
+      "textZh": "是的，我再稍微详细说明一下，显然，要获得大量企业收入，你必须展示并非常高的可靠性、非常高的正常运行时间。在早期，星链的正常运行时间并不高。而且有很多企业客户，我想说是大多数企业客户，仍然留有那种或许是早期使用星链的体验，当时它有些断断续续。所以实际上，我们正在组建一支庞大的企业销售团队，就是为了走出去，与企业，你知道，基本上是公司和政府客户会面，向他们展示如今星链系统令人难以置信的正常运行时间和低延迟，从而让他们意识到，他们实际上可以把星链视为主要供应商，而不只是某种备用供应商。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 1833,
+      "textEn": "This requires just going out there, talking to people, educating them about the, you know, the currency of the styling system and where it's going. And I would expect Enterprise revenue to substantially exceed consumer revenue.",
+      "textZh": "这只需要走出去，与人交谈，让他们了解，你知道，造型系统的现状以及它的发展方向。我预计企业收入将大幅超过消费者收入。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Andrea Williams (Investor Relations) (00:30:52): Next question.",
+      "textZh": "安德里娅·威廉姆斯（投资者关系）（00:30:52）：下一个问题。"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Operator",
+      "startSec": 1852,
+      "textEn": "Operator, your next question comes from the line of Adam Jonas with Morgan Stanley. Your line is open. Please go ahead.",
+      "textZh": "接线员，您的下一个问题来自摩根士丹利的亚当·乔纳斯。您的线路已接通。请开始提问。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Analyst",
+      "startSec": 1860,
+      "textEn": "Thanks, Elon. First one for you. Just confirming you said you expect to be closer to 10 gigawatts of nameplate, compute by end of 27, closer to 10 than 5. Do you have line of sight? How confident is your line of sight on permitting chips and turbines for that? And then I have a follow up for Gwen. Thanks.",
+      "textZh": "谢谢，埃隆。第一个问题问你。只是确认一下，你说预计到27年底，铭牌算力将更接近10吉瓦，更接近10而不是5。你们对此是否已有清晰把握？对于相关的许可、芯片和涡轮机，你们的把握有多大？然后我还有一个问题要追问格温。谢谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 1883,
+      "textEn": "So we're actually aiming to far exceed that gigawatt number in terms of power online, power, cooling and electrical equipment. So our tentative target is to actually have 20 gigawatts at the power and cooling level online by the end of next year. Now, I don't think we're going to achieve 20 gigawatts, but we want to have a series of projects that cumulatively come to 20 gigawatts by the end of next year. Some of them won't pan out exactly on time, but I would expect that we still probably have at the, at the power plant level something close to 15 gigawatts. So assuming that, you know, maybe a quarter of the, of the, of the projects take longer than expected. So our goal is to have far More power, cooling, electrical equipment, then we have GPUs that, that's like logical thing to do given the relative expense of GPUs versus balance of system.",
+      "textZh": "所以实际上，就已上线的电力、电力、冷却和电气设备而言，我们的目标是远远超过那个吉瓦数字。所以我们的暂定目标实际上是，到明年年底，让电力和冷却层面上线20吉瓦。现在，我认为我们不会实现20吉瓦，但我们希望有一系列项目，到明年年底累计达到20吉瓦。其中一些不会完全按时实现，但我预计，在，在发电厂层面，我们可能仍会有接近15吉瓦。所以假设，你知道，也许四分之一的，的，的项目所花时间比预期更长。因此，我们的目标是拥有远远更多的电力、冷却和电气设备，然后我们有 GPU，那、那就像是合乎逻辑的事情，考虑到 GPU 相对于系统其余部分的费用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 1947,
+      "textEn": "SpaceX as a company is incredibly good at hardware. In fact, I'd say probably Outside of China, SpaceX and Tesla are the two best companies on earth at hardware. Yeah. And I think perhaps even, even including China, so, so we're taking a small amount of the expertise that we use for rockets and satellites and applying that to scaling terrestrial data centers. And we're finding that even a small amount of what we've learned building rockets, which are incredibly difficult applied to data centers, yields tremendous benefits. So yeah, we expect to have far in excess of the power and cooling that's needed. And then our understanding with Nvidia is that we will receive a very significant percentage of their GPUs next year.",
+      "textZh": "SpaceX作为一家公司，极其擅长硬件。事实上，我会说，可能在中国以外，SpaceX和Tesla是地球上最擅长硬件的2家公司。是的。而且我认为，也许即使，即使把中国包括在内也是如此，所以，所以我们正将我们用于火箭和卫星的一小部分专业知识应用于扩大地面数据中心的规模。我们发现，即便只把我们在制造火箭过程中学到的一小部分东西——火箭极其难造——应用到数据中心，也能带来巨大的收益。所以，是的，我们预计将拥有远超所需的电力和冷却能力。然后，根据我们与英伟达达成的谅解，明年我们将获得其GPU中非常大的一部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Analyst",
+      "startSec": 2007,
+      "textEn": "Okay, thanks, Elon. Gwen, just a follow up. You were recently asked what is one of the more underappreciated parts of the SpaceX investment story? And you said robotics. Can you elaborate on why you believe that? How do robots fit into the SpaceX? Tam? Thanks, Gwen.",
+      "textZh": "好的，谢谢，埃隆。格温，追问一个问题。最近有人问你，SpaceX投资故事中较未被充分认识的部分之一是什么？你说是机器人技术。你能详细说明为什么这样认为吗？机器人如何融入SpaceX？Tam？谢谢，格温。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 2029,
+      "textEn": "Let me try to put something together for you. I think what I might have said is underappreciating the amount of connectivity that we will need going forward. And I think robotics, especially robotics tied to AI, like for, for autos and humanoid robots, will dramatically increase the demand for connectivity. Dramatically. Elon talked about that in his, early in his remarks.",
+      "textZh": "让我试着为你组织一下。我想我当时可能说的是，人们低估了我们未来所需的连接量。而且我认为，机器人技术，尤其是与AI相结合的机器人技术，比如，比如用于汽车和人形机器人，将大幅增加对连接的需求。大幅增加。埃隆在他的，在发言开头谈到了这一点。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 2057,
+      "textEn": "I mean, you can think of our satellites as being robots. I mean they're autonomous and they do not need servicing. So. And then, you know, in the sort of what may seem the far future, but will come faster than you think, you know, using robots on the moon to scale up manufacturing on the moon, which it sounds like super sci fi right now, but it's going to happen, will enable us to build the mass accelerator on the moon. And if you have a mass accelerator on the moon and you have solar and radiator production on the moon, you can, I know this sounds totally nuts, but you can probably scale to a thousand times the economy of Earth in terms of intelligence launched to space, but probably maybe even a million times.",
+      "textZh": "我的意思是，你可以把我们的卫星看作机器人。我的意思是，它们是自主运行的，并且不需要维护。所以。然后，你知道，在那种看起来可能是遥远未来、但会比你想象中更快到来的情境中，你知道，利用月球上的机器人扩大月球制造业的规模——这现在听起来超级科幻，但它会发生——将使我们能够在月球上建造质量加速器。而如果你在月球上有质量加速器，并且在月球上有太阳能和散热器生产能力，你就可以，我知道这听起来完全疯了，但就发射到太空中的智能而言，你或许可以扩大到地球经济规模的1000倍，甚至可能达到100万倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 2113,
+      "textEn": "So we are going to land a lot of tonnage on the moon, we're going to build the factories on the moon. The robust will be helpful with that. And then it's like, well, how much intelligence would you like to as we grow towards being a Kardashev 2 scale civilization?",
+      "textZh": "所以我们将让大量吨位的东西在月球上着陆，我们将在月球上建造工厂。强健的东西会对此有所帮助。然后就像，那么，随着我们朝着成为卡尔达肖夫2级文明发展，你希望多少智能去……？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 2132,
+      "textEn": "Did that get that for you? Adam?",
+      "textZh": "那帮你弄明白那个了吗？亚当？",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Operator",
+      "startSec": 2140,
+      "textEn": "Your next question comes from the line of John Gauden with Citigroup. Your line is open. Please go ahead.",
+      "textZh": "下一个问题来自花旗集团的约翰·高登。您的线路已接通。请开始提问。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Analyst",
+      "startSec": 2148,
+      "textEn": "Hey, thanks for taking my question. One of the hallmarks of SpaceX to date is how efficiently the organization has used capital so far in its journey. But it's also no secret that the capital needs are significant to support your vision from here. Obviously the company's moving fast, so I was hoping you could talk a bit more about the CapEx outlook across the segments, touch upon any areas where buying versus building might accelerate growth. The mobile strategy obviously comes to mind there. And any related thoughts on capital needs for next steps in extreme vertical integration like tariff and anything that's needed to support future growth. Thanks.",
+      "textZh": "嗨，感谢接受我的提问。迄今为止，SpaceX 的标志性特点之一，是这家组织在发展历程中对资本的运用非常高效。但众所周知，要从现在开始支撑你们的愿景，资本需求也很庞大。显然，公司正在快速推进，所以我希望你们能更详细地谈谈各业务板块的资本支出展望，并谈及在哪些领域，购买而非自建可能会加速增长。显然，移动业务战略就是一个让人想到的例子。还有，对于关税等极端垂直整合后续步骤的资本需求，以及支持未来增长所需的任何事项，你们有何相关看法？谢谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Bret Johnsen (CFO) (00:36:27): Yeah, I appreciate the question. I think we are very proud of how we have managed capital allocation over the years, for sure. And you know, I think we are continuing down that path. Right. If you look at it, we have been very efficient to date and I think we'll continue to be. You know, if you look at the rest of this year, to answer specifically on CapEx, I think you should probably think that the next two quarters are very similar to the current quarter from a capex level perspective. But I do think, you know, as you look longer term, I think CapEx really, I think for our perspective is all. CapEx is not the same. Right. What we're seeing right now is a situation where we're able to deploy, specifically on the compute side, we're able to deploy capital in such a way that we're getting less than a one year payback. It's almost like your capital is becoming almost, you know, an item that you would put otherwise in cogs because it's moving so quickly as far as monetization and moving into revenue.",
+      "textZh": "布雷特·约翰森（首席财务官）（00:36:27）：好的，感谢这个问题。我认为，多年来我们在资本配置方面的管理方式确实令我们非常自豪。而且，你知道，我认为我们正在沿着这条道路继续走下去。对吧。如果你看一下，我们迄今为止一直非常高效，我认为我们会继续保持。你知道，具体回答资本支出的问题，如果你看今年余下的时间，我认为你大概应该预计，从资本支出水平来看，接下来的2个季度与本季度非常相似。但我确实认为，你知道，如果从更长期来看，我认为资本支出确实，我认为从我们的角度来看，全都。资本支出并不都一样。对吧。我们目前看到的情况是，我们能够投入资本，特别是在计算方面，我们能够以这样一种方式投入资本，使回收期不到1年。这几乎就像你的资本正在变成一种，你知道，否则你会计入销货成本的项目，因为就变现和转化为收入而言，它流转得非常快。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "Bret Johnsen (CFO) (00:37:29): That's different than I would say historically on the Space X level where, you know, we're building assets that are going to benefit us from launch sites for the next couple of decades. And so we certainly manage for, you know, optimizing ROI on our capital, you know, all the time from that perspective.",
+      "textZh": "布雷特·约翰森（首席财务官）（00:37:29）：我想说，这与 SpaceX 层面以往的情况不同；你知道，我们正在建设一些资产，这些资产将在未来几十年里从发射场让我们受益。因此，从这个角度来看，你知道，我们当然一直都在进行管理，以优化资本回报率。"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 2267,
+      "textEn": "Yeah, I'll add a little bit to that. As Brett mentioned, we are expecting to reach 100 billion plus ARR in December of this year. And it's probably also worth mentioning that our internal projections for reaching $1 trillion in revenue, not ARR, but revenue, have moved up from 2031 to 2030. So prior to the IPO, the financial projections we had were reaching a trillion dollars in revenue in 2031. We now expect that to be in 2030. And there's a non zero chance of that being in 2029.",
+      "textZh": "是的，我再补充一点。正如布雷特提到的，我们预计今年12月的 ARR 将达到1000亿以上。可能还值得一提的是，我们内部对于营收达到1万亿美元的预测时间，注意不是 ARR，而是营收，已经从2031年提前到了2030年。因此在 IPO 之前，我们的财务预测是营收将在2031年达到1万亿美元。现在我们预计将在2030年实现。而且也存在不为零的可能性，会在2029年实现。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Operator",
+      "startSec": 2310,
+      "textEn": "Your next question comes from the line of Ronald Epstein with Bank of America. Your line is open. Please go ahead.",
+      "textZh": "下一个问题来自美国银行的罗纳德·爱泼斯坦。您的线路已接通。请开始提问。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Analyst",
+      "startSec": 2318,
+      "textEn": "Yeah, hey, good evening everybody. Could you walk through what you learned on Starship launch 13? You know, what was better than expected, you know, what was worse. And then, you know, how do we think about this in the journey to kind of rapid reusability, the heat shields, so on and so forth?",
+      "textZh": "好的，嗨，大家晚上好。您能否详细介绍一下你们从星舰第13次发射中学到了什么？就是，哪些方面好于预期，哪些方面更差。然后，我们应该如何看待这次发射对实现某种快速重复使用、隔热罩等等的历程有何意义？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 2339,
+      "textEn": "Sure. So the, yeah, actually Flight 13, I was a little worried about that Flight 13, you know, because you think of Apollo 13 like things went wrong on that flight, you know, but this actually, this flight actually went incredibly well. The heat shield appears to be very robust. The ship is still floating in the ocean. And we expect to recover the ship and bring it back for analysis. So I would say things look, look very good.",
+      "textZh": "当然。那么，呃，实际上是第13次飞行，我对第13次飞行有点担心，因为你会想到阿波罗13号，那次飞行出了问题，你知道，但实际上，这次飞行进行得非常顺利。隔热罩似乎非常坚固。飞船仍然漂浮在海上。我们预计会回收飞船，并将其带回来进行分析。所以我会说，情况看起来，看起来非常好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 2371,
+      "textEn": "And that's why we, assuming we receive regulatory approval to do so, we'll attempt to catch the ship with the tower on the next flight, which is tentatively scheduled for the end of this month. We expect the cadence of flights to be increasing rapidly. And probably a year from now, we will be doing at least one flight a day, possibly more.",
+      "textZh": "正因为如此，假设我们获得相关监管批准，我们将在下一次飞行中尝试用发射塔捕获飞船，下一次飞行暂定于本月底进行。我们预计飞行频率将迅速提高。大概从现在起1年后，我们将每天至少飞行1次，也可能更多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Operator",
+      "startSec": 2403,
+      "textEn": "Your next question comes from the line of Doug Anmuth with JP Morgan. Your line is open. Please go ahead.",
+      "textZh": "下一个问题来自摩根大通的道格·安穆斯。您的线路已接通。请开始提问。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Analyst",
+      "startSec": 2411,
+      "textEn": "Thanks so much for taking the questions. Elon. Can you elaborate on the key unlocks from leveraging your rockets and satellite expertise just in accelerating the, the pace of compute build out and then totally appreciate the $6.7 billion in incremental compute deals? Can you talk more about just how you expect the supply demand environment to persist going forward and whether you'll be able to keep this kind of premium pricing for these deals and sustainability. Thanks.",
+      "textZh": "非常感谢接受提问。埃隆。您能否详细谈谈，利用你们在火箭和卫星方面的专业能力，在加快算力建设速度方面带来了哪些关键突破，然后我们完全理解新增的67亿美元算力交易。您能否进一步谈谈，您预计未来的供需环境将如何持续，以及你们能否为这些交易维持这种溢价定价及其可持续性。谢谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 2446,
+      "textEn": "Sure. Well, you know, as the saying goes, you know, they would say like, this ain't rocket science. Well, actually, rocket science is literally our daily business. And you know, rocket science is a idiomatic expression for extreme technological difficulty. And there's a reason for it because the thing, let me tell you what rockets desperately want to do. Every flight, they desperately want to blow themselves into tiny pieces. And then the engineering struggle is to convince the rocket not to blow itself into tiny pieces and actually deliver payload to orbit. But you'll note that, you know, some of our competitors do in fact blow their rockets up. This is not a reflection on their, this does not mean they're, they're incapable. In fact, I think our competitors are very smart people. But despite being very smart, the rockets still blow up.",
+      "textZh": "当然。嗯，你知道，俗话说，人们会说，这又不是火箭科学。嗯，实际上，火箭科学确实就是我们的日常业务。你知道，“火箭科学”是一种表示技术难度极高的惯用说法。这是有原因的，因为这个东西，让我告诉你火箭拼命想做什么。每次飞行，它们都拼命想把自己炸成微小碎片。然后工程上的斗争就是要说服火箭不要把自己炸成微小碎片，而是真正将有效载荷送入轨道。但你会注意到，我们的一些竞争对手事实上确实把自己的火箭炸掉了。这并不说明他们的……这并不意味着他们，他们没有能力。事实上，我认为我们的竞争对手都是非常聪明的人。但尽管非常聪明，火箭仍然会爆炸。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 2495,
+      "textEn": "So now if you apply a small amount of the engineering skill that goes into making gigantic rockets reach orbit on a regular basis reliably to terrestrial data centers. This is like frankly the Yankees, New York Yankees going in and playing a little league team. And it's kind of ridiculous. Frankly. The terrestrial data centers are a trivial problem compared to making gigantic reusable rockets and which are launched frequently. And the Starlink satellites also are like alien level technology.",
+      "textZh": "所以现在，如果你把让巨型火箭定期、可靠地进入轨道所需的工程能力拿出一小部分，应用于地面数据中心。坦率地说，这就像扬基队，纽约扬基队，下场去和少年棒球队比赛。这实在有点荒谬。坦率地说，与制造巨型可重复使用火箭相比，地面数据中心是一个微不足道的问题，而且这些火箭还要频繁发射。星链卫星也像是外星文明级别的技术。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 2540,
+      "textEn": "There's still nothing that compares to our Starlink V2 satellites. And our V3 satellites are really more than an order of magnitude better than our V2 satellites. So you take a small percentage of that engineering applied to terrestrial data centers and you get an amazing outcome. So that's what we're seeing.",
+      "textZh": "目前仍然没有任何东西能与我们的星链 V2 卫星相比。而我们的 V3 卫星确实比 V2 卫星好不止一个数量级。所以，把那种工程能力的一小部分应用于地面数据中心，你就会得到惊人的成果。这就是我们现在所看到的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Analyst",
+      "startSec": 2563,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 2564,
+      "textEn": "Now, from a monetization standpoint, If you say like, what's my best guess for monetization per Watt of say Rubens? My guess is would be somewhere between 30 and $50. This is just a guess. I'm just, you know, take a guess as a guess. But, but what we're, obviously what we're seeing with AI is that the intelligence per watt is increasing rapidly. So that means the usefulness per watt is increasing rapidly. And I think anyone who's a close follower of the AI arena, you start seeing smaller and smaller models do more and more amazing things.",
+      "textZh": "现在，从变现角度来看，如果你问，比如，对于 Rubens 每瓦的变现能力，我最合理的猜测是什么？我的猜测是大概在30美元到50美元之间。这只是一个猜测。我只是，你知道，把猜测当作猜测。但是，但是我们在 AI 领域明显看到的是，每瓦产生的智能正在迅速提高。这意味着每瓦的有用性正在迅速提高。而且我认为，任何密切关注 AI 领域的人都会开始看到，越来越小的模型能够完成越来越多令人惊叹的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 2614,
+      "textEn": "There's an argument that we may get to the point where even an H100 is able to deliver useful AI that's comparable to a human engineer. Based on current trends, I think that's not an impossible outcome. So then it's like, how useful would that be? I think the usefulness that would be is going to be extremely high. I mean, if you think of like, where was AI 12 months ago? I mean, this is 12 months ago would have been always last year. That would have been before the advent of Claude 4.5, which I think should be considered one of the milestones and a credit to Anthropic. You know, it was, I would say a shock to the system was how good Cloud 4.5 was.",
+      "textZh": "有一种观点认为，我们可能会达到这样一个阶段，即使是 H100 也能够提供可与人类工程师相媲美的实用 AI。根据目前的趋势，我认为这并非不可能的结果。那么，这会有多大用处？我认为它的有用性将会极高。我的意思是，如果你想想，比如12个月前 AI 处于什么水平？我的意思是，12个月前本来一直会是去年。那是在 Claude 4.5 问世之前，我认为它应该被视为一个里程碑，这要归功于 Anthropic。你知道，我会说，Cloud 4.5 的出色程度给整个体系带来了冲击。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 2668,
+      "textEn": "And that was, you know, 10 months ago, basically. And if you say what about an AI two years ago? I think, well, an AI two years ago feels like something that should be in a museum, okay. Where you're like, you're not going to believe this, but two years ago this was AI, this relic. So I think by the end of next year, it's not clear to me that there's anything that digital at least that AI won't be able to do based on the current rate of improvement.",
+      "textZh": "而那基本上是，你知道，10个月前的事了。如果你问2年前的 AI 呢？我认为，嗯，2年前的 AI 感觉就像应该摆进博物馆的东西，好吧。你会说，你不会相信，但2年前这就是 AI，这件遗物。所以我认为，按照目前的改进速度，到明年年底，我不确定是否还有任何事情，至少是数字领域的事情，是 AI 无法完成的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 2707,
+      "textEn": "Then look at the rate at which logic and memory is being produced. And one must always consider the limiting factor here. Limiting factor currently is memory. The memory, Memory output is increasing by around 20% per year. Now normally that would be fantastically fast and amazing for any large mature industry. But ask yourself, is the Demand increasing by 20% a year? No, the demand is increasing by 200% a year, maybe higher.",
+      "textZh": "然后看看逻辑和内存的生产速度。而且必须始终考虑这里的限制因素。目前的限制因素是内存。内存，内存产量每年增长约20%。通常来说，对于任何大型成熟行业，这都会是快得惊人、令人惊叹的速度。但问问你自己，需求每年增长20%吗？不是，需求每年增长200%，也许更高。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 2746,
+      "textEn": "So if you've got demand increasing much faster than Supply, then Economics 101 would suggest that the price increases. It does not decrease.",
+      "textZh": "所以，如果需求增长速度远远超过供应，那么经济学101会告诉你，价格会上涨。不会下降。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Operator",
+      "startSec": 2763,
+      "textEn": "Your next question comes from the line of Edison Yu with Deutsche Bank. Your line is open. Please go ahead.",
+      "textZh": "下一个问题来自德意志银行的爱迪生·余。您的线路已接通。请开始提问。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Analyst",
+      "startSec": 2771,
+      "textEn": "Good evening. Thank you for taking our question. Wanted to come back on the comment about the 100 billion in AR. Is there any way you can unpack that a little bit and perhaps kind of what it takes to get there? And in relation to that, Elon, I know you mentioned you pulled the revenue target forward by year. Can you maybe call out maybe a few things that, that gave you this, this extra confidence? Thank you.",
+      "textZh": "晚上好。感谢接受我们的提问。我想回到关于 AR 达到1000亿的那条评论。你们能否以某种方式稍微拆解一下，也许谈谈要达到这一目标需要什么？与此相关的是，埃隆，我知道您提到把营收目标提前了年份。您能否具体指出，也许有几件事，让您有了这种，这种额外的信心？谢谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "Bret Johnsen (CFO) (00:46:41): Well, on the unpacking, I think that the key there is it's really growth in all three of the business segments. But the biggest piece is, and we already talked about, you know, additional business we've already closed in the, the first couple of weeks of, of July on the, the AI cloud services side. But certainly, as you know, we, we've already announced some previous deals with Google and Anthropic that start to ramp either later this quarter or in October. And so there's a lot of momentum from that side of the business as well as we're seeing strength in our own models and cursor coming into the fold as well. So it's really all three segments that are driving that. But the cloud services piece being the largest contributor of that piece.",
+      "textZh": "布雷特·约翰森（首席财务官）（00:46:41）：嗯，关于拆解，我认为其中的关键在于，这实际上是3个业务板块都在增长。但最大的一块是，而且我们已经谈到过，你知道，在7月最初的两周，我们已经在 AI 云服务方面敲定了更多业务。但当然，如你所知，我们，我们已经宣布了此前与 Google 和 Anthropic 达成的一些交易，这些交易将在本季度晚些时候或10月开始加速。因此，这部分业务有很强的势头，同时我们也看到自有模型表现强劲，而且 Cursor 也加入了进来。所以实际上是所有3个板块都在推动这一增长。但云服务部分是其中最大的贡献者。"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 2852,
+      "textEn": "Yes, like to be clear that the 100 billion ARR in December is not a question mark. That's what we'd achieve if we basically did nothing. So like, you know, so I think it may be higher than that. It probably will be higher than that. The, you know, I think in terms of the relative percentage of, you know, breakdown of like what revenue generates, what I think the breakdown is probably similar to what we shared pre ipo. It's just happening a year sooner.",
+      "textZh": "是的，需要明确的是，12月达到1000亿ARR并不是一个问号。那是我们基本上什么都不做也能实现的水平。所以，就像，你知道，所以我认为它可能会高于这个数字。它很可能会高于这个数字。这个，你知道，我认为，就各种收入来源的相对百分比构成而言，我认为其构成可能与我们在IPO前分享的情况类似。只是提前了1年发生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 2892,
+      "textEn": "And I will go back to what I said and what Gwen and Brett mentioned earlier, which is that we do expect a very rapid increase in revenue from Starlink communications from the V3 satellite because like I said, it's more than 10 times the capability of the V2 satellite. And we'll be launching 10 times as many and we have the direct to cell constellation going up as well. So you know. So some of you are looking at the sort of historical growth of starLink based on V2, but we have a step change, a massive step change happening with the V3 satellite.",
+      "textZh": "我要再回到我说过的话，以及格温和布雷特之前提到的内容，也就是我们确实预计，由于V3卫星，星链通信业务的收入将非常迅速地增长，因为正如我所说，它的能力是V2卫星的10倍以上。而且我们将发射10倍数量的卫星，我们的手机直连星座也在部署中。所以，你知道。所以你们有些人正在根据V2来看星链的这种历史增长，但随着V3卫星，我们正在迎来一次阶跃式变化，一次巨大的阶跃式变化。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Operator",
+      "startSec": 2943,
+      "textEn": "Your next question comes from the line of John Hodelick with ubs. Your line is open. Please go ahead.",
+      "textZh": "下一个问题来自瑞银的约翰·霍德利克。您的线路已接通。请开始提问。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Analyst",
+      "startSec": 2951,
+      "textEn": "Great, thank you. Two things first, Elon, just following up on that comment on Starlink Mobile. When do you expect to start launching the V2s? Can you talk about your appetite for additional spectrum after the EchoStar deal? And then just how big do you think that the opportunity is in mobile? And if you could compare that to the broadband business, that would be great. And then secondly, just a quick follow up on the compute. Looks like you have a big ramp in compute coming in 2027. How should we think of that capacity being leased versus used to train Grok? I guess in other words, how much of that has to be withheld to train drop versus that can be leased out to third parties? Thanks.",
+      "textZh": "很好，谢谢。先问2件事，埃隆，首先追问一下关于星链移动业务的那番评论。你们预计什么时候开始发射V2？在EchoStar交易之后，你能谈谈你们对额外频谱的需求意愿吗？然后，你认为移动业务的机会到底有多大？如果你能将它与宽带业务进行比较，那就太好了。其次，快速追问一下算力。看起来你们的算力将在2027年大幅提升。对于这些容量中出租的部分与用于训练Grok的部分，我们应该如何看待？换句话说，我想问的是，其中有多少必须保留下来用于训练drop，而不是可以出租给第三方？谢谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 2994,
+      "textEn": "I'll go ahead and take the Starlink Mobile questions, John we're going to start flying the next generation Starlink mobile satellite. It's confusing. It's actually the second version as opposed to the V3, which is the broadband next generation broadband satellite. We're going to start flying those next year. And just so you understand, currently the system that we're operating uses about 5 MHz of bandwidth and we operate that through local telco providers. We have 65 MHz of bandwidth available to us through the EchoStar spectrum which gives massive increase in capability. Another way to look at it is we were also probably 10x the number of satellites. So we simplifying, you could look at the Starlink Mobile leveraging the next generation satellite and the EchoStar spectrum as being 100 times better, 10 times 10 better than what we've got right now. And it's a pretty decent service. You can do voice and video calls over signal and WhatsApp.",
+      "textZh": "我来回答星链移动业务的问题，约翰，我们将开始发射下一代星链移动卫星。这有点容易混淆。它实际上是第2个版本，与V3不同，V3是下一代宽带卫星。我们将在明年开始发射那些卫星。为了让大家了解，目前我们运营的系统使用约5 MHz的带宽，而且我们通过当地电信运营商来运营。通过EchoStar的频谱，我们有65 MHz的带宽可供使用，这会大幅提升能力。另一种理解方式是，我们的卫星数量可能也会达到10倍。所以简化来说，你可以把利用下一代卫星和EchoStar频谱的星链移动业务看作比我们现在拥有的服务好100倍，也就是10倍乘以10倍。而且现在的服务已经相当不错。你可以通过Signal和WhatsApp进行语音和视频通话。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 3067,
+      "textEn": "So we anticipate really strong uptake of that capability as far as revenue. Like I'm just going to take a very high level kind of top down the big three in the United States at and T Verizon and T Mo roughly between them $600 billion a year. And I anticipate us to be able to acquire quite a few of their customers because I think our service will be better. We will eliminate dead zones leveraging basically the satellites in orbit. It'll be better during any sort of natural disaster because surprisingly, even though space movies make space look super dangerous is a pretty quiescent environment.",
+      "textZh": "因此，就营收而言，我们预计这项能力会得到非常强劲的采用。我只想非常高层次地、自上而下地看一下美国的3大运营商：AT&T、Verizon 和 T-Mobile，它们加起来每年大约有6000亿美元。我预计我们能够争取到它们相当多的客户，因为我认为我们的服务会更好。我们将基本上利用在轨卫星消除无信号区。在任何形式的自然灾害期间，它也会表现得更好，因为令人惊讶的是，尽管太空电影把太空描绘得极其危险，但它其实是一个相当平静的环境。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 3113,
+      "textEn": "And so I'm quite excited about Starlink Mobile going forward. We will start to fly the satellites next year and we will start providing service end of next year. Yeah, Jeff, you're next.",
+      "textZh": "因此，我对星链移动业务未来的发展感到非常兴奋。我们将于明年开始发射这些卫星，并将在明年年底开始提供服务。好的，杰夫，下一个是你。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 3126,
+      "textEn": "I guess I should elaborate on. We obviously have more than one question being asked here. But the, you know, obviously if somebody's trying to create a financial model, some of these questions are you have to plug them in, plug in some number here. So for GROK training we do expect the percentage of compute that we use internally for GROK training to decrease over time and to have far more of the compute used for inference or to, you know, for renting training inference compute to others. So I would expect maybe, you know, 10% of our compute to be used for GROK training. Something like that.",
+      "textZh": "我想我应该详细说明一下。显然，这里问了不止一个问题。但是，你知道，显然如果有人试图建立一个财务模型，其中一些问题是你必须把它们填进去，在这里填入某个数字。因此，对于 Grok 训练，我们确实预计，我们内部用于 Grok 训练的算力占比会随时间下降，而更多得多的算力将用于推理，或者，你知道，用于向其他人出租训练和推理算力。因此，我预计可能，你知道，我们10%的算力会用于 Grok 训练。大概如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Operator",
+      "startSec": 3168,
+      "textEn": "Your next question comes from the line of Catgun Marl with Evercore isi. Your line is open. Please go ahead.",
+      "textZh": "下一个问题来自 Evercore ISI 的 Catgun Marl。您的线路已接通，请开始提问。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Analyst",
+      "startSec": 3177,
+      "textEn": "Good afternoon and thanks for taking the question. I had a follow up on Starlink Mobile and your ambitions in the US market in particular, I think a lot of us are trying to better understand what a US direct to consumer service could look like. To become a true fourth US carrier would imply well over 100 billion of mobile capex over time, much of it auction spectrum, greenfield infrastructure. So how are you weighing that potential build plan against an MVNO or acquisition path? And what's your internal base case on how far you'll take this ambition? Or is this all a little bit too premature at this point? Thank you.",
+      "textZh": "下午好，感谢接受提问。我想追问一下星链移动业务，尤其是你们在美国市场的雄心。我想我们很多人都在试图更好地理解，美国直接面向消费者的服务会是什么样子。要成为真正的美国第4家运营商，意味着长期来看移动业务资本开支将远超1000亿，其中很大一部分是拍卖频谱和全新基础设施。那么，与采用 MVNO 或收购路径相比，你们如何权衡这个潜在的建设计划？对于你们会将这一雄心推进到什么程度，你们内部的基准情景是什么？还是说，现阶段讨论这一切都有点为时过早？谢谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 3217,
+      "textEn": "The spectrum that we purchased from EchoStar does have terrestrial components. So we definitely intend to build out terrestrial. The terrestrial component. So you will have not only the capacity from the satellites themselves, but you will have a build out of the terrestrial basically the hardware and systems necessary to make a true mobile service exactly what you want it to be. I'm not going to talk about the capex for that. It's a little, well, I don't want to say it's immature. I'm just going to say I'm not going to talk about the capex for that right now. But let's talk a little. Let me give a little hint and that is you could put a base station, a cellular base station on the basically the gear that holds a Starlink broadband dish so you can have kind of these little femtocells around the country and you deploy that as you need it. You don't have to necessarily spend 10 or many billions of dollars in low band spectrum all upfront before you deploy your system.",
+      "textZh": "我们从 EchoStar 购买的频谱确实包含地面部分。因此，我们肯定打算建设地面网络。地面部分。因此，你们不仅会拥有来自卫星本身的容量，还会建设地面网络，基本上就是让真正的移动服务完全达到你所期望状态所必需的硬件和系统。我不会谈这方面的资本开支。这有点，嗯，我不想说它还不成熟。我只想说，我现在不会谈这方面的资本开支。但我们稍微谈一点。我来透露一点，那就是你可以在基本上用于固定星链宽带天线的设备上安装一个基站，一个蜂窝基站，这样你就可以在全国各地设置这种小型毫微微蜂窝，并根据需要进行部署。在部署系统之前，你不一定非得预先花费100亿美元或数百亿美元购买低频段频谱。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 3288,
+      "textEn": "So that's why I don't want to talk about the CAPEX for building out the terrestrial because we have a lot of really kind of great and new ideas for how we're going to do that and I think it will be quite CAPEX efficient.",
+      "textZh": "所以这就是为什么我不想谈建设地面网络的资本开支，因为关于我们将如何建设，我们有很多确实很棒、很新颖的想法，而且我认为它在资本开支方面会相当高效。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 3301,
+      "textEn": "Yeah, that point is probably worth just a few more words, which is that because this is quite an important point, you know, instead of having to deploy these very expensive and difficult to locate large cellular base stations, we feel reasonably confident that we can deploy a large number of sort of small stations. Essentially they're really just Starlink dishes that also provide connectivity in the mobile spectrum bands antennas and have them be all over the place.",
+      "textZh": "是的，这一点可能值得再多说几句，因为这是相当重要的一点。你知道，我们不必部署这些非常昂贵而且难以选址的大型蜂窝基站，我们相当有信心能够部署大量某种小型基站。本质上，它们其实只是星链天线，同时也通过移动频谱频段的天线提供连接，并让它们遍布各地。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 3338,
+      "textEn": "And the Starlink antennas are located on the roofs of houses and businesses. So they're, you know, it's that they've got sort of a clear view to, you know, for providing connectivity directly to the cell, to cell phones on the ground and in fact providing connectivity that is, we think probably better and higher bandwidth than what is currently available from cellular providers.",
+      "textZh": "而星链天线位于住宅和企业的屋顶上。所以它们，你知道，也就是说，它们有某种清晰的视野，你知道，可以直接向地面上的蜂窝、向手机提供连接，而且事实上，我们认为其提供的连接可能比蜂窝运营商目前所能提供的更好、带宽更高。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 3366,
+      "textEn": "This is an important point.",
+      "textZh": "这是很重要的一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "Andrea Williams (Investor Relations) (00:56:11): Thank you. With the remaining time, we would like to cover some of the questions from individual shareholders. I will read them aloud. We got a lot of questions on the progress for Starship human landing system. Can we provide any updates",
+      "textZh": "安德烈娅·威廉姆斯（投资者关系）（00:56:11）：谢谢。利用剩余时间，我们想回答一些个人股东提出的问题。我会把它们大声读出来。我们收到了很多关于星舰载人着陆系统进展的问题。我们能否提供任何最新进展"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 3388,
+      "textEn": "for Starship? Well, obviously we need to make Starship super reliable for satellites before we put any people on board. But we are expecting to have a very high launch rate and thus achieve a level of safety needed for humans very quickly, probably by the end of next year.",
+      "textZh": "关于星舰？嗯，显然，在让任何人登上星舰之前，我们需要先让星舰在执行卫星任务时达到极高的可靠性。但我们预计将实现非常高的发射频率，从而很快达到载人所需的安全水平，可能到明年年底。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 3413,
+      "textEn": "As far as the milestones go, propellant transfer in orbit is critical to our both our internal SpaceX as well as our HLS ambitions. Artemis III mission is next year. That's where we will dock with the Orion spacecraft. We will follow that up with a direct to lunar cargo mission uncrewed and.",
+      "textZh": "就里程碑而言，在轨推进剂转移对我们的、我们 SpaceX 内部的目标以及 HLS 目标都至关重要。阿耳忒弥斯 III 任务是在明年。届时我们将与猎户座飞船对接。之后，我们将执行一次无人、直飞月球的货运任务，并且。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 3438,
+      "textEn": "And then",
+      "textZh": "然后",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Gwynne Shotwell",
+      "startSec": 3440,
+      "textEn": "we want to put boots on the ground, boots on the moon in 2028.",
+      "textZh": "我们希望在 2028 年让人类踏上地面，踏上月球。",
+      "speakerZh": "格温·肖特韦尔"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "Andrea Williams (Investor Relations) (00:57:28): For the cursor acquisition. There were several questions asking about the combined product roadmap for the companies once it closes.",
+      "textZh": "安德里亚·威廉姆斯（投资者关系）（00:57:28）：关于收购 Cursor。有几个问题询问交易完成后这些公司的合并产品路线图。"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 3461,
+      "textEn": "I think we'll leave that to,",
+      "textZh": "我想我们会把这个留到，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Analyst",
+      "startSec": 3466,
+      "textEn": "we'll",
+      "textZh": "我们会",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 3466,
+      "textEn": "probably make some announcement or discussion of that outside of the earnings call. But we don't want to jump the gun on regulators for the closing acquisition. So we're trying to get the acquisition closed as quickly as possible. I think we're pretty close to that. But we have to be wary of sort of jumping the gun on regulatory closures.",
+      "textZh": "可能会在财报电话会议之外发布一些公告或进行讨论。但在收购交易完成这件事上，我们不想抢在监管机构前面。所以我们正努力尽快完成收购。我认为我们已经相当接近了。但我们必须谨慎，避免在监管审批完成前抢先行动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "Andrea Williams (Investor Relations) (00:58:08): Next question from the individual shareholders. Once you start launching broadband v3 satellites, how quickly will they translate into improved Starlink service?",
+      "textZh": "安德里亚·威廉姆斯（投资者关系）（00:58:08）：下一个问题来自个人股东。一旦你们开始发射宽带 v3 卫星，它们需要多长时间才能转化为星链服务的改善？"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 3500,
+      "textEn": "So we need some critical mass of B3 satellites, probably at least on the order of about 1,000, but probably that's, you know, I mean, approximately second quarter next year would be, I think, where we'd get to that point.",
+      "textZh": "所以我们需要形成一定临界规模的 B3 卫星，可能至少要达到约 1,000 颗的量级，不过大概，你知道，我是说，我认为明年第二季度左右我们会达到那个节点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "Andrea Williams (Investor Relations) (00:58:45): And our last question is the heat shield, the hardest remaining problem for starship.",
+      "textZh": "安德里亚·威廉姆斯（投资者关系）（00:58:45）：最后一个问题是，隔热罩，星舰剩余的最棘手问题。"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 3533,
+      "textEn": "Look, I don't want to jinx it or anything, but I think I'd consider the heat shield problem solved. At this point, we want to take a close look at the ship that is currently floating in the ocean. But all indications from data and a visual inspection suggest that we have solved the heat shield problem, which is arguably the single biggest problem. That doesn't mean we won't make improvements to the heat shield. Of course we'll make. We'll continue to make improvements to the heat shield, but I would say that we do not see any technical obstacles at this point to achieving full and rapid reusability.",
+      "textZh": "听着，我不想把话说出来反而坏事之类的，但我认为隔热罩问题已经解决了。目前，我们想仔细查看一下现在正漂浮在海洋里的飞船。但数据和目视检查的所有迹象都表明，我们已经解决了隔热罩问题，而这可以说是最大的单一问题。这并不意味着我们不会改进隔热罩。我们当然会做。我们将继续改进隔热罩，但我想说，目前我们看不到任何阻碍实现完全且快速重复使用的技术障碍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "Andrea Williams (Investor Relations) (00:59:47): Thank you. This concludes today's call. You can reach us@ir.SpaceX.com and we will see you next quarter. Cheers.",
+      "textZh": "安德里亚·威廉姆斯（投资者关系）（00:59:47）：谢谢。今天的电话会议到此结束。您可以通过 us@ir.SpaceX.com 联系我们，我们下个季度再见。干杯。"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Operator",
+      "startSec": 3596,
+      "textEn": "This concludes today's call. Thank you for attending. You may now disconnect.",
+      "textZh": "今天的电话会议到此结束。感谢参加。您现在可以断开连接了。",
+      "speakerZh": "接线员"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T05:48:38.406Z",
+    "reviewedAt": "2026-09-13T06:09:55.572Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:22.368Z",
+  "transcriptSource": "https://x.com/i/broadcasts/1XxyggqBZZRGM",
+  "sourceHash": "c22d957638c8f277b38c8d87af1f37419184184da2d76f988c19a74c4ffdfce4"
+}

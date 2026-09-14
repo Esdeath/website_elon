@@ -1,0 +1,734 @@
+{
+  "id": "asilomar-ai-superintelligence-panel-2017-01-30",
+  "slug": "asilomar-ai-superintelligence-panel-2017-01-30",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2017-01-30",
+  "titleEn": "Asilomar AI: Superintelligence Panel",
+  "titleZh": "阿西洛马 AI：超级智能小组讨论",
+  "summaryEn": "Musk joins Bostrom, Hassabis, Kurzweil, Russell and Harris on a Future of Life Institute panel debating the risks and timeline of superintelligent AI.",
+  "summaryZh": "Musk 与 Bostrom、Hassabis、Kurzweil、Russell 和 Harris 一同参加未来生命研究所的小组讨论，探讨超级智能 AI 的风险和时间线。",
+  "sourceUrl": "https://www.youtube.com/watch?v=h0962biiZa4",
+  "sourceLabel": "Future of Life Institute",
+  "archiveUrl": "https://elonmuskarchive.org/video/asilomar-ai-superintelligence-panel-2017-01-30",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/h0962biiZa4",
+  "thumbnailUrl": "https://i.ytimg.com/vi/h0962biiZa4/hqdefault.jpg",
+  "durationSec": 3615,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "I'm going to ask a question, but you can only answer by saying either 'yes,' 'no,' or 'it's complicated.' Alright? So, let's start over here. Is some form of superintelligence possible, Jaan? 'Yes,' 'no,' or 'it's complicated.' Yes. Definitely. No. Well, this was disappointing, we didn't find any disagreement. Let's try harder. Just because it's possible doesn't mean that it's actually going to happen.",
+      "textZh": "我要问一个问题，但你只能回答“是”“否”或“这很复杂”。好吗？那么，我们从这边开始。某种形式的超级智能是否可能实现，Jaan？“是”“否”或“这很复杂”。是。肯定可能。不。嗯，这真令人失望，我们没有发现任何分歧。让我们再努力一点。仅仅因为它有可能，并不意味着它真的会发生。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "So, before I asked if superintelligence was possible at all according to the laws of physics. Now, i'm asking, will it actually happen? A little bit complicated, but yes. Yes, and if it doesn't then something terrible has happened to prevent it. Yes. Probably. Yes. No. Shucks, still haven't found any interesting disagreements. We need to try harder still. OK.",
+      "textZh": "所以，刚才我问的是，根据物理定律，超级智能究竟是否可能实现。现在，我要问的是，它真的会发生吗？有点复杂，但会。会，而且如果没有发生，那就是发生了某种可怕的事情阻止了它。会。可能会。会。不会。糟糕，还是没有发现任何有意思的分歧。我们还得更加努力。好。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "So, you think it is going to happen, but would you actually like it to happen at some point? Yes, no, or it's complicated? Complicated, leaning towards yes. It's complicated. Yes. It's really complicated. Yes. It's complicated. Very complicated. Well, heck, I don't know. It depends on which kind. Alright, so it's getting a little bit more interesting. When I think, we had a really fascinating... When is it going to happen?",
+      "textZh": "所以，你认为它会发生，但你真的希望它在某个时候发生吗？是、否，还是这很复杂？很复杂，倾向于是。很复杂。是。真的很复杂。是。很复杂。非常复杂。嗯，见鬼，我不知道。取决于是哪一种。好，所以现在开始变得有意思一点了。当我想，我们进行了一场非常精彩的……它什么时候会发生？"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "Well, we had a really fascinating discussion already in this morning's panel about when we might get to human level AI. So, that would sort of put a lower bound. In the interest of time, I think we don't need to rehash the question of when going beyond it might start. But, let's ask a very related question to the one that just came up here.",
+      "textZh": "嗯，我们今天上午的小组讨论已经进行了一场非常精彩的讨论，探讨我们什么时候可能达到人类水平的 AI。所以，那算是设定了一个下限。考虑到时间，我认为我们不需要重新讨论什么时候可能开始超越这个水平的问题。不过，让我们问一个与刚才这里提出的问题密切相关的问题。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Mainly, the question of well if something starts to happen, if you get some sort of recursive self improvement or some other process whereby intelligence and machines start to take off very very rapidly, there is always a timescale associated with this. And there I hope we can finally find some real serious disagreements to argue about here.",
+      "textZh": "主要是这样一个问题：嗯，如果某件事开始发生，如果出现某种递归式自我改进，或某种其他过程，使智能和机器开始极其、极其迅速地起飞，那么它总会有一个与之相关的时间尺度。而我希望我们最终能在这里找到一些真正严重的分歧来争论。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "Some people have been envisioning this scenario where it goes PHOOM and things happen in days or hours or less. Whereas, others envision that it will happen but it might take thousands of years or decades. So, if you think of some sort of doubling time, some sort of rough timescale on which things get dramatically better, what time scale would you guess at, Jaan? Start now or starting at human level?",
+      "textZh": "有些人一直在设想这样一种情景：它会“砰”地一下，事情在几天、几小时甚至更短时间内发生。而另一些人则设想，它会发生，但可能需要数千年或数十年。所以，如果你考虑某种倍增时间，也就是事物显著改善的大致时间尺度，你会猜是什么时间尺度，Jaan？从现在开始算，还是从人类水平开始算？"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "No, no, so once we get human level AI or whatever point beyond there or a little bit before there where things actually start taking off, what is the sort of time scale? Any explosion, as a nerdy physicist, has some sort of time scale, right, on which it happens. Are we talking about seconds, or years, or millennia? I'm thinking of years, but it is important to act as if this timeline was shorter.",
+      "textZh": "不，不，是一旦我们获得人类水平的 AI，或者超过那个水平后的某个点，又或者略早于那个水平、事情真正开始起飞的某个点，它会是怎样的时间尺度？作为一个书呆子式的物理学家，任何爆炸都有某种发生的时间尺度，对吧？我们谈的是几秒、几年，还是几千年？我想是几年，但重要的是要按照这个时间线更短来采取行动。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Yeah, I actually don't really trust my intuitions here. I have intuitions that we are thinking of years, but I also think human level AI is a mirage. It is suddenly going to be better than human, but whether that is going to be a full intelligence explosion quickly, I don't know. I think it partly depends on the architecture that ends up delivering human level AI.",
+      "textZh": "是的，实际上我不太相信自己在这方面的直觉。我的直觉是，我们谈的是几年，但我也认为人类水平的 AI 是一个海市蜃楼。它会突然变得比人类更出色，但这是否会迅速演变成一场全面的智能爆炸，我不知道。我认为这在一定程度上取决于最终实现人类水平 AI 的架构。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "So, this kind of neuroscience inspired AI that we seem to be building at the moment that needs to be trained and have experience in order for it to gain knowledge that may be, you know, on the order of a few years so possible even a decade. Some numbers of years, but it could also be much less. But, I wouldn't be surprised if it was much more.",
+      "textZh": "所以，我们目前似乎正在构建的这种受神经科学启发的 AI，需要接受训练并积累经验才能获得知识，那可能，你知道，大约需要几年，甚至可能是10年。若干年，但也可能短得多。不过，如果长得多，我也不会感到意外。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "Potentially days or shorter, especially if it's AI researchers designing AI researchers Every time there is an advance in AI, we dismiss it as 'oh, well that's not really AI:' chess, go, self-driving cars. An AI, as you know, is the field of things we haven't done yet. That will continue when we actually reach AGI. There will be lots of controversy. By the time the controversy settles down, we will realize that it's been around for a few years.",
+      "textZh": "可能是几天或更短，尤其是如果由 AI 研究员设计 AI 研究员。每当 AI 取得进展时，我们都会把它打发成“哦，嗯，那不是真正的 AI”：国际象棋、围棋、自动驾驶汽车。如你所知，AI 是由那些我们尚未做到的事情构成的领域。当我们真正实现 AGI 时，这种情况仍会继续。会有很多争议。等争议平息时，我们会意识到它已经存在几年了。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Yeah, so I think we will go beyond human level capabilities in many different areas, but not in all at the same time. So, it will be an uneven process where some areas will be far advanced very soon, already to some extent and other might take much longer. What Bart said.",
+      "textZh": "是的，所以我认为我们会在许多不同领域超越人类水平的能力，但不会同时在所有领域都做到。因此，这将是一个不均衡的过程，有些领域很快就会远远领先，在某种程度上已经如此，而其他领域可能要花长得多的时间。就像 Bart 说的。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "But, I think if it reaches a threshold where it's as smart as the smartest most inventive human then, I mean, it really could be only a matter of days before it's smarter than the sum of humanity. So, here we saw quite an interesting range of answers. And this, I find is a very interesting question because for reasons that people here have published a lot of interesting papers about the time scale makes a huge difference.",
+      "textZh": "但是，我认为，如果它达到一个门槛，像最聪明、最有创造力的人类一样聪明，那么，我是说，可能真的只需几天，它就会比全人类加起来还要聪明。所以，我们在这里看到了相当有意思的一系列答案。而我觉得，这是一个非常有意思的问题，因为这里的人已经发表了许多有趣的论文，阐述了时间尺度为何会造成巨大差异。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Right, if it's something that happening on the time scale of the industrial revolution, for example, that's a lot longer than the time scale on which society can adapt and take measures to steer development, borrowing your nice rocket metaphor, Jaan. Whereas, if things happen much quicker than society can respond, it's much harder to steer and you kind of have to hope that you've built in a good steering in advance.",
+      "textZh": "对，如果这件事发生的时间尺度与工业革命相当，例如，那就远长于社会适应并采取措施引导发展的时间尺度，借用你那个很好的火箭比喻，Jaan。而如果事情发生得比社会能够应对的速度快得多，就更难进行引导，你在某种程度上只能寄希望于自己事先已经内置了良好的操控机制。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "So, for example in nuclear reactors, we nerdy physicists like to stick graphite sticks in a moderators to slow things down maybe prevent it from going critical. I'm curious if anyone of you feels that it would be nice if this growth of intelligence which you are generally excited about, with some caveats, if any of you would like to have it happen a bit slower so that it becomes easier for society to keep shaping it the way we want it.",
+      "textZh": "所以，例如在核反应堆中，我们这些书呆子式的物理学家喜欢把石墨棒插进慢化剂里，让事情慢下来，也许能防止它达到临界状态。我很好奇，你们当中是否有人觉得，如果这种你们总体上感到兴奋、但带有一些保留意见的智能增长能发生得稍微慢一点，让社会更容易继续按照我们想要的方式塑造它，那会更好。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "And, if so, and here's a tough question, is there anything we can do now or later on when it gets closer that might make this intelligence explosion or rapid growth of intelligence simply proceed slower so we can have more influence over it. Does anyone want to take a swing at this? It's not for the whole panel, but anyone who... I'm reminded of the conversation we had with Rich Sutton in Puerto Rico.",
+      "textZh": "如果是这样，这里有一个棘手的问题：我们现在或以后在它临近时，是否能做些什么，让这场智能爆炸或智能的快速增长干脆进行得慢一些，以便我们能对它施加更多影响？有人想试着回答这个问题吗？不是要求整个小组都回答，但任何愿意……这让我想起我们在波多黎各与 Rich Sutton 进行的对话。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Like, we had a lot of disagreements, but definitely could agree about paths slower being better than faster. Any thoughts on how one could make it a little bit slower? I mean, the strategy I suggested in my talk was somewhat tongue and cheek. But, it was also serious. I think this conference is great and as technologists we should do everything we can to keep the technology safe and beneficial.",
+      "textZh": "比如，我们有很多分歧，但绝对可以认同，路径慢一些比快一些更好。对于怎样让它稍微慢一点，有什么想法吗？我是说，我在演讲中提出的策略有些半开玩笑。不过，它也是认真的。我认为这次会议很棒，而作为技术专家，我们应该竭尽所能，确保技术安全且有益。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Certainly, as we do each specific application, like self-driving cars, there's a whole host of ethical issues to address. But, I don't think we can solve the problem just technologically.",
+      "textZh": "当然，在我们开展每一项具体应用时，比如自动驾驶汽车，都有一大批伦理问题需要处理。但是，我认为我们无法只靠技术解决这个问题。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Imagine that we've done our job perfectly and we've created the most safe, beneficial AI possible, but we've let the political system become totalitarian and evil, either a evil world government or even just a portion of the globe that is that way, it's not going to work out well. And so, part of the struggle is in the area of politics and social policy to have the world reflect the values want to achieve because we are talking about human AI.",
+      "textZh": "设想一下，我们已经完美地完成了工作，创造出了尽可能安全、尽可能有益的 AI，但却任由政治制度变得极权而邪恶，无论是一个邪恶的世界政府，还是仅仅地球上的某一部分变成那样，结果都不会好。所以，一部分斗争存在于政治和社会政策领域，要让世界反映出想要实现的价值观，因为我们谈论的是人类 AI。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "Human AI is by definition at human levels and therefore is human. And so, the issue of how we make humans ethical is the same issue as how we make AIs that are human level ethical.",
+      "textZh": "按照定义，人类 AI 处于人类水平，因此它就是人类。所以，如何让人类符合伦理，与如何让达到人类水平的 AI 符合伦理，是同一个问题。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "So, what i'm hearing you say is that before we reach the point of getting close to human level AI, a very good way to prepare for that is for us humans in our human societies to try and get our act together as much as possible and have the world run with more reason than it, perhaps, is today. Is that fair? That's exactly what I'm saying. Nick?",
+      "textZh": "所以，我听到你的意思是，在我们接近人类水平 AI 之前，为此做好准备的一个非常好的方式，就是让我们人类在自己的人类社会中努力尽可能把自己的事情处理好，让世界的运行比今天或许更理性。这样说准确吗？这正是我要说的。Nick？"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "Also, I just want to clarify again that when I asked about what you would do to slow things down i'm not talking at all about slowing down AI research now. We're simply talking about if we get to the point where we are getting very near human level AI and think we might get some very fast development, how could one slow that part down?",
+      "textZh": "另外，我只想再次澄清，当我询问你们会采取什么措施让事情慢下来时，我完全不是在谈现在放慢 AI 研究。我们只是在讨论，如果我们到了非常接近人类水平 AI 的阶段，并认为可能出现某种极其迅速的发展，该如何让那部分慢下来？"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "So, one method would be to make faster progress now, so you get to that point sooner when hardware is less developed, you get less hardware overhang.",
+      "textZh": "所以，一种方法是现在取得更快的进展，这样就能在硬件发展程度较低时更早抵达那个阶段，硬件超前储备也会更少。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "However, the current speed of AI progress is a fairly hard variable to change very much because there are very big forces pushing on it, so perhaps the higher elasticity option is what I suggested in the talk to ensure that whoever gets there first has enough of a lead that they are able to slow down for a few months, let us say, to go slow during the transition.",
+      "textZh": "然而，AI 当前的进步速度是一个相当难以大幅改变的变量，因为有非常强大的力量在推动它，所以，或许弹性更高的选项，就是我在演讲中建议的那个：确保无论谁率先抵达那里，都拥有足够的领先优势，使他们能够放慢几个月，比如说，在过渡期间缓慢推进。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "So, I think one thing you can do, I mean this is almost in the verification area, is to make systems that provably will not recruit additional hardware or resigned their hardware, so that their resources remain fixed. And i'm quite happy to sit there for several years thinking hard about what the next step would be to take. But, it's trivial to copy software.",
+      "textZh": "所以，我认为你可以做的一件事，我是说，这几乎属于验证领域，就是制造出能够被证明不会征用额外硬件或辞去其硬件的系统，从而使其资源保持固定。而且我很乐意坐在那里花几年时间认真思考下一步应该采取什么行动。但是，复制软件轻而易举。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Software is self replicating and always has been and I don't see how you can possibly stop that. I mean, I think it would be great if it went slow, but it's hard to see how it does go slow given the huge first mover advantages and getting to superintelligence. The only scenario that I see where it might go slow is where there is only one potential first mover that can then stop and think.",
+      "textZh": "软件具有自我复制能力，而且一直如此，我看不出你怎么可能阻止它。我是说，如果进展缓慢，那当然很好，但考虑到率先实现超级智能所带来的巨大先发优势，很难看出它怎么会缓慢推进。在我看来，它可能缓慢推进的唯一情景是，只有一个潜在的先行者，然后它可以停下来思考。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "So, maybe that speaks to creating a society where, you know, AI is restrictive and unified, but without multiple movers. Yeah, Demis, so your colleague Sean Legg mentioned that the one thing that could help a lot here is if there's things like this industry partnership and a sense of trust and openness between the leaders, so that if there is a point where one wants to...",
+      "textZh": "所以，也许这说明应该创造一个这样的社会，你知道，AI 是限制性的、统一的，但没有多个行动者。是的，Demis，那么你的同事 Sean Legg 提到，这里可能会非常有帮助的一件事，是建立类似这种行业合作伙伴关系，并在领导者之间形成信任和开放的氛围，这样，如果到了某个阶段，其中一方想要……"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Yeah, I do worry about, you know, that sort of scenario where, you know, I think, I've got quite high belief in human ingenuity to solve these problems given enough time. the control problem and other issues. They're very difficult, but I think we can solve them. The problem is will there, you know, the coordination problem of making sure there is enough time to slow down at the end and, you know, let Stuart think about this for 5 years.",
+      "textZh": "是的，我确实担心，你知道，那种情景；你知道，我想，只要有足够的时间，我相当相信人类的创造力能够解决这些问题。控制问题和其他问题。它们非常困难，但我认为我们能够解决。问题是，最终是否会有，你知道，这个协调问题，即确保有足够的时间放慢速度，而且，你知道，让 Stuart 用5年时间思考这件事。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "But, what about, he may do that, but what about all the other teams that are reading the papers and not going to do that while you're thinking. Yeah, this is what I worry about a lot. It seems like that coordination problem is quite difficult.",
+      "textZh": "但是，他可能会这么做，可那些正在阅读论文的其他团队呢？在你思考时，他们不会这么做。是的，这正是我非常担心的事情。那个协调问题似乎相当困难。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "But, I think as the first step, may be coordinating things like the Partnership on AI, you know, the most capable teams together to agree, at least agree on a set of protocols or safety procedures, or things, you know, agree that, maybe, you know, you should verify these systems and that is going to take a few years and you should think about that. I think that would be a good thing.",
+      "textZh": "但是，我认为第一步也许是协调像 AI 合作伙伴组织这样的事物，你知道，让能力最强的团队聚在一起达成一致，至少就一套规程或安全程序之类的事情达成一致；你知道，一致认同，也许，你知道，应该验证这些系统，而那将需要几年时间，你们应该考虑这件事。我认为那会是一件好事。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "I just want to caveat one thing about slowing versus fast progresses, you know, it could be that, imagine there was a moratorium on AI research for 50 years, but hardware continued to accelerate as it does now.",
+      "textZh": "我只想对放慢进展与快速进展这件事补充一个保留意见，你知道，有可能，设想 AI 研究被暂停50年，但硬件继续像现在这样加速发展。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "We could, you know, this is sort of what Nick's point was is that there could be a massive hardware overhang or something where an AI actually many, many, many different approaches to AI including seed AI, self-improving AI, all these things could be possible. And, you know, maybe one person in their garage could do it.",
+      "textZh": "我们可能会，你知道，这有点像 Nick 所说的，可能会出现巨大的硬件能力过剩或类似情况，届时一种 AI，实际上许多、许多、许多不同的 AI 方法，包括种子 AI、自我改进型 AI，所有这些东西都可能成为现实。而且，你知道，也许某个人独自在车库里就能做到。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "And I think that would be a lot more difficult to coordinate that kind of situation, whereas, so, I think there is some argument to be made where you want to make fast progress when we are at the very hard point of the 's' curve. Where actually, you know, you need quite a large team, you have to be quite visible, you know who the other people are, and, you know, in a sense society can keep tabs on who the major players are and what they're up to.",
+      "textZh": "而且我认为，协调那种局面会困难得多；所以，我认为可以提出某种论点，即当我们处于“S”曲线非常困难的节点时，你会希望取得快速进展。在那个节点，你知道，你实际上需要一支相当庞大的团队，必须非常引人注目，你知道其他人是谁，而且，你知道，从某种意义上说，社会可以密切关注主要参与者是谁以及他们在做什么。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Whereas, opposed to a scenario where in say 50 or a 100 years time when, you know, someone, a kid in their garage could create a seed AI or something like that. Yeah, Bart, one last comment on this topic. Yeah, I think that this process will be a very irregular process and sometime we will be far advanced and other times we will be going quite slow.",
+      "textZh": "这不同于另一种情景，比如在50或100年后，你知道，某个人，一个在车库里的孩子，就能创造出一个种子 AI 或类似的东西。是的，Bart，关于这个话题最后说一句。是的，我认为这个过程将是一个非常不规律的过程，有时我们会取得很大进展，其他时候则会进展得相当缓慢。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "Yeah, i'm sort of hoping that when society sees something like fake video creation where you create a video where you have somebody say made up things and that society will actually realize that there are these new capabilities for the machines and we should start taking the problem as a society more seriously before we have full and general AI. We'll use AI to detect that.",
+      "textZh": "是的，我有点希望，当社会看到诸如伪造视频制作这样的东西，也就是你制作一段视频，让某个人说出捏造的话时，社会实际上会意识到机器拥有了这些新能力，而我们作为一个社会，应该在拥有完整的通用 AI 之前开始更认真地对待这个问题。我们会用 AI 来检测它。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "So, you mentioned the word 'worry' there, and you Nick went a bit farther, you had the word 'doom' written on your slides three times. No wonder there was one star on Amazon on that rating and that it was even in red color. I think it's just as important to talk about existential hope and the fantastic upside as downside and I want to do a lot of that here.",
+      "textZh": "所以，你刚才提到了“担心”这个词，而你 Nick 更进一步，你的幻灯片上写了3次“毁灭”。难怪亚马逊上的那项评分是1星，而且它甚至还是红色的。我认为，讨论存在层面的希望和美好的上行可能，与讨论下行风险同样重要，而我想在这里多谈谈这些。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "So, let's just get some of those worries out of the way now and then return to the positive things. I just want to go through quickly and give each one of you a chance to just pick one thing that you feel is a challenge that we should overcome and then say something about what you feel is the best thing we can do, right now, to try to mitigate it. Do you want to start Jaan? To mitigate what?",
+      "textZh": "所以，让我们现在先处理掉其中一些担忧，然后再回到积极的事情上。我只想快速过一遍，给你们每个人一个机会，挑出一件你认为是我们应该克服的挑战，然后谈谈你认为我们现在可以采取的、用以缓解它的最佳措施。Jaan，你想先开始吗？缓解什么？"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Mention one thing that you're worried could go wrong and tell us about something constructive that we can do now that will reduce that risk. I do think that AI arms races, I see like a lot of, like, good. I'm really heartened to see kind of great contacts between OpenAI and DeepMind, but I think this is just like a sort of toy model of what the world at large might come up with in terms of arms races.",
+      "textZh": "说出一件你担心可能出错的事情，并告诉我们现在可以做些什么有建设性的事情来降低那种风险。我确实认为 AI 军备竞赛，我看到了很多，比如，好的。我真的很振奋地看到 OpenAI 和 DeepMind 之间建立了很好的联系，但我认为，与整个世界在军备竞赛方面可能产生的情况相比，这只是一种玩具模型。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "And for myself I have been spending increasing amount of time in Asia recently just to kind of try to kind of pull in more people elsewhere, what has been so far, just been, kind of like, an Anglo- American discussion mostly. So, like this is, I think, this is one thing that should be done and i'm going to do it.",
+      "textZh": "就我自己而言，最近我在亚洲投入的时间越来越多，只是为了有点试着、有点把更多其他地方的人拉进来；到目前为止，这基本上一直主要是一场英美讨论。所以，比如，我认为这是应该做的一件事，而我会去做。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "Well, as someone who is outside this field, I think the challenge i'm really in touch with is how hard it is to take the safety concerns emotionally seriously. And how hard it is for people in the field to do that as well. I can't tell you have many people outside this room who purport to be experts think the control problem is a total non-issue. I mean, it's just flabbergasting to meet these people and just therefore not worth thinking about.",
+      "textZh": "嗯，作为一个这个领域之外的人，我认为自己真正切身体会到的挑战，是在情感上认真看待安全担忧有多困难。而这个领域里的人要做到这一点也有多困难。我无法告诉你，这个房间之外有许多自称专家的人认为控制问题完全不是问题。我的意思是，遇到这些人实在令人目瞪口呆，而在他们看来，这因此根本不值得思考。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "And one of the reasons I think is that in one case there is this illusion that the time horizon matters. If you feel that this is 50 or a 100 years away that is totally consoling, but there is an implicit assumption there, the assumption is that you know how long it will take to build this safely. And that 50 or a 100 years is enough time.",
+      "textZh": "而我认为，其中一个原因是，在某种情况下，人们存在这样一种错觉，认为时间跨度很重要。如果你觉得这件事还要50或100年才会发生，那会让人完全安心，但其中存在一个隐含的假设，这个假设就是你知道安全地构建它需要多长时间。而50或100年是足够的时间。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "The other issue is, I think, most people feel like intelligence is an intrinsic good and of course we want more of it and it's very easy to be in touch with that assumption because right now there is a cure for cancer, which we have not discovered. Right, how galling is that?",
+      "textZh": "另一个问题是，我认为，大多数人觉得智能本身就是一种善，当然我们希望拥有更多智能，而且很容易体会到这种假设，因为现在存在一种我们尚未发现的癌症疗法。对吧，这多么令人恼火？"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "But for more intelligence, but for knowing which experiments to run, or how to integrate the data we already have in hand, we would have a cure for cancer that was actionable now unless there was some physical law of the universe that prevented us from curing cancer, which seems unlikely.",
+      "textZh": "但要是有更多智能，要是知道该进行哪些实验，或者如何整合我们手头已有的数据，我们现在本来就会有一种可付诸实施的癌症疗法，除非宇宙中的某条物理定律阻止我们治愈癌症，而这似乎不太可能。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "So, the pain of not having enough intelligence is really excruciating when you focus on it, but, and I think to your previous question of doing this quickly becomes an intrinsic good provided we have solved the alignment problems and the political problems and the chaos that would follow if we were just, if we did it quickly without solving those problems.",
+      "textZh": "所以，当你专注思考时，智能不足带来的痛苦确实令人煎熬，但是，而且我认为，回到你之前的问题，如果我们已经解决了对齐问题、政治问题，以及如果我们在没有解决那些问题的情况下迅速行动就会随之而来的混乱，那么迅速完成这件事本身就会成为一种善。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "So, I think, it's the thing that is alarming is how ethereal these concerns are even to those who have no rational argument against them. So, Sam it sounds to me like you're agreeing very strongly with what Shane Legg that there is, in some circles, still this strong taboo that, you know, don't even consider the possibility that we might get AGI because it's just absolutely ridiculous.",
+      "textZh": "所以，我认为，令人警觉的是，即使对于那些拿不出任何理性论据反驳这些担忧的人来说，这些担忧仍然如此虚无缥缈。所以，Sam，在我听来，你非常强烈地赞同Shane Legg所说的，即在某些圈子里，依然存在这种强烈的禁忌：你知道，甚至不要考虑我们可能实现AGI的可能性，因为那简直荒谬至极。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "And he was arguing that the sooner we can get rid of this taboo the sooner people can get to work and find all these really helpful solutions and answers that we need. So, suppose for a moment that I came up to you and said to you \"this idea of super human intelligence just sounds absolutely ridiculous, sounds completely nuts. And by the way i've never seen your ted talk.\"",
+      "textZh": "而他的论点是，我们越早摆脱这种禁忌，人们就能越早开始工作，找到我们所需要的所有这些真正有帮助的解决方案和答案。那么，暂且假设我走到你面前对你说：“这种超人类智能的想法听起来简直荒谬至极，听起来完全疯了。顺便说一句，我从未看过你的TED演讲。”"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "And we're in an elevator and you have only 30 seconds to persuade me to take this more seriously, what would you say? A lot of people who are here will have this exact conversation with colleagues and others in the future. Well, there are very few assumptions you need to make to take this seriously, intellectually. Again, the emotional part is a separate piece.",
+      "textZh": "而且我们正在电梯里，你只有30秒说服我更认真地看待这件事，你会说什么？未来，在场的许多人都会与同事和其他人进行完全相同的对话。嗯，要从理智上认真看待这件事，你需要作出的假设寥寥无几。再说一次，情感部分是另一回事。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "But, if you assume that intelligence is just, on some level, the product of information processing in a physical system and there are very few people who dispute that who are scientifically literate at this point and you assume that we will continue to improve our information processing systems, unless something terrible happens to us to prevent that, and that seems like a very safe assumption, then it is just a matter of time before we instantiate something that is human level and beyond in our computers.",
+      "textZh": "但是，如果你假设智能在某种层面上只是物理系统中信息处理的产物，而目前具备科学素养的人中几乎没有人对此持异议；并且你假设我们将继续改进自己的信息处理系统，除非某种可怕的事情降临到我们身上、阻止我们这样做，而这似乎是一个非常稳妥的假设；那么，我们在计算机中实例化某种达到人类水平乃至超越人类水平的东西，就只是时间问题。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "And, again, the time horizon is only consoling on the assumption that we know we have enough time to solve the alignment problems and the political problems.",
+      "textZh": "而且，再说一次，只有在我们知道自己有足够时间解决对齐问题和政治问题这一假设下，时间跨度才能给人安慰。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "The other thing that is humbling here that Ray brought up at one point is that even if we were handed a perfectly benign, well behaved AI just from god, you know, we are given a perfect oracle we are given a perfect inventor of good technology, given our current political and economic atmosphere that would produce total chaos. We just have not...",
+      "textZh": "这里另一件令人感到自身渺小的事，是Ray曾经提到的：即便上帝直接交给我们一个完全善良、表现良好的AI，你知道，我们得到了一个完美的神谕，得到了一个完美的优良技术发明者，考虑到我们当前的政治和经济氛围，这也会造成彻底的混乱。我们只是还没有……"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "we don't have the ethical or political will to share the wealth, we don't have the political integration to deal with this thing being given to Silicon Valley and not being given at the same moment to China or Iran. So, there is just, it's alarming that the best case scenario currently, basically just ripping out 80% of Nick's book because we've solved all those problems, is still a terrifying one.",
+      "textZh": "我们没有分享财富的伦理意愿或政治意愿，我们也没有足够的政治整合能力，去应对这个东西被交给硅谷、却没有在同一时刻交给中国或伊朗的局面。所以，实在是，令人警觉的是，目前最理想的情形，也就是因为我们已经解决了所有那些问题，基本上直接删掉Nick书中80%的内容，仍然是一种可怕的情形。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "And so, clearly, that's a near term thing that we have to solve. Thank you, Sam. So, Demis do you want to tell us about one thing that you feel is a challenge and say something about what we should focus on now to tackle it.",
+      "textZh": "所以很明显，这是我们必须在近期解决的事情。谢谢你，Sam。那么，Demis，你愿意告诉我们一件你认为构成挑战的事情，并谈谈我们现在应该重点做些什么来应对它吗？"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Yeah, I mean I think it's, you know I agree with both the statements already said that, so I think the coordination problem is one thing where you know we want to avoid this sort of harmful race to the finish where corner cutting starts happening and things like safety are easy things to, you know, will get cut because obviously they don't necessarily contribute to AI capability, in fact they may hold it back a bit by making a safe AI.",
+      "textZh": "是的，我是说，我认为这，你知道，我赞同刚才已经说过的两种说法，所以我认为协调问题是其中一件事，你知道，我们希望避免这种有害的终点竞赛，因为在这种竞赛中，人们开始偷工减料，而安全之类的东西很容易被，你知道，会被削减，因为它们显然不一定有助于提升AI的能力，事实上，通过让AI变得安全，它们可能会稍微阻碍其能力。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "So, I think that's going to be a big issue on a global scale and that seems like it's going to be a hard problem when we are talking about national governments and things. And I think also, you know, we haven't thought enough about the whole governance scenario of how do we want those AIs to be out in the world? How many of them? Who will set their goals? All these kinds of things, I think, need a lot more thought.",
+      "textZh": "所以，我认为这将在全球范围内成为一个重大问题，而且当我们谈到各国政府之类的主体时，这似乎会是一个棘手的问题。而且我还认为，你知道，对于我们希望那些AI以何种方式存在于世界上的整个治理情境，我们思考得还不够。要有多少个？谁来设定它们的目标？我认为，所有这类问题都需要更多思考。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "You know, once we've already solved the technical problems. I think it's wonderful that you're not just saying these things, but actually doing these things since you played a leading role in setting up the Partnership on AI here which goes exactly in the direction of what you're advocating here. So, do you want to pass it off to Nick? I'm sure there is nothing at all you're worried about, right?",
+      "textZh": "你知道，一旦我们已经解决了技术问题。我认为很棒的一点是，你不仅在说这些事情，而且确实在做这些事情，因为你在这里成立AI伙伴关系组织的过程中发挥了领导作用，而它所走的方向与你在这里倡导的完全一致。那么，你愿意把话题交给Nick吗？我相信你肯定完全没有任何担忧，对吧？"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "So, tell us about one concrete useful thing you would to see us focus on. So, I agree with that, I mean, so fun technical work, bring in top technical talent to work on these technical issues, build these collaborations, build a community, build trust, work some more on figuring out attractive solutions to the governance solutions that could work, but don't rush to implement the first idea you have, but first trial them out a little bit more.",
+      "textZh": "那么，请告诉我们一件你希望看到我们重点关注的、具体而有用的事情。所以，我赞同这一点，我是说，开展有趣的技术工作，引进顶尖技术人才来处理这些技术问题，建立这些合作关系，建设一个社群，建立信任，进一步研究有吸引力的解决方案，以解决那些可能奏效的治理方案，但不要急着实施你想到的第一个主意，而要先多试验一下。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "I think a lot about consciousness, so I was really struck by the 'sentience caution' on the list of principles here that said \"avoid overly... avoid strong assumptions about the distribution of consciousness in AIs,\" which I take it entails avoid assuming that any human level or super human level AGI is going to be conscious.",
+      "textZh": "我经常思考意识，所以这里的原则清单中那条“感知能力审慎原则”真的令我印象深刻，它写道：“避免过度……避免对AI中意识的分布作出强假设。”我的理解是，这意味着要避免假设任何人类水平或超人类水平的AGI都会具有意识。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "For me, that raising the possibility of a massive failure mode in the future, the possibility that we create human or super human level AGI and we've got a whole world populated by super human level AGIs, none of whom is conscious. And that would be a world, could potentially be a world of great intelligence, no consciousness no subjective experience at all.",
+      "textZh": "对我来说，这提出了未来出现一种大规模失败模式的可能性：我们有可能创造出人类水平或超人类水平的AGI，并且让整个世界充满超人类水平的AGI，而它们没有一个具有意识。那样的世界将会是，也可能会是一个拥有强大智能，却没有意识、根本没有主观体验的世界。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "Now, I think many many people, with a wide variety of views, take the view that basically subjective experience or consciousness is required in order to have any meaning or value in your life at all. So therefore, a world without consciousness could not possibly a positive outcome. maybe it wouldn't be a terribly negative outcome, it would just be a 0 outcome, and among the worst possible outcomes. So, I worry about avoiding that outcome.",
+      "textZh": "现在，我认为许许多多观点各异的人都认为，基本上，要让你的生命具有任何意义或价值，主观体验或意识都是必需的。因此，一个没有意识的世界不可能是一个积极的结果。也许它不会是一个极其负面的结果，只会是一个0结果，并且属于可能出现的最糟糕结果之一。所以，我担心的是如何避免这种结果。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "Now, as a matter of fact, i'm fairly optimistic about the possibilities that AIs of various kinds will be conscious. But, in so far as this community is making this assumption, I think it's important to actually think about the question of 'in creating AGIs, are we actually creating conscious beings?'",
+      "textZh": "现在，事实上，对于各种AI具有意识的可能性，我相当乐观。但是，只要这个社群正在作出这种假设，我认为就很有必要真正思考这个问题：“在创造AGI时，我们真的在创造有意识的存在吗？”"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "I mean, one thing we ought to at least consider doing there is making, given that we don't understand consciousness, we don't have a complete theory of consciousness, maybe we can be most confident about consciousness when it's similar to the case that we know about the best, namely human human consciousness...",
+      "textZh": "我是说，我们在那里至少应该考虑做的一件事是，做……鉴于我们不了解意识，也没有完整的意识理论，也许当意识与我们最了解的情况，也就是人类人类意识相似时，我们才最能确信它存在……"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "So, therefore maybe there is an imperative to create human-like AGI in order that we can be maximally confident that there is going to be consciousness. So, what I hear you say is that when you have a nightmare about the zombie apocalypse you're not thinking of some terminator movie, but you're thinking about this problem. We create... we upload ourselves and do all these wonderful things, but there's no one home. Is that fair to say?",
+      "textZh": "所以，因此，也许我们必须创造类人AGI，以便最大限度地确信意识将会存在。所以，我听到你的意思是，当你做有关僵尸末日的噩梦时，你想的不是某部《终结者》电影，而是在想这个问题。我们创造……我们上传自己，并做所有这些美妙的事情，但里面却没有人在。这么说公平吗？"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "I mean this is a different kind of existential risk. One kind of existential risk is there's no humans, there's AIs, but some people might say well that's OK they are our successors. A much worse existential risk is there are no conscious beings in our future. So, i'll make a confession, so Shane Legg mentioned that there has been this strong taboo about talking about the possibility of intelligence getting very advanced.",
+      "textZh": "我是说，这是一种不同类型的生存风险。一种生存风险是没有人类，只有AI，但有些人可能会说，嗯，那没关系，它们是我们的继承者。一种糟糕得多的生存风险是，我们的未来没有任何有意识的存在。那么，我要坦白一件事，Shane Legg提到，一直存在一种强烈的禁忌，让人不能谈论智能有可能变得极其先进。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "It's clearly also been a strong taboo for a long time to mention the C-word. In fact, before the conference when we got all these responses on the first round of the principles, guess which one was ranked last? It got huge amounts of minus 1 ratings, that was the one with consciousness, so we changed it to-- it was terribly stated --sentience and stated it better and then it got stated still better at lunch and it's still rated last.",
+      "textZh": "显然，提到那个以C开头的词，长期以来也一直是一项强烈的禁忌。事实上，在会议之前，当我们收到对第一轮原则的所有反馈时，猜猜哪一条排名最后？它得到了大量负1评分，就是涉及意识的那一条，所以我们把它改成了——原先的表述糟透了——感知能力，并改进了表述，然后在午餐时它的表述又得到进一步改进，但它的评分仍然垫底。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Even though I personally share your interests in this a lot. 88% of people agreed to the sentient caution. But, not 90%, so that one also fell off the list here. So, maybe that is another taboo you can personally help us shatter so that people think about that question more. Ray, anything you're concerned about? This isn't what I was going to say, but just to respond...",
+      "textZh": "尽管我个人与你一样对这件事非常感兴趣。88%的人赞同感知能力审慎原则。但是没有达到90%，所以这一条也从这里的清单中掉出去了。所以，也许这是另一个你本人可以帮助我们打破的禁忌，让人们更多地思考那个问题。Ray，你有什么担忧吗？这不是我原本要说的，但先回应一下……"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "a converse concern is we create AGIs, everybody assumes that of course it's just a machine and therefore it's not conscious, but actually it is suffering but we don't look out for it's conscious subjective experience because we are making the wrong assumption. But, what I did want to say was, there are three overlapping revolutions that people talk about, GNR, genetics, bio-tech, nano-technology, and robotics, which is AI.",
+      "textZh": "一种相反的担忧是，我们创造了AGI，每个人都认定它当然只是一台机器，因此没有意识，但实际上它正在受苦，而我们却不留意它的有意识的主观体验，因为我们作出了错误的假设。不过，我确实想说的是，人们谈论3场彼此重叠的革命，即GNR：遗传学和生物技术、纳米技术以及机器人技术，也就是AI。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "And there are proposals, there was the Asilomar conferences done here decades ago for bio-tech that have worked fairly well. There are similar proposals for nano-technology. There is a difference with AI in that there really isn't a full proof technical solution to this. You can have technical controls on, say, nano-technology. One of the guidelines is it shouldn't be self-replicating.",
+      "textZh": "而且已经有一些提案，几十年前这里曾为生物技术举行过阿西洛马会议，效果相当不错。针对纳米技术也有类似的提案。AI有所不同，因为它确实没有一个有充分证明的技术解决方案。你可以对比如纳米技术实施技术控制。其中一项准则是，它不应该进行自我复制。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "That's not really realistic because it can't scale to meaningful quantities without being self-replicating, but you can imagine technical protections. If you have an AI that is more intelligent than you and it's out for your destruction and it's out for the world's destruction and there is no other AI that is superior to it, that's a bad situation. So, that's the specter.",
+      "textZh": "这其实并不现实，因为如果不进行自我复制，它就无法扩展到有意义的数量，但你可以想象一些技术保护措施。如果你有一个比你更聪明的AI，而它一心想毁灭你、一心想毁灭世界，并且没有另一个优于它的AI，那就是一种糟糕的局面。所以，这就是那个幽灵。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "And partly this is amplified by our observation of what we as humans, the most intelligent species on the planet, have done to other species. If we look at how we treat animals, people, you know, are very friendly, like their dogs and pets, but if you look at factory farming we're not very benign to species that are less intelligent than us.",
+      "textZh": "而我们观察到，作为地球上最聪明的物种，我们人类对其他物种做了什么，这在一定程度上加剧了这种担忧。如果看看我们如何对待动物，人们，你知道，非常友善，喜欢自己的狗和宠物，但如果看看工厂化养殖，我们对不如我们聪明的物种并不是非常善良。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "That engenders a lot of the concern we see that if we there's a new type of entity that's more intelligent than us it's going to treat us like we've treated other species. So, that's the concern. I do think that what we are doing at this conference is appropriate. I wanted to mention that I think we should publish these guidelines the way the Asilomar guidelines in bio-tech were published decades ago.",
+      "textZh": "这引发了我们所看到的许多担忧：如果我们，如果有一种比我们更聪明的新型实体，它会像我们对待其他物种那样对待我们。所以，这就是担忧所在。我确实认为，我们在这次会议上所做的事情是恰当的。我想提一下，我认为我们应该像几十年前发布阿西洛马会议生物技术指南那样，发布这些指南。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "And then people can and people can, you can have an opt-in, opt-out, but I think we should actually say we had this conference and the AI leadership/community has come up with these guidelines and people can respond to them and debate them and then maybe at the next conference we'll revise them. The Asilomar bio-tech guidelines have been revised many times.",
+      "textZh": "然后人们可以，而且人们可以，你可以选择加入、选择退出，但我认为我们确实应该说，我们举办了这次会议，而人工智能领导层／社群提出了这些指南，人们可以对其作出回应并展开辩论，然后也许到下一次会议时，我们会修订它们。阿西洛马会议的生物技术指南已经修订过很多次。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "But, I would advocate that we actually take a stand and put forth these guidelines and then let the whole community at large debate them. And have them be, have them guide our research. It's actually worked quite well in bio-tech. Bart? OK, yeah so let me give a little different perspective.",
+      "textZh": "但是，我主张我们真正表明立场、提出这些准则，然后让整个社群广泛讨论它们。并让它们，让它们指导我们的研究。这种做法在生物技术领域其实成效相当不错。巴特？好的，是的，那么让我提供一个稍微不同的视角。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "So, one concern I have at the high level is these machines become really smart or even in certain areas, can humans still understand, what they, decisions that they suggested, that they make. And I work in the field of automated reasoning where we have significant advance last two decades going from perhaps a few hundred variables to perhaps millions of variables being solved quite routinely.",
+      "textZh": "所以，我在宏观层面上的一个担忧是，当这些机器变得非常聪明时，哪怕只是在某些领域，人类是否仍然能够理解它们所建议、所作出的那些决定。我从事自动推理领域的工作，在过去20年里，我们取得了重大进展，从也许几百个变量，发展到相当常规地求解也许数百万个变量。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "And there was a sense in the community, well we are getting answers from these reasoning engines, mostly hardware/software verification problems, but we cannot, humans can no longer understand these answers. In the last few years, people have actually discovered that you can use the machine to generate explanations for their answers that are, again, human understandable.",
+      "textZh": "而社群中曾有一种看法：好吧，我们正在从这些推理引擎中得到答案，主要是硬件／软件验证问题的答案，但我们无法，人类已经无法理解这些答案。在过去几年里，人们实际上发现，你可以使用机器为它们的答案生成解释，而这些解释同样是人类能够理解的。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "So, I see sort of a glimmer of hope that maybe even if we have much less intelligence we may be able to understand solutions that machines find for us and we could not find these solutions, but they may be able to provide explanations that are accessible to us. So that's a little positive note. Thank you. Stuart? So there are two things that keep me awake at night, other than email. So, one is the problem of misuse and bad actors.",
+      "textZh": "所以，我看到了一线希望：也许即使我们的智能低得多，我们也可能理解机器为我们找到的解决方案，而我们自己无法找到这些解决方案，但机器或许能够提供我们可以理解的解释。所以这是一个小小的积极信号。谢谢。斯图尔特？所以，除了电子邮件之外，有两件事让我夜不能寐。其中一件是滥用和恶意行为者的问题。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "To take an analogy, it’s as if we were building nuclear weapons and then delivering them by email to everybody on the planet, saying, here’s a toy, do what you want. How do we counter that? I have to say, I don’t really have a good solution. I think one of the things we have to do is to make designs for safe AI very clear and simple, and sort of make it unthinkable to do anything other than that, right?",
+      "textZh": "打个比方，这就好像我们制造了核武器，然后通过电子邮件把它们发送给地球上的每个人，并说：这里有个玩具，想怎么用就怎么用。我们该如何应对？我不得不说，我确实没有什么好的解决方案。我认为，我们必须做的一件事，是让安全人工智能的设计变得非常清晰、简单，并且在某种程度上让除此之外的任何做法都变得不可想象，对吧？"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "Just like it’s unthinkable to have a program with an infinite loop that produces a spinning pizza of death on your -- oh sorry. Or it’s unthinkable to have a buffer overflow that allows your software to be hacked into.",
+      "textZh": "就像让一个程序陷入无限循环，在你的——哦，抱歉——上产生一个不停旋转的死亡披萨，是不可想象的一样。或者，让缓冲区溢出导致你的软件遭到入侵，也是不可想象的。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "The other thing that keeps me awake is actually the possibility that success would lead to AI as a helicopter parent for the human race that would sort of ossify and gradually enfeeble us, so then there would be no point at which it was obvious to us that this was happening.",
+      "textZh": "另一件让我夜不能寐的事，实际上是这种可能性：成功会使人工智能成为人类的直升机家长，令我们在某种程度上僵化并逐渐衰弱，而在此过程中，我们不会在任何一个时刻明显意识到这种情况正在发生。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "And I think the mitigation, which you asked for, to look on the bright side, is that in some sense the meta-value of human evolvability, the freedom to change the future, is something that the AI needs to adopt, and in some sense that would result eventually with the AI receding into the background, and saying, OK, now I’ve got you through your adolescence, now it’s time for the human race to grow up, now that we have the capabilities to eliminate scarcity, to eliminate needless conflict and coordination failures and all of those things that we suffer from right now.",
+      "textZh": "而且我认为，你所要求的缓解办法，从积极的一面来看，就是从某种意义上说，人类可进化性这种元价值，也就是改变未来的自由，是人工智能需要接受的东西；从某种意义上说，这最终会让人工智能退居幕后，并说，好了，现在我已经帮助你度过了青春期，现在是人类长大的时候了，因为现在我们已经具备消除匮乏、消除不必要的冲突和协调失败，以及消除我们目前正在承受的所有这些问题的能力。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "So I can imagine a distant future where, in fact, AI is perhaps even less visible than it is today. Great, finally you, Elon, have as far as I know never ever expressed any concerns about AI, right - I’m just wondering if there is any concerns, in particular any concerns where you see there’s a very clear thing we should be doing now that are going to help.",
+      "textZh": "所以我可以想象一个遥远的未来，事实上，人工智能甚至可能比今天更不显眼。很好，最后是你，埃隆，据我所知，你从来没有对人工智能表达过任何担忧，对吧——我只是想知道是否存在任何担忧，特别是那种你认为我们现在显然应该采取某项行动，而且这会有所帮助的担忧。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "I’m trying to think of what is an actual good future, what does that actually look like, or least bad, or however you want to characterize it. Because to a point that was made earlier by Sam and maybe made by others, we’re headed towards either superintelligence or civilization ending.",
+      "textZh": "我正在努力思考，真正美好的未来是什么样的，它究竟是什么样子，或者说危害最小的未来，或者不管你想如何描述它。因为正如萨姆早些时候提出的观点，也许其他人也提到过，我们正走向两个结果之一：要么出现超级智能，要么文明终结。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "Those are the two things that will happen - intelligence will keep advancing, the only thing that would stop it from advancing is something that puts civilization into stasis or destroys civilization. So, we have to figure out, what is a world that we would like to be in where there is this digital superintelligence? I think, another point that is really important to appreciate is that we are, all of us, already are cyborgs.",
+      "textZh": "这就是将会发生的两种情况——智能会不断进步，唯一能阻止它进步的，是某种让文明陷入停滞或摧毁文明的事物。所以，我们必须弄清楚，在存在这种数字超级智能的情况下，我们希望身处一个怎样的世界？我认为，另一个确实需要认识到的非常重要的观点是，我们，我们所有人，都已经是赛博格了。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "So you have a machine extension of yourself in the form of your phone and your computer and all your applications. You are already superhuman. By far you have more power, more capability, than the President of the United States had 30 years ago. If you have an Internet link you have an article of wisdom, you can communicate to millions of people, you can communicate to the rest of Earth instantly.",
+      "textZh": "所以，你的手机、计算机和所有应用程序，都是你自身的机器延伸。你已经是超人了。你的力量和能力远远超过30年前的美国总统。如果你有互联网连接，你就拥有一篇智慧文章，你可以与数百万人交流，可以瞬间与地球其他地方交流。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "I mean, these are magical powers that didn’t exist, not that long ago. So everyone is already superhuman, and a cyborg. The limitation is one of bandwidth. So we’re bandwidth-constrained, particularly on output. Our input is much better but our output is extremely slow. If you want to be generous you could say maybe it’s a few hundred bits per second, or a kilobit or something like that output.",
+      "textZh": "我的意思是，这些都是在并不久远的过去还不存在的魔法般的能力。所以，每个人都已经是超人，也是赛博格。限制在于带宽。所以我们受到带宽制约，尤其是在输出方面。我们的输入要好得多，但输出极其缓慢。如果说得宽松一点，你可以说输出可能是每秒几百比特，或者1千比特之类的。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "The way we output is like we have our little meat sticks that we move very slowly and push buttons, or tap a little screen. And that’s extremely slow. Compare that to a computer which can communicate at the terabyte level. These are very big orders of magnitude differences. Our input is much better because of vision, but even that could be enhanced significantly.",
+      "textZh": "我们的输出方式，就像是慢慢移动我们小小的肉棍去按按钮，或者轻点一块小屏幕。而那极其缓慢。将它与能够以太字节级别进行通信的计算机相比，两者相差好多个数量级。由于视觉的存在，我们的输入要好得多，但即使是输入，也可以得到显著增强。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "So I think the two things that are needed for a future that we would look at and conclude is good, most likely, is, we have to solve that bandwidth constraint with a direct neural interface. I think a high bandwidth interface to the cortex, so that we can have a digital tertiary layer that’s more fully symbiotic with the rest of us.",
+      "textZh": "所以我认为，对于一个我们看了以后会认为很可能是美好的未来，需要做到两件事：我们必须通过直接神经接口来解决这种带宽限制。我认为，需要一个连接大脑皮层的高带宽接口，这样我们就能拥有一个与我们其余部分形成更充分共生关系的数字第三层。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "We’ve got the cortex and the limbic system, which seem to work together pretty well - they’ve got good bandwidth, whereas the bandwidth to additional tertiary layer is weak. So I think if we can solve that bandwidth issue and then AI can be widely available.",
+      "textZh": "我们拥有大脑皮层和边缘系统，它们似乎配合得相当好——两者之间有良好的带宽，而通往额外第三层的带宽却很弱。所以我认为，如果我们能够解决这个带宽问题，那么人工智能就可以被广泛使用。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "The analogy to a nuclear bomb is not exactly correct - it’s not as though it’s going to explode and create a mushroom cloud, it’s more like if there were just a few people that had it they would be able to be essentially dictators of Earth, or whoever acquired it and if it was limited to a small number of people and it was ultra-smart, they would have dominion over Earth.",
+      "textZh": "将它比作核弹并不完全正确——它并不是会爆炸并产生蘑菇云，更像是如果只有少数人拥有它，他们基本上就能成为地球的独裁者，或者说无论谁获得了它，如果它只掌握在少数人手中并且极其聪明，他们就会统治地球。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "So I think it’s extremely important that it be widespread and that we solve the bandwidth issue. And if we do those things, then it will be tied to our consciousness, tied to our will, tied to the sum of individual human will, and everyone would have it so it would be sort of still a relatively even playing field, in fact, it would be probably more egalitarian than today.",
+      "textZh": "所以我认为，让它得到广泛普及以及解决带宽问题极其重要。如果我们做到了这些，那么它就会与我们的意识相连，与我们的意志相连，与人类个体意志的总和相连；而且每个人都会拥有它，因此在某种程度上，大家仍会处于一个相对公平的竞争环境，事实上，它可能会比今天更加平等。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "Great, thank you so much, that’s in fact the perfect segue into the last question I want to ask you before we open it up to everybody. Something I have really missed in the discussion about really advanced intelligence, beyond human, is more thought about the upside.",
+      "textZh": "太好了，非常感谢，事实上，这恰好可以自然过渡到在向所有人开放提问之前我想问你们的最后一个问题。在关于真正超越人类的高级智能的讨论中，我一直觉得非常缺少的是对其益处进行更多思考。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "We have so much talk about existential risk, and not just in the academic context, but just flip on your TV, check out Netflix, what do you see there in these scientific visions of the future? It’s almost always dystopias, right?",
+      "textZh": "我们大量谈论生存风险，而且不只是在学术语境中，随便打开电视，看看 Netflix，你在这些关于未来的科学构想中看到了什么？几乎总是反乌托邦，对吧？"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "For some reason fear gives more clicks than the positive visions, but if I have a student coming into my office at MIT asking for career advice, the first thing I’m going to ask her is, where will you want to be in 20 years? And if she just says, well maybe I’ll get cancer, maybe I’ll get run over by a bus, that’s a terrible way to think about career planning, right?",
+      "textZh": "出于某种原因，恐惧比积极愿景更能吸引点击，但如果有一名学生走进我在 MIT 的办公室寻求职业建议，我要问她的第一个问题就是：20年后你想处于什么位置？而如果她只是说，嗯，也许我会得癌症，也许我会被公交车撞倒，那就是一种糟糕的职业规划思路，对吧？"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "I want her to be on fire and say my vision is I want to do this - and here are the things that could go wrong, and then you can plan out how to avoid those problems and get it out - I would love to see more discussion about the upsides, futures we’re really excited about, so we can not just try to avoid problems for the sake of avoiding problems, but to get to something that we’re all really on fire about.",
+      "textZh": "我希望她充满激情地说，我的愿景是，我想做这件事——而这些是可能出错的地方，然后你就可以规划如何避免那些问题并把它解决掉——我很希望看到更多关于益处、关于那些真正令我们兴奋的未来的讨论，这样我们就不只是为了避免问题而设法避免问题，而是为了抵达某个让我们所有人都真正充满激情的未来。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "So to start off I’ll just tell you something that makes me really excited about advanced artificial intelligence. Everything I love about civilization is a product of intelligence. If we for some reason were to say, well, you know, I’m scared about this technology thing, let’s just press pause on it forever, there’s no interesting question about if we’re going to have human extinction, the question is just ‘when?'",
+      "textZh": "所以首先，我来告诉你们一件让我对高级人工智能真正感到兴奋的事。我所热爱的人类文明中的一切都是智能的产物。如果我们出于某种原因说，嗯，你知道，我害怕这个技术之类的东西，让我们永远按下暂停键，那么，关于人类是否会灭绝，并不存在什么值得探讨的问题，问题只在于“什么时候？”"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "Is it going to be a supervolcano, is it going to be the next dinosaur-killing-class asteroid - the last one happened 60 million years ago, so how long is it going to be? Pretty horrible future to just sit and wonder when we’re going to get taken out here without the technology when we know that we totally have the brainpower to solve all of these problems if we proceed forward and develop technology.",
+      "textZh": "会是一次超级火山爆发吗，会是下一颗灭绝恐龙级别的小行星吗——上一次发生在6000万年前，那么还要多久才会发生？在我们知道，只要继续前进并发展技术，我们完全拥有解决所有这些问题的脑力时，却没有技术，只能坐在那里猜想我们什么时候会在这里被消灭，这是一个相当可怕的未来。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "So that was just one thing that makes me very excited about moving forward rather than pressing 'Pause.' I want to just ask the same question to all of you guys in turn. So tell us, just pretty briefly, about something that you are really excited about. Some future vision you imagine with very advanced artificial intelligence that you’re really excited about, that you would like to see.",
+      "textZh": "所以，这只是让我对继续前进、而不是按下“暂停”感到非常兴奋的一件事。我想依次向你们所有人问同一个问题。那么请相当简短地告诉我们，有什么事情真正令你感到兴奋。某种你所设想的、拥有非常高级人工智能的未来愿景，它真正令你感到兴奋，是你希望看到的。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "Jaan- So I want to be careful when I imagine concrete fruits of AGI. On a meta-level I think as a first approximation, I think we should just maximize the amount of fun and minimize the amount of suffering.",
+      "textZh": "Jaan——所以，当我想象 AGI 的具体成果时，我希望谨慎一些。在元层面上，我认为作为初步近似，我认为我们应该直接最大化乐趣的总量，并最小化痛苦的总量。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "I think Eliezer [Yudkowsky] has written a sequence called “Fun Theory”, where he points out that people have been horrible imagining, are very unimaginative imagining paradises of various sorts, just like really boring places, actually, when you think about them. I think Eliezer has this sketch where he says, “It was hard to spend like one weekend with my relatives. Imagine spending eternity with your dead relatives.",
+      "textZh": "我想 Eliezer［Yudkowsky］写过一个名为《趣味理论》的系列，他在其中指出，人们在想象方面一直糟糕透顶，在想象各种各样的天堂时非常缺乏想象力，实际上，仔细想想，那些地方真的非常无聊。我想 Eliezer 有一段勾勒，他说：“和亲戚们共度哪怕一个周末都很难。想象一下和你那些已故的亲戚共度永恒。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "” So I think we should be concerned about side effects and try to capture dynamics of improvement, and basically go from there - make sure that we’re going to adjust the trajectory as we get smarter and more grown together. Great, thank you, Jaan. Sam, what do you get excited about? Well, strangely, what excites me really just abuts the parts that scare me the most.",
+      "textZh": "”所以我认为，我们应该关注副作用，并设法捕捉改进的动态，基本上从那里继续推进——确保随着我们变得更聪明、更共同成长，我们会调整发展轨迹。很好，谢谢你，Jaan。Sam，什么会让你感到兴奋？嗯，奇怪的是，真正让我兴奋的东西恰好紧挨着那些最令我害怕的部分。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "I think what is nice about this conversation, in particular about the alignment problem, is that it’s forcing us to realize that there are better and worse answers to questions of human value. And as someone said, perhaps at this last meeting in Puerto Rico, we really have to do philosophy on a deadline, and we have to admit to ourselves that there are better and worse answers and we have to converge on the better ones.",
+      "textZh": "我认为这场讨论的可贵之处，尤其是关于对齐问题的讨论，在于它迫使我们意识到，对于人类价值问题，存在较好和较差的答案。正如有人所说，也许是在上次波多黎各会议上说的，我们确实必须在截止期限前研究哲学，而且必须向自己承认，答案有好有坏，我们必须向较好的答案收敛。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "And what would excite me about actually the birth of superintelligent AI - one of the things, apart from solving obvious problems like curing disease and energy issues and all the rest, perhaps differs a little bit with what Stuart said. I’m not so worried about idiocracy or all of us just losing our way as apes and living unproductive lives in dialogue with these oracles.",
+      "textZh": "而真正会让我为超级智能 AI 的诞生感到兴奋的地方——其中之一，除了治愈疾病、解决能源问题以及其他所有显而易见的问题外，或许与 Stuart 所说的略有不同。我并不太担心低智社会，也不太担心我们所有人会像猿类一样迷失方向，在与这些神谕对话中度过毫无成效的人生。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "I think actually, I would want a truly value-aligned superintelligence to incrementally show us, not merely conserve what we want, but show us what we should want to keep improving our values so that we can navigate in the space of all possible experiences and converge on better and better ones. Thank you, Sam, and what about you, Demis?",
+      "textZh": "实际上，我认为，我会希望一个真正与价值观对齐的超级智能逐步向我们展示，不仅仅是保存我们想要的东西，而是向我们展示我们应该想要什么，不断改善我们的价值观，这样我们就能在所有可能体验的空间中探索，并向越来越好的体验收敛。谢谢你，Sam，那么你呢，Demis？"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "So obviously this is why I spend my whole career working on this, is that, I think if we do this right, it’s going to be the greatest thing ever to happen to humanity, and in some ways I think unlock our full potential. I mean, I’ve talked to a lot about, in all my talks about using it as a tool to help us make science and medical breakthroughs faster. And so I think that’s an obvious one.",
+      "textZh": "所以很明显，这就是我用整个职业生涯研究这件事的原因，因为我认为，如果我们正确地做成这件事，它将成为人类有史以来发生的最伟大的事情，而且从某些方面来说，我认为它会释放我们的全部潜力。我是说，我谈过很多，在我的所有演讲中都谈到过将它作为一种工具，帮助我们更快地取得科学和医学突破。所以我认为，这是一个显而易见的方面。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "But taking that longer-term, one reason I got so into AI is that, like probably many of you in this room, I’m interested in the biggest questions of why we’re here, understanding our minds, what is consciousness, what’s the nature of the universe, what’s our purpose - and if we’re going to try and really grapple with any of those questions I think we’re going to need something like AI, perhaps with ourselves enhanced as well.",
+      "textZh": "但从更长远的角度来看，我之所以如此投身 AI，一个原因是，就像这个房间里的许多人可能也一样，我对那些最宏大的问题感兴趣：我们为什么在这里、理解我们的心智、意识是什么、宇宙的本质是什么、我们的目的是什么——而且，如果我们打算真正努力解决其中任何一个问题，我认为我们将需要类似 AI 的东西，也许我们自身也会得到增强。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "And I think in that future world we’ll have a chance to actually find out about some of these really deep questions in the same way we’re finding out with AlphaGo just about Go, but what if we could do that with all of science and physics and the biggest questions in the universe. And I think that’s going to be the most exhilarating journey of all, to find that out.",
+      "textZh": "而且我认为，在那个未来世界里，我们将有机会真正弄清其中一些非常深刻的问题，就像我们正通过 AlphaGo 了解围棋本身一样，但如果我们能用这种方式研究所有的科学和物理学，以及宇宙中最重大的问题呢？我认为，弄清这些问题将会是所有旅程中最令人振奋的一段。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "To just carry out on a few other things that people commented on is in terms of us as the most intelligent beings on the planet right now, and treating animals badly and these sorts of things, I think if you think about it though - let’s take tigers or something in India.",
+      "textZh": "再接着谈谈其他人评论过的几件事，就我们目前作为这个星球上最有智慧的生物，却恶劣对待动物之类的问题而言，我认为，如果仔细想想——就以印度的老虎之类为例。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "They have huge ranges and those people are very poor and they’re resource-poor, but if they had abundant resources I don’t think they’re intentionally trying to kill off these tigers - in some cases they are - but often it’s just because they need the land for their cattle, and the tiger needs whatever number of kilometers squared to live, one tiger. And it’s just difficult with the number of people that are there.",
+      "textZh": "它们的活动范围非常大，而那些人非常贫穷，资源也很匮乏，但如果他们拥有充足的资源，我不认为他们是有意试图杀光这些老虎——在某些情况下他们确实如此——但通常只是因为他们需要土地来养牛，而1只老虎需要不知多少平方公里才能生存。考虑到那里的人口数量，这确实很困难。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "So I think if we solve the kind of abundance and scarcity problem, then I think that opens up a lot of conflicts both between humans as well as to do with resource scarcity, at the heart of it. So I see, if we can solve a lot of these problems I can see a much better future. So Nick, you pointed out, the upside part of your book was a little shorter, so now you have a chance to add something positive. What are you excited about?",
+      "textZh": "所以我认为，如果我们解决了这种富足与匮乏的问题，那么我认为这会开启许多冲突，既包括人与人之间的冲突，也包括那些从根本上与资源匮乏有关的冲突。所以我认为，如果我们能解决其中许多问题，我就能看到一个美好得多的未来。那么 Nick，你指出过，你书中谈好处的部分稍微短了一点，所以现在你有机会补充一些积极的内容。什么让你感到兴奋？"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "There are really two sides to that. So one is getting rid of a lot of the negatives, like the compassionate use to cure diseases and all other kinds of horrible miseries that exist on the planet today. So that is a large chunk of the potential. But then beyond that, if one really wants to see realistically what the positive things are that could be developed, I think one has to think outside the constraints of our current human biological nature.",
+      "textZh": "这其实有两个方面。一个方面是消除许多负面的事物，例如出于同情而用它来治愈疾病，以及消除当今地球上存在的其他各种可怕苦难。所以这是其潜力中的很大一部分。但除此之外，如果一个人真的想现实地看待可能发展出哪些积极的事物，我认为就必须跳出我们当前人类生物本性的限制去思考。"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "That it’s unrealistic to imagine a trajectory stretching hundreds of thousands of years into the future, we have superintelligence, we have material abundance, and yet we are still these bipedal organisms with three pounds of gray tissue matter, with a fixed set of emotional sensitivities and the hedonic set point that is kind of OK-ish for most people but if you get - if something really good happens it lasts for a time and then you’re back to the baseline.",
+      "textZh": "设想一条延伸到未来数十万年的轨迹，却认为我们拥有超级智能，拥有丰富的物质，而我们仍然是这些有3磅灰色组织、用双足行走的生物，有着一套固定的情绪敏感性和享乐设定点，对大多数人来说算是还可以，但如果你——如果真的发生了某件好事，它会持续一段时间，然后你又回到基准水平，这是不现实的。"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "I think all of these basic parameters that sort of define the human game today, I think become up for grabs in this future. And it opens up this much vaster space of post-human modes of beings, some of which I think could be wonderful, literally beyond our ability to imagine, in terms of the mental states, the types of activities, the understanding, the ways of relating.",
+      "textZh": "我认为，所有这些在某种程度上定义了当今人类游戏的基本参数，在这样的未来中都会变得可以重新选择。而这开启了一个广阔得多的后人类存在模式空间，其中一些在我看来可能会非常美妙，就精神状态、活动类型、理解以及彼此联系的方式而言，确实会超出我们的想象能力。"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "So I don’t think we need a detailed blueprint for utopia now, what we need is to get ourselves in a position later on where we can have the ability to use this to realize the values that come into view once we’ve taken steps forward. Thank you, Nick. What about you, David? I’m excited about the possibilities for AI making us humans smarter.",
+      "textZh": "所以我认为，我们现在并不需要一份乌托邦的详细蓝图；我们需要的是让自己在未来处于这样一个位置：当我们向前迈出几步、一些价值观进入视野之后，我们便有能力利用它来实现这些价值观。谢谢你，Nick。你呢，David？我对 AI 让我们人类变得更聪明的可能性感到兴奋。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "I mean some of it is selfish - I turned 50 last year, my brain is gradually becoming slower and older and dumber, but I’m not sure that I am, and that’s partly because of all of the augmented intelligence technology we’re using. Smartphones, and the Internet, and so on, they’re giving me all kinds of capacities, extended capacities that I didn’t have before. And I’m really looking forward to AI helping with that.",
+      "textZh": "我是说，其中有些是出于私心——我去年满50岁，我的大脑正逐渐变得更迟缓、更衰老、更愚钝，但我不确定我自己是否也在变成那样，这在一定程度上是因为我们正在使用各种增强智能技术。智能手机、互联网等等，它们赋予我各种能力，赋予我以前不具备的扩展能力。我真的非常期待 AI 在这方面提供帮助。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "In ten years or so once everyone is wearing augmented reality glasses with deep learning built into it, then I’m really going to need that around 60.",
+      "textZh": "大约10年后，一旦每个人都戴上内置深度学习的增强现实眼镜，那我到了60岁左右时就真的会需要它。"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "And if you guys really get on the case and by the time I’m 70 or so we've got real genuine AI or AI modules out there which can somehow come to be integrated with my brain processes or maybe eventually we get to upload our entire brains onto AI, then there's a way potentially to get smarter, more intelligent forever.",
+      "textZh": "如果你们真的认真着手去做，等我到了70岁左右时，我们已经有了真正意义上的 AI，或者已经有了某种能够与我的大脑过程整合起来的 AI 模块，又或者最终我们能把自己的整个大脑上传到 AI 上，那么我们就可能有办法永远变得更聪明、更有智慧。"
+    },
+    {
+      "id": "p-0115",
+      "textEn": "And this is not just selfish, although I can't say that doesn't motivate me, but Demis talked about the AI scientists; I also like to think about the AI philosopher. The problems of philosophy are really hard and many people have speculated that we humans are just too dumb to solve some of them.",
+      "textZh": "而这并不只是出于私心，尽管我不能说那没有激励我，但 Demis 谈到了 AI 科学家；我也喜欢思考 AI 哲学家。哲学问题真的很难，许多人推测，我们人类实在太愚钝，无法解决其中一些问题。"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "But once we've actually got AIs on the scene, maybe AI-enhanced humans, then maybe we're going to be able to cross those thresholds where the AI-enhanced humans or maybe just the AGIs end up solving some of those hard problems of philosophy for once and for all. Great, Ray, you have been a true pioneer in articulating positive visions of the future in your writing. So if you picked the one that you're most excited about now, what would that be?",
+      "textZh": "但一旦 AI 真正登场，也许还有 AI 增强的人类，那么我们或许就能跨过那些门槛，让 AI 增强的人类，或许干脆就是 AGI，最终一劳永逸地解决其中一些艰深的哲学问题。很好，Ray，你一直是一位真正的先驱，在你的著作中阐述了对未来的积极愿景。那么，如果要选出一个现在最令你兴奋的愿景，会是什么？"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "So imagine going back 10,000 years and asking the quintessential caveman and woman, Gee, what is a beneficial future? What would you like to see? And they would say, well I would like this fire to stop going out and I would like a bigger boulder to prevent the animals from getting in the cave. Anything else? Well no I think that would be pretty perfect. Well don't you want a better website and apps and search engines?",
+      "textZh": "那么，想象一下回到10,000年前，去问典型的穴居男人和女人：嘿，什么是有益的未来？你们希望看到什么？他们会说，嗯，我希望这团火别再熄灭，也希望有一块更大的巨石，防止动物进入洞穴。还有别的吗？嗯，没有了，我觉得那样就相当完美了。那你们不想要更好的网站、应用程序和搜索引擎吗？"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "Imagine going back 2 million years ago and talking to primates - imagine if you could do that, and saying, isn't it great that frontal cortex is coming and we're going to have additional neocortex and and a hierarchy and they say, well what's the point of that? And you say, well you'll have music and humor, and their answer would be, what's music? What's humor?",
+      "textZh": "想象一下回到200万年前与灵长类动物交谈——想象一下如果你能做到，然后对它们说，额叶皮层即将出现，我们将拥有更多的新皮层，还有层级结构，这不是很棒吗？它们会说，嗯，那有什么用？你说，嗯，你们会拥有音乐和幽默，而它们的回答会是：什么是音乐？什么是幽默？"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "So they couldn't imagine concepts that they couldn't imagine, and by analogy I think we will have new phenomena that are as profound as music and humor, you could call it more profound music and we'll be funnier, but I think it'll be as profound as these great leaps that evolution has brought us, because we will become profoundly smarter and if music and humor are up here and we go to even higher levels of the neocortex, we're going to have more profound ways of expressing ourselves and once we have that we would not want to go back.",
+      "textZh": "所以它们无法想象那些它们无法想象的概念，以此类推，我认为我们也会拥有一些像音乐和幽默一样深刻的新现象，你可以称之为更深刻的音乐，而我们也会变得更有趣，但我认为，这会像进化带给我们的这些巨大飞跃一样深刻，因为我们会变得聪明得多；如果音乐和幽默位于这里，而我们又迈向新皮层的更高层级，我们就会拥有更深刻的自我表达方式，而一旦拥有了这些，我们就不会想回到过去。"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "What about you, Bart? Well, I pretty much agree that we can't really predict much in advance, what we would like to have. For myself personally I see the developments in mathematics and science and discovery, and computers are just the hybrids of human computers there is quite incredible and makes the field - makes what we do much more exciting. So I think that will be in the near future the first thing. Great, and what about you, Stuart?",
+      "textZh": "你呢，Bart？嗯，我基本同意，我们其实无法提前预测太多，不知道自己会想拥有什么。就我个人而言，我看到了数学、科学和发现方面的发展，而计算机只是人类计算机的混合体，这相当不可思议，也让这个领域——让我们所做的事情更加令人兴奋。所以我认为，这会是近期出现的第一件事。很好，你呢，Stuart？"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "Well, so like Jeffrey Sachs - I think that for many of us, and probably like the cavemen - that for many of us life is pretty amazing, and for many more of us it isn't. And I think the best thing that AI can do, the big upside, is actually to fix the latter problem.",
+      "textZh": "嗯，就像 Jeffrey Sachs——我认为对我们许多人来说，而且或许也像那些穴居人一样——对我们许多人而言，生活相当美好，但对更多人而言，生活并非如此。而我认为 AI 能做的最好的事、最大的好处，就是切实解决后一个问题。"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "I mean I love Nick's feeling that there are higher states of being that are so far above our current 'pretty good', that that balances out all the 'pretty bad' that a lot of people are suffering.",
+      "textZh": "我是说，我很喜欢 Nick 的这种感觉：存在着远远高于我们当前这种“相当不错”状态的更高存在状态，而这足以抵消许多人正在承受的所有“相当糟糕”。"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "But I really think the emphasis should be on the 'pretty bad' and fixing it, and eliminating - so Demis was reading my notes apparently, from across the room - but eliminating the scarcity basically eliminates the need for people to act in a zero-sum fashion where they can only get by, by making it less possible for someone else to get by, and I think that's the source of a lot of the nastiness that Jeffrey mentioned earlier.",
+      "textZh": "但我确实认为，重点应该放在“相当糟糕”上，去解决它，并消除——所以 Demis 显然隔着房间看过了我的笔记——但消除匮乏，基本上就消除了人们以零和方式行事的必要性；在这种方式下，他们只有让别人更难维持生活，自己才能维持生活，而我认为这正是 Jeffrey 之前提到的许多恶劣现象的根源。"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "So I think that would be my main upside, and not having to read so much email, that would be the second one. And for you, Elon, you've never articulated any visionary ideas about the future as far as I know, either. What about now? I think I just - I have thought about this a lot, and I think it just really comes down to two things, and it's solving the machine-brain bandwidth constraint and democratization of AI.",
+      "textZh": "所以我认为那会是我认为的主要好处，而不必阅读那么多电子邮件，那会是第2个。还有你，埃隆，据我所知，你也从未阐述过任何关于未来的愿景构想。现在呢？我想我只是——我对此思考了很多，我认为归根结底其实就是2件事：解决机器与大脑之间的带宽限制，以及人工智能的民主化。"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "I think if we have those two things, the future will be good. There was a great quote by Lord Acton which is that 'freedom consists of the distribution of power and despotism in its concentration.' And I think as long as we have - as long as AI powers, like anyone can get it if they want it, and we've got something faster than meat sticks to communicate with, then I think the future will be good.",
+      "textZh": "我认为，如果我们拥有这2样东西，未来就会很好。阿克顿勋爵有一句很棒的名言：“自由在于权力的分散，而专制在于权力的集中。”我认为，只要我们拥有——只要人工智能的力量，比如任何想获得它的人都能获得，而且我们拥有某种比肉棍更快的东西来沟通，那么我认为未来就会很好。"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "Fantastic, so let's get - I know your caffeine levels are dropping dangerously low, and we also have another panel after this, which is going to be really exciting to listen to, so let's do a just a few quick questions. Make sure that they are actually questions, and say your name and also say, pick one person on the panel and address it just to them, OK? Yoshua? Yoshua Bengio, Montreal.",
+      "textZh": "太棒了，那么让我们——我知道你们的咖啡因水平正在降至危险的低位，而且在这之后我们还有另一场小组讨论，听那场讨论会非常令人兴奋，所以我们来快速问几个问题。确保它们确实是问题，并说出你的名字，还要说，选择小组中的1个人，只向那个人提问，好吗？Yoshua？Yoshua Bengio，蒙特利尔。"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "And it's for Jaan - I found your presentation very inspiring, and one question I have is related to the question of eliciting preferences and values from people. Do you think this line of investigation could lead to better democracy, better society, more direct democracy, and you know, what do you think about this direction to deal with the issue of misuse and things like that. Yes, absolutely.",
+      "textZh": "这是问Jaan的——我觉得你的演讲非常鼓舞人心，我有1个问题与从人们那里引出偏好和价值观的问题有关。你认为这条研究路线能否带来更好的民主、更好的社会、更直接的民主？而且，你知道，对于用这个方向来处理滥用之类的问题，你怎么看？是的，绝对可以。"
+    },
+    {
+      "id": "p-0128",
+      "textEn": "There could be one code name for this, even, could be like 'Democracy 2. 0' or 'U. N. 2. 0' or something like that. So, and as I mentioned in my presentation, just a lot of people today basically want to make the world better, but it's kind of hard to distinguish them from people who say they want to make the world better.",
+      "textZh": "这甚至可以有1个代号，可以是类似“民主2. 0”或“联合国2. 0”之类的名字。所以，正如我在演讲中提到的，如今很多人基本上都想让世界变得更好，但有点难以将他们与那些声称自己想让世界变得更好的人区分开来。"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "So if there was actually kind of like a very easy measuring, like a metric that basically would work as a Schelling point, focal point, then I think that would be super helpful. And yeah, like democracy was invented like hundreds of years ago so, and clearly we have advanced as a civilization and we have better knowledge about how to aggregate preferences. And Nicolas Berggruen, over there. Thank you, Max.",
+      "textZh": "所以，如果真有某种非常容易的衡量方式，比如1个基本上能充当谢林点、焦点的指标，那么我认为那会非常有帮助。而且，是的，民主是几百年前发明的，所以，而且显然我们作为一个文明已经取得了进步，对于如何汇总偏好也有了更好的认识。那边的Nicolas Berggruen。谢谢你，Max。"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "Nicolas Berggruen, so I have a very almost naive question. This is a very well-meaning group in terms of, let's say, intentions, but who sort of, looking at who else is doing, potentially, AGI, it could be well beyond this group, it could be in China, it could be any place. And what happens because we've talked about how powerful AGI is, and if Elon is correct, if it is distributed fairly, fine.",
+      "textZh": "Nicolas Berggruen，所以我有1个几乎很天真的问题。就，比方说，意图而言，这是1个非常善意的群体，但某种程度上，看看还有谁可能在做AGI，那可能远远超出这个群体，可能在中国，也可能在任何地方。那么会发生什么？因为我们已经谈过AGI有多么强大，而且如果埃隆是对的，如果它得到公平分配，那就没问题。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "But if it isn't, is there a way to monitor today or in a year or in 10 years, because once it's out it'll be fast. Who is monitoring it, who has a tab on it? Because this is self-selected, but beyond... Elon or Demis does either one of you want to take a swing at this?",
+      "textZh": "但如果不是这样，有没有办法在今天、1年后或10年后进行监控，因为它一旦出现，发展就会很快。谁在监控它，谁在跟踪它？因为这是自行选择的，但除此之外……埃隆或 Demis，你们两位中有谁想回答一下这个问题吗？"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "Well I think this sort of relates to my point I said earlier about trying to build AI at the hard part of the 'S' curve, so, which I think is where we sort of are at the moment, as far as we can tell, because, you know, it's not easy to make this kind of progress, so you need quite a lot of people who are quite smart and that community is pretty small, still, even though it's getting rapidly bigger at places like NIPS.",
+      "textZh": "嗯，我认为这在某种程度上与我之前提出的观点有关，也就是尝试在“S”曲线的困难部分构建 AI，所以，我认为就我们所知，我们目前差不多正处于这个位置，因为，你知道，要取得这种进展并不容易，所以你需要相当多非常聪明的人，而这个群体仍然很小，尽管它在 NIPS 等地方正迅速扩大。"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "And so most people know each other, so this is pretty representative of everyone in the West, at least, obviously it's harder to know what's happening in China or in Russia, maybe. But, you know, I think that you need quite a large footprint of resources, people and very smart people and lots of computers and so on. So I think that narrows down the scope of the number of groups who can do that, and it also means that they're more visible.",
+      "textZh": "所以大多数人彼此都认识，因此这很能代表西方的所有人，至少是这样；显然，要了解中国或俄罗斯正在发生什么可能更困难。但你知道，我认为你需要相当大规模的资源投入、人员和非常聪明的人，以及大量计算机等等。所以我认为，这缩小了能够做到这一点的团体数量范围，也意味着他们更加显眼。"
+    },
+    {
+      "id": "p-0134",
+      "textEn": "So, you know, I think certainly in the West I think most people around here, someone in this room will have contact with somebody who's in those groups who are capable of making meaningful progress towards AGI. It's harder to know in the East and further apart, but we should try and make links to those Chinese National Academy of Sciences, and so on, to find out more.",
+      "textZh": "所以，你知道，我认为至少在西方，我想这里的大多数人，这个房间里的某个人，会与那些有能力在迈向 AGI 方面取得实质性进展的团体中的某个人有联系。对于东方以及距离更远的地方，情况更难了解，但我们应该尝试与那些中国国家科学院之类的机构建立联系，以了解更多情况。"
+    },
+    {
+      "id": "p-0135",
+      "textEn": "But you know that may change in the future, I think that's the current state of it. Great, it's - the bad news is it's getting later in the day and we only have time for one more question. The good news is there's a coffee break right after this so you can ask all of your questions if you swarm the panel. And the last question goes to you, Erik. Do you want to stand up? Erik Brynjolfsson, MIT.",
+      "textZh": "但你知道，这在未来可能会改变，我认为这就是目前的状况。很好，坏消息是时间越来越晚了，我们只够时间再问1个问题。好消息是紧接着就有咖啡休息时间，所以如果你们围住各位嘉宾，就可以把所有问题都问出来。最后1个问题给你，Erik。你想站起来吗？Erik Brynjolfsson，MIT。"
+    },
+    {
+      "id": "p-0136",
+      "textEn": "I'm going to pick up on the thing that Elon said at the end about democratizing the outcome and tie it back to the panel yesterday where Reid Hoffman talked about people caring a lot about not just absolute income but relative income, and I wanted to get the panelists' reactions to the thoughts about whether or not AI had tendencies towards winner-take-all effects, that there's a tendency for concentration, that whoever's ahead can pull further ahead, or whether there's potential for more widespread democratic access to it, and what kinds of mechanisms we can put in place if we want to have the widely shared prosperity that Elon suggested?",
+      "textZh": "我要接着谈埃隆最后所说的成果民主化，并把它联系到昨天的讨论，当时 Reid Hoffman 谈到人们不仅非常在意绝对收入，也非常在意相对收入；我想听听各位嘉宾对这些想法的反应：AI 是否具有赢家通吃效应的倾向，是否存在集中的趋势，是否领先者能够进一步拉大领先优势，还是说它有可能让更广泛的人群以民主化的方式获取它；以及，如果我们想要实现埃隆所说的那种广泛共享的繁荣，可以建立什么样的机制？"
+    },
+    {
+      "id": "p-0137",
+      "textEn": "Elon, do you want to take that? Yeah, well, I mean I have to say that when something is a danger to the public, then there needs to be some - I hate to say government agency, like regulators - I'm not the biggest fan of regulators, 'cause they're a bit of a buzzkill. But the fact is we've got regulators in the aircraft industry, car industry, I deal with them all the time, with drugs, food - and anything that's sort of a public risk.",
+      "textZh": "埃隆，你想回答吗？是的，嗯，我的意思是，我不得不说，当某种事物对公众构成危险时，就需要某种——我不愿说是政府机构，比如监管机构——我并不是监管机构的最大拥护者，因为它们有点扫兴。但事实是，我们在航空业、汽车业都有监管机构，我一直都在和他们打交道；药品、食品也是如此——还有任何多少会构成公共风险的事物。"
+    },
+    {
+      "id": "p-0138",
+      "textEn": "And I think this has to fall into the category of a public risk. So I think that the right thing to do, and I think it will happen, the question is whether the government reaction speed matches the advancement speed of AI. Governments react slowly - or governments move slowly and they tend to be reactive, as opposed to proactive. But you can look at these other industries and say, does anybody really want the FAA to go away?",
+      "textZh": "而且我认为，这必须归入公共风险这一类别。所以我认为正确的做法是，而且我认为这会发生，问题在于政府的反应速度能否赶上 AI 的进步速度。政府反应缓慢——或者说政府行动缓慢，而且往往是被动应对，而不是主动出击。但你可以看看这些其他行业，然后问：真的有人希望 FAA 消失吗？"
+    },
+    {
+      "id": "p-0139",
+      "textEn": "and it's like people could just be a free for all for aircraft - like, probably not. You know, there's a reason it's there or just people could just do any kind of drugs and maybe they work, maybe the don't. You know, we have that in supplements, kind of ridiculous.",
+      "textZh": "然后就会变成任何人都可以随意搞飞机——比如，大概不会吧。你知道，它存在是有原因的；或者人们可以随便制造任何药物，可能有效，也可能无效。你知道，膳食补充剂领域就是这样，挺荒唐的。"
+    },
+    {
+      "id": "p-0140",
+      "textEn": "But I think on balance FDA is good, so I think we probably need some kind of regulatory authority and I think it's, like a rebuttal to that is, well people will just move to Costa Rica or something. That's not true. OK, we don't see Boeing moving to Costa Rica or to Venezuela or wherever it's like free and loose To Demis' point, the AI is overwhelmingly likely to be developed where there is a concentration of AI research talent.",
+      "textZh": "但总的来说，我认为 FDA 是有益的，所以我认为我们可能需要某种监管机构，而对此的一种反驳是，嗯，人们只会搬去哥斯达黎加之类的地方。事实并非如此。好吧，我们没有看到波音搬去哥斯达黎加、委内瑞拉，或任何监管自由宽松的地方。正如 Demis 所说，AI 极有可能在 AI 研究人才集中的地方开发出来。"
+    },
+    {
+      "id": "p-0141",
+      "textEn": "And that happens to be in a few places in the world. It's Silicon Valley, London, at Boston, if you sort of figure out a few other places, but it's really just a few places that really regulators could reasonably access. And I want to be clear, it's not because I love regulators, OK? They're a pain in the neck but they're necessary to preserve the public at times. Alright, on that note, let's thank the panel for a fascinating discussion.",
+      "textZh": "而这种情况恰好只出现在世界上的少数几个地方。包括硅谷、伦敦、波士顿，如果你大致算一下，还有其他少数几个地方，但真正说来也就那么几个监管机构能够合理触及的地方。而且我想说清楚，这不是因为我喜欢监管机构，好吗？它们很烦人，但有时为了保护公众，它们是必要的。好了，说到这里，让我们感谢各位嘉宾带来的精彩讨论。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T19:54:12.015Z",
+    "reviewedAt": "2026-09-12T20:27:37.049Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:16.626Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=h0962biiZa4",
+  "sourceHash": "82714a0ea38639da338539ab17524d61c65008f55d1daab603577a826847e261"
+}

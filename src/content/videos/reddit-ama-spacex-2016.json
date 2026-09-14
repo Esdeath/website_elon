@@ -1,0 +1,252 @@
+{
+  "id": "reddit-ama-spacex-2016",
+  "slug": "reddit-ama-spacex-2016",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2016-10-23",
+  "titleEn": "Reddit AMA — “Ask me anything about becoming a spacefaring civ” (r/spacex, 2016)",
+  "titleZh": "Reddit AMA——“尽管问我任何关于成为太空文明的问题”（r/spacex，2016）",
+  "summaryEn": "Four weeks after unveiling the Interplanetary Transport System at the IAC in Guadalajara, Musk took the engineering questions of r/spacex: header tanks, the carbon-fibre tank, 42 engines, Earth entry, Falcon 9 Block 5 and the four-step plan for the first Mars flights — plus the moment he admitted the name ITS “just isn't working” and that he was calling it BFR internally.",
+  "summaryZh": "在瓜达拉哈拉举行的国际宇航大会上公布行星际运输系统4周后，马斯克回答了 r/spacex 的工程问题：顶置贮箱、碳纤维贮箱、42台发动机、进入地球大气层、Falcon 9 Block 5，以及首批火星飞行的4步计划——此外，还有他承认 ITS 这个名称“就是行不通”，并称自己内部将其叫作 BFR 的那一刻。",
+  "sourceUrl": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/",
+  "sourceLabel": "Reddit — r/spacex AMA",
+  "archiveUrl": "https://elonmuskarchive.org/video/reddit-ama-spacex-2016",
+  "org": "SpaceX",
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "u/[deleted]: What equipment and procedures will be required for refueling operations on Mars? Will they be designed to function autonomously for the initial unmanned test flight? Also, are there any plans to introduce a third variant of the ITS with just a large shuttle-like payload bay to allow for transporting bulkier cargo?",
+      "textZh": "u/[已删除]：在火星上进行加注作业需要哪些设备和程序？它们是否会被设计成能在首次无人测试飞行中自主运行？另外，是否有计划推出 ITS 的第3种型号，只配备一个类似大型航天飞机的有效载荷舱，以便运输体积更大的货物？"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "Elon Musk: We are still far from figuring this out in detail, but the current plan is: 1. Send Dragon scouting missions, initially just to make sure we know how to land without adding a crater and then to figure out the best way to get water for the CH4/O2 Sabatier Reaction. 2. Heart of Gold spaceship flies to Mars loaded only with equipment to build the propellant plant. 3. First crewed mission with equipment to build rudimentary base and complete the propellant plant. 4. Try to double the number of flights with each Earth-Mars orbital rendezvous, which is every 26 months, until the city can grow by itself.",
+      "textZh": "埃隆·马斯克：我们离弄清楚具体细节还很远，但目前的计划是：1. 派遣 Dragon 侦察任务，最初只是为了确保我们知道如何在不新增一个陨石坑的情况下着陆，然后确定获取水以进行 CH4/O2 萨巴捷反应的最佳方式。2. 黄金之心号飞船飞往火星，仅装载建造推进剂工厂所需的设备。3. 首次载人任务携带建造简易基地和完成推进剂工厂所需的设备。4. 尝试在每次地球—火星轨道交会时将飞行次数翻倍，也就是每26个月一次，直到这座城市能够自行发展。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94ss5a/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94ss5a/"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "u/Ulysius: As a follow-up, considering the synodal reuse of the ITS spaceships, what form of permanent habitation do you foresee? Shipped modules or an (eventual) shift to in-situ resource utilization such as Martian regolith/plastic-reinforced concrete structures?",
+      "textZh": "u/Ulysius：接着问一下，考虑到 ITS 飞船会合周期内的重复使用，你预见永久居住设施会采用什么形式？运送过去的舱段，还是（最终）转向就地资源利用，例如采用火星风化层/塑料增强混凝土结构？"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Elon Musk: Initially, glass panes with carbon fiber frames to build geodesic domes on the surface, plus a lot of miner/tunneling droids. With the latter, you can build out a huge amount of pressurized space for industrial operations and leave the glass domes for green living space.",
+      "textZh": "埃隆·马斯克：最初，会用带碳纤维框架的玻璃板在地表建造测地线穹顶，外加大量采矿/隧道机器人。利用后者，你可以建造大量用于工业作业的加压空间，把玻璃穹顶留作绿色生活空间。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94t2bv/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94t2bv/"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "u/MINDMOLESTER: Hi Elon, ITS question: What SpaceX technology/material still requires the most development for ITS to be a success? Thank you!",
+      "textZh": "u/MINDMOLESTER：嗨，埃隆，关于 ITS 的问题：要让 ITS 取得成功，哪项 SpaceX 技术/材料仍然最需要开发？谢谢！"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Elon Musk: It used to be developing a new metal alloy that is extremely resistant to oxidation for the hot oxygen-rich turbopump, which is operating at insane pressure to feed a 300 bar main chamber. Anything that can burn, will burn. We seem to have that under control, as the Raptor turbopump didn't show erosion in the test firings, but there is still room for optimization. Biggest question right now is sealing the carbon fiber tanks against cryo propellant with hot autogenous pressurization. The oxygen tank also has an oxidation risk problem as it is pressurized with pure, hot oxygen. Will almost certainly need to apply an inert layer of some kind. Hopefully, something that can be sprayed. If need be, will use thin sheets of invar welded together on the inside.",
+      "textZh": "埃隆·马斯克：过去是为高温富氧涡轮泵开发一种极其耐氧化的新型金属合金，该泵在疯狂的压力下运行，为300 bar 的主燃烧室供料。任何能燃烧的东西都会燃烧。我们似乎已经控制住了这一点，因为猛禽发动机的涡轮泵在点火测试中没有出现侵蚀，但仍有优化空间。目前最大的问题是，如何密封碳纤维贮箱，使其在使用高温自生增压的情况下能够抵御低温推进剂。氧贮箱也存在氧化风险问题，因为它使用高温纯氧增压。几乎肯定需要施加某种惰性层。希望是某种可以喷涂的材料。如有必要，将在内部使用焊接在一起的薄殷钢板。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94tbej/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94tbej/"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "u/rohishimoto: In addition, what technology (if any) do you think you have nailed down/mastered at this point?",
+      "textZh": "u/rohishimoto：另外，你认为截至目前，你们已经彻底解决/掌握了哪项技术（如果有的话）？"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Elon Musk: Not sure that we've really mastered anything yet. Maybe starting engines...",
+      "textZh": "埃隆·马斯克：不确定我们是否真的已经掌握了任何东西。也许是启动发动机……"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94tk41/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94tk41/"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "u/Zucal: Hi Elon, and many thanks for doing this today! What level of completion is the interior habitable area layout of ITS at, and when might we expect to see renderings of it?",
+      "textZh": "u/Zucal：你好，埃隆，非常感谢你今天来做这个！ITS 内部宜居区域的布局目前完成到什么程度了，我们什么时候能看到它的渲染图？"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Elon Musk: I think we need a new name. ITS just isn't working. I'm using BFR and BFS for the rocket and spaceship, which is fine internally, but... Will aim to release details of the habitation section when we have actual live mockups. Maybe in a year or two.",
+      "textZh": "埃隆·马斯克：我觉得我们需要一个新名字。ITS 这个名字就是不太行。我现在用 BFR 和 BFS 来称呼火箭和飞船，这在内部没问题，但是……我们会争取在有实际实物模型时公布居住舱段的细节。也许在1年或2年后。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94trp9/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94trp9/"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "u/[deleted]: [question deleted by its author]",
+      "textZh": "u/[已删除]：［问题已由其作者删除］"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Elon Musk: Probably just pack the pressurized space with cargo. Early missions will be heavily weighted towards cargo. First crewed mission would have about a dozen people, as the goal will be to build out and troubleshoot the propellant plant and Mars Base Alpha power system.",
+      "textZh": "埃隆·马斯克：可能就用货物塞满增压空间。早期任务将会非常侧重货运。首次载人任务将搭载大约12人，因为目标将是建造并排查推进剂工厂和火星阿尔法基地电力系统的问题。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94txm0/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94txm0/"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "u/TheVehicleDestroyer: Hi Elon. I've got 3 questions on the ITS vehicle specs: Can you divulge what the Vacuum Thrust+Isp figures are for the Sea-Level Raptor variant? The ITS booster is able to hover. Will it ever use this capability to better ensure a successful landing at the expense of some small gravity losses, or is it hoverslams all the way? What is the expected maximum acceleration that the ITS booster can withstand during entry/landing? Thanks for everything.",
+      "textZh": "u/TheVehicleDestroyer：你好，埃隆。我有3个关于 ITS 飞行器规格的问题：你能透露海平面版猛禽发动机的真空推力和比冲数据吗？ITS 助推器能够悬停。它是否会利用这一能力，以少量重力损失为代价，更好地确保成功着陆，还是会全程采用悬停猛降？预计 ITS 助推器在再入/着陆期间能够承受的最大加速度是多少？感谢你所做的一切。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "Elon Musk: - Approx 360 sec vacuum Isp and 290 metric tons of thrust - A high acceleration landing is a lot more efficient, so there wouldn't be any hovering unless it encountered a problem or unexpected wind conditions. A rocket that lands slowly is wasting a lot of fuel. - Aiming for 20 g's",
+      "textZh": "埃隆·马斯克：- 真空比冲约360秒，推力290公吨\n- 高加速度着陆的效率要高得多，所以除非遇到问题或意外的风况，否则不会悬停。缓慢着陆的火箭是在浪费大量燃料。\n- 目标是20 g"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94u6zk/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94u6zk/"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "u/Tesla_X_City: If I recall correctly on one of the slides it mentioned that there it will be 4-6 G's upon reentry. It does not specify, however, whether that will be during the landing burn or aerobraking. It would be nice if that is clarified as well.",
+      "textZh": "u/Tesla_X_City：如果我没记错，其中一张幻灯片提到，再入时会达到4-6 G。不过，它没有说明这是在着陆点火期间还是气动制动期间。如果这一点也能澄清就好了。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Elon Musk: The spaceship would be limited to around 5 g's nominal, but able to take peak loads 2 to 3 times higher without breaking up. Booster would be nominal of 20 and maybe 30 to 40 without breaking up.",
+      "textZh": "埃隆·马斯克：飞船的标称极限约为5 g，但能承受高出2至3倍的峰值载荷而不解体。助推器的标称值为20 g，也许能承受30至40 g而不解体。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94ub7h/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94ub7h/"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "u/termderd (Tim Dodd, Everyday Astronaut): We got a pretty good idea of what a Mars EDL looks like, but can you explain how the ITS and the Tanker plan to do an Earth EDL? Having talked with you at IAC about the Mars entry, we learned that there's very powerful thrusters that can handle attitude control. These work great for the Martian atmosphere, but what about on Earth? There doesn't appear to be grid fins and the thrusters obviously have less authority here on Earth, so what's the trick?",
+      "textZh": "u/termderd（Tim Dodd，Everyday Astronaut）：我们已经相当清楚火星 EDL 是什么样的了，但你能解释一下 ITS 和加油船计划如何进行地球 EDL 吗？在 IAC 与你讨论火星进入时，我们了解到有推力非常强大的推进器可以负责姿态控制。这些推进器在火星大气层中效果很好，但在地球上呢？它似乎没有栅格翼，而且这些推进器在地球这里的控制能力显然更弱，所以诀窍是什么？"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "Elon Musk: Good question -- that wasn't shown at IAC. The spaceship and tanker would have split body flaps for pitch and roll. Probably just use the attitude control thrusters for yaw.",
+      "textZh": "埃隆·马斯克：好问题——这一点没有在 IAC 上展示。飞船和加注船会采用分体式机身襟翼来控制俯仰和滚转。偏航可能只需使用姿态控制推进器。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94ukv8/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94ukv8/"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "u/nalyd8991: I think one of the most shocking things in your ITS presentation for many people was the full size carbon fiber tank SpaceX built. Can you tell us a little bit more about the design, construction, and role of that particular test article?",
+      "textZh": "u/nalyd8991：我认为，对许多人来说，你在 ITS 演示中最令人震惊的内容之一，是 SpaceX 建造的全尺寸碳纤维贮箱。你能再介绍一下这个特定试验件的设计、建造和作用吗？"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Elon Musk: Yeah, for those that know their stuff, that was really the big news :) The flight tank will actually be slightly longer than the development tank shown, but the same diameter. That was built with latest and greatest carbon fiber prepreg. In theory, it should hold cryogenic propellant without leaking and without a sealing linker. Early tests are promising. Will take it up to 2/3 of burst pressure on an ocean barge in the coming weeks.",
+      "textZh": "埃隆·马斯克：是的，对那些真正懂行的人来说，那才是真正的大新闻 :) 飞行贮箱实际上会比展示的研制贮箱略长，但直径相同。它采用最新、最先进的碳纤维预浸料制造。理论上，它应该能够容纳低温推进剂而不发生泄漏，也不需要密封连接件。早期测试的结果很有希望。未来几周将在一艘海上驳船上将其加压至爆破压力的 2/3。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94urs2/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94urs2/"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "u/FoxhoundBat: Overall is the landing architecture of the ITS booster and the distances to be covered the same as Falcon 9's? Boostback, re-entry burn, landing burn? Could you give us nuggets on what changes the “final” Falcon 9 version (“v1.3”) you mentioned will have? Gwynne mentioned two weeks ago that F9 v1.2 will be reused only once or twice while “v1.3” should be reused up to 10 times. Can you talk about what the limiting factors for Falcon 9 reuse are?",
+      "textZh": "u/FoxhoundBat：总体而言，ITS 助推器的着陆架构以及需要飞行的距离与猎鹰 9 号相同吗？返航推进、再入点火、着陆点火？你能否透露一些你提到的猎鹰 9 号“最终”版本（“v1.3”）会有哪些改动？Gwynne 两周前提到，F9 v1.2 只会重复使用 1 次或 2 次，而“v1.3”应该能重复使用多达 10 次。你能谈谈限制猎鹰 9 号重复使用的因素是什么吗？"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "Elon Musk: The big booster will have an easier time of things than Falcon, as the mass ratio of the stages is lower and it will have lower density. Net result is that it won't come in quite as hot and fast as Falcon, so Falcon should be a bounding case on the big booster. Final Falcon 9 has a lot of minor refinements that collectively are important, but uprated thrust and improved legs are the most significant. Actually, I think the F9 boosters could be used almost indefinitely, so long as there is scheduled maintenance and careful inspections. Falcon 9 Block 5 -- the final version in the series -- is the one that has the most performance and is designed for easy reuse, so it just makes sense to focus on that long term and retire the earlier versions. Block 5 starts production in about 3 months and initial flight is in 6 to 8 months, so there isn't much point in ground testing Block 3 or 4 much beyond a few reflights.",
+      "textZh": "埃隆·马斯克：大型助推器的情况会比猎鹰更轻松，因为各级的质量比更低，而且它的密度也会更低。最终结果是，它进入大气层时不会像猎鹰那样又热又快，所以猎鹰应该可以作为大型助推器的边界情况。最终版猎鹰 9 号有许多细微改进，这些改进综合起来非常重要，但推力提升和着陆腿改进最为显著。事实上，我认为只要进行定期维护和仔细检查，F9 助推器几乎可以无限期使用。猎鹰 9 号 Block 5——该系列的最终版本——性能最强，并且专为便捷重复使用而设计，因此长期专注于这一版本并让早期版本退役才是合理的。Block 5 将在大约 3 个月后开始生产，并在 6 到 8 个月后首次飞行，因此除了进行几次复飞之外，再对 Block 3 或 4 做更多地面测试并没有太大意义。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94v8p8/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94v8p8/"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "u/__Rocket__: ITS Spaceship design question: the ITS Spaceship has two mystical spherical tanks. The whole tank design looks very exciting, and there's rampant speculation on this sub about the purpose of those spherical tanks: are they for landing fuel? Or are they storing “hot” gaseous propellants as part of the autogenous propellant pressurization system? Or are they used for on-orbit propellant densification to store vapor before it's liquefied again? All of the above perhaps?",
+      "textZh": "u/__Rocket__：ITS 飞船设计问题：ITS 飞船有 2 个神秘的球形贮箱。整个贮箱设计看起来非常令人兴奋，本版块对这些球形贮箱的用途有大量猜测：它们是用来储存着陆燃料的吗？还是作为自生推进剂增压系统的一部分，用来储存“热”气态推进剂？或者，它们是用于在轨推进剂致密化，在蒸气再次液化前将其储存起来？也许以上皆是？"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Elon Musk: Those are the header tanks that contain the landing propellant. They are separate in order to have greater insulation and minimize boil-off, avoid sloshing on entry and not have to press up the whole main tank.",
+      "textZh": "埃隆·马斯克：那些是装有着陆推进剂的集液箱。它们是分开的，以便获得更好的隔热效果并最大限度减少蒸发，避免再入时液体晃动，也不必给整个主贮箱增压。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94vcmw/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94vcmw/"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "u/_rocketboy: Also, why does the booster only have one header tank?",
+      "textZh": "u/_rocketboy：另外，为什么助推器只有一个集液箱？"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Elon Musk: The liquid oxygen transfer tube serves as the header tank for ox",
+      "textZh": "埃隆·马斯克：液氧输送管充当氧化剂的集液箱"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94vdk1/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94vdk1/"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "u/__Rocket__: ITS Booster engine placement design question: the tight cluster of 42 engines of the ITS Booster (cool number!) has created speculation on this sub that maybe they are packed so tightly because that way there's a “virtual nozzle” or “virtual aerospike” effect they can take advantage of: they can have shorter nozzles while most of the exhaust momentum of the inner engines is still axial. Is there any truth to this speculation, or is the tight packing done purely to scale up liftoff thrust-to-weight?",
+      "textZh": "u/__Rocket__：关于 ITS 助推器发动机布局设计的问题：ITS 助推器上由 42 台发动机组成的紧密集群（很酷的数字！）引发了本版块的一种猜测，也许它们排列得如此紧密，是因为这样可以利用一种“虚拟喷管”或“虚拟气动尖锥”效应：它们可以使用更短的喷管，同时内侧发动机的大部分排气动量仍然沿轴向。这种猜测有任何依据吗，还是紧密排列纯粹是为了提高起飞推重比？"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Elon Musk: It had to be 42 for important scientific and fictional reasons! The dense packing is just to max out thrust to weight, but it would be cool if there was a virtual nozzle side effect.",
+      "textZh": "埃隆·马斯克：出于重要的科学和科幻原因，它必须是 42！密集排列只是为了最大限度提高推重比，但如果能附带产生虚拟喷管效应，那会很酷。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94vnwz/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94vnwz/"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "u/__Rocket__: ITS Spaceship capabilities question: according to your IAC presentation the ITS Spaceship has a Δv budget of 7.5 km/s when returning from Mars to Earth, with 150 tons of payload. With a much smaller payload it has a Δv budget in excess of 9.0 km/s — which is amazing! Could this unprecedented amount of Δv be used to fly between Mars and Earth even outside the launch windows enforced by the synodic period, when payload mass is not a primary factor? It could be used for emergency purposes such as medical supplies/instruments and experts, or for other high priority but low mass cargo like critical replacements.",
+      "textZh": "u/__Rocket__：关于 ITS 飞船能力的问题：根据你在 IAC 的演讲，ITS 飞船携带 150 吨有效载荷从火星返回地球时，Δv 预算为 7.5 km/s。携带少得多的有效载荷时，其 Δv 预算会超过 9.0 km/s——这太惊人了！当有效载荷质量不是首要因素时，这一前所未有的 Δv 是否可用于在会合周期所规定的发射窗口之外往返火星与地球？它可以用于紧急用途，例如运送医疗物资／仪器和专家，或运送其他优先级高但质量低的货物，比如关键替换件。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "Elon Musk: yes",
+      "textZh": "埃隆·马斯克：是的"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94voyh/",
+      "textZh": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/d94voyh/"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T21:10:56.037Z",
+    "reviewedAt": "2026-09-12T21:35:06.697Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:13.225Z",
+  "transcriptSource": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/",
+  "sourceHash": "ffd1550b91501eb2b37a61c9d227ba61f9403d76c9d2be9425f6a5d3fa95b929"
+}

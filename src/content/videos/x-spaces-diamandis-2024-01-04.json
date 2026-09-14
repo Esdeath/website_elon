@@ -1,0 +1,2933 @@
+{
+  "id": "x-spaces-diamandis-2024-01-04",
+  "slug": "x-spaces-diamandis-2024-01-04",
+  "snapshotId": "2026-09-12",
+  "type": "space",
+  "date": "2024-01-04",
+  "titleEn": "X Spaces: Abundance, AGI and the media (Peter Diamandis)",
+  "titleZh": "X Spaces：富足、AGI 与媒体（彼得·戴曼迪斯）",
+  "summaryEn": "Peter Diamandis hosted Musk on an X Space discussing data-driven optimism, digital superintelligence, longevity, education and abundance heading into 2024.",
+  "summaryZh": "彼得·戴曼迪斯在一场 X Space 中主持了与马斯克的对谈，讨论了迈入 2024 年之际的数据驱动型乐观主义、数字超级智能、长寿、教育和富足。",
+  "sourceUrl": "https://www.youtube.com/watch?v=_PcL4w--uNs",
+  "sourceLabel": "Peter H. Diamandis",
+  "archiveUrl": "https://elonmuskarchive.org/video/x-spaces-diamandis-2024-01-04",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/_PcL4w--uNs",
+  "thumbnailUrl": "https://i.ytimg.com/vi/_PcL4w--uNs/hqdefault.jpg",
+  "durationSec": 4621,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 0.24,
+      "textEn": "Following is a year's conversation I had with Elon Musk, arguably the greatest entrepreneur of our time, perhaps the greatest entrepreneur ever. During this conversation, which is called the Coming Age of Abundance, we talk about how technologies including AI and humanoid robotics are creating a world of abundance, uplifting humanity across food, water, energy, healthcare, education. We'll be talking about longevity, we'll be talking about AI.",
+      "textZh": "接下来是我与埃隆·马斯克进行的一年对话，他可以说是我们这个时代最伟大的企业家，或许也是有史以来最伟大的企业家。在这场名为《即将到来的富足时代》的对话中，我们谈论包括 AI 和人形机器人在内的技术如何创造一个富足的世界，在食物、水、能源、医疗保健、教育等方面提升人类。我们会谈论长寿，也会谈论 AI。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 25,
+      "textEn": "We'll be talking about the decreasing global population and what are the reasons that you should have for being optimistic about the future. Join me. Happy New Year, Yan.",
+      "textZh": "我们会谈论不断减少的全球人口，以及你应该对未来保持乐观的理由。加入我吧。新年快乐，Yan。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 36.82,
+      "textEn": "Happy New Year 2024. I love to think.",
+      "textZh": "2024 年新年快乐。我喜欢思考。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 40.66,
+      "textEn": "Yeah, it feels like the future.",
+      "textZh": "是的，感觉就像未来。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 43.86,
+      "textEn": "It is the future.",
+      "textZh": "这就是未来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 45.06,
+      "textEn": "It is the future. It's going to be awesome.",
+      "textZh": "这就是未来。它会非常棒。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 49.54,
+      "textEn": "You know, I'm hoping we get a little bit of conversation on some hope and good news for folks on this on the spaces.",
+      "textZh": "你知道，我希望我们能在这个空间里聊一聊，给大家带来一些希望和好消息。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 58.15,
+      "textEn": "I think Deal could use it.",
+      "textZh": "我觉得迪尔可能需要这些。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 59.51,
+      "textEn": "You are the most optimistic person that I know of by far and I guess it is refreshing to hear such optimism.",
+      "textZh": "你是我所知道的最乐观的人，远远超过其他人，我想听到这样的乐观态度确实令人耳目一新。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 73.99,
+      "textEn": "I think people need a positive mindset. I think it's self fulfilling prophecy to a large degree. If you're pessimistic. And we can talk about how the news media just decimates our minds constantly.",
+      "textZh": "我认为人们需要积极的心态。我认为这在很大程度上是一种自我实现的预言。如果你很悲观。我们还可以谈谈新闻媒体如何不断摧毁我们的心智。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 88.28,
+      "textEn": "Yeah. The news is so negative. I mean it makes me sad to read the news, frankly.",
+      "textZh": "是的。新闻太负面了。说实话，我的意思是，看新闻让我感到难过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 92.84,
+      "textEn": "Well, let me ask you a question. I don't watch, I don't watch network news and I don't read any newspapers. They couldn't pay me enough money to do that.",
+      "textZh": "好吧，让我问你一个问题。我不看，我不看电视网新闻，也不读任何报纸。他们给我再多钱，也不足以让我去做这种事。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 103.8,
+      "textEn": "I'll accidentally read the news and I'll just be sad,",
+      "textZh": "我会不小心看到新闻，然后就会很难过，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 109.47,
+      "textEn": "insane.",
+      "textZh": "太疯狂了。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 110.75,
+      "textEn": "Well, I mean as you, as you know, the, the news, the daily news really, really attempts to answer the question, what is the worst thing that happened on Earth today? It is.",
+      "textZh": "嗯，我的意思是，正如你，你知道的，新闻，每日新闻其实是在非常、非常努力地回答这个问题：今天地球上发生的最糟糕的事情是什么？就是这样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 123.95,
+      "textEn": "And let me, let me show it to you every five minutes in your living room over and over and over again.",
+      "textZh": "而且让我，让我每隔5分钟就在你的客厅里给你播放一遍，一遍又一遍又一遍。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 129.95,
+      "textEn": "Yeah. And it's a big world. There's 8 billion people on Earth. So you know, somewhere something horrible is happening every single day. But there's also great things happening every single day.",
+      "textZh": "是的。而且这是一个很大的世界。地球上有80亿人。所以你知道，每一天，某个地方都会发生一些可怕的事情。但每一天也都有很棒的事情发生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 139.14,
+      "textEn": "You know what I call cnn, the Crisis News Network or the Constantly Negative News Network.",
+      "textZh": "你知道我怎么称呼CNN吗？危机新闻网，或者持续负面新闻网。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 146.9,
+      "textEn": "And the problem is they've got to scare you otherwise, you know, if they say, hey, it's been a pretty good day overall, you know, violence is an all time low.",
+      "textZh": "而问题是，他们必须吓唬你，否则，你知道，如果他们说，嘿，总体而言今天过得相当不错，你知道，暴力事件处于历史最低水平。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 161.86,
+      "textEn": "We've got more access to food, energy, water, health care, education on the planet than ever before. I mean, people would just start watching horror movies I think instead.",
+      "textZh": "我们在这个星球上获得食物、能源、水、医疗保健和教育的机会比以往任何时候都多。我的意思是，我觉得人们反而会直接开始看恐怖电影。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 170.64,
+      "textEn": "Yeah, yeah.",
+      "textZh": "是的，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 172.88,
+      "textEn": "The challenge is, it's, it's our neural nets, the wiring of our brains, you know, evolved in a world of constant danger and so we're sort of just wired for fear and scarcity constantly.",
+      "textZh": "挑战在于，这是，这是我们的神经网络，是我们大脑的线路，你知道，它们是在一个危险无处不在的世界中进化出来的，所以我们在某种程度上就是天生不断地恐惧、感到匮乏。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 186.16,
+      "textEn": "Yeah, well, yeah, I think you made this point. Maybe others have.",
+      "textZh": "是的，嗯，是的，我想你提出过这个观点。也许其他人也提过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 193.87,
+      "textEn": "It sort of makes sense as a. As an evolutionary asymmetry that we would respond more to danger than to reward in that, like, the consequences of danger could be fatal. Like, it could be like, well, if you go over there, there's a lion that's going to eat you or some neighboring tribe that's going to kill you, and it's game over. Yeah.",
+      "textZh": "这作为一种。一种进化上的不对称，似乎是说得通的：我们对危险的反应会比对奖励的反应更强，因为，比如说，危险的后果可能是致命的。比如，可能会是这样：嗯，如果你去那边，那里有一头狮子会吃掉你，或者某个邻近部落会杀死你，然后游戏结束。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 217.19,
+      "textEn": "Your genes are out of the gene pool.",
+      "textZh": "你的基因被排除出了基因库。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 219.63,
+      "textEn": "Yeah, you're. You're out. Whereas, say, like, news that there's a. There's a nice bush with berries over there is. It's nice to have. It's. It's optional, but it's the. In one case you die, in other cases you're hungry, but death is worse than hunger. So. So that's why it's. Basically anyone who did not respond more to negative news than positive news didn't make it.",
+      "textZh": "是的，你。你出局了。而另一方面，比如说，有消息说那边有一丛不错的浆果。知道了挺好。这。它是可有可无的，但区别在于。一种情况下你会死，其他情况下你会挨饿，但死亡比饥饿更糟。所以。所以这就是为什么。基本上，任何对负面消息的反应不比对正面消息更强的人，都没能存活下来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 248.58,
+      "textEn": "They were selected. They were selected against for sure that.",
+      "textZh": "他们被选择了。他们肯定遭到了淘汰。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 252.42,
+      "textEn": "Yes. I mean, anyone who was complacent about where the lion was eaten by the lion.",
+      "textZh": "是的。我的意思是，任何对狮子在哪里漫不经心的人，都被狮子吃掉了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 258.26,
+      "textEn": "And, and, you know, the reality is, you know, the news media has one job. To deliver your eyeballs to their advertisers. And when we pay 10 times more attention to negative news and positive news, that's all we get 24. 7. So, I mean, listen. Yeah, I.",
+      "textZh": "而且，而且，你知道，现实是，新闻媒体只有一项工作。把你的眼球交给他们的广告商。而当我们对负面新闻和正面新闻多关注10倍时，那就是我们全天24小时、每周7天得到的全部。所以，我的意思是，听着。是的，我。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 273.62,
+      "textEn": "It's inevitable.",
+      "textZh": "这是不可避免的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 274.9,
+      "textEn": "Yeah, it is. I mean, I do get my news invariably on my feed on X, but I also get all the great things happening in the world because I can selectively choose to watch that. But when you're watching TV or in the newspaper, some editor someplace or some producer is deciding what gets fed into your mind. And it can really screw with your mindset.",
+      "textZh": "是的，确实如此。我的意思是，我总是从X上的信息流获取新闻，但我也能看到世界各地正在发生的所有美好事情，因为我可以有选择地选择观看那些内容。但当你在看电视或读报纸时，某个地方的某位编辑或某个制片人正在决定向你的脑海里灌输什么。而这真的会扰乱你的心态。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 302.98,
+      "textEn": "Yes, exactly.",
+      "textZh": "是的，没错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 304.18,
+      "textEn": "So, I mean, this, this space is called it the coming age of Abundance. And you know, you were really. When my first book came out, Abundance of the Future Is Better Than youn Think, you were super supportive and I. And I appreciate that was 12 years ago and I think the story.",
+      "textZh": "所以，我的意思是，这个，这个空间叫作“即将到来的丰裕时代”。而且你知道，你确实。当我的第一本书《丰裕：未来比你想象的更美好》出版时，你非常支持我，我。而我很感激，那是12年前，我认为这个故事。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 318.74,
+      "textEn": "Whoa. 12 years ago.",
+      "textZh": "哇。12年前。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 319.74,
+      "textEn": "Amazing. Yeah. And it's gotten so much better. So I.",
+      "textZh": "太不可思议了。是的。而且它已经变得好太多了。所以我。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 324.02,
+      "textEn": "It's gotten so. It has in so many ways.",
+      "textZh": "它已经变得这么。它在很多方面确实如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 326.94,
+      "textEn": "Not. Not every way.",
+      "textZh": "不。不是每一种方式。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 328.1,
+      "textEn": "Like, I mean, I mean, obviously we go back a ways. The, The. I remember when we were at a Dana's party in Brazil. Yeah.",
+      "textZh": "就像，我是说，我是说，显然我们认识有些年头了。那个，那个。我记得我们当时在巴西参加达纳的派对。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 341.36,
+      "textEn": "How long ago he was. It was his 40th. Or was it his 30th? I don't know.",
+      "textZh": "那是多久以前来着。那是他的40岁生日。还是他的30岁生日？我不知道。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 346.64,
+      "textEn": "No, it was his thirst. Wow. This was. It was just when SpaceX was. Yeah, just when I was pulling space.",
+      "textZh": "不，那是他的渴望。哇。这是。那正是 SpaceX 当时。对，正是我在拉动太空的时候。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 353.12,
+      "textEn": "Yeah, it was, it was 2003 thereabouts. It was just before the X prize was won.",
+      "textZh": "对，那是，那是大约2003年。就在 X 大奖被赢得之前。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 358.92,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 359.2,
+      "textEn": "I was trying to convince you not",
+      "textZh": "我当时试图说服你不要",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 360.68,
+      "textEn": "to build rockets 21 years ago. Could like, like you could have a kid that, that has, could legally drink",
+      "textZh": "在21年前造火箭。可能，就像，就像你可以有一个孩子，那个，已经，可以合法饮酒",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 368.68,
+      "textEn": "or legally have kids. Yeah, yeah.",
+      "textZh": "或者合法生孩子。对，对。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 373.32,
+      "textEn": "So 21 years ago.",
+      "textZh": "所以是21年前。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 376.68,
+      "textEn": "Yeah, so. And you know, think big things are mostly better.",
+      "textZh": "对，所以。而且你知道，我觉得大的事物大多更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 382.79,
+      "textEn": "You know, I want to give everybody listening a dose of hope and optimism on the abundance side because the world has gotten better in so many ways. All you hear about is the negative constantly. And I think that's going back to our sort of core dystopian mindsets from, you know, evolving 100,000 years ago. But if we just look at some of the, look at some of the areas. Right, so like global extreme poverty. Right. I mean, what's a more important metric?",
+      "textZh": "你知道，我想在富足这方面给每一位听众注入一剂希望和乐观，因为世界已经在如此多的方面变得更好了。你不断听到的全是负面消息。而且我认为，这可以追溯到我们某种核心的反乌托邦思维模式，也就是，你知道，10万年前进化形成的。但如果我们只看看其中一些，看看其中一些领域。对，比如全球极端贫困。对。我是说，还有什么指标比这更重要？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 411.8,
+      "textEn": "You know, here are the numbers. 90% of the world was in global extreme poverty in the 1800s. In 1981 it was 42%. Today it's under 10% of the world.",
+      "textZh": "你知道，数字是这样的。19世纪时，全球90%的人口处于全球极端贫困之中。1981年是42%。如今，全球这一比例低于10%。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 424.439,
+      "textEn": "Right, yeah. Hunger is actually rare and it used to be common.",
+      "textZh": "对，是的。饥饿实际上已经很少见，而过去很常见。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 429.64,
+      "textEn": "Exactly. And another one is obviously one area that you're leading the charge on is energy. You know, we used to kill whales to get whale oil to light our nights and we ravaged mountainsides and we drilled kilometers into the ground. And what's the figure? It's like 8,000 times more energy hits the surface of the sun, surface of the Earth from the sun than we consume as a species. But what's the rate at which batteries and solar is increasing?",
+      "textZh": "正是。另一个显然是你正在带头推进的领域，那就是能源。你知道，我们过去会杀死鲸鱼，获取鲸油来照亮夜晚；我们破坏山坡，还向地下钻探数公里。那个数字是多少？大概是，太阳照射到太阳表面，照射到地球表面的能量，是我们这个物种消耗量的8,000倍。但电池和太阳能正以什么速度增长？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 455.82,
+      "textEn": "It must be massive.",
+      "textZh": "那增速一定非常惊人。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 458.22,
+      "textEn": "Yes. I mean, I mean Tesla, we've made a couple of presentations, one sort of simplistic and then one in extreme detail on how to make Earth completely self sustaining from an energy standpoint and demonstrating that there is no that if you break down all of the raw materials for a lithium ion battery and for solar, you can easily make Earth.",
+      "textZh": "是的。我是说，我是说 Tesla，我们做过几次演示，一次比较简化，然后另一次极为详细，讲解如何让地球在能源方面完全自给自足，并证明并不存在什么，如果你把锂离子电池和太阳能所需的所有原材料逐一拆解来看，你可以轻易地让地球。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 487.03,
+      "textEn": "I mean there's no shortage of materials. It's easy, it's a lot of work obviously, but, but, but there's not like some critical material that we don't have enough of in order to make Earth fully self sustaining. Even if the only way that you powered all of industry on Earth and all power, including heating and transport electrically, you could do that with solar and lithium ion batteries and, and not, not come anywhere close to depleting the resources of Earth.",
+      "textZh": "我是说，材料并不短缺。这很容易，显然需要大量工作，但，但，但并不存在某种我们数量不足、因而无法让地球完全自给自足的关键材料。即便你为地球上所有工业和所有动力供能的唯一方式，包括供暖和交通，都是电力，你也可以用太阳能和锂离子电池做到，而且，而且远远不会接近耗尽地球资源的程度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 517.75,
+      "textEn": "Yeah, my favorite, my favorite example there was back in the 1800s, the most precious metal on the planet was aluminum. It was more precious than gold and platinum. And even though the Earth's crust is 8% bauxite, basically aluminum, it was just so energetically difficult. It wasn't that it was scarce, it just wasn't in usable form yet. And that's what technology does. It takes something which is scarce and not usable and makes it usable.",
+      "textZh": "是的，我最喜欢的，我最喜欢的例子要追溯到19世纪，当时地球上最珍贵的金属是铝。它比黄金和铂金还珍贵。尽管地壳中有8%是铝土矿，基本上就是铝，但要获得它在能量方面实在太困难了。并不是它稀缺，只是它当时还不是可用的形态。而这正是技术所做的事。它把某种稀缺且不可用的东西变得可用。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 550.53,
+      "textEn": "Right, so.",
+      "textZh": "对，所以。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 551.17,
+      "textEn": "Yeah, yeah, exactly. Aluminum oxide is extremely common and. But, but it is, it is a low energy state. In fact, thermite. Thermite. Thermite is just iron oxide, rust and pure aluminum. And the, the energy difference between iron oxide and aluminum oxide is so great that it generates an incredible enough heat to melt through steel. So that's what thermite is. So, yeah, you do need a lot of energy to turn aluminum oxide into aluminum.",
+      "textZh": "是的，是的，没错。氧化铝极其常见，而且。但，但它是，它是一种低能态。事实上，铝热剂。铝热剂。铝热剂就是氧化铁、铁锈和纯铝。而氧化铁与氧化铝之间的能量差异如此之大，以至于它能产生高得惊人的热量，足以熔穿钢铁。所以这就是铝热剂。因此，是的，要把氧化铝变成铝，确实需要大量能量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 588.64,
+      "textEn": "But, yeah, In World War II, there was a massive scarcity of aluminum for aircraft. Sure. And that just. In fact, in Britain, the Mosquito sort of fighter bomber was made of mostly of wood, but it was, it was done with.",
+      "textZh": "但是，是的，在第二次世界大战期间，飞机用铝极度短缺。当然。而那只是。事实上，在英国，蚊式那种战斗轰炸机大部分由木材制成，但它是，它是用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 609.4,
+      "textEn": "It was basically an early form of composites, but using stiff wood on the outside and light wood and like balsa as a sandwich structure. It's pretty clever. And the whole thing was intended to address the shortage of.",
+      "textZh": "它基本上是一种早期形式的复合材料，但外侧使用硬木，中间则用轻木，比如巴尔沙木，形成夹层结构。相当巧妙。而整件事原本是为了应对……的短缺。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 623.72,
+      "textEn": "And that. And then we get technology, we get better, better mechanisms of extracting the aluminum from the, from the aluminum oxide from the bauxite. And this happens over and over again. In fact, that's just what we do. I mean, I think the number was last year in 2023 or maybe in 22, we had more new electricity production from solar than from any other form. And you've done an extraordinary job on battery production.",
+      "textZh": "还有那个。然后我们有了技术，我们有了更好、更好的机制，从，从氧化铝、从铝土矿中提取铝。这种事情一再发生。事实上，这正是我们所做的。我是说，我想那个数字是去年，也就是2023年，或者也许是22年，我们来自太阳能的新增发电量超过了任何其他形式。而你在电池生产方面做得非常出色。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 653.42,
+      "textEn": "Yeah. And the battery production is growing, actually, almost at several times the rate of vehicle production. So, you know, in some cases, almost 10x the rate of vehicle production.",
+      "textZh": "是的。而且电池产量实际上正在增长，增速几乎是汽车产量增速的数倍。所以，你知道，在某些情况下，几乎是汽车产量增速的10倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 671.56,
+      "textEn": "So, yes, there's a massive demand for batteries. And, you know, as the world uses more electricity, there's actually a lot more capability that the grid has if you can buffer the energy than without it. Because the vast majority of electrical grid, sure, it's wasted. Assume no, they assume no buffering.",
+      "textZh": "所以，是的，电池需求非常巨大。而且，你知道，随着全世界使用更多电力，如果能够缓冲能量，电网实际上会比无法缓冲时具备大得多的能力。因为绝大多数电网，当然，它被浪费了。假定没有，它们假定没有缓冲。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 693.99,
+      "textEn": "So they have to size the power plants for, for peak output. Peak power output, which is typically a hot summer day, and, and then for at night, you can have anywhere from half, optimistically half power output to sometimes one tenth of the power output.",
+      "textZh": "所以它们必须按照，按照峰值输出来确定发电厂的规模。峰值功率输出通常出现在炎热的夏日，而，而到了夜间，功率输出可能是任何水平，从乐观情况下的一半，到有时只有十分之一。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 715.47,
+      "textEn": "So basically, the grid, almost everywhere the grid is sized for excess electrical power output, and if you just buffer it with batteries, you can increase the output of the grid by two or three times.",
+      "textZh": "所以基本上，几乎各地的电网都是按照过剩电力输出来确定规模的，而如果只是用电池对其进行缓冲，就能把电网的输出提高2倍或3倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 732.71,
+      "textEn": "I mean, to make the point here on the abundance theme, there Is no limitation. Energy.",
+      "textZh": "我的意思是，为了说明这里关于富足主题的观点，并不存在限制。能源。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 738.76,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 739.12,
+      "textEn": "We are increasing the amount of energy per capita and there's a direct correlation between the GDP of a nation and its energy production. Right. And the direct correlation between health and education and energy. Everything scales as you increase the energy per capita of a nation.",
+      "textZh": "我们正在增加人均能源量，而一个国家的GDP与其能源产量之间存在直接相关性。对吧。而健康和教育与能源之间也存在直接相关性。随着一个国家的人均能源增加，一切都会相应提升。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 759.32,
+      "textEn": "Yeah, yeah.",
+      "textZh": "是的，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 762.85,
+      "textEn": "Another category, communications. Another area that you're revolutionizing. I think the number right now, I just was checking it earlier, it's like 6.9 billion smartphone users in 2023. Like 86, 86%. And that's what I got when I, when I googled it.",
+      "textZh": "另一个类别，通信。又一个正被你彻底改变的领域。我想现在的数字，我刚才还查过，大概是2023年有69亿智能手机用户。大约86，86%。这是我，我在谷歌上搜索后得到的结果。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 780.53,
+      "textEn": "I don't know what. 6.9. You know what?",
+      "textZh": "我不知道什么。6.9。你知道吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 783.49,
+      "textEn": "Yeah,",
+      "textZh": "是的，",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 786.13,
+      "textEn": "6900 million.",
+      "textZh": "6900百万。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 787.25,
+      "textEn": "6900 million. This guy there that my, my 12 year olds would.",
+      "textZh": "6900百万。这个家伙在那里，我的，我的12岁孩子会。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 796.51,
+      "textEn": "It's like 85, 85% of the planet's got a smartphone. And",
+      "textZh": "大约85，85%的地球人口拥有智能手机。而",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 802.75,
+      "textEn": "well, I mean if you add up the total number of smartphones ever made, it exceeds.",
+      "textZh": "嗯，我是说，如果把有史以来制造的智能手机总数加起来，它超过了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 808.27,
+      "textEn": "Yeah, I think it. So it's amazing. So we've gone from like zero telephony to the majority, vast majority of the planet in under a century. You know, global Internet as well. The same thing. And did your, your next iteration of Starlink spacecraft have gone up the direct to cell phone?",
+      "textZh": "是的，我想是这样。所以这很惊人。所以在不到1个世纪的时间里，我们从差不多零电话通信发展到地球上大多数、绝大多数人都有电话通信。你知道，全球互联网也是如此。同样的事情。而你的，你的下一批星链航天器已经升空了吗，就是手机直连的那些？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 835.02,
+      "textEn": "Okay, yes, that just went up. So you know, we still have to prove that it works and all, but we're confident that even if the, if these early satellites don't work, we're confident from a physics standpoint that it can work.",
+      "textZh": "好的，是的，那刚刚升空。所以你知道，我们仍然必须证明它确实有效之类的，但我们有信心，即使这些，即使这些早期卫星不起作用，从物理学角度而言，我们也有信心它能够实现。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 851.78,
+      "textEn": "It is a challenge because we have to emulate a self tower on the ground in order for the phones to accept the signal. So we have to do Doppler compensation, for example, and do some sort of. Because you've got a speed of light limitations, pal.",
+      "textZh": "这是一个挑战，因为我们必须模拟地面上的一座自我塔，才能让手机接受信号。所以，例如，我们必须进行多普勒补偿，并做某种。因为你会受到光速的限制，伙计。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 875.3,
+      "textEn": "If it were easy, it would have been done already.",
+      "textZh": "如果这很容易，早就有人做成了。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 878.56,
+      "textEn": "Yeah, yeah, there's some speed of light limitations. So you know, this, this like light is, is so fast and yet so slow.",
+      "textZh": "是的，是的，存在一些光速限制。所以你知道，这个，这个就像光是，是如此之快，却又如此之慢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 887.44,
+      "textEn": "So you know, I, I think, yeah, a good way to think about light, at least in the space context or for the lowest orb context is, is it travels about 300km every millisecond in, in air or in, in space. And then, and then around just over 200 kilometers per millisecond in fiber.",
+      "textZh": "所以你知道，我，我认为，是的，至少在太空情境中，或者在最低天体情境中，理解光的一种好方法是，它在，在空气或，在，在太空中每毫秒传播约300公里。然后，然后在光纤中每毫秒传播略高于200公里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 912.44,
+      "textEn": "Hey everyone, I want to take a quick break from this episode to tell you about a health product that I love and that I use every day. In fact, I use it twice a day. It seeds DSO1 daily symbiotic. Hopefully by now you understand that your microbiome and your gut health are one of the most important modifiable parts of your Health. You know, your gut microbiome is connected to everything. Your brain health, your cardiac health, your metabolic health.",
+      "textZh": "大家好，我想从本期节目中短暂抽身，告诉你们一款我很喜欢、每天都在使用的健康产品。事实上，我每天用2次。它是 Seed 的 DSO1 每日合生元。希望到现在你已经明白，你的微生物组和肠道健康是你的健康中最重要的可改变部分之一。你知道，你的肠道微生物组与一切都有联系。你的脑部健康、心脏健康、代谢健康。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 938.24,
+      "textEn": "So the question is, what are you doing to optimize your gut? Let me take a moment to tell you about what I'm doing. Every day I take two capsules of seeds DSO one daily symbiotic. It's a 2 in 1 probiotic and prebiotic formulation that supports digestive health, gut health, skin health, heart health, and more. It contains 24 clinically and scientifically proven probiotic strains that are delivered in a patented capsule that actually protects the contents from your stomach acid and ensures that 100% of it is survivable reaching your colon.",
+      "textZh": "所以问题是，你正在做些什么来优化你的肠道？让我花点时间告诉你我正在做什么。我每天服用2粒 Seed 的 DSO 1 每日合生元胶囊。它是一款 2 合 1 的益生菌和益生元配方，有助于消化健康、肠道健康、皮肤健康、心脏健康等。它含有24种经临床和科学验证的益生菌菌株，并通过一种获得专利的胶囊输送，这种胶囊实际上能保护其中的成分免受胃酸侵蚀，并确保其中100%都能存活着到达你的结肠。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 972.13,
+      "textEn": "Now, if you want to try seeds DS01 Daily Symbiotic for yourself, you can get 25% off your first month supply by using the code PETER25 at checkout. Just go to seed.com moonshots and enter the code PETER25 at checkout. That's seed.com moonshots and use the code PETER25 to get your 25% off the first month of seeds Daily Symbiotic. Trust me, your gut will thank you. All right, let's go back to the episode. You know, another abundance area is health.",
+      "textZh": "现在，如果你想亲自试试 Seed 的 DS01 每日合生元，在结账时使用代码 PETER25，首月用量即可享受25%的折扣。只需前往 seed.com moonshots，并在结账时输入代码 PETER25。就是 seed.com moonshots，使用代码 PETER25，即可让你的首月 Seed 每日合生元享受25%的折扣。相信我，你的肠道会感谢你的。好了，让我们回到节目。你知道，另一个富足领域是健康。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1005.77,
+      "textEn": "I hear some, some kids in the background there. So interestingly enough, you know, child mortality, I mean, probably, I mean, this is one that hits me the most in terms of increasing abundance. Child mortality under the age of five was 42% a couple hundred years ago. It was a coin flip of whether your kids survived.",
+      "textZh": "我听到背景里有一些、一些孩子的声音。有意思的是，你知道，儿童死亡率，我是说，可能，我是说，就增加富足而言，这是最触动我的一个方面。几百年前，5岁以下儿童的死亡率是42%。你的孩子能否活下来就像抛硬币一样。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1026.59,
+      "textEn": "And it's decreased now to under 5% and it's gone down by 50% in the last 30 years.",
+      "textZh": "而现在它已经降至5%以下，并且在过去30年中下降了50%。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1036.44,
+      "textEn": "So just childhood mortality and women dying in childbirth. All of these things people don't think about when they're listening to all the news on and all the issues. And then life expectancy, my favorite subject has gone up from, you know, 30 years old to, to 75 plus. I still disagree with you on longevity,",
+      "textZh": "所以仅仅是儿童死亡率和女性死于分娩。人们在收听所有新闻和所有问题时，并不会想到所有这些事情。然后是预期寿命，这是我最喜欢的话题，已经从，你知道，30岁提高到了、到了75岁以上。不过我在长寿问题上仍然不同意你的看法，",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 1057.08,
+      "textEn": "though, that, that we should solve it or not. Like we should. You think we should?",
+      "textZh": "就是，我们是否应该解决它。比如我们应该解决。你认为我们应该吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1062.44,
+      "textEn": "Well, I, I listen, I'm not necessarily saying live forever, but I'd like to make it to 120. 150.",
+      "textZh": "嗯，我、我说，我不一定是说要永远活着，但我想活到120岁。150岁。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 1071.3,
+      "textEn": "Yeah. I sort of wonder if we should not solve it too soon.",
+      "textZh": "是啊。我有点怀疑，我们是不是不应该太早解决它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1081.62,
+      "textEn": "Presidential elections, life expectancy first.",
+      "textZh": "总统选举，预期寿命优先。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 1085.46,
+      "textEn": "And do you really want them to get that life expectancy first?",
+      "textZh": "而你真的希望他们先获得那种预期寿命吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1090.58,
+      "textEn": "Well, you know, you know, I think we, I think being able to have the vitality, the cognition, the physical prowess, you know, that you have when you're in your 40s or 50s through the age of 100. That's my goal. I mean, you don't want to, you don't want to, you know, you want to make it to at least 100, don't you?",
+      "textZh": "嗯，你知道，你知道，我认为我们，我认为能够一直到100岁都拥有你在40多岁或50多岁时具备的活力、认知能力和身体能力。那是我的目标。我是说，你不想、你不想，你知道，你至少想活到100岁，不是吗？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Elon Musk",
+      "startSec": 1117.55,
+      "textEn": "Well, I guess it does depend on whether I'm, you know, have dementia. I don't think I'd want to be a burden on society or have dementia and not know what's going on. I prefer to be dead.",
+      "textZh": "嗯，我想这确实取决于我是否，你知道，患有痴呆症。我想我不会愿意成为社会的负担，或者患有痴呆症、不知道发生了什么。我宁愿死去。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1131.32,
+      "textEn": "Well, yeah, I think that's, that's for sure. But let's assume that you had, you know, all the cognitive power you have today and your physical strength. Is there any reason why you wouldn't want to, you know, have an extended lifespan or health span?",
+      "textZh": "嗯，是啊，我认为那、那是肯定的。但我们假设你拥有，你知道，你今天拥有的全部认知能力和身体力量。你有什么理由不想要，你知道，延长寿命或健康寿命吗？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1149.25,
+      "textEn": "Yeah, sure,",
+      "textZh": "是啊，当然，",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 1152.85,
+      "textEn": "I guess.",
+      "textZh": "我想是吧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1155.25,
+      "textEn": "I think we are end up there's such a strong forcing function for life extension or healthspan extension that I think we will see advancements in that area whether I want them to be there or not.",
+      "textZh": "我认为我们最终，有一种如此强大的推动力促使延长寿命或延长健康寿命，因此我认为无论我希望不希望它们出现，我们都会看到该领域取得进展。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 1169.33,
+      "textEn": "And actually my opinion on the subject is that it's, I think it's actually not that hard to solve because if you just consider arguments of symmetry that are quite helpful, the cells in our body all age at basic almost exactly the same speed.",
+      "textZh": "实际上，我对这个问题的看法是，我认为它其实并没有那么难解决，因为只要考虑一下非常有帮助的对称性论证，我们体内的所有细胞基本上都以几乎完全相同的速度衰老。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1193.34,
+      "textEn": "I've not seen anyone who has an old left arm and a young right arm.",
+      "textZh": "我没见过任何人的左臂年老而右臂年轻。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1199.99,
+      "textEn": "I've never seen that, not even once. Yes. So how, how are the cells communicating and how, what is keeping them? What is synchronizing their behavior?",
+      "textZh": "我从来没见过，一次都没有。是的。那么，细胞是如何交流的，又是什么让它们保持这样？是什么在同步它们的行为？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1210.55,
+      "textEn": "Something. There's a very clear mechanism for synchronizing aging among the 30 to 40 trillion cells in your body. Like depending on your body mass, you're typically going to have 30 to 40 trillion cells.",
+      "textZh": "某种东西。你的身体里有30万亿到40万亿个细胞，存在一种非常明确的机制来同步它们的衰老。比如，根据你的体重，你通常会有30万亿到40万亿个细胞。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1222.39,
+      "textEn": "That's correct, yeah.",
+      "textZh": "没错，是的。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 1223.91,
+      "textEn": "I mean, you know, in sync.",
+      "textZh": "我的意思是，你知道，保持同步。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1227.19,
+      "textEn": "I mean, the other, the other, the other reference proof point is, you know, bowhead whales, one of the largest mammals, can make it to 200 years repeatedly. Greenland sharks can make it to 500 years and have babies at 200 years old. I remember when I was in medical school hearing that. I said, you know, why can they, why can't we? I said, it's either an engineering problem or software problem, a hardware problem or software problem.",
+      "textZh": "我的意思是，另一个、另一个、另一个参考佐证是，你知道，弓头鲸是体型最大的哺乳动物之一，可以一再活到200岁。格陵兰鲨可以活到500岁，并在200岁时生育。我记得我在医学院时听说这件事。我说，你知道，为什么它们可以，为什么我们不行？我说，这要么是一个工程问题，要么是一个软件问题，一个硬件问题或软件问题。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1250.88,
+      "textEn": "And I think this is one of the biggest areas AI is going to give us, is a real understanding. And then to your other point about your left arm and right arm, you know, when you have a baby, woman's 30, 35, you're 40, 45, your baby starts out at zero.",
+      "textZh": "而且我认为，这是AI将会给我们的最大领域之一，也就是真正的理解。然后说到你关于左臂和右臂的另一个观点，你知道，当你生孩子时，女性30、35岁，你40、45岁，而你的宝宝从0岁开始。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 1270.48,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1273.6,
+      "textEn": "I do find it remarkable that we decompress from a single cell to an adult human and then, and then we, you know, to procreate. Compress back down to a single cell.",
+      "textZh": "我确实觉得很不可思议，我们从一个细胞解压缩成一个成年人体，然后，然后我们，你知道，为了繁殖。再压缩回一个细胞。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1286.85,
+      "textEn": "That is fascinating.",
+      "textZh": "这很令人着迷。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 1288.53,
+      "textEn": "You know, I mean, you sort of look, look at yourself as a sort of, you know, blastocyst and say like, I haven't changed a bit.",
+      "textZh": "你知道，我是说，你有点像是看着作为某种，你知道，囊胚的自己，然后说，我一点儿都没变。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1298.93,
+      "textEn": "Here we go again. Let's recycle. It's like, it's like the big bang. It's like, right, the big crunch. You know, one of the things people argue about on extended health span and increasing the population getting to 100, 120, 150. And there's a concept called longevity escape velocity. Right. That there's going to be a point at which for every year you're alive, science is extending your life for more than a year. And that's an interesting idea to think about.",
+      "textZh": "又来了。让我们循环利用吧。这就像，这就像大爆炸。这就像，对，大坍缩。你知道，人们争论的事情之一，是延长健康寿命，以及人口活到100岁、120岁、150岁。还有一个叫作“长寿逃逸速度”的概念。对。也就是说，将会出现这样一个时刻：你每活1年，科学就能把你的寿命延长超过1年。这是一个值得思考的有趣想法。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1325.5,
+      "textEn": "In which case, you know, accidents become really a thing to be concerned about.",
+      "textZh": "在这种情况下，你知道，事故就真的成了需要担忧的事情。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1331.81,
+      "textEn": "The concern about overpopulation. And you've hit this multiple times, Right. And I saw you tweeting about it or sorry, you're xing about it today.",
+      "textZh": "对人口过剩的担忧。而且你已经多次谈到这点，对吧。我看到你今天发推文谈到了这点，或者抱歉，是在 X 上发帖谈到了这点。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1343.73,
+      "textEn": "Sorry, but it's, you know, overpopulation is one of the biggest myths and biggest false.",
+      "textZh": "抱歉，但你知道，人口过剩是最大的迷思之一，也是最大的虚假。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 1353.41,
+      "textEn": "Overpopulation is HUD or bs. Yeah, you know, and you know, it's such nonsense.",
+      "textZh": "人口过剩是 HUD 或者胡扯。是啊，你知道，而且你知道，这太荒谬了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 1363.65,
+      "textEn": "Earth is underpopulated, not overpopulated with.",
+      "textZh": "地球人口不足，并非人口过剩，和。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1367.09,
+      "textEn": "Look out the window when you're flying across the country. It's empty.",
+      "textZh": "当你乘飞机横跨全国时，看看窗外。那里空无一物。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Elon Musk",
+      "startSec": 1370.37,
+      "textEn": "Absolutely. Exactly. It's like if you say, like if your goal was to like flying from Elliot in New York to drop a bowling ball on a human, you would fail.",
+      "textZh": "绝对是。没错。就像是，如果你说，比如说，如果你的目标是从纽约的埃利奥特起飞，把一个保龄球扔到一个人身上，你会失败。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 1382.7,
+      "textEn": "So",
+      "textZh": "所以",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1385.66,
+      "textEn": "you know, I think one of, one of my goals, I think the greatest gift we can give people in this abundance world is increased health span. I mean, when you think about what people want, they want happiness and they want health. Right. No one wants to die in a painful cancer or dementia.",
+      "textZh": "你知道，我认为我的目标之一，我认为在这个富足的世界里，我们能给人们的最大礼物，就是延长健康寿命。我的意思是，当你想想人们想要什么时，他们想要幸福，也想要健康。对吧。没有人想因痛苦的癌症或痴呆症而死。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 1406.54,
+      "textEn": "So yeah.",
+      "textZh": "所以，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1407.63,
+      "textEn": "And you know, I have extended to you many times, my friend. Come down to Fountain Health. Let me put you through our, our program. The world needs you around for another 30, 30 years.",
+      "textZh": "而且你知道，我已经邀请过你很多次了，我的朋友。来 Fountain Health 吧。让我带你体验一下我们的，我们的项目。这个世界还需要你再活 30、30 年。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1418.95,
+      "textEn": "Okay, well what do you have any. What should I do? Let's say. Well, I mean, so there are two. What actions can be taken?",
+      "textZh": "好吧，那你有什么，任何。那我该怎么办？比方说。嗯，我是说，所以有2个。可以采取什么行动？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1426.15,
+      "textEn": "There are two.",
+      "textZh": "有 2 个。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 1426.59,
+      "textEn": "Quite. This could be helpful for listeners. There are two on this discussion.",
+      "textZh": "确实。这可能对听众有帮助。这场讨论中有2个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1430.87,
+      "textEn": "Yeah, so there are two. There are three things you need to know. Number one, is there anything going on inside your body that you don't know about? So the body is amazingly good at hiding disease. So we found in our seemingly healthy adults, 2% have a cancer they don't know about. Two and a half percent. Two and a half percent have an aneurysm. 14.4% either have metabolic disease, coronary disease, neurogenerative disease.",
+      "textZh": "是的，所以有2个。你需要知道3件事。第一，你体内有没有发生什么你不知道的事情？身体极其善于隐藏疾病。因此我们在那些看似健康的成年人中发现，2%的人患有自己不知道的癌症。2.5%。2.5%的人有动脉瘤。14.4%的人患有代谢疾病、冠状动脉疾病或神经生成性疾病。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1461.19,
+      "textEn": "And so your body is incredibly good at hiding disease. Right. So you don't actually feel any cancer until stage three or stage four. 70% of all heart attacks have no precedence. Your body is compensating constantly. And you know, for most of us, we know more about what's going inside our cars or our airplanes than we do our bodies. Yeah, I had a question for you. How many, how many sensors are going up on starship when you're launching?",
+      "textZh": "所以你的身体极其善于隐藏疾病。对。所以实际上，在癌症发展到第3期或第4期之前，你感觉不到任何症状。所有心脏病发作中有70%没有先例。你的身体一直在代偿。而且你知道，对我们大多数人来说，我们对汽车或飞机内部状况的了解，比对自己身体内部状况的了解还多。对，我有个问题想问你。你们发射星舰时，会装上多少，多少个传感器？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1491.01,
+      "textEn": "How many sensors are going, are onboard that vehicle? Rough order of magnitude, getting back data?",
+      "textZh": "有多少传感器会，会装在那艘飞行器上？大致数量级是多少，能传回数据的？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 1499.33,
+      "textEn": "Well, I guess when you count everything up, there's several thousand sensors. And if I were, I mean, they're all 33 engines, so they count for the bulk of.",
+      "textZh": "嗯，我想如果把所有东西都算上，会有数千个传感器。而如果我，我是说，总共有33台发动机，所以它们占了其中的大部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1508.37,
+      "textEn": "Sure. But you also have stress sensors and looking what's going on and the structures and avionics and communications across all the subsystems. And if I ask you how 39",
+      "textZh": "当然。但你们也有应力传感器，用来查看各个子系统中的情况，以及结构、航空电子设备和通信。而如果我问你有多少，39",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 1519.67,
+      "textEn": "engines including the alpha stage. So there's several thousand sensors. Way more sensors than up on.",
+      "textZh": "台发动机，包括阿尔法级。所以有数千个传感器。比装在……上的传感器多得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1527.47,
+      "textEn": "Yeah, I was gonna say if you, if I ask you, how many sensors do you have in your body? And so we don't look, which is insane because we do have the technology now to look to determine is there anything going on I need to know about and when's a good time to find out about like now or what's likely to break, what's likely to undergo failure cycles and then what's the most extraordinary therapeutics available to extend the human lifespan.",
+      "textZh": "是的，我正想说，如果你，如果我问你，你体内有多少个传感器？而我们并不查看，这很荒唐，因为我们现在确实有技术可以查看，以确定是否有任何我需要知道的情况，以及什么时候是发现它的好时机，比如现在，或者什么可能会出问题，什么可能会经历失效周期，然后有哪些最非凡的疗法可以延长人类寿命。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1550.62,
+      "textEn": "So I mean, for me that's a big one. Let me ask you another abundance theme, which is education.",
+      "textZh": "所以我的意思是，对我来说这是件大事。让我再问你一个与富足主题有关的问题，也就是教育。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1564.7,
+      "textEn": "Do you think any of our schools today, middle schools or high schools, are preparing any of our kids for the future?",
+      "textZh": "你认为我们今天的任何学校，无论是初中还是高中，有在让我们的任何孩子为未来做好准备吗？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 1574.91,
+      "textEn": "Well, none that I know of. Well, they might. I mean, there might, there probably are a few schools that are doing it, but probably 99% of schools are not. Yeah, schools are very slow, slow to change.",
+      "textZh": "嗯，据我所知没有。嗯，可能有。我是说，也许，可能确实有少数学校在这样做，但或许99%的学校都没有。是的，学校改变得非常慢、非常慢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 1590.51,
+      "textEn": "And I think that.",
+      "textZh": "而且我认为那。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 1596.03,
+      "textEn": "Does seem to move away from teaching the fundamentals, you know, of writing well, and math and history.",
+      "textZh": "确实似乎偏离了对基本功的教学，你知道，也就是好好写作、数学和历史。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 1607.85,
+      "textEn": "You know, I'm concerned about the whole woke agenda and ideology permeating through education. Agreed. And actually being destructive to education.",
+      "textZh": "你知道，我担心整个觉醒议程和意识形态渗透进教育。赞同。而且实际上正在破坏教育。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1617.13,
+      "textEn": "Agreed. I mean, you know, how do you think, do you have any thoughts? I mean, so at the end of the day, I think our best, our best healthcare and our best teachers are going to be AI's right, that understand everything and they demonetize and they democratize every aspect. The AI knows your, your kid's favorite color, sports star, movie star, what they know the languages they know what they did today.",
+      "textZh": "赞同。我是说，你知道，你怎么看，你有什么想法吗？我是说，所以归根结底，我认为我们最好的、最好的医疗服务和最好的老师都会是AI，对吧，它们理解一切，并且让每个方面都去货币化、民主化。AI知道你的、你孩子最喜欢的颜色、体育明星、电影明星，知道他们掌握什么，知道他们会的语言，知道他们今天做了什么。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1647.13,
+      "textEn": "I mean, it's a way of giving every child on the planet the best educated. I mean, you, you funded back years ago, if you remember, the Global Learning X prize that we did.",
+      "textZh": "我是说，这是一种把受教育程度最高的……给予地球上每个孩子的方式。我是说，你，你多年前资助过，如果你还记得，我们举办的全球学习X大奖。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Elon Musk",
+      "startSec": 1655.31,
+      "textEn": "We did that.",
+      "textZh": "我们办过那个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1656.67,
+      "textEn": "We, we demoed in Tanzania with AIs on tablets. It was the earliest days of AI Imad with stock, who, you know, was one of the winners of that competition, who went on out to create stability.",
+      "textZh": "我们，我们在坦桑尼亚用平板电脑上的AI进行了演示。那是AI的最早期，伊马德和斯托克，你知道，他是那场比赛的获胜者之一，后来出去创建了Stability。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1670.75,
+      "textEn": "I mean, the challenge is I don't think the educational systems are going to give up that control anytime soon.",
+      "textZh": "我是说，挑战在于，我认为教育体系短期内不会放弃那种控制权。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 1682.9,
+      "textEn": "Sure. Well, I mean, if I look at how my kids are educated, they seem to be mostly educated by YouTube and Reddit and X as well, I suppose, but they're constantly on the Internet that, that seems to be. And I guess a lot of kids these days tick tock, unfortunately. So, yeah, so I think, yeah, the education situation is problematic.",
+      "textZh": "当然。嗯，我是说，如果看看我的孩子是如何接受教育的，他们似乎主要是通过YouTube、Reddit，我想也包括X来接受教育，但他们一直都在互联网上，那，那似乎是。而且我想如今很多孩子都看TikTok，很遗憾。所以，是的，所以我认为，是的，教育状况存在问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Elon Musk",
+      "startSec": 1714.01,
+      "textEn": "Not sure what to do about it.",
+      "textZh": "不确定该怎么办。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1718.41,
+      "textEn": "I think ultimately, you know, Khan Academy is one step in the right direction, but I think part of it is getting our educational institutions to first realize they're not preparing kids for the world that's coming. I mean, this hits another point. We are such linear thinkers, right? We're projecting what we have and putting it out four or five years. I don't think people, Let me ask you, do you think people are ready for what the world's going to be like in 2030?",
+      "textZh": "我认为归根结底，你知道，可汗学院是朝正确方向迈出的一步，但我认为，其中一部分是要让我们的教育机构首先意识到，它们没有在帮助孩子为即将到来的世界做好准备。我是说，这触及了另一个问题。我们的思维是如此线性，对吧？我们把现有的东西向未来推演4或5年。我认为人们，问你一下，你认为人们准备好面对2030年的世界会是什么样了吗？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Elon Musk",
+      "startSec": 1754.48,
+      "textEn": "No, I don't know what the world's going to be like in 2030, so probably I wouldn't say that I'm necessarily 30.",
+      "textZh": "没有，我不知道2030年的世界会是什么样，所以我大概不会说自己必然30。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Elon Musk",
+      "startSec": 1765.52,
+      "textEn": "We definitely live in the most interesting of times.",
+      "textZh": "我们无疑生活在最有趣的时代。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Elon Musk",
+      "startSec": 1769.599,
+      "textEn": "You know, like this allegedly, this Chinese saying that may you live in interesting times is not a good thing. But I mean, I think personally I would like to live in the most interesting of times. And this is the most interesting of times.",
+      "textZh": "你知道，就像据说有这样一句中国谚语：“愿你生活在有趣的时代”，这并不是什么好事。但我的意思是，就我个人而言，我愿意生活在最有趣的时代。而这就是最有趣的时代。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1784.15,
+      "textEn": "I also think it's the best time to be alive ever. The only time more exciting than today is tomorrow. I mean, you know, by what measure? Yeah, we have environmental issues, but I think we have the best chance of solving those environmental issues with the technology we have now versus technology we had 10 years ago.",
+      "textZh": "我也认为，现在是有史以来活着的最好时代。唯一比今天更令人兴奋的时刻就是明天。我的意思是，你知道，以什么衡量？是的，我们有环境问题，但我认为，相比10年前我们拥有的技术，凭借我们现在拥有的技术，我们最有可能解决那些环境问题。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Elon Musk",
+      "startSec": 1806.92,
+      "textEn": "Yeah, well, I generally think it's as a general sort of rule of living, it is better to err on the side of being optimistic and wrong than pessimistic and right.",
+      "textZh": "是的，嗯，总的来说，我认为，作为一种普遍的生活准则，宁可站在乐观但错误的一边犯错，也好过悲观但正确。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 1818.2,
+      "textEn": "If you're going to make, if you're going to err one side or the other better, it's just a higher quality of life to err on the side of being optimistic and risk being wrong than pessimistic, you know, and you Know, and. Right. I mean, it's. It's better to be. You'll just have a. Just enjoy life.",
+      "textZh": "如果你要犯，如果你要在一边或另一边犯错，更好的做法是，站在乐观的一边并承担可能出错的风险，而不是悲观，这样生活质量就是更高，你知道，而且你知，而且。对。我的意思是，这。这样更好。你就会拥有一个。就享受生活吧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1837.13,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Elon Musk",
+      "startSec": 1838.89,
+      "textEn": "Optimism is, Is gonna make you happy.",
+      "textZh": "乐观会，会让你快乐。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1842.85,
+      "textEn": "There was a study of 14, 000 people. It was 14, 000 women and 1500 guys. And it showed that those who had an optimistic mindset lived 14 to 15% longer than those with a pessimistic mindset. I mean, mindset's a powerful thing and I think undervalued by almost everybody. One of my favorite examples of this was, do you know what the environmental disaster of the 1880s and 1890s was? I'm sure, you know,",
+      "textZh": "有一项针对14,000人的研究。受试者是14,000名女性和1500名男性。结果显示，持乐观心态的人比持悲观心态的人寿命长14%到15%。我是说，心态是个很强大的东西，而且我认为几乎所有人都低估了它。我最喜欢的例子之一是，你知道1880年代和1890年代的环境灾难是什么吗？我相信，你知道，",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Elon Musk",
+      "startSec": 1877.04,
+      "textEn": "Is this back to whales? No, no, no, no.",
+      "textZh": "这是又说回鲸鱼了吗？不，不，不，不。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1878.88,
+      "textEn": "It's another form of life. It's the horse manure disaster.",
+      "textZh": "它是另一种生命形式。就是马粪灾难。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Elon Musk",
+      "startSec": 1883.84,
+      "textEn": "Oh, the horseshit problem.",
+      "textZh": "哦，马屎问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1886.2,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Elon Musk",
+      "startSec": 1886.8,
+      "textEn": "Yeah. What is this horseshit? Well, yeah, no, no, you're right. I mean, New York was basically a horse manure and urine and carcass.",
+      "textZh": "对。这是什么马屎？嗯，对，不，不，你说得对。我是说，纽约基本上就是马粪、马尿和马尸。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1904.22,
+      "textEn": "It was terrible. People brought their motive power.",
+      "textZh": "太糟糕了。人们把他们的动力带来了。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Elon Musk",
+      "startSec": 1908.3,
+      "textEn": "Basically. New York felt like. If you think New York subways are stinky right now, I mean, try.",
+      "textZh": "基本上。纽约感觉就像。如果你觉得现在纽约地铁很臭，我是说，试试看。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1919.21,
+      "textEn": "Everywhere. Yeah, people everywhere. People move from. People moved into downtown New York, Detroit, Chicago. They brought their motive power with them. And, and the articles in the 1880s and 90s and into the 1900s, as you, as you read this, the projection was disaster. It was going to be a disaster because horse manure was like, grow. They had like special parking lots for horseshit at the corner of every street.",
+      "textZh": "到处都是。对，到处都是人。人们从。人们搬进纽约市中心、底特律、芝加哥。他们把自己的动力也带了过来。而且，而且当你，当你读到1880年代和90年代以及1900年代的文章时，当时的预测是灾难。那将会是一场灾难，因为马粪就像，不断增长。他们甚至在每条街的街角都设有专门停放马屎的停车场。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Elon Musk",
+      "startSec": 1948.9,
+      "textEn": "Well, it seems like there's also a challenge because I think if a horse lives, you know, for on the order of 15 years, that means 1/15 of all horses are kicking the bucket every year.",
+      "textZh": "嗯，似乎还有另一个难题，因为我想，如果一匹马能活，你知道，大约15年，那就意味着每年所有马匹中都有1/15会一命呜呼。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Elon Musk",
+      "startSec": 1964.74,
+      "textEn": "So you just got. So if you've got like 300,000 horses, that means you've got 20,000 horses dropping dead every year. And then you need a horse to move the horse",
+      "textZh": "所以你就有了。所以如果你有大约300,000匹马，那就意味着每年会有20,000匹马倒地死去。然后你需要一匹马来搬运那匹马",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1977.94,
+      "textEn": "or just. Or just cover it with horse mirror, let it decompose.",
+      "textZh": "或者就。或者就用马镜盖住它，让它分解。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "Elon Musk",
+      "startSec": 1983.14,
+      "textEn": "Yeah. I mean, it's going to be like decomposing horse carcasses throughout major cities.",
+      "textZh": "对。我是说，各大城市里到处都会是正在腐烂的马尸。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 1988.3,
+      "textEn": "But. But then.",
+      "textZh": "但是。但是后来。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Elon Musk",
+      "startSec": 1989.42,
+      "textEn": "And then. And then like, it's like, well, who's horse dead? Who's dead horse is this. People are probably quick to claim a live horse, but they're not rushing to claim a death.",
+      "textZh": "然后。然后就像，就像，嗯，谁的马死了？这是谁的死马。人们可能会迅速认领一匹活马，但不会争着认领一匹死的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2000.62,
+      "textEn": "But then innovation came along and here comes the car and solves the problem. And I think that's the problem that we keep on forgetting. We forget that we are incredibly innovative at solving problems. That's what humans are amazing at.",
+      "textZh": "但后来创新出现了，汽车来了，解决了这个问题。而我认为这就是我们不断忘记的问题。我们忘了自己在解决问题方面有着惊人的创新能力。这正是人类了不起的地方。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Elon Musk",
+      "startSec": 2019.82,
+      "textEn": "Yeah, yeah, True, true.",
+      "textZh": "对，对，确实，确实。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Elon Musk",
+      "startSec": 2024.94,
+      "textEn": "Actually, on the whale front, I don't know if you Know, back to the whales. It's a whale of a tail. Whale tails. Okay, So a lot of people think that the low point on whale population was in the 1800s because, you know, whales were being hunted for whale oil and whale oil. Yeah.",
+      "textZh": "其实，说到鲸鱼，我不知道你是否知道，回到鲸鱼的话题。这是一个鲸鱼般的尾巴。鲸鱼尾巴。好吧，所以很多人认为，鲸鱼种群数量的最低点是在1800年代，因为，你知道，人们为了鲸油而捕杀鲸鱼，还有鲸油。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Elon Musk",
+      "startSec": 2051.85,
+      "textEn": "But actually the low point by far was in fact in the mid 20th century because of a bureaucratic error in the Soviet Union.",
+      "textZh": "但实际上，迄今为止的最低点其实是在20世纪中期，原因是苏联的一个官僚主义错误。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2066.01,
+      "textEn": "Okay, this I have to hear.",
+      "textZh": "好吧，这个我得听听。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Elon Musk",
+      "startSec": 2072.73,
+      "textEn": "So they would always have these five year plans and quotas for whale tonnage. Now they didn't actually have even a, whether the whale tonnage was usable tonnage in any way. They just had a quota for whale tonnage and what they would do in the Soviet unit. So just keep increasing the quota of everything every year, every five years.",
+      "textZh": "所以他们总是会制定这些5年计划和鲸鱼吨位配额。可他们实际上甚至没有一个，鲸鱼吨位是否是以任何方式可利用的吨位。他们只有一个鲸鱼吨位配额，而这就是他们在苏联单位会做的事。所以就是每年、每5年不断提高一切的配额。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Elon Musk",
+      "startSec": 2097.349,
+      "textEn": "So the whale tonnage just got higher and higher and higher.",
+      "textZh": "所以鲸鱼吨位就变得越来越高、越来越高、越来越高。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Elon Musk",
+      "startSec": 2103.829,
+      "textEn": "If you're a captain and you, and you, and you had a high whale tonnage, you'd get a medal and a raise. And if your whale tonnage was low, you'd be sent to the gulag.",
+      "textZh": "如果你是一名船长，而你，而你，而你的鲸鱼吨位很高，你就会获得一枚勋章并加薪。如果你的鲸鱼吨位很低，你就会被送进古拉格。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2111.68,
+      "textEn": "You get what you incentivize, baby.",
+      "textZh": "你激励什么，就会得到什么，宝贝。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Elon Musk",
+      "startSec": 2114.4,
+      "textEn": "Yes, incentives matter. And, and so it got to, it to, it just got to absurd levels. And you had Soviet whaling ships like going into, you know, US and Australian waters to desperately trying to find whales. And they would, they'd catch the whale, weigh the whale and then dump the carcass over.",
+      "textZh": "是的，激励机制很重要。而且，而且它发展到了，它发展到，它就发展到了荒谬的程度。于是苏联捕鲸船会驶入，你知道，美国和澳大利亚水域，拼命寻找鲸鱼。他们会，他们会捕到鲸鱼，给鲸鱼称重，然后把尸体扔下去。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2135.44,
+      "textEn": "Oh my God.",
+      "textZh": "我的天啊。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Elon Musk",
+      "startSec": 2138.13,
+      "textEn": "I mean, there's a whole Internet rabbit hole that you can go down on this, which is basically a lesson in the follies of central planning.",
+      "textZh": "我是说，关于这件事，网上有一整个兔子洞可供你深入探索，这基本上是一堂关于中央计划之愚蠢的课。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2148.37,
+      "textEn": "And this is the problem of keeping laws on the books way after they're useful to society.",
+      "textZh": "而这就是那些法律在对社会仍有用的时期过去很久后，依然保留在法典中的问题。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "Elon Musk",
+      "startSec": 2156.21,
+      "textEn": "Well, we do actually have a fundamental issue with the accumulation of laws and regulations because they are immortal and humans are mortal. As we were just discussing, you know, life extension. So, so naturally every year you're going to have this accumulation of laws and regulations until eventually everything is legal.",
+      "textZh": "嗯，法律和法规的累积确实给我们带来了一个根本问题，因为它们是不朽的，而人类终有一死。正如我们刚才讨论的，你知道，延长寿命。所以，所以很自然地，每年都会有这种法律和法规的累积，直到最终一切都合法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2180.71,
+      "textEn": "You mean everything is illegal?",
+      "textZh": "你是说一切都违法？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0185",
+      "speakerEn": "Elon Musk",
+      "startSec": 2183.27,
+      "textEn": "Everything is illegal? Yes. Nothing is allowed because you're overlapping laws and regulations and some of which are in fact contradict each other.",
+      "textZh": "一切都违法？是的。什么都不被允许，因为法律和法规相互重叠，其中一些实际上还彼此矛盾。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "Elon Musk",
+      "startSec": 2193.4,
+      "textEn": "Whether you go left or right, both left and right are.",
+      "textZh": "无论你向左还是向右，左边和右边都是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "Elon Musk",
+      "startSec": 2201.16,
+      "textEn": "My God, you know, like SpaceX. I mean, shame on the, you know, the DOJ in this respect. In this particular case, where the DOJ, as you may know, is suing SpaceX for hiring only permanent residents and citizens of the U.S. the reason that we did this was because we were told very clearly that if we did not hire permanent residents of the United States, that that would constitute a violation of international trade, traffic and arms regulations.",
+      "textZh": "我的天，你知道，就像 SpaceX。我的意思是，在这件事上，你知道，司法部真可耻。在这个具体案件中，你可能知道，司法部正在起诉 SpaceX，理由是只雇用美国永久居民和公民。我们这么做的原因是，我们被非常明确地告知，如果我们不雇用美国永久居民，那就会构成违反国际贸易、运输和武器法规。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0188",
+      "speakerEn": "Elon Musk",
+      "startSec": 2234.68,
+      "textEn": "Itar and the entire executive team of SpaceX and the board would go to prison.",
+      "textZh": "ITAR，而且 SpaceX 的整个高管团队和董事会都会进监狱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2239.64,
+      "textEn": "Sounds like a good motivation.",
+      "textZh": "听起来是个不错的动机。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "Elon Musk",
+      "startSec": 2242.2,
+      "textEn": "Yes. And so we, we were literally told by the government in very clear terms. And you're well aware of it? I am well aware of, yes. It's a nightmare. And we would like.",
+      "textZh": "是的。所以我们，我们确实被政府用非常明确的措辞告知了。而你很清楚这一点？我很清楚，是的。这是一场噩梦。而我们想要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0191",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2254.24,
+      "textEn": "Which by the way puts us in a non competitive world against other nations.",
+      "textZh": "顺便说一句，这让我们在与其他国家竞争时处于没有竞争力的境地。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "Elon Musk",
+      "startSec": 2261.44,
+      "textEn": "Yes, it's, it's pretty bad. So, but then, then the DOJ, you know, is suing SpaceX for not hiring asylum seekers. An important point here. Not asylum. Those have been granted asylum. Those who are seeking aside.",
+      "textZh": "是的，这，这相当糟糕。所以，但是接着，接着司法部，你知道，又因为 SpaceX 不雇用寻求庇护者而起诉 SpaceX。这里有一个重点。不是庇护。那些已获准庇护的人。那些寻求一旁的人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0193",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2284.65,
+      "textEn": "There's a lot of those. There's a lot of people seeking asylum.",
+      "textZh": "这样的人很多。有很多人正在寻求庇护。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0194",
+      "speakerEn": "Elon Musk",
+      "startSec": 2288.09,
+      "textEn": "Yes. So we're damned if we do and damned if we don't.",
+      "textZh": "是的。所以我们做也该死，不做也该死。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0195",
+      "speakerEn": "Elon Musk",
+      "startSec": 2293.77,
+      "textEn": "So if we hire someone who's not a permanent residence, we're breaking the law. And if we don't hire someone who's not a permanent resident, we're breaking the law. So this is an example of the madness that we're facing.",
+      "textZh": "所以，如果我们雇用一个不是永久居留身份的人，我们就是在违法。而如果我们不雇用一个不是永久居民的人，我们也是在违法。所以这就是我们所面对的疯狂局面的一个例子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0196",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2308.82,
+      "textEn": "Buddy, I want to compliment you on something which, and I've known you for long enough to have seen you gone through this, where you have bet everything over and over again, you've bet your entire fortune, gone into debt to do the things that you believe in. And I have a question to ask you, which I've been dying to ask and I'm going to start making this known. There are so many billionaires on the planet who have tens of billions and hundreds of billions of dollars who are effectively sitting on it and not changing the world, not putting it in, other than for increasing its return, which is not a bad thing.",
+      "textZh": "老兄，我想称赞你一件事，而且我认识你的时间够久，亲眼见过你经历这些：你一次又一次地押上一切，你押上自己的全部财富，甚至负债去做你相信的事。我有一个问题想问你，我一直特别想问，现在我要开始让这件事广为人知。这个星球上有那么多亿万富翁，拥有数百亿美元乃至数千亿美元，却实际上只是坐拥这些财富，不去改变世界，不把钱投入其中，除了用来提高回报，而这也不是一件坏事。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0197",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2352.1,
+      "textEn": "I think the more wealth and free energy there is out there to do things. But can you speak to that? I don't know if you're willing to, but there are a few people like Mark Benioff and Eric Schmidt and yourself, top of the list, who invest on making the world a better place, solving global grand challenges.",
+      "textZh": "我认为，可用于做事情的财富和自由能量越多。但你能谈谈这一点吗？我不知道你愿不愿意，但有少数人，比如马克·贝尼奥夫、埃里克·施密特和你——你位居榜首——会投资于让世界变得更美好、解决全球重大挑战。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0198",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2376.74,
+      "textEn": "Thoughts on that?",
+      "textZh": "你对此有什么看法？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0199",
+      "speakerEn": "Elon Musk",
+      "startSec": 2378.5,
+      "textEn": "I'm going to open some line to the.",
+      "textZh": "我要开通某条线路到这个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0200",
+      "speakerEn": "Elon Musk",
+      "startSec": 2382.16,
+      "textEn": "Sorry, I just have some, some kids and stuff around. No problem. Sort of family noises in the background.",
+      "textZh": "抱歉，我这边只是有些，有些孩子之类的在周围。没问题。算是背景里的家庭噪声。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0201",
+      "speakerEn": "Elon Musk",
+      "startSec": 2390.24,
+      "textEn": "So let's see.",
+      "textZh": "那么让我们看看。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0202",
+      "speakerEn": "Elon Musk",
+      "startSec": 2393.52,
+      "textEn": "Yeah, Well, yeah, I mean, I do think that smart people with resources should care about the good of civilization, the future of civilization, even if there is not, even if they're not particularly altruistic because you can't really, you cannot exist absent civilization.",
+      "textZh": "是的，这个，是的，我的意思是，我确实认为，拥有资源的聪明人应该关心文明的福祉、文明的未来，即使并非如此，即使他们并不是特别利他，因为你实际上无法，你无法脱离文明而存在。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0203",
+      "speakerEn": "Elon Musk",
+      "startSec": 2426.7,
+      "textEn": "If civilization collapses, it's all over. You know, there's like, people have got like these sort of bunkers, other countries or Hawaii or whatever. And I'm like, listen, do you really Think that you're gonna make it in, in an apocalyptic situation, they'll come and find you in that bunker and they'll probably pry you out and get your stuff and it's gonna suck anyway. So really smart people with resources, any smart person with resources, they just have some long term perspective.",
+      "textZh": "如果文明崩溃，一切就都完了。你知道，就像，有些人在其他国家或夏威夷之类的地方弄了这种地堡。而我会说，听着，你真的认为在末日情境下你能撑过去吗？他们会来到那个地堡找到你，而且很可能会把你撬出来，拿走你的东西，反正情况会很糟。所以，真正拥有资源的聪明人，任何拥有资源的聪明人，他们就是要有一些长远眼光。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0204",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2465.73,
+      "textEn": "I mean, listen, it's, it's you and it's you and Jeff Bezos right now who've got the biggest long term perspective. And I see, I, you know, I'm just curious about how do you incentivize other people to really help the world accelerate, you know, and make the world a more productive place? Right. The best way to become a billionaire, to help a billion people, the world's biggest problems, the world's biggest business opportunities.",
+      "textZh": "我的意思是，听着，现在拥有最长远眼光的，是你，是你和杰夫·贝索斯。我明白，我，你知道，我只是好奇，你要如何激励其他人真正帮助世界加速发展，你知道，并让世界成为一个生产力更高的地方？对吧。成为亿万富翁的最佳方式，帮助10亿人，世界上最大的问题，世界上最大的商业机会。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0205",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2503.12,
+      "textEn": "Do you believe that?",
+      "textZh": "你相信吗？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0206",
+      "speakerEn": "Elon Musk",
+      "startSec": 2504.48,
+      "textEn": "Well, I guess maybe we should talk to people more.",
+      "textZh": "嗯，我想也许我们应该多和人们谈谈。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0207",
+      "speakerEn": "Elon Musk",
+      "startSec": 2508.32,
+      "textEn": "I guess just talking to them and you know, I think it was perhaps just raising the conscious awareness, the fact that there is no living without civilization.",
+      "textZh": "我想就是和他们谈谈，而且你知道，我认为或许只是要提高人们的意识，让他们认识到没有文明就无法生活这一事实。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0208",
+      "speakerEn": "Elon Musk",
+      "startSec": 2526.01,
+      "textEn": "One doesn't actually have to make an altruistic argument. You can actually make a, even if it's a purely self seeking argument, say life would be miserable without civilization. And if you want to know what life is like without civilization, just go try living in the forest naked for a day and you will be naked and afraid and quickly realize civilization is awesome.",
+      "textZh": "其实根本不必提出利他主义的论点。你实际上可以提出一个，即使是纯粹追求自利的论点，说没有文明，生活会很悲惨。如果你想知道没有文明的生活是什么样子，就光着身子去森林里生活1天试试，你会赤身裸体、惶恐不安，并很快意识到文明棒极了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0209",
+      "speakerEn": "Elon Musk",
+      "startSec": 2555.11,
+      "textEn": "Just eat bugs and get eaten by bugs.",
+      "textZh": "就只能吃虫子，也被虫子吃。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0210",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2560.07,
+      "textEn": "We're so interdependent upon each other to enable the state of technology and capability we have today.",
+      "textZh": "我们彼此之间如此相互依赖，才使我们能够拥有今天的技术与能力水平。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0211",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2568.66,
+      "textEn": "You know, I'm curious, is there anything that you think that isn't becoming more abundant out there or anything that we have an abundance constraint on? I'll just mention. Well, answer that first. And I want to come and talk about the carbon removal xprize that you funded. One second.",
+      "textZh": "你知道，我很好奇，你认为外面有什么东西并没有变得更充裕吗，或者有什么东西受到充裕程度的限制吗？我先提一下。好，先回答那个问题。然后我想来谈谈你资助的碳移除XPRIZE。等一下。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0212",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2591.22,
+      "textEn": "You know, we're, we're creating abundance of food, energy, water, healthcare, education.",
+      "textZh": "你知道，我们，我们正在创造充裕的食物、能源、水、医疗保健和教育。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0213",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2597.87,
+      "textEn": "Are we constrained in any way?",
+      "textZh": "我们在任何方面受到限制吗？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0214",
+      "speakerEn": "Elon Musk",
+      "startSec": 2601.23,
+      "textEn": "No, not really.",
+      "textZh": "不，并没有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0215",
+      "speakerEn": "Elon Musk",
+      "startSec": 2604.19,
+      "textEn": "I mean, no, I think I agree with you that the future most likely has abundance. We shouldn't be complacent about the future.",
+      "textZh": "我的意思是，不，我想我同意你的看法，未来很可能会物质充裕。我们不应该对未来自满。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0216",
+      "speakerEn": "Elon Musk",
+      "startSec": 2614.67,
+      "textEn": "Complacency and entitlement are not a recipe for success. But the most likely outcome is one of abundance of goods and services.",
+      "textZh": "自满和理所当然的心态并非成功之道。但最可能的结果是商品和服务都十分充裕。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0217",
+      "speakerEn": "Elon Musk",
+      "startSec": 2626.99,
+      "textEn": "That is certainly where we're headed.",
+      "textZh": "那无疑是我们正在前往的方向。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0218",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2630.19,
+      "textEn": "Yeah, when I saw you last, that",
+      "textZh": "是啊，我上次见到你时，那个",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0219",
+      "speakerEn": "Elon Musk",
+      "startSec": 2631.95,
+      "textEn": "is mighty likely where we're headed.",
+      "textZh": "极有可能就是我们正在前往的方向。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0220",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2633.31,
+      "textEn": "Very likely. Yeah, when I saw you last, you said definitely abundance. After AGI and I saw when you were talking about Optimus, which is awesome by the way. Let's just start with that. Congratulations.",
+      "textZh": "非常可能。是啊，我上次见到你时，你说肯定会物质充裕。在通用人工智能之后，而且我看到你谈论 Optimus，顺便说一句，它太棒了。我们就从这个开始吧。恭喜。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0221",
+      "speakerEn": "Elon Musk",
+      "startSec": 2648.58,
+      "textEn": "Well, thanks. I need to make sure the optimist is it doesn't cause it doesn't add to civilizational risk because you don't want like a billion of these things or with centralized control.",
+      "textZh": "嗯，谢谢。我需要确保 Optimus 不会造成、不会增加文明层面的风险，因为你不会想要比如 10 亿个这样的东西，或者让它们受到集中控制。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0222",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2666.42,
+      "textEn": "Unless what could go wrong?",
+      "textZh": "除非，会出什么问题呢？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0223",
+      "speakerEn": "Elon Musk",
+      "startSec": 2668.82,
+      "textEn": "Has anyone made a movie about that?",
+      "textZh": "有人拍过关于那个的电影吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0224",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2673.04,
+      "textEn": "Unless they obey you.",
+      "textZh": "除非它们服从你。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0225",
+      "speakerEn": "Elon Musk",
+      "startSec": 2677.6,
+      "textEn": "Well, I don't think they should obey any, any one person.",
+      "textZh": "嗯，我认为它们不应该服从任何、任何一个人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0226",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2680.96,
+      "textEn": "Yeah,",
+      "textZh": "是啊，",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0227",
+      "speakerEn": "Elon Musk",
+      "startSec": 2683.2,
+      "textEn": "like I think you have to have local control, but it has to be decentralized because any central control is going to be problematic because you just can't be like, it could be a rogue AI takes, I mean let's literally a movie a rogue, you know, Terminator takes over some, gains control of the mothership, of that controls all the, you know, the optimist robots or something like that. That is basically. It needs to be, it needs to be impossible for that to occur.",
+      "textZh": "比如，我认为你必须有本地控制，但它必须是去中心化的，因为任何中央控制都会有问题，因为你就是不能，可能会有一个失控的人工智能夺取，我的意思是，这简直就是一部电影，一个失控的，你知道的，终结者接管了某个、取得了对母舰的控制，而母舰控制着所有的，你知道的，Optimus 机器人之类的。基本上就是这样。需要让这种情况，需要让这种情况不可能发生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0228",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2722.76,
+      "textEn": "Let me ask you, I always love combining your companies because it's like, you know, it's like Reese's Peanut Butter cup, you know, Starlink and Starship together. How about Optimus Neuralink? When can I plug into an Optimus with my neuralink connection?",
+      "textZh": "让我问你，我一直很喜欢把你的公司组合起来，因为这就像，你知道的，就像 Reese's 花生酱杯，你知道的，把星链和星舰放在一起。那么 Optimus 和 Neuralink 呢？我什么时候能通过我的 Neuralink 连接接入一个 Optimus？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0229",
+      "speakerEn": "Elon Musk",
+      "startSec": 2749.54,
+      "textEn": "Well, hopefully the first neuralinks will. The first neuralink in a human will hopefully be soon, within the next, maybe this month or next.",
+      "textZh": "嗯，希望第一批 Neuralink 将会。希望首个人体 Neuralink 很快就会实现，在接下来的，也许这个月或下个月内。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0230",
+      "speakerEn": "Elon Musk",
+      "startSec": 2761.75,
+      "textEn": "Now this is really just at first just trying to give your quadriplegic, Quadriplegics and tetraplegics the ability to control their phone and computer. It's basically like the first, the first product is telepathy essentially, or telekinesis.",
+      "textZh": "现在，最初其实只是试图让你的四肢瘫痪者、四肢瘫痪者和四肢瘫痪者获得控制手机和电脑的能力。基本上，第一个、第一个产品本质上是心灵感应，或者隔空移物。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0231",
+      "speakerEn": "Elon Musk",
+      "startSec": 2785.83,
+      "textEn": "And then the second product, so tentatively called Blindsight, where we can restore sight even if somebody has lost both eyes and their optic nerves. Amazing.",
+      "textZh": "然后是第二个产品，暂定名为 Blindsight，即使有人失去了双眼和视神经，我们也能恢复其视力。太惊人了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0232",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2800.55,
+      "textEn": "Go straight to the visual cortex.",
+      "textZh": "直接连接到视觉皮层。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0233",
+      "speakerEn": "Elon Musk",
+      "startSec": 2802.19,
+      "textEn": "Yeah, yeah, exactly. Now these things already work in monkeys and I'd just like to reemphasize. No monkey has ever died because of a neural link. And we treat our monkeys extremely well.",
+      "textZh": "是啊，是啊，没错。现在这些东西已经能在猴子身上起作用了，我只想再次强调。没有任何猴子曾因 Neuralink 而死亡。而且我们把猴子照顾得非常好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0234",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2818.53,
+      "textEn": "Last time I spoke to you about this, you were playing Pong against Pager.",
+      "textZh": "上次我和你谈到这件事时，你正在和 Pager 对打《Pong》。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0235",
+      "speakerEn": "Elon Musk",
+      "startSec": 2822.77,
+      "textEn": "I think that's right. Actually, it turns out monkeys love playing video games.",
+      "textZh": "我想是这样。实际上，事实证明猴子很喜欢玩电子游戏。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0236",
+      "speakerEn": "Elon Musk",
+      "startSec": 2830.21,
+      "textEn": "They're really just like us. I mean they love eating snacks and playing video games.",
+      "textZh": "它们真的和我们一样。我的意思是，它们喜欢吃零食和玩电子游戏。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0237",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2837.14,
+      "textEn": "I'll tell my 12 year old boys about that.",
+      "textZh": "我会把这件事告诉我那些 12 岁的儿子们。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0238",
+      "speakerEn": "Elon Musk",
+      "startSec": 2840.06,
+      "textEn": "Yeah, I mean, you see the video of Pedro playing, you know, monkey mind Pong, you know, just telepathic. Playing Pong telepathically. He's not restrained in any way. He's just sitting on the sort of tree branch drinking smoothies and drinking smoothies, drinking a smoothie and playing Pong. He's not held down, you know, in fact, he gets upset when we take his video game away.",
+      "textZh": "是啊，我的意思是，你可以看到 Pedro 玩游戏的视频，你知道的，猴子用意念玩《Pong》，你知道的，就是心灵感应。用心灵感应玩《Pong》。它没有受到任何形式的约束。它只是坐在那种树枝上，一边喝冰沙、喝冰沙、喝一杯冰沙，一边玩《Pong》。它没有被按住，你知道的，事实上，当我们拿走它的电子游戏时，它会很不高兴。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0239",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2867.17,
+      "textEn": "Just like humans, just like our kids. That's awesome. And I mean, giving sight to the blind, I mean, it's biblical stuff. And this is again, coming back to the original, you know, kicking off the new year with a positive mindset, with an abundance mindset, with an exponential mindset, with a moonshot mindset.",
+      "textZh": "就像人类一样，就像我们的孩子一样。太棒了。而且，我的意思是，让盲人重见光明，我是说，这是圣经中的事情。而这又回到了最初的话题，你知道的，以积极的心态、富足的心态、指数型的心态、登月式的心态开启新的一年。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0240",
+      "speakerEn": "Elon Musk",
+      "startSec": 2890.12,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0241",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2890.24,
+      "textEn": "Which I, and I think, I hope you agree, like, I think for entrepreneurs and people listening, like, the single most important thing we have is our mindset, how we see the world. I mean, would you agree with that?",
+      "textZh": "而我，而且我认为，我希望你同意，比如，我认为对于企业家和正在收听的人来说，我们拥有的最重要的一件事就是我们的心态，也就是我们如何看待世界。我的意思是，你同意这一点吗？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0242",
+      "speakerEn": "Elon Musk",
+      "startSec": 2903.24,
+      "textEn": "Yeah. I mean, you can choose to be. I mean, happiness is, I think, is a decision.",
+      "textZh": "是啊。我的意思是，你可以选择成为。我的意思是，我认为，幸福是一种决定。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0243",
+      "speakerEn": "Elon Musk",
+      "startSec": 2914.52,
+      "textEn": "I mean, largely. I mean, there's obviously people that have chemical imbalances, but for most people, the difference between being happy and unhappy is deciding to be happy.",
+      "textZh": "我的意思是，大体上如此。我的意思是，显然有些人存在化学物质失衡，但对于大多数人来说，幸福与不幸福之间的区别就在于决定让自己幸福。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0244",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2925.33,
+      "textEn": "Over the years, I've experimented with many intermittent fasting programs. The truth is I've given up on intermittent fasting as I've seen no real benefit when it comes to longevity. But this changed when I discovered something called Prolon's five day fasting nutrition program. It harnesses the process of autophagy. This is a cellular recycling process that revitalizes your body at a molecular level. And just one cycle of the five day Prolon fasting nutrition program can support healthy aging, fat focused weight loss, improved energy levels and more.",
+      "textZh": "多年来，我尝试过许多间歇性禁食方案。事实是，我已经放弃间歇性禁食，因为就长寿而言，我没有看到任何实际益处。但当我发现一种名为 Prolon 的 5 天禁食营养方案后，情况发生了变化。它利用了自噬过程。这是一种细胞回收过程，能在分子层面焕活你的身体。而且，仅进行 1 个周期的 5 天 Prolon 禁食营养方案，就有助于健康衰老、以减脂为重点的体重减轻、改善能量水平等等。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0245",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2959.61,
+      "textEn": "It's a painless process and I've been doing it twice a year for the last year. You can get a 15% off on your order when you go to my special URL. Go to prolonlife.com P R O L O N L I F E.com moonshot get started on your longevity journey with Prolon today. Now back to the episode. I want to take a second for everybody listening to point something out. You know, ilan, it was 2021. I was texting with you and I said you should fund another X prize.",
+      "textZh": "这是一个毫无痛苦的过程，过去1年里我每年做2次。通过我的专属网址下单，可以享受15%的折扣。访问 prolonlife.com，P R O L O N L I F E.com，moonshot，今天就通过 Prolon 开启你的长寿之旅。现在回到本期节目。我想花一点时间，向所有正在收听的人指出一件事。你知道，伊兰，那是2021年。当时我在和你发短信，我说你应该资助另一个 X Prize。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0246",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 2995.1,
+      "textEn": "You funded an X Prize years ago on teaching kids in the middle of Tanzania reading, writing and arithmetic without any adults, no schools around, just on a tablet. They were handed and the software had to teach them. And it was an amazing success. And then in 21, I asked you if you'd do an X prize on carbon removal and you said yes almost instantly. And we launched it three months later. It was like the fastest yes to an X Prize launch ever.",
+      "textZh": "几年前，你资助过一项 X Prize，让坦桑尼亚中部的孩子在没有任何成年人、周围没有学校的情况下，只靠一台平板电脑学习阅读、写作和算术。他们被递交，而软件必须教他们。而且它取得了惊人的成功。然后在21年，我问你是否愿意为碳移除举办一项 X Prize，你几乎立刻就答应了。我们在3个月后启动了它。那就像是有史以来从答应到启动 X Prize 最快的一次。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0247",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3025.29,
+      "textEn": "So thank you for that. I want to give you a quick update on it if I could.",
+      "textZh": "所以谢谢你。如果可以的话，我想快速向你介绍一下最新进展。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0248",
+      "speakerEn": "Elon Musk",
+      "startSec": 3027.77,
+      "textEn": "You're welcome. Absolutely. Well, I hope the education X prize and the carbon removal X prize are resulting.",
+      "textZh": "不客气。当然。好吧，我希望教育 X Prize 和碳移除 X Prize 正在取得成果。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0249",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3036.89,
+      "textEn": "I'm sure we had 6000 teams enter the carbon removal prize. We have 1300 active teams in the competition right now as we down select about 36%. 460 are focused on carbon capture. 430 are land related capture, 240 are ocean related capture. And the. We've given away 20 million of your money already. 5 million to students and 15 million to a million to the top 15 teams. And the finals are coming up in two years in Earth Day of 2025.",
+      "textZh": "我确定有6000支团队报名参加了碳移除奖。目前随着我们向下筛选约36%，竞赛中有1300支活跃团队。460支专注于碳捕集。430支从事与陆地相关的捕集，240支从事与海洋相关的捕集。而且那个。我们已经发放了你的2000万。500万给学生，1500万，给前15支团队每支100万。决赛将在2年后的2025年地球日举行。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0250",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3078.19,
+      "textEn": "And interestingly enough, you know, the winning team needs to demonstrate megaton level capture that can scale to gigaton level capture. And so just the final competition is going to capture 4 megatons of carbon, which is twice what's being done on an annual basis today. So good progress so far.",
+      "textZh": "而且很有意思的是，你知道，获胜团队需要展示百万吨级的捕集能力，并且能够扩展到十亿吨级的捕集能力。所以，仅最终比赛就将捕集400万吨碳，这是目前每年捕集量的2倍。因此，到目前为止进展不错。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0251",
+      "speakerEn": "Elon Musk",
+      "startSec": 3101.71,
+      "textEn": "Great, that's good to hear, pal.",
+      "textZh": "太好了，很高兴听你这么说，老兄。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0252",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3106.72,
+      "textEn": "As we begin to wrap up, what other thoughts for people on abundance? What other mindset thoughts do you have for folks here?",
+      "textZh": "在我们开始收尾之际，对于富足，你还有什么想法要告诉大家？对于在场的各位，你还有哪些思维方式方面的想法？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0253",
+      "speakerEn": "Elon Musk",
+      "startSec": 3123.68,
+      "textEn": "Well, I do think that the birth rate is too low for humans as I'm always going on about that.",
+      "textZh": "嗯，我确实认为人类的出生率太低了，正如我一直反复谈论的那样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0254",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3134.12,
+      "textEn": "Just longevity, baby. I'm solving it with longevity going to keep people alive longer.",
+      "textZh": "靠长寿就行了，老兄。我正通过长寿来解决这个问题，让人们活得更久。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0255",
+      "speakerEn": "Elon Musk",
+      "startSec": 3140.52,
+      "textEn": "Okay, well, and robots and AI, sure.",
+      "textZh": "好吧，那个，还有机器人和 AI，当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0256",
+      "speakerEn": "Elon Musk",
+      "startSec": 3145.96,
+      "textEn": "But I mean it just. The current situation is grim. Yeah, yeah, yeah, yeah. I mean a lot of countries are, you know, if you look at say Korea, Italy.",
+      "textZh": "但我是说，这只是。当前的局面很严峻。是的，是的，是的，是的。我是说，很多国家都，你知道，如果你看看，比如韩国、意大利。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0257",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3159.65,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0258",
+      "speakerEn": "Elon Musk",
+      "startSec": 3160.29,
+      "textEn": "They're losing roughly half their population per generation.",
+      "textZh": "它们每一代大约都会损失一半人口。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0259",
+      "speakerEn": "Elon Musk",
+      "startSec": 3164.85,
+      "textEn": "That means three generations, they're one tenth of their current size. And with the 1/10 that remains being very old.",
+      "textZh": "这意味着经过3代，它们的人口会变成当前规模的1/10。而且剩下的1/10会非常年老。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0260",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3175.33,
+      "textEn": "Yeah. The numbers for folks, the replacement number is 2.1 children per family on average. And Europe is at 1.5. Asia dropped from 5.7 in the 1950s to 1.9 today, which is crazy. North America dropped from about 3 to 1.6. We're below the replacement level in the United States and it is an issue. I mean, we need smart people on the planet.",
+      "textZh": "是的。给大家说一下这些数字，人口更替水平是平均每个家庭有2.1个孩子。而欧洲是1.5。亚洲从20世纪50年代的5.7下降到如今的1.9，这太疯狂了。北美从大约3下降到1.6。美国已经低于人口更替水平，这是一个问题。我是说，这个星球上需要聪明人。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0261",
+      "speakerEn": "Elon Musk",
+      "startSec": 3210.07,
+      "textEn": "Yeah, well, I mean if we don't make new humans, we won't have humanity. And even with longevity, we'll live longer, but we're not live forever. So I think we just need. It's, you know, I'm concerned that like a lot of people think that the planet is overpopulated and that's one of the things contributing to a low birth rate. In fact, some people I've encountered think they're basically being martyrs for not having kids.",
+      "textZh": "是的，那个，我是说，如果我们不创造新的人类，人类就不会存在。即便有了长寿，我们会活得更久，但我们不会永远活着。所以我认为我们只是需要。这是，你知道，我担心的是，似乎很多人认为地球人口过剩，而这是导致低出生率的因素之一。事实上，我遇到的一些人认为，自己不要孩子基本上就是在当殉道者。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0262",
+      "speakerEn": "Elon Musk",
+      "startSec": 3239.67,
+      "textEn": "And that's just, it's just not true. I think we should take the position that we actually have a civic responsibility to have kids, to at least keep the human population constant.",
+      "textZh": "而那根本，那根本不是真的。我认为我们应该采取这样的立场：我们实际上负有生育孩子的公民责任，至少要让人类人口保持不变。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0263",
+      "speakerEn": "Elon Musk",
+      "startSec": 3256.31,
+      "textEn": "Ideally we should grow it, but we should at least not have population collapse, which is what we currently have.",
+      "textZh": "理想情况下，我们应该让人口增长，但至少不应该出现人口崩溃，而这正是我们目前面临的情况。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0264",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3262.51,
+      "textEn": "I think people. People fear the future. And I mean, the conversations I've heard is, I don't want to bring children into this world. It's too dangerous. AI is going to destroy humanity. The environment, you know, we're destroying the environment and so forth. So I think part of it is getting people to be optimistic about the future versus pessimistic, which is one of, as you said in the beginning of this space is one of my.",
+      "textZh": "我认为人们。人们害怕未来。而且我的意思是，我听到过这样的说法：我不想把孩子带到这个世界上。这个世界太危险了。AI 将毁灭人类。环境，你知道，我们正在破坏环境，诸如此类。所以我认为，其中一部分在于让人们对未来保持乐观而不是悲观，而这也是，正如你在这场 Space 开始时所说的，是我的一个。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0265",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3290.21,
+      "textEn": "If people think the world is getting better and they have a hand in making it a better place, you most definitely do.",
+      "textZh": "如果人们认为世界正在变得更好，而且他们也参与了让它成为一个更好的地方，那么你绝对是这样做的。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0266",
+      "speakerEn": "Elon Musk",
+      "startSec": 3298.93,
+      "textEn": "Yeah, I think people should be optimistic about the future.",
+      "textZh": "是的，我认为人们应该对未来保持乐观。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0267",
+      "speakerEn": "Elon Musk",
+      "startSec": 3303.25,
+      "textEn": "Earth can handle far more humans than currently exist, and the danger is not a population explosion, but population collapse.",
+      "textZh": "地球能够承载比目前多得多的人类，而危险不是人口爆炸，而是人口崩溃。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0268",
+      "speakerEn": "Elon Musk",
+      "startSec": 3315.18,
+      "textEn": "So I would just encourage as many people as possible to have kids and ideally have a lot of kids because they've got to make up for those who, whatever reason, don't buy an extra",
+      "textZh": "所以，我只想鼓励尽可能多的人生孩子，理想情况下生很多孩子，因为他们必须弥补那些无论出于什么原因不额外购买……的人",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0269",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3325.82,
+      "textEn": "bottle of wine tonight, folks.",
+      "textZh": "今晚的一瓶葡萄酒，各位。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0270",
+      "speakerEn": "Elon Musk",
+      "startSec": 3328.94,
+      "textEn": "Yeah, it's a big deal. So",
+      "textZh": "是的，这是件大事。所以",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0271",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3335.02,
+      "textEn": "let's close out on the conversation of AI and AGI, which I know a lot of people are always interested in. And, and there's a real fear about AI. What would you say to dissuade people? I mean, it's you. I've heard you say 80% probability we make it through and we need to protect the downside.",
+      "textZh": "让我们以关于 AI 和 AGI 的讨论来收尾，我知道很多人一直都对此感兴趣。而且，而且人们确实对 AI 怀有恐惧。你会说些什么来打消人们的顾虑？我的意思是，是你。我听你说过，我们挺过去的概率是 80%，而且我们需要防范下行风险。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0272",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3359.69,
+      "textEn": "Can you speak to that? How can people walk away more optimistic than pessimistic on this front? And how do you, how do you think about, you know, is, is it containment? Is it shaping how we train our AI systems? How do you think we navigate super. In digital superintelligence?",
+      "textZh": "你能谈谈这一点吗？怎样才能让人们在这方面离开时更多地感到乐观而不是悲观？还有，你是如何，你是如何看待，你知道，是，是遏制吗？是塑造我们训练 AI 系统的方式吗？你认为我们该如何驾驭超级。在数字超级智能方面？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0273",
+      "speakerEn": "Elon Musk",
+      "startSec": 3383.94,
+      "textEn": "Well, the rate at which AI is growing is. It really boggles the mind.",
+      "textZh": "嗯，AI 的增长速度。确实令人难以置信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0274",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3388.5,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0275",
+      "speakerEn": "Elon Musk",
+      "startSec": 3390.42,
+      "textEn": "So it currently seems as though the amount of compute dedicated to artificial intelligence is increasing by a factor of 10 roughly every six months.",
+      "textZh": "所以目前看来，专用于人工智能的算力大约每 6 个月增长 10 倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0276",
+      "speakerEn": "Elon Musk",
+      "startSec": 3406.83,
+      "textEn": "It's faster than annual, that's for sure. So, I mean, I recently heard today about a gigawatt class",
+      "textZh": "可以肯定，它比按年增长更快。所以，我的意思是，我今天刚听说了一个吉瓦级的",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0277",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3419.32,
+      "textEn": "AI",
+      "textZh": "AI",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0278",
+      "speakerEn": "Elon Musk",
+      "startSec": 3421.88,
+      "textEn": "compute cluster. Wow. That's. I think it's being being built in Kuwait or something to that effect. And it's like 700,000 v1 hundreds, which is a couple generations above two generations that's currently in production. So this is a. A staggering amount of compute and there are many such things. That's just the biggest one I've heard of so far. But there's a 500 megawatt installation happening and there's multiple 100 megawatt installations in the works.",
+      "textZh": "计算集群。哇。那是。我想它正在科威特或类似的地方建设。而且里面好像有 700,000 个 v1 hundreds，这比目前正在生产的高几代，高 2 代。所以这是一个。惊人的算力量，而且这样的项目有很多。这只是我迄今听说过的最大一个。但有一个 500 兆瓦的设施正在建设，还有多个 100 兆瓦的设施正在筹建。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0279",
+      "speakerEn": "Elon Musk",
+      "startSec": 3461.8,
+      "textEn": "It's not even clear to me what you do with that much compute, because when you actually add up all human data ever created, you really just run out of things to train on quite quickly. Like, you know, if you've got maybe, I don't know, 20 or 30,000 H1 hundreds, you can train on synthetic data almost every. Yeah, basically you have to have synthetic data because for certainly well under a hundred thousand H1 hundreds, you can train on all human data ever created, including video.",
+      "textZh": "我甚至都不清楚这么多算力能用来做什么，因为当你真正把人类有史以来创造的全部数据加在一起时，你很快就会耗尽可供训练的东西。比如，你知道，如果你有大概，我不知道，20 或 30,000 个 H1 hundreds，你几乎每次都可以用合成数据训练。是的，基本上你必须使用合成数据，因为肯定远不到 100,000 个 H1 hundreds，你就可以用人类有史以来创造的全部数据进行训练，包括视频。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0280",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3499.53,
+      "textEn": "And it's not. And it's not just the compute, which is the major scarce resource, but it's also the number of entrepreneurs focusing in this area, the amount of capital that's going into this area, the amount of data available. I mean it's all increasing and it's all feeding on itself and it's so it's just, you know, hitting your point about the speed at which it's progressing is. I think the word awesome comes to mind or staggering.",
+      "textZh": "而且不。而且不只是算力这一主要稀缺资源，还有专注于这一领域的创业者数量、流入这一领域的资本规模、可用的数据量。我的意思是，这一切都在增长，而且都在自我促进，所以这就只是，你知道，回应你关于其发展速度的观点。让我想到的词是震撼，或者惊人。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0281",
+      "speakerEn": "Elon Musk",
+      "startSec": 3528.02,
+      "textEn": "Yeah, it's really staggering and for sure.",
+      "textZh": "是的，这确实很惊人，肯定是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0282",
+      "speakerEn": "Elon Musk",
+      "startSec": 3533.3,
+      "textEn": "So I'm just trying to give a sense of scale. I've never seen anything move this fast of any technology. This is the fastest moving thing. So in terms of aiming for AI safety, my, my best guess of my sort of primitive biological neural net is that we should aim for maximum truth seeking and curiosity.",
+      "textZh": "所以我只是想让大家感受一下这个规模。我从未见过任何技术发展得这么快。这是发展最快的事物。所以在追求 AI 安全方面，我的，我的某种原始生物神经网络所作出的最佳猜测是，我们应该以最大限度地追求真相和保持好奇心为目标。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0283",
+      "speakerEn": "Elon Musk",
+      "startSec": 3567.23,
+      "textEn": "That's my gut feel for how to make AI as safe as possible.",
+      "textZh": "这是我对于如何让 AI 尽可能安全的直觉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0284",
+      "speakerEn": "Elon Musk",
+      "startSec": 3574.46,
+      "textEn": "The danger with programming morality and explicit, with an explicit morality program is what is sometimes referred to as the Waluigi problem. If you create Luigi, you automatically create Waluigi by inverting Luigi. Sure.",
+      "textZh": "编程植入道德以及明确的，植入一套明确的道德程序，其危险之处在于有时所谓的 Waluigi 问题。如果你创造了 Luigi，那么只要将 Luigi 反转，就会自动创造出 Waluigi。没错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0285",
+      "speakerEn": "Elon Musk",
+      "startSec": 3589.34,
+      "textEn": "So I think we have to be careful about programming in sort of an arbitrary morality. But, but if we focus on maximizing truth with acknowledged error, that's, that's probably. I think that's the way to maximize safety and also to have the AI be curious because I think that, you know, Earth is much more interesting to an advanced AI with humans on it than without humans. I have a. I agree with you.",
+      "textZh": "所以我认为，对于编程植入某种武断的道德观，我们必须谨慎。但是，但是如果我们专注于在承认错误的情况下最大限度地追求真相，那，那可能。我认为这是最大限度提升安全性的方式，同时还要让 AI 保持好奇心，因为我认为，你知道，对于先进 AI 来说，有人类的地球要比没有人类的地球有趣得多。我有一个。我同意你的看法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0286",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3628.92,
+      "textEn": "Now a interesting question of do you think vast intelligent, with vast intelligence comes significant empathy and respect for life?",
+      "textZh": "现在有一个有趣的问题：你是否认为，巨大的智能，伴随巨大智能而来的是强烈的同理心和对生命的尊重？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0287",
+      "speakerEn": "Elon Musk",
+      "startSec": 3643.8,
+      "textEn": "Yeah, I think so.",
+      "textZh": "是的，我认为是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0288",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3644.76,
+      "textEn": "Because that's the hope at the end of the rainbow here that I don't want to use the word AGI. I'll use the super. Digital superintelligence as a term with a digital superintelligence that is able to be more benevolent and support us because sometimes I'm not sure us squishy meat sacks can make it through our own, our own horseshit problems that we put together.",
+      "textZh": "因为这就是这里彩虹尽头的希望，我不想使用 AGI 这个词。我会使用超级。数字超级智能这个说法，一个能够更加仁慈并支持我们的数字超级智能，因为有时候我不确定我们这些软乎乎的肉袋子能否靠自己挺过我们自己，我们自己拼凑出来的那些狗屁问题。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0289",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3674.23,
+      "textEn": "So maybe there's a value there.",
+      "textZh": "所以也许这其中存在某种价值。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0290",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3678.87,
+      "textEn": "I think on the whole, AI is the single most important technology we ever invented, and it is going to uplift all of humanity. I think it's what you said, you know, post AGI comes abundance. I think it's the interim issues in the next one to four years.",
+      "textZh": "我认为，总体而言，AI 是我们有史以来发明的最重要的一项技术，它将提升全人类的福祉。我认为这正是你所说的，你知道，AGI 之后就是富足。我认为问题出在未来 1 到 4 年的过渡期。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0291",
+      "speakerEn": "Elon Musk",
+      "startSec": 3694.62,
+      "textEn": "Right. It's.",
+      "textZh": "对。它是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0292",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3695.3,
+      "textEn": "It's not artificial intelligence, it's human stupidity.",
+      "textZh": "问题不在人工智能，而在人类的愚蠢。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0293",
+      "speakerEn": "Elon Musk",
+      "startSec": 3700.3,
+      "textEn": "Yeah. Well, I mean, one way that AI could go wrong is if the extinctionist philosophy is programmed into the AI, whether implicitly or explicitly. I mean, probably not explicitly, but there's a strong danger of it, of an implicit extinctionist philosophy being programmed into AI, you know. And what would that look like?",
+      "textZh": "是的。嗯，我是说，AI 可能出问题的一种方式，就是把灭绝主义哲学编程进 AI，无论是隐含地还是明确地。我是说，可能不会明确地这么做，但存在很大的危险，即一种隐含的灭绝主义哲学会被编程进 AI，你知道。那么那会是什么样子？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0294",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3725.28,
+      "textEn": "What would that look like?",
+      "textZh": "那会是什么样子？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0295",
+      "speakerEn": "Elon Musk",
+      "startSec": 3727.92,
+      "textEn": "Well, like, there's this guy on the front page of New York Times about a year ago. He's head of the Extinctionist Society, and he was literally quoted as, there are 8 billion people on Earth. It would be better if there were none.",
+      "textZh": "嗯，比如，大约 1 年前《纽约时报》的头版上有这么一个人。他是灭绝主义协会的负责人，报道中逐字引用了他的话：地球上有 80 亿人。如果一个人都没有，那会更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0296",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3740.6,
+      "textEn": "Oh, my God.",
+      "textZh": "哦，我的天。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0297",
+      "speakerEn": "Elon Musk",
+      "startSec": 3742.92,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0298",
+      "speakerEn": "Elon Musk",
+      "startSec": 3744.92,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0299",
+      "speakerEn": "Elon Musk",
+      "startSec": 3747.08,
+      "textEn": "And if you take the extreme environmentalist argument, especially like the implicit extreme environmentalist argument, there's an implicit conclusion that. That humans are a plague on the surface of the Earth.",
+      "textZh": "而且，如果你采用极端环保主义者的论点，特别是那种隐含的极端环保主义者论点，就会有一个隐含的结论，那就是。人类是地球表面的一场瘟疫。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0300",
+      "speakerEn": "Elon Musk",
+      "startSec": 3763,
+      "textEn": "So I think we have to be quite careful about an implicit, like. Like if the extinctionist movement was somehow programmed into AI as. As the optimization, that would be obviously extremely dangerous. Yeah.",
+      "textZh": "所以我认为，我们必须相当谨慎地对待一种隐含的，比如说。比如说，如果灭绝主义运动以某种方式被编入AI，成为。成为优化目标，那显然会极其危险。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0301",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3779,
+      "textEn": "To say the least.",
+      "textZh": "往轻了说是这样。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0302",
+      "speakerEn": "Elon Musk",
+      "startSec": 3782.52,
+      "textEn": "Yeah, It's. And. But, you know, there are people, quite a few people actually, who view humanity as. As a blight on the surface of the Earth.",
+      "textZh": "对，这。还有。但你知道，有些人，实际上有相当多的人，把人类视为。视为地球表面的一种祸害。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0303",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3795.55,
+      "textEn": "And we're. We are coming down to. There is the, you know, accelerationist movement, the decelerationist movement, the boomers and the doomers. But I think people forget to realize, or don't realize and forget the fact that, you know, we romanticize the past, and the past life was short, brutish, and you were dead by 40. You know, the life that we enjoy today is a result of the extraordinary technology that we brought to bear.",
+      "textZh": "而我们。我们正归结到。有这个，你知道，加速主义运动、减速主义运动、繁荣派和末日派。但我认为，人们忘了意识到，或者没有意识到并忘记了这样一个事实：你知道，我们把过去浪漫化了，而过去的生活短暂、残酷，你到40岁就死了。你知道，我们今天享有的生活，是我们运用非凡技术的结果。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0304",
+      "speakerEn": "Elon Musk",
+      "startSec": 3825.36,
+      "textEn": "Yeah. So the, like, you know, Hobbes life is nasty, brutish and short. I. I actually had a little Yorkshire terrier once who was nasty, brutish and short and kept biting people. So I called him Hob. Perfect.",
+      "textZh": "对。所以，那个，比如，你知道，霍布斯说生活是肮脏、残酷而短暂的。我。我以前其实养过一只小约克夏梗，它又凶恶、又粗暴、又矮小，还总咬人。所以我叫它Hob。太合适了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0305",
+      "speakerEn": "Elon Musk",
+      "startSec": 3847.66,
+      "textEn": "I would tell friends that came over, watch out for the dog. And they'd look at this miniature Yorkshire terrier and laugh. And then he would bite them on the ankle. And I said, watch out for the dog.",
+      "textZh": "我会告诉来访的朋友，小心狗。他们会看着这只迷你约克夏梗大笑。然后它就会咬他们的脚踝。我就说了，小心狗。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0306",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3861.98,
+      "textEn": "You know, that extinctionist meme is the same sort of, you know, you discount it until it starts being a mind virus, in part, as you've called it, and it starts disrupting us.",
+      "textZh": "你知道，那个灭绝主义模因也是同一类东西，你知道，你会对它不以为意，直到它开始变成一种思想病毒，部分来说，正如你所称的那样，并开始扰乱我们。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0307",
+      "speakerEn": "Elon Musk",
+      "startSec": 3879.76,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0308",
+      "speakerEn": "Elon Musk",
+      "startSec": 3884,
+      "textEn": "If you convince people that, you know, we're running out of resources on Earth that there are too many people in the world and the only way to survive is to have far fewer people, which a lot of people are believed to be the case. And like I said, if that, if that somehow gets programmed into AI and that AI becomes the most powerful AI, then we're in deep trouble.",
+      "textZh": "如果你让人们相信，你知道，地球上的资源正在耗尽，世界上的人口太多，生存下去的唯一办法就是让人口大幅减少，而很多人被认为确实是这样想的。就像我说的，如果那种思想，如果那种思想以某种方式被编入AI，而那个AI成为最强大的AI，那我们就有大麻烦了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0309",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3911.75,
+      "textEn": "Yeah, we need a counter force to the population bomb. I mean, what an extraordinary disservice to humanity.",
+      "textZh": "对，我们需要一股力量来对抗“人口炸弹”。我的意思是，这对人类造成了多么非同寻常的伤害。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0310",
+      "speakerEn": "Elon Musk",
+      "startSec": 3919.25,
+      "textEn": "Yeah, Ehrlich's book was terrible. Nightmare. Maybe the most anti human book ever written.",
+      "textZh": "对，埃利希的书糟透了。噩梦。也许是有史以来最反人类的一本书。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0311",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3925.05,
+      "textEn": "Yeah, for sure, for sure.",
+      "textZh": "对，当然，当然。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0312",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3929.89,
+      "textEn": "But give people hope. On the flip side here, those who are saying again, going back to. I don't want to bring up my children because I hear this all the time and I'm sure you do too in an age where AI is going to destroy us.",
+      "textZh": "但要给人们希望。另一方面，那些又在说，回到。我不想抚养我的孩子，因为我一直听到这种话，我相信你也一样，在一个AI将要毁灭我们的时代。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0313",
+      "speakerEn": "Elon Musk",
+      "startSec": 3942.8,
+      "textEn": "So",
+      "textZh": "所以",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0314",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3945.6,
+      "textEn": "short term problems, long term problems. Short term solutions, Long term solutions. You said make it curious, make it maximum truth seeking 100%.",
+      "textZh": "短期问题，长期问题。短期解决方案，长期解决方案。你说过，让它保持好奇，让它最大限度地追求真相，100%。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0315",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 3957.2,
+      "textEn": "Is it okay to say that we're going to have issues in the short term and we're going to have to deal with them,",
+      "textZh": "是否可以说，我们短期内会遇到问题，而且必须应对这些问题，",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0316",
+      "speakerEn": "Elon Musk",
+      "startSec": 3964.4,
+      "textEn": "or do you want to be. There will be some issues.",
+      "textZh": "或者你想成为。会有一些问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0317",
+      "speakerEn": "Elon Musk",
+      "startSec": 3969.44,
+      "textEn": "I mean, essentially at this point, no way to stop AI. It's, it is accelerating whether people like it or not. I mean that's, that's, that's why together with a number of really smart people, we created xai.",
+      "textZh": "我的意思是，从本质上说，到这个时候已经没有办法阻止 AI 了。它，它正在加速发展，不管人们喜欢与否。我的意思是，那就是，那就是，那就是为什么我和一些非常聪明的人一起创建了 xAI。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0318",
+      "speakerEn": "Elon Musk",
+      "startSec": 3989.36,
+      "textEn": "And you know, hopefully, you know, some really small humans will continue to join XAI and build what is intended to be a maximally truth seeking and maximally curious AI.",
+      "textZh": "而且，你知道，希望，你知道，一些真的很小的人类会继续加入 xAI，并打造一个旨在最大限度追求真相、最大限度保持好奇的 AI。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0319",
+      "speakerEn": "Elon Musk",
+      "startSec": 4009.33,
+      "textEn": "Anyway, I think that's really important.",
+      "textZh": "不管怎样，我认为那真的很重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0320",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4014.53,
+      "textEn": "So Elon, listen, on behalf of those of us, and I think everybody here listening who, who are pro humanity and pro uplifting humanity and making us a multi planetary species and living a longer, healthier life. And the one place I've disagreed with you on X is on having people live longer. People don't need to die for there to be new ideas. The CEO of Ford and GM didn't have to die for Tesla to come into existence. So we're, you know, I want to just say thank you for all that you're doing and setting a model for other industrialists and entrepreneurs out there to take on and solve big, huge problems.",
+      "textZh": "所以，埃隆，听我说，谨代表我们这些人，以及我想这里所有正在收听的人，那些支持人类、支持提升人类、让我们成为一个多行星物种并过上更长久、更健康生活的人。我在 X 上与你意见不一致的一个地方，就是让人们活得更久这件事。并不是非得有人死去，才会有新想法。福特和通用汽车的 CEO 不必死去，Tesla 才能诞生。所以我们，你知道，我只想说，感谢你所做的一切，也感谢你为外面的其他实业家和企业家树立榜样，去承担并解决重大、巨大的问题。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0321",
+      "speakerEn": "Elon Musk",
+      "startSec": 4069.47,
+      "textEn": "Well, thank you.",
+      "textZh": "嗯，谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0322",
+      "speakerEn": "Elon Musk",
+      "startSec": 4072.75,
+      "textEn": "I would encourage people to be optimistic about the future, like err on the side of optimism. You will be happier for it and as you pointed out, probably live longer. So I'm not totally against life extension. I think we, you know, we want to be, I don't think we want to necessarily have people live forever. That's or live for a very long, like thousands of years that I think that would potentially lead to ossification of society.",
+      "textZh": "我会鼓励人们对未来保持乐观，比如宁可偏向乐观。你会因此更快乐，而且正如你指出的，可能也会活得更久。所以我并不完全反对延长寿命。我认为我们，你知道，我们想要，我认为我们未必想让人们永远活着。那是，或者活很长很长时间，比如几千年，我认为那可能会导致社会僵化。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0323",
+      "speakerEn": "Elon Musk",
+      "startSec": 4102.63,
+      "textEn": "It would, I think, lead to ossification society.",
+      "textZh": "我认为，这会导致社会僵化。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0324",
+      "speakerEn": "Elon Musk",
+      "startSec": 4106.15,
+      "textEn": "But I mean, solving dementia and, you know, curing cancer, I think are good things, obviously.",
+      "textZh": "但我的意思是，解决痴呆症，还有，你知道，治愈癌症，我认为显然都是好事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0325",
+      "speakerEn": "Elon Musk",
+      "startSec": 4116.71,
+      "textEn": "So I'm not sure we're actually that far apart on the life extension thing.",
+      "textZh": "所以我不确定我们在延长寿命这件事上的分歧真有那么大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0326",
+      "speakerEn": "Elon Musk",
+      "startSec": 4123.19,
+      "textEn": "I think we're probably mostly in agreement.",
+      "textZh": "我认为我们可能大体上意见一致。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0327",
+      "speakerEn": "Elon Musk",
+      "startSec": 4128.319,
+      "textEn": "Yeah, we just don't want to have like, you know, can you live for it? Like, do you want Kim Jong Un living for a thousand years?",
+      "textZh": "对，我们只是不想要，比如，你知道，你能为此活着吗？比如，你希望金正恩活一千年吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0328",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4133.159,
+      "textEn": "No, but I'd like, I'd like Elon Musk and Peter D. Man just living for 150 years and a few other thousand amazing entrepreneurs out there.",
+      "textZh": "不，但我希望，我希望埃隆·马斯克和彼得·D·曼·贾斯特活 150 年，还有外面另外几千名了不起的企业家。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0329",
+      "speakerEn": "Elon Musk",
+      "startSec": 4143.438,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0330",
+      "speakerEn": "Elon Musk",
+      "startSec": 4146.399,
+      "textEn": "So it's, it's, you know, there is a challenge that, like a lot of people, they really never change their mind. They just die. And this, this is actually, I'm not sure who originally said this, but even in physics where, which is extremely rigorous, that, you know, physics in a lot of cases has advanced one death at a time.",
+      "textZh": "所以这，这个，你知道，确实存在一个挑战，就是很多人真的从不改变自己的想法。他们只是死去。而这，这其实，我不确定最初是谁说的，但即使在极其严谨的物理学领域，你知道，物理学在很多情况下也是一次伴随一人死亡地取得进步。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0331",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4172.75,
+      "textEn": "Yeah, my friend Brian Keating, who's a astrophysicist, reminded me of that. And, and maybe it was true. But in this world of entrepreneurship, I think we do live a meritocracy to a large degree, and the best ideas can bubble up to the top faster than ever before. Especially with, with AI now, where you can build companies, you know, extraordinary companies with a couple of people and a lot of tech.",
+      "textZh": "对，我的朋友布莱恩·基廷是一位天体物理学家，他提醒过我这一点。而且，而且也许这是真的。但在这个创业世界里，我认为我们在很大程度上确实生活在一个精英治理的社会中，最好的想法可以比以往任何时候都更快地冒到最上层。尤其是现在有了 AI，你可以用几个人和大量技术打造公司，你知道，非凡的公司。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0332",
+      "speakerEn": "Elon Musk",
+      "startSec": 4203.4,
+      "textEn": "So, yeah,",
+      "textZh": "所以，是的，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0333",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4207.25,
+      "textEn": "I have one last question, and then I know it's dinner time there.",
+      "textZh": "我还有最后一个问题，然后我知道你那边到晚餐时间了。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0334",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4213.89,
+      "textEn": "The future of X Xai, what's your vision there, pal?",
+      "textZh": "X、xAI 的未来，你对此有什么愿景，伙计？",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0335",
+      "speakerEn": "Elon Musk",
+      "startSec": 4222.85,
+      "textEn": "Well, as I was saying, I think the path to AI safety is the bold AI that is maximally truth seeking with acknowledged error. That's maximally curious. And I think that is most likely to lead to a good outcome for humanity because we are much more interesting than not humanity.",
+      "textZh": "嗯，正如我刚才所说，我认为通往 AI 安全的道路，是那个最大限度追求真相、同时承认错误的大胆 AI。那个最大限度保持好奇的 AI。而且我认为，这最有可能为人类带来好的结果，因为我们比非人类有趣得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0336",
+      "speakerEn": "Elon Musk",
+      "startSec": 4251.79,
+      "textEn": "Obviously, I'm a big fan of Mars, but Mars is much less interesting because there's no human civilization there.",
+      "textZh": "显然，我是火星的忠实拥趸，但火星远没有那么有趣，因为那里没有人类文明。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0337",
+      "speakerEn": "Elon Musk",
+      "startSec": 4262.76,
+      "textEn": "And if you take humans, for example, we could hunt down all of the chimpanzees and kill them, but we don't. In fact, we make efforts to preserve their habitats.",
+      "textZh": "而且如果以人类为例，我们可以追捕所有黑猩猩并杀死它们，但我们没有这么做。事实上，我们努力保护它们的栖息地。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0338",
+      "speakerEn": "Elon Musk",
+      "startSec": 4277.48,
+      "textEn": "So anyway, I think that that is the path to a great future and a maximally positive AI is to be rigorously truth seeking, always acknowledging some amount of error and maximally curious.",
+      "textZh": "所以不管怎样，我认为通往美好未来和最大限度积极的 AI 的道路，就是严谨地追求真相，始终承认存在一定程度的错误，并最大限度地保持好奇。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0339",
+      "speakerEn": "Elon Musk",
+      "startSec": 4302.13,
+      "textEn": "And that's the goal of Xai's and you know, the company motto is understand the universe.",
+      "textZh": "而那就是 xAI 的目标，而且你知道，公司的座右铭是理解宇宙。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0340",
+      "speakerEn": "Elon Musk",
+      "startSec": 4313.58,
+      "textEn": "And that's a, that's a.",
+      "textZh": "而那是一个，那是一个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0341",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4315.14,
+      "textEn": "It's a good mission and one that's Going to take a bit of time. I can't wait till the first AI is able to come up with new theories of physics and new innovations. That's going to be. I mean, I don't think that's far away and I think that's going to be one of the most awesome times ever to be alive.",
+      "textZh": "这是一个很好的使命，也是一个需要花些时间才能完成的使命。我迫不及待地想看到第一个能够提出新的物理学理论和新创新的 AI。那将会是。我的意思是，我认为那并不遥远，而且我认为那将是有生以来最令人惊叹的时代之一。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0342",
+      "speakerEn": "Elon Musk",
+      "startSec": 4334.23,
+      "textEn": "True. Like, we, we definitely live in the most interesting times. And I actually, for a while I was kind of depressed about AI, but then I, I kind of got fatalistic about it and said, like, well, even if, even if AI was going to, you know, end all humanity, would I prefer to be around to see it or not? I guess I would prefer to be around to see it, just out of curiosity, but obviously, hopefully, AI is extremely beneficial to humanity.",
+      "textZh": "没错。比如，我们，我们无疑生活在最有趣的时代。而且实际上，有一阵子我对 AI 有些沮丧，但后来我，我对它有点听天由命了，并且说，比如，好吧，即使，即使 AI 会，你知道，终结全人类，我是愿意活着亲眼见证，还是不愿意？我想我会愿意活着亲眼见证，纯粹是出于好奇，但显然，希望 AI 对人类极其有益。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0343",
+      "speakerEn": "Elon Musk",
+      "startSec": 4371.72,
+      "textEn": "But the thing that sort of reconciled me to be less anxious about it was to say, well, I guess even if it was apocalyptic, I'd still be curious to see the. It's like I'd be curious to see it.",
+      "textZh": "但让我算是接受它、对它不那么焦虑的事情，是这么想：好吧，我想即使那是世界末日般的，我仍然会好奇地想看看那个。就像我会好奇地想看看它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0344",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4384.64,
+      "textEn": "I remember I was at your birthday party at one of your homes here in LA before you sold them, and Larry Page was there and Sergey was there, and we were having a conversation about living in a simulation. And the notion was, this is, we're in the 99th level of the gameplay and this has got to be a simulation because you couldn't. Why would be, why would it be alive right now in this single most interesting time? And then the only comment was, don't poke the simulation or end.",
+      "textZh": "我记得，在你卖掉洛杉矶这里的那些房子之前，我曾在其中一处参加你的生日派对，拉里·佩奇和谢尔盖都在那里，我们当时在讨论生活在模拟之中这个话题。当时的想法是，这里，我们正处在游戏的第99关，而这一定是一场模拟，因为你不可能。为什么会，为什么偏偏会活在当下这个最有意思的时代？然后唯一的评论是，别去戳这个模拟，或者结束。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0345",
+      "speakerEn": "Elon Musk",
+      "startSec": 4419.42,
+      "textEn": "Yeah, well, if we are in a simulation, the way to keep the simulation going is to keep being interesting. So, like, humans run lots of computer simulations because we don't know what the outcome's going to be and we're curious to see. We'll run lots of simulations, like in Tesla we'll run crash simulations and SpaceX will run, you know, rocket flight simulations. And we only stop doing the simulations when the, when the outcome is extremely predictable and boring.",
+      "textZh": "是啊，嗯，如果我们身处模拟之中，让模拟继续运行的办法就是持续保持有趣。所以，比如说，人类会运行大量计算机模拟，因为我们不知道结果会怎样，而且很好奇，想看看。我们会运行大量模拟，比如在 Tesla，我们会运行碰撞模拟，而 SpaceX 会运行，嗯，火箭飞行模拟。只有当，当结果变得极其可预测而且无聊时，我们才会停止进行模拟。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0346",
+      "speakerEn": "Elon Musk",
+      "startSec": 4457,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0347",
+      "speakerEn": "Elon Musk",
+      "startSec": 4459.24,
+      "textEn": "So if we're in some alien.",
+      "textZh": "所以，如果我们身处某个外星人里面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0348",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4462.44,
+      "textEn": "That's a great argument. That is perfect.",
+      "textZh": "这个论点太棒了。简直完美。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0349",
+      "speakerEn": "Elon Musk",
+      "startSec": 4465.08,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0350",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4465.44,
+      "textEn": "When it's absolutely known, if we're not entertaining enough to the digital gods or the universe gods, they'll end the sim.",
+      "textZh": "当这件事完全确定时，如果我们不足以取悦数字诸神或宇宙诸神，他们就会终止这个模拟。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0351",
+      "speakerEn": "Elon Musk",
+      "startSec": 4473.92,
+      "textEn": "Yeah, we just need to make sure we keep the ratings up.",
+      "textZh": "是的，我们只需要确保收视率保持住。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0352",
+      "speakerEn": "Elon Musk",
+      "startSec": 4480.4,
+      "textEn": "But this is also why I think, like, one of the ways to predict the future is that the most entertaining outcome is the most likely, as seen by a third party, as though we were in an Alien soap opera. I love that. Yeah. So it's not necessarily good for those in the soap opera. Like you could be watching a World War I movie and seeing, you know, people get blown up and you're just eating popcorn and drinking a soda.",
+      "textZh": "但这也是为什么我觉得，预测未来的方法之一就是：从第三方的视角来看，最具娱乐性的结果最有可能发生，就好像我们身处一部外星肥皂剧中。我喜欢这个。是的。所以对肥皂剧里的人来说，这未必是好事。比如你可能在看一部第一次世界大战电影，看着，你知道，人们被炸飞，而你只是在吃爆米花、喝汽水。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0353",
+      "speakerEn": "Elon Musk",
+      "startSec": 4514.649,
+      "textEn": "But we're in the movie. Yeah, well, let's not get, let's not",
+      "textZh": "但我们就在电影里。是的，好吧，我们别变得，我们别",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0354",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4519.05,
+      "textEn": "get dystopian here because I think we can have a really positive outcome of a lot. Lot of other cool stuff.",
+      "textZh": "在这里变得反乌托邦，因为我觉得我们可以取得一个非常积极的结果，还有很多。很多其他很酷的东西。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0355",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4527.35,
+      "textEn": "Yeah, for sure.",
+      "textZh": "是的，当然。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0356",
+      "speakerEn": "Elon Musk",
+      "startSec": 4528.91,
+      "textEn": "I think most likely outcome is positive.",
+      "textZh": "我认为最有可能的结果是积极的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0357",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4532.87,
+      "textEn": "And, and I think if you. And I think that's partly a self fulfilling prophecy. If you don't believe so if you believe it's going to be a dystopian outcome, then you're going to be back on your heels protecting yourself, not investing in the future and it unravels and this. Yeah, and, and so, you know, I think the, the message of this entire space is, is this is the most extraordinary time to be alive, the most exciting time to be alive.",
+      "textZh": "而且，而且我认为，如果你。而且我认为这在一定程度上是一种自我实现的预言。如果你不这样相信，如果你相信结果会是反乌托邦式的，那么你就会畏缩防守、保护自己，不再投资于未来，然后一切就会瓦解，而这。是的，而且，而且所以，你知道，我认为整场 Space 传达的信息是，这是最非凡的时代，也是最令人兴奋的时代。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0358",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4559.62,
+      "textEn": "A time where, you know, a lot, a lot of individuals listening on the spaces as more power than kings or queens or heads of nations had just a few decades ago. And it doesn't take a government or a large corporation to solve a problem anymore. You know, an entrepreneur with, you know, a few H1 hundreds can do a good job.",
+      "textZh": "在这个时代，你知道，在 Space 里收听的很多、很多个人所拥有的力量，比国王、女王或国家元首仅仅几十年前所拥有的还要大。而且现在解决问题不再需要政府或大公司。你知道，一个拥有，你知道，几台 H100 的创业者就能做得很好。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0359",
+      "speakerEn": "Elon Musk",
+      "startSec": 4582.55,
+      "textEn": "Yeah, I think we should err on the side of optimism.",
+      "textZh": "是的，我认为我们应该宁可偏向乐观。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0360",
+      "speakerEn": "Elon Musk",
+      "startSec": 4588.15,
+      "textEn": "We should err on the side of optimism and we should have kids like, you know, to err is human.",
+      "textZh": "我们应该宁可偏向乐观，而且我们应该生孩子，就像，你知道，人非圣贤，孰能无过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0361",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4596.71,
+      "textEn": "H E I R and to reproduce is human.",
+      "textZh": "H E I R，而繁衍是人类的本性。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0362",
+      "speakerEn": "Peter Diamandis",
+      "startSec": 4602.31,
+      "textEn": "All right, buddy, listen, thank you so much for your time. Thanks for sharing.",
+      "textZh": "好了，伙计，听着，非常感谢你抽出时间。谢谢你的分享。",
+      "speakerZh": "彼得·戴曼迪斯"
+    },
+    {
+      "id": "p-0363",
+      "speakerEn": "Elon Musk",
+      "startSec": 4607.59,
+      "textEn": "Welcome. All right, thanks, Peter. Take care, buddy. Bye.",
+      "textZh": "不客气。好了，谢谢，彼得。保重，伙计。再见。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T10:02:28.951Z",
+    "reviewedAt": "2026-09-13T11:57:57.094Z"
+  },
+  "fetchedAt": "2026-09-12T07:11:49.149Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "1d800c6bd41450377dead071c424bf1e9055c501a17192fe98b84f8d8f97dc23"
+}

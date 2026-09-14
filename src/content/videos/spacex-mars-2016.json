@@ -1,0 +1,1294 @@
+{
+  "id": "spacex-mars-2016",
+  "slug": "spacex-mars-2016",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2016-09-27",
+  "titleEn": "IAC",
+  "titleZh": "国际宇航大会",
+  "summaryEn": "At the International Astronautical Congress in Guadalajara, Elon Musk unveils SpaceX's plan to colonize Mars with a reusable interplanetary transport system.",
+  "summaryZh": "在瓜达拉哈拉举行的国际宇航大会上，埃隆·马斯克公布了SpaceX利用可重复使用的星际运输系统殖民火星的计划。",
+  "sourceUrl": "https://www.youtube.com/watch?v=H7Uyfqi_TE8",
+  "sourceLabel": "SpaceX",
+  "archiveUrl": "https://elonmuskarchive.org/video/spacex-mars-2016",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/H7Uyfqi_TE8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/H7Uyfqi_TE8/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 3886,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 0.08,
+      "textEn": "I am Jean Rib Le Galle. I am president of cnes, the French space agency and president elect of the International Astronautical Federation. And it is my pleasure to welcome you here at the 67th International Astronautical Congress.",
+      "textZh": "我是让·里布·勒加勒。我是法国航天局CNES的主席，也是国际宇航联合会候任主席。很荣幸欢迎各位来到第67届国际宇航大会。",
+      "speakerZh": "让·里布·勒加勒"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 18.48,
+      "textEn": "Elon Musk is founder, CEO and lead designer of SpaceX. Elon founded SpaceX in 2002 with the goal of revolutionizing space technology and ultimately enabling humans to become a multi planetary species. And that the plan is going to lay out for us today. SpaceX has had a number of firsts, including as the first private company to deliver cargo to and from the International Space Station and the first entity to land an orbital class booster back on land and on ships out at sea.",
+      "textZh": "埃隆·马斯克是SpaceX的创始人、首席执行官兼首席设计师。埃隆于2002年创立SpaceX，目标是彻底革新航天技术，并最终让人类成为一个多行星物种。而那个计划今天将为我们展开说明。SpaceX创下了多项第一，包括成为首家向国际空间站运送货物并将货物运回的私营公司，以及首个让轨道级助推器降落回陆地和海上船舶的实体。",
+      "speakerZh": "让·里布·勒加勒"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 55.84,
+      "textEn": "Please join me in welcoming Elon Musk.",
+      "textZh": "请与我一起欢迎埃隆·马斯克。",
+      "speakerZh": "让·里布·勒加勒"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 76.56,
+      "textEn": "Thank you very much for having me. Look forward to talking about the SpaceX Mars architecture. And what I really want to try to achieve here is to make Mars seem possible, make it seem as though it's something that we can do in our lifetimes and that you can go. And is there really a way that anyone could go if they wanted to? I think that's really the important thing. So I mean first of all, why go anywhere, right?",
+      "textZh": "非常感谢你们邀请我。我期待谈谈SpaceX的火星架构。而我在这里真正想努力实现的，是让火星显得可以抵达，让它看起来像是我们有生之年能够做到的事情，而且你也能去。那么，是否真的有办法让任何想去的人都能去呢？我认为这才是真正重要的事情。所以，我的意思是，首先，为什么要去任何地方，对吧？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 108.94,
+      "textEn": "The.",
+      "textZh": "这个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 111.02,
+      "textEn": "I think there are really two fundamental paths history is going to bifurcate along two directions. One path is we stay on Earth forever and then there will be some eventual extinction event. I don't have an immediate doomsday prophecy, but eventually history suggests there will be some doomsday event. The alternative is to become a space faring civilization and a multi planet species, which I hope you would agree that is the right way to go.",
+      "textZh": "我认为确实有两条根本性的道路，历史将沿着两个方向分岔。一条路是我们永远留在地球上，那么最终将发生某种灭绝事件。我并没有什么迫在眉睫的末日预言，但历史表明，最终会发生某种末日事件。另一种选择是成为一个航天文明和多行星物种，我希望你们会认同，这是正确的道路。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 141.24,
+      "textEn": "Yes, That's what we want.",
+      "textZh": "是的，那正是我们想要的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 152.28,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 159.56,
+      "textEn": "So how do we figure out how to take you to Mars and create a self sustaining city? A city that is not merely an outpost, but could become a planet in its own right. And thus we could become a truly multi planet species.",
+      "textZh": "那么，我们该如何设法把你们送上火星并建造一座自给自足的城市？一座不只是前哨站，而是本身就能成为一个行星的城市。这样一来，我们就能成为真正的多行星物种。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 180.28,
+      "textEn": "Sometimes people wonder, well, what about other places in the solar system? Why Mars?",
+      "textZh": "有时候人们会想，那么，太阳系中的其他地方呢？为什么是火星？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 187.4,
+      "textEn": "Well, just to sort of put things into perspective, this is, this is an actual scale of what the solar system looks like. So we're currently in the third little rock from the left, that's Earth.",
+      "textZh": "好吧，为了稍微让大家有个直观认识，这就是，这就是太阳系实际比例的样子。所以我们目前位于从左边数第3块小岩石上，那就是地球。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 201.47,
+      "textEn": "Yeah, exactly. And our goal is to go to the fourth rock on the left, that's Mars. But you can get a sense for the real scale of the solar system, how big the sun is and Jupiter, Neptune, Saturn, Uranus, and then the little guys on the right are Pluto and friends.",
+      "textZh": "对，没错。而我们的目标是前往左边第4块岩石，那就是火星。但你们可以感受一下太阳系的真实尺度，太阳有多大，还有木星、海王星、土星、天王星，然后右边的小家伙们是冥王星和它的朋友们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 225.54,
+      "textEn": "This sort of helps see it not quite to scale, but it gives you a better sense for where things are. So our options for going to, for becoming a multi planet species within our solar system are limited. We have in terms of nearby options. We've got Venus, but Venus is high pressure, super high pressure hot acid bath. So that would be a tricky one. Venus is not at all like the goddess. This is not in no way similar to the actual goddess.",
+      "textZh": "这算是有助于看清它，虽然不完全符合比例，但能让你更好地了解各个天体的位置。所以，在我们的太阳系内，对于要前往哪里、要成为多行星物种，我们的选择有限。就附近的选项而言。我们有金星，但金星是高压、超高压的高温酸浴。所以那会是个棘手的选择。金星完全不像那位女神。这并非在任何方面都不与真正的女神相似。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 263.86,
+      "textEn": "So really difficult to make things work on Venus. Mercury is also way too close to the sun.",
+      "textZh": "所以要让事物在金星上运作真的非常困难。水星也离太阳太近了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 271.89,
+      "textEn": "We could go potentially on the Mars, one of the, on one of the moons, Jupiter or Saturn, but those are quite far out, much further from the sun, a lot harder to get to. It really leaves us with one option. If we want to become a multi planet civilization and that's Mars, we could conceivably go to our moon. And I certainly have nothing against going to the moon, but I think it's challenging to create a become multi planetary on the moon because it's much smaller than a planet, it doesn't have any atmosphere, it's not as resource rich as Mars.",
+      "textZh": "我们可能可以去火星，某个，去某一颗卫星，木星或土星，但它们相当遥远，离太阳远得多，也难抵达得多。实际上，这只给我们留下了一个选项。如果我们想成为一个多行星文明，那就是火星。可以想见，我们也能去月球。我当然完全不反对去月球，但我认为要在月球上创造一个、成为多行星物种很有挑战性，因为它比行星小得多，没有任何大气，资源也不像火星那么丰富。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 306.86,
+      "textEn": "It's got a 28 day day, whereas the Mars day is 24 and a half hours. And in general Mars is far better suited to ultimately scale up to be a self sustaining civilization.",
+      "textZh": "它的一天长达28天，而火星的一天是24个半小时。总体而言，火星远远更适合最终扩大规模，成为一个自给自足的文明。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 320.78,
+      "textEn": "Just to give some comparison between the two planets that they're actually remarkably close in a lot of ways. In fact, we now believe that early Mars was a lot like Earth. And in fact if we could warm Mars up we would once again have a thick atmosphere and liquid oceans. So but where things are right now, Mars is about half again as far from the sun as Earth. So still decent sunlight.",
+      "textZh": "简单比较一下这两个行星，它们实际上在很多方面都惊人地接近。事实上，我们现在认为早期的火星与地球非常相似。事实上，如果我们能够让火星升温，我们将再次拥有浓厚的大气层和液态海洋。所以，但就目前的情况而言，火星到太阳的距离大约是地球的1.5倍。所以阳光仍然还不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 356.1,
+      "textEn": "It's a little cold, but we can warm it up.",
+      "textZh": "那里有点冷，但我们可以让它暖和起来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 361.14,
+      "textEn": "It has a very helpful atmosphere which in the case of Mars being primarily CO2 with some nitrogen and argon and a few other trace elements means that we can grow plants on Mars just by compressing the atmosphere. And, and it has nitrogen too, which is also very important for growing plants. It would be quite fun to be on Mars because you'd have gravity which is about 37% that of Earth. So you'd be able to lift heavy things and bound around and have a lot of fun.",
+      "textZh": "它拥有非常有用的大气层，就火星而言，其中主要是CO2，还有一些氮气、氩气和少量其他微量元素，这意味着我们只需压缩大气，就能在火星上种植植物。而且，而且它也有氮气，这对种植植物也非常重要。在火星上会很有趣，因为那里的重力约为地球的37%。所以你能够举起重物、蹦跳着四处移动，玩得很开心。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 395.46,
+      "textEn": "And the day is remarkably close to that of Earth.",
+      "textZh": "而且那里一天的长度与地球惊人地接近。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 401.14,
+      "textEn": "So we just need to change that bottom row because currently we have 7 billion people on Earth and zero on Mars.",
+      "textZh": "所以我们只需要改变最下面那一行，因为目前地球上有70亿人，火星上有0人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 411.04,
+      "textEn": "So there's been a lot of great work by NASA and other organizations in early exploration of Mars and understanding what Mars is like. Where could we land? What's the composition of the atmosphere? Where is there water? Water ice I should say. And so we need to go from these early exploration missions to actually building a city.",
+      "textZh": "所以，NASA和其他组织已经在火星的早期探索以及了解火星是什么样的方面做了许多出色的工作。我们可以在哪里着陆？大气的成分是什么？哪里有水？我应该说是水冰。因此，我们需要从这些早期探索任务迈向真正建造一座城市。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 440.81,
+      "textEn": "The issue that we have today is that if you look at a Venn diagram, there's no intersection of sets of people who want to go and can afford to go. In fact, right now you cannot go to Mars for infinite money.",
+      "textZh": "我们今天面临的问题是，如果你看一张维恩图，想去的人和去得起的人这两个集合没有交集。事实上，现在无论花多少钱，你都去不了火星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 458.91,
+      "textEn": "Using traditional methods. You know, if taking sort of Apollo style approach, an optimistic cost number would be about $10 billion a person. So for example, the Apollo program, the cost estimates are somewhere between 100 to 200 billion dollars in current year dollars. And we sent 12 people to the surface of the moon, which was an incredible thing and I think probably one of the greatest achievements of humanity. But that is a steep price to pay for a ticket.",
+      "textZh": "采用传统方法。你知道，如果采用类似阿波罗计划的方式，乐观的成本数字大约是每人100亿美元。举例来说，按当年美元价值计算，阿波罗计划的成本估算大约在1000亿至2000亿美元之间。我们把12个人送上了月球表面，那是一件不可思议的事，我认为可能是人类最伟大的成就之一。但一张票要付出如此高昂的价格。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 494.16,
+      "textEn": "That's why these circles only just barely touch.",
+      "textZh": "这就是为什么这些圆圈仅仅勉强相交。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 498.56,
+      "textEn": "So you can't create a self sustaining civilization if the ticket price is $10 billion a person. What we need is a closer is to move those circles together. And if we get the cost of moving to Mars to be roughly equivalent to a median house price in the US which is around $200,000, then I think the probability of establishing a self sustaining civilization is very high. I think it would almost certainly occur. Not everyone would want to go.",
+      "textZh": "所以，如果票价是每人100亿美元，你就无法建立一个自给自足的文明。我们需要的是一个更接近的是把那些圆圈移到一起。而如果我们把移居火星的成本降到与美国房价中位数大致相当，也就是大约200,000美元，那么我认为建立自给自足文明的可能性会非常高。我认为这几乎肯定会发生。并不是每个人都想去。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 529.4,
+      "textEn": "In fact, I think a relatively small number of people from Earth would want to go. But enough would want to go and who could afford the trip that it would happen. People could get sponsorship. And I think it gets to the point where almost anyone, if they saved up and this was their goal, they could ultimately save up enough money to buy a ticket and move to Mars. And Mars would have labor shortage for a long time. So a jobs would not be in short supply.",
+      "textZh": "事实上，我认为地球上只有相对少数的人会想去。但想去并且负担得起旅费的人足够多，所以这件事会发生。人们可以获得赞助。而且我认为，最终会发展到几乎任何人只要攒钱，并把这当作自己的目标，就能够攒够买一张票的钱，移居火星。而火星将在很长一段时间内面临劳动力短缺。所以工作机会不会短缺。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 560.1,
+      "textEn": "So it is a bit tricky because we have to figure out how to improve the cost of trips to Mars by 5 million percent.",
+      "textZh": "所以这有点棘手，因为我们必须想办法将火星旅行的成本改善500万%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 569.94,
+      "textEn": "So this is not easy.",
+      "textZh": "所以这并不容易。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 573.86,
+      "textEn": "I mean, it sounds like virtually impossible, but I think there are ways to do it. This translates to an improvement of approximately four and a half orders of magnitude.",
+      "textZh": "我的意思是，这听起来几乎不可能，但我认为有办法做到。这相当于大约提升4.5个数量级。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 586.27,
+      "textEn": "These are the key elements that are needed in order to achieve the 4.5 order of magnitude improvement. Most of the improvement would come from full reusability, somewhere between two and two and a half orders of magnitude. And then the other two orders of magnitude would come from refilling in orbit, propellant production on Mars and choosing the right propellant.",
+      "textZh": "这些是实现4.5个数量级提升所需要的关键要素。大部分提升将来自完全可重复使用，大约在2到2.5个数量级之间。然后另外2个数量级将来自在轨补充燃料、在火星生产推进剂以及选择合适的推进剂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 610.36,
+      "textEn": "So I'm going to go into detail on all those. Full reusability is really the super hard one. It's very difficult to achieve reusability for even an orbital system. And that challenge becomes even substantially greater for a system that has to go to Another planet.",
+      "textZh": "所以我会详细讲解所有这些方面。完全可重复使用确实是其中极其困难的一项。即使对于轨道系统，实现可重复使用也非常困难。而对于一个必须前往另一个星球的系统，这项挑战甚至会变得大得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 633.56,
+      "textEn": "But as an example of the difference between reusability and expandability in aircraft and this, you could actually use any form of transport. You could say a car, bicycle, horse. If they were single use, almost no one would use them. It would be too expensive. But with frequent flights, you can take something like an aircraft that costs $90 million. And if it was single use, you'd have to pay half a million dollars per flight.",
+      "textZh": "不过，以飞机和这个系统中可重复使用与可扩展性之间的差异为例，其实你可以拿任何一种交通工具来说。你可以说汽车、自行车、马。如果它们只能使用一次，几乎没有人会使用它们。那样会太昂贵。但通过频繁飞行，你可以使用像飞机这样价值9000万美元的东西。而如果它只能使用一次，你每次飞行就得支付50万美元。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 661.31,
+      "textEn": "But you can actually buy a ticket on Southwest right now from LA to Vegas for $43, including taxes. So that's, I mean, that's a massive improvement right there. It's showing a forward order of magnitude improvement. Now this is harder. The reusability doesn't apply quite as much to Mars because the number of times they can reuse the spaceship is the spaceship part of the system is less often because the Earth Mars rendezvous only occurs every, every 26 months.",
+      "textZh": "但现在你实际上可以花43美元买一张西南航空从洛杉矶到拉斯维加斯的机票，其中包括税费。所以那是，我的意思是，那本身就是巨大的提升。这显示出了向前提升一个数量级。现在这更困难。可重复使用对火星任务的适用程度没有那么高，因为飞船可以重复使用的次数，也就是系统中的飞船部分，使用频率较低，因为地球与火星的会合每、每26个月才发生一次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 693.93,
+      "textEn": "So you get to use the spaceship part roughly every two years. Now you get to use the booster and the tanker as frequently as you'd like. And so it makes, that's why it really makes a lot of sense to load the spaceship into orbit with essentially tanks dry and have it have really quite big tanks that you then use the booster and tanker to refill while it's in orbit and maximize the payload of the spaceship so that when it goes to Mars, you really have a very large payload capability.",
+      "textZh": "所以飞船部分大约每2年才能使用一次。而助推器和加注飞船则可以按你希望的频率使用。因此这就使得，这就是为什么让飞船在燃料箱基本为空的情况下进入轨道，并让它配备非常大的燃料箱，之后再使用助推器和加注飞船在它位于轨道时进行补充，同时最大限度地提高飞船的有效载荷，确实非常合理，这样当它前往火星时，你就真的拥有非常强大的有效载荷能力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 731.71,
+      "textEn": "So as I said, refilling in orbit is one of the essential elements of this. Without refilling in orbit, you would have a half order of magnitude impact roughly on, on the cost by half order of magnitude. I think audience mostly knows, but what that means is each order of magnitude is a factor of 10. So not, not refilling in orbit would mean a 500% roughly increase in the cost per ticket.",
+      "textZh": "所以正如我所说，在轨补充燃料是其中一个必不可少的要素。如果不在轨补充燃料，成本大约会受到半个数量级的影响，成本会增加半个数量级。我想大多数观众都知道，但这意味着每一个数量级都是10倍。所以，不、不在轨补充燃料将意味着每张票的成本大约增加500%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 762.52,
+      "textEn": "It also allows us to build a smaller vehicle and lower the development cost. Although this vehicle is quite big. But it would be much harder to build something that's five to ten times the size.",
+      "textZh": "这也让我们能够建造更小的飞行器，并降低开发成本。尽管这艘飞行器相当大。但要建造一个尺寸是它5到10倍的东西，会困难得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 775.04,
+      "textEn": "And it also reduces the sensitivity of performance characteristics of the booster rocket and tanker. So if there's a shortfall in the performance of any of the elements, you can actually make up for it by having one or two extra refilling trips to the spaceship. So this is very important for reducing the susceptibility of the system to a performance shortfall.",
+      "textZh": "而且，这也降低了系统对助推火箭和加注飞船性能特征的敏感度。所以，如果任何一个组成部分的性能有所不足，实际上可以通过让加注飞船额外前往飞船补充燃料1或2次来弥补。因此，这对于降低系统受性能不足影响的可能性非常重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 805.35,
+      "textEn": "And then producing propellants on Mars is actually also very obviously important. Again, if we didn't do this, it would have at least a half order of magnitude increase in the cost of a trip. So 500% increase in the cost of the trip. And it would be pretty absurd to try to build a city on Mars if your spaceships just kept staying on Mars and not going back to Earth. You have this massive graveyard of ships, you have to do something with them.",
+      "textZh": "然后，在火星上生产推进剂显然也非常重要。同样，如果我们不这样做，一次行程的成本至少会增加半个数量级。也就是行程成本增加500%。而且，如果你的飞船只是一直留在火星上、不返回地球，却试图在火星上建造一座城市，那会相当荒谬。你会有一座巨大的飞船墓地，你得拿它们做点什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 836.16,
+      "textEn": "So it really wouldn't make sense to leave your spaceships on Mars. You really want to build a propellant plant on Mars and send the ships back.",
+      "textZh": "所以，把飞船留在火星上确实没有道理。你确实应该在火星上建造一座推进剂工厂，然后把飞船送回来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 848.25,
+      "textEn": "So, and Mars happens to work out well for that because it has a CO2 atmosphere, it's got water ice in the soil. And with H2O and CO2 you can produce CH4, methane and oxygen, O2.",
+      "textZh": "所以，而火星恰好很适合这么做，因为它拥有CO2大气，土壤中还有水冰。利用H2O和CO2，你可以生产CH4，也就是甲烷，以及氧气O2。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 864.81,
+      "textEn": "So picking the right propellant is also important.",
+      "textZh": "所以，选择正确的推进剂也很重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 868.33,
+      "textEn": "So think of this as maybe there's three main choices and they have their merits, but kerosene or rocket propellant grade kerosene, which is also what jets use. Rockets use a very expensive form, a highly refined form of jet fuel essentially, which is a form of kerosene. It helps keep the vehicle size small, but because it's a very specialized form of jet fuel, it's quite expensive. The reasonability cash flow is lower.",
+      "textZh": "所以可以这样想，主要选择也许有3种，而且它们各有优点，但煤油或者火箭推进剂级煤油，也是喷气式飞机所使用的燃料。火箭使用的是一种非常昂贵的形式，实质上是一种高度精炼的航空燃料，也就是一种煤油。它有助于缩小飞行器的尺寸，但因为它是一种非常特殊的航空燃料，所以相当昂贵。合理性现金流更低。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 901.51,
+      "textEn": "Very difficult to make this on Mars because there's no oil. So really quite difficult to make the propellants on Mars. And then propellant transport is pretty good, but not great. Hydrogen, although it has a high specific impulse, is very expensive. Incredibly difficult to keep from boiling off because liquid hydrogen is very close to absolute zero as a liquid. So the insulation required is tremendous. And the cost of the energy cost on Mars of producing and storing hydrogen is very high.",
+      "textZh": "在火星上制造这种燃料非常困难，因为那里没有石油。所以，在火星上制造这些推进剂确实相当困难。然后，推进剂运输表现相当好，但不算极好。氢虽然具有很高的比冲，但非常昂贵。要防止它沸腾蒸发极其困难，因为液氢作为液体时非常接近绝对零度。所以需要极强的隔热能力。而且，在火星上生产和储存氢的能源成本非常高。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 943.18,
+      "textEn": "So when we looked at the overall system optimization, it was clear to us that methane actually was the clear winner. So it would require maybe anywhere from 50 to 60% of the energy on Mars to refill propellants using the propellant depot. And just the technical challenges are a lot easier. So we think methane's actually better on just really almost across the board. And we started off initially thinking that hydrogen would make sense, but also ultimately came to the conclusion that the best way to optimize the cost per unit mass to Mars and back is to use an all methane system or technically deep cryo methodics.",
+      "textZh": "所以，当我们考察整个系统的优化时，我们很清楚，甲烷实际上是明确的胜出者。因此，使用推进剂储存站补充推进剂，可能需要火星上50%到60%的能源。而且技术挑战也容易得多。所以我们认为，甲烷实际上几乎在各个方面都更好。我们最初开始时认为氢可能是合理的选择，但最终也得出结论：要优化往返火星的单位质量成本，最佳方式是采用全甲烷系统，或者从技术上说，采用深度低温方法学。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 991.2,
+      "textEn": "So those are the four elements that need to be achieved. So whatever system is designed, whether by SpaceX or anyone, we think these are the four features that need to be addressed in order for the system to really achieve a low cost per cost per ton to the surface of Mars.",
+      "textZh": "所以，这就是需要实现的4个要素。因此，无论这个系统是由SpaceX还是任何人设计，我们认为，为了让系统真正实现将每吨货物送到火星表面的低成本、每吨低成本，这4项特征都需要得到解决。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 1017.64,
+      "textEn": "And this is a simulation of the overall system.",
+      "textZh": "这是整个系统的模拟画面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 1035.22,
+      "textEn": "Sam it, Sam it's.",
+      "textZh": "萨姆它，萨姆它是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 1293.17,
+      "textEn": "So what you saw There is really quite close to what we will actually build. It will look almost exactly like what you saw. So this is not an artist impression. The simulation was actually made from the SpaceX engineering CAD models. So this is not, you know, it's not just, well, this is what it might look like, this is what we plan to try to make it look like.",
+      "textZh": "所以，你刚才在那里看到的，确实非常接近我们实际会建造的东西。它看起来几乎会和你刚才看到的一模一样。所以，这不是艺术家的想象图。这个模拟实际上是用SpaceX的工程CAD模型制作的。所以这并不是，你知道，这不只是说，嗯，它可能会是这个样子，而是我们计划努力把它造出来的样子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 1321.42,
+      "textEn": "So in the video you got a sense for what the system architecture looks like. The rocket booster and the spaceship take off, loads the spaceship into orbit, the rocket booster then comes back. It comes back quite quickly, within about 20 minutes. And so it can actually launch the tanker version of the spacecraft, which is essentially the same as the, as a spaceship, but filling up the unpressurized and pressurized cargo areas with propellant tanks so they look almost identical.",
+      "textZh": "所以在视频中，你们对系统架构的样子有了一个大致概念。火箭助推器和飞船起飞，把飞船送入轨道，然后火箭助推器返回。它返回得相当快，大约在20分钟内。因此，它实际上可以发射加注版航天器，这种航天器本质上和、和飞船相同，只不过在非加压和加压货舱区域装入推进剂储箱，所以它们看起来几乎一模一样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 1354.1,
+      "textEn": "This also helps lower the development cost, which obviously will not be small.",
+      "textZh": "这也有助于降低开发成本，而这个成本显然不会小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 1360.34,
+      "textEn": "And then the propellant tanker goes up and actually it'll go up multiple times, so anywhere from three to five times to fill the tanks of the, of the spaceship in orbit.",
+      "textZh": "然后，推进剂加注飞船会升空，实际上它会多次升空，也就是3到5次，为轨道上飞、飞船的储箱加满推进剂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 1371.15,
+      "textEn": "And then once the spaceship is, the tanks are full, the cargo has been transferred and we reach the Mars rendezvous timing, which as mentioned is roughly every 26 months, that's when the ship would depart. Now, over time, there would be many spaceships. You'd ultimately have, I think, upwards of a thousand or more spaceships waiting in orbit. And so that the Mars colonial fleet would depart en masse, kind of like Battlestar Galactica.",
+      "textZh": "然后，一旦飞船，也就是储箱加满、货物完成转移，并且我们到达火星交会时机，也就是前面提到的大约每26个月一次，飞船就会在那个时候出发。随着时间推移，会有许多艘飞船。我想，最终会有多达1,000艘或更多飞船在轨道上等待。这样，火星殖民舰队就会像《太空堡垒卡拉狄加》那样集体出发。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 1400.04,
+      "textEn": "You've seen that thing, that's a good show.",
+      "textZh": "你们看过那个吧，那是一部好剧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 1404.04,
+      "textEn": "So a bit like that. But it actually makes sense to load the spaceships into orbit because you've got two years to do so, and then make frequent use of the booster and the tanker to get really heavy reuse out of those. And then with the, with the spaceship you get less reuse because you have to say, well, how long is it going to last? Well, maybe 30 years. So that might be 12 to maybe 15 flights of the spaceship at most.",
+      "textZh": "所以，有点像那样。但把飞船送入轨道确实是合理的，因为你有2年时间来做这件事，然后频繁使用助推器和加注飞船，真正实现对它们的大量重复使用。而飞、飞船的重复使用次数会少一些，因为你必须问，嗯，它能使用多久？嗯，也许30年。所以一艘飞船最多也许可以飞行12到15次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 1431.65,
+      "textEn": "So you really want to maximize the cargo of the spaceship and reuse the booster and the tank aligned. So the ship goes to Mars, gets replenished and then returns to Earth.",
+      "textZh": "所以，你确实希望尽可能增加飞船的载货量，并重复使用助推器和储箱对齐装置。于是飞船前往火星，得到补充，然后返回地球。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 1452.14,
+      "textEn": "So I'll go into some of the details of the vehicle design and performance and I'm going to gloss over or just I'll only talk a little bit about the technical details in the actual presentation and then I'll leave the detailed technical questions to the Q and A that follows.",
+      "textZh": "所以，我会介绍飞行器设计和性能的一些细节，而在正式演讲中，我会略过技术细节，或者只是稍微讲一点，然后把详细的技术问题留到随后的问答环节。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 1472.15,
+      "textEn": "This is to give you a sense of size.",
+      "textZh": "这是为了让你们对它的尺寸有个概念。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 1485.75,
+      "textEn": "It's quite big.",
+      "textZh": "它相当大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 1496.82,
+      "textEn": "The funny thing is, I think in the long term, the Ships will be even bigger than this. I think that this will represent, this will be relatively small compared to the Mars interplanetary ships of the future. But it kind of needs to be about the size because in order to fit 100 people or thereabouts in the pressurized section, plus carry the luggage and all of the unpressurized cargo to build propellant plants and build everything from iron foundries to pizza joints to, you name it in the.",
+      "textZh": "有趣的是，我认为从长远来看，飞船甚至会比这个更大。我认为，与未来的火星星际飞船相比，这个，这个会相对较小。但它大概需要有这么大，因为要在加压舱段容纳100人左右，还要携带行李和所有非加压货物，用来建造推进剂工厂，以及建造从铸铁厂到披萨店等一切设施，任何你能想到的，在这个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 1531.31,
+      "textEn": "We need to carry a lot, a lot of cargo. So it really needs to be roughly on this, on this order of magnitude. Because if we say like the, say a minimum threshold for self sustaining city on Mars or civilization would be a million people. Well, and you can only go every two years.",
+      "textZh": "我们需要运送很多、很多货物。所以它确实需要大致达到这个、这个数量级。因为如果我们说，比如，火星上的自给自足城市或文明的最低门槛是100万人。嗯，而且你每2年才能去一次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 1553.56,
+      "textEn": "If you have 100 people per ship, that's 10,000 trips. So I think at least 100 people per trip is the right order of magnitude. And I think we actually may end up expanding the crew section and ultimately taking more like 200 or more people per flight in order to reduce the cost per person. So. But 10,000 flights is a lot of flight. So you really want ultimately I think on the order of 1,000 ships, it would take a while to build up to 1,000 ships.",
+      "textZh": "如果每艘飞船载100人，那就是10,000次行程。所以我认为每次行程至少载100人是正确的数量级。而且我认为，我们最后实际上可能会扩大乘员舱段，最终每次飞行搭载更接近200人或更多人，以降低人均成本。所以。但是10,000次飞行是很多次飞行。所以我认为，你最终确实需要大约1,000艘飞船，而要逐步增加到1,000艘飞船需要一段时间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 1584.79,
+      "textEn": "And so I think if you say when would we reach that million person threshold from the point at which the first ship goes to Mars, it's probably somewhere between 20 to 50 total Mars rendezvous. So it's probably somewhere between maybe 40 to 100 years to achieve a fully self sustaining civilization on Mars.",
+      "textZh": "所以我认为，如果你问，从第一艘飞船前往火星的那一刻起，我们什么时候会达到100万人这一门槛，那大概是在总共20到50次火星交会之间。所以，要在火星上建成一个完全自给自足的文明，大概可能需要40到100年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 1617.6,
+      "textEn": "So that's the sort of a cross section of the ship. And in some ways it's not that complicated really.",
+      "textZh": "那么，这大致就是飞船的横截面。实际上从某些方面来说，它并没有那么复杂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 1627.66,
+      "textEn": "It's made primarily of an advanced carbon fiber. The carbon fiber part is tricky when dealing with deep cryogens and trying to achieve both liquid and gas impermeability and not have gaps occur due to cracking or pressurization that would make the car fiber leaky. So it, this is a fairly significant technical challenge to make deeply cryogenic tanks out of carbon fiber. And it's only recently that we think that the carbon fiber technology has gotten to the point where we can actually do this without having to create a liner, some sort of metal liner or other liner on the inside of the tanks, which would add mass complexity.",
+      "textZh": "它主要由一种先进的碳纤维制成。在应对深低温物质，并试图同时实现液体和气体不可渗透性，以及避免因开裂或加压而出现缝隙、导致汽车纤维泄漏时，碳纤维部分很棘手。所以，用碳纤维制造深低温储箱是一项相当重大的技术挑战。而且直到最近，我们才认为碳纤维技术已经发展到这样一个程度：我们实际上可以做到这一点，而不必制造内衬，也就是在储箱内部加某种金属内衬或其他内衬，那会增加质量和复杂性。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 1679.31,
+      "textEn": "So particularly tricky for the hot gaseous oxygen pressurization. So this, this is designed to be autogenously pressurized, which means that the fuel and the oxygen, we gasify them through heat exchanges in the engine and use that to pressurize the tanks. So we'll gasify the methane and use that to pressurize the fuel tank, gasify the oxygen, use that to pressurize the oxygen tank, and this compares. This is a much simpler system than what we have with Falcon 9, where we use helium for pressurization and we use nitrogen for gas thrusters.",
+      "textZh": "所以，高温气态氧的增压尤其棘手。因此，这个系统被设计为自增压，也就是说，我们通过发动机中的热交换器将燃料和氧气气化，并用它们给贮箱增压。我们会把甲烷气化，用来给燃料箱增压；把氧气气化，用来给氧气罐增压，而这可以相比。这个系统比 Falcon 9 上的方案简单得多；后者使用氦气进行增压，并使用氮气作为气体推进器的工质。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 1716.76,
+      "textEn": "In this case, we would autogenously pressurize and then use gaseous methane and oxygen for the control thrusters. So really only you only need two ingredients for this, as opposed to four in the case of Falcon 9, and actually five if you consider the ignition liquid.",
+      "textZh": "在这种情况下，我们会采用自生增压，然后使用气态甲烷和氧气作为控制推进器的推进剂。所以实际上，这只需要2种成分，而Falcon 9需要4种；如果把点火液也算进去，实际上是5种。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 1740.86,
+      "textEn": "We use a sort of complicated liquid to ignite the engines that isn't very useful. In this case, we would use spark ignition.",
+      "textZh": "我们使用一种有点复杂、又不太有用的液体来点燃发动机。在这种情况下，我们会采用火花点火。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 1757.91,
+      "textEn": "So this gives you a sense of vehicles by performance, sort of current and historic, if you can actually read that. But in expandable mode, the vehicle push that we're proposing would do about 550 tons and about 300 tons in reusable mode. That compares to Satnam's 5 max capability of 135 tons.",
+      "textZh": "所以，这让你能从性能方面了解各种运载器，包括当前的和历史上的，前提是你确实能看清那些内容。但在可扩展模式下，我们提出的运载器推力将达到约550吨，在可重复使用模式下约为300吨。相比之下，Satnam's 5的最大运载能力为135吨。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 1781.92,
+      "textEn": "But I think this really gives a better sense for things. The white bars show the performance of the vehicle, like, in other words, the payload to orbit of the vehicle. So you can see essentially what it represents is what's the size efficiency of the vehicle. And most rockets, including ours, as they're currently flying, the performance bar is only a small percentage of the actual size of the rocket. But with the interplanetary system which will initially be used for Mars, we've been able to, or we believe, massively improve the design performance.",
+      "textZh": "但我认为，这确实能让大家对情况有更好的认识。白色柱条显示的是飞行器的性能，也就是说，飞行器送入轨道的有效载荷。因此你基本可以看到，它所表示的是飞行器在尺寸上的效率。大多数火箭，包括我们目前正在飞行的火箭，其性能柱条都只占火箭实际尺寸的一小部分。但对于最初将用于火星的星际系统，我们已经能够，或者说我们相信，能够大幅提升设计性能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1828.57,
+      "textEn": "So it's the first time a rocket's sort of performance bar will actually extend exceed the physical size of the rocket.",
+      "textZh": "所以，这将是火箭的某种性能柱条首次真正延伸到超过火箭的物理尺寸。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1841.56,
+      "textEn": "This gives you a more direct sort of comparison.",
+      "textZh": "这能让你进行一种更直接的比较。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1845.8,
+      "textEn": "This is the thrust level is quite enormous. We're talking about a liftoff thrust of 13,000 tons. So it's quite tectonic when it takes off.",
+      "textZh": "这个推力水平相当巨大。我们说的是13,000吨的起飞推力。所以它起飞时颇有一种地动山摇的感觉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1860.25,
+      "textEn": "But it does fit on pad 39A, which NASA's been kind of to allow us to use, where they somewhat oversized the pad in doing Saturn V. And as a result, we can actually do a much larger vehicle on that same launch pad. And in the future we expect to add additional launch locations, probably probably adding one in on the south coast of Texas.",
+      "textZh": "但它确实能放在39A发射台上，NASA好心允许我们使用这个发射台；他们在建造土星五号时把发射台造得有些过大。因此，我们实际上可以在同一座发射台上使用大得多的飞行器。未来，我们预计会增加更多发射地点，可能，可能会在得克萨斯州南部海岸增加一个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1887.93,
+      "textEn": "But this gives you a sense of the relative capability. If you can read, those.",
+      "textZh": "但这能让你了解相对能力。如果你能看清那些的话。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 1897.93,
+      "textEn": "Vehicles have very different purposes.",
+      "textZh": "这些飞行器有着截然不同的用途。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1902.09,
+      "textEn": "This is really intended to carry huge numbers of people, ultimately millions of tons of cargo to Mars. So you really need something quite large in order to do that.",
+      "textZh": "这确实是为了运送数量庞大的人，最终将数百万吨货物运往火星。因此，要做到这一点，你确实需要相当大的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1914.92,
+      "textEn": "To talk about some of the key elements of the interplanetary spaceship and rocket booster, we Decided to start off the development with what we think are probably the two most difficult elements of the design. One is the Raptor engine. And this is going to be the highest chamber pressure engine of any kind ever built, and probably the highest thrust to weight.",
+      "textZh": "谈到星际飞船和火箭助推器的一些关键要素，我们决定从我们认为可能是设计中最困难的2个要素开始研发。其中一个是猛禽发动机。这将成为有史以来燃烧室压力最高的任何类型发动机，而且可能拥有最高的推重比。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Elon Musk",
+      "startSec": 1946.5,
+      "textEn": "It's a full flow staged combustion engine, which maximizes the theoretical momentum that you can get out of a given source fuel and oxidizer. We subcool the oxygen and methane to densify it. So compared to when it, when propellants are normally used close to their boiling point, in most rockets, in our case, we actually load the propellants close to their freezing point and that can result in a density improvement of up to around 10 to 12%, which makes an enormous difference in the actual results of the rocket.",
+      "textZh": "它是一台全流量分级燃烧发动机，能够将你从给定燃料和氧化剂来源中获得的理论动量最大化。我们对氧气和甲烷进行过冷处理，以提高其密度。因此，相比大多数火箭通常在推进剂接近沸点时使用它们，我们实际上是在推进剂接近冰点时加注，这可以使密度提高约10%到12%，对火箭的实际效果有巨大影响。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 1984.24,
+      "textEn": "It also makes the, it gets rid of any cavitation risk for the turbo pumps and it makes it easier to feed a high pressure turbo pump if you have very cold propellant.",
+      "textZh": "这还会使，它消除了涡轮泵发生任何空化的风险，而且如果推进剂非常冷，就更容易为高压涡轮泵供料。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 1997.79,
+      "textEn": "Really one of the keys here though, is the vacuum version of raptor. Having a 382 second ISP. This is really quite critical to the whole Mars mission. And we're confident we can get to, to that number or at least within a few seconds of that number, ultimately maybe exceeding it slightly.",
+      "textZh": "不过，这里的关键之一确实是猛禽发动机的真空版，其比冲为382秒。这对整个火星任务确实至关重要。我们有信心能够达到，达到这个数字，或者最终至少达到与这个数字相差几秒的水平，也许还能略微超过它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 2023.64,
+      "textEn": "So the rocket booster in many ways is really a scaled up version of the Falcon 9 booster. You'll see a lot of similarities, such as the grid fins, obviously clustering a lot of engines at the base. And the big difference really being that the, the primary structure is an advanced form of carbon fiber as opposed to aluminum lithium, and that we use autogenous pressurization and we get rid of the helium and the nitrogen.",
+      "textZh": "所以从很多方面来说，火箭助推器实际上是猎鹰9号助推器的放大版。你会看到很多相似之处，例如栅格翼，显然还有底部集群布置的大量发动机。真正的主要区别在于，主体结构采用了一种先进的碳纤维，而不是铝锂合金；而且我们使用自生增压，去掉了氦气和氮气。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 2055.48,
+      "textEn": "So this uses 42 Raptor engines. It's a lot of engines, but we use an ion on a Falcon 9 and with Falcon Heavy, which should launch early next year, there's 27 engines on the base. So we've got pretty good experience with having a large number of engines. It also gives us redundancy so that if some of the engines fail, you can still continue the mission and be fine.",
+      "textZh": "所以它使用42台猛禽发动机。发动机很多，但我们在猎鹰9号上使用一个离子，而猎鹰重型应该会在明年年初发射，其底部有27台发动机。所以，我们在使用大量发动机方面拥有相当丰富的经验。这也为我们提供了冗余，因此即便有一些发动机失效，你仍然可以继续执行任务，不会有问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 2081.25,
+      "textEn": "But the main job of the booster is to accelerate the spaceship to around 8,500 km an hour.",
+      "textZh": "但助推器的主要任务是将飞船加速到每小时约8,500公里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Elon Musk",
+      "startSec": 2094.539,
+      "textEn": "For those that are less familiar with orbital dynamics, really it's all about velocity and not about height. So really that's the job of the booster. The booster is like the Javelin thrower, so it's got to toss that javelin which is the spaceship. And in the case of other planets though, which have, which have a gravity well which is not as deep. So Mars the moons Jupiter.",
+      "textZh": "对于不太熟悉轨道动力学的人来说，真正重要的完全是速度，而不是高度。所以这实际上就是助推器的任务。助推器就像标枪投掷者，因此它必须把那支标枪投出去，也就是飞船。不过对于其他行星而言，它们的，它们的引力井没有那么深。所以火星、那些卫星、木星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 2123.06,
+      "textEn": "See, if we one day, maybe even Venus.",
+      "textZh": "你看，如果有一天我们，甚至也许是金星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 2127.86,
+      "textEn": "Venus will be a little trickier. But for most of the solar system, you only need the spaceship. So you don't need the booster if you have a lower gravity well. So no booster is needed on the moon or Mars or any of the moons of Jupiter or Pluto. You just need the spaceship. The booster is just there for heavy gravity wells.",
+      "textZh": "金星会稍微棘手一些。但对于太阳系中的大多数地方，你只需要飞船。因此，如果引力井较浅，就不需要助推器。所以在月球、火星、木星的任何卫星或冥王星上，都不需要助推器。你只需要飞船。助推器只用于较深的引力井。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 2150.98,
+      "textEn": "And then we've also been able to optimize the propellant needed for boostback and landing to get it down to about 7% of the liftoff propellant load. We think with some optimization, maybe we can get it down to about 6%. And we also are now getting quite comfortable with the accuracy of the landing. If you've been watching the Falcon 9 landings, you'll see that they're getting increasingly closer to the bullseye. And we think particularly with the addition of additional, with addition of some thrusters, some maneuvering thrusters, we can actually put the booster right back on the launch stand.",
+      "textZh": "然后，我们还得以优化返程推进和着陆所需的推进剂，将其降至起飞推进剂装载量的约7%。我们认为，经过一些优化，也许能将其降至约6%。而且我们现在对着陆精度也越来越有信心。如果你一直在关注猎鹰9号的着陆，就会看到它们越来越接近靶心。我们认为，尤其是在增加额外的，在增加一些推进器、一些机动推进器之后，我们实际上可以让助推器直接返回发射架。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 2186.59,
+      "textEn": "And then those bins at the base are essentially centering features to take out any minor position mismatch at the launch site.",
+      "textZh": "然后，底部的那些箱体基本上是对中结构，用来消除发射场上任何微小的位置偏差。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 2201.75,
+      "textEn": "So it looks like at the base. So we think we only need to gimbal or steer the center cluster of engines. So there's the seven engines in the center cluster. Those would be the ones that move for steering the rocket. And the other ones would be fixed in position, which gives us the best concentration of. We can max out the number of engines because you don't have to leave any room for gimbaling or moving the engines.",
+      "textZh": "所以它在底部看起来是这样。我们认为，只需要让中央发动机集群进行万向摆动或转向。因此中央集群中有7台发动机。它们会通过移动来控制火箭转向。其他发动机则会固定不动，这能让我们获得最佳的集中度。我们可以把发动机数量加到最大，因为不必为发动机的万向摆动或移动留出任何空间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 2227.87,
+      "textEn": "And like I said, this is all designed so that you could actually lose multiple engines, even at liftoff or anywhere in flight, and continue the mission safely.",
+      "textZh": "正如我所说，这一切的设计都确保，即使在起飞时或飞行途中的任何阶段损失多台发动机，你实际上仍能安全地继续执行任务。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 2242.27,
+      "textEn": "So for the spaceship itself, in the top, we have the. The pressurized compartment. I'll show you a fly through of that in a moment. Then beneath that is the. Is where we have the unpressurized cargo, which would be really flat, packed in a very dense format. And then below that is the liquid oxygen tank. The liquid oxygen tank is probably the hardest piece of this whole vehicle because it's got a handle propellant at the coldest level.",
+      "textZh": "至于飞船本身，在顶部，我们有。增压舱。我稍后会向你展示一次舱内飞越画面。它的下面则是。是我们放置非增压货物的地方，这些货物会以非常紧凑的形式真正进行扁平化包装。再往下是液氧箱。液氧箱可能是整艘飞行器中最困难的部件，因为它必须在最冷的温度下处理推进剂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 2272.91,
+      "textEn": "And it and the tanks themselves actually form the airframe. So the airframe structure and the tank structure are combined as it is in all modern rockets and in aircraft. For example, the wing is really a fuel tank in wing shape. So it has to take the thrust loads of ascent, the loads of reentry, and, and then it has to be impermeable to gaseous oxygen, which is tricky and non reactive to gaseous oxygen. So that's the hardest piece of the spaceship itself, which is actually why we started on that element as well.",
+      "textZh": "而且它，而且这些贮箱本身实际上构成了机体。因此，机体结构与贮箱结构是合为一体的，所有现代火箭和飞机都是如此。例如，机翼实际上就是呈机翼形状的燃料箱。所以它必须承受上升时的推力载荷、再入时的载荷，而且，而且必须不能被气态氧渗透，这很棘手，同时不能与气态氧发生反应。因此，这是飞船本身最困难的部件，而这实际上也是我们也从这个要素开始着手的原因。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Elon Musk",
+      "startSec": 2315.29,
+      "textEn": "And I'll show you some pictures of that later. And then below the oxygen tank is the fuel tank. And then the engines are mounted directly to the thrust cone on the base. And then there are six of the vacuum, the high efficiency vacuum engines around the perimeter. And those don't gimbal. And then there are three of the sea level versions of the engine which do gimbal and provide the steering, although we can do some amount of steering if you're in space.",
+      "textZh": "稍后我会给你们看一些相关图片。然后，氧气箱下面是燃料箱。发动机直接安装在底部的推力锥上。外围有6台真空、高效率真空发动机。它们不能进行万向摆动。然后还有3台海平面版发动机，可以进行万向摆动并提供转向，不过如果是在太空中，我们也能进行一定程度的转向。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 2345.82,
+      "textEn": "With differential thrust on the outside engines, the net effect is a cargo to Mars of up to 450 tons depending upon how many refills you do with the tanker.",
+      "textZh": "通过外围发动机的差动推力，最终效果是，根据你用加注飞船补充燃料的次数，运往火星的货物最多可达450吨。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 2363.19,
+      "textEn": "And the goal is at least 100 passengers per ship, Although I think ultimately we'll probably see that number grow to 200 or more.",
+      "textZh": "目标是每艘飞船至少搭载100名乘客，不过我认为最终我们可能会看到这个数字增长到200或更多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 2372.47,
+      "textEn": "This chart's a little difficult to interpret at first, but we decided to put it there for people who want to watch the video afterwards and, and sort of take a closer look, analyze some of the numbers.",
+      "textZh": "这张图乍看之下有点难以解读，但我们决定把它放在那里，供那些之后想观看视频并且，并且想更仔细地看一看、分析其中一些数字的人使用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 2384.19,
+      "textEn": "The column on the left is probably what's most relevant and that gives you the trip time. So depending upon which Earth Mars rendezvous you're aiming for, the trip time at 6 kilometers per second departure velocity can be as low as 80 days. And then over time I think would obviously improve, improve that. And ultimately I suspect that you'd see Mars transit times of as little as 30 days in the more distant future.",
+      "textZh": "左边那一列可能是最相关的，它给出了航行时间。所以，根据你瞄准的是哪一次地球与火星会合，以每秒6公里的出发速度航行，航行时间最短可以是80天。然后随着时间推移，我认为显然会改进，改进这一点。最终，我猜在更遥远的未来，你会看到短至30天的火星航行时间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 2417.61,
+      "textEn": "So it's fairly manageable considering the trips that people used to do in the old days that routinely take sailing voyages that would be six months or more.",
+      "textZh": "所以，考虑到过去人们进行的那些旅行，这相当可控；那时候，他们经常进行耗时6个月或更久的航海旅程。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 2430.66,
+      "textEn": "So on arrival, the heat shield technology is extremely important. We've been refining the heat shield technology using our Dragon spacecraft and we now have, we're now on version three of Pica, which is phenolic impregnated carbon ablator. And it's getting more and more robust with each new version with less ablation, more resistance, less need for refurbishment. The heat shield is basically a giant brake pad. So it's like how good can you make that brake pad against extreme reentry conditions and minimize the cost of refurbishment and make it so that you can have many flights with no refurbishment at all.",
+      "textZh": "所以在抵达时，隔热罩技术极其重要。我们一直在利用我们的龙飞船改进隔热罩技术，现在我们已经，我们现在用的是PICA的第3版，也就是酚醛浸渍碳烧蚀材料。而且每一个新版本都变得越来越坚固，烧蚀更少、耐受性更强、翻修需求更低。隔热罩基本上就是一块巨型刹车片。所以问题就像是：面对极端的再入条件，你能把这块刹车片做得多好，同时最大限度地降低翻修成本，并使其能够在完全不翻修的情况下进行多次飞行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 2473.55,
+      "textEn": "This is a flight through of the crew compartment.",
+      "textZh": "这是一次穿行乘员舱的演示。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 2481.48,
+      "textEn": "It.",
+      "textZh": "它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 2511.65,
+      "textEn": "Just want to give you a sense of what it would feel like to actually be in the spaceship. I mean, in order to make it appealing and increase that portion of the Venn diagram of people who actually want to go. It's got to be really fun and exciting, and it can't feel cramped or boring. So the crew compartment or the occupant compartment is set up so that you can do zero G games. You can float around. There'll be, like, movies, lecture halls, cabins, a restaurant.",
+      "textZh": "只是想让你们感受一下真正身处飞船之中会是什么感觉。我的意思是，为了让它具有吸引力，并扩大维恩图中那些真正想去的人的那一部分。它必须真的很好玩、令人兴奋，而且不能让人觉得局促或无聊。所以乘员舱，或者说乘客舱，是按能够让你玩零重力游戏来布置的。你可以四处漂浮。还会有，比如说，电影、报告厅、舱室、一家餐厅。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 2547.54,
+      "textEn": "It'll be, like, really fun to go. You'll have a great time.",
+      "textZh": "去那里会非常有趣。你会度过一段美好时光。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 2556.42,
+      "textEn": "Serving the propellant plant on Mars. Again, this is one of the slides that I won't go into in detail here, but people can think about offline. The key point being that the ingredients are there on Mars to create a propellant plant with relative ease. Because the atmosphere is primarily CO2 and there's water ice almost everywhere. You've got the CO2 plus H2O to make methane CH4 and oxygen O2 using the reaction.",
+      "textZh": "为火星上的推进剂工厂服务。同样，这是其中一张我不会在这里详细讲解的幻灯片，但大家可以在线下思考。关键在于，火星上具备相应的原料，可以相对容易地建造一座推进剂工厂。因为大气主要由 CO2 构成，而且几乎到处都有水冰。你可以利用 CO2 加 H2O，通过反应制造甲烷 CH4 和氧气 O2。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 2588,
+      "textEn": "The trickiest thing really is the energy source, which we think we can do with a large field of solar panels.",
+      "textZh": "真正最棘手的是能源来源，我们认为可以用一大片太阳能电池板来解决。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 2597.76,
+      "textEn": "So then to give you a sense of the cost, really, the key is making this affordable to almost anyone who wants to go. And we think based on this architecture, this architecture, seemingly optimization over time, like the very first flights wouldn't be, Would be fairly expensive. But the architecture allows for a cost per ticket of less than $200,000, maybe as less, maybe as little as $100,000 over time, depending upon how much mass a person takes.",
+      "textZh": "那么，为了让大家了解一下成本，真正的关键是让几乎任何想去的人都负担得起。我们认为，基于这一架构，这一架构，似乎会随着时间推移而优化，比如最初的几次飞行不会，会相当昂贵。但这一架构可以让每张票的价格低于200,000美元，或许低至，或许随着时间推移低至100,000美元，具体取决于一个人携带多少质量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 2631.14,
+      "textEn": "So we're right now estimating about $140,000 per ton to the surface of Mars. So if a person plus the luggage is less than that, Taking into account food consumption and life support, then we think that the cost of moving to Mars ultimately could drop below $100,000.",
+      "textZh": "所以，我们目前估计，将每吨物资运送到火星表面的成本约为140,000美元。因此，如果一个人加上行李的重量低于这个数，再将食物消耗和生命保障考虑在内，那么我们认为，移居火星的成本最终可能降至100,000美元以下。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Elon Musk",
+      "startSec": 2656.1,
+      "textEn": "So funding.",
+      "textZh": "那么，资金。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 2658.58,
+      "textEn": "We thought about funding sources, and so we've got steel underpants. Launch satellites send cargo to space station Kickstarter, of course, followed by profit.",
+      "textZh": "我们考虑过资金来源，所以我们有钢铁内裤。发射卫星，把货物送到空间站，当然还有 Kickstarter，之后是利润。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Elon Musk",
+      "startSec": 2674.05,
+      "textEn": "So the. Obviously, it's going to be a challenge to fund this whole endeavor.",
+      "textZh": "所以这个。显然，为整个事业筹集资金将是一项挑战。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 2681.33,
+      "textEn": "We do expect to generate pretty decent net cash flow from launching lots of satellites and servicing the space station from NASA, transferring cargo to and from space station. And then I know that there's a lot of people in the private sector who are interested in helping fund a base on Mars. And then perhaps there'll be interest on the government sector side to also do that. Ultimately, this is going to be a huge public private partnership.",
+      "textZh": "我们确实预计，通过发射大量卫星、为 NASA 的空间站提供服务，以及往返空间站运输货物，可以产生相当可观的净现金流。而且我知道，私营部门有很多人有兴趣帮助资助火星基地。然后，政府部门或许也会有兴趣这样做。最终，这将是一个规模巨大的公私合作项目。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 2718.67,
+      "textEn": "And I think that's how the United States was established and many other countries around the world is a public private partnership. So I think that's probably what occurs. And right now we're just trying to make as much progress as we can, with the resources that we have available and just sort of keep moving both forward and hopefully.",
+      "textZh": "我认为，美国以及世界各地许多其他国家就是通过公私合作建立起来的。所以我认为，这很可能就是将会发生的情况。而现在，我们只是努力利用现有资源取得尽可能多的进展，并且算是继续让两者向前推进，希望如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 2744.6,
+      "textEn": "I think as we show that this is possible, that this dream is real, not just a dream, it's something that can be made real. I think the support will snowball over time. And I should say also that the main reason I'm personally accumulating assets is in order to fund this. So I really don't have any other motivation for personally accumulating assets except to be able to make the biggest contribution I can to making life multi planetary.",
+      "textZh": "我认为，随着我们证明这是可能的，证明这个梦想是真实的，不只是一个梦想，而是能够变成现实的东西，我认为支持会随着时间推移像滚雪球一样增长。我还应该说，我个人积累资产的主要原因就是为这件事提供资金。所以，我个人积累资产确实没有任何其他动机，只是为了能够尽我所能，为使生命实现多行星化作出最大的贡献。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 2792.42,
+      "textEn": "Timelines. Not the best at this sort of thing.",
+      "textZh": "时间表。我不太擅长这种事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 2798.1,
+      "textEn": "But.",
+      "textZh": "但是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 2802.82,
+      "textEn": "Just to show you where we started off in 2002, SpaceX basically consisted of carpet and a mariachi band. That was it. That's all of SpaceX in 2002. As you can see, I'm a dancing machine.",
+      "textZh": "只是向大家展示一下我们在2002年起步时的情况，SpaceX 基本上由一块地毯和一支墨西哥街头乐队组成。就这些。那就是2002年 SpaceX 的全部。如你们所见，我是一台跳舞机器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Elon Musk",
+      "startSec": 2822.56,
+      "textEn": "And yeah, I believe in kicking off celebratory events with mariachi bands. I really like mariachi bands.",
+      "textZh": "还有，是的，我相信应该用墨西哥街头乐队为庆祝活动拉开序幕。我真的很喜欢墨西哥街头乐队。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 2832,
+      "textEn": "But that was what we started off with in 2002. And really, I mean, I thought we had maybe a 10% chance of doing anything of even getting a rock orbit, let alone getting beyond that and taking Mars seriously. But I came to conclusion that if there wasn't some new entrant into the space arena with a strong ideological motivation, then it didn't seem like we were on a trajectory to ever be a space faring civilization and be out there among the stars.",
+      "textZh": "但那就是我们在2002年起步时所拥有的一切。而且说真的，我是说，我当时觉得我们做成任何事情，甚至是让一块岩石进入轨道的概率或许只有10%，更不用说走得更远并认真对待火星了。但我得出结论，如果航天领域没有一个拥有强烈理念驱动力的新进入者，那么看起来我们根本没有走在一条最终成为航天文明、置身群星之间的轨迹上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Elon Musk",
+      "startSec": 2869.28,
+      "textEn": "Because in 69 we were able to go to the moon and the space shuttle could get to low Earth orbit and then obviously the space shuttle got retired, but that trend line is down to zero. So I think what a lot of people don't appreciate is that technology does not automatically improve. It only improves if a lot of really strong engineering talent is applied to the problem that it improves. And there are many examples in history where civilizations have reached a certain technology level and then have fallen well below that and then recovered only millennia later.",
+      "textZh": "因为在69年，我们能够登上月球，航天飞机能够进入近地轨道，然后航天飞机显然退役了，但那条趋势线正降向零。所以我认为，很多人没有意识到的是，技术不会自动进步。只有将大量真正强大的工程人才投入到某个问题上，技术才会进步。历史上有很多例子，文明曾达到某种技术水平，随后又远远跌落到这一水平之下，直到数千年后才恢复。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 2911.74,
+      "textEn": "So we go from 2002 where we basically were clueless, and then felt with Falcon 1, the smallest useful orbital rocket that we could think of, which would deliver half a ton to orbit. And then four years later we developed the first, the first vehicle. So we dropped the main engine, the upper stage engine, the airframes, the fairing and the launch system, and had our first attempted launch in 2006, which failed. So that lasted about 60 seconds, unfortunately.",
+      "textZh": "所以，从2002年我们基本上一无所知开始，然后对猎鹰1号有所感受，这是我们能想到的最小型实用轨道火箭，可以把0.5吨载荷送入轨道。然后4年后，我们研制出了第一枚，第一枚飞行器。所以我们投下了主发动机、上面级发动机、机身、整流罩和发射系统，并在2006年进行了首次发射尝试，但失败了。所以遗憾的是，那次只持续了大约60秒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Elon Musk",
+      "startSec": 2951.12,
+      "textEn": "But 2006, four years after starting, is also when we actually got our first NASA contract. And I just want to say I'm incredibly grateful to NASA for supporting SpaceX despite the fact that our rocket crashed. It was awesome. I'm NASA's biggest fan, so thank you very much to the people that had the faith to do that. Thank you.",
+      "textZh": "但2006年，也就是公司成立4年后，也是我们真正获得第一份 NASA 合同的时候。我只想说，尽管我们的火箭坠毁了，我仍然无比感激 NASA 对 SpaceX 的支持。这太棒了。我是 NASA 最大的粉丝，所以非常感谢那些有信心这样做的人。谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 2986.65,
+      "textEn": "So then 2006 followed by a lot of grief and then finally the fourth launch of Falcon 1 worked in 2008 and we were really down to our last pennies. In fact I only thought I had enough money for three launches and first three bloody failed and we were able to scrape together enough to just barely make it and do a fourth launch. And thank goodness that fourth launch succeeded in 2008.",
+      "textZh": "然后，2006年之后经历了许多痛苦，最终猎鹰1号的第4次发射在2008年取得了成功，而我们当时真的只剩下最后几个铜板了。事实上，我原以为自己的钱只够进行3次发射，结果该死的前3次都失败了，而我们设法东拼西凑出足够的钱，勉强撑下来并进行第4次发射。谢天谢地，第4次发射在2008年成功了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 3018.59,
+      "textEn": "That was a lot of pain. And then also at the end of 2008 is when NASA awarded us the first major operational contract which was for resupplying cargo to the space station and bringing cargo back.",
+      "textZh": "那带来了许多痛苦。然后同样是在2008年底，NASA 向我们授予了第一份重大运营合同，内容是向空间站补给货物并把货物带回来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 3035.03,
+      "textEn": "Then a couple years later we did the first launch of Falcon 9 version 1 and that had about a 10 ton to orbit capability. So it was about 20 times the capability of Falcon 1. And also it was assigned to to carry our Dragon spacecraft.",
+      "textZh": "然后几年后，我们进行了猎鹰9号1型的首次发射，它具备将约10吨载荷送入轨道的能力。所以它的能力约为猎鹰1号的20倍。而且它还被指定用来运载我们的龙飞船。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 3053.57,
+      "textEn": "Then 20, 2010 is our first mission to the space station. So we're able to finish development of Dragon and dock with the space station in 2010.",
+      "textZh": "然后20，2010年是我们第一次执行前往空间站的任务。所以我们得以完成龙飞船的研制，并在2010年与空间站对接。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 3069.01,
+      "textEn": "So sorry, 20, sorry, 2010 is expandable. Expendable dragon. Expendable dragon. 2012 is when we delivered and returned cargo from the space station. 2013 is when we first started doing vertical takeoff and landing tests. And then 2014 is when we were able to have the first orbital booster do a soft landing in the ocean. The landing was soft, fell over and exploded. But landing for seven seconds, it was good.",
+      "textZh": "所以抱歉，20，抱歉，2010年是可扩展的。一次性使用的龙飞船。一次性使用的龙飞船。2012年，我们向空间站运送货物并将货物带回。2013年，我们首次开始进行垂直起降测试。然后在2014年，我们首次让轨道级助推器在海上软着陆。着陆是柔和的，随后翻倒并爆炸了。但着陆了7秒，挺好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Elon Musk",
+      "startSec": 3100.71,
+      "textEn": "And we also improved the capability of the vehicle from 10 tons to about 13 tons soleil and then 2015 or last year in December, that was definitely one of the best moments of my life. When the rocket booster came back and landed at Cape Canaveral. That was really. Yeah.",
+      "textZh": "我们还将飞行器的能力从10吨提升到了约13吨，索莱伊，然后2015年，也就是去年12月，那绝对是我一生中最美好的时刻之一。当时火箭助推器返回并在卡纳维拉尔角着陆。那真的是。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 3136.13,
+      "textEn": "So that really showed that we could bring an orbit class booster back from a very high velocity all the way to the launch site and land it safely and with almost no refurbishment required for reflight. And if things go well, we're hoping to refly one of landed boosters in a few months.",
+      "textZh": "所以，这确实表明，我们能够让一枚轨道级助推器从极高速度返回发射场并安全着陆，而且再次飞行几乎不需要进行任何翻修。如果一切顺利，我们希望在几个月后让其中一枚已经着陆的助推器再次飞行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 3162.3,
+      "textEn": "So yeah. And then 2016 we're also demonstrate landing on a ship. The landing on the ship is important for the very high velocity geosynchronous missions and that's important for feasibility of Falcon 9 because about roughly a quarter of our missions are sort of servicing this space station. And then there's a few other low earth orbit missions. But most of our missions probably 60% of our missions are commercial GEO missions.",
+      "textZh": "所以，是的。然后在2016年，我们还展示在船上着陆。船上着陆对于速度极高的地球同步轨道任务非常重要，而这对猎鹰9号的可行性很重要，因为我们的任务中大约，粗略来说有四分之一算是在为空间站提供服务。然后还有其他几个近地轨道任务。但我们的大多数任务，可能有60%的任务，是商业 GEO 任务。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 3194.6,
+      "textEn": "So we've got to do these high velocity missions that really need to land on a ship out to sea. They don't have enough propellants on board to boost back to the launch site.",
+      "textZh": "所以，我们必须执行这些高速度任务，它们确实需要降落在海上的船上。它们没有携带足够的推进剂，无法助推返回发射场。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 3209.4,
+      "textEn": "So looking at the future next steps, we were kind of intentionally a bit fuzzy about this timeline, but we're going to try to make as much progress as we can. Obviously it's with a very constrained budget, but we're going to try to make as much progress as we can on the elements of the interplanetary transport booster and spaceship. And hopefully we'll be able to do to complete the first development spaceship in maybe about four years and start doing suborbital flights with that.",
+      "textZh": "所以，展望未来的后续步骤，我们算是有意把这个时间表说得有点含糊，但我们会尽力取得尽可能多的进展。显然，预算非常有限，但我们会努力在行星际运输助推器和飞船的各个组成部分上取得尽可能多的进展。希望我们能在大约4年内完成首艘开发用飞船，并开始用它进行亚轨道飞行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Elon Musk",
+      "startSec": 3251.52,
+      "textEn": "In fact, it actually has enough capability that you could maybe even go to orbit if you limit the amount of cargo with the spaceship. But well, you have to really, you have to really strip it down. But in tanker form it can definitely get to orbit. Can't get back. We can get to orbit.",
+      "textZh": "事实上，它的能力其实足够强，如果限制飞船的货物量，你甚至也许可以进入轨道。但，嗯，你必须真的，你必须真的把它精简到极致。不过，采用加注飞船形态时，它肯定能进入轨道。回不来。我们能进入轨道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 3271.85,
+      "textEn": "It actually starts thinking like maybe there is some market for really fast transport of stuff around the world, provided we can land somewhere where noise is not a super big deal. Rockets are very noisy, but we could transport cargo to anywhere on Earth in 45 minutes at the longest. So most places on Earth would be maybe 20, 25 minutes. So maybe if we had a floating platform off the coast of the coast of New York, say 20, 30 miles out, you could go from, you know, New York to Tokyo in 25 minutes, across the Atlantic in 10 minutes.",
+      "textZh": "实际上，它开始想到，也许世界各地超快速运输货物确实存在某种市场，前提是我们能降落在噪音不是什么大问题的地方。火箭噪音非常大，但我们可以在最长45分钟内把货物运到地球上的任何地方。所以，地球上的大多数地方可能只需要20、25分钟。比如说，如果我们在纽约海岸的海岸外设置一个浮动平台，距离海岸20、30英里，那么你可以，你知道，从纽约到东京只需25分钟，横跨大西洋只需10分钟。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 3322.91,
+      "textEn": "Really most of your time would be getting to the ship and then it'll be real quick after that. So there's some intriguing possibilities there, although we're not counting on that. And then, and then development of the booster. We're actually thinking the booster part is relatively straightforward because it amounts to a scaling up of the Falcon 9 booster. So we don't see a lot of sort of showstoppers there.",
+      "textZh": "实际上，你的大部分时间都会花在前往飞船的路上，之后就会非常快。所以这里有一些耐人寻味的可能性，尽管我们并未把希望寄托在这上面。然后，然后是助推器的开发。我们其实认为助推器部分相对直接，因为它相当于把 Falcon 9 助推器放大。所以我们认为那里不会有很多这类无法克服的障碍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 3354.28,
+      "textEn": "Yeah, so then trying to put it all together and make this actually work for Mars, if things go super well, it might be kind of in the 10 year time frame, but I don't want to say that's when it will occur. It's like there's a huge amount of risk, it's going to cost a lot, good chance we don't succeed, but we're going to do our best and try to make as much progress as possible.",
+      "textZh": "是的，那么，要把这一切整合起来，让它真正适用于火星，如果一切进展得非常顺利，可能会是在大约10年的时间范围内，但我不想说那就是它会实现的时间。这里有巨大的风险，会花费很多钱，我们很可能不会成功，但我们会尽最大努力，争取取得尽可能多的进展。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 3387.85,
+      "textEn": "And we're going to try to send something to Mars on every Mars rendezvous from here on out. So Dragon 2 which is a propulsive lander we plan to send to Mars in a couple years and then do probably another dragon mission in 2020. In fact, we want to establish a steady cadence that there's always a flight leaving like a train leaving the station. With every Mars Friday we will be sending a Dragon, at least a Dragon to Mars and ultimately the big spaceship.",
+      "textZh": "而且从现在起，我们会尝试在每一次火星交会时都向火星发送一些东西。所以，Dragon 2是一种推进式着陆器，我们计划在2年后把它送往火星，然后可能在2020年再执行一次Dragon任务。事实上，我们希望建立一种稳定的节奏，始终都会有一趟航班出发，就像火车驶离车站一样。每逢火星星期五，我们都会向火星发送一艘Dragon，至少一艘Dragon，最终则是那艘大型宇宙飞船。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 3422.22,
+      "textEn": "So for people that are interested in putting payloads on Dragon, you know you can count on a ship that's going to transport something on the order of at least 2 or 3 tons of useful payload to the surface of Mars.",
+      "textZh": "所以，对于有兴趣把有效载荷放到Dragon上的人，你知道，你可以指望有一艘飞船把至少约2或3吨的有效载荷运送到火星表面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Elon Musk",
+      "startSec": 3447.85,
+      "textEn": "Yes, that's part of the reason why we designed Dragon 2 to be a propulsive lander, is as a propulsive lander you can go anywhere in the solar system.",
+      "textZh": "是的，这正是我们把Dragon 2设计成推进式着陆器的部分原因，因为作为推进式着陆器，你可以前往太阳系中的任何地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 3457.37,
+      "textEn": "So you could go to the moon, you could go to, well, anywhere really. Whereas if something relies on parachutes or wings, then you can pretty much only. Well, if it's wings, you can pretty much only land on Earth because you need a Runway. Most places don't have a Runway. And then any place that doesn't have a dense atmosphere, you can't use parachutes. But propulsive works anywhere. So Dragon should be capable of landing on any solid electric surface in the solar system.",
+      "textZh": "所以你可以去月球，可以去，嗯，实际上任何地方。而如果某种东西依赖降落伞或机翼，那么你基本上只能。嗯，如果是机翼，你基本上只能在地球上着陆，因为你需要一条跑道。大多数地方都没有跑道。而且，任何没有稠密大气层的地方，你都无法使用降落伞。但推进式着陆在任何地方都能奏效。所以Dragon应该能够在太阳系中任何固体电气表面上着陆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Elon Musk",
+      "startSec": 3494.64,
+      "textEn": "And then I was really excited to see that the team managed to do the all up Raptor engine firing. In advance of this conference. I just want to say thanks to the Raptor team for really working seven days a week to try to get this done in advance of the presentation.",
+      "textZh": "然后，看到团队在这次会议之前成功完成了Raptor发动机的整机点火，我真的非常兴奋。我只想感谢Raptor团队，他们确实每周工作7天，努力在演示之前把这件事完成。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 3518.41,
+      "textEn": "I really wanted to show that we've made some hardware progress in this direction and, and the Raptor is a really tricky engine. It's a lot trickier than Merlin because it's a full flow stage combustion, much higher pressure. And I'm kind of amazed it didn't blow up on the first firing. But fortunately it was good.",
+      "textZh": "我真的很想展示我们在这个方向上已经取得了一些硬件进展，而且，而且Raptor是一款非常棘手的发动机。它比Merlin棘手得多，因为它采用全流量分级燃烧，压力高得多。我有点惊讶它在第一次点火时没有爆炸。但幸运的是，情况很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Elon Musk",
+      "startSec": 3550.02,
+      "textEn": "It's kind of interesting to see the mach diamonds forming.",
+      "textZh": "看到马赫环逐渐形成，挺有意思的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 3565.86,
+      "textEn": "So the, and part of the reason for making the engine sort of small like Raptor, although it has three times the thrust of a Merlin, is actually only about the same size as a Merlin engine because it has three times the operating pressure. And that means we can use a lot of the production techniques that we've honed with Merlin. We're currently producing Merlin engines at almost 300 per year. So we understand how to make rocket engines in volume.",
+      "textZh": "所以，这个，而且把发动机做得像Raptor这样比较小，部分原因是，虽然它的推力是Merlin的3倍，但实际上尺寸仅与一台Merlin发动机大致相同，因为它的工作压力是3倍。这意味着我们可以采用许多已经通过Merlin磨炼成熟的生产技术。我们目前每年生产将近300台Merlin发动机。所以我们了解如何批量制造火箭发动机。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Elon Musk",
+      "startSec": 3596.43,
+      "textEn": "So even though the Mars vehicle uses 42 on the base and mine on the upper stage, so we're 51 engines to make, that's well within our production capabilities for Merlin. And this is a similarly sized engine to Merlin, except for the expansion ratio. So we feel really comfortable about being able to make this engine in volume at a price that doesn't break our budget.",
+      "textZh": "所以，尽管火星飞行器的底部使用42台，上面级使用我的，因此我们要制造51台发动机，但这完全在我们的Merlin生产能力范围内。而且除了膨胀比之外，这款发动机的尺寸与Merlin相近。所以我们非常有信心能够以不会突破预算的价格批量制造这款发动机。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 3625.3,
+      "textEn": "And then we also wanted to make progress on the primary structure. So as I mentioned, this is really a very difficult thing to make, is to make something out of carbon fiber, even though carbon fiber has incredible strength to weight when you want to then put super cold liquid oxygen and liquid methane, particularly liquid oxygen in a tank is subject to cracking and leaking. And it's a very difficult thing to make. Just the sheer scale of it is also challenging because you've got to lay up the carbon fiber in exactly the right way on a huge mold.",
+      "textZh": "然后，我们还希望在主体结构方面取得进展。所以正如我提到的，这确实是一种非常难制造的东西，也就是用碳纤维制造某种结构。尽管碳纤维拥有不可思议的强重比，但当你随后想把超低温液氧和液态甲烷装进去时，尤其是罐中的液氧，会面临开裂和泄漏的问题。而且这是一种非常难制造的东西。仅仅是它的庞大规模也很有挑战性，因为你必须在一个巨大的模具上，以完全正确的方式铺设碳纤维。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Elon Musk",
+      "startSec": 3667.81,
+      "textEn": "And you've got to cure that mold at temperature.",
+      "textZh": "而且你必须在一定温度下固化那个模具。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Elon Musk",
+      "startSec": 3674.29,
+      "textEn": "And then it's just really hard to make large, large carbon fiber structures that can do all of those things and carry incredible loads.",
+      "textZh": "然后，要制造能够完成所有这些事情并承受惊人载荷的大型、大型碳纤维结构，确实非常困难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Elon Musk",
+      "startSec": 3684.13,
+      "textEn": "So that's the other thing we wanted to focus on, was the Raptor and then building the first development tank for the Mars spaceship. So this is really the hardest part of the spaceship. The other pieces are, we have a pretty good handle on, but this was the trickiest one. So we wanted to tackle it first. You get a size for how big the tank is. It's really quite big. Also big. Congratulations to the team that worked on that.",
+      "textZh": "所以这就是我们想重点关注的另一件事，也就是Raptor，然后是为火星宇宙飞船建造第一个开发用贮箱。所以这确实是宇宙飞船最困难的部分。其他部分，我们已经掌握得相当好了，但这是最棘手的一个。所以我们想先解决它。你可以看出这个贮箱有多大。它确实相当大。也很大。祝贺参与这项工作的团队。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Elon Musk",
+      "startSec": 3718.06,
+      "textEn": "They also were working seven days a week to try to get this done in advance of the iac.",
+      "textZh": "他们同样每周工作7天，努力在IAC之前把这件事完成。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Elon Musk",
+      "startSec": 3724.78,
+      "textEn": "And so we managed to build the first tank and, and the initial tests with cryogenic propellant actually look quite positive. We have not seen any leaks or major issues.",
+      "textZh": "所以我们成功建造了第一个贮箱，而且，而且使用低温推进剂进行的初步测试实际上看起来相当不错。我们没有发现任何泄漏或重大问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 3737.89,
+      "textEn": "This is what the tank looks like on the inside.",
+      "textZh": "这就是贮箱内部的样子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Elon Musk",
+      "startSec": 3745.73,
+      "textEn": "So you can get a real sense for how much just how big this tank is.",
+      "textZh": "所以你可以真切地感受到这个贮箱究竟有多大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Elon Musk",
+      "startSec": 3752.45,
+      "textEn": "It's actually completely smooth on the inside, but the way that the carbon 5 applies, lay up and reflect the light makes it look faceted.",
+      "textZh": "实际上，它的内部完全光滑，但碳5的应用方式、铺层方式以及光线的反射，让它看起来像是有很多切面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Elon Musk",
+      "startSec": 3764.06,
+      "textEn": "So then what about beyond Mars? So as we thought about the system, the reason we call it a system, because generally I don't like calling things systems, because everything's a system, including your dog, Is that it's actually more than a vehicle. There's obviously the rocket booster, the spaceship, the tanker and the propellant plant. The in situ of propellant production. If you have all of those four elements, you can actually go anywhere in the solar system by planet hopping or moon hopping.",
+      "textZh": "那么，火星之外呢？所以在我们思考这个系统时，我们之所以把它称为系统，是因为通常我不喜欢把东西称为系统，因为一切都是系统，包括你的狗，是因为它实际上不只是一种飞行器。显然有火箭助推器、宇宙飞船、加注飞船和推进剂工厂。就地的推进剂生产。如果你拥有所有这4个要素，就可以通过行星间跳跃或卫星间跳跃，真正前往太阳系中的任何地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Elon Musk",
+      "startSec": 3801.73,
+      "textEn": "So by establishing a propellant depot on, in the asteroid belt or on one of the moons of Jupiter, you can go to, you can make flights from Mars to Jupiter, no problem. In fact, even from, even without a propellant depot at Mars. You can do a flyby of Jupiter without a propellant depot.",
+      "textZh": "所以，通过在小行星带上，或木星的某颗卫星上建立推进剂补给站，你就可以去，你可以从火星飞往木星，毫无问题。事实上，即使从，即使火星上没有推进剂补给站。你也可以在没有推进剂补给站的情况下飞掠木星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Elon Musk",
+      "startSec": 3826.3,
+      "textEn": "So but by establishing a propellant depot, say, you know, Enceladus or Europa or any of those few options, and then doing another one on Titan, Jupiter, Saturn's moon, and then perhaps another one further out on Pluto or elsewhere in the solar system.",
+      "textZh": "所以，但是通过建立推进剂补给站，比如说，你知道，在土卫二或木卫二，或者那几个选项中的任何一个地方，然后在土卫六、木星、土星的卫星上再建一个，之后或许再在更远的冥王星或太阳系其他地方建一个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Elon Musk",
+      "startSec": 3855.19,
+      "textEn": "This system really gives, gives you freedom to go anywhere you want in the greater solar system, so you can actually travel out to the capable to the Oort cloud. I wouldn't recommend this for interstellar journeys, but this basic system, provided we have filling stations along the way, means full access to the entire greater solar system.",
+      "textZh": "这个系统确实让，让你可以自由前往大太阳系中任何你想去的地方，所以你实际上可以向外旅行到能够到达奥尔特云。我不建议用它进行星际旅程，但这个基本系统，只要沿途设有加注站，就意味着可以全面抵达整个大太阳系。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T05:43:51.186Z",
+    "reviewedAt": "2026-09-13T06:12:55.016Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:18.720Z",
+  "transcriptSource": "https://nss.org/elon-musk-making-humans-a-multiplanetary-species/",
+  "sourceHash": "63d0ca8c70af39f8927151c54aba5a842be6eb59a3eb010fd12ea5b49d39c9f6"
+}

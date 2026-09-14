@@ -1,0 +1,1501 @@
+{
+  "id": "charlie-rose-2009-08-11",
+  "slug": "charlie-rose-2009-08-11",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2009-08-11",
+  "titleEn": "Charlie Rose",
+  "titleZh": "查理·罗斯",
+  "summaryEn": "Elon Musk's 2009 sit-down with Charlie Rose: leaving South Africa, co-founding PayPal, and the high-stakes early years of Tesla Motors and SpaceX during the financial crisis.",
+  "summaryZh": "埃隆·马斯克在2009年与查理·罗斯的对谈：离开南非、共同创办 PayPal，以及金融危机期间 Tesla Motors 和 SpaceX 风险重重的早期岁月。",
+  "sourceUrl": "https://www.youtube.com/watch?v=ktkV0N0Oask",
+  "sourceLabel": "Charlie Rose",
+  "archiveUrl": "https://elonmuskarchive.org/video/charlie-rose-2009-08-11",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/ktkV0N0Oask",
+  "thumbnailUrl": "https://i.ytimg.com/vi/ktkV0N0Oask/hqdefault.jpg",
+  "durationSec": 1769,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Charlie Rose",
+      "startSec": 0.24,
+      "textEn": "Elon Musk is here. He is chief executive of two startup companies with bold missions. He leads Tesla Motors, the electric car company that has attracted attention from both car enthusiasts and environmentalists as well. The company's powerful roadster, which can travel from 0 to 60 in less than 4 seconds, is entirely powered by batteries. The company plans to break into the mainstream auto market with an electric sedan as early as 2011.",
+      "textZh": "埃隆·马斯克来到这里。他是2家使命宏大的初创公司的首席执行官。他领导着电动汽车公司 Tesla Motors，这家公司既吸引了汽车爱好者的关注，也吸引了环保人士的关注。该公司动力强劲的 Roadster 完全由电池驱动，从0加速到60不到4秒。该公司计划最早于2011年凭借一款电动轿车打入主流汽车市场。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Charlie Rose",
+      "startSec": 25.2,
+      "textEn": "Musk is also founder and CEO of Space Exploration Technologies, a company trying to slash the cost of space travel. Last year, the company signed an agreement with NASA to send cargo to the International Space Station. And if that is not enough, he's also chairman of a growing company called SolarCity that installs solar panels on homes and businesses. He has thrived in Silicon Valley, one of the co founders of PayPal, the online payments company that eBay bought for $1.5 billion in 2002.",
+      "textZh": "马斯克还是太空探索技术公司的创始人兼首席执行官，这家公司正试图大幅降低太空旅行的成本。去年，该公司与 NASA 签署了一项协议，向国际空间站运送货物。如果这还不够，他还是一家名为 SolarCity、正在不断发展的公司的董事长，该公司为住宅和企业安装太阳能电池板。他在硅谷发展得很成功，是在线支付公司 PayPal 的联合创始人之一，eBay 于2002年以15亿美元收购了该公司。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Charlie Rose",
+      "startSec": 53.97,
+      "textEn": "I am pleased to have him here at this table for the first time. Welcome.",
+      "textZh": "我很高兴第一次请他来到这张桌前。欢迎。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 57.8,
+      "textEn": "Thank you. Thanks for having me. I've been a big fan of the show for a long time.",
+      "textZh": "谢谢。感谢邀请我来。很长时间以来，我一直是这个节目的忠实观众。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Charlie Rose",
+      "startSec": 61.08,
+      "textEn": "Let's just talk about you first so that if the audience does not know. Growing up in South Africa.",
+      "textZh": "我们先谈谈你，这样如果观众还不了解的话。在南非长大。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 66.2,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Charlie Rose",
+      "startSec": 67.16,
+      "textEn": "And how did you end up in Canada?",
+      "textZh": "那你最后是怎么到了加拿大？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 71.16,
+      "textEn": "Well, I guess growing up in South Africa, I was actually. It was very technology oriented. And I taught myself how to program computers, mostly because I wanted to program games. And I, when I was about 12, I programmed, sold my first game. And whenever I'd read about technology and great innovation, it was coming from the United States. And so that's where I wanted to be. And I tried to convince my parents to move there and neither of them would, they were divorced.",
+      "textZh": "嗯，我想，在南非长大的时候，我其实。当时非常以技术为导向。我自学了如何给计算机编程，主要是因为我想编写游戏。我，我大约12岁的时候，编写并卖掉了自己的第1个游戏。每当我读到有关技术和伟大创新的内容时，它们都来自美国。所以那就是我想去的地方。我试着说服父母搬到那里，但他们谁都不愿意，他们离婚了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 100.92,
+      "textEn": "I tried to. My mother, neither would do it. My mother later moved back to initially Canada and then the U.S. and so when I was 17, as soon as I got my Canadian passport, three weeks later, I was in Canada.",
+      "textZh": "我试过。我母亲，他们谁都不愿意。后来我母亲搬了回去，先是加拿大，然后是美国，所以我17岁时，一拿到加拿大护照，3周后，我就在加拿大了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Charlie Rose",
+      "startSec": 114.35,
+      "textEn": "So here you are, and you come to Canada and make it to the United States, and then you and several other guys come together and create PayPal and you sell it to eBay for one point, whatever it was. $5 billion.",
+      "textZh": "所以你到了这里，你来到加拿大，又成功去了美国，然后你和另外几个家伙走到一起创办了 PayPal，又以1点几，具体是多少来着。50亿美元卖给了 eBay。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 124.95,
+      "textEn": "Yeah. So after PayPal, that gave me a fair bit of capital.",
+      "textZh": "对。所以在 PayPal 之后，那给了我相当多的资本。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 131.87,
+      "textEn": "And there were three areas. When I was in college, there were three areas that I thought would most affect the future of humanity, and those were the Internet, the transition to a sustainable energy and transportation sector. And the third was space exploration. In particular, the extension of life to multiple planets. Now, I didn't ever expect to be involved in the third one, but that seemed to me that's something that would be very important for the future.",
+      "textZh": "当时有3个领域。我上大学时，有3个领域是我认为会对人类未来产生最大影响的，它们是互联网、向可持续能源和交通运输领域的转型。第3个是太空探索。尤其是将生命扩展到多个行星。那时，我从未料到自己会参与第3个领域，但在我看来，那似乎是对未来非常重要的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 154.6,
+      "textEn": "And with the capital I got from the sale of PayPal, I was able to go into both those areas.",
+      "textZh": "凭借出售 PayPal 所获得的资本，我得以进入那2个领域。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 162.04,
+      "textEn": "And so hence SpaceX and in the space and then in the sustainable energy and transportation, you've got SolarCity and Tesla.",
+      "textZh": "所以因此，在太空领域有 SpaceX，然后在可持续能源和交通运输领域，你有 SolarCity 和 Tesla。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Charlie Rose",
+      "startSec": 172.14,
+      "textEn": "Let me talk about space exploration just for a moment. How is it going in terms of creating the systems that will engage us in space exploration, not just for governments and not just for NASA, but for private citizens as well?",
+      "textZh": "让我先花一点时间谈谈太空探索。在创建让我们参与太空探索的系统方面，目前进展如何，不仅面向政府、不仅面向 NASA，也面向普通公民？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 186.94,
+      "textEn": "Well, you have to divide the efforts that are going on into what is an orbit class effort versus a suborbital class effort. And there's really a very big difference. But, but the general public doesn't understand the difference between getting to space and getting to orbit. And so it's important to make that distinction. To do a suborbital flight, you need a terminal velocity of around Mach 3. To get to orbit you need a terminal velocity of Mach 25.",
+      "textZh": "嗯，你必须把目前进行的工作分为轨道级工作和亚轨道级工作。两者确实有非常大的区别。但，但是普通公众不了解进入太空和进入轨道之间的区别。所以作出这种区分很重要。要进行亚轨道飞行，你需要达到大约3马赫的最终速度。要进入轨道，你需要达到25马赫的最终速度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 212.24,
+      "textEn": "It's a huge, huge difference because the energy required to do that scales with the square of the velocity. So suborbital might be 9 units of energy. Orbit is 625 units of energy. So it's only about 1.5% of the energy of orbit is required to get to suborbit. So there's a number of efforts in the suborbital category that certainly could grow one day to orbital. There's Jeff Bezos has an effort and I know that's something that's really.",
+      "textZh": "这是一个巨大、巨大的差异，因为做到这一点所需的能量随速度的平方变化。所以亚轨道飞行可能需要9个单位的能量。轨道飞行需要625个单位的能量。所以到达亚轨道所需的能量只有到达轨道所需能量的大约1.5%。因此，亚轨道类别中有许多项目，有朝一日当然可能发展到轨道级。杰夫·贝索斯有一个项目，我知道那确实是某种。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Charlie Rose",
+      "startSec": 242.16,
+      "textEn": "Is Branson involved in this or not?",
+      "textZh": "布兰森参与了这件事，还是没有？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 243.44,
+      "textEn": "Yes, Branson, absolutely. Not so much directly from the technology standpoint, but from his. He's funding that development at Scaled Composites in California.",
+      "textZh": "是的，布兰森，当然参与了。从技术角度来说，他没有那么直接参与，而是通过他的。他正在资助加利福尼亚州 Scaled Composites 的那项开发工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Charlie Rose",
+      "startSec": 252.82,
+      "textEn": "And what are you doing?",
+      "textZh": "那你在做什么？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 254.14,
+      "textEn": "So we're in the orbit class and it's a lot more capital and that's really where you're sort of pushing the ragged edge of what's physically possible. And last year we got to orbit for the first time with our rocket and that was certainly a huge relief and a milestone.",
+      "textZh": "所以我们属于轨道级，需要的资本多得多，而那确实是你在某种程度上逼近物理可行性极限的地方。去年，我们的火箭第一次进入了轨道，那当然让人如释重负，也是一个里程碑。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Charlie Rose",
+      "startSec": 277.02,
+      "textEn": "And so what's the next step? You get a rocket into orbit. Yeah.",
+      "textZh": "那么下一步是什么？你把一枚火箭送入轨道。对。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 280.71,
+      "textEn": "So next month we are putting a satellite for Malaysia into orbit and then from Malaysia. For Malaysia. For Malaysia, yes, the Malaysian satellite. But in the rocket business, the rocket company does the launch. It's not like the airline business. So you don't sell the rocket, you sell the launch.",
+      "textZh": "所以下个月，我们将把马来西亚的一颗卫星送入轨道，然后从马来西亚。为马来西亚。为马来西亚，是的，马来西亚的卫星。但在火箭业务中，是火箭公司执行发射。它不像航空业务。所以你不是出售火箭，而是出售发射服务。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 299.51,
+      "textEn": "And then later this year we'll be launching our big rocket from Cape Canaveral. That's the Falcon 9 and that's the one that's going to be servicing the space station among other things.",
+      "textZh": "然后今年晚些时候，我们将在卡纳维拉尔角发射大型火箭。那就是猎鹰9号，它将承担为空间站提供服务等任务。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Charlie Rose",
+      "startSec": 307.58,
+      "textEn": "Is there a philosophy here that somehow the private sector can do a lot more than it has done in areas that seem. Because of the size reserved for government?",
+      "textZh": "这里是否有这样一种理念，即私营部门能够在一些领域做得比过去多得多，而那些领域似乎。因为其规模而一直是政府专属的？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 321.02,
+      "textEn": "Yeah, definitely. The private sector is very good at optimization and innovation. I mean, private sector is generally better at doing things than the government, I think that's fair to say. But, you know, there are certain things that the government that are suited to the government, like basic research and that sort of thing.",
+      "textZh": "对，当然。私营部门非常擅长优化和创新。我的意思是，私营部门做事情通常比政府更出色，我认为这么说是公平的。但是，你知道，有些事情政府，适合由政府来做，比如基础研究之类的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Charlie Rose",
+      "startSec": 342.61,
+      "textEn": "But",
+      "textZh": "但是",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 345.01,
+      "textEn": "yeah. So as far as SpaceX, the reason that there hasn't been a huge number of a big improvement in the space industry, I think, is because of it's very difficult for SHINPA to create a destruction process to come into effect because there's such a significant amount of capital that's needed to start a rocket company. And it's a very difficult technical challenge. And the number of people that really understand rocketry in the world is a very small number.",
+      "textZh": "是的。所以就 SpaceX 而言，太空产业一直没有出现数量巨大的重大改进，我认为原因是，SHINPA 很难创造出一个破坏过程并使其生效，因为创办一家火箭公司需要极其庞大的资本。而且这是一项非常困难的技术挑战。世界上真正了解火箭技术的人数量非常少。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 378.82,
+      "textEn": "So it's really huge barriers to entry. And that's why we haven't seen the forcing function of improvement that there should have been over the years.",
+      "textZh": "所以进入壁垒确实极其高。这就是为什么多年来，我们一直没有看到本应出现的那种推动改进的强制力量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Charlie Rose",
+      "startSec": 387.06,
+      "textEn": "And your understanding came from sort of. This was not what you studied in college?",
+      "textZh": "而你的理解大概来自。这不是你在大学里学的东西？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 392.24,
+      "textEn": "Well, I studied physics.",
+      "textZh": "嗯，我学过物理学。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Charlie Rose",
+      "startSec": 393.84,
+      "textEn": "Well, studying physics and studying rocket science.",
+      "textZh": "嗯，学习物理学和学习火箭科学。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 397.28,
+      "textEn": "Yeah. No, it gives you the basics. Gives you the basics. Good framework, Good analytical framework.",
+      "textZh": "是的。不，它会给你基础。给你基础。很好的框架，很好的分析框架。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 404.88,
+      "textEn": "But no, I picked it up along the way.",
+      "textZh": "但不是，我是一路上学会的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Charlie Rose",
+      "startSec": 408,
+      "textEn": "What is your core competence? You think you.",
+      "textZh": "你的核心能力是什么？你认为你。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 411.68,
+      "textEn": "I think it's technology. Technology, yeah, technology. If something has to be designed and invented and you have to figure out how to ensure that the value of the thing you create is greater than the cost of the inputs, then that's probably my core skill.",
+      "textZh": "我认为是技术。技术，是的，技术。如果某样东西必须被设计和发明，而你必须弄清楚如何确保你创造的东西的价值大于投入成本，那么这大概就是我的核心技能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Charlie Rose",
+      "startSec": 430.76,
+      "textEn": "Now, bring me to the car. I drove a car this afternoon. So far, so good, which was terrific. It's the roadster. Where does that stand you? Obviously, I've been in the Google parking lot.",
+      "textZh": "现在，带我谈谈这辆车。我今天下午开了一辆车。目前为止，一切顺利，那非常棒。是 Roadster。你目前进展到什么程度？显然，我去过 Google 的停车场。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 445.96,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Charlie Rose",
+      "startSec": 446.32,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 446.64,
+      "textEn": "You've seen a few there, I've seen",
+      "textZh": "你在那里见过几辆，我见过",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Charlie Rose",
+      "startSec": 447.64,
+      "textEn": "a few there, yeah. I'm sure that's true in other places in Silicon Valley. I don't know whether it's particularly a car that appeals to people in Silicon Valley because of interest in technology and high performance and lots of other things, or what, whether there are a lot of rich people who are willing to spend that kind of money for something they think is on the cutting edge of causes they believe in sustainable energy.",
+      "textZh": "在那里见过几辆，是的。我相信硅谷其他地方也是如此。我不知道这是不是一款特别吸引硅谷人士的车，因为他们对技术、高性能和许多其他东西感兴趣，还是怎么回事，是否有很多富人愿意花那种钱，购买他们认为处于自己所信奉的事业前沿的东西，也就是可持续能源。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Charlie Rose",
+      "startSec": 470.26,
+      "textEn": "Tell me about where you are in this development of this electric car which has most of all this extraordinary sort of power.",
+      "textZh": "跟我讲讲你们在研发这款电动汽车方面进展到哪里了，它最突出的就是这种非凡的动力。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 481.82,
+      "textEn": "Yeah, zero to 60 time at 3.9 segments.",
+      "textZh": "是的，零到60的时间是3.9段。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Charlie Rose",
+      "startSec": 485.98,
+      "textEn": "This is extraordinary when you think about sports cars and anything else that's out on the road today.",
+      "textZh": "当你想到跑车和如今道路上的其他任何车辆时，这都非同寻常。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 491.5,
+      "textEn": "Yeah. In fact, on the Top Gear test track, our standard roadster beats a Porsche GT3. Exactly. Which is.",
+      "textZh": "是的。事实上，在 Top Gear 测试赛道上，我们的标准版 Roadster 击败了一辆 Porsche GT3。没错。也就是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Charlie Rose",
+      "startSec": 497.26,
+      "textEn": "That's a replica.",
+      "textZh": "那是一辆复制品。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 499.18,
+      "textEn": "And the Roadster Sport will be even better.",
+      "textZh": "而 Roadster Sport 还会更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Charlie Rose",
+      "startSec": 501.98,
+      "textEn": "But you've also said in terms of where you want to go, that developing a high performance sports car is not what this is about.",
+      "textZh": "但关于你想走向何方，你也说过，研发高性能跑车并不是这件事的目的。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 509.14,
+      "textEn": "Absolutely.",
+      "textZh": "绝对是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Charlie Rose",
+      "startSec": 509.78,
+      "textEn": "This is about something else. And you want to develop a sedan.",
+      "textZh": "这是为了别的事情。而且你想开发一款轿车。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 513.94,
+      "textEn": "Yeah. The whole purpose behind Tesla, the reason I put so much of my time and money into helping create the business is we want to serve as a catalyst for accelerating the electric car revolution.",
+      "textZh": "对。Tesla 背后的全部目的，也是我投入如此多时间和金钱来帮助创建这家公司的原因，就是我们希望充当催化剂，加速电动汽车革命。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 528.5,
+      "textEn": "The price of gas at the pump does not reflect the true cost of gasoline because you have a consumption of a public good. It's one of the most. It's really a common problem in economics. You have the same thing in fishing, where because there's no cost to fishing stocks, people just overfish and you have disaster that ensues. And here we're not paying for the cost of the CO2 concentration in the oceans and atmospheres, we're not paying for all these, the ancillary effects of wars and all the other things at the gas pump.",
+      "textZh": "加油站的汽油价格并未反映汽油的真实成本，因为你消耗了一种公共物品。这是最……这其实是经济学中的一个常见问题。渔业中也存在同样的情况，因为捕捞鱼类种群没有成本，人们就会过度捕捞，随后灾难便会发生。而在这里，我们没有为海洋和大气中二氧化碳浓度的成本付费，也没有在加油站为所有这些、战争的附带影响以及其他一切付费。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 556.68,
+      "textEn": "So you effectively have a subsidy taking place at the gas pump because of that. So the only way to bridge that is with innovation, is to try to try to make electric cars better sooner than they would otherwise be.",
+      "textZh": "所以，实际上正因为如此，加油站存在一种补贴。因此，弥合这一差距的唯一办法就是创新，就是努力、努力让电动汽车比原本能够达到的时间更早变得更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Charlie Rose",
+      "startSec": 568.58,
+      "textEn": "Now, suppose this, this is a hypothetical which may or may not speak to the point. But suppose 15 years ago, right. Let's say Bill Clinton as president, who talked about the road to the 21st century and all of that. Suppose he had said, I believe so much in sustainable energy that I want to make a commitment. And the federal government, using all of its resources, will develop an electric car with appropriate battery power that will change the face of automobile, the automobile industry in the world.",
+      "textZh": "现在，假设这样，这只是一个可能切中要点、也可能没有的假设。但假设在15年前，对吧。比如说，比尔·克林顿担任总统时，他谈到了通往21世纪的道路以及所有那些事情。假设他说，我如此相信可持续能源，以至于我想作出承诺。而联邦政府将动用其全部资源，开发一款配备适当电池动力的电动汽车，它将改变汽车、改变世界汽车工业的面貌。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Charlie Rose",
+      "startSec": 600.13,
+      "textEn": "Was that very doable? Bill Clinton was elected in 1992, 17 years ago.",
+      "textZh": "那非常可行吗？比尔·克林顿于1992年当选，那是17年前。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 606.69,
+      "textEn": "Yeah. You could have made a reasonably good electric car around that time for a lot of investment.",
+      "textZh": "是的。在那个时候，投入大量资金，你本可以造出一款相当不错的电动汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Charlie Rose",
+      "startSec": 614.77,
+      "textEn": "And should that have been done, should the US Government have made that kind of change? Otherwise you will not be able to change the driving habits of Americans.",
+      "textZh": "那是否本该去做，美国政府是否本该推动那种改变？否则你就无法改变美国人的驾驶习惯。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Charlie Rose",
+      "startSec": 625.53,
+      "textEn": "Was it a worthwhile expenditure at that time?",
+      "textZh": "在当时，那是一笔值得的支出吗？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 628.05,
+      "textEn": "I think it probably would have been a worthwhile expenditure. But the thing that really helps electric cars is lithium ion.",
+      "textZh": "我认为那很可能会是一笔值得的支出。但真正对电动汽车有帮助的是锂离子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Charlie Rose",
+      "startSec": 636.01,
+      "textEn": "Right. And when did that come around? I mean, explain why batteries has always been the great dilemma for developing an electric car.",
+      "textZh": "对。那是什么时候出现的？我的意思是，解释一下为什么电池一直是开发电动汽车的一大难题。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 643.37,
+      "textEn": "Sure. Well, the energy contained within a battery is so much less than is contained in gasoline that, I mean, it's really almost. It's hard to quite describe. Another way to put it is the Tesla battery pack in the Roadster, which is the most advanced battery pack in the world. The common reference is to call what is actually a cell a battery. So a cell is the little single can of chemicals, and then if you have multiple cells, that's what actually battery.",
+      "textZh": "当然。嗯，电池中所含的能量比汽油中所含的少得多，我的意思是，这真的几乎。很难准确描述。换一种说法，Roadster里的Tesla电池包，是世界上最先进的电池包。通常人们会把实际上是电芯的东西称为电池。所以，电芯就是装有化学物质的单个小罐子，然后如果你有多个电芯，那才实际上是电池。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 671.53,
+      "textEn": "That's literally what a battery means.",
+      "textZh": "这就是电池这个词的字面含义。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Charlie Rose",
+      "startSec": 673.29,
+      "textEn": "Multiple cells.",
+      "textZh": "多个电芯。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 674.05,
+      "textEn": "Multiple cells. And as the batteries get bigger and bigger, they get harder and harder to deal with. So the cell that we use is a commodity cell.",
+      "textZh": "多个电芯。而且随着电池变得越来越大，它们也变得越来越难以处理。所以我们使用的电芯是一种商品化电芯。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Charlie Rose",
+      "startSec": 683.34,
+      "textEn": "You can buy it anywhere, pretty much.",
+      "textZh": "你几乎可以在任何地方买到它。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 684.94,
+      "textEn": "And it's the same sort of thing that's in any one number of laptops. The challenge is combining those cells into. And having thousands of them, making sure they're safe, making sure they'll last for 200,000 miles or 100,000 over bumps and potholes and extremes of temperature and safe in a crash. That compounds the problem massively. And you've got to make sure the charges and temperature is balanced across the whole thing.",
+      "textZh": "而且它与许多笔记本电脑里装的是同一类东西。挑战在于把这些电芯组合成。并且拥有数千个电芯，要确保它们安全，确保它们能使用200,000英里，或者100,000，经历颠簸、坑洞和极端温度，并且在碰撞中安全。这极大地加剧了问题。而且你必须确保整个电池包的电量和温度保持均衡。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 711.04,
+      "textEn": "So the difficulty is really at the pack level, much more than it is at the cell level.",
+      "textZh": "所以，真正的困难是在电池包层面，远远超过电芯层面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 717.44,
+      "textEn": "And that's really where the single biggest area of Tesla's expertise. Although I should point out that Tesla also has. We designed both the motor and the power electronics and the software that manages the whole thing, so those are important, too. But the battery is the single most important thing. And the Tesla battery pack, to reference it to gasoline, it weighs about 1,000 pounds and. And it has the energy content of two and a half gallons of gasoline.",
+      "textZh": "而这确实是Tesla专业能力中最大的一块。不过我应该指出，Tesla也有。我们设计了电机、电力电子设备以及管理整个系统的软件，所以这些也很重要。但电池是最重要的一项。参照汽油来讲，Tesla电池包重约1,000磅，而且。而且它所含的能量相当于2.5加仑汽油。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 742.64,
+      "textEn": "So that means you've got to have",
+      "textZh": "所以这意味着你必须有",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Charlie Rose",
+      "startSec": 745.12,
+      "textEn": "a lot of charges.",
+      "textZh": "大量充电。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 746.56,
+      "textEn": "Well, what that means is that. But there's an advantage because the consumption of that energy is much more efficient in an electric car. And this is. I'll get to. Why is the Tesla Road twice as efficient as Toyota Prius, which is obviously not a sports car. And the reason is because an electric motor is fundamentally super efficient at turning energy into motion. So a good electric motor, such as the one that we have in the Tesla rosa, is about 90% efficient at turning the electricity into motion, whereas a gasoline internal combustion engine is somewhere typically in the range of around 17 or 18%.",
+      "textZh": "嗯，这意味着。可是它有一个优势，因为在电动汽车中，那些能量的消耗效率高得多。而这就是。我会讲到。为什么Tesla Road的效率是Toyota Prius的2倍，后者显然不是跑车。原因在于，电动机从根本上说，在把能量转化为运动方面效率极高。所以，一台优秀的电动机，比如我们Tesla rosa里的那台，在把电能转化为运动方面的效率约为90%，而汽油内燃机通常大约处于17%或18%的范围。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 787.39,
+      "textEn": "Most of what it does is generate heat. So. So even though it's only two and a half gallons gasoline, that two and a half gallons of energy content goes really far compared with, you know, if you had a.",
+      "textZh": "它所做的大部分事情是产生热量。所以。所以即使只有2.5加仑汽油，那2.5加仑的能量含量也能走得非常远，相比之下，你知道，如果你有一辆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Charlie Rose",
+      "startSec": 799.42,
+      "textEn": "If that was okay compared to the Prius, but also compared to the new GM Volt.",
+      "textZh": "如果与Prius相比还可以，但也要与新的GM Volt相比。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 803.74,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Charlie Rose",
+      "startSec": 804.54,
+      "textEn": "How does it do in comparison with the Volt?",
+      "textZh": "它与Volt相比表现如何？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 806.86,
+      "textEn": "The Volt is a different architecture it uses, it's a plug in hybrid architecture. So it's I think about a 40 mile or so battery voltage.",
+      "textZh": "Volt采用的是一种不同的架构，它采用的是插电式混合动力架构。所以我认为它大约有一个40英里左右的电池电压。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Charlie Rose",
+      "startSec": 814.42,
+      "textEn": "That's what they say.",
+      "textZh": "他们是这么说的。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 815.42,
+      "textEn": "And then there's a. An engine with a generator that allows you to go beyond the 40 miles.",
+      "textZh": "然后还有一个。一台带发电机的发动机，让你能够行驶超过40英里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Charlie Rose",
+      "startSec": 822.17,
+      "textEn": "Exactly. Right.",
+      "textZh": "正是如此。对。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 823.21,
+      "textEn": "And whereas ours is pure electric and the strategy that we've decided to hew to is a pure electric strategy. And I mean, I've been criticized sometimes for responding to questions like yours to explain why we've gone pure electric. And then people have taken that to be an attack on the vault, which is not the case. I, I hope the bolt succeeds and I think it can be a pretty good car. I don't take this as an attack.",
+      "textZh": "而我们的车是纯电动的，我们决定坚持的战略是纯电动战略。我的意思是，有时我因为回答像你这样的问题、解释我们为什么选择纯电动而受到批评。然后人们把那视为对vault的攻击，但事实并非如此。我，我希望bolt成功，而且我认为它可以成为一款相当不错的车。我不把这视为攻击。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Charlie Rose",
+      "startSec": 850.32,
+      "textEn": "I'm asking questions.",
+      "textZh": "我是在提问。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 851.44,
+      "textEn": "No, I totally. It's not. But I just wanted to put that.",
+      "textZh": "不，我完全。不是。但我只是想说明那一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Charlie Rose",
+      "startSec": 858.08,
+      "textEn": "What I hope to do in this conversation with you is figure out what it is you've done because you've gotten a fair amount of attention. Figure out why you're not further along than you are, or figure out why you are and what your expectations are to do and where is the game for you.",
+      "textZh": "我希望在与你的这次谈话中弄清楚你做了什么，因为你已经获得了相当多的关注。弄清楚为什么你的进展没有比现在更快，或者弄清楚为什么你已经走到了这一步、你期望做什么，以及对你而言机会在哪里。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 872.82,
+      "textEn": "I think it's taken a while for the industry to come around to this point, but I think it's largely. At this point, it's almost become conventional wisdom that the future is electric cars. The only question is this interim period of this transitional period. But if you look at the pace of battery improvement, it's clear that's why, I mean, it's inevitable the future will be entirely electric.",
+      "textZh": "我认为这个行业花了一段时间才走到这一步，但我认为这在很大程度上。到目前为止，未来属于电动汽车几乎已经成为普遍共识。唯一的问题是这个过渡时期的这段过渡期。但如果你看看电池改进的速度，就很清楚这就是为什么，我的意思是，未来将完全属于电动汽车，这是不可避免的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Charlie Rose",
+      "startSec": 894.5,
+      "textEn": "And the irony of all this conversation is that in the last year, a year before its bankruptcy, General Motors had announced that the Bolt was the key to their future as an automobile company.",
+      "textZh": "而整场谈话的讽刺之处在于，就在去年，也就是通用汽车破产前1年，它曾宣布Bolt是其作为一家汽车公司的未来关键。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 905.79,
+      "textEn": "Right, yeah, exactly. I mean, one area of criticism I think that is valid regarding Jim, is",
+      "textZh": "对，是的，正是如此。我的意思是，我认为针对Jim有一项批评是合理的，那就是",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Charlie Rose",
+      "startSec": 914.79,
+      "textEn": "Prius have to come to that conclusion, by the way.",
+      "textZh": "顺便说一句，Prius也必须得出那个结论。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 917.15,
+      "textEn": "Well, they should have probably done a Prius or something like that. But I think if you knew they had the EV1.",
+      "textZh": "嗯，他们或许本该造一款Prius或类似的东西。但我想，如果你知道他们有EV1。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Charlie Rose",
+      "startSec": 921.87,
+      "textEn": "Right, right, exactly. Which didn't work. Didn't work, but didn't make it for reasons I'm not clear as a marketing success.",
+      "textZh": "对，对，正是如此。但那没有成功。没有成功，不过它为什么没能在营销上取得成功，我也不清楚。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 929.22,
+      "textEn": "Yeah. Chris Payne did a movie, who Killed the Electric Car? And I was sort of trying to investigate that issue. But I think it's notable that in that movie it shows that the customers who had the EV1, the cars had to be taken away from them and crushed. And they held a candlelit vigil. If you have people that really love a product to the degree that they're willing to hold a candlelit vigil for it that says, hey, Maybe you should make an EV too.",
+      "textZh": "是的。克里斯·佩恩拍了一部电影，《谁杀死了电动汽车？》而我当时算是在试图调查那个问题。但我认为值得注意的是，那部电影里显示，拥有 EV1 的客户，他们的车不得不被收走并压碎。而他们举行了烛光守夜。如果人们真的热爱一款产品，到了愿意为它举行烛光守夜的程度，那就是说，嘿，也许你也应该造一款电动车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Charlie Rose",
+      "startSec": 954.68,
+      "textEn": "It certainly does say that, you know, so the car that I drove today, the Roadster 2, I think, I mean, I think it was a roadster before this. This is. Right. Second iteration of it. Yeah. Came. Came through production. What year?",
+      "textZh": "这当然说明了这一点，你知道，所以我今天开的那辆车，Roadster 2，我想，我是说，我想在这之前它就是一辆 Roadster。这是。对。它的第2次迭代。是的。进入了。进入生产是在什么年份？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 969.16,
+      "textEn": "The first roadster, number one. The first. First production roadster, which was fully, you know, Department of Transport legal and all",
+      "textZh": "第1辆 Roadster，编号1。第1辆。第1辆量产 Roadster，它完全是，你知道，符合交通部法规之类的",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Charlie Rose",
+      "startSec": 975.88,
+      "textEn": "that sort of stuff, met all the standards.",
+      "textZh": "那类东西，符合所有标准。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Elon Musk",
+      "startSec": 978,
+      "textEn": "Yeah, yeah, it was February of last year and that was my car.",
+      "textZh": "是的，是的，那是去年2月，那是我的车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Charlie Rose",
+      "startSec": 980.83,
+      "textEn": "That was the car. Your car, meaning what? The one you had, Unit one. And so then you decided immediately to make improvements on that.",
+      "textZh": "就是那辆车。你的车，是什么意思？你拥有的那辆，第1号车。于是你马上决定对它进行改进。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 988.35,
+      "textEn": "Yeah, yeah, absolutely.",
+      "textZh": "是的，是的，当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 991.47,
+      "textEn": "It was a little rough going in the beginning and we had some issues with some of the powertrain components. In fact, not the hard stuff, but the stuff that's sort of theoretically easier. And we were able to fix those and get production ramped up. And now we're at the point where we're delivering about 20 to 25 cars a week.",
+      "textZh": "开始的时候进展有点艰难，我们的一些动力总成部件出了些问题。实际上，不是那些困难的东西，而是那些理论上更容易些的东西。我们得以解决这些问题并提高产量。现在我们已经达到每周交付大约20到25辆车的阶段。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1010,
+      "textEn": "You know that Tata Motors obviously, you know, in.",
+      "textZh": "你知道，塔塔汽车显然，你知道，在。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 1012.72,
+      "textEn": "I know, right, from Tata, Take for",
+      "textZh": "我知道，对吧，来自塔塔，拿来给",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1014.44,
+      "textEn": "a moment what he's doing in India. Yeah. Developing a little sedan for $2,300 a non.",
+      "textZh": "片刻，看看他在印度做的事。是的。正在开发一款售价2,300美元的小型轿车，一个非。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1022.16,
+      "textEn": "Right, right, right.",
+      "textZh": "对，对，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1024.88,
+      "textEn": "Where do you put that in the whole equation of where the future of cars are?",
+      "textZh": "在汽车未来发展的整个格局中，你如何看待这一点？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1028.8,
+      "textEn": "Well, I think it's a good idea to have affordable cars.",
+      "textZh": "嗯，我认为拥有价格亲民的汽车是个好主意。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 1033.12,
+      "textEn": "You know, I think, I think the problem with something like the Nano, which I think, by the way. I'm sorry, problem. I think it's a great idea and rotten is a gentleman in the skyline.",
+      "textZh": "你知道，我认为，我认为像Nano这样的东西存在的问题，顺便说一句，我认为。抱歉，问题。我认为这是一个很棒的主意，而腐烂的是天际线中的一位绅士。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1044.12,
+      "textEn": "Exactly. All of those I agree with. Yes, it's hard not to.",
+      "textZh": "没错。所有这些我都同意。是的，很难不同意。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1047.68,
+      "textEn": "Yeah, exactly. I think where it's going to become challenging in the future is as the price of gasoline rises, the cost of acquiring the car is much less of an issue than the cost of operating that car. And I think oil is in the",
+      "textZh": "是的，没错。我认为未来将变得有挑战的地方在于，随着汽油价格上涨，购买汽车的成本远没有使用那辆车的成本那么重要。而且我认为石油正在",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1062.17,
+      "textEn": "market and it's inevitable. It's already moving back up. And you. Do you have some assumptions in your own calculations as to where oil will level off?",
+      "textZh": "市场上，这是不可避免的。它已经在重新上涨了。而你。你自己的计算中是否对油价会稳定在什么水平有一些假设？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1071.09,
+      "textEn": "I think it will exceed the numbers we've seen last year, 144. Oh, yeah, sure, absolutely. I think we'll see it sort of approach $200 and beyond by 2010, 1112, somewhere in there, whenever the next boom is. So let's say the next boom is four years from now. It'll be around that point.",
+      "textZh": "我认为它会超过我们去年见过的数字，144。哦，是的，当然，绝对会。我认为到2010年、1112年左右，无论下一次繁荣何时到来，我们会看到它接近200美元并继续上涨。所以假设下一次繁荣是在4年后。那时它会在那个水平左右。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1090.92,
+      "textEn": "Of all your businesses, which one do you care the most about?",
+      "textZh": "在你所有的企业中，你最在意哪一家？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 1094.36,
+      "textEn": "Well, right now my time is split roughly evenly between Tesla and SpaceX, so I guess it would be pretty even between the two. And SolarCity is doing great on its own. And the two co founders there, Lyndon and Peter Rive, have done a phenomenal job and thankfully requires very little of",
+      "textZh": "嗯，目前我的时间大致平均分配在Tesla和SpaceX之间，所以我想我对两者的在意程度应该差不多。而SolarCity自身发展得很好。那里的两位联合创始人林登和彼得·里夫做得非常出色，谢天谢地，目前只需要我投入很少的",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1113.94,
+      "textEn": "my attention right now. The reason to create a sports car, a roadster, as the first stage of this is because it attracts attention or what?",
+      "textZh": "精力。把跑车，也就是Roadster，作为这件事第一阶段的原因，是因为它能吸引关注，还是什么？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 1123.62,
+      "textEn": "Oh, so good. Great, Great question. So, because people often misinterpret why we have created a sports car, because they will say, you know, the implication will",
+      "textZh": "哦，真好。很棒，很棒的问题。所以，因为人们经常误解我们为什么制造一辆跑车，因为他们会说，你知道，言下之意会",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1134.78,
+      "textEn": "be sports cars for rich guys is not a way to solve the energy problem.",
+      "textZh": "是，为富人造跑车并不是解决能源问题的办法。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 1138.22,
+      "textEn": "Right, Exactly. And they were sort of like, did I feel that there was somehow a shortage of sports cars for rich guys or something like that? And that was the part.",
+      "textZh": "对，没错。他们有点像是在问，我是不是觉得供富人使用的跑车不知为何出现了短缺，或者诸如此类？而那就是那部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 1147.4,
+      "textEn": "If any new technology is expensive when it starts out, and you can point to pretty much anything, because the first thing that engineers are trying to do is make it work. And then when you make it work, then you optimize and you optimize and you optimize. And if you look at the early days of computers or cell phones or almost anything, even the early days of gasoline cars, they used to be toys for rich people until they were made affordable and mass produced and report came along.",
+      "textZh": "任何新技术刚起步时都很昂贵，你几乎可以随便指出任何东西，因为工程师首先试图做的是让它运转起来。然后当你让它运转起来之后，你就会优化、优化、再优化。如果你看看计算机或手机的早期，或者几乎任何东西的早期，甚至汽油车的早期，它们过去都是富人的玩具，直到它们变得价格可承受并实现大规模生产，而报告随之出现。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 1173.37,
+      "textEn": "Yeah. And then you combine that would have been at the car, but then you combine that with the fact that we were just a little startup and there's just no way that we could afford a billion dollars to make a giant car plant that would make hundreds of thousands of cars a year, because that's the kind of volume you have to get to make cheap cars.",
+      "textZh": "是的。然后你把那会出现在汽车上的东西结合起来，但之后你再把它同我们只是一家小型初创公司这一事实结合起来，而我们根本不可能拿出10亿美元建造一座每年能生产数十万辆汽车的巨型汽车工厂，因为要制造廉价汽车，你就必须达到那样的产量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 1197.35,
+      "textEn": "And it's also the first iteration of technology. So we have both a volume problem and a new technology problem. And so naturally, you have to.",
+      "textZh": "而且这也是这项技术的第一次迭代。所以我们既有产量问题，也有新技术问题。因此很自然地，你必须。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1206.03,
+      "textEn": "You have to reach scale.",
+      "textZh": "你必须达到规模。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 1206.95,
+      "textEn": "You have to reach scale, and you have to work the bugs out of the system. And so you've got to make. And you want to make your mistakes at a small scale.",
+      "textZh": "你必须达到规模，而且必须排除系统中的故障。所以你得制造。而且你希望在小规模时犯错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1213.55,
+      "textEn": "Okay, so how's that going? Reaching scale and being able to create, marketing a business plan that will enable you to reach a large audience and create and continue the development of the technology that will make it even more attractive.",
+      "textZh": "好，那么进展如何？达到规模，并且能够制定、营销一项商业计划，使你能够触达大量受众，并创造和继续开发将使其更具吸引力的技术。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 1232.16,
+      "textEn": "It's going really well, actually. So we had a few bumpy years in the beginning, but at this point, we're producing at a steady state of about an annualized production rate of about 1,000 roads to sports cars a year. We unveiled our sedan a few months ago, which is a much more functional car. And it's a $50,000 car. So it's basically, it's about half the",
+      "textZh": "实际上，进展非常顺利。所以最初几年我们经历了一些坎坷，但目前，我们正以稳定状态生产，年化产量大约为每年1,000条通往跑车的道路。几个月前，我们发布了轿车，它是一款功能实用得多的汽车。而且它是一款售价50,000美元的汽车。所以基本上，它大约是",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1254.03,
+      "textEn": "price of the roadster and the production run, say, for the year 2010, for the Roadster will be about 1,000. And for the sedan?",
+      "textZh": "Roadster价格的一半，而比如说2010年，Roadster的产量将约为1,000辆。那么轿车呢？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1262.67,
+      "textEn": "The sedan is only coming out in",
+      "textZh": "轿车只会在",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1263.99,
+      "textEn": "two years, so 2011 will be the first year. And what's the projection for that?",
+      "textZh": "2年后推出，所以2011年将是第一年。对它的预测是多少？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 1270.35,
+      "textEn": "We're expected to do 20,000 units a year for the sedan. It's always difficult to predict these things exactly, but our target is we'll produce a total of about 100,000 of them in about 20,000 a year. And there are going to be many variations on that. We'll do an SUV and we'll do, you know, other things, and then we'll do a third generation platform beyond the sedan. The Model A sedan will be a sub $30,000 car. So we're trying to get to mass production as soon as we possibly can.",
+      "textZh": "我们预计轿车每年生产20,000辆。要准确预测这些事情总是很困难，但我们的目标是总共生产大约100,000辆，每年大约20,000辆。而且它会有许多变体。我们会生产一款SUV，也会生产，你知道，其他东西，然后我们还会在轿车之后开发第三代平台。Model A轿车将是一款售价低于30,000美元的汽车。所以我们正努力尽快实现大规模生产。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 1298.67,
+      "textEn": "And that's both from the cars that we make ourselves as well as the cars we do in partnership with others, like the Daimler deal you may have heard about.",
+      "textZh": "这既包括我们自己制造的汽车，也包括我们与其他公司合作制造的汽车，比如你可能听说过的戴姆勒交易。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1307.79,
+      "textEn": "So how do you measure the odds of success?",
+      "textZh": "那么你如何衡量成功的几率？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Elon Musk",
+      "startSec": 1312.27,
+      "textEn": "Personally, I would say success for me, for Tesla is that we've accelerated the advent of electric cars by at least five years.",
+      "textZh": "就我个人而言，我会说，对我、对Tesla来说，成功就是我们将电动汽车的到来至少加速了5年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1319.55,
+      "textEn": "So that the goal to accelerate the advent of electric cars or to create a great electric car company, I think",
+      "textZh": "所以目标是加速电动汽车的到来，还是创建一家出色的电动汽车公司，我认为",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 1328.92,
+      "textEn": "the two are synonymous. Or I mean, you do one, you do the other.",
+      "textZh": "两者是同义的。或者我是说，你做成一个，也就做成了另一个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1332.08,
+      "textEn": "Okay.",
+      "textZh": "好。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 1332.52,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1334.44,
+      "textEn": "And why is it that it's happening by a guy who created a startup in 2003 rather than a whole range of sort of industrial automobile companies around the world, not just here. Fiat is a successful car company name that, own Chrysler. Right.",
+      "textZh": "为什么这件事是由一个在2003年创建初创公司的人来做，而不是由世界各地一整批类似工业汽车公司来做，不只是这里。菲亚特是一家成功的汽车公司名字，拥有克莱斯勒。对吧。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 1353.05,
+      "textEn": "Well, disruptive technology, where you really have a big technology discontinuity, it tends to come from new companies. You know, you could ask the same question of why does Google come from. Why did Google come from Larry and Larry Sergey, by the way, I've known Larry since before he got venture funding for Google.",
+      "textZh": "嗯，颠覆性技术，也就是出现真正重大的技术断层时，往往来自新公司。你知道，你可以问同样的问题，为什么谷歌来自。为什么谷歌来自拉里和拉里·谢尔盖，顺便说一句，我在拉里为谷歌获得风险投资之前就认识他了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1372.17,
+      "textEn": "But is he an investor in Tesla?",
+      "textZh": "但他是 Tesla 的投资者吗？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 1374.21,
+      "textEn": "He is. Larry and Sergey are investors in Tesla",
+      "textZh": "是的。拉里和谢尔盖都是 Tesla 的投资者",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1376.73,
+      "textEn": "and they drive them or don't drive them.",
+      "textZh": "而且他们开这些车，还是不开。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 1378.13,
+      "textEn": "Yeah, they drive them, absolutely.",
+      "textZh": "对，他们开，当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1380.28,
+      "textEn": "Because some of the criticism that comes at you and the company now is that you went out to seek a lot of external financing and did not reach your goals.",
+      "textZh": "因为现在针对你和公司的批评中，有一些是说你曾四处寻求大量外部融资，却没有达到目标。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 1390.04,
+      "textEn": "Well, it's taking us longer to reach our goals, but we are definitely.",
+      "textZh": "嗯，我们实现目标花的时间更长，但我们肯定会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1395.16,
+      "textEn": "What was it? Raise 100 million to raise 40 or what was the goal?",
+      "textZh": "当时是什么？募集1亿美元来筹集4000万，还是目标是什么？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 1398.84,
+      "textEn": "Well, I think some of the stumbles were silly mistakes we made ourselves. Some of them were market externalities and we were getting ready to raise, or we're in the process of raising about $100 million round that began in sort of the summer of last year. And then Ran into, you know, force five hurricane.",
+      "textZh": "嗯，我认为有些磕绊是我们自己犯下的愚蠢错误。有些是市场外部因素，而我们当时正准备募集，或者说正在进行一轮约1亿美元的融资，这轮融资大约始于去年夏天。然后就遭遇了，你知道，5级飓风。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1419.84,
+      "textEn": "An economic circumstance that took everything inside.",
+      "textZh": "一种把一切都卷入其中的经济局势。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 1422.56,
+      "textEn": "Yeah. And so that forced us to scale back our plans a little bit. We had to do a layoff and we had to raise the money internally from existing investors. I had to put up a lot of the money personally and there was just no money. And so that was, it was sort of a hair raising time for the company. But at this point we're actually in good shape. We expect to be profitable in the third quarter.",
+      "textZh": "对。所以那迫使我们稍微缩减了计划。我们不得不裁员，而且不得不从现有投资者那里内部筹集资金。我个人不得不拿出很大一笔钱，而当时就是没有钱。所以那是，那对公司来说算是一段令人胆战心惊的时期。但到目前这个时候，我们的状况其实不错。我们预计会在第三季度实现盈利。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1447.62,
+      "textEn": "And that comes from the success of the Roadster.",
+      "textZh": "而那得益于 Roadster 的成功。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 1449.66,
+      "textEn": "Yeah, and the Roadster. Then we also have a powertrain supply business to Daimler as well for an electric Smart that we're doing with them.",
+      "textZh": "对，还有 Roadster。然后我们也有一项向戴姆勒供应动力总成的业务，用于我们正与他们合作开发的一款电动 Smart。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1457.46,
+      "textEn": "Make the Smart car an electric car?",
+      "textZh": "把 Smart 汽车变成电动汽车？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Elon Musk",
+      "startSec": 1459.14,
+      "textEn": "Yeah, you know, the Smart car was always intended to be an electric car, but they could never, they could never get the battery right. So a year and a half ago we met with Daimler and I was trying to convince them to work with us. I mean, we've really tried hard to work with a lot of different car companies.",
+      "textZh": "对，你知道，Smart 汽车原本一直就是要做成电动汽车的，但他们始终无法，他们始终无法把电池做好。所以1年半前，我们与戴姆勒见了面，我当时试图说服他们与我们合作。我的意思是，我们确实非常努力地尝试与许多不同的汽车公司合作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1476.51,
+      "textEn": "And what happened?",
+      "textZh": "然后发生了什么？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Elon Musk",
+      "startSec": 1478.35,
+      "textEn": "Well, I guess they think, well, they took the attitude of what does some little startup in Silicon Valley know that we don't know or couldn't do?",
+      "textZh": "嗯，我猜他们觉得，嗯，他们采取的态度是：硅谷的某家小型初创公司能知道什么我们不知道或做不到的东西？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1487.39,
+      "textEn": "What would you say to them?",
+      "textZh": "你会对他们说什么？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 1489.48,
+      "textEn": "Well, we drive our car and look at our technology and I don't know, it just never seemed to sort of sink in.",
+      "textZh": "嗯，我们开我们的车，也看我们的技术，而我不知道，这似乎就是一直没能真正被理解。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1494.64,
+      "textEn": "But",
+      "textZh": "但是",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Elon Musk",
+      "startSec": 1497.4,
+      "textEn": "Daimler did actually. So I went through Stuttgart on the way to India actually and met with Dr. Weber, the head of Global R and D and we had a conversation. I said, well, what does it take for us to work together? We'd love to do something. We'd love to do something with an affordable mass market car that we ourselves could, couldn't do right now because we",
+      "textZh": "戴姆勒确实这么做了。所以实际上我在前往印度的途中经过斯图加特，会见了全球研发部门负责人韦伯博士，我们进行了一番交谈。我说，那么，我们要怎样才能合作？我们很想做点什么。我们很想围绕一款价格亲民的大众市场汽车做点什么，而这件事目前靠我们自己能做、做不了，因为我们",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1518.06,
+      "textEn": "don't have the capability geared up to Zimmer line. Most of it.",
+      "textZh": "没有为Zimmer生产线准备好相应的能力。其中大部分。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Elon Musk",
+      "startSec": 1520.46,
+      "textEn": "Yeah. And so I said, what about electric Smart? Because the Smart was always intended to be an electric car and what would it take for us to work together? And he said, well, if you could do a prototype, that would really go a long way. So we did, we worked really hard. The powertrain team led by JB Straubel did an awesome job. And 40 days later when, when they came out to visit, we said, here's a car, take a drive.",
+      "textZh": "是的。于是我说，电动Smart怎么样？因为Smart从一开始就打算成为一款电动汽车，要怎样我们才能合作？他说，嗯，如果你们能做出一辆原型车，那确实会大有帮助。所以我们做了，我们非常努力。由JB·斯特劳贝尔带领的动力总成团队做得非常出色。40天后，当、当他们前来参观时，我们说，车在这里，开开看吧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Elon Musk",
+      "startSec": 1545.51,
+      "textEn": "And they really liked what they saw.",
+      "textZh": "他们非常喜欢自己看到的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1547.59,
+      "textEn": "And so what did they do then?",
+      "textZh": "那么他们接着做了什么？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Elon Musk",
+      "startSec": 1549.91,
+      "textEn": "They said, ok, well let's take it sort of another step further. And they gave us a little R and D contract and eventually got to the point where we got a contract to supply 1000 cars for them and then if we do well in that, we'll potentially go into tens of thousands of cars. But this is a car that everyone could afford and, and could hopefully come quite soon.",
+      "textZh": "他们说，好吧，那么我们就把它再往前推进一步。他们给了我们一份小额研发合同，最后发展到我们拿到了一份为他们供应1000辆汽车的合同，然后，如果我们在这件事上做得好，就有可能进一步达到数万辆汽车。但这是一款所有人都买得起的汽车，而且、而且希望能很快问世。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1571.49,
+      "textEn": "Do you have a profile of the people who you think will want to buy these roadsters?",
+      "textZh": "对于你认为会想购买这些Roadster的人，你有一个用户画像吗？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Elon Musk",
+      "startSec": 1575.09,
+      "textEn": "Yeah, absolutely. It's the kind of person who likes a performance car. Maybe they own a Porsche or Lamborghini or something.",
+      "textZh": "有，当然有。就是那种喜欢高性能汽车的人。也许他们拥有一辆保时捷或兰博基尼之类的车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1586.69,
+      "textEn": "This car is actually faster than Lamborghini 00:60?",
+      "textZh": "这辆车实际上比兰博基尼00:60还快？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Elon Musk",
+      "startSec": 1589.89,
+      "textEn": "Yeah, I think faster than almost anything I know of. Yeah, I mean the really sort of million dollar supercars, obviously those will, those will beat it. Like the Ferrari Enzo is going to be faster, but it's pretty much faster than any normal sports car and it's really easy to drive. If you want a high performance car with a clean conscience, this is the only option the sedan is going to be for someone that wants a great sedan and also clean conscience.",
+      "textZh": "是的，我觉得它比我所知道的几乎任何车都快。是的，我是说，那些真正意义上价值100万美元的超级跑车，显然它们会、它们会胜过它。比如法拉利Enzo会更快，但它差不多比任何普通跑车都快，而且非常容易驾驶。如果你想要一辆既有高性能又让良心清白的汽车，这是唯一的选择；这款轿车将面向那些既想要一辆出色轿车，也想让良心清白的人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Elon Musk",
+      "startSec": 1619.2,
+      "textEn": "And it's also going to be cheaper to operate than.",
+      "textZh": "而且它的使用成本也会低于。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1623.53,
+      "textEn": "You are, as you well know, a controversial guy as well.",
+      "textZh": "你也很清楚，你也是一个有争议的人。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Elon Musk",
+      "startSec": 1627.93,
+      "textEn": "I try to, I try not to be controversial but it seems, controversy seems to find me.",
+      "textZh": "我尽量，我尽量不引发争议，但似乎，争议似乎总会找上我。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1631.61,
+      "textEn": "It finds you. It finds you because you think big. You're a software guy who has been successful in the private sector.",
+      "textZh": "它会找上你。它找上你，是因为你敢想大事。你是一个在私营领域取得了成功的软件人士。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "Elon Musk",
+      "startSec": 1643.13,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1643.69,
+      "textEn": "You know, and see no reason you can't do things that other people have not been able to. No other how large the corporate enterprise. Create the best electric car or b put privately astronauts in space, which you say you will do in two years?",
+      "textZh": "你知道，而且看不出有什么理由让你无法做到其他人没能做到的事。没有其他无论企业集团有多庞大。造出最好的电动汽车，或者b，以私人方式将宇航员送入太空，而你说你会在2年内做到？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "Elon Musk",
+      "startSec": 1662.17,
+      "textEn": "Well, yeah, it sort of depends on when NASA asks us to do that. So if NASA turns on access to do that this year, which we're hopeful that they will. The White House has a convene a panel on the future of human spaceflight that that panel is going to make the recommendations in a few months. I hope that some of those recommendations will be favorable to SpaceX because the alternative is if, if Space X doesn't do it, we will be entirely dependent on the Russians to carry our astronauts to the space station after 2010 and billions of dollars will be spent on essentially a sole source situation to the Russians, which I think is outrageous.",
+      "textZh": "嗯，是的，这多少取决于NASA什么时候要求我们这么做。所以，如果NASA今年开放权限让我们这么做，而我们希望他们会这样做。白宫召集了一个关于载人航天未来的小组，那个小组将在几个月后提出建议。我希望其中一些建议会对SpaceX有利，因为另一种情况是，如果，如果SpaceX不做这件事，那么2010年之后，我们将完全依赖俄罗斯人把我们的宇航员送往空间站，并且会在实质上由俄罗斯人独家承接的局面上花费数十亿美元，我认为这令人愤慨。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1697.76,
+      "textEn": "And you haven't taken advantage of the opportunity to go in space yourself, have you?",
+      "textZh": "而你还没有利用这个机会亲自去太空，对吧？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Elon Musk",
+      "startSec": 1701.16,
+      "textEn": "No, I have not.",
+      "textZh": "不，我没有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1701.68,
+      "textEn": "Have you wanted to?",
+      "textZh": "你想去吗？",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "Elon Musk",
+      "startSec": 1704.36,
+      "textEn": "If it was purely a matter of personal interest, I would have done it already. I mean I do want it, I do want it.",
+      "textZh": "如果纯粹是个人兴趣的问题，我早就已经去做了。我的意思是，我确实想去，我确实想去。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1709.96,
+      "textEn": "Sergey interested in that or. No, Sergey has expressed some interest in that.",
+      "textZh": "谢尔盖对此感兴趣，还是。不是，谢尔盖对此表达过一些兴趣。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Elon Musk",
+      "startSec": 1714.24,
+      "textEn": "Some interest, yes.",
+      "textZh": "有一些兴趣，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Elon Musk",
+      "startSec": 1718.2,
+      "textEn": "Yeah, I would like to go at some point, but it's. I'm also in the point where it's difficult for me to take personal risks. I used to take a lot of personal risks because of children. I've got my kids and responsibilities with companies as well. And so if I do things where they have personal risk, at this point, I risk more than my own being.",
+      "textZh": "是的，我希望有一天能去，但这。我现在也处于一个很难让我承担个人风险的阶段。我过去会承担很多个人风险，因为孩子。我有孩子，还有对公司的责任。所以，如果我现在去做存在个人风险的事情，我拿来冒险的就不只是我自己。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1741.32,
+      "textEn": "How many trips? You have one set of triptas and one set of twins.",
+      "textZh": "多少次行程？你有一组特里普塔斯和一对双胞胎。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Elon Musk",
+      "startSec": 1744.68,
+      "textEn": "Yeah, have the twins with me in New York, actually.",
+      "textZh": "是的，其实双胞胎和我一起在纽约。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1750.2,
+      "textEn": "So they like the car.",
+      "textZh": "所以他们喜欢那辆车。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Elon Musk",
+      "startSec": 1752.6,
+      "textEn": "Yeah. They can't drive. They can't go on the roadster because it doesn't. It's not very kid friendly. But no, it's not very different.",
+      "textZh": "是的。他们不能开车。他们不能坐那辆Roadster，因为它不。它对孩子不是很友好。不过不，它并没有很不一样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1760.49,
+      "textEn": "You're right.",
+      "textZh": "你说得对。",
+      "speakerZh": "查理·罗斯"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "Elon Musk",
+      "startSec": 1760.97,
+      "textEn": "The sedan will be ideal for them.",
+      "textZh": "轿车会非常适合他们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "Charlie Rose",
+      "startSec": 1763.69,
+      "textEn": "Much success to you. Thank you for coming. Thank you for joining us. See you next time.",
+      "textZh": "祝你取得巨大成功。谢谢你来。感谢你收看我们的节目。下次见。",
+      "speakerZh": "查理·罗斯"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T23:40:37.460Z",
+    "reviewedAt": "2026-09-13T00:08:00.731Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:30.392Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "00ff771f7cbe629944dfd45cfb7cd0182cc758f0784268f9cff5fbd5d624fbdc"
+}

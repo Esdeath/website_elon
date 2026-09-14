@@ -1,0 +1,35 @@
+{
+  "id": "cannes-lions-2024-musk",
+  "slug": "cannes-lions-2024-musk",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2024-06-19",
+  "titleEn": "Cannes Lions",
+  "titleZh": "戛纳国际创意节",
+  "summaryEn": "WPP CEO Mark Read presses Musk on stage at Cannes Lions about telling advertisers to \"go f**k yourself\", brand safety on X, and how AI is reshaping creativity and business.",
+  "summaryZh": "WPP首席执行官马克·里德在戛纳国际创意节的舞台上就马斯克叫广告商“去你妈的”、X上的品牌安全，以及人工智能如何重塑创意和商业等问题向他追问。",
+  "sourceUrl": "https://www.youtube.com/watch?v=J3OggBX4lgw",
+  "sourceLabel": "Cannes Lions (LIONS)",
+  "archiveUrl": "https://elonmuskarchive.org/video/cannes-lions-2024-musk",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/J3OggBX4lgw",
+  "thumbnailUrl": "https://i.ytimg.com/vi/J3OggBX4lgw/hqdefault.jpg",
+  "org": "xAI",
+  "durationSec": 21,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "technology will help you do anything that you want to do and more of it um so like said I think we are headed to a very interesting future the most interesting this this is the most interesting time in all of history so enjoy the ride",
+      "textZh": "技术会帮助你做任何你想做的事，而且做得更多，嗯，所以就像我说的，我认为我们正走向一个非常有趣的未来，最有趣的，这、这是整个历史上最有趣的时代，所以享受这段旅程吧。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T17:24:57.017Z",
+    "reviewedAt": "2026-09-12T17:43:37.925Z"
+  },
+  "fetchedAt": "2026-09-12T07:11:12.645Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=J3OggBX4lgw",
+  "sourceHash": "859a8975ed12cf358601db520d6319593dfe34a9132fa4ab06ac523f90668b2e"
+}

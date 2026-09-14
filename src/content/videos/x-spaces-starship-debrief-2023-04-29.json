@@ -1,0 +1,1853 @@
+{
+  "id": "x-spaces-starship-debrief-2023-04-29",
+  "slug": "x-spaces-starship-debrief-2023-04-29",
+  "snapshotId": "2026-09-12",
+  "type": "space",
+  "date": "2023-04-29",
+  "titleEn": "X Spaces: Starship flight-test debrief for subscribers",
+  "titleZh": "X Spaces：面向订阅者的星舰飞行测试复盘",
+  "summaryEn": "In a subscriber-only Twitter Space, Musk debriefed the first integrated orbital flight test of Starship, taking questions and explaining what SpaceX learned from the launch.",
+  "summaryZh": "在一场仅限订阅者参加的Twitter Space中，马斯克复盘了星舰首次一体化轨道飞行测试，回答问题并解释SpaceX从此次发射中了解到的情况。",
+  "sourceUrl": "https://www.youtube.com/watch?v=q-WQoC2Pl9U",
+  "sourceLabel": "Dave's Bits",
+  "archiveUrl": "https://elonmuskarchive.org/video/x-spaces-starship-debrief-2023-04-29",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/q-WQoC2Pl9U",
+  "thumbnailUrl": "https://i.ytimg.com/vi/q-WQoC2Pl9U/hqdefault.jpg",
+  "durationSec": 3258,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 3.6,
+      "textEn": "Hey, Irene.",
+      "textZh": "嘿，艾琳。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Host",
+      "startSec": 6,
+      "textEn": "Hey, Elon.",
+      "textZh": "嘿，埃隆。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 8.4,
+      "textEn": "It's been a long time.",
+      "textZh": "好久不见了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Host",
+      "startSec": 9.44,
+      "textEn": "Yeah, it has. That was very exciting to be in Boca Chica. You always, you always live up to your. Your promises about exciting times with SpaceX.",
+      "textZh": "是啊，确实。能在博卡奇卡真是非常激动人心。你总是，你总是兑现你的。你关于SpaceX激动人心时刻的承诺。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 21.36,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 23.44,
+      "textEn": "You know, punctuality is not my strong suit, but I do it deliver in the end.",
+      "textZh": "你知道，守时不是我的强项，但我最终确实会交付。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Host",
+      "startSec": 27.33,
+      "textEn": "Yes, you do.",
+      "textZh": "是的，你会。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Panelist",
+      "startSec": 29.57,
+      "textEn": "Excitement was guaranteed and it was delivered.",
+      "textZh": "激动人心是有保证的，而且也兑现了。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 33.25,
+      "textEn": "Exactly. I mean, so, yeah, we just get right into it.",
+      "textZh": "没错。我的意思是，那么，是的，我们就直接开始吧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 39.49,
+      "textEn": "So I think probably people have enough time to get on or hopefully. So, yeah, as basically the outcome was roughly the sort of what I expected and maybe slightly exceeding my expectations, but roughly what I expected, which was or hoped for, I should say, which is that we would get clear of the pad with minimal damage to the pad. And I'm glad to report that the pad damage is actually quite small and looks like it can be repaired quickly and that we would also get significant in flight data, particularly with respect to the pressurizing of the tanks with the propellant liquids, which is called autogenous pressurization, as opposed to say Falcon 9, which uses helium pressurization.",
+      "textZh": "所以我想，大家大概已经有足够的时间加入了，或者希望如此。那么，是的，基本上，结果大致就是我所预期的那种情况，也许还略微超出了我的预期，但大体符合我的预期，或者我应该说，是我所希望的，也就是我们能够离开发射台，同时对发射台造成的损伤很小。我很高兴地报告，发射台的损伤实际上相当小，看起来可以很快修复，而且我们也能够获得大量飞行数据，尤其是有关使用液体推进剂对储箱加压的数据，这叫自生增压；与之相对的是，比如猎鹰9号使用的是氦气增压。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 107.22,
+      "textEn": "But helium is in very short supply and extremely expensive, so it's way better to essentially pressurize with the liquid form of the oxidized raw fuel. So that actually looked quite good. And we also went supersonic, so that was no problem at all.",
+      "textZh": "但氦气极其短缺，而且极其昂贵，所以从本质上说，使用氧化后的原始燃料的液态形式来增压要好得多。所以那实际上看起来相当不错。我们也进入了超音速，所以那完全没有问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Panelist",
+      "startSec": 132.1,
+      "textEn": "And.",
+      "textZh": "而且。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 133.07,
+      "textEn": "But the. So I'm going to throw obviously some good news items here. The vehicle structural margins appear to be better than we expected. As we can tell, the vehicle is actually doing somersaults towards the end and still staying intact.",
+      "textZh": "但这个。所以我显然要在这里抛出一些好消息。飞行器的结构裕度似乎比我们预期的更好。正如我们所能看出的，飞行器实际上在接近最后时翻起了跟头，但仍然保持完整。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 151.31,
+      "textEn": "So that's also good.",
+      "textZh": "所以这也很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 155.47,
+      "textEn": "And yeah, so overall I actually feel like that was a great flight. SpaceX team did excellent work, we made a lot of progress and I think from a rocket standpoint and pad standpoint, we are probably ready to launch in six to eight weeks.",
+      "textZh": "而且，是的，所以总体而言，我实际上觉得那是一次很棒的飞行。SpaceX团队的工作非常出色，我们取得了很大进展，而且我认为，从火箭和发射台的角度来看，我们大概能在6至8周内做好发射准备。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 182.31,
+      "textEn": "The longest lead item on that is probably requalification of the flight termination system, because we did initiate the flight termination system, but it was not enough to. It took way too long to rupture the tanks.",
+      "textZh": "其中交付周期最长的事项可能是飞行终止系统的重新认证，因为我们确实启动了飞行终止系统，但这不足以。它花了太长时间才使储箱破裂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 198.98,
+      "textEn": "So we need a. Basically a much. We need more detonation cord to lines up the tanks at altitude and ensure that basically the rocket explodes immediately if there's a.",
+      "textZh": "所以我们需要一个。基本上是一个更……我们需要更多导爆索，以便在高空沿储箱排成线，并确保基本上在出现一个……时火箭会立即爆炸。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 220.13,
+      "textEn": "If flight termination is necessary. So requalification of the. I'm just guessing here that requalification of the much longer detonation cord to ends up the rocket in a bad situation is probably the long lead item.",
+      "textZh": "如果有必要终止飞行的话。所以，重新认证这个。我只是在这里猜测，重新认证长得多的导爆索，以便最终在糟糕情况下终结火箭，可能是交付周期最长的事项。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Host",
+      "startSec": 243.1,
+      "textEn": "What was the time lag?",
+      "textZh": "时间延迟是多少？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 245.9,
+      "textEn": "It was pretty long.",
+      "textZh": "相当长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 248.86,
+      "textEn": "I think it was on the order of 40 seconds. Ish.",
+      "textZh": "我想大约是40秒左右。差不多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 252.94,
+      "textEn": "So quite long.",
+      "textZh": "所以相当长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 256.7,
+      "textEn": "Yeah, so now the rocket was in a relatively low air density, so the aerodynamic forces that it was experiencing would be less than if it was at a lower, you know, lower down in the atmosphere. And so the aerodynamic forces would have, I think, at a lower point in the atmosphere, aided in the destruction of the vehicle. And in fact, that's, that's kind of what, what happened. When the vehicle got to a low enough altitude, the atmospheric density was enough to cause structural failure.",
+      "textZh": "是的，所以当时火箭所处位置的空气密度相对较低，因此它承受的气动力会小于它处在更低处，你知道，大气层中更低位置时的气动力。所以我认为，如果在大气层中更低的位置，气动力会有助于摧毁飞行器。而事实上，那就是，那差不多就是所发生的事情。当飞行器下降到足够低的高度时，大气密度已经足以导致结构失效。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 291.55,
+      "textEn": "But I mean, this is obviously something that we, we want to make super sure is solid before proceeding with the next flight.",
+      "textZh": "但我的意思是，这显然是我们，我们希望在进行下一次飞行之前绝对确保稳妥的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 299.23,
+      "textEn": "Let's see, I'll go through a bunch of notables. So we, we actually, at Luftorf, there were three engines that we didn't. We chose not to start, essentially, or that hit, hit aborts that. And so we actually lifted off with 30 engines, which is the minimum number of engines.",
+      "textZh": "让我看看，我会逐一讲很多值得注意的事项。所以我们，我们实际上，在卢夫托夫，有3台发动机是我们没有。我们基本上选择不启动，或者它们触发了中止条件，而。所以我们实际上是用30台发动机起飞的，这是发动机的最低数量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 325.81,
+      "textEn": "Those engines did not explode, but they were just because the system didn't think they were healthy enough to bring them to full thrust. So they were shut down.",
+      "textZh": "那些发动机没有爆炸，但它们只是因为系统认为它们的健康状况不足以让它们达到全推力。所以它们被关闭了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 336.53,
+      "textEn": "Then at T +27 seconds, Engine 19 lost communications concurrent with some kind of energetic event that liberated the outer heat shield from the engines 17, 18, 19 and 20 area. You can see this on video, actually. And by the way, if people have like, basically think that maybe something different from this occurred, that'd be interesting to. Because I know some people have looked very closely frame by frame at video, but this is the SpaceX best assessment after a week.",
+      "textZh": "然后在 T +27 秒时，19 号发动机失去通信，与此同时发生了某种高能事件，使 17、18、19 和 20 号发动机区域的外部隔热罩脱落。实际上，你可以在视频中看到这一点。顺便说一句，如果有人基本上认为发生的事情可能与此不同，那也会很有意思。因为我知道有些人逐帧非常仔细地看过视频，但这是 SpaceX 在一周后作出的最佳评估。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 376.29,
+      "textEn": "Anyway, so something bad happened at T +27 seconds because Engine 19 lost all communications and some kind of explosion happened to knock out the heat shields of engines 17, 18, 19 and 20.",
+      "textZh": "总之，在 T +27 秒时发生了糟糕的事情，因为 19 号发动机失去了所有通信，而且发生了某种爆炸，炸掉了 17、18、19 和 20 号发动机的隔热罩。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 395.9,
+      "textEn": "And yeah, so. And the visible fire seen from the aftan starting after this event and continuing through flight.",
+      "textZh": "然后，是的，所以。而这次事件发生后，从阿夫坦看到的明显火焰开始出现，并在整个飞行过程中持续存在。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 406.46,
+      "textEn": "The rocket kept going, though, for at T +62 seconds. We see additional aft heat shield damage near engine 30. However, the engine continues to run. And then at T85 seconds is where things really hit the fan. We see Engine 6 with loss of communication to thrust vector control. And roughly from this point onwards, we lose thrust vector control of the rocket. So we lose steering at T plus 85 seconds.",
+      "textZh": "不过，火箭继续飞行，在 T +62 秒时。我们看到 30 号发动机附近的后部隔热罩出现了更多损坏。然而，发动机继续运行。然后到了 T85 秒，事情才真正变得一团糟。我们看到 6 号发动机与推力矢量控制系统失去通信。从大约这一刻起，我们失去了对火箭的推力矢量控制。所以我们在 T +85 秒时失去了转向能力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Panelist",
+      "startSec": 442.67,
+      "textEn": "And was that engine six that kept trying to relight too?",
+      "textZh": "那也是一直试图重新点火的 6 号发动机吗？",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 449.64,
+      "textEn": "Possibly. I don't know.",
+      "textZh": "有可能。我不知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Panelist",
+      "startSec": 451.72,
+      "textEn": "Was there one? One looked like in footage, like it just kept attempting to relight, Relight, relight over and over, which is pretty wild to see. I don't think I've ever seen that before. And it was one of the center Ish engines.",
+      "textZh": "有这样一台吗？画面中有一台看起来就像一直在尝试重新点火，重新点火，反复重新点火，看起来相当不可思议。我觉得自己以前从未见过这种情况。而且它是其中一台比较靠近中央的发动机。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 468.28,
+      "textEn": "That's interesting. Okay, we do have relight logic in the center engines, but not in the outer engines? I believe so.",
+      "textZh": "这很有意思。好吧，我们的中央发动机确实有重新点火逻辑，但外侧发动机没有？我想是这样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 479.06,
+      "textEn": "So basically, landing engines have relight logic. The perimeter engines don't. So that's entirely possible. Although if the engine is detecting significant issues, it should not be going into a relight cycle.",
+      "textZh": "所以基本上，着陆发动机有重新点火逻辑。外围发动机没有。所以这完全有可能。不过，如果发动机检测到重大问题，它就不应该进入重新点火循环。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Host",
+      "startSec": 495.7,
+      "textEn": "What's your best guess as to what caused the initial engine issues? And then I guess it cascaded after that. But what do you think happened?",
+      "textZh": "你对最初发动机问题的起因有什么最合理的猜测？然后我想，之后问题就级联扩散了。但你认为发生了什么？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 515.04,
+      "textEn": "I think we don't know with certainty.",
+      "textZh": "我认为我们无法确定。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 519.04,
+      "textEn": "Obviously, the rocket stayed on the launch pad for a while, and we did generate quite the rock tornado at the base of the vehicle. And our first guess would have been that the rock tornado would have caused potentially significant damage to the engines. But at least we actually do not see obvious.",
+      "textZh": "显然，火箭在发射台上停留了一段时间，而且我们确实在飞行器底部制造了相当猛烈的岩石龙卷风。我们最初会猜测，岩石龙卷风可能对发动机造成了严重损坏。但至少我们实际上没有看到明显的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 544.56,
+      "textEn": "We actually weirdly do not see evidence of the rock tornado actually damaging engines or heat shields in a material way. But it may have, but we have not yet seen evidence of that. So for the next flight, we certainly will be taking off faster. So for this flight, we were erred on the side of kind of babying the engines and just sort of gently sort of starting each engine one at a time. And there were quite. The engines on Booster seven were built over a long period of time.",
+      "textZh": "奇怪的是，我们实际上没有看到证据表明岩石龙卷风确实对发动机或隔热罩造成了实质性损坏。但它或许造成了损坏，只是我们尚未看到相关证据。所以在下一次飞行中，我们肯定会更快起飞。因此在这次飞行中，我们犯的错误是偏向于有点小心呵护发动机，只是有点轻柔地、有点逐台启动每台发动机。而且有相当。助推器 7 上的发动机是在很长一段时间内制造的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 580.93,
+      "textEn": "So each engine was a little bit of a unique item. And, you know, whereas the engines on Booster nine, which is next, are much newer and more and more and consistent and really with significant reliability improvements over Booster seven. So I think we'll see a much more robust engine situation with Booster nine. The heat shield, or I should say the shields, which are both of force and heat shields around the engines for Booster 9 are much better because they weren't retrofitted for Booster 7, we kind of retrofitted heat shields, whereas Booster 9 is designed in, so they're much stouter.",
+      "textZh": "所以每台发动机都有点独一无二。而且，你知道，相比之下，接下来使用的助推器 9 上的发动机要新得多，也更、更……而且一致，并且相较助推器 7 确实有显著的可靠性改进。所以我认为，我们会在助推器 9 上看到稳健得多的发动机状况。助推器 9 的隔热罩，或者我应该说发动机周围的防护罩，它们既是受力防护罩也是隔热罩，要好得多，因为它们不是为助推器 7 加装的，我们算是给助推器 7 加装了隔热罩，而助推器 9 在设计中就包含了它们，所以坚固得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 630.44,
+      "textEn": "Will you be doing something with the Raptor Chill System on Booster 9 differently than what you did with 7?",
+      "textZh": "你们会以不同于助推器 7 的方式处理助推器 9 上的猛禽发动机冷却系统吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 639.75,
+      "textEn": "It kind of seems like that was like an expendable part of the pad, essentially, with having all of those hoses rip free. I'm guessing that's something you would like to avoid having to replace every time in the future.",
+      "textZh": "所有那些软管都被扯脱后，看起来那基本上就像是发射台上的一个消耗性部件。我猜你们将来会希望避免每次都必须更换它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 650.87,
+      "textEn": "Yeah, over time, we're definitely. It needs to be like a rapid, rapid reflux capability, so there can't be any extendable items. Over time.",
+      "textZh": "是的，随着时间推移，我们肯定会。它需要具备快速、快速回流能力，所以不能有任何可伸展物品。随着时间推移。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 659.43,
+      "textEn": "It was actually just good, good to get this. This vehicle off the ground because we've made so many improvements in and Booster nine and beyond that.",
+      "textZh": "实际上，能让这。这艘飞行器升空确实很好，很好，因为我们已经在助推器 9 以及之后的型号上做出了如此多的改进。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 670.63,
+      "textEn": "We really just needed to fly this vehicle and then move on to the much improved Booster nine and later ship designs.",
+      "textZh": "我们确实只需要让这艘飞行器飞起来，然后转向改进了许多的助推器 9 和后续飞船设计。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 684.07,
+      "textEn": "So the thing we want to make sure of probably most with the next flight is that we do not have that any kind of central nexus that controls that affects multiple engines is extremely robust and with, you know, extra shielding so that we don't have a sort of a single point that can take out multiple engines. And for sure we don't want a single point that can take out thrust vector control, which is engine steering.",
+      "textZh": "所以在下一次飞行中，我们大概最需要确保的是，我们不会有那种……任何控制、影响多台发动机的中央枢纽都极其稳健，并且，你知道，要有额外的防护，这样就不会出现某个单点导致多台发动机失效的情况。而且我们肯定不希望有一个单点能够导致推力矢量控制失效，也就是发动机转向失效。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Host",
+      "startSec": 716.75,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 721.39,
+      "textEn": "The range of detail we can go into here is like sort of level nine rocket wizardry all the way to how do rockets work?",
+      "textZh": "我们在这里可以深入到的细节范围，大概可以从 9 级火箭巫术一直到火箭是怎么工作的？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 728.35,
+      "textEn": "Understood.",
+      "textZh": "明白了。",
+      "speakerZh": "记者（路透社）"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 728.95,
+      "textEn": "Can I try again? I can confirm that we have all been doing a massive amount of speculation out here and I guess one of the big points that a lot of us have been wondering is related to stage separation. So I guess the two part question, like what actually triggers second stage ignition? And also the second part of that question, did ship 24 attempt to light its engines after the destruction of Booster 7?",
+      "textZh": "我能再试一次吗？我可以确认，我们这里所有人一直都在进行大量猜测，我想，我们很多人一直想知道的一个重点与级间分离有关。所以我想这是个分成两部分的问题，比如究竟是什么触发第二级点火？还有这个问题的第二部分，在助推器 7 被摧毁后，飞船 24 是否曾尝试点燃其发动机？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 760.2,
+      "textEn": "No, it did not. When flight termination is executed, it's executed on both. So the ship, the ship currently does not attempt to save itself.",
+      "textZh": "没有，它没有。当执行飞行终止时，两者都会执行。所以飞船，飞船目前不会尝试自救。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 773.01,
+      "textEn": "Arguably, maybe it should. That's a good point.",
+      "textZh": "可以说，也许它应该这样做。这一点很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Panelist",
+      "startSec": 777.41,
+      "textEn": "Yeah, it's crazy. It looks like the engines lit after the booster let go and after the",
+      "textZh": "是啊，太疯狂了。看起来发动机在助推器松脱之后、在……之后点燃了",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 782.93,
+      "textEn": "booster finally blew up.",
+      "textZh": "助推器最终爆炸。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Panelist",
+      "startSec": 783.89,
+      "textEn": "Like there's what looks like engine ignition. Pretty wild.",
+      "textZh": "就像那里出现了看起来像发动机点火的东西。相当不可思议。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 791.01,
+      "textEn": "That is. That has not been reported to me in the data reviews that it's not impossible, but it's not been reported to me.",
+      "textZh": "那确实是。在数据审查中没有人向我报告过这一点，它并非不可能，但没有人向我报告过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 799.91,
+      "textEn": "That is certainly not what the ship should be doing after a termination event. So.",
+      "textZh": "这当然不是飞船在发生终止事件后应该做的事。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 813.11,
+      "textEn": "The big things that are important for the next flight are ensuring that thrust vector, we don't lose thrust vector control. Sort of isolation of thrust vector control, which with the Booster nine is a lot easier because we use electric motors to steer the engines as opposed to hydraulic actuators where you've got a common manifold between the hydraulic actuators. So if you lose hydraulic pressure, you can lose multiple engines.",
+      "textZh": "对下一次飞行来说，重要的大事是确保推力矢量，确保我们不会失去推力矢量控制。也就是对推力矢量控制进行隔离，这在助推器 9 上要容易得多，因为我们使用电动机来操纵发动机，而不是使用液压作动器；液压作动器之间有一个共用歧管。所以如果液压压力丧失，你可能会失去多台发动机。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 845.14,
+      "textEn": "Essentially if you have some kind of failure in the hydraulic system, the electric actuated engines will be much more isolated and not have like a single event failure as long as they did not lose power or comms.",
+      "textZh": "基本上，如果液压系统出现某种故障，电动作动的发动机将得到好得多的隔离，只要它们没有失去电力或通信，就不会出现类似单一事件故障的情况。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Host",
+      "startSec": 862.52,
+      "textEn": "Elon, since you've gone ahead and excavated your launch mount a bit, I assume you're going to go ahead and put in that the steel grid and the water deluge. Do you think that that will fully address the issue of the wider than expected debris field and are you expecting any pushback from environmental and kind of community groups that this, that this event did put debris where it wasn't expected?",
+      "textZh": "埃隆，既然你们已经把发射台基座挖开了一些，我想你们接下来会安装那个钢制格栅和喷水降温系统。你认为这会彻底解决碎片散布范围超出预期的问题吗？你是否预计环境和某种社区团体会因这次，这次事件把碎片散落到原本没有预料到的地方而提出任何反对？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 891.51,
+      "textEn": "Yeah, we're going to be putting down a lot of steel I mean the debris is really just, you know, basically sand.",
+      "textZh": "是的，我们会铺设大量钢材，我的意思是，那些碎片其实只是，你知道，基本上就是沙子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 903.92,
+      "textEn": "So it's not like, not toxic at all or anything. It's just like a sandstorm essentially. Basically a human made sandstorm. But we don't want to do that again.",
+      "textZh": "所以它并不是，比如说，完全没有毒性或什么的。它基本上就像一场沙尘暴。基本上是一场人为制造的沙尘暴。但我们不想再这样做了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 915.36,
+      "textEn": "So we were going to be putting down a very strong steel sandwich that basically a water jacketed sandwich that's two layers of very thick plate steel that are also perforated on the upper side so that you have what is basically a massive super strong steel shower head pointing up.",
+      "textZh": "所以我们原本要铺设一个非常坚固的钢制夹层结构，基本上是一个带水套的夹层结构，由 2 层非常厚的钢板构成，上层也有穿孔，这样你得到的基本上就是一个朝上的、巨大且超级坚固的钢制花洒喷头。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 946.97,
+      "textEn": "And then the water pressure coming out of there has to exceed the pressure of the engines. Thrust is exerting on the, on the steel plate, on the, beneath the launch stand. So which is all doable and being done. And so it should be much, much less dusty and we should not have a rock tornado with the next flight.",
+      "textZh": "然后，从那里喷出的水压必须超过发动机推力施加在钢板上的压力，在发射台下方的，那块钢板上。所以这完全可以做到，也正在做。因此尘土应该会少得多，而且下一次飞行时我们应该不会再出现岩石龙卷风。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 968.8,
+      "textEn": "Hey Elon, it's Joey from Reuters. Why couldn't you install that before this launch? Was that a technical reason or a regulatory reason?",
+      "textZh": "嘿，埃隆，我是路透社的乔伊。为什么你们不能在这次发射前安装它？那是技术原因还是监管原因？",
+      "speakerZh": "记者（路透社）"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 977.52,
+      "textEn": "It wasn't ready. So it's not like we expected. If we'd expected to dig a hole, we would not have flown. So the reason we would not expect to excavate a hole, we'd done a static fire of the booster and that had just resulted in fairly modest erosion of the coal high strength concrete at the base, which is called fondag. It's a sort of special, basically the strongest, highest temperature form of concrete that you can get steel reinforced and everything.",
+      "textZh": "它还没准备好。所以并不是我们预料到了。如果我们预料到会挖出一个坑，我们就不会发射。我们之所以没有预料到会挖出一个坑，是因为我们对助推器进行过静态点火，而那次只在基座的煤高强度混凝土上造成了相当有限的侵蚀，这种混凝土叫作 fondag。它是一种特殊的、基本上是你能得到的强度最高、耐温最高的混凝土形式，有钢筋加固之类的一切。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 1018.97,
+      "textEn": "And so it, we thought, we thought it would be fine for one launch. We would erode some amount of the concrete. But that it would be fine, we certainly didn't expect to effectively what looks like like when we went up to full thrust probably shattered the concrete.",
+      "textZh": "所以它，我们认为，我们认为它应付 1 次发射没问题。我们会侵蚀掉一定量的混凝土。但它会没问题，我们当然没有预料到，实际上看起来像是当我们提升至全推力时，可能震碎了混凝土。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 1037.01,
+      "textEn": "So is it possible that the base layer failed first and not the actual vondag layer on top? It is.",
+      "textZh": "所以，有没有可能是基层先失效，而不是上面的实际 vondag 层？有可能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 1045.33,
+      "textEn": "So we are getting into some amount of speculation here, but it's one of the explanations and one of the more probable explanations is that when we went up to full thrust that the, that we may have compressed the sand underneath the concrete to such a degree that the concrete effectively bent and then cracked.",
+      "textZh": "所以我们现在正在进行一定程度的猜测，但其中一种解释，也是较有可能的一种解释，是当我们提升至全推力时，我们可能把混凝土下面的沙子压实到了这种程度，以至于混凝土实际上发生弯曲，随后开裂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 1074.66,
+      "textEn": "That is a leading theory.",
+      "textZh": "这是一个主要理论。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1077.86,
+      "textEn": "So as we definitely want to not have that gain and pondag was never our long term goal, we thought it would just be fine for one launch. We'd erode some fondag just as we did with the booster static fire. And then for the next launch we were going to put in the sort of steel, mega steel pancake. This thing's a beast. It's like",
+      "textZh": "所以，因为我们肯定不想要那种增益，而且 pondag 从来都不是我们的长期目标，我们只是认为它应付 1 次发射没问题。我们会侵蚀掉一些 fondag，就像助推器静态点火时那样。然后在下一次发射时，我们原本要安装那种钢制的、巨型钢铁薄饼。这个东西是个庞然大物。它就像",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 1104.4,
+      "textEn": "why the steel pancake over like a flame trench or something like that.",
+      "textZh": "为什么选择钢铁薄饼，而不是类似导流槽之类的东西？",
+      "speakerZh": "记者（路透社）"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1111.09,
+      "textEn": "Well, you can do it either way.",
+      "textZh": "嗯，两种方式都可以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1114.21,
+      "textEn": "But the. And that's. There's different schools of thought there. The important thing is that you have a regeneratively cooled, like wherever the flame is hitting that, that is regeneratively and evaporatively cooled.",
+      "textZh": "但这个。而那是。对此存在不同的观点流派。重要的是要有再生冷却，比如无论火焰击中哪里，那里都要通过再生方式和蒸发方式冷却。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1131.25,
+      "textEn": "So what you'll see is quite a big steam cloud, but not a dust cloud.",
+      "textZh": "所以你们会看到相当大的一团蒸汽云，但不是尘埃云。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 1138.19,
+      "textEn": "So the, you know, so, and we've run sims, you know, both. Both ways. And you could do it both ways, but. And they both work.",
+      "textZh": "所以，这个，你知道，所以，而且我们已经做过模拟，你知道，两种。两种方式。两种方式都可以，但。而且两种都能奏效。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1148.67,
+      "textEn": "The acoustic environment is worse with the flat plate, as you might imagine. But the payload is so far up in the. It's like, you know, Your payload's like 400ft away from where the plane, from where the plume is impinging. So it's so far away that the acoustics are actually not that bad in the payload fairing. So we don't have to worry too",
+      "textZh": "正如你可能想象的那样，使用平板时声学环境更糟。但有效载荷在很高的位置。就像，你知道，你的有效载荷距离那个平面、距离羽流冲击的位置大约有400英尺。所以它离得非常远，实际上有效载荷整流罩内的声学环境并没有那么糟。所以我们不必太",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Host",
+      "startSec": 1170.13,
+      "textEn": "much about",
+      "textZh": "过担心",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Elon Musk",
+      "startSec": 1173.17,
+      "textEn": "it being too loud in the payload fairing. And yeah, so it can be done either way, but this is one way and we're pretty confident this will work.",
+      "textZh": "有效载荷整流罩内的声音太大。而且，是的，两种方式都可以做到，但这是其中一种方式，我们相当有信心它会奏效。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 1190.55,
+      "textEn": "And we're going to extend the steel out beyond just underneath the rocket because we want to make sure we don't sort of dig up concrete elsewhere. And then we're going to connect the load of the sort of massive steel sandwich underneath the launch pad into the launch mount legs so it can take that load intention as well as compression.",
+      "textZh": "而且我们会把钢结构向外延伸，不只是铺在火箭正下方，因为我们想确保不会在其他地方把混凝土挖起来。然后，我们会把发射台下方那种巨型钢制夹层所承受的载荷连接到发射支架的支腿上，这样它既能承受载荷意图，也能承受压力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 1226.85,
+      "textEn": "So anyway, I think we feel pretty good about that. You'll see it come together in the next month or so.",
+      "textZh": "所以不管怎样，我认为我们对此感觉相当不错。你们会在接下来大约1个月里看到它逐步成形。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 1234.53,
+      "textEn": "But like I said, that actually does not currently appear to be what prevented the rocket from getting further than it did.",
+      "textZh": "但正如我所说，目前看来，实际上并不是这个因素阻止火箭飞得比实际达到的位置更远。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1246.28,
+      "textEn": "There was.",
+      "textZh": "当时有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 1248.44,
+      "textEn": "There appears to be perhaps a flame path somewhere within the vehicle structure that as some of the engines failed, there may have been what appeared to be like a flame path to a piece of avionics or control system that knocked out the thrust vector control. So once you knock out thrust vector control, the rocket no longer has steering authority.",
+      "textZh": "飞行器结构内部某处似乎可能存在一条火焰路径，随着一些发动机失效，可能出现了一条看起来像是通往某个航空电子设备或控制系统部件的火焰路径，导致推力矢量控制失效。所以一旦推力矢量控制失效，火箭就不再具有转向控制能力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Panelist",
+      "startSec": 1283,
+      "textEn": "What things do you think went better than you expected and what things went worse than you expected?",
+      "textZh": "你认为哪些事情比预期进展得更好，哪些事情比预期更糟？",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 1297.41,
+      "textEn": "It was pretty close to what I expected, at least for this flight. It was pretty close to what I expected.",
+      "textZh": "至少对这次飞行来说，情况和我的预期相当接近。和我的预期相当接近。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 1307.57,
+      "textEn": "So,",
+      "textZh": "所以，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Panelist",
+      "startSec": 1309.73,
+      "textEn": "I mean, getting past Max Q was a pretty big deal. I was actually quite shocked. I don't know why. That whole, the fins and the flaps up front and all that stuff, especially starting to lose control authority with TVC going out, that was pretty impressive that the thing just kept, you know, chugging along and punching right through. So that was my big one. If it Made it through Max Q. I was going to consider that a pretty big milestone for sure.",
+      "textZh": "我的意思是，飞过最大动压点是一件相当了不起的事。我其实非常震惊。我不知道为什么。整个，那些翼片和前面的襟翼以及所有那些东西，尤其是在推力矢量控制失效、开始丧失控制能力的情况下，那东西居然就这么继续，你知道，费力前进并直接冲了过去，这相当令人印象深刻。所以这对我来说是最重要的一点。如果它成功穿过最大动压点。我肯定会认为那是一个相当重要的里程碑。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 1333.37,
+      "textEn": "Yeah, definitely. That's for sure an important milestone. And it got pretty close to stage separation.",
+      "textZh": "是的，绝对是。那肯定是一个重要的里程碑。而且它已经非常接近级间分离了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 1340.65,
+      "textEn": "So if we had maintained thrust vector control and throttled up, which we, we should have because we needed to compensate, we'd lost too many engines. So we needed to, we should have throttled up the remaining engines to make up for the missing ones. But if we're not lost, if we throttled up the remaining engines and maintained thrust vector control, we would have made it to staging, which would be cool. So yes, that's our goal for the next flight is make it to staging and hopefully succeed in staging and get to orbit.",
+      "textZh": "所以，如果我们维持住了推力矢量控制并提高推力，而我们，我们本应这么做，因为我们需要进行补偿，我们损失了太多发动机。所以我们需要，我们本应提高其余发动机的推力，以弥补缺失的那些。但如果我们没有损失，如果我们提高了其余发动机的推力并维持住推力矢量控制，我们本可以到达分级阶段，那会很酷。所以，是的，我们下一次飞行的目标是到达分级阶段，并希望成功完成分级并进入轨道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 1381.9,
+      "textEn": "So I think, I think we've got a decent shot of getting to orbit with the next flight.",
+      "textZh": "所以我认为，我认为我们下一次飞行有相当不错的机会进入轨道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Panelist",
+      "startSec": 1384.78,
+      "textEn": "Did the, did the booster command separation? Like, did it actually try letting go of starship and it just couldn't because of something or did it not even get that far in the program?",
+      "textZh": "助推器有没有，助推器有没有发出分离指令？比如说，它是否真的尝试释放星舰，只是因为某种原因没能做到，还是程序根本没有运行到那一步？",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 1396.78,
+      "textEn": "No, it fortunately did not get to the point where it would do separation. One could argue that at the point which the booster is kaput, the ship may as well just take off and, you know, keep going. But the, the problem is that we, we have a very precise targeted entry point in the Pacific. So it, the, the ship really wouldn't have the delta blast the capability of reaching that target points. Yeah, you, so even if you wouldn't",
+      "textZh": "没有，幸运的是，它还没到会进行分离的阶段。可以说，在助推器报废的时候，飞船干脆不妨直接起飞，然后，你知道，继续飞。但问题是，我们在太平洋有一个非常精确的目标再入点。所以，飞船实际上不会有抵达那个目标点所需的德尔塔爆炸能力。是的，你，所以即使你不会",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Panelist",
+      "startSec": 1429.96,
+      "textEn": "want it re entering over Africa or something and then just touching down randomly.",
+      "textZh": "希望它在非洲上空再入之类的，然后随便找个地方着陆。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 1434.48,
+      "textEn": "Yeah, exactly. So, yeah, so it's, it would only be worth really starting the ship if the ship is able to complete its mission and, and reach its targeted landing point just west of Hawaii.",
+      "textZh": "是的，完全正确。所以，是的，只有在飞船能够完成任务，并抵达夏威夷以西的目标着陆点时，真正启动飞船才值得。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Host",
+      "startSec": 1453.53,
+      "textEn": "Elon, would you change the flight profile all and what would you have to do to actually reach orbit as opposed to the 146 miles that this one seemed like that would have been the max altitude?",
+      "textZh": "埃隆，你会完全改变飞行剖面吗？要真正进入轨道，而不是达到这一次看起来会是最高高度的146英里，你们需要做些什么？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 1467.93,
+      "textEn": "Yeah, well, yeah, so orbit's mostly about velocity rather than altitude. But I'd say like, I think we've got a better than 30% chance of reaching orbit on the next flight.",
+      "textZh": "是的，嗯，是的，所以轨道主要取决于速度，而不是高度。但我会说，我认为我们下一次飞行进入轨道的概率超过30%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1481.64,
+      "textEn": "So I'd say that my expectation for the next flight would be more likely to reach orbit than not.",
+      "textZh": "所以我会说，我对下一次飞行的预期是，进入轨道的可能性大于无法进入轨道的可能性。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Panelist",
+      "startSec": 1490.04,
+      "textEn": "And are you actually, are you going to be attempting orbit or like doing the same profile of reentering over Hawaii and that whole thing?",
+      "textZh": "那你们实际上会，你们会尝试进入轨道，还是会采用同样的飞行剖面，在夏威夷上空再入以及整套流程？",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1497.16,
+      "textEn": "Yeah, we're just going to do a repeat. Basically the goal of these early missions is just information. Like we don't have any payload or anything. It's, let's try to learn as much as possible and you know, so, and so that's why I would consider this to be a success. Because since the goal of the flight was to learn a lot and we learned a lot, I would characterize it as a success. Obviously not a complete success, but still nonetheless successful.",
+      "textZh": "是的，我们只会再重复一次。基本上，这些早期任务的目标只是获取信息。比如我们没有任何有效载荷或别的东西。就是，让我们尽可能多地了解情况，你知道，所以，所以这就是为什么我会认为这是一次成功。因为这次飞行的目标是学到很多东西，而我们也学到了很多，所以我会将其定性为成功。显然不是彻底的成功，但尽管如此仍然是成功的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1527.16,
+      "textEn": "And you know, I always want to frame this, the difficulty of this with respect to the, you know, the sort of Soviet Union Warsaw Pact rocket developments of the past for which I have a lot of respect.",
+      "textZh": "而且，你知道，我总想参照过去苏联华沙条约组织的火箭研发来说明这件事的难度，我对那些研发非常尊重。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1543.19,
+      "textEn": "Back when Russia and Ukraine were working together, they made great, they did great stuff in space, I have to say.",
+      "textZh": "当年俄罗斯和乌克兰合作的时候，他们取得了很大的，他们在太空领域做出了很棒的成果，我必须这么说。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1550.63,
+      "textEn": "Yeah, definitely. Maybe one day they can return to that much more productive. So like the N1 program is always worth. I always recommend people read the history of the, the Soviet N1 program, which was the competitor rocket to the Saturn 5 US Saturn 5 moon rocket.",
+      "textZh": "是的，当然。也许有一天，他们能恢复到那样，更有成效。所以，像N1计划总是值得。我一直建议大家读一读苏联N1计划的历史；它是土星5号的竞争型火箭，也就是与美国的土星5号登月火箭相竞争的型号。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 1575.36,
+      "textEn": "And that's, that's a point you're talking about like you know, late 60s, early 70s where the, the Soviets were really at their A game. I mean they were just really fantastic. They. So they had A plus players. It's fair to say that their motivation was maximized. Like, you know, success means you're a hero of the Soviet Union failure, you're probably going to the gulag. So it's like so A plus players, maximum motivation.",
+      "textZh": "而且那，那就是你谈到的那个时期，比如，你知道，60年代末、70年代初，当时苏联人确实处于最佳状态。我是说，他们真的非常出色。他们。所以他们拥有A+级人才。可以说，他们的动力被提升到了最大。比如，你知道，成功意味着你会成为苏联英雄，失败了，你可能就要去古拉格了。所以就是，A+级人才，最大程度的动力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 1608.25,
+      "textEn": "And still the N1 failed. It never restorated. So you know, so those are, that, that's a team for one. You really have to have a tremendous amount of respect for the N1 team. And they did not succeed. So.",
+      "textZh": "但N1仍然失败了。它从未复原。所以，你知道，所以那些是，那，那是一支团队，首先。你确实必须对N1团队怀有极大的敬意。而他们没有成功。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Panelist",
+      "startSec": 1622.52,
+      "textEn": "And it didn't help that Glushko never wanted that thing anyway. He wanted his, he wanted his own mega rocket. Then once Corlea Coraliev died, it was, it was game over for that poor thing.",
+      "textZh": "而格卢什科本来就从未想要过那个东西，这也没有帮助。他想要他的，他想要自己的巨型火箭。后来科尔利亚·科拉利耶夫去世后，那个可怜的东西就彻底完了。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 1635.08,
+      "textEn": "I mean the Soviet Union certainly suffered a massive loss with Karlov dying. You know, he was there sort of on Brown basically. So that car was awesome. It's like, it's like losing your best player at the worst time really. But, but nonetheless it's, there were so many super smart people in that program and, and they really knew what they were doing with rockets and maximum motivation. They did not succeed. So it's just worth bearing that that the N1 is the closest to starship of any rocket that's flown alone.",
+      "textZh": "我是说，卡尔洛夫的去世无疑让苏联遭受了巨大损失。你知道，他基本上有点像他们那边的布朗。所以那辆车太棒了。这就像，这就像在最糟糕的时候失去你最优秀的选手，真的。但是，但尽管如此，那个项目里有如此多极其聪明的人，而且，而且他们确实知道该怎么造火箭，并且动力达到了最大程度。他们没有成功。所以值得记住的是，在所有单独飞过的火箭中，N1是最接近星舰的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1671.95,
+      "textEn": "And our starship is actually a bit more risky in some ways in that we've got a cryogenic fuel. And the thing about a cryogenic fuel is it can gasify and form sort of fuel oxygen pockets and that kind of thing. It's always harder to deal with the gas with a cryogenic fuel than with A fuel that is liquid at room temperature, like kerosene, you know, basically rocket grade jet fuel, which is what falcon and the N1 used.",
+      "textZh": "而我们的星舰实际上在某些方面风险更高，因为我们使用的是低温燃料。低温燃料的问题在于，它可能气化，并形成某种燃料与氧气的气团之类的东西。低温燃料产生的气体总是比室温下呈液态的燃料更难处理，比如煤油，你知道，基本上就是火箭级喷气燃料，这正是猎鹰和N1所使用的燃料。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Elon Musk",
+      "startSec": 1705.54,
+      "textEn": "So we've got real risk in that respect. We're running a higher chamber pressure engine that's full flow stage combustion. So it's the most complex and difficult engine configuration. But the one with the highest efficiency and were using autogenous pressurization, which I don't think they did. And so those are things. And our scale is also bigger. So we're about twice the mass and about I think 60% more thrust than an N1.",
+      "textZh": "所以我们在这方面确实存在风险。我们运行的是一台燃烧室压力更高、采用全流量分级燃烧的发动机。所以这是最复杂、最困难的发动机配置。但也是效率最高的一种，而且我们正在使用自生增压，我认为他们没有使用。因此这些都是一些因素。而且我们的规模也更大。所以我们的质量大约是N1的2倍，推力则大约比N1高60%，我想。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Panelist",
+      "startSec": 1740.11,
+      "textEn": "So if you don't mind me asking here, why do you think Starship will succeed using a similar, you know, even not just the multi engine philosophy or anything like that, but just even the general like test by flying philosophy of the N1. Why do you think, you know, there's four flights, the N1 never made it to stage separation. Why do you think Starship will succeed in it? You know, with all the comparisons that are so similar to it?",
+      "textZh": "那么，如果你不介意我在这里问一下，你为什么认为星舰会成功？它采用了一种相似的，你知道，甚至不只是多发动机理念之类的，而是连整体上像N1那样通过飞行进行测试的理念也很相似。你为什么认为，你知道，N1进行了4次飞行，却从未到达级间分离。鉴于它与N1有这么多相似的对比之处，你为什么认为星舰会成功？",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Elon Musk",
+      "startSec": 1766.84,
+      "textEn": "Well, we do have a production line that if it, if it takes us 10 flights, we'll, we'll, we'll do it. You know, they would eventually have succeeded with the N1. They just decided that it was too expensive to continue and they wanted to do other things. So after they had those failures they, I guess it was probably pretty embarrassing, you know, at a national level. But.",
+      "textZh": "嗯，我们确实有一条生产线，如果需要，如果需要我们飞10次，我们就会，就会，就会做到。你知道，他们最终本来也会让N1取得成功。他们只是认为继续下去成本太高，而且他们想做其他事情。所以在经历那些失败后，他们，我猜那在国家层面可能相当令人难堪，你知道。但是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 1792.9,
+      "textEn": "I do think that the starship design like. So if you've got a, if you've got a rocket with light engines as we do, if you have extremely good engine isolation so that if an engine fails, it does not cause a failure of neighboring engine or the stage itself, you have a very robust design because then if you lose one of 33 engines, that's a 3% thrust loss, it's not a big deal.",
+      "textZh": "我确实认为，星舰的设计，比如。所以，如果你有一枚，如果你有一枚像我们这样配备轻型发动机的火箭，如果你的发动机隔离做得极其出色，使一台发动机失效时不会导致相邻发动机或箭体本身失效，那么你的设计就非常稳健，因为这样即使33台发动机中损失1台，也只是损失3%的推力，不是什么大问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 1823.52,
+      "textEn": "But if you do not have good engine isolation and an engine failure can domino to other engines or to parts of the stage, then you have an extremely unreliable design. So that's why with Booster seven, but especially Booster nine, we've gone through so much trouble to isolate the engines. And so if one engine goes wrong, it does not knock out other engines or damage the rest of the stage.",
+      "textZh": "但如果你的发动机隔离做得不好，一台发动机失效可能会像多米诺骨牌一样波及其他发动机或箭体的某些部分，那么你的设计就会极其不可靠。所以这就是为什么对于7号助推器，尤其是9号助推器，我们费了这么大力气来隔离发动机。这样，如果1台发动机出了问题，它就不会导致其他发动机停止工作，也不会损坏箭体的其余部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 1855.26,
+      "textEn": "Yeah. So I think when all is said and done, this will be an extremely reliable design. But it's absolutely fundamental to achieve engine isolation.",
+      "textZh": "是的。所以我认为，等一切尘埃落定后，这会是一种极其可靠的设计。但实现发动机隔离绝对是根本性的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Host",
+      "startSec": 1865.98,
+      "textEn": "Do you expect HLS to be Starship? HLS to be the long pole for Artemis 3?",
+      "textZh": "你预计HLS会是星舰吗？HLS会成为阿尔忒弥斯3号的瓶颈吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 1873.58,
+      "textEn": "No, I definitely don't.",
+      "textZh": "不，我肯定不这么认为。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 1877.1,
+      "textEn": "I think we will be the first thing to really Be. I think we'll. No, I think we will be, yeah. That we will not be a limiting factor at all.",
+      "textZh": "我认为我们将是第一个真正成为。我想我们会。不，我想我们会的，是的。我们根本不会成为限制因素。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 1890.87,
+      "textEn": "Elon, how much do you expect to spend in this kind of like, you know, prototype development phase before one of these starships actually starts flying real payloads, either, you know, Starlink or otherwise? And how many kind of tests are you targeting before that?",
+      "textZh": "埃隆，在这种，怎么说呢，原型开发阶段，你预计要花多少钱，才能让其中一艘星舰真正开始运载实际载荷飞行，不管是，你知道，星链还是其他载荷？在那之前，你们的目标是进行多少次这样的测试？",
+      "speakerZh": "记者（路透社）"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 1907.6,
+      "textEn": "Well, I'm hoping we can get",
+      "textZh": "嗯，我希望我们能完成",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Host",
+      "startSec": 1911.28,
+      "textEn": "four",
+      "textZh": "4次",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 1911.68,
+      "textEn": "flights out this year, maybe five.",
+      "textZh": "今年的飞行，也许5次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Elon Musk",
+      "startSec": 1915.84,
+      "textEn": "And we should be. I would be. I would be surprised if we exit this year without getting to orbit.",
+      "textZh": "而且我们应该会。我会感到。如果到今年结束时我们还没有进入轨道，我会感到惊讶。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1925.52,
+      "textEn": "I'd say it's not. It's not. It's not 100% probably, but I think we've probably got an 80% plus probability of reaching orbit this year. And pretty. I don't want to tempt fate here, knock on wood, but I think close to 100% chance reaching orbit within 12 months.",
+      "textZh": "我会说这不是。不是。不是100%，可能吧，但我认为我们今年进入轨道的概率可能有80%以上。而且相当。我不想在这里招惹命运，敲敲木头，但我认为在12个月内进入轨道的概率接近100%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 1945.39,
+      "textEn": "You know, the thing to bear in mind is like, SpaceX is actually quite good at production, so like extremely, like the best in history of any rocket maker with production. I mean, we're making a Falcon 9 upper stage, which is a large, complex machine every three or four days, so.",
+      "textZh": "你知道，需要记住的一点是，SpaceX其实相当擅长生产，所以，可以说极其擅长，就生产而言，是历史上所有火箭制造商中最出色的。我的意思是，我们每3或4天就制造一个猎鹰9号上面级，那是一台庞大而复杂的机器，所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Panelist",
+      "startSec": 1968.81,
+      "textEn": "And a Raptor every day.",
+      "textZh": "而且每天制造一台猛禽发动机。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 1970.01,
+      "textEn": "Right now, yes, we're capable. We're actually slowed it down slightly because we've got more Raptors than we know what to do with.",
+      "textZh": "目前，是的，我们有这个能力。实际上，我们稍微放慢了速度，因为我们的猛禽发动机多得不知道该怎么处理。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 1977.93,
+      "textEn": "So we're actually focusing a bit more on the Raptor side on upgrades mostly to improve the reliability and robustness of the engine, some performance improvements as well.",
+      "textZh": "所以在猛禽发动机方面，我们实际上把更多精力放在升级上，主要是提高发动机的可靠性和坚固性，同时也进行一些性能改进。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 1993.14,
+      "textEn": "And the cost of all this, like, I guess, how much do you expect to spend on all that either this year or before you start flying real payloads?",
+      "textZh": "还有这一切的成本，就是，我想问，你预计今年或在开始运载实际载荷之前，要在所有这些方面花多少钱？",
+      "speakerZh": "记者（路透社）"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 2004.42,
+      "textEn": "Well, it's probably be a couple billion dollars this year. $2 billion. Ish.",
+      "textZh": "嗯，今年可能会花20亿美元左右。大约20亿美元。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 2012.53,
+      "textEn": "All in on Sasha.",
+      "textZh": "全押在萨莎身上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 2015.25,
+      "textEn": "And there's a kind of a struggle by other companies to raise funds lately for a number of reasons. And SpaceX has usually kind of been insulated from that. But do you see any kind of difference nowadays? Is SpaceX kind of thinking about fundraising differently and does that affect how, you know, the pressure on this starship program at all?",
+      "textZh": "最近，由于多种原因，其他公司在融资方面有些艰难。而SpaceX通常算是没有受到这种情况的影响。但你如今看到任何不同了吗？SpaceX现在对融资的考虑方式是否有所不同？这是否会以任何方式影响，你知道，这个星舰项目所承受的压力？",
+      "speakerZh": "记者（路透社）"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 2035.57,
+      "textEn": "We do not anticipate needing to raise funding.",
+      "textZh": "我们预计不需要筹集资金。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Elon Musk",
+      "startSec": 2040.67,
+      "textEn": "No, we don't think we need to raise funding. We'll do a standard thing where we provide liquidity to employees who own stock. But to best of my knowledge, we do not need to raise incremental funding for SpaceX.",
+      "textZh": "不，我们认为不需要筹集资金。我们会按惯例，为持有股票的员工提供流动性。但据我所知，我们不需要为SpaceX筹集增量资金。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 2057.23,
+      "textEn": "And Elon, you want to be sensitive?",
+      "textZh": "还有埃隆，你想保持敏感吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 2061.15,
+      "textEn": "Yeah, probably like another five, ten minutes.",
+      "textZh": "是的，可能再来个5、10分钟。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Panelist",
+      "startSec": 2063.55,
+      "textEn": "Okay, cool. Yeah, I was going to say how much time and I did want to get. Be fun to get some new People in here, John Kraft, I know, hasn't said anything yet. And also Mary Liz. So John, I saw you starting to speak there for a second.",
+      "textZh": "好的，很好。是的，我正想问还有多少时间，而且我确实想让。让一些新人进来会很有意思，约翰·克拉夫特，我知道，他还什么都没说。还有玛丽·利兹。那么约翰，我刚才看到你开始说话了片刻。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 2076.379,
+      "textEn": "Yeah, I have a fun question. So the lean off the pad, was that intentional? Was it more than you thought it might be? Was it related to the engines out and do you expect to do that on like future, more operational launches?",
+      "textZh": "好的，我有个有趣的问题。火箭离开发射台时的倾斜，是有意为之吗？倾斜幅度比你原以为的更大吗？这是否与发动机熄火有关？你们预计未来那些更具运营性质的发射也会这样做吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 2091.419,
+      "textEn": "No, we're not. It was related to the engines out and we do not normally expect to lean. It should be aspirationally going straight up. So there will be some debate as to. Because you can. So for the next flight, we're going to start the engines faster and get off the pad faster. Like I think we're from start, from engine start to actually moving was around five seconds, which is really a long time to be blasting the, the pad.",
+      "textZh": "不，我们不会。那与发动机熄火有关，我们通常不希望它倾斜。理想目标应该是笔直上升。所以关于这一点会有一些争论。因为你可以。所以对于下一次飞行，我们会更快启动发动机，更快离开发射台。我想，从启动、从发动机启动到真正开始移动，大约用了5秒，而这段时间真的很长，发射台一直承受着猛烈喷流。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Elon Musk",
+      "startSec": 2122.01,
+      "textEn": "We're going to try to get that down to about half that time, maybe two and a half seconds.",
+      "textZh": "我们会努力把时间缩短到大约一半，也许是2.5秒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 2129.05,
+      "textEn": "Start the engines faster and throttle up faster and just get off, get off the deck and don't, you know, reduce how much we blast the pad. And then there's a, there's a debate of do you keep the rocket over the pad, in which case you, there's more cooking of the, the base or do you start, do you start moving sideways sooner? If you move sideways sooner, you are moving that big cutting torch across the launch room. So if you can think of this thing like the world's biggest cutting torch basically.",
+      "textZh": "更快启动发动机，更快加大推力，然后直接离开、离开平台，不要，你知道，减少我们对发射台的猛烈喷射。然后还有一个争论，就是要不要让火箭保持在发射台上方；如果这样，你就会更严重地灼烧底部；还是更早开始、开始横向移动？如果更早横向移动，就等于让那把巨大的切割炬扫过发射室。所以基本上，你可以把这东西想成世界上最大的切割炬。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Elon Musk",
+      "startSec": 2159.42,
+      "textEn": "And so it like we have big steel plates over the top of launch ring, but I think depending on how close the engines are, they are, they erode that steel at a roughly and I think half, half an inch to an inch per second of high strength steel is eroded by the cutting torch. So you don't want to be too, you want the engines to be too close to the launch ring before you start moving sideways. Well, and with it doing that, what's the optimal.",
+      "textZh": "所以，就像，我们在发射环顶部覆盖了大型钢板，但我想，根据发动机距离有多近，它们会侵蚀那种钢材，大致，我想，每秒会被切割炬侵蚀掉半英寸到1英寸的高强度钢。所以你不希望太……你希望发动机在开始横向移动前离发射环太近。嗯，而在那种情况下，最理想的是什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Panelist",
+      "startSec": 2194.87,
+      "textEn": "Yeah, and on this one, as it did move across the launch ring because it kind of yeeted out there sideways. Did it torch the top of the launch ring too bad or did it",
+      "textZh": "对，这一次，它确实从发射环上方横移了过去，因为它算是猛地横着蹿了出去。它有没有把发射环顶部烧得太严重，还是说它",
+      "speakerZh": "小组成员"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Elon Musk",
+      "startSec": 2203.8,
+      "textEn": "actually hold up pretty good? It actually held up surprisingly well. So we actually, we're glad to see that there's, there appears to be minimal damage to the launch ring and to the components inside the launch ring. So that's, that's great because that launch ring is, you know, takes six months to build up a new launch ring. We have some spares, but there's a lot of complex plumbing and wiring inside launch ring and that actually appears to be in good shape.",
+      "textZh": "实际上撑得相当不错？它实际上撑得出人意料地好。所以我们其实很高兴看到，发射环以及发射环内部的部件似乎只受到了极小的损伤。所以这很好，因为那个发射环，你知道，建造一个新的发射环需要6个月。我们有一些备用件，但发射环内部有大量复杂的管路和线路，而它们实际上似乎状况良好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 2231.21,
+      "textEn": "I just had one quick question. Speaking of that launch ring, kind of like liftoff conditions topic, why couldn't you wait like a month to install that steel plate for it to be ready? Why launch before that's ready?",
+      "textZh": "我只有一个简短的问题。说到那个发射环，也就是类似起飞条件的话题，为什么你们不能再等大约1个月，等那块钢板安装好、可以使用？为什么要在它准备好之前发射？",
+      "speakerZh": "路透社记者"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Elon Musk",
+      "startSec": 2247.29,
+      "textEn": "As I said, we did the static fire of the booster with the concrete, the pondaging, and we saw, you know, manageable amounts of erosion. So we thought the launch would have increased erosion but would not smash the concrete. So it was not our expectation to smash the concrete. We did not think it would. That would occur. Based on the data we saw from the static fire. If we thought that would occur, then we would have.",
+      "textZh": "正如我所说，我们在混凝土和“庞达金”的条件下，对助推器进行了静态点火，而且我们看到的侵蚀量，你知道，是可控的。所以我们认为发射会加剧侵蚀，但不会砸碎混凝土。因此，我们并没有预料到混凝土会被砸碎。我们认为不会。发生那种情况。依据是我们从静态点火中看到的数据。如果我们认为会发生那种情况，那么我们本来会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 2283.14,
+      "textEn": "We would have waited for the steel. The steel was really meant not is intended to be have a launch pad that requires minimal. Basically no refurbishment.",
+      "textZh": "我们本来会等钢板准备好。那块钢板真正的用途并不是，是为了实现一座只需要极少维护的发射台。基本上不需要翻修。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Elon Musk",
+      "startSec": 2297.06,
+      "textEn": "That's the intent of the sort of water cools the mega steel sandwich.",
+      "textZh": "这就是那种水冷却巨型钢制夹层的目的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 2305.54,
+      "textEn": "And was the communications blackout the reason the staging event didn't happen, or was it because it just didn't get to that point and started tumbling before?",
+      "textZh": "通信中断是没有进行级间分离的原因吗？还是因为它根本没有飞到那个阶段，之前就开始翻滚了？",
+      "speakerZh": "路透社记者"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Elon Musk",
+      "startSec": 2315.07,
+      "textEn": "Yeah, it just, it just didn't get to what we consider to be a safe point to do stage separation. Now, I should point out, like stage separation itself is a dodgy thing and many a rocket in the past has failed at stage separation. So we're putting a lot of attention on. I got, you know, like I said, I don't want to get too confident, but I feel like it's. We're really quite likely to get to stage separation with the next flight.",
+      "textZh": "对，它只是、只是没有到达我们认为可以安全进行级间分离的位置。现在，我应该指出，级间分离本身是一件有风险的事，过去有很多火箭都在级间分离时失败了。所以我们正把大量注意力放在这上面。我觉得，你知道，就像我说的，我不想过于自信，但我感觉这件事。我们在下一次飞行中很有可能真的能够进行级间分离。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Elon Musk",
+      "startSec": 2348.18,
+      "textEn": "And so then we want to make sure that we actually execute the stage separation because it is different from Falcon.",
+      "textZh": "所以接下来，我们要确保真正完成级间分离，因为它与Falcon不同。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Elon Musk",
+      "startSec": 2360.34,
+      "textEn": "It's. Yeah. So we want to get through that stage separation, light the ship and complete almost a full orbit. It's actually got.",
+      "textZh": "这。对。所以我们要完成那次级间分离，点燃飞船，并完成几乎一整圈轨道飞行。它实际上有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 2377.13,
+      "textEn": "The delta plastic is almost identical to orbit.",
+      "textZh": "德尔塔塑料与轨道几乎完全相同。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Elon Musk",
+      "startSec": 2384.33,
+      "textEn": "So we actually could send it to a decently good orbit. But we want to test the entry system of the ship. So test the ship heat shield in the height. So get to orbit and then ideally de orbit with the ship so we can test the how well the heat shield works for the ship portion of the vehicle. Yeah, let's.",
+      "textZh": "所以我们实际上可以把它送入一个相当不错的轨道。但我们想测试飞船的再入系统。所以在高处测试飞船的隔热罩。因此，进入轨道，然后理想情况下让飞船脱离轨道，这样我们就能测试飞行器的飞船部分所使用的隔热罩效果有多好。好的，让我们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Panelist",
+      "startSec": 2407.99,
+      "textEn": "Let's grab one more. Mary Liz Bender, actually Mary Liz Shilinsky. Sorry, sorry.",
+      "textZh": "我们再请1位。Mary Liz Bender，其实是Mary Liz Shilinsky。抱歉，抱歉。",
+      "speakerZh": "小组成员"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Host",
+      "startSec": 2412.23,
+      "textEn": "Yeah, yeah, yeah. Figure out how to change my handle here, Elon. That launch was so epic. I don't know how you felt in mission control. Maybe you were nervous and paying attention to data. But for the rest of us that have witnessed years and years of Falcon launches and many other launches, I think it's safe to say that was the most epic launch of them all. And I hope you got a chance to really enjoy it. I was actually wondering about that moment in the room with your team, or maybe for you personally, like, how did this compare to the other firsts that you've gone through in the Falcon program with Hopper?",
+      "textZh": "对，对，对。埃隆，得想办法弄清楚怎么在这里改我的用户名。那次发射太震撼了。我不知道你在任务控制中心是什么感受。也许你当时很紧张，正专注于数据。但对我们其余这些见证了许多年Falcon发射以及许多其他发射的人来说，我想可以肯定地说，那是所有发射中最震撼的一次。我希望你有机会真正享受它。其实我想问的是，你和团队当时在房间里的那个时刻，或者也许就你个人而言，比如，它与此前你在Falcon计划和Hopper中经历的那些第一次相比怎么样？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Host",
+      "startSec": 2455.03,
+      "textEn": "Like, how did you feel?",
+      "textZh": "比如说，你当时感觉如何？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Elon Musk",
+      "startSec": 2459.67,
+      "textEn": "Yeah, no, I was very excited. I thought the SpaceX team did amazing work and this is really one of the hottest technical projects that humanity's ever done. I mean, this, I mean, if you say like fully reusable, humongous rocket, fully and rapidly reusable reliable rocket that of unusual size, This is certainly a candidate for hardest technical problem done by humans. Yeah, it's the candidate.",
+      "textZh": "对，不，我非常兴奋。我认为SpaceX团队的工作非常出色，而这确实是人类有史以来开展的最热门技术项目之一。我的意思是，这个，我的意思是，如果你说的是完全可重复使用、体型庞大的火箭，一枚尺寸非同寻常、能够完全且快速重复使用的可靠火箭，那么这当然堪称人类解决过的最难技术问题的候选者。对，它是候选者。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Elon Musk",
+      "startSec": 2497.64,
+      "textEn": "So I think the team's done excellent work on a very hard problem and I think we're actually, I'm upbeat about the next 12 months. I think we're going to get to orbit and then it'll probably take us a few more years to achieve reusability on a regular basis where we bring the booster back and bring the ship back and where it gets. It'll take a few years to get to where Falcon 9 is today, where it is now quite normal for the rocket to land.",
+      "textZh": "所以我认为团队在一个非常困难的问题上完成了出色的工作，而且我认为我们确实，我对未来12个月感到乐观。我认为我们会进入轨道，然后可能还需要几年时间，才能实现常态化重复使用，也就是让助推器返回、让飞船返回，并达到。还需要几年时间才能达到Falcon 9如今的水平，也就是火箭着陆现在已经相当寻常。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Elon Musk",
+      "startSec": 2529.64,
+      "textEn": "It'd be weird if it doesn't land these days.",
+      "textZh": "如今要是它不着陆，反倒会显得奇怪。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Host",
+      "startSec": 2532.28,
+      "textEn": "Isn't that wild?",
+      "textZh": "这是不是很疯狂？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Elon Musk",
+      "startSec": 2534.52,
+      "textEn": "Yeah, it's crazy. I mean, hitting the bullseye of a ship out in stormy weather, if that ship is not anchored, it's literally trying to keep position. It's holding to a GPS position and the rocket's flying to that position and it still manages to hit the bullseye in a storm.",
+      "textZh": "是啊，太疯狂了。我的意思是，在暴风雨天气里精准命中海上一艘船的靶心，如果那艘船没有抛锚，它实际上是在努力保持位置。它在维持一个 GPS 坐标位置，而火箭正飞向那个位置，并且仍然能在暴风雨中命中靶心。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Host",
+      "startSec": 2551.24,
+      "textEn": "You make it look, you guys make it look so easy. It's crazy every time to watch that happen.",
+      "textZh": "你让它看起来，你们让它看起来太容易了。每次看到这一幕发生都觉得太疯狂了。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Elon Musk",
+      "startSec": 2557.42,
+      "textEn": "Yeah.",
+      "textZh": "是啊。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Elon Musk",
+      "startSec": 2559.42,
+      "textEn": "Alexa, it's a testament to the awesome team.",
+      "textZh": "Alexa，这证明了这支出色团队的实力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 2563.82,
+      "textEn": "This will just be on my. Sorry, I just had one more question. There's a lot of opposition from these environmental groups in the area over the debris and I just wanted to kind of get your reaction to that, since some didn't expect the debris to go as far as it seemed to go. And if there is a legal challenge in court in know either against SpaceX or the FAA, how would SpaceX respond and what would that do to the timeline?",
+      "textZh": "这只会在我的。抱歉，我还有一个问题。当地这些环保团体对碎片问题有很多反对意见，我只是想了解一下你对此有何反应，因为有些人没想到碎片会散落到看起来那么远的地方。如果确实有人在法庭上提出法律挑战，你知道，无论是针对 SpaceX 还是美国联邦航空管理局，SpaceX 会如何回应，这又会对时间表产生什么影响？",
+      "speakerZh": "记者（路透社）"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Elon Musk",
+      "startSec": 2588.38,
+      "textEn": "Yeah, I think, you know, if you say like, for practical purposes, what was, I think, like, you, you, if you were to say like, like, like at this point, like, you know, look, look, look at an aerial picture of the, of the area and apart from the area around launch stand the tell me where things are damaged. It's actually, I think you can't even see it at this point. So the, it's not like the rocket, you know, uses non toxic propellants and you know, so it does scatter a lot of dust.",
+      "textZh": "是啊，我想，你知道，如果你说，比如，从实际角度来看，情况是什么，我想，比如，你、你，如果你要说，比如，比如，比如在这个时候，比如，你知道，看看、看看、看看该地区的航拍照片，除了发射台周围的区域外，告诉我还有哪里受到了破坏。实际上，我想这时候你甚至已经看不出来了。所以，这并不是说火箭，你知道，使用的是无毒推进剂，而且你知道，所以它确实扬起了大量尘土。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "Elon Musk",
+      "startSec": 2621.03,
+      "textEn": "But it's to the best of our knowledge, like there has not been any meaningful damage to the environment that we're aware of.",
+      "textZh": "但据我们所知，我们并未发现任何对环境造成的实质性破坏。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "Panelist",
+      "startSec": 2629.71,
+      "textEn": "And to be honest, I was out there at the pad two days after, there's a huge storm on Saturday. Like 70, 80 mile an hour winds. Yeah, it was intense and like I saw more debris coming off the shore from like people's docks, falling into the water and like capsized boats.",
+      "textZh": "说实话，发射两天后我就在发射台那里，星期六有一场巨大的风暴。风速大概每小时 70、80 英里。是啊，非常猛烈，而且我看到更多碎片从岸边飘来，比如人们的码头掉进水里，还有倾覆的船只。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 2644.26,
+      "textEn": "Yeah, that's true.",
+      "textZh": "是啊，确实如此。",
+      "speakerZh": "记者（路透社）"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "Panelist",
+      "startSec": 2645.18,
+      "textEn": "I did anything more than just some, some you know, bits of concrete which, you know.",
+      "textZh": "我做了任何超过只是一些、一些，你知道，混凝土碎块的事情，而那些，你知道。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Elon Musk",
+      "startSec": 2649.74,
+      "textEn": "Yeah, yeah. I mean to exceed the damage done by a hurricane is quite difficult. Hurricanes, nature, the power of nature is immense compared to. We are still feeble compared to the power of nature.",
+      "textZh": "是啊，是啊。我的意思是，要超过飓风造成的破坏相当困难。飓风、自然，自然的力量与……相比是巨大的。与自然的力量相比，我们仍然很弱小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Panelist",
+      "startSec": 2662.86,
+      "textEn": "Little tiny miniature hurricane.",
+      "textZh": "小小的微型飓风。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Elon Musk",
+      "startSec": 2666.25,
+      "textEn": "We're really tiny. Like I look at starship and it's like, wow, that seems so big to us humans. But, but if you zoomed out and we're looking at Earth from a distance, you, you wouldn't even see starship. It'd be like, I think I see a tiny little dot jumping off of the surface maybe, you know. Yeah, it's like we're like microbes trying to get from one dust mode to another dust mode.",
+      "textZh": "我们真的很渺小。比如我看着星舰，会觉得，哇，对我们人类来说它似乎如此巨大。但是，但是如果你把视野拉远，从远处观察地球，你、你甚至都看不到星舰。可能会像是，我想我看到一个微小的小点从地表跳起来了，也许吧，你知道。是啊，就像我们是微生物，试图从一种尘埃模式转移到另一种尘埃模式。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "Panelist",
+      "startSec": 2686.89,
+      "textEn": "Did you see the by the way, like pad footage of how like dark and crazy it got? Like, I mean it, it does, it's crazy because it looks so violent and wild, but you know, it looks like a miniature tornado just for you know, a minute there. But I mean some of the footage is actually terrifying to imagine, you know, if you were. Obviously no one's around it at the time, but it is nuts the amount of power that thing has.",
+      "textZh": "顺便问一下，你看到发射台的画面了吗，就是那里变得多么黑暗、多么疯狂？比如，我的意思是，它，它确实，这太疯狂了，因为看起来如此猛烈而失控，但你知道，有那么一会儿，它看起来就像一场微型龙卷风。但我的意思是，有些画面实际上让人感到恐惧，难以想象，你知道，如果你当时在那里会怎样。显然当时周围没有人，但那东西拥有的力量大得离谱。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Elon Musk",
+      "startSec": 2712.1,
+      "textEn": "Yes, it's.",
+      "textZh": "是的，它是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Elon Musk",
+      "startSec": 2714.66,
+      "textEn": "Yes. And we actually were recently looking at that at the like the, the raptor. The raptor throat we believe is the highest heat flux of any human made object ever.",
+      "textZh": "是的。实际上，我们最近就在研究那个，就是，猛禽。我们认为，猛禽发动机的喉部承受着所有人造物体中有史以来最高的热流密度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Panelist",
+      "startSec": 2729.63,
+      "textEn": "Whoa.",
+      "textZh": "哇。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "Elon Musk",
+      "startSec": 2730.43,
+      "textEn": "How does it survive? Somehow that plasma has to go through a throat.",
+      "textZh": "它是怎么撑住的？不知怎么地，那股等离子体必须穿过一个喉部。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Elon Musk",
+      "startSec": 2736.91,
+      "textEn": "How does that throat not melt?",
+      "textZh": "那个喉部怎么会不熔化？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Panelist",
+      "startSec": 2738.99,
+      "textEn": "That's crazy. And literally how does it. From a massive amount of film cooling and regenerative cooling.",
+      "textZh": "太疯狂了。实际上它到底是怎么做到的。靠大量的液膜冷却和再生冷却。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Elon Musk",
+      "startSec": 2745.86,
+      "textEn": "Yeah, I mean it's getting cool regen. It's like getting crazy regen cooling. And like we're flowing, you know, liquid methane at extreme pressure, you know, 11,000 psi through, through the, the jacket at. So it's ripping.",
+      "textZh": "是的，我是说，它在接受冷却再生。就像是在接受疯狂的再生冷却。而且我们让液态甲烷以极高的压力，你知道，11,000 psi，流经，流经那个夹套。所以它流得极其猛烈。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "Elon Musk",
+      "startSec": 2762.34,
+      "textEn": "And then you combine that with foam cooling and the best thermal barrier coatings we can come up with and, but it's still shocking that we do not vaporize the throat of that engine immediately.",
+      "textZh": "然后再把它与泡沫冷却以及我们能想出的最佳热障涂层结合起来，而且，但我们没有立刻把那台发动机的喉部汽化掉，仍然令人震惊。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "Elon Musk",
+      "startSec": 2777.56,
+      "textEn": "The heat transfer is so insane.",
+      "textZh": "热传递强得太离谱了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "Elon Musk",
+      "startSec": 2781.16,
+      "textEn": "So. But that's what, you know, we live on a planet with a lot, with strong gravity and a thick atmosphere. So this is what's needed if we're to become a spacefaring civilization and build a base on the moon and city on Mars and, you know, yeah, you know, multi planet species, which is, I think, a super exciting future. And I mean, at a high level, the super cool thing here is that, hey, this thing, this thing kind of works and we're going to solve the issues that are remaining and we'll get it to orbit and we'll make it reusable.",
+      "textZh": "所以。但是，这就是，你知道，我们生活在一颗具有很强引力和浓厚大气层的行星上。所以，如果我们要成为一个太空文明，在月球上建造基地、在火星上建造城市，并且，你知道，是的，你知道，成为多行星物种，这就是所需要的。我认为那是一个极其令人兴奋的未来。而且我是说，从宏观层面来看，这里超级酷的一点是，嘿，这东西，这东西算是能用了，而我们会解决剩下的问题，让它进入轨道，并使它可重复使用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0185",
+      "speakerEn": "Elon Musk",
+      "startSec": 2817.73,
+      "textEn": "And that that means that we have a real path here to get humanity to Mars.",
+      "textZh": "而那，那意味着我们现在确实有一条能把人类送上火星的道路。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "Elon Musk",
+      "startSec": 2825.66,
+      "textEn": "That's awesome.",
+      "textZh": "太棒了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "Elon Musk",
+      "startSec": 2827.82,
+      "textEn": "That's mind blowing. Elon, I want to let other people talk here, but I did want to say, just on behalf of all of us, that the production work that you guys put on, like the actual show, we all greatly appreciate it. I think that was like one of the most amazing launch coverages I've ever seen. And I think a lot of us were like hoping that you guys were going to give us cool angles and you guys by far exceeded the expectations.",
+      "textZh": "太令人震撼了。埃隆，我想让其他人在这里发言，但我确实想代表我们所有人说，你们投入的制作工作，比如实际呈现出来的节目，我们都非常感激。我认为那就像是我见过的最精彩的发射报道之一。我想我们很多人当时就像是在期待你们能给我们提供一些很酷的视角，而你们远远超出了预期。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0188",
+      "speakerEn": "Elon Musk",
+      "startSec": 2849.42,
+      "textEn": "So. Yeah, I greatly appreciate that and I think everybody else does as well. Thank you. Yeah, you guys are most welcome. And you know, I just want to say super appreciate your support and always looking for critical feedback and stuff. So support and critical feedback is always extremely welcome. And then thanks for helping bringing the public along for the ride. Because at the end of the day, if the support of the public is essential and it's also about inspiring the public, there are all these things in the world that are reasons to be sad about the future and say there's got to be things that wake up in the morning and inspire you and just be excited about the future of life.",
+      "textZh": "所以。是的，我非常感激，我想其他所有人也一样。谢谢。是的，非常欢迎各位。而且，你知道，我只想说，非常感谢你们的支持，也一直希望收到批评性反馈之类的意见。所以，支持和批评性反馈始终都非常受欢迎。然后也感谢你们帮助公众一同参与这段旅程。因为归根结底，如果公众的支持至关重要，而这也关乎鼓舞公众，这个世界上有各种各样的事情让人有理由对未来感到悲观，而且可以说，必须有一些事情能让你早晨醒来时受到鼓舞，并且就是对生命的未来感到兴奋。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "Elon Musk",
+      "startSec": 2898.14,
+      "textEn": "And this is one of them. And you guys are key to conveying that to the public. So thank you. You guys are. You guys are doing it for us as well. So it goes both ways. Hey, Elon, just a quick question. Chris from NSF, are you looking to",
+      "textZh": "而这就是其中之一。你们是向公众传达这一点的关键。所以，谢谢你们。你们也是。你们也在为我们做这件事。所以这是相互的。嘿，埃隆，只问一个简短的问题。我是 NSF 的 Chris，你们是否打算",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 2910.73,
+      "textEn": "fly with Booster 9 and ship 28 for this next flight?",
+      "textZh": "在下一次飞行中使用助推器 9 和飞船 28？",
+      "speakerZh": "NSF 记者"
+    },
+    {
+      "id": "p-0191",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 2916.09,
+      "textEn": "Are you still deciding that one? Because I know 25's at races, isn't it? I don't know if you're going with 25 or 28.",
+      "textZh": "你还在决定用哪一艘吗？因为我知道25号在比赛中，不是吗？我不知道你会选25号还是28号。",
+      "speakerZh": "NSF 记者"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "Elon Musk",
+      "startSec": 2923.05,
+      "textEn": "We've not made a final decision on the ship. That's why I was referring to Booster nine. But I was somewhat. I did not mention the ship number,",
+      "textZh": "我们还没有对飞船作出最终决定。所以我刚才提到的是助推器9号。但我有点。我没有提飞船编号，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0193",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 2930.32,
+      "textEn": "so",
+      "textZh": "所以",
+      "speakerZh": "记者（路透社）"
+    },
+    {
+      "id": "p-0194",
+      "speakerEn": "Elon Musk",
+      "startSec": 2933.2,
+      "textEn": "good catch there.",
+      "textZh": "你抓得很准。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0195",
+      "speakerEn": "Elon Musk",
+      "startSec": 2936.48,
+      "textEn": "Yeah, I think we'll probably make that decision this week. But I think we do want to bet on success in the sense that if we get to orbit, it would be super helpful to try to try the orbit and see how well the, the ship heat shield works because we need to maintain control in hypersonic high heating regime, then get through transonic and then maintain control all the way through a very wide array of marker regimes. And so the vehicle actually behaves differently with radically different heating and force at the various, you know, coming back from like roughly Mach 23 to 0.",
+      "textZh": "是的，我想我们可能会在本周作出决定。但我认为，从押注成功的意义上说，我们确实想这么做，因为如果我们进入轨道，尝试一下轨道并看看飞船的隔热罩工作得如何，会非常有帮助，因为我们需要在高超声速高热状态下保持控制，然后通过跨声速阶段，再一直在非常广泛的标志状态中保持控制。所以飞行器在各种不同阶段的表现实际上各不相同，所受的加热和作用力也有根本性的差异，你知道，从大约23马赫降到0。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0196",
+      "speakerEn": "Elon Musk",
+      "startSec": 2987.63,
+      "textEn": "So yes, we do, I think we want to have that option. So I think we'll put a ship on that gives us that capability. But we haven't decided exactly which ship number it should be.",
+      "textZh": "所以，是的，我们确实，我想我们想保留那个选项。所以我想我们会装上一艘能让我们具备那种能力的飞船。但我们还没有确切决定应该用哪一号飞船。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0197",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 3001.71,
+      "textEn": "Hey, Elon, this is Michael Sheets at cnbc. Quick question. On the launch tower side of things,",
+      "textZh": "嘿，埃隆，我是CNBC的迈克尔·希茨。问个简短的问题。关于发射塔这方面，",
+      "speakerZh": "记者（CNBC）"
+    },
+    {
+      "id": "p-0198",
+      "speakerEn": "Elon Musk",
+      "startSec": 3008.69,
+      "textEn": "have you cataloged the damage to the equipment?",
+      "textZh": "你们对设备的损坏情况进行登记了吗？",
+      "speakerZh": "记者（CNBC）"
+    },
+    {
+      "id": "p-0199",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 3011.05,
+      "textEn": "I mean, it looks like some of",
+      "textZh": "我的意思是，看起来有些",
+      "speakerZh": "记者（CNBC）"
+    },
+    {
+      "id": "p-0200",
+      "speakerEn": "Elon Musk",
+      "startSec": 3013.01,
+      "textEn": "the tanks were hit by debris and",
+      "textZh": "储罐被碎片击中了，而且",
+      "speakerZh": "记者（CNBC）"
+    },
+    {
+      "id": "p-0201",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 3015.73,
+      "textEn": "there's quite a lot scattered around.",
+      "textZh": "周围散落着相当多的碎片。",
+      "speakerZh": "记者（CNBC）"
+    },
+    {
+      "id": "p-0202",
+      "speakerEn": "Elon Musk",
+      "startSec": 3017.25,
+      "textEn": "Do you know, can you give us like a rundown of what you guys",
+      "textZh": "你知道吗，能不能给我们大致说说你们",
+      "speakerZh": "记者（CNBC）"
+    },
+    {
+      "id": "p-0203",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 3021.17,
+      "textEn": "need to replace versus repair?",
+      "textZh": "哪些需要更换，哪些可以维修？",
+      "speakerZh": "记者（CNBC）"
+    },
+    {
+      "id": "p-0204",
+      "speakerEn": "Elon Musk",
+      "startSec": 3024.53,
+      "textEn": "We're going to be replacing a bunch of the tanks in the tank farm, but these are tanks that we wanted to replace anyway. So the. We're going with more of the vacuum jacketed kind of giant hot dog looking tanks as opposed to the.",
+      "textZh": "我们会更换储罐区的一批储罐，不过这些储罐本来就是我们想要更换的。所以这个。我们会更多地采用那种带真空夹套、看起来像巨型热狗的储罐，而不是那种。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0205",
+      "speakerEn": "Elon Musk",
+      "startSec": 3040.21,
+      "textEn": "So yeah, vacuum jacket, a giant hot dog tank. So those are in the best shape and those are what we want anyway. So some of the tanks will be, will be.",
+      "textZh": "所以，是的，真空夹套，一个巨大的热狗罐。所以那些的状况最好，而且无论如何那正是我们想要的。所以有些储罐会，会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0206",
+      "speakerEn": "Elon Musk",
+      "startSec": 3051.57,
+      "textEn": "Yeah, probably removing and replacing with the hot dog tanks. The tower itself is in good shape. We see no meaningful damage to the tower, even though it did get hit with some pretty big chunks of concrete and. Yeah. And then like I said, we'll be installing the big water jacket and steel sandwich thing under the pad, doing final prep on the next booster and ship, and hopefully be ready to fly again in a couple months.",
+      "textZh": "是的，可能会拆掉，然后换成热狗罐。塔架本身状况良好。我们没看到塔架有任何明显损坏，尽管它确实被一些相当大的混凝土块砸中了，而且。是的。然后就像我说的，我们会在发射台下面安装大型水夹套和钢制三明治结构，对下一个助推器和飞船进行最后准备，并希望能在几个月后再次做好飞行准备。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0207",
+      "speakerEn": "Elon Musk",
+      "startSec": 3083.63,
+      "textEn": "Once again, excitement, guaranteed success is not. But I do think I'm cautiously optimistic. Like I think we've got this time, we've got a better than 50% chance of reaching orbit. So that would be incredibly exciting.",
+      "textZh": "再说一次，刺激，保证有；成功，不保证。但我确实认为，我持谨慎乐观态度。就是说，我觉得这一次，我们进入轨道的概率超过50%。所以那将令人无比激动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0208",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 3096.88,
+      "textEn": "Is that, is that steel plate the only thing that you guys are implementing to reduce the amount of debris that gets everywhere, or are there other fixes that you're considering to fix that?",
+      "textZh": "那块，那块钢板是你们为减少四处飞散的碎片而采取的唯一措施吗，还是你们还在考虑其他解决办法来处理这个问题？",
+      "speakerZh": "记者（CNBC）"
+    },
+    {
+      "id": "p-0209",
+      "speakerEn": "Elon Musk",
+      "startSec": 3108.48,
+      "textEn": "There's a bunch of other things we're doing.",
+      "textZh": "我们还在做很多其他事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0210",
+      "speakerEn": "Elon Musk",
+      "startSec": 3112.24,
+      "textEn": "So there's going to be a lot of steel plating. So not just underneath The. Directly underneath the rocket, but also extending beyond that and. And also tying the whole structure in together with the legs.",
+      "textZh": "所以会有大量钢板。不只是在……下面。火箭正下方，还会延伸到那个范围之外。而且还会把整个结构与支腿连接成一体。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0211",
+      "speakerEn": "Elon Musk",
+      "startSec": 3126.08,
+      "textEn": "Those legs go down very deep. So.",
+      "textZh": "那些支腿向地下延伸得非常深。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0212",
+      "speakerEn": "Elon Musk",
+      "startSec": 3131.6,
+      "textEn": "And then just in general, we want to have a launch pad that, over time, requires no refurbishment between flights. And that means, obviously not throwing out chunks of concrete, rapidly.",
+      "textZh": "然后总的来说，我们想要一个随着时间推移，在每次飞行之间都不需要翻修的发射台。而这显然意味着，不能快速地把混凝土块抛出去。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0213",
+      "speakerEn": "Panelist",
+      "startSec": 3147.13,
+      "textEn": "Reusable rockets and reusable launch pads.",
+      "textZh": "可重复使用的火箭和可重复使用的发射台。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0214",
+      "speakerEn": "Elon Musk",
+      "startSec": 3150.85,
+      "textEn": "Exactly. Yep. Totally.",
+      "textZh": "完全正确。对。没错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0215",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 3153.49,
+      "textEn": "On the launch site itself, it looks like it kind of slid a little bit off the pad instead of going, like, straight vertical like Falcon does.",
+      "textZh": "在发射场本身，看起来它有点从发射台上横移了，而不是像猎鹰那样，嗯，笔直垂直上升。",
+      "speakerZh": "记者（CNBC）"
+    },
+    {
+      "id": "p-0216",
+      "speakerEn": "Elon Musk",
+      "startSec": 3160.85,
+      "textEn": "Was that part of the profile or was that because the engine failures? That's because. Engine failures. Yeah. So. All right, I better. I better sign off now, but",
+      "textZh": "那是飞行轨迹的一部分，还是因为发动机故障？那是因为。发动机故障。是的。所以。好了，我最好。我现在最好下线了，不过",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0217",
+      "speakerEn": "Reporter (Reuters)",
+      "startSec": 3173.51,
+      "textEn": "I'll",
+      "textZh": "我会",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0218",
+      "speakerEn": "Elon Musk",
+      "startSec": 3173.67,
+      "textEn": "do another update once we've resolved some of these questions.",
+      "textZh": "等我们解决了其中一些问题后，再做一次情况更新。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0219",
+      "speakerEn": "Panelist",
+      "startSec": 3179.15,
+      "textEn": "That.",
+      "textZh": "那个。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0220",
+      "speakerEn": "Elon Musk",
+      "startSec": 3179.35,
+      "textEn": "The exact configuration of the next flight and.",
+      "textZh": "下一次飞行的确切配置，以及。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0221",
+      "speakerEn": "Elon Musk",
+      "startSec": 3188.55,
+      "textEn": "The upgrades to the launch pad and anything else. So probably in about 3 weeks. Ish. I'll do another update and. And kind of let you know what we've learned. As always, I'm like. I try to be like, you know, tell people, like, the good, the bad, and the ugly. So, you know, so that it's like, we would tell you our, you know, dumb things that we've done and, you know, maybe some things that we think are pretty smart and.",
+      "textZh": "发射台的升级和其他任何事情。所以大概在3周后。左右。我会再做一次情况更新，并且。并且大致让你们知道我们学到了什么。和以往一样，我就像。我努力做到，你知道，告诉人们，好的、坏的和丑陋的。所以，你知道，这样的话，就像，我们会告诉你我们，你知道，做过的蠢事，以及，你知道，也许还有一些我们认为相当聪明的事情，而且。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0222",
+      "speakerEn": "Host",
+      "startSec": 3223.64,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0223",
+      "speakerEn": "Elon Musk",
+      "startSec": 3225.19,
+      "textEn": "Yeah. So",
+      "textZh": "是的。所以",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0224",
+      "speakerEn": "Panelist",
+      "startSec": 3227.99,
+      "textEn": "we appreciate your time, Elon. Get out of here and have a good Saturday night. And thanks so much for all the updates that you gave us. We love all these juicy details. So keep up the good work. We look forward to the next one.",
+      "textZh": "感谢你抽出时间，埃隆。你先去忙吧，祝你周六晚上愉快。也非常感谢你向我们提供的所有最新情况。我们喜欢所有这些劲爆的细节。所以继续努力。我们期待下一次更新。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0225",
+      "speakerEn": "Elon Musk",
+      "startSec": 3240.31,
+      "textEn": "You're most welcome. I try to think of, like, if I wasn't involved with this, what are all the things I'd want to know so that I try to tell you those things.",
+      "textZh": "非常乐意。我会试着想，比如，如果我没有参与这件事，我会想知道哪些事情，然后我就试着把那些事情告诉你们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0226",
+      "speakerEn": "Panelist",
+      "startSec": 3248.39,
+      "textEn": "It shows, and we appreciate it.",
+      "textZh": "这一点看得出来，我们对此很感激。",
+      "speakerZh": "嘉宾"
+    },
+    {
+      "id": "p-0227",
+      "speakerEn": "Elon Musk",
+      "startSec": 3249.87,
+      "textEn": "It's awesome. You're welcome. Thanks, everyone.",
+      "textZh": "这太棒了。不客气。谢谢大家。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0228",
+      "speakerEn": "Host",
+      "startSec": 3254.41,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "主持人"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T07:14:10.381Z",
+    "reviewedAt": "2026-09-13T07:38:36.386Z"
+  },
+  "fetchedAt": "2026-09-12T07:12:45.702Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "c65944bd7332b3e5d35fad8ff90c59f3295d7c453f31d880a291c1ff233b5350"
+}

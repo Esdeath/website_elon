@@ -1,0 +1,755 @@
+{
+  "id": "ted-2022-04-06",
+  "slug": "ted-2022-04-06",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2022-04-06",
+  "titleEn": "TED",
+  "titleZh": "TED",
+  "summaryEn": "Hour-long sit-down with TED's Chris Anderson at Giga Texas on Optimus, Starship and Neuralink and Musk's vision for humanity's future.",
+  "summaryZh": "在得州超级工厂与 TED 的克里斯·安德森进行了一小时的面对面访谈，内容涉及 Optimus、星舰和 Neuralink，以及马斯克对人类未来的愿景。",
+  "sourceUrl": "https://www.youtube.com/watch?v=YRvf00NooN8",
+  "sourceLabel": "TED",
+  "archiveUrl": "https://elonmuskarchive.org/video/ted-2022-04-06",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/YRvf00NooN8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/YRvf00NooN8/hqdefault.jpg",
+  "org": "Neuralink",
+  "durationSec": 3984,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Chris Anderson: Elon Musk, great to see you. How are you? Elon Musk: Good. How are you? CA: We're here at the Texas Gigafactory the day before this thing opens. It's been pretty crazy out there. Thank you so much for making time on a busy day. I would love you to help us, kind of, cast our minds, I don't know, 10, 20, 30 years into the future. And help us try to picture what it would take to build a future that's worth getting excited about.",
+      "textZh": "克里斯·安德森：埃隆·马斯克，很高兴见到你。你好吗？埃隆·马斯克：很好。你好吗？CA：我们现在位于得州超级工厂，就在这里开幕的前一天。外面一直相当疯狂。非常感谢你在忙碌的一天里抽出时间。我很希望你能帮助我们，让我们的思绪投向，我不知道，未来 10、20、30 年。并帮助我们试着想象，要打造一个值得令人期待的未来，需要些什么。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "The last time you spoke at TED, you said that that was really just a big driver. You know, you can talk about lots of other reasons to do the work you're doing, but fundamentally, you want to think about the future and not think that it sucks. EM: Yeah, absolutely. I think in general, you know, there's a lot of discussion of like, this problem or that problem. And a lot of people are sad about the future and they're ... Pessimistic.",
+      "textZh": "你上次在 TED 演讲时说，那其实只是一个很大的驱动力。你知道，可以谈很多其他理由来解释为什么要做你正在做的工作，但从根本上说，你希望想到未来时，不会觉得它很糟糕。EM：是的，绝对如此。我认为，总的来说，你知道，人们有很多关于这个问题或那个问题的讨论。很多人想到未来感到难过，而且他们……很悲观。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "And I think ... this is ... This is not great. I mean, we really want to wake up in the morning and look forward to the future. We want to be excited about what's going to happen. And life cannot simply be about sort of, solving one miserable problem after another. CA: So if you look forward 30 years, you know, the year 2050 has been labeled by scientists as this, kind of, almost like this doomsday deadline on climate.",
+      "textZh": "而且我认为……这……这不太好。我的意思是，我们真的希望早晨醒来时能够期待未来。我们希望对即将发生的事情感到兴奋。生活不能仅仅是，某种程度上，解决一个又一个令人痛苦的问题。CA：那么，如果你展望30年后，你知道，2050年已被科学家称为这样一个，某种，几乎就像气候问题的末日最后期限。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "There's a consensus of scientists, a large consensus of scientists, who believe that if we haven't completely eliminated greenhouse gases or offset them completely by 2050, effectively we're inviting climate catastrophe. Do you believe there is a pathway to avoid that catastrophe? And what would it look like? EM: Yeah, so I am not one of the doomsday people, which may surprise you. I actually think we're on a good path.",
+      "textZh": "科学家们存在共识，是绝大多数科学家的共识，他们认为，如果到2050年我们还没有彻底消除温室气体，或者完全抵消它们，那么实际上我们就是在招致气候灾难。你认为存在避免那场灾难的途径吗？它会是什么样子？EM：是的，所以我不是末日论者之一，这可能会让你感到意外。实际上，我认为我们正走在一条不错的道路上。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "But at the same time, I want to caution against complacency. So, so long as we are not complacent, as long as we have a high sense of urgency about moving towards a sustainable energy economy, then I think things will be fine. So I can't emphasize that enough, as long as we push hard and are not complacent, the future is going to be great. Don't worry about it.",
+      "textZh": "但与此同时，我想提醒大家不要自满。所以，只要我们不自满，只要我们对于迈向可持续能源经济抱有高度的紧迫感，那么我认为一切都会好起来。所以这一点我怎么强调都不为过，只要我们大力推进并且不自满，未来就会很美好。不必担心。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "I mean, worry about it, but if you worry about it, ironically, it will be a self-unfulfilling prophecy. So, like, there are three elements to a sustainable energy future. One is of sustainable energy generation, which is primarily wind and solar. There's also hydro, geothermal, I'm actually pro-nuclear. I think nuclear is fine. But it's going to be primarily solar and wind, as the primary generators of energy.",
+      "textZh": "我的意思是，要担心这件事，但如果你担心它，讽刺的是，它就会成为一个自我落空的预言。所以，比如说，可持续能源的未来包含3个要素。一个是可持续能源生产，主要是风能和太阳能。还有水能、地热能，我实际上支持核能。我认为核能没问题。但主要的能源生产方式将是太阳能和风能。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "The second part is you need batteries to store the solar and wind energy because the sun doesn't shine all the time, the wind doesn't blow all the time. So it's a lot of stationary battery packs. And then you need electric transport. So electric cars, electric planes, boats. And then ultimately, it’s not really possible to make electric rockets, but you can make the propellant used in rockets using sustainable energy.",
+      "textZh": "第二部分是，你需要用电池储存太阳能和风能，因为太阳不会一直照耀，风也不会一直吹。所以需要大量固定式电池组。然后你需要电动交通工具。也就是电动汽车、电动飞机、船。再到最终，制造电动火箭其实不太可能，但你可以利用可持续能源制造火箭所使用的推进剂。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "So ultimately, we can have a fully sustainable energy economy. And it's those three things: solar/wind, stationary battery pack, electric vehicles. So then what are the limiting factors on progress? The limiting factor really will be battery cell production. So that's going to really be the fundamental rate driver.",
+      "textZh": "所以最终，我们可以拥有一个完全可持续的能源经济。就是这3样东西：太阳能/风能、固定式电池组、电动汽车。那么，限制进展的因素是什么？真正的限制因素将是电芯生产。所以这确实会成为决定速度的根本因素。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "And then whatever the slowest element of the whole lithium-ion battery cells supply chain, from mining and the many steps of refining to ultimately creating a battery cell and putting it into a pack, that will be the limiting factor on progress towards sustainability.",
+      "textZh": "然后，从采矿和多道精炼工序，到最终制造出电芯并将其装入电池包，整个锂离子电芯供应链中无论哪个环节最慢，都会成为迈向可持续发展的限制因素。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "CA: All right, so we need to talk more about batteries, because the key thing that I want to understand, like, there seems to be a scaling issue here that is kind of amazing and alarming. You have said that you have calculated that the amount of battery production that the world needs for sustainability is 300 terawatt hours of batteries. That's the end goal?",
+      "textZh": "CA：好，所以我们需要进一步谈谈电池，因为我想弄明白的关键一点是，这里似乎存在一个规模化问题，既令人惊叹又令人担忧。你说过，你计算出全世界为实现可持续发展所需的电池产量是300太瓦时的电池。这就是最终目标吗？"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "EM: Very rough numbers, and I certainly would invite others to check our calculations because they may arrive at different conclusions. But in order to transition, not just current electricity production, but also heating and transport, which roughly triples the amount of electricity that you need, it amounts to approximately 300 terawatt hours of installed capacity. CA: So we need to give people a sense of how big a task that is.",
+      "textZh": "EM：这些数字非常粗略，我当然也欢迎其他人核查我们的计算，因为他们可能会得出不同的结论。但为了实现转型，不只是当前的电力生产，还包括供暖和交通，这会让所需电量大致增至3倍，所需装机容量约为300太瓦时。CA：所以我们需要让人们感受一下这项任务究竟有多庞大。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "I mean, here we are at the Gigafactory. You know, this is one of the biggest buildings in the world. What I've read, and tell me if this is still right, is that the goal here is to eventually produce 100 gigawatt hours of batteries here a year eventually. EM: We will probably do more than that, but yes, hopefully we get there within a couple of years. CA: Right. But I mean, that is one -- EM: 0. 1 terrawat hours.",
+      "textZh": "我是说，我们现在就在超级工厂。你知道，这是世界上最大的建筑之一。据我所读到的资料，你告诉我现在是否仍然如此，这里的目标是最终在这里达到每年生产100吉瓦时的电池。EM：我们的产量可能会超过这个数字，不过没错，希望我们能在几年内达到。CA：好。但我是说，那就是一个——EM：0. 1太瓦时。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "CA: But that's still 1/100 of what's needed. How much of the rest of that 100 is Tesla planning to take on let's say, between now and 2030, 2040, when we really need to see the scale up happen? EM: I mean, these are just guesses. So please, people shouldn't hold me to these things.",
+      "textZh": "CA：但那仍然只是所需规模的1/100。剩下的那100里，比方说，从现在到2030年、2040年，也就是我们真正需要看到规模扩大的时候，Tesla计划承担多少？EM：我是说，这些都只是猜测。所以拜托了，大家不应该拿这些话来要求我兑现。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "It's not like this is like some -- What tends to happen is I'll make some like, you know, best guess and then people, in five years, there’ll be some jerk that writes an article: \"Elon said this would happen, and it didn't happen. He's a liar and a fool.\" It's very annoying when that happens. So these are just guesses, this is a conversation. CA: Right. EM: I think Tesla probably ends up doing 10 percent of that. Roughly.",
+      "textZh": "这并不像是什么——通常会发生的情况是，我会做出某种，你知道的，最佳猜测，然后5年后，就会有某个混蛋写篇文章：“埃隆说这件事会发生，但它没有发生。他是个骗子，也是个傻瓜。”这种事发生时非常烦人。所以这些都只是猜测，这只是一场谈话。CA：好。EM：我认为Tesla最终大概会承担其中的10%。大致如此。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "CA: Let's say 2050 we have this amazing, you know, 100 percent sustainable electric grid made up of, you know, some mixture of the sustainable energy sources you talked about. That same grid probably is offering the world really low-cost energy, isn't it, compared with now. And I'm curious about like, are people entitled to get a little bit excited about the possibilities of that world? EM: People should be optimistic about the future.",
+      "textZh": "CA：假设到2050年，我们拥有了这个令人惊叹的，你知道的，100%可持续电网，由你谈到的那些可持续能源以某种组合构成。与现在相比，同一个电网很可能会为全世界提供成本非常低的能源，对吧。我很好奇，人们是不是有理由为那个世界的种种可能性感到一点兴奋？EM：人们应该对未来保持乐观。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Humanity will solve sustainable energy. It will happen if we, you know, continue to push hard, the future is bright and good from an energy standpoint. And then it will be possible to also use that energy to do carbon sequestration. It takes a lot of energy to pull carbon out of the atmosphere because in putting it in the atmosphere it releases energy. So now, you know, obviously in order to pull it out, you need to use a lot of energy.",
+      "textZh": "人类会解决可持续能源问题。只要我们，你知道的，继续大力推进，这件事就会实现；从能源角度看，未来是光明而美好的。然后，我们也可以利用这些能源进行碳封存。从大气中移除碳需要大量能源，因为把碳排放到大气中时会释放能量。所以现在，你知道的，显然，要把它移除，就需要使用大量能源。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "But if you've got a lot of sustainable energy from wind and solar, you can actually sequester carbon. So you can reverse the CO2 parts per million of the atmosphere and oceans. And also you can really have as much fresh water as you want. Earth is mostly water. We should call Earth “Water. ” It's 70 percent water by surface area. Now most of that’s seawater, but it's like we just happen to be on the bit that's land.",
+      "textZh": "但如果你拥有大量来自风能和太阳能的可持续能源，就真的可以封存碳。所以你可以逆转大气和海洋中的CO2百万分比浓度。你也真的可以想要多少淡水就有多少。地球大部分都是水。我们应该把地球叫作“水球。”按表面积计算，它有70%是水。当然，其中大部分是海水，但就像是我们碰巧位于陆地这一小块上。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "CA: And with energy, you can turn seawater into -- EM: Yes. CA: Irrigating water or whatever water you need. EM: At very low cost. Things will be good. CA: Things will be good. And also, there's other benefits to this non-fossil fuel world where the air is cleaner -- EM: Yes, exactly. Because, like, when you burn fossil fuels, there's all these side reactions and toxic gases of various kinds.",
+      "textZh": "CA：有了能源，你就能把海水变成——EM：是的。CA：灌溉用水，或是你需要的任何用水。EM：而且成本非常低。一切都会很好。CA：一切都会很好。而且，这个没有化石燃料的世界还有其他益处，比如空气更加清洁——EM：是的，正是如此。因为，比如说，当你燃烧化石燃料时，会发生所有这些副反应，并产生各种有毒气体。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "And sort of little particulates that are bad for your lungs. Like, there's all sorts of bad things that are happening that will go away. And the sky will be cleaner and quieter. The future's going to be good. CA: I want us to switch now to think a bit about artificial intelligence. But the segue there, you mentioned how annoying it is when people call you up for bad predictions in the past.",
+      "textZh": "还有某种对肺部有害的微小颗粒物。就像，各种正在发生的坏事都会消失。天空会更加清朗，也会更加安静。未来会很美好。CA：我想让我们现在转而思考一下人工智能。不过说到这里，你刚才提到，当人们因为你过去的不准确预测而找上你时，这有多烦人。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "So I'm possibly going to be annoying now, but I’m curious about your timelines and how you predict and how come some things are so amazingly on the money and some aren't. So when it comes to predicting sales of Tesla vehicles, for example, you've kind of been amazing, I think in 2014 when Tesla had sold that year 60,000 cars, you said, \"2020, I think we will do half a million a year.\" EM: Yeah, we did almost exactly a half million.",
+      "textZh": "所以我现在可能就要惹人烦了，但我很好奇你的时间表、你是如何预测的，以及为什么有些预测准确得惊人，有些却不是。例如，在预测Tesla汽车销量方面，你算得上非常惊人，我想是在2014年，那一年Tesla卖出了60,000辆汽车，你说：“到2020年，我认为我们每年会做到50万辆。”EM：对，我们几乎正好做到了50万辆。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "CA: You did almost exactly half a million. You were scoffed in 2014 because no one since Henry Ford, with the Model T, had come close to that kind of growth rate for cars. You were scoffed, and you actually hit 500,000 cars and then 510,000 or whatever produced.",
+      "textZh": "CA：你们生产了几乎正好50万辆。2014年时，你受到了嘲笑，因为自从亨利·福特的Model T以来，还没有人在汽车领域接近过这样的增长率。你受到了嘲笑，而你们确实达到了500,000辆汽车，然后生产了510,000辆左右。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "But five years ago, last time you came to TED, I asked you about full self-driving, and you said, “Yeah, this very year, I'm confident that we will have a car going from LA to New York without any intervention.\" EM: Yeah, I don't want to blow your mind, but I'm not always right. CA: (Laughs) What's the difference between those two? Why has full self-driving in particular been so hard to predict?",
+      "textZh": "但5年前，也就是你上次来TED时，我问过你完全自动驾驶的事，你说：“对，就在今年，我有信心我们会有一辆汽车，在没有任何干预的情况下从洛杉矶开到纽约。”EM：对，我不想让你太震惊，但我并不总是正确。CA：（笑）这两者之间有什么区别？为什么完全自动驾驶尤其难以预测？"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "EM: I mean, the thing that really got me, and I think it's going to get a lot of other people, is that there are just so many false dawns with self-driving, where you think you've got the problem, have a handle on the problem, and then it, no, turns out you just hit a ceiling. Because if you were to plot the progress, the progress looks like a log curve. So it's like a series of log curves.",
+      "textZh": "EM：我是说，真正让我栽了跟头，而且我认为也会让很多其他人栽跟头的是，自动驾驶领域有太多虚假的曙光，你以为自己已经解决了这个问题，掌握了这个问题，然后却，不，事实证明你只是撞上了一道天花板。因为如果把进展绘制成图，进展看起来就像一条对数曲线。所以它就像是一系列对数曲线。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "So most people don't know what a log curve is, I suppose. CA: Show the shape with your hands. EM: It goes up you know, sort of a fairly straight way, and then it starts tailing off and you start getting diminishing returns. And you're like, uh oh, it was trending up and now it's sort of, curving over and you start getting to these, what I call local maxima, where you don't realize basically how dumb you were. And then it happens again.",
+      "textZh": "所以我猜大多数人不知道对数曲线是什么。CA：用你的手比划一下它的形状。EM：它会上升，你知道的，大致是相当直的一条线，然后开始趋平，你开始获得递减的回报。然后你会想，呃哦，它刚才还呈上升趋势，现在却有点弯下去了，而你开始到达这些我称为局部最大值的地方，在那里，你根本没有意识到自己之前有多蠢。然后这又会发生一次。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "And ultimately... These things, you know, in retrospect, they seem obvious, but in order to solve full self-driving properly, you actually have to solve real-world AI. Because what are the road networks designed to work with? They're designed to work with a biological neural net, our brains, and with vision, our eyes. And so in order to make it work with computers, you basically need to solve real-world AI and vision.",
+      "textZh": "而最终……这些事情，你知道的，事后看来似乎显而易见，但要妥善解决完全自动驾驶，你实际上必须解决现实世界的AI。因为道路网络是为配合什么而设计的？它们是为配合生物神经网络，也就是我们的大脑，以及视觉，也就是我们的眼睛而设计的。所以，为了让它能够与计算机配合工作，你基本上需要解决现实世界的AI和视觉问题。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "Because we need cameras and silicon neural nets in order to have self-driving work for a system that was designed for eyes and biological neural nets. You know, I guess when you put it that way, it's sort of, like, quite obvious that the only way to solve full self-driving is to solve real world AI and sophisticated vision. CA: What do you feel about the current architecture?",
+      "textZh": "因为我们需要摄像头和硅基神经网络，才能让自动驾驶在一个为眼睛和生物神经网络设计的系统中运作。你知道，我想，当你这样说的时候，某种程度上，显而易见的是，解决完全自动驾驶的唯一方法就是解决现实世界人工智能和复杂的视觉问题。CA：你对目前的架构有什么看法？"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Do you think you have an architecture now where there is a chance for the logarithmic curve not to tail off any anytime soon? EM: Well I mean, admittedly these may be infamous last words, but I actually am confident that we will solve it this year. That we will exceed -- The probability of an accident, at what point do you exceed that of the average person? I think we will exceed that this year.",
+      "textZh": "你认为你们现在拥有一种架构，能让对数曲线有机会在短期内不会逐渐趋平吗？EM：嗯，我是说，诚然，这番话可能最终会被证明不靠谱，但我确实有信心，我们会在今年解决这个问题。我们将超过——事故概率，到什么程度时，你会超过普通人的水平？我认为我们今年会超过这个水平。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "CA: What are you seeing behind the scenes that gives you that confidence? EM: We’re almost at the point where we have a high-quality unified vector space. In the beginning, we were trying to do this with image recognition on individual images. But if you get one image out of a video, it's actually quite hard to see what's going on without ambiguity. But if you look at a video segment of a few seconds of video, that ambiguity resolves.",
+      "textZh": "CA：你在幕后看到了什么，让你有这样的信心？EM：我们几乎已经到了拥有高质量统一向量空间的阶段。一开始，我们试图通过对单幅图像进行图像识别来做到这一点。但如果你从一段视频中抽出一幅图像，其实很难毫无歧义地看清正在发生什么。但如果你观看一段几秒钟的视频，那种歧义就会消除。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "So the first thing we had to do is tie all eight cameras together so they're synchronized, so that all the frames are looked at simultaneously and labeled simultaneously by one person, because we still need human labeling. So at least they’re not labeled at different times by different people in different ways. So it's sort of a surround picture. Then a very important part is to add the time dimension.",
+      "textZh": "所以，我们首先必须做的是把全部8个摄像头连接起来，使它们同步，这样所有画面帧都会被同时查看，并由同一个人同时标注，因为我们仍然需要人工标注。这样至少不会由不同的人在不同的时间以不同的方式进行标注。所以它有点像一幅环绕图像。然后，一个非常重要的部分是加入时间维度。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "So that you’re looking at surround video, and you're labeling surround video. And this is actually quite difficult to do from a software standpoint. We had to write our own labeling tools and then create auto labeling, create auto labeling software to amplify the efficiency of human labelers because it’s quite hard to label. In the beginning, it was taking several hours to label a 10-second video clip. This is not scalable.",
+      "textZh": "这样，你看到的就是环绕视频，而你标注的也是环绕视频。从软件角度看，这其实相当难以实现。我们必须编写自己的标注工具，然后创建自动标注，创建自动标注软件，以提高人工标注员的效率，因为标注相当困难。一开始，标注一个10秒的视频片段需要几个小时。这无法规模化。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "So basically what you have to have is you have to have surround video, and that surround video has to be primarily automatically labeled with humans just being editors and making slight corrections to the labeling of the video and then feeding back those corrections into the future auto labeler, so you get this flywheel eventually where the auto labeler is able to take in vast amounts of video and with high accuracy, automatically label the video for cars, lane lines, drive space.",
+      "textZh": "所以，基本上你必须拥有环绕视频，而这些环绕视频必须主要由系统自动标注，人类只充当编辑，对视频的标注进行细微修正，然后把这些修正反馈给未来的自动标注器，这样最终就会形成一个飞轮，让自动标注器能够接收海量视频，并以很高的准确度，自动在视频中标注车辆、车道线、行驶空间。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "CA: What you’re saying is ... the result of this is that you're effectively giving the car a 3D model of the actual objects that are all around it. It knows what they are, and it knows how fast they are moving.",
+      "textZh": "CA：你的意思是……这样做的结果是，你实际上为汽车提供了一个由其周围所有真实物体构成的3D模型。它知道那些物体是什么，也知道它们移动得有多快。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "And the remaining task is to predict what the quirky behaviors are that, you know, that when a pedestrian is walking down the road with a smaller pedestrian, that maybe that smaller pedestrian might do something unpredictable or things like that. You have to build into it before you can really call it safe. EM: You basically need to have memory across time and space. So what I mean by that is ...",
+      "textZh": "剩下的任务是预测那些古怪行为是什么，你知道，比如当一名行人带着一个更小的行人在路上行走时，那个更小的行人也许会做出一些不可预测的举动，诸如此类。你必须把这些纳入系统，才能真正称它为安全。EM：你基本上需要拥有跨越时间和空间的记忆。所以我的意思是……"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "Memory can’t be infinite, because it's using up a lot of the computer's RAM basically. So you have to say how much are you going to try to remember? It's very common for things to be occluded. So if you talk about say, a pedestrian walking past a truck where you saw the pedestrian start on one side of the truck, then they're occluded by the truck. You would know intuitively, OK, that pedestrian is going to pop out the other side, most likely.",
+      "textZh": "记忆不可能是无限的，因为它基本上会占用计算机大量的 RAM。所以你必须确定自己要尝试记住多少内容。物体被遮挡是非常常见的情况。比如说，一名行人从一辆卡车旁走过，你看到行人从卡车的一侧开始走，然后他们被卡车挡住了。你会凭直觉知道，好吧，那名行人很可能会从另一侧冒出来。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "CA: A computer doesn't know it. EM: You need to slow down. CA: A skeptic is going to say that every year for the last five years, you've kind of said, well, no this is the year, we're confident that it will be there in a year or two or, you know, like it's always been about that far away.",
+      "textZh": "CA：计算机并不知道这一点。EM：你需要减速。CA：怀疑者会说，过去5年里，你每年都有点像是在说，嗯，不，今年就是那一年，我们有信心它会在1年或2年内实现，或者，你知道，就像它一直都大约还有那么远。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "But we've got a new architecture now, you're seeing enough improvement behind the scenes to make you not certain, but pretty confident, that, by the end of this year, what in most, not in every city, and every circumstance but in many cities and circumstances, basically the car will be able to drive without interventions safer than a human. EM: Yes. I mean, the car currently drives me around Austin most of the time with no interventions.",
+      "textZh": "但我们现在有了一个新架构，你在幕后看到了足够多的改进，使你虽然不能确定，但相当有信心地认为，到今年年底，在大多数地方，不是在每个城市、每种情况下，而是在许多城市和情境中，这辆车基本上将能够在无需干预的情况下驾驶，而且比人类更安全。EM：是的。我的意思是，目前这辆车大多数时候载着我在奥斯汀四处行驶，都无需干预。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "So it's not like ... And we have over 100,000 people in our full self-driving beta program. So you can look at the videos that they post online. CA: I do. And some of them are great, and some of them are a little terrifying. I mean, occasionally the car seems to veer off and scare the hell out of people. EM: It’s still a beta.",
+      "textZh": "所以并不是说……而且我们的完全自动驾驶测试版项目中有超过 100,000 人。所以你可以看看他们发布到网上的视频。CA：我看过。有些非常棒，有些则有点吓人。我的意思是，偶尔这辆车似乎会突然偏离，把人吓得要命。EM：它仍然是测试版。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "CA: But you’re behind the scenes, looking at the data, you're seeing enough improvement to believe that a this-year timeline is real. EM: Yes, that's what it seems like. I mean, we could be here talking again in a year, like, well, another year went by, and it didn’t happen. But I think this is the year.",
+      "textZh": "CA：但你在幕后查看数据，你看到了足够多的改进，因而相信今年这个时间表是现实的。EM：是的，看起来是这样。我的意思是，我们可能会在 1 年后再次坐在这里交谈，说，好吧，又过了 1 年，它还是没有实现。但我认为就是今年。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "CA: And so in general, when people talk about Elon time, I mean it sounds like you can't just have a general rule that if you predict that something will be done in six months, actually what we should imagine is it’s going to be a year or it’s like two-x or three-x, it depends on the type of prediction. Some things, I guess, things involving software, AI, whatever, are fundamentally harder to predict than others.",
+      "textZh": "CA：所以总体而言，当人们谈到“埃隆时间”时，我的意思是，听起来你不能简单地采用一条通用规则：如果你预测某件事将在 6 个月内完成，那么实际上我们应该设想它会需要 1 年，或者是 2 倍、3 倍的时间；这取决于预测的类型。我猜，有些事情，比如涉及软件、AI 或任何这类东西的事情，从根本上就比其他事情更难预测。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Is there an element that you actually deliberately make aggressive prediction timelines to drive people to be ambitious? Without that, nothing gets done? EM: Well, I generally believe, in terms of internal timelines, that we want to set the most aggressive timeline that we can. Because there’s sort of like a law of gaseous expansion where, for schedules, where whatever time you set, it's not going to be less than that.",
+      "textZh": "这其中是否有这样一个因素：你实际上是故意给出激进的预测时间表，以推动人们雄心勃勃地做事？没有这个，就什么都做不成？EM：嗯，就内部时间表而言，我通常认为我们希望设定力所能及的最激进时间表。因为对于进度安排来说，有点像一条气体膨胀定律：无论你设定多长时间，实际用时都不会比它更短。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "It's very rare that it'll be less than that. But as far as our predictions are concerned, what tends to happen in the media is that they will report all the wrong ones and ignore all the right ones. Or, you know, when writing an article about me -- I've had a long career in multiple industries. If you list my sins, I sound like the worst person on Earth. But if you put those against the things I've done right, it makes much more sense, you know?",
+      "textZh": "实际用时比它更短是非常罕见的。但就我们的预测而言，媒体往往会报道所有错误的预测，而忽略所有正确的预测。或者，你知道，在写一篇关于我的文章时——我在多个行业拥有漫长的职业生涯。如果把我的罪状列出来，我听起来就像地球上最糟糕的人。但如果把这些与我做对的事情放在一起看，那就合理得多，你知道吗？"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "So essentially like, the longer you do anything, the more mistakes that you will make cumulatively. Which, if you sum up those mistakes, will sound like I'm the worst predictor ever. But for example, for Tesla vehicle growth, I said I think we’d do 50 percent, and we’ve done 80 percent. CA: Yes. EM: But they don't mention that one. So, I mean, I'm not sure what my exact track record is on predictions.",
+      "textZh": "所以本质上说，任何事情做得越久，累积犯下的错误就越多。如果把这些错误加总起来，听起来我就会像是有史以来最糟糕的预测者。但举例来说，对于 Tesla 汽车的增长，我说我认为我们会达到 50%，而我们做到了 80%。CA：是的。EM：但他们不会提这个。所以，我的意思是，我不确定自己在预测方面的确切往绩如何。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "They're more optimistic than pessimistic, but they're not all optimistic. Some of them are exceeded probably more or later, but they do come true. It's very rare that they do not come true. It's sort of like, you know, if there's some radical technology prediction, the point is not that it was a few years late, but that it happened at all. That's the more important part.",
+      "textZh": "这些预测乐观的多于悲观的，但也并非全都乐观。有些预测可能被超越得更多，或者实现得更晚，但它们确实会成真。它们没有成真的情况非常罕见。有点像，你知道，如果存在某种激进的技术预测，重点不在于它晚了几年，而在于它终究发生了。这才是更重要的部分。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "CA: So it feels like at some point in the last year, seeing the progress on understanding, the Tesla AI understanding the world around it, led to a kind of, an aha moment at Tesla. Because you really surprised people recently when you said probably the most important product development going on at Tesla this year is this robot, Optimus. EM: Yes.",
+      "textZh": "CA：所以感觉在过去 1 年的某个时候，看到在理解方面取得的进展，也就是 Tesla AI 对周围世界的理解，促使 Tesla 出现了一种“顿悟”时刻。因为你最近说，Tesla 今年正在进行的最重要产品开发可能就是这个机器人 Optimus，这确实让人们非常吃惊。EM：是的。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "CA: Many companies out there have tried to put out these robots, they've been working on them for years. And so far no one has really cracked it. There's no mass adoption robot in people's homes. There are some in manufacturing, but I would say, no one's kind of, really cracked it. Is it something that happened in the development of full self-driving that gave you the confidence to say, \"You know what, we could do something special here.\"",
+      "textZh": "CA：外面有很多公司都尝试过推出这些机器人，他们已经为此努力多年。而到目前为止，还没有人真正攻克这个问题。人们家中还没有得到大规模采用的机器人。制造业中有一些，但我会说，还没有人算是真正攻克了这个问题。是不是在开发完全自动驾驶的过程中发生了什么，让你有信心说：“你知道吗，我们可以在这里做出一些特别的东西。”"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "EM: Yeah, exactly. So, you know, it took me a while to sort of realize that in order to solve self-driving, you really needed to solve real-world AI. And at the point of which you solve real-world AI for a car, which is really a robot on four wheels, you can then generalize that to a robot on legs as well.",
+      "textZh": "EM：对，正是如此。所以，你知道，我花了一段时间才算意识到，要解决自动驾驶问题，你确实需要解决现实世界 AI。而当你为一辆汽车解决了现实世界 AI 时——汽车其实就是一个装着 4 个轮子的机器人——你就也可以把它泛化到一个靠腿行走的机器人上。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "The two hard parts I think -- like obviously companies like Boston Dynamics have shown that it's possible to make quite compelling, sometimes alarming robots. CA: Right. EM: You know, so from a sensors and actuators standpoint, it's certainly been demonstrated by many that it's possible to make a humanoid robot.",
+      "textZh": "我认为有 2 个难点——显然，像波士顿动力这样的公司已经证明，可以制造出非常令人信服、有时甚至令人不安的机器人。CA：对。EM：你知道，所以从传感器和执行器的角度来看，许多人无疑已经证明了制造人形机器人是可行的。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "The things that are currently missing are enough intelligence for the robot to navigate the real world and do useful things without being explicitly instructed. So the missing things are basically real-world intelligence and scaling up manufacturing. Those are two things that Tesla is very good at. And so then we basically just need to design the specialized actuators and sensors that are needed for humanoid robot.",
+      "textZh": "目前缺少的是足够的智能，让机器人能够在现实世界中行动，并在没有明确指令的情况下做有用的事情。所以缺少的东西基本上是现实世界智能和扩大制造规模。这 2 件事正是 Tesla 非常擅长的。因此，我们基本上只需要设计人形机器人所需的专用执行器和传感器。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "People have no idea, this is going to be bigger than the car. CA: So let's dig into exactly that. I mean, in one way, it's actually an easier problem than full self-driving because instead of an object going along at 60 miles an hour, which if it gets it wrong, someone will die. This is an object that's engineered to only go at what, three or four or five miles an hour. And so a mistake, there aren't lives at stake.",
+      "textZh": "人们根本不知道，这会比汽车更庞大。CA：那么我们来深入探讨一下这件事。我的意思是，从某种角度看，它其实是一个比完全自动驾驶更容易解决的问题，因为完全自动驾驶涉及一个以每小时 60 英里速度行驶的物体，如果它出错，就会有人丧命。而这个物体在设计上只能以多少来着，每小时 3、4 或 5 英里的速度行驶。所以即使犯错，也不会危及生命。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "There might be embarrassment at stake. EM: So long as the AI doesn't take it over and murder us in our sleep or something. CA: Right. (Laughter) So talk about -- I think the first applications you've mentioned are probably going to be manufacturing, but eventually the vision is to have these available for people at home.",
+      "textZh": "可能会让人难堪。EM：只要 AI 不接管它，然后趁我们睡觉时谋杀我们之类的就行。CA：对。（笑声）那么谈谈——我想你提到的首批应用可能会是在制造业，但最终的愿景是让人们能在家中使用这些机器人。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "If you had a robot that really understood the 3D architecture of your house and knew where every object in that house was or was supposed to be, and could recognize all those objects, I mean, that’s kind of amazing, isn’t it? Like the kind of thing that you could ask a robot to do would be what? Like, tidy up? EM: Yeah, absolutely. Make dinner, I guess, mow the lawn. CA: Take a cup of tea to grandma and show her family pictures. EM: Exactly.",
+      "textZh": "如果你拥有一个真正理解你家 3D 架构的机器人，它知道房子里的每件物品在哪里或应该在哪里，并且能够识别所有这些物品，我的意思是，那相当惊人，不是吗？比如你可以让机器人做些什么？比如收拾整理？EM：对，当然。做晚饭，我想，还有修剪草坪。CA：给奶奶送一杯茶，再给她看家人的照片。EM：正是。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Take care of my grandmother and make sure -- CA: It could obviously recognize everyone in the home. It could play catch with your kids. EM: Yes. I mean, obviously, we need to be careful this doesn't become a dystopian situation. I think one of the things that's going to be important is to have a localized ROM chip on the robot that cannot be updated over the air.",
+      "textZh": "照顾我的祖母，并确保——CA：它显然可以认出家里的每个人。它可以和你的孩子玩抛接球。EM：是的。我的意思是，显然，我们需要小心，不要让这变成一种反乌托邦局面。我认为，其中一件很重要的事情，是在机器人上安装一块无法通过无线方式更新的本地 ROM 芯片。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "Where if you, for example, were to say, “Stop, stop, stop,” if anyone said that, then the robot would stop, you know, type of thing. And that's not updatable remotely. I think it's going to be important to have safety features like that. CA: Yeah, that sounds wise. EM: And I do think there should be a regulatory agency for AI. I've said that for many years. I don't love being regulated, but I think this is an important thing for public safety.",
+      "textZh": "比如，如果你说：“停，停，停”，只要任何人这么说，机器人就会停下来，你知道，就是这样。而且这无法远程更新。我认为，具备这样的安全功能会很重要。CA：是的，这听起来很明智。EM：而且我确实认为应该设立一个人工智能监管机构。我这么说已经很多年了。我不喜欢受到监管，但我认为这对公共安全而言是一件重要的事。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "CA: Let's come back to that. But I don't think many people have really sort of taken seriously the notion of, you know, a robot at home. I mean, at the start of the computing revolution, Bill Gates said there's going to be a computer in every home. And people at the time said, yeah, whatever, who would even want that.",
+      "textZh": "CA：我们稍后再回到这个话题。但我觉得很多人其实并没有真正认真看待家里会有一个机器人的概念。我的意思是，在计算机革命开始时，比尔·盖茨说，每个家庭都会有一台电脑。当时人们说，是啊，随便吧，谁会想要那种东西。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "Do you think there will be basically like in, say, 2050 or whatever, like a robot in most homes, is what there will be, and people will love them and count on them? You’ll have your own butler basically. EM: Yeah, you'll have your sort of buddy robot probably, yeah. CA: I mean, how much of a buddy? How many applications have you thought, you know, can you have a romantic partner, a sex partner? EM: It's probably inevitable.",
+      "textZh": "你认为到了比如说2050年或随便什么时候，基本上大多数家庭里都会有一个机器人，是这样吗？而且人们会喜欢它们、依赖它们？基本上你会拥有自己的管家。EM：是的，你可能会有一个类似伙伴的机器人，是的。CA：我的意思是，能亲密到什么程度？你想过多少种应用，你知道，你能拥有一个恋爱伴侣、一个性伴侣吗？EM：这可能是不可避免的。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "I mean, I did promise the internet that I’d make catgirls. We could make a robot catgirl. CA: Be careful what you promise the internet. (Laughter) EM: So, yeah, I guess it'll be whatever people want really, you know. CA: What sort of timeline should we be thinking about of the first models that are actually made and sold?",
+      "textZh": "我的意思是，我确实向互联网上的人承诺过，我会制造猫娘。我们可以制造一个猫娘机器人。CA：小心你向互联网承诺的事情。（笑声）EM：所以，是的，我想它其实会成为人们想要的任何样子，你知道。CA：对于首批真正制造并出售的型号，我们应该预期怎样的时间表？"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "EM: Well, you know, the first units that we intend to make are for jobs that are dangerous, boring, repetitive, and things that people don't want to do. And, you know, I think we’ll have like an interesting prototype sometime this year. We might have something useful next year, but I think quite likely within at least two years.",
+      "textZh": "EM：嗯，你知道，我们打算制造的首批产品会用于危险、无聊、重复，以及人们不愿意做的工作。而且，你知道，我认为今年某个时候我们会有一个有意思的原型。明年我们或许会有某种实用的东西，但我认为很可能至少在2年内。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "And then we'll see rapid growth year over year of the usefulness of the humanoid robots and decrease in cost and scaling up production. CA: Initially just selling to businesses, or when do you picture you'll start selling them where you can buy your parents one for Christmas or something? EM: I'd say in less than ten years. CA: Help me on the economics of this. So what do you picture the cost of one of these being?",
+      "textZh": "然后我们会看到人形机器人的实用性逐年快速提升、成本下降，以及产量扩大。CA：最初只卖给企业吗？或者你设想什么时候会开始向消费者销售，让你可以买一个送给父母当圣诞礼物之类的？EM：我会说不到10年。CA：请帮我理解一下这件事的经济账。那么，你设想其中一个的成本会是多少？"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "EM: Well, I think the cost is actually not going to be crazy high. Like less than a car. Initially, things will be expensive because it'll be a new technology at low production volume. The complexity and cost of a car is greater than that of a humanoid robot. So I would expect that it's going to be less than a car, or at least equivalent to a cheap car. CA: So even if it starts at 50k, within a few years, it’s down to 20k or lower or whatever.",
+      "textZh": "EM：嗯，我认为它的成本实际上不会高得离谱。比如说，低于一辆汽车。最初产品会很昂贵，因为这会是一项产量较低的新技术。汽车的复杂程度和成本都高于人形机器人。所以我预计它会比汽车便宜，或者至少相当于一辆廉价汽车。CA：所以，即使一开始是5万美元，几年内也会降到2万美元或更低之类的。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "And maybe for home they'll get much cheaper still. But think about the economics of this. If you can replace a $30,000, $40,000-a-year worker, which you have to pay every year, with a one-time payment of $25,000 for a robot that can work longer hours, a pretty rapid replacement of certain types of jobs. How worried should the world be about that? EM: I wouldn't worry about the sort of, putting people out of a job thing.",
+      "textZh": "而且家用型号也许还会便宜得多。但想想这件事的经济账。如果你能用一次性支付2.5万美元购买一个工作时间更长的机器人，来取代一名年薪3万美元、4万美元，而且你每年都必须付钱的员工，那么某些类型的工作会被相当迅速地取代。全世界对此应该有多担忧？EM：我不会担心这种让人们失业的问题。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "I think we're actually going to have, and already do have, a massive shortage of labor. So I think we will have ... Not people out of work, but actually still a shortage labor even in the future. But this really will be a world of abundance. Any goods and services will be available to anyone who wants them. It'll be so cheap to have goods and services, it will be ridiculous.",
+      "textZh": "我认为我们实际上将会面临，而且已经面临严重的劳动力短缺。所以我认为我们会……不是人们没有工作，而是即使在未来，实际上仍会有劳动力短缺。但这真的会是一个富足的世界。任何商品和服务都会向任何想要它们的人提供。获得商品和服务会便宜到荒唐的程度。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "CA: I'm presuming it should be possible to imagine a bunch of goods and services that can't profitably be made now but could be made in that world, courtesy of legions of robots. EM: Yeah. It will be a world of abundance. The only scarcity that will exist in the future is that which we decide to create ourselves as humans. CA: OK. So AI is allowing us to imagine a differently powered economy that will create this abundance.",
+      "textZh": "CA：我想，应该可以想象出许多目前无法盈利生产、但在那个世界里借助大批机器人便可以生产的商品和服务。EM：是的。那将是一个富足的世界。未来唯一存在的稀缺，将是我们人类自己决定创造的稀缺。CA：好的。所以人工智能让我们能够设想一种由不同力量驱动、并将创造这种富足的经济。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "What are you most worried about going wrong? EM: Well, like I said, AI and robotics will bring out what might be termed the age of abundance. Other people have used this word, and that this is my prediction: it will be an age of abundance for everyone. But I guess there’s ...",
+      "textZh": "你最担心哪里会出错？EM：嗯，正如我所说，人工智能和机器人技术将带来一个或许可以称为富足时代的时代。其他人也用过这个词，而这就是我的预测：这对每个人而言都会是一个富足的时代。但我想，这里面存在……"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "The dangers would be the artificial general intelligence or digital superintelligence decouples from a collective human will and goes in the direction that for some reason we don't like. Whatever direction it might go. You know, that’s sort of the idea behind Neuralink, is to try to more tightly couple collective human world to digital superintelligence.",
+      "textZh": "危险在于，通用人工智能或数字超级智能脱离人类集体意志，朝着某个我们由于某种原因不喜欢的方向发展。无论它可能朝什么方向发展。你知道，这在某种程度上就是 Neuralink 背后的理念，即尝试把人类集体世界与数字超级智能更紧密地结合起来。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "And also along the way solve a lot of brain injuries and spinal injuries and that kind of thing. So even if it doesn't succeed in the greater goal, I think it will succeed in the goal of alleviating brain and spine damage. CA: So the spirit there is that if we're going to make these AIs that are so vastly intelligent, we ought to be wired directly to them so that we ourselves can have those superpowers more directly.",
+      "textZh": "并且在这个过程中解决许多脑损伤和脊柱损伤以及诸如此类的问题。所以，即使它未能实现更宏大的目标，我认为它也会实现减轻大脑和脊柱损伤这一目标。CA：所以这里的思路是，如果我们要制造这些智能程度如此高得多的人工智能，我们就应该直接与它们连接起来，这样我们自己就能更直接地拥有那些超级能力。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "But that doesn't seem to avoid the risk that those superpowers might ... turn ugly in unintended ways. EM: I think it's a risk, I agree. I'm not saying that I have some certain answer to that risk. I’m just saying like maybe one of the things that would be good for ensuring that the future is one that we want is to more tightly couple the collective human world to digital intelligence.",
+      "textZh": "但这似乎无法避免那些超级能力可能会……以意料之外的方式变得丑恶的风险。EM：我认为这是一种风险，我同意。我并不是说自己对这种风险有某个确定的答案。我只是说，也许有助于确保未来成为我们所期望的样子的事情之一，就是把人类集体世界与数字智能更紧密地结合起来。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "The issue that we face here is that we are already a cyborg, if you think about it. The computers are an extension of ourselves. And when we die, we have, like, a digital ghost. You know, all of our text messages and social media, emails. And it's quite eerie actually, when someone dies but everything online is still there. But you say like, what's the limitation? What is it that inhibits a human-machine symbiosis? It's the data rate.",
+      "textZh": "我们在这里面临的问题是，如果你仔细想想，我们已经是赛博格了。计算机是我们自身的延伸。而当我们死去时，我们会留下一个类似数字幽灵的东西。你知道，我们所有的短信、社交媒体内容、电子邮件。而且实际上相当诡异，一个人去世了，但网上的一切仍然存在。但你会问，限制是什么？是什么阻碍了人机共生？是数据传输速率。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "When you communicate, especially with a phone, you're moving your thumbs very slowly. So you're like moving your two little meat sticks at a rate that’s maybe 10 bits per second, optimistically, 100 bits per second. And computers are communicating at the gigabyte level and beyond.",
+      "textZh": "当你交流时，尤其是用手机交流时，你的拇指移动得非常慢。所以，你就像是用2根小肉棍以大概每秒10比特的速率移动，乐观估计是每秒100比特。而计算机的通信水平是千兆字节级乃至更高。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "CA: Have you seen evidence that the technology is actually working, that you've got a richer, sort of, higher bandwidth connection, if you like, between like external electronics and a brain than has been possible before? EM: Yeah. I mean, the fundamental principles of reading neurons, sort of doing read-write on neurons with tiny electrodes, have been demonstrated for decades. So it's not like the concept is new.",
+      "textZh": "CA：你是否看到证据表明这项技术确实有效，也就是，如果你愿意这样说，外部电子设备与大脑之间能建立一种比以往所能实现的更丰富、带宽更高的连接？EM：是的。我的意思是，读取神经元的基本原理，也就是用微型电极对神经元进行某种读写，几十年前就已经得到验证。所以这并不是一个新概念。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "The problem is that there is no product that works well that you can go and buy. So it's all sort of, in research labs. And it's like some cords sticking out of your head. And it's quite gruesome, and it's really ... There's no good product that actually does a good job and is high-bandwidth and safe and something actually that you could buy and would want to buy.",
+      "textZh": "问题在于，目前没有一种运行良好、你可以去购买的产品。所以这一切基本上都还在研究实验室里。而且就像有一些线缆从你的头里伸出来。那相当可怕，而且真的……目前没有一种真正表现良好、带宽高、安全，而且确实是你可以买到并愿意购买的好产品。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "But the way to think of the Neuralink device is kind of like a Fitbit or an Apple Watch. That's where we take out sort of a small section of skull about the size of a quarter, replace that with what, in many ways really is very much like a Fitbit, Apple Watch or some kind of smart watch thing. But with tiny, tiny wires, very, very tiny wires. Wires so tiny, it’s hard to even see them.",
+      "textZh": "但理解 Neuralink 设备的方式，是把它看成类似 Fitbit 或 Apple Watch 的东西。我们会取下一小块大约25美分硬币大小的头骨，再用一种从很多方面来看确实非常像 Fitbit、Apple Watch 或某种智能手表之类的东西替换它。但它带有极其微小的导线，非常非常微小的导线。导线小到甚至很难看见。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "And it's very important to have very tiny wires so that when they’re implanted, they don’t damage the brain. CA: How far are you from putting these into humans? EM: Well, we have put in our FDA application to aspirationally do the first human implant this year. CA: The first uses will be for neurological injuries of different kinds.",
+      "textZh": "而且使用非常微小的导线很重要，这样植入时才不会损伤大脑。CA：距离把这些设备植入人体还有多久？EM：嗯，我们已经向 FDA 提交了申请，期望能在今年进行首次人体植入。CA：最初的用途将是治疗不同类型的神经损伤。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "But rolling the clock forward and imagining when people are actually using these for their own enhancement, let's say, and for the enhancement of the world, how clear are you in your mind as to what it will feel like to have one of these inside your head? EM: Well, I do want to emphasize we're at an early stage.",
+      "textZh": "但让时间向前推进，设想人们真正开始使用这些设备来增强自身，并且比方说增强世界时，对于在脑中植入一个这样的设备会是什么感觉，你心里有多清楚？EM：嗯，我确实想强调，我们还处在早期阶段。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "And so it really will be many years before we have anything approximating a high-bandwidth neural interface that allows for AI-human symbiosis. For many years, we will just be solving brain injuries and spinal injuries. For probably a decade. This is not something that will suddenly one day it will have this incredible sort of whole brain interface.",
+      "textZh": "所以，要真正拥有任何接近高带宽、能够实现人工智能与人类共生的神经接口的东西，还需要很多年。很多年里，我们只会解决脑损伤和脊髓损伤问题。可能要持续10年。这不是某一天突然就会拥有这种不可思议的、类似全脑接口的东西。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "It's going to be, like I said, at least a decade of really just solving brain injuries and spinal injuries. And really, I think you can solve a very wide range of brain injuries, including severe depression, morbid obesity, sleep, potentially schizophrenia, like, a lot of things that cause great stress to people. Restoring memory in older people. CA: If you can pull that off, that's the app I will sign up for. EM: Absolutely. CA: Please hurry.",
+      "textZh": "就像我说的，这至少需要10年时间，真正专注于解决脑损伤和脊髓损伤。而且我确实认为，你可以解决范围非常广泛的脑损伤，包括重度抑郁症、病态肥胖、睡眠问题，也可能包括精神分裂症之类的，很多给人们造成巨大痛苦的问题。恢复老年人的记忆。CA：如果你们能做到，我会报名使用这个应用。EM：绝对可以。CA：请快一点。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "(Laughs) EM: I mean, the emails that we get at Neuralink are heartbreaking. I mean, they'll send us just tragic, you know, where someone was sort of, in the prime of life and they had an accident on a motorcycle and someone who's 25, you know, can't even feed themselves. And this is something we could fix.",
+      "textZh": "（笑）EM：我是说，我们在 Neuralink 收到的电子邮件令人心碎。我的意思是，他们会把那些悲惨的事情发给我们，你知道，有人原本正值人生巅峰，却遭遇了摩托车事故，一个25岁的人，你知道，甚至无法自己吃饭。而这是我们能够解决的问题。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "CA: But you have said that AI is one of the things you're most worried about and that Neuralink may be one of the ways where we can keep abreast of it. EM: Yeah, there's the short-term thing, which I think is helpful on an individual human level with injuries. And then the long-term thing is an attempt to address the civilizational risk of AI by bringing digital intelligence and biological intelligence closer together.",
+      "textZh": "CA：但你说过，AI 是你最担忧的事情之一，而 Neuralink 可能是我们能够跟上它的方式之一。EM：是的，短期而言，我认为它在个人层面上有助于救治受伤的人。而长期而言，则是试图通过让数字智能和生物智能更加紧密地结合，来应对 AI 给文明带来的风险。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "I mean, if you think of how the brain works today, there are really two layers to the brain. There's the limbic system and the cortex. You've got the kind of, animal brain where -- it’s kind of like the fun part, really. CA: It's where most of Twitter operates, by the way. EM: I think Tim Urban said, we’re like somebody, you know, stuck a computer on a monkey. You know, so we're like, if you gave a monkey a computer, that's our cortex.",
+      "textZh": "我的意思是，如果你想想今天大脑的运作方式，大脑其实有2层。一个是边缘系统，一个是大脑皮层。你有那种动物大脑，其中——它其实有点像有趣的那部分。CA：顺便说一句，Twitter 上的大多数活动都发生在那里。EM：我想 Tim Urban 说过，我们就像是有人，你知道，把一台电脑装在了一只猴子身上。你知道，所以我们就像，如果你给一只猴子一台电脑，那就是我们的大脑皮层。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "But we still have a lot of monkey instincts. Which we then try to rationalize as, no, it's not a monkey instinct. It’s something more important than that. But it's often just really a monkey instinct. We're just monkeys with a computer stuck in our brain.",
+      "textZh": "但我们仍然有很多猴子的本能。然后我们会试图把它合理化，说，不，这不是猴子的本能。这是比那更重要的东西。但它往往真的只是一种猴子的本能。我们只不过是脑子里装着一台电脑的猴子。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "But even though the cortex is sort of the smart, or the intelligent part of the brain, the thinking part of the brain, I've not yet met anyone who wants to delete their limbic system or their cortex. They're quite happy having both. Everyone wants both parts of their brain. And people really want their phones and their computers, which are really the tertiary, the third part of your intelligence. It's just that it's ...",
+      "textZh": "但是，尽管大脑皮层算是大脑中聪明的、或者说有智能的部分，是大脑中负责思考的部分，但我还没遇到过任何想删除自己边缘系统或大脑皮层的人。他们很乐意两者兼有。每个人都想要自己大脑的这2个部分。而且人们真的想要自己的手机和电脑，它们其实就是第三级，是你智能的第3部分。只不过它……"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "Like the bandwidth, the rate of communication with that tertiary layer is slow. And it's just a very tiny straw to this tertiary layer. And we want to make that tiny straw a big highway. And I’m definitely not saying that this is going to solve everything. Or this is you know, it’s the only thing -- it’s something that might be helpful.",
+      "textZh": "就像带宽，也就是与那第三级之间的通信速率很慢。而且通往这第三级的只是一根非常细小的吸管。我们想把那根细小的吸管变成一条大公路。我绝不是说这会解决一切。或者说这是，你知道，唯一的办法——它只是某种可能会有帮助的东西。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "And worst-case scenario, I think we solve some important brain injury, spinal injury issues, and that's still a great outcome. CA: Best-case scenario, we may discover new human possibility, telepathy, you've spoken of, in a way, a connection with a loved one, you know, full memory and much faster thought processing maybe. All these things. It's very cool. If AI were to take down Earth, we need a plan B. Let's shift our attention to space.",
+      "textZh": "而且在最坏的情况下，我认为我们能解决一些重要的脑损伤、脊柱损伤问题，那仍然是一个很好的结果。CA：在最好的情况下，我们也许会发现人类新的可能性，比如你以某种方式谈到过的心灵感应，与所爱之人的连接，你知道，完整的记忆，或许还有快得多的思维处理速度。所有这些东西。这非常酷。如果 AI 要摧毁地球，我们需要一个 B 计划。让我们把注意力转向太空。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "We spoke last time at TED about reusability, and you had just demonstrated that spectacularly for the first time. Since then, you've gone on to build this monster rocket, Starship, which kind of changes the rules of the game in spectacular ways. Tell us about Starship. EM: Starship is extremely fundamental. So the holy grail of rocketry or space transport is full and rapid reusability. This has never been achieved.",
+      "textZh": "上次我们在 TED 谈到可重复使用时，你刚刚首次以令人惊叹的方式展示了这一点。从那以后，你继续打造了这枚巨型火箭，星舰，它以令人惊叹的方式改变了游戏规则。给我们讲讲星舰。EM：星舰极其重要。所以，火箭技术或者太空运输的圣杯，就是完全且快速的重复使用。这一点从未实现过。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "The closest that anything has come is our Falcon 9 rocket, where we are able to recover the first stage, the boost stage, which is probably about 60 percent of the cost of the vehicle of the whole launch, maybe 70 percent. And we've now done that over a hundred times. So with Starship, we will be recovering the entire thing. Or at least that's the goal. CA: Right. EM: And moreover, recovering it in such a way that it can be immediately re-flown.",
+      "textZh": "最接近这一目标的是我们的 Falcon 9 火箭，我们能够回收第一级，也就是助推级，它可能约占整个运载器整次发射成本的60%，也许是70%。而现在我们这样做已经超过100次了。所以对于星舰，我们将回收整个飞行器。或者至少那是目标。CA：对。EM：而且不仅如此，还要以一种能让它立即再次飞行的方式回收。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "Whereas with Falcon 9, we still need to do some amount of refurbishment to the booster and to the fairing nose cone. But with Starship, the design goal is immediate re-flight. So you just refill propellants and go again. And this is gigantic. Just as it would be in any other mode of transport. CA: And the main design is to basically take 100 plus people at a time, plus a bunch of things that they need, to Mars.",
+      "textZh": "而对于猎鹰 9 号，我们仍然需要对助推器和整流罩头锥做一定程度的翻修。但星舰的设计目标是立即再次飞行。所以你只需重新加注推进剂，然后再次出发。这意义极其重大。就像对任何其他交通方式而言一样。CA：而其主要设计基本上是每次运送 100 多人，以及他们所需的一大堆物资，前往火星。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "So, first of all, talk about that piece. What is your latest timeline? One, for the first time, a Starship goes to Mars, presumably without people, but just equipment. Two, with people. Three, there’s sort of, OK, 100 people at a time, let's go. EM: Sure.",
+      "textZh": "那么，首先谈谈这部分。你最新的时间表是什么？1，星舰首次前往火星，想必不会载人，只搭载设备。2，载人。3，就是某种，好吧，每次100人，我们出发吧。EM：当然。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "And just to put the cost thing into perspective, the expected cost of Starship, putting 100 tons into orbit, is significantly less than what it would have cost or what it did cost to put our tiny Falcon 1 rocket into orbit. Just as the cost of flying a 747 around the world is less than the cost of a small airplane. You know, a small airplane that was thrown away.",
+      "textZh": "为了直观说明成本问题，星舰将 100 吨送入轨道的预期成本，远低于把我们小小的猎鹰 1 号火箭送入轨道原本要花的成本，或者说实际花费的成本。就像驾驶一架 747 环球飞行的成本低于一架小型飞机的成本。你知道，一架用完就扔掉的小型飞机。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "So it's really pretty mind-boggling that the giant thing costs less, way less than the small thing. So it doesn't use exotic propellants or things that are difficult to obtain on Mars. It uses methane as fuel, and it's primarily oxygen, roughly 77-78 percent oxygen by weight. And Mars has a CO2 atmosphere and has water ice, which is CO2 plus H2O, so you can make CH4, methane, and O2, oxygen, on Mars.",
+      "textZh": "所以，这个庞然大物的成本更低，远低于那个小东西，确实相当令人难以置信。因此，它不使用奇特的推进剂，也不使用在火星上难以获得的东西。它使用甲烷作为燃料，而且主要是氧气，按重量计算大约有 77-78% 是氧气。火星有 CO2 大气层和水冰，也就是 CO2 加 H2O，所以你可以在火星上制造 CH4，也就是甲烷，以及 O2，也就是氧气。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "CA: Presumably, one of the first tasks on Mars will be to create a fuel plant that can create the fuel for the return trips of many Starships. EM: Yes. And actually, it's mostly going to be oxygen plants, because it's 78 percent oxygen, 22 percent fuel. But the fuel is a simple fuel that is easy to create on Mars. And in many other parts of the solar system. So basically ... And it's all propulsive landing, no parachutes, nothing thrown away.",
+      "textZh": "CA：想必火星上的首批任务之一，就是建造一座燃料工厂，为许多星舰的返程制造燃料。EM：是的。实际上，主要会是制氧厂，因为其中 78% 是氧气，22% 是燃料。但这种燃料很简单，很容易在火星上制造。在太阳系的许多其他地方也是如此。所以基本上……而且它完全依靠推进动力着陆，没有降落伞，没有任何东西会被丢弃。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "It has a heat shield that’s capable of entering on Earth or Mars. We can even potentially go to Venus. but you don't want to go there. (Laughs) Venus is hell, almost literally. But you could ...",
+      "textZh": "它有一面能够进入地球或火星大气层的隔热罩。我们甚至有可能去金星。但你不会想去那里。（笑）金星就是地狱，几乎是字面意义上的。不过你可以……"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "It's a generalized method of transport to anywhere in the solar system, because the point at which you have propellant depo on Mars, you can then travel to the asteroid belt and to the moons of Jupiter and Saturn and ultimately anywhere in the solar system. CA: But your main focus and SpaceX's main focus is still Mars. That is the mission. That is where most of the effort will go?",
+      "textZh": "这是一种前往太阳系任何地方的通用运输方式，因为一旦你在火星上设有推进剂仓库，就可以前往小行星带以及木星和土星的卫星，并最终前往太阳系中的任何地方。CA：但你的主要重点以及 SpaceX 的主要重点仍然是火星。那就是使命。大部分精力都会投入那里吗？"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "Or are you actually imagining a much broader array of uses even in the coming, you know, the first decade or so of uses of this. Where we could go, for example, to other places in the solar system to explore, perhaps NASA wants to use the rocket for that reason. EM: Yeah, NASA is planning to use a Starship to return to the moon, to return people to the moon. And so we're very honored that NASA has chosen us to do this.",
+      "textZh": "还是说，你实际上设想了更广泛的一系列用途，甚至是在接下来的，你知道，它投入使用后的头 10 年左右。例如，我们可以前往太阳系中的其他地方探索，也许 NASA 会出于这个原因想使用这枚火箭。EM：是的，NASA 正计划使用一艘星舰重返月球，把人类再次送上月球。因此，我们非常荣幸 NASA 选择了我们来完成这件事。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "But I'm saying it is a generalized -- it’s a general solution to getting anywhere in the greater solar system. It's not suitable for going to another star system, but it is a general solution for transport anywhere in the solar system. CA: Before it can do any of that, it's got to demonstrate it can get into orbit, you know, around Earth. What’s your latest advice on the timeline for that?",
+      "textZh": "但我的意思是，它是一种通用的——它是前往更大范围太阳系内任何地方的通用解决方案。它不适合前往另一个恒星系统，但它是太阳系内任意地点运输的通用解决方案。CA：在它能做任何这些事之前，必须先证明它能够进入轨道，你知道，进入环绕地球的轨道。关于这个时间表，你最新的判断是什么？"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "EM: It's looking promising for us to have an orbital launch attempt in a few months. So we're actually integrating -- will be integrating the engines into the booster for the first orbital flight starting in about a week or two. And the launch complex itself is ready to go. So assuming we get regulatory approval, I think we could have an orbital launch attempt within a few months.",
+      "textZh": "EM：看来我们很有希望在几个月内尝试进行一次轨道发射。所以我们实际上正在集成——大约 1 周或 2 周后，将开始把发动机集成到用于首次轨道飞行的助推器中。发射场本身也已经准备就绪。所以假设我们获得监管批准，我认为我们可以在几个月内尝试进行一次轨道发射。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "CA: And a radical new technology like this presumably there is real risk on those early attempts. EM: Oh, 100 percent, yeah. The joke I make all the time is that excitement is guaranteed. Success is not guaranteed, but excitement certainly is. CA: But the last I saw on your timeline, you've slightly put back the expected date to put the first human on Mars till 2029, I want to say? EM: Yeah, I mean, so let's see.",
+      "textZh": "CA：而像这样的激进新技术，早期尝试想必确实存在风险。EM：哦，100%，是的。我一直开的玩笑是，刺激是有保证的。成功没有保证，但刺激肯定有。CA：但我上次看到你的时间表时，你把首位人类送上火星的预计日期稍微推迟到了 2029 年，我想是这样？EM：是的，我是说，那么让我们看看。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "I mean, we have built a production system for Starship, so we're making a lot of ships and boosters. CA: How many are you planning to make actually? EM: Well, we're currently expecting to make a booster and a ship roughly every, well, initially, roughly every couple of months, and then hopefully by the end of this year, one every month. So it's giant rockets, and a lot of them.",
+      "textZh": "我的意思是，我们已经为星舰建立了生产系统，所以我们正在制造很多飞船和助推器。CA：你们实际计划制造多少？EM：嗯，我们目前预计大约每……嗯，最初大约每几个月制造一个助推器和一艘飞船，然后希望到今年年底，每个月制造一个。所以这些是巨型火箭，而且数量很多。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "Just talking in terms of rough orders of magnitude, in order to create a self-sustaining city on Mars, I think you will need something on the order of a thousand ships. And we just need a Helen of Sparta, I guess, on Mars. CA: This is not in most people's heads, Elon. EM: The planet that launched 1,000 ships. CA: That's nice. But this is not in most people's heads, this picture that you have in your mind.",
+      "textZh": "仅从粗略数量级来说，要在火星上建立一座自给自足的城市，我认为你需要大约 1,000 艘飞船。我想，我们只需要火星上有一位斯巴达的海伦。CA：这不是大多数人脑海中会有的想法，埃隆。EM：一颗让 1,000 艘飞船启航的行星。CA：这很好。但你脑海中的这幅画面并不存在于大多数人的脑海中。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "There's basically a two-year window, you can only really fly to Mars conveniently every two years. You were picturing that during the 2030s, every couple of years, something like 1,000 Starships take off, each containing 100 or more people. That picture is just completely mind-blowing to me. That sense of this armada of humans going to -- EM: It'll be like \"Battlestar Galactica,\" the fleet departs.",
+      "textZh": "基本上存在一个为期 2 年的窗口，实际上每隔 2 年才能方便地飞往火星。你设想的是，在 2030 年代，每隔 2 年就会有大约 1,000 艘星舰起飞，每艘搭载 100 人或更多人。那个画面对我来说简直完全令人难以置信。那种人类舰队前往——EM：它会像《太空堡垒卡拉狄加》一样，舰队出发。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "CA: And you think that it can basically be funded by people spending maybe a couple hundred grand on a ticket to Mars? Is that price about where it has been? EM: Well, I think if you say like, what's required in order to get enough people and enough cargo to Mars to build a self-sustaining city.",
+      "textZh": "CA：而且你认为，这基本上可以由人们花费大概几十万美元购买一张前往火星的船票来提供资金？价格大约一直是这个水平吗？EM：嗯，我认为，如果你问，要让足够多的人和足够多的货物抵达火星，以建造一座自给自足的城市，需要什么。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "And it's where you have an intersection of sets of people who want to go, because I think only a small percentage of humanity will want to go, and can afford to go or get sponsorship in some manner. That intersection of sets, I think, needs to be a million people or something like that. And so it’s what can a million people afford, or get sponsorship for, because I think governments will also pay for it, and people can take out loans.",
+      "textZh": "而它就在几个群体的交集中：想去的人，因为我认为只有一小部分人类会想去；以及负担得起，或者能以某种方式获得赞助的人。我认为，这些群体的交集需要有 100 万人左右。所以问题在于，100 万人能负担得起什么，或者能为此获得赞助，因为我认为各国政府也会为此付费，而且人们可以申请贷款。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "But I think at the point at which you say, OK, like, if moving to Mars costs are, for argument’s sake, $100,000, then I think you know, almost anyone can work and save up and eventually have $100,000 and be able to go to Mars if they want. We want to make it available to anyone who wants to go. It's very important to emphasize that Mars, especially in the beginning, will not be luxurious. It will be dangerous, cramped, difficult, hard work.",
+      "textZh": "但我认为，当你说，好吧，比如说，为了便于讨论，移居火星的费用是 100,000 美元，那么我想，你知道，几乎任何人都可以工作、攒钱，最终拥有 100,000 美元，并且如果愿意就能前往火星。我们希望让任何想去的人都有机会去。非常重要的一点是要强调，火星，尤其是在初期，不会很奢华。那里会很危险、拥挤、艰难，需要辛苦工作。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "It's kind of like that Shackleton ad for going to the Antarctic, which I think is actually not real, but it sounds real and it's cool. It's sort of like, the sales pitch for going to Mars is, \"It's dangerous, it's cramped. You might not make it back. It's difficult, it's hard work.\" That's the sales pitch. CA: Right. But you will make history. EM: But it'll be glorious.",
+      "textZh": "这有点像沙克尔顿那则招募人们前往南极的广告，我认为它实际上不是真的，但听起来很真实，而且很酷。前往火星的推销说辞大概是：“那里很危险，很拥挤。你可能回不来。那里很艰难，需要辛苦工作。”这就是推销说辞。CA：对。但你会创造历史。EM：但那会很辉煌。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "CA: So on that kind of launch rate you're talking about over two decades, you could get your million people to Mars, essentially. Whose city is it? Is it NASA's city, is it SpaceX's city? EM: It’s the people of Mars’ city. The reason for this, I mean, I feel like why do this thing? I think this is important for maximizing the probable lifespan of humanity or consciousness.",
+      "textZh": "CA：所以按照你所说的那种发射频率，经过 20 年，你基本上可以把那 100 万人送上火星。那是谁的城市？是 NASA 的城市，还是 SpaceX 的城市？EM：那是火星人民的城市。这样做的原因，我是说，我觉得，为什么要做这件事？我认为，这对于最大限度延长人类或意识可能存在的时间非常重要。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "Human civilization could come to an end for external reasons, like a giant meteor or super volcanoes or extreme climate change. Or World War III, or you know, any one of a number of reasons. But the probable life span of civilizational consciousness as we know it, which we should really view as this very delicate thing, like a small candle in a vast darkness. That is what appears to be the case.",
+      "textZh": "人类文明可能会由于外部原因走向终结，比如一颗巨大的流星、超级火山或极端气候变化。或者第三次世界大战，或者你知道的，诸多原因中的任何一个。但我们所知的文明意识可能存在的寿命，我们确实应该把它看作一件非常脆弱的东西，就像无边黑暗中的一支小蜡烛。情况看起来就是这样。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "We're in this vast darkness of space, and there's this little candle of consciousness that’s only really come about after 4. 5 billion years, and it could just go out. CA: I think that's powerful, and I think a lot of people will be inspired by that vision. And the reason you need the million people is because there has to be enough people there to do everything that you need to survive.",
+      "textZh": "我们身处这片浩瀚的太空黑暗之中，而这里有一支小小的意识之烛，它实际上只是在45亿年后才出现，而且它可能就这样熄灭。CA：我认为这很有感染力，而且我想很多人都会受到这一愿景的鼓舞。而你需要100万人的原因，是那里必须有足够多的人来做你生存所需的一切事情。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "EM: Really, like the critical threshold is if the ships from Earth stop coming for any reason, does the Mars City die out or not? And so we have to -- You know, people talk about like, the sort of, the great filters, the things that perhaps, you know, we talk about the Fermi paradox, and where are the aliens? Well maybe there are these various great filters that the aliens didn’t pass, and so they eventually just ceased to exist.",
+      "textZh": "EM：实际上，关键门槛是，如果来自地球的飞船因为任何原因停止到来，火星城会不会消亡？所以我们必须——你知道，人们会谈论诸如所谓的“大过滤器”，那些也许会……你知道，我们会谈论费米悖论，以及外星人在哪里？也许存在着这些不同的“大过滤器”，外星人没能通过，于是他们最终就不复存在了。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "And one of the great filters is becoming a multi-planet species. So we want to pass that filter. And I'll be long-dead before this is, you know, a real thing, before it happens. But I’d like to at least see us make great progress in this direction.",
+      "textZh": "而其中一个“大过滤器”就是成为一个多行星物种。所以我们想通过这道过滤器。而在这件事真正成为现实之前，在它发生之前，我早就去世了。但我希望至少能看到我们朝这个方向取得巨大进展。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "CA: Given how tortured the Earth is right now, how much we're beating each other up, shouldn't there be discussions going on with everyone who is dreaming about Mars to try to say, we've got a once in a civilization's chance to make some new rules here? Should someone be trying to lead those discussions to figure out what it means for this to be the people of Mars' City?",
+      "textZh": "CA：鉴于地球现在饱受折磨，我们彼此伤害得如此严重，所有梦想着火星的人难道不应该展开讨论，试着说，我们遇到了文明仅有一次的机会，可以在这里制定一些新规则吗？是否应该有人努力牵头这些讨论，弄清楚成为火星城的人民意味着什么？"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "EM: Well, I think ultimately this will be up to the people of Mars to decide how they want to rethink society. Yeah there’s certainly risk there. And hopefully the people of Mars will be more enlightened and will not fight amongst each other too much. I mean, I have some recommendations, which people of Mars may choose to listen to or not.",
+      "textZh": "EM：嗯，我认为最终将由火星人民决定他们想如何重新思考社会。是的，那里当然存在风险。希望火星人民会更加开明，不会彼此争斗得太厉害。我的意思是，我有一些建议，火星人民可以选择听，也可以选择不听。"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "I would advocate for more of a direct democracy, not a representative democracy, and laws that are short enough for people to understand. Where it is harder to create laws than to get rid of them. CA: Coming back a bit nearer term, I'd love you to just talk a bit about some of the other possibility space that Starship seems to have created. So given -- Suddenly we've got this ability to move 100 tons-plus into orbit.",
+      "textZh": "我会主张实行更多的直接民主，而不是代议制民主，并且让法律简短到足以使人们理解。制定法律应当比废除法律更难。CA：回到稍微近一些的时期，我很希望你谈一谈星舰似乎创造的其他一些可能性空间。所以，鉴于——突然之间，我们拥有了把100多吨物体送入轨道的能力。"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "So we've just launched the James Webb telescope, which is an incredible thing. It's unbelievable. EM: Exquisite piece of technology. CA: Exquisite piece of technology. But people spent two years trying to figure out how to fold up this thing. It's a three-ton telescope. EM: We can make it a lot easier if you’ve got more volume and mass. CA: But let's ask a different question.",
+      "textZh": "所以我们刚刚发射了詹姆斯·韦布望远镜，那是一件不可思议的东西。令人难以置信。EM：精妙绝伦的技术杰作。CA：精妙绝伦的技术杰作。但人们花了2年时间试图弄清楚如何把这东西折叠起来。它是一台3吨重的望远镜。EM：如果有更大的容积和质量余量，我们可以让这件事容易得多。CA：但我们来问一个不同的问题。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "Which is, how much more powerful a telescope could someone design based on using Starship, for example? EM: I mean, roughly, I'd say it's probably an order of magnitude more resolution. If you've got 100 tons and a thousand cubic meters volume, which is roughly what we have. CA: And what about other exploration through the solar system? I mean, I'm you know -- EM: Europa is a big question mark. CA: Right, so there's an ocean there.",
+      "textZh": "也就是，比如说，如果使用星舰，人们能够设计出威力强大多少的望远镜？EM：我的意思是，粗略来说，我会说其分辨率可能会提高一个数量级。如果你有100吨的载荷能力和1000立方米的容积，这大致就是我们所拥有的。CA：那么对太阳系的其他探索呢？我的意思是，我，你知道——EM：木卫二是一个巨大的未知数。CA：对，所以那里有一片海洋。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "And what you really want to do is to drop a submarine into that ocean. EM: Maybe there's like, some squid civilization, cephalopod civilization under the ice of Europa. That would be pretty interesting. CA: I mean, Elon, if you could take a submarine to Europa and we see pictures of this thing being devoured by a squid, that would honestly be the happiest moment of my life. EM: Pretty wild, yeah. CA: What other possibilities are out there?",
+      "textZh": "而你真正想做的是把一艘潜艇投进那片海洋。EM：也许木卫二的冰层下面存在某种鱿鱼文明、头足类文明。那会非常有意思。CA：我的意思是，埃隆，如果你能把一艘潜艇送到木卫二，而我们看到的画面是这东西被一只鱿鱼吞掉，那说实话会是我一生中最幸福的时刻。EM：会很疯狂，是的。CA：还有哪些其他可能性？"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "Like, it feels like if you're going to create a thousand of these things, they can only fly to Mars every two years. What are they doing the rest of the time? It feels like there's this explosion of possibility that I don't think people are really thinking about. EM: I don't know, we've certainly got a long way to go. As you alluded to earlier, we still have to get to orbit.",
+      "textZh": "比如，感觉如果你要制造1000艘这种飞船，它们每2年才能飞往火星一次。其余时间它们做什么？感觉这里存在着可能性的爆发，而我认为人们并没有真正思考这一点。EM：我不知道，我们当然还有很长的路要走。正如你之前提到的，我们仍然必须先进入轨道。"
+    },
+    {
+      "id": "p-0115",
+      "textEn": "And then after we get to orbit, we have to really prove out and refine full and rapid reusability. That'll take a moment. But I do think we will solve this. I'm highly confident we will solve this at this point. CA: Do you ever wake up with the fear that there's going to be this Hindenburg moment for SpaceX where ... EM: We've had many Hindenburg. Well, we've never had Hindenburg moments with people, which is very important. Big difference.",
+      "textZh": "然后，在进入轨道之后，我们必须真正验证并完善完全且快速的重复使用能力。那需要一点时间。但我确实认为我们会解决这个问题。到目前这个阶段，我非常有信心我们会解决它。CA：你是否曾经醒来时担心SpaceX会遭遇某种兴登堡时刻，那时……EM：我们经历过很多次兴登堡。嗯，我们从未经历过涉及人员的兴登堡时刻，这一点非常重要。区别很大。"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "We've blown up quite a few rockets. So there's a whole compilation online that we put together and others put together, it's showing rockets are hard. I mean, the sheer amount of energy going through a rocket boggles the mind. So, you know, getting out of Earth's gravity well is difficult. We have a strong gravity and a thick atmosphere. And Mars, which is less than 40 percent, it's like, 37 percent of Earth's gravity and has a thin atmosphere.",
+      "textZh": "我们炸毁过相当多的火箭。所以网上有一整套集锦，有我们整理的，也有其他人整理的，它展示了火箭有多难。我的意思是，流经一枚火箭的庞大能量简直令人难以想象。所以，你知道，摆脱地球引力井是很困难的。我们有强大的引力和浓厚的大气层。而火星不到40%，大约是地球引力的37%，并且大气层很稀薄。"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "The ship alone can go all the way from the surface of Mars to the surface of Earth. Whereas getting to Mars requires a giant booster and orbital refilling. CA: So, Elon, as I think more about this incredible array of things that you're involved with, I keep seeing these synergies, to use a horrible word, between them.",
+      "textZh": "仅靠飞船本身就可以一路从火星表面抵达地球表面。而前往火星则需要一枚巨型助推器和在轨加注。CA：所以，埃隆，当我进一步思考你参与的这一系列不可思议的事情时，我不断看到它们之间的这些协同效应——借用一个糟糕的词。"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "You know, for example, the robots you're building from Tesla could possibly be pretty handy on Mars, doing some of the dangerous work and so forth. I mean, maybe there's a scenario where your city on Mars doesn't need a million people, it needs half a million people and half a million robots. And that's a possibility. Maybe The Boring Company could play a role helping create some of the subterranean dwelling spaces that you might need. EM: Yeah.",
+      "textZh": "你知道，比如说，你通过Tesla制造的机器人在火星上或许会相当有用，可以做一些危险的工作等等。我的意思是，也许存在这样一种情景：你的火星城市不需要100万人，而是需要50万人和50万台机器人。这是一种可能性。也许无聊公司可以发挥作用，帮助建造一些你可能需要的地下居住空间。EM：是的。"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "CA: Back on planet Earth, it seems like a partnership between Boring Company and Tesla could offer an unbelievable deal to a city to say, we will create for you a 3D network of tunnels populated by robo-taxis that will offer fast, low-cost transport to anyone. You know, full self-driving may or may not be done this year. And in some cities, like, somewhere like Mumbai, I suspect won't be done for a decade.",
+      "textZh": "CA：回到地球，无聊公司与Tesla之间的合作似乎可以向一座城市提出一项令人难以置信的方案：我们将为你们建造一个由无人驾驶出租车运行的3D隧道网络，为任何人提供快速、低成本的交通服务。你知道，完全自动驾驶今年可能会完成，也可能不会。而在某些城市，比如孟买这样的地方，我猜10年内都不会完成。"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "EM: Some places are more challenging than others. CA: But today, today, with what you've got, you could put a 3D network of tunnels under there. EM: Oh, if it’s just in a tunnel, that’s a solved problem. CA: Exactly, full self-driving is a solved problem. To me, there’s amazing synergy there. With Starship, you know, Gwynne Shotwell talked about by 2028 having from city to city, you know, transport on planet Earth. EM: This is a real possibility.",
+      "textZh": "EM：有些地方比其他地方更具挑战性。CA：但今天，就在今天，凭借你们现有的东西，你们可以在下面铺设一个3D隧道网络。EM：哦，如果只是在隧道里，那是一个已经解决的问题。CA：没错，完全自动驾驶是一个已经解决的问题。在我看来，这里存在惊人的协同效应。关于星舰，你知道，格温·肖特韦尔谈到到2028年时，在地球上实现城市到城市的交通，你知道。EM：这是一种切实存在的可能性。"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "The fastest way to get from one place to another, if it's a long distance, is a rocket. It's basically an ICBM. CA: But it has to land -- Because it's an ICBM, it has to land probably offshore, because it's loud. So why not have a tunnel that then connects to the city with Tesla? And Neuralink. I mean, if you going to go to Mars having a telepathic connection with loved ones back home, even if there's a time delay...",
+      "textZh": "如果是长距离，从一个地方前往另一个地方最快的方式就是火箭。它基本上就是一枚洲际弹道导弹。CA：但它必须着陆——因为它是一枚洲际弹道导弹，所以可能必须在近海着陆，因为它噪声很大。那么为什么不建一条隧道，再通过Tesla把它连接到城市呢？还有Neuralink。我的意思是，如果你要去火星，能够与家乡的亲人建立心灵感应式连接，即便存在时间延迟……"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "EM: These are not intended to be connected, by the way. But there certainly could be some synergies, yeah. CA: Surely there is a growing argument that you should actually put all these things together into one company and just have a company devoted to creating a future that’s exciting, and let a thousand flowers bloom. Have you been thinking about that?",
+      "textZh": "EM：顺便说一句，这些东西的设计初衷并不是相互连接。但它们当然可能存在一些协同效应，是的。CA：把所有这些东西真正合并到一家公司里的理由肯定越来越充分了，只设立一家公司，致力于创造一个令人兴奋的未来，并让千朵花盛开。你是否考虑过这件事？"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "EM: I mean, it is tricky because Tesla is a publicly-traded company, and the investor base of Tesla and SpaceX and certainly Boring Company and Neuralink are quite different. Boring Company and Neuralink are tiny companies. CA: By comparison. EM: Yeah, Tesla's got 110,000 people. SpaceX I think is around 12,000 people. Boring Company and Neuralink are both under 200 people.",
+      "textZh": "EM：我的意思是，这很棘手，因为Tesla是一家上市公司，而Tesla和SpaceX的投资者群体，以及无聊公司和Neuralink的投资者群体，当然都大不相同。无聊公司和Neuralink都是很小的公司。CA：相较而言。EM：是的，Tesla有110000人。SpaceX我想大约有12000人。无聊公司和Neuralink都不到200人。"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "So they're little, tiny companies, but they will probably get bigger in the future. They will get bigger in the future. It's not that easy to sort of combine these things. CA: Traditionally, you have said that for SpaceX especially, you wouldn't want it public, because public investors wouldn't support the craziness of the idea of going to Mars or whatever.",
+      "textZh": "所以它们都是小小的、微型的公司，但未来可能会变得更大。它们未来会变得更大。要把这些东西合并起来并没有那么容易。CA：传统上，你一直说，尤其是对 SpaceX 而言，你不希望它上市，因为公众投资者不会支持去火星之类的疯狂想法。"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "EM: Yeah, making life multi-planetary is outside of the normal time horizon of Wall Street analysts. (Laughs) To say the least. CA: I think something's changed, though. What's changed is that Tesla is now so powerful and so big and throws off so much cash that you actually could connect the dots here. Just tell the public that x-billion dollars a year, whatever your number is, will be diverted to the Mars mission.",
+      "textZh": "EM：是的，让生命扩展到多个行星这件事超出了华尔街分析师通常的时间跨度。（笑）至少可以这么说。CA：不过，我觉得有些事情已经变了。变化在于，Tesla 现在如此强大、规模如此庞大，并且产生了如此多的现金，以至于你其实可以把这些事情串联起来。只要告诉公众，每年将有 x0 亿美元，不管你的数字是多少，被转用于火星任务。"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "I suspect you'd have massive interest in that company. And it might unlock a lot more possibility for you, no? EM: I would like to give the public access to ownership of SpaceX, but I mean the thing that like, the overhead associated with a public company is high. I mean, as a public company, you're just constantly sued. It does occupy like, a fair bit of ... You know, time and effort to deal with these things.",
+      "textZh": "我猜那家公司会引起极大的兴趣。而且这或许会为你释放出更多可能性，不是吗？EM：我希望让公众有机会持有 SpaceX 的股份，但我的意思是，那个，就是与上市公司相关的管理成本很高。我的意思是，作为一家上市公司，你就是不断被起诉。处理这些事情确实会占用，相当一部分……你知道，时间和精力。"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "CA: But you would still only have one public company, it would be bigger, and have more things going on. But instead of being on four boards, you'd be on one. EM: I'm actually not even on the Neuralink or Boring Company boards. And I don't really attend the SpaceX board meetings. We only have two a year, and I just stop by and chat for an hour. The board overhead for a public company is much higher.",
+      "textZh": "CA：但你仍然只会有一家上市公司，只是它会更大，并且会有更多事情在进行。但你不再需要加入 4 个董事会，而只需加入 1 个。EM：其实我甚至都不在 Neuralink 或无聊公司的董事会里。而且我并不真正参加 SpaceX 的董事会会议。我们每年只有 2 次，我只会过去聊上 1 个小时。上市公司的董事会管理成本要高得多。"
+    },
+    {
+      "id": "p-0128",
+      "textEn": "CA: I think some investors probably worry about how your time is being split, and they might be excited by you know, that. Anyway, I just woke up the other day thinking, just, there are so many ways in which these things connect. And you know, just the simplicity of that mission, of building a future that is worth getting excited about, might appeal to an awful lot of people.",
+      "textZh": "CA：我想，一些投资者可能会担心你的时间是如何分配的，而他们或许会为，你知道，那件事感到兴奋。不管怎样，前几天我醒来时就在想，只是，这些事情有太多相互关联的方式了。而且，你知道，打造一个值得令人兴奋的未来，这一使命本身的简明性，或许会吸引非常多的人。"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "Elon, you are reported by Forbes and everyone else as now, you know, the world's richest person. EM: That’s not a sovereign. CA: (Laughs) EM: You know, I think it’s fair to say that if somebody is like, the king or de facto king of a country, they're wealthier than I am. CA: But it’s just harder to measure -- So $300 billion. I mean, your net worth on any given day is rising or falling by several billion dollars. How insane is that?",
+      "textZh": "埃隆，据《福布斯》和其他所有媒体报道，你现在是，你知道，世界首富。EM：那不是君主。CA：（笑）EM：你知道，我认为可以公正地说，如果某个人是，比如说，一个国家的国王或事实上的国王，那他们就比我更富有。CA：只是这更难衡量——所以是 3,000 亿美元。我的意思是，你的净资产在任何一天都会增加或减少数十亿美元。这有多疯狂？"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "EM: It's bonkers, yeah. CA: I mean, how do you handle that psychologically? There aren't many people in the world who have to even think about that. EM: I actually don't think about that too much.",
+      "textZh": "EM：太离谱了，对。CA：我是说，你在心理上是怎么应对的？世界上甚至需要考虑这件事的人并不多。EM：其实我并不会过多考虑这件事。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "But the thing that is actually more difficult and that does make sleeping difficult is that, you know, every good hour or even minute of thinking about Tesla and SpaceX has such a big effect on the company that I really try to work as much as possible, you know, to the edge of sanity, basically.",
+      "textZh": "但实际上更困难、也确实让人难以入睡的是，你知道，每一个用于思考 Tesla 和 SpaceX 的高质量小时，甚至每一分钟，都会对公司产生如此巨大的影响，以至于我真的会尽可能多地工作，你知道，基本上一直工作到理智的边缘。"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "Because you know, Tesla’s getting to the point where probably will get to the point later this year, where every high-quality minute of thinking is a million dollars impact on Tesla. Which is insane. I mean, the basic, you know, if Tesla is doing, you know, sort of $2 billion a week, let’s say, in revenue, it’s sort of $300 million a day, seven days a week. You know, it's ...",
+      "textZh": "因为你知道，Tesla 正在发展到这样一个阶段，可能会在今年晚些时候达到这样一个阶段：每一分钟的高质量思考都会给 Tesla 带来 100 万美元的影响。这太疯狂了。我的意思是，从基本情况来说，你知道，如果 Tesla 每周的营收是，你知道，大约 20 亿美元，我们姑且这么说，那就是每周 7 天、每天大约 3 亿美元。你知道，这……"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "CA: If you can change that by five percent in an hour’s brainstorm, that's a pretty valuable hour. EM: I mean, there are many instances where a half-hour meeting, I was able to improve the financial outcome of the company by $100 million in a half-hour meeting. CA: There are many other people out there who can't stand this world of billionaires.",
+      "textZh": "CA：如果你能通过 1 小时的头脑风暴让它改变 5%，那就是非常宝贵的 1 小时。EM：我的意思是，有很多次，在一次半小时的会议中，我能够在半小时的会议中让公司的财务结果改善 1 亿美元。CA：外面还有很多人无法忍受这个亿万富翁的世界。"
+    },
+    {
+      "id": "p-0134",
+      "textEn": "Like, they are hugely offended by the notion that an individual can have the same wealth as, say, a billion or more of the world's poorest people. EM: If they examine sort of -- I think there's some axiomatic flaws that are leading them to that conclusion. For sure, it would be very problematic if I was consuming, you know, billions of dollars a year in personal consumption. But that is not the case. In fact, I don't even own a home right now.",
+      "textZh": "比如，一名个人可以拥有与世界上，比如说，10 亿或更多最贫困人口相同的财富，这种观念会让他们极其愤怒。EM：如果他们审视一下，大概——我认为存在一些公理层面的缺陷，导致他们得出了那个结论。当然，如果我每年在个人消费上花费数十亿美元，那会非常成问题。但事实并非如此。事实上，我现在甚至没有自己的房子。"
+    },
+    {
+      "id": "p-0135",
+      "textEn": "I'm literally staying at friends' places. If I travel to the Bay Area, which is where most of Tesla engineering is, I basically rotate through friends' spare bedrooms. I don't have a yacht, I really don't take vacations. It’s not as though my personal consumption is high. I mean, the one exception is a plane. But if I don't use the plane, then I have less hours to work.",
+      "textZh": "我真的就住在朋友家。如果我去湾区，也就是 Tesla 大部分工程工作的所在地，我基本上会轮流住在朋友家的空卧室里。我没有游艇，我真的不度假。我的个人消费并不高。我的意思是，唯一的例外是一架飞机。但如果我不用飞机，那么我工作的时间就会减少。"
+    },
+    {
+      "id": "p-0136",
+      "textEn": "CA: I mean, I personally think you have shown that you are mostly driven by really quite a deep sense of moral purpose. Like, your attempts to solve the climate problem have been as powerful as anyone else on the planet that I'm aware of. And I actually can't understand, personally, I can't understand the fact that you get all this criticism from the Left about, \"Oh, my God, he's so rich, that's disgusting.\" When climate is their issue.",
+      "textZh": "CA：我的意思是，我个人认为，你已经表明，真正驱动你的主要是一种相当深刻的道德使命感。比如，据我所知，你为解决气候问题所做的努力，和地球上的任何人一样有力。而且我个人真的无法理解，我无法理解左翼对你的种种批评：“哦，我的天，他太有钱了，真恶心。”可气候问题正是他们关心的议题。"
+    },
+    {
+      "id": "p-0137",
+      "textEn": "Philanthropy is a topic that some people go to. Philanthropy is a hard topic. How do you think about that? EM: I think if you care about the reality of goodness instead of the perception of it, philanthropy is extremely difficult. SpaceX, Tesla, Neuralink and The Boring Company are philanthropy. If you say philanthropy is love of humanity, they are philanthropy. Tesla is accelerating sustainable energy. This is a love -- philanthropy.",
+      "textZh": "慈善是一些人会谈到的话题。慈善是一个很难的话题。你怎么看这件事？EM：我认为，如果你关心的是善的实际效果，而不是善的表象，那么慈善是极其困难的。SpaceX、Tesla、Neuralink 和 The Boring Company 都是慈善。如果你说慈善是对人类的爱，那么它们就是慈善。Tesla 正在加速可持续能源的发展。这是一种爱——慈善。"
+    },
+    {
+      "id": "p-0138",
+      "textEn": "SpaceX is trying to ensure the long-term survival of humanity with a multiple-planet species. That is love of humanity. You know, Neuralink is trying to help solve brain injuries and existential risk with AI. Love of humanity. Boring Company is trying to solve traffic, which is hell for most people, and that also is love of humanity. CA: How upsetting is it to you to hear this constant drumbeat of, \"Billionaires, my God, Elon Musk, oh, my God?\"",
+      "textZh": "SpaceX 正努力通过让人类成为多行星物种来确保人类的长期生存。那是对人类的爱。你知道，Neuralink 正试图帮助解决脑损伤以及人工智能带来的生存风险。对人类的爱。Boring Company 正试图解决交通问题，对大多数人来说，交通就是地狱，而这也是对人类的爱。CA：不断听到这种反复鼓噪：“亿万富翁，我的天，埃隆·马斯克，哦，我的天？”这让你有多心烦？"
+    },
+    {
+      "id": "p-0139",
+      "textEn": "Like, do you just shrug that off or does it does it actually hurt? EM: I mean, at this point, it's water off a duck's back. CA: Elon, I’d like to, as we wrap up now, just pull the camera back and just think ... You’re a father now of seven surviving kids. EM: Well, I mean, I'm trying to set a good example because the birthrate on Earth is so low that we're facing civilizational collapse unless the birth rate returns to a sustainable level.",
+      "textZh": "比如，你只是对此不以为意，还是它确实、确实会伤害到你？EM：我的意思是，到了现在，这对我来说就像水从鸭背上滑过一样，毫无影响。CA：埃隆，在我们现在即将结束时，我想把镜头拉远一些，想一想……你现在是一位父亲，有7个健在的孩子。EM：嗯，我的意思是，我正努力树立一个好榜样，因为地球上的出生率太低了，除非出生率恢复到可持续水平，否则我们将面临文明崩溃。"
+    },
+    {
+      "id": "p-0140",
+      "textEn": "CA: Yeah, you've talked about this a lot, that depopulation is a big problem, and people don't understand how big a problem it is. EM: Population collapse is one of the biggest threats to the future of human civilization. And that is what is going on right now. CA: What drives you on a day-to-day basis to do what you do?",
+      "textZh": "CA：对，你已经多次谈到这个问题，即人口减少是一个大问题，而人们不明白这个问题有多严重。EM：人口崩溃是人类文明未来面临的最大威胁之一。而这正是目前正在发生的事情。CA：是什么驱使你日复一日地做你所做的事情？"
+    },
+    {
+      "id": "p-0141",
+      "textEn": "EM: I guess, like, I really want to make sure that there is a good future for humanity and that we're on a path to understanding the nature of the universe, the meaning of life. Why are we here, how did we get here? And in order to understand the nature of the universe and all these fundamental questions, we must expand the scope and scale of consciousness. Certainly it must not diminish or go out. Or we certainly won’t understand this.",
+      "textZh": "EM：我想，怎么说呢，我真的想确保人类拥有美好的未来，并确保我们走在理解宇宙本质、生命意义的道路上。我们为什么在这里，我们是怎么来到这里的？为了理解宇宙的本质以及所有这些根本问题，我们必须扩展意识的范围和规模。意识当然绝不能衰退或熄灭。否则我们肯定无法理解这些。"
+    },
+    {
+      "id": "p-0142",
+      "textEn": "I would say I’ve been motivated by curiosity more than anything, and just desire to think about the future and not be sad, you know? CA: And are you? Are you not sad? EM: I'm sometimes sad, but mostly I'm feeling I guess relatively optimistic about the future these days. There are certainly some big risks that humanity faces.",
+      "textZh": "我会说，驱动我的主要是好奇心，而不是其他任何东西，还有就是希望思考未来时不会感到悲伤，你知道吗？CA：那你呢？你不悲伤吗？EM：我有时会悲伤，但我想，最近我大体上对未来感到相对乐观。人类当然面临一些重大风险。"
+    },
+    {
+      "id": "p-0143",
+      "textEn": "I think the population collapse is a really big deal, that I wish more people would think about because the birth rate is far below what's needed to sustain civilization at its current level. And there's obviously ... We need to take action on climate sustainability, which is being done. And we need to secure the future of consciousness by being a multi-planet species.",
+      "textZh": "我认为人口崩塌是一件非常严重的事，我希望更多人能思考这个问题，因为出生率远低于将文明维持在当前水平所需的程度。而且显然……我们需要为气候可持续性采取行动，而这方面的行动正在进行。我们还需要通过成为多行星物种来保障意识的未来。"
+    },
+    {
+      "id": "p-0144",
+      "textEn": "We need to address -- Essentially, it's important to take whatever actions we can think of to address the existential risks that affect the future of consciousness. CA: There's a whole generation coming through who seem really sad about the future. What would you say to them? EM: Well, I think if you want the future to be good, you must make it so. Take action to make it good. And it will be. CA: Elon, thank you for all this time.",
+      "textZh": "我们需要应对——从根本上说，重要的是采取我们能想到的一切行动，来应对那些影响意识未来的生存风险。CA：有整整一代年轻人正在成长起来，他们似乎对未来感到非常悲观。你会对他们说什么？EM：嗯，我认为，如果你希望未来是美好的，你就必须让它变得美好。采取行动，让它变得美好。它会变得美好的。CA：埃隆，谢谢你抽出这么多时间。"
+    },
+    {
+      "id": "p-0145",
+      "textEn": "That is a beautiful place to end. Thanks for all you're doing. EM: You're welcome.",
+      "textZh": "这是一个很美好的收尾。感谢你所做的一切。EM：不客气。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T09:14:26.977Z",
+    "reviewedAt": "2026-09-13T09:52:12.215Z"
+  },
+  "fetchedAt": "2026-09-12T07:13:27.607Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=YRvf00NooN8",
+  "sourceHash": "d5b99a31f3c831f00bf52a391709e04b15eb2fb8a0bfd470cdea028f031c0819"
+}

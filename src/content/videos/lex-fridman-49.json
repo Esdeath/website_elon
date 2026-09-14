@@ -1,0 +1,570 @@
+{
+  "id": "lex-fridman-49",
+  "slug": "lex-fridman-49",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2019-11-12",
+  "titleEn": "Lex Fridman Podcast",
+  "titleZh": "莱克斯·弗里德曼播客",
+  "summaryEn": "Elon Musk's second appearance on Lex Fridman (\"Neuralink, AI, Autopilot, and the Pale Blue Dot\"): brain-machine interfaces, autonomy, artificial intelligence and the case for making humanity multi-planetary.",
+  "summaryZh": "埃隆·马斯克第2次做客莱克斯·弗里德曼的节目（“Neuralink、人工智能、自动驾驶与暗淡蓝点”）：脑机接口、自主性、人工智能，以及让人类成为多行星物种的理由。",
+  "sourceUrl": "https://www.youtube.com/watch?v=smK9dgdTl40",
+  "sourceLabel": "Lex Fridman Podcast",
+  "archiveUrl": "https://elonmuskarchive.org/video/lex-fridman-49",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/PBlEL1whfrY",
+  "thumbnailUrl": "https://i.ytimg.com/vi/PBlEL1whfrY/hqdefault.jpg",
+  "org": "Neuralink",
+  "durationSec": 2170,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Lex Fridman: The following is a conversation with Elon Musk, Part II. The second time we spoke on the podcast with parallels, if not in quality, then in outfit to the, objectively speaking, greatest sequel of all time, Godfather, part two. As many people know, Elon Musk is a leader of Tesla, SpaceX, Neuralink, and the Boring Company. What may be less known is that he's a world-class engineer and designer, constantly emphasizing first principles thinking in taking on big engineering problems that many before him have considered impossible.",
+      "textZh": "莱克斯·弗里德曼：以下是与埃隆·马斯克的对话，第 II 部分。这是我们第2次在播客中交谈，即使质量上无法媲美，至少在服装上与客观而言有史以来最伟大的续集《教父2》相呼应。许多人都知道，埃隆·马斯克是 Tesla、SpaceX、Neuralink 和无聊公司的领导者。或许较少有人知道，他还是一位世界级工程师和设计师，在应对许多前人认为不可能解决的重大工程问题时，他不断强调第一性原理思维。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "Lex Fridman: As scientists and engineers, most of us don't question the way things are done. We simply follow the momentum of the crowd. But revolutionary ideas that changed the world on the small and large scales happen when you return to the fundamentals and ask: \"Is there a better way?\" This conversation focuses on the incredible engineering and innovation done in brain computer interfaces in Neuralink.",
+      "textZh": "莱克斯·弗里德曼：作为科学家和工程师，我们大多数人不会质疑事情现有的做法。我们只是跟随人群的势头。但那些在小尺度和大尺度上改变世界的革命性思想，发生在你回归基本原理并问：“有没有更好的办法？”的时候。这次对话聚焦于 Neuralink 在脑机接口方面完成的不可思议的工程与创新。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Lex Fridman: This work promises to help treat neurobiological diseases, to help us further understand the connection between the individual neuron to the high-level function of the human brain. And finally, to one day expand the capacity of the brain through two-way communication, with computational devices, the internet and artificial intelligence systems. This is the Artificial Intelligence podcast. If you enjoy it, subscribe on YouTube, Apple Podcasts, Spotify, support it on the page you're on, or simply connect with me on Twitter, Lex Fridman, spelled F-R-ID-M-A-N.",
+      "textZh": "莱克斯·弗里德曼：这项工作有望帮助治疗神经生物学疾病，帮助我们进一步理解单个神经元与人脑高级功能之间的联系。最后，有朝一日通过与计算设备、互联网和人工智能系统进行双向通信，扩展大脑的能力。这是《人工智能》播客。如果你喜欢，请在 YouTube、Apple Podcasts、Spotify 上订阅，在你当前所在的页面上支持它，或者直接在 Twitter 上与我联系，莱克斯·弗里德曼，拼写为 F-R-ID-M-A-N。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "Lex Fridman: And now as an anonymous YouTube commenter referred to our previous conversation as the quote \"historical first video of two robots conversing without supervision,\" here's the second time, the second conversation with Elon Musk.",
+      "textZh": "莱克斯·弗里德曼：现在，正如一位匿名 YouTube 评论者把我们上一次对话称为“2个机器人在无人监督的情况下进行交谈的历史性首个视频”，这是第2次，与埃隆·马斯克的第2次对话。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Lex Fridman: Let's start with an easy question about consciousness. In your view, is consciousness something that's unique to humans or is it something that permeates all matter? Almost like a fundamental force of physics?",
+      "textZh": "莱克斯·弗里德曼：让我们从一个关于意识的简单问题开始。在你看来，意识是人类独有的东西，还是一种渗透于所有物质的东西？几乎像一种基本物理力？"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "Elon Musk: I don't think consciousness permeates all matter.",
+      "textZh": "埃隆·马斯克：我不认为意识渗透于所有物质。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "Lex Fridman: Panpsychics believe that. There's a philosophical ...",
+      "textZh": "莱克斯·弗里德曼：泛心论者相信这一点。有一种哲学上的……"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Elon Musk: How would you tell?",
+      "textZh": "埃隆·马斯克：你怎么判断？"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "Lex Fridman: That's true? That's a good point.",
+      "textZh": "莱克斯·弗里德曼：这是真的？说得有道理。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "Elon Musk: I believe in scientific method. Don't want to blow your mind or anything, but the scientific method is if you cannot test the hypothes is, then you cannot reach meaningful conclusion that it is true.",
+      "textZh": "埃隆·马斯克：我相信科学方法。不想让你大吃一惊什么的，但科学方法就是，如果你无法检验这个假设，那么你就无法得出它为真的、有意义的结论。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Lex Fridman: Do you think consciousness, understanding consciousness is within the reach of science of the scientific method?",
+      "textZh": "莱克斯·弗里德曼：你认为意识，理解意识，处于科学、科学方法所能触及的范围之内吗？"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Elon Musk: We can dramatically improve our understanding of consciousness. I'd be hard pressed to say that we understand anything with complete accuracy, but can we dramatically improve our understanding of consciousness? I believe the answer is yes.",
+      "textZh": "埃隆·马斯克：我们可以极大地增进对意识的理解。我很难说我们完全准确地理解了任何事物，但我们能否极大地增进对意识的理解？我相信答案是肯定的。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Lex Fridman: Does an AI system, in your view have to have consciousness in order to achieve human level or super human level intelligence? Does it need to have some of these human qualities like consciousness, maybe a body, maybe a fear of mortality, capacity to love, those kinds of silly human things?",
+      "textZh": "莱克斯·弗里德曼：在你看来，一个 AI 系统要达到人类水平或超人类水平的智能，是否必须拥有意识？它是否需要具备某些人类特质，比如意识，也许是身体，也许是对死亡的恐惧、爱的能力，诸如此类愚蠢的人类事物？"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Elon Musk: It's different. There's this scientific method which I very much believe in where something is true to the degree that it is testably so. And otherwise you're really just talking about preferences or untestable beliefs or that kind of thing. So it ends up being somewhat of a semantic question where we are conflating a lot of things with the word intelligence. If we parse them out and say, are we headed towards the future where an AI will be able to out-think us in every way, then the answer is unequivocally yes.",
+      "textZh": "埃隆·马斯克：这是不同的。我非常信奉科学方法，即一件事在可检验为真的程度上才是真的。否则，你其实只是在谈论偏好、无法检验的信念或诸如此类的东西。所以，这最终在某种程度上成了一个语义问题，因为我们把很多事物都混在“智能”这个词里。如果我们把它们逐一拆开，并问，我们是否正走向这样一个未来：AI 将能够在各个方面都比我们想得更高明，那么答案毫无疑问是肯定的。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "Lex Fridman: In order for an AI system that needs to out-think us in every way, it also needs to have a capacity to have consciousness, self-awareness and understand ...",
+      "textZh": "莱克斯·弗里德曼：对于一个需要在各个方面都比我们想得更高明的 AI 系统来说，它也需要具备拥有意识、自我认知和理解……的能力"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Elon Musk: It will be self-aware, yes. That's different from consciousness. I mean to me in terms of what consciousness feels like, it feels like consciousness is in a different dimension. But this could be just an illusion. If you damage your brain in some way physically, you damage your consciousness, which implies that consciousness is a physical phenomenon in my view.",
+      "textZh": "埃隆·马斯克：它会有自我认知，是的。这与意识不同。我的意思是，就意识给人的感觉而言，我觉得意识存在于另一个维度。但这可能只是一种幻觉。如果你以某种方式对大脑造成物理损伤，你的意识也会受损，在我看来，这意味着意识是一种物理现象。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Elon Musk: The thing is that I think are really quite likely is that digital intelligence will be able to out-think us in every way. And it will suddenly be able to simulate what we consider consciousness. So to the degree that you would not be able to tell the difference.",
+      "textZh": "埃隆·马斯克：问题是，我认为很有可能发生的是，数字智能将能够在各个方面都比我们想得更高明。而且它会突然有能力模拟我们所认为的意识。模拟到你无法分辨差异的程度。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Lex Fridman: And from the aspect of the scientific method, it might as well be consciousness if we can simulate it perfectly?",
+      "textZh": "莱克斯·弗里德曼：而从科学方法的角度来看，如果我们能完美地模拟它，那它不妨就算是意识？"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "Elon Musk: If you can't tell the difference when this is sort of the Turing test, but think of it more advanced version of the Turing test. If you're talking to a digital superintelligence and can't tell if that is a computer or a human. Like let's say you're just having a conversation over a phone or a video conference or something aware, you think you're talking, looks like a person, makes all of the right inflections and movements and all the small subtleties that constitute a human and talks like a human, makes mistakes like a human, and you literally just can't tell, are you really conversing with a person or an AI?",
+      "textZh": "埃隆·马斯克：如果你无法分辨差异，这算是图灵测试，但可以把它看作更高级版本的图灵测试。如果你正在与一个数字超级智能交谈，却无法判断对方是计算机还是人类。比如说，你只是通过电话、视频会议或某种有感知的东西进行交谈，你认为自己正在交谈，对方看起来像一个人，做出所有正确的语调变化和动作，以及构成人类的所有细微之处，说话像人类，犯错也像人类，而你确实就是无法分辨，那么你真的是在与一个人交谈，还是在与 AI 交谈？"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "Lex Fridman: Might as well.",
+      "textZh": "莱克斯·弗里德曼：不妨如此。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "Elon Musk: Might as well.",
+      "textZh": "埃隆·马斯克：不妨就算是。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "Lex Fridman: Be human. So on a darker topic, you've expressed serious concern about existential threats of AI, is perhaps one of the greatest challenges our civilization faces. But since I would say we're an optimistic descendants of apes, perhaps we can find several paths of escaping the harm of AI. So if I can give you three options, maybe you can comment, which do you think is the most promising?",
+      "textZh": "莱克斯·弗里德曼：算是人类。那么谈一个更阴暗的话题，你曾对 AI 带来的生存威胁表达过严重担忧，这或许是我们文明面临的最大挑战之一。但既然我会说我们是乐观的猿类后代，也许我们能找到几条避开 AI 危害的路径。所以，如果我可以给你 3 个选项，也许你可以评论一下，你认为哪一个最有希望？"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Lex Fridman: So one is scaling up efforts in AI safety and beneficial AI research in hope of finding an algorithmic or maybe a policy solution. Two is becoming a multiplanetary species as quickly as possible. And three is merging with AI and riding the wave of that increasing intelligence as it continuously improves. What do you think is most promising, most interesting as a civilization that we should invest in?",
+      "textZh": "莱克斯·弗里德曼：第1个是扩大对 AI 安全和有益 AI 研究的投入，希望找到一种算法上的解决方案，或许是政策上的解决方案。第2个是尽快成为多行星物种。第3个是与 AI 融合，并随着它不断改进，乘上这股日益增强的智能浪潮。你认为，作为一个文明，我们最应该投资的方向中，哪个最有希望、最有意思？"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "Elon Musk: I think there're a lot, a tremendous amount of investment going on in AI. Where there is a lack of investment is in AI safety, and there should be, in my view, a government agency that oversees anything related to AI to confirm that it is, does not represent a public safety risk. Just as there is a regulatory authority for, like the Food and Drug Administration, there's NHTSA for automotive safety, there's the FAA for aircraft safety. We've generally come to the conclusion that it is important to have a government referee or a referee that is serving the public interest in ensuring that things are safe when there's a potential danger to the public.",
+      "textZh": "埃隆·马斯克：我认为目前有很多，对 AI 的投资数额极其庞大。缺乏投资的是 AI 安全，而且在我看来，应该有一个政府机构监督一切与 AI 有关的事务，以确认它不会对公共安全构成风险。正如存在监管机构一样，比如食品药品监督管理局；负责汽车安全的有美国国家公路交通安全管理局，负责航空器安全的有美国联邦航空管理局。我们通常得出的结论是，当公众可能面临危险时，必须有一位政府裁判，或者一位服务于公共利益的裁判，来确保事物是安全的。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Elon Musk: I would argue that AI is unequivocally something that has potential to be dangerous to the public and therefore should have a regulatory agency just as other things that are dangerous to the public have a regulatory agency. But let me tell you, the problem with this is that the government moves very slowly, and the rate of ... Usually the way a regulatory agency comes into being is that something terrible happens. There's a huge public outcry and years after that there's a regulatory agency or a rule put in place.",
+      "textZh": "埃隆·马斯克：我会主张，AI 毫无疑问是一种有可能危害公众的事物，因此就像其他危害公众的事物一样，它也应该有一个监管机构。但我告诉你，这里的问题在于政府行动非常缓慢，而……的速度。监管机构通常是这样诞生的：发生了某件可怕的事情。公众强烈抗议，而在那之后过了数年，才成立监管机构或制定规则。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "Elon Musk: It takes something like seatbelts. It was known for a decade or more that seatbelts would have a massive impact on safety and save so many lives and serious injuries. And the car industry fought the requirements to put seatbelts in tooth and nail. That's crazy. And hundreds of thousands of people probably died because of that. And they said people wouldn't buy cars if they had seatbelts, which is obviously absurd.",
+      "textZh": "埃隆·马斯克：以安全带之类的东西为例。人们有 10 年甚至更长时间都知道，安全带会对安全产生巨大影响，并挽救许多生命，避免许多重伤。而汽车行业拼命反对强制安装安全带的要求。这太疯狂了。可能有数十万人因此丧生。他们还说，如果汽车装有安全带，人们就不会买车，这显然很荒谬。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Elon Musk: Or look at the tobacco industry and how long they fought anything about smoking. That's part of why I helped that movie, Thank You for Smoking. You could see just how pernicious it can be when you have these companies, effectively achieve regulatory capture of government, the bad. People in the AI community refer to the advent of digital superintelligence as a singularity, that is not to say that it is good or bad, but that it is very difficult to predict what will happen after that point. And that there's some probability it will be bad, some probability it will be good. We want to affect that probability and have it be more good than bad.",
+      "textZh": "埃隆·马斯克：或者看看烟草行业，以及他们反对任何与吸烟有关的事情反对了多久。这也是我协助那部电影《感谢你抽烟》的部分原因。你可以看到，当这些公司实际上实现了对政府的监管俘获时，事情会多么有害，坏处。AI 社区的人把数字超级智能的出现称为奇点，这并不是说它是好是坏，而是说，在那个节点之后会发生什么非常难以预测。它有一定概率会是坏事，也有一定概率会是好事。我们希望影响这个概率，让好事多于坏事。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "Lex Fridman: Well let me, on the merger with AI question and the incredible work that's being done in Neuralink, there's a lot of fascinating innovation here across different disciplines going on. So the flexible wires, the robotics sewing machine, the response to brain movement, and everything around and sharing safety and so on. So we currently understand very little about the human brain. Do you also hope that the work at Neuralink will help us understand more about the human mind, about the brain?",
+      "textZh": "莱克斯·弗里德曼：好，那么关于与 AI 融合的问题，以及 Neuralink 正在开展的不可思议的工作，这里正在进行许多跨越不同学科、令人着迷的创新。比如柔性导线、机器人缝纫机、对大脑运动的响应，以及周围的一切和共享安全等方面。所以，我们目前对人脑的了解非常少。你是否也希望 Neuralink 的工作能帮助我们更多地了解人类心智，了解大脑？"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Elon Musk: Yeah. I think the work in Neuralink will definitely shed a lot of insight into how the brain, the mind works. Right now, just the data we have regarding how the brain works is very limited. We've got fMRI, that's like putting a stethoscope on the outside of a factory wall, and then putting it all over the factory wall and you can hear the sounds, but you don't know what the machines are doing really. It's hard. You can infer a few things, but it's very broad brush stroke.",
+      "textZh": "埃隆·马斯克：是的。我认为 Neuralink 的工作肯定会为我们了解大脑、心智如何运作带来许多深刻见解。目前，我们掌握的有关大脑如何运作的数据非常有限。我们有功能性磁共振成像，那就像把听诊器放在工厂墙壁外侧，然后在整面工厂墙壁上到处放，你可以听见声音，但你并不真正知道机器在做什么。这很难。你可以推断出少量事情，但那是非常粗略的勾勒。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Elon Musk: In order to really know what's going on in the brain, you have to have high precision sensors and then you want to have stimulus and response. Like if you trigger a neuron, how do you feel? What do you see? How does it change your perception of the world?",
+      "textZh": "埃隆·马斯克：要真正了解大脑里正在发生什么，你必须拥有高精度传感器，然后还需要刺激与反应。比如，如果你触发一个神经元，你有什么感觉？你看见了什么？它如何改变你对世界的感知？"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "Lex Fridman: ESP can do physically just getting close to the brain, being able to measure signals from the brain will give us, open the door and inside the factory.",
+      "textZh": "莱克斯·弗里德曼：ESP 在物理上能做到的，只是接近大脑，能够测量来自大脑的信号将会给我们，打开门并进入工厂内部。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "Elon Musk: Yes, exactly. Being able to have high precision sensors, that tell you what individual neurons are doing and then being able to trigger neuron and see what the response is in the brain so you can see the consequences of, if you fire this neuron, what happens? How do you feel? What is changed? It'll be really profound to have this in people because people can articulate their change. Like if there's a change in mood or if they can tell you if they can see better or hear better or be able to form sentences better or worse or their memories are jogged or that kind of thing.",
+      "textZh": "埃隆·马斯克：是的，完全正确。能够拥有高精度传感器，告诉你单个神经元正在做什么，然后能够触发神经元并观察大脑中的反应，这样你就能看到其后果，如果你让这个神经元放电，会发生什么？你感觉如何？什么发生了改变？在人身上实现这一点将会非常深刻，因为人们可以清楚表达自己的变化。比如情绪是否有变化，或者他们是否能告诉你，他们能不能看得更清楚、听得更清楚，或者能更好或更差地组织句子，或者他们的记忆被唤起，诸如此类。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Lex Fridman: So on the human side, there's this incredible general malleability, plasticity of the human brain. The human brain adapts, adjusts and so on.",
+      "textZh": "莱克斯·弗里德曼：所以在人类这边，人脑具有这种不可思议的普遍可塑性。人脑会适应、调整，诸如此类。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "Elon Musk: It's not that plasticity, to be totally frank.",
+      "textZh": "埃隆·马斯克：说得非常坦率一点，并没有那么强的可塑性。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Lex Fridman: So there's a firm structure, but nevertheless there is some plasticity, and the open question is if I could ask a broad question is, how much that plasticity can be utilized? On the human side, there's some plasticity in the human brain and on the machine side we have neural networks, machine learning, artificial intelligence. It's able to adjust and figure out signals. So there's a mysterious language that we don't perfectly understand that's within the human brain. And then we're trying to understand that language to communicate both directions.",
+      "textZh": "莱克斯·弗里德曼：所以存在一个固定的结构，但尽管如此，还是有一定的可塑性。而如果让我提一个宽泛的问题，那么尚待解答的问题是，这种可塑性在多大程度上能够被利用？在人类这边，人脑具有一定的可塑性；在机器这边，我们有神经网络、机器学习、人工智能。它能够进行调整并理解信号。所以，人脑内部存在一种我们并未完全理解的神秘语言。然后，我们正试图理解这种语言，以实现双向沟通。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "Lex Fridman: So the brain is adjusting a little bit. We don't know how much and the machine is adjusting. Where do you see as they try to reach together almost like with an alien species, try to find a protocol, communication protocol that works. Where do you see the biggest benefit arriving from, on the machine side or the human side? Do you see both of them working together?",
+      "textZh": "莱克斯·弗里德曼：所以大脑在稍微做出调整。我们不知道调整了多少，而机器也在调整。当它们试图彼此靠近时，几乎就像是在与一个外星物种一起尝试找到一种行得通的协议、通信协议。你认为最大的益处会来自哪里，是机器端还是人类端？你认为两者会协同工作吗？"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Elon Musk: I think the machine side is far more malleable than the biological side, by a huge amount. So it'll be the machine that adapts to the brain. That's the only thing that's possible. The brain can't adapt that well to the machine. You can't have neurons start to regard an electrode as another neuron. Because a neuron just, it's like the pulse and so something else is pulsing. See, so there is that elasticity in the interface, which we believe is something that can can happen, but the vast majority of the malleability will have to be on the machine side.",
+      "textZh": "埃隆·马斯克：我认为机器端的可塑性远远高于生物端，高出非常多。所以将会是机器去适应大脑。这是唯一可能的方式。大脑无法那么好地适应机器。你无法让神经元开始把一个电极视为另一个神经元。因为一个神经元只是，它就像脉冲，然后别的东西也在发出脉冲。明白吗，所以接口中确实存在这种弹性，我们认为这是可能可以发生的，但绝大部分的可塑性将不得不在机器端。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Lex Fridman: But it's interesting when you look at that synaptic plasticity at the interface side, there might be an emergent plasticity. Because it's whole nother, it's not like in the brain, it's a whole nother extension of the brain. We might have to redefine what it means to be malleable for the brain. So maybe the brain is able to adjust to external interfaces.",
+      "textZh": "莱克斯·弗里德曼：但有趣的是，当你观察接口侧的那种突触可塑性时，可能会出现一种涌现的可塑性。因为那是完全不同的，它不像是在大脑内部，而是大脑的一种全然不同的延伸。我们可能得重新定义对大脑而言“具有可塑性”意味着什么。所以，也许大脑能够适应外部接口。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "Elon Musk: There'll be some adjustments to the brain because there's going to be something reading and simulating the brain, and so it will adjust to that thing. But the vast majority of the adjustment will be on the machine side. This is just, it has to be that, otherwise it will not work.",
+      "textZh": "埃隆·马斯克：大脑会做出一些调整，因为将会有某种东西读取并模拟大脑，所以大脑会适应那个东西。但绝大多数调整将在机器端进行。就是这样，必须如此，否则它将无法工作。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Elon Musk: Ultimately, we currently operate on two layers. We have a limbic like prime primitive brain layer, which is where all of our impulses are coming from. It's like we've got a monkey brain with a computer stuck on it, that's the human brain. And a lot of our impulses and everything are driven by the monkey brain, and the computer, the cortex is constantly trying to make the monkey brain happy. It's not the cortex that's steering the monkey brain, the monkey brain's steering the cortex.",
+      "textZh": "埃隆·马斯克：归根结底，我们目前在两个层次上运作。我们有一个类似边缘系统的首要原始大脑层，我们所有的冲动都来自那里。就像是我们有一个上面装着计算机的猴脑，那就是人脑。我们的很多冲动和一切都由猴脑驱动，而计算机，也就是大脑皮层，则不断试图让猴脑开心。不是大脑皮层在驾驭猴脑，而是猴脑在驾驭大脑皮层。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Lex Fridman: But the cortex is the part that tells the story of the whole thing. So we convince ourselves it's more interesting than just the monkey brain.",
+      "textZh": "莱克斯·弗里德曼：但皮层才是讲述整个故事的部分。所以我们说服自己，它比单纯的猴脑更有意思。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "Elon Musk: The cortex is what we call like human intelligence, so that's like the advanced computer relative to other creatures. Other creatures do not have, really they don't have the computer or they have a very weak computer relative to humans. But it seems like surely the really smart thing should control the dumb thing, but actually the dumb thing controls the smart thing.",
+      "textZh": "埃隆·马斯克：大脑皮层就是我们所谓的人类智能，所以相对于其他生物，它就像是先进的计算机。其他生物没有，实际上它们没有这台计算机，或者相对于人类而言，它们的计算机非常弱。但看起来，显然真正聪明的东西应该控制愚笨的东西，可实际上是愚笨的东西控制着聪明的东西。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "Lex Fridman: So do you think some of the same kind of machine learning methods, whether that's natural language processing applications are going to be applied for the communication between the machine and the brain? To learn how to do certain things like movement of the body, how to process visual stimuli and so on. Do you see the value of using machine learning to understand the language of the two-way communication with the brain?",
+      "textZh": "莱克斯·弗里德曼：那么你是否认为，某些同类的机器学习方法，比如自然语言处理应用，将会用于机器与大脑之间的通信？用来学习如何完成某些事情，比如身体运动、如何处理视觉刺激等等。你是否认为，使用机器学习来理解与大脑进行双向通信的语言是有价值的？"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "Elon Musk: Sure. Yeah, absolutely. I mean we're a neural net and AI is basically a neural net. So it's like digital neural net will interface with biological neural net. And hopefully bring us along for the ride. But the vast majority of our intelligence will be digital. Think of the difference in intelligence between your cortex and your limbic system is gigantic. Your limbic system really has no comprehension of what the hell the cortex is doing. It's just literally hungry, or tired, or angry, or sexy or something. And then that communicates that impulse to the cortex and tells the cortex to go satisfy that.",
+      "textZh": "埃隆·马斯克：当然。对，绝对如此。我的意思是，我们是一个神经网络，而 AI 基本上也是一个神经网络。所以就像是数字神经网络将与生物神经网络连接。希望也能带着我们一起前行。但我们绝大部分的智能将是数字化的。想想你的大脑皮层与你的边缘系统之间的智能差异，那是巨大的。你的边缘系统确实完全无法理解大脑皮层到底在做什么。它实际上就只是饿了、累了、生气了、性欲高涨了，或是别的什么。然后它把那种冲动传达给大脑皮层，让大脑皮层去满足它。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "Elon Musk: Then a great deal of, a massive amount of thinking, like truly stupendous amount of thinking has gone into sex without purpose, without provocation, without procreation. Which is actually quite a silly action, in the absence of procreation. It's a bit silly. Why are you doing it? Because it makes the limbic system happy, that's why.",
+      "textZh": "埃隆·马斯克：然后，大量的、极其庞大的思考，真的是多得惊人的思考，都投入到了没有目的、没有诱因、没有生育的性行为上。在没有生育的情况下，这其实是一种相当愚蠢的行为。有点愚蠢。你为什么要这么做？因为这会让边缘系统开心，这就是原因。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Lex Fridman: That's why.",
+      "textZh": "莱克斯·弗里德曼：这就是原因。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "Elon Musk: But it's pretty absurd, really.",
+      "textZh": "埃隆·马斯克：但这真的很荒谬。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "Lex Fridman: Well, the whole of existence is pretty absurd in some sense.",
+      "textZh": "莱克斯·弗里德曼：嗯，从某种意义上说，整个存在都相当荒谬。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Elon Musk: Yeah. But I mean this is a lot of computation that has gone into how can I do more of that with the procreation not even being a factor? This is I think, a very important area of research by NSFW.",
+      "textZh": "埃隆·马斯克：对。但我的意思是，人们投入了大量计算来研究：在生育甚至都不构成因素的情况下，我怎样才能多做些那种事？我认为，这是 NSFW 的一个非常重要的研究领域。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "Lex Fridman: An agency that should receive a lot of funding, especially after this conversation.",
+      "textZh": "莱克斯·弗里德曼：一个应该获得大量资金的机构，尤其是在这次谈话之后。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "Elon Musk: I'm proposing the formation of a new agency.",
+      "textZh": "埃隆·马斯克：我提议成立一个新机构。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Lex Fridman: Oh boy. What is the most exciting or some of the most exciting things that you see in the future impact of Neuralink, both on the science, engineering and societal broad impact?",
+      "textZh": "莱克斯·弗里德曼：天哪。对于 Neuralink 未来的影响，无论是对科学、工程，还是广泛的社会影响，你看到的最令人兴奋的事情，或者其中一些最令人兴奋的事情，是什么？"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "Elon Musk: So Neuralink, I think at first will solve a lot of brain related diseases. So create anything from like autism, schizophrenia, memory loss, like everyone experiences memory loss at certain points in age. Parents can't remember their kids' names and that kind of thing. So there's, I think a tremendous amount of good that Neuralink can do in solving a critical damage to the brain, or the spinal cord. There's a lot that can be done to improve quality of life of individuals and those will be steps along the way. And then ultimately, it's intended to address the rest of the existential risk associated with a digital superintelligence.",
+      "textZh": "埃隆·马斯克：所以 Neuralink，我认为最初会解决很多与大脑有关的疾病。所以创造任何从比如自闭症、精神分裂症、记忆丧失之类的东西，每个人到了一定年龄都会经历记忆丧失。父母记不住自己孩子的名字之类的事情。所以我认为，在解决大脑或脊髓的严重损伤方面，Neuralink 能带来极其巨大的益处。可以做很多事情来改善个人的生活质量，而这些将是沿途的步骤。然后最终，它旨在应对与数字超级智能相关的其余生存风险。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "Elon Musk: We will not feel to be smarter than a digital supercomputer. So therefore, if you cannot beat them, join them. And at least we won't have that option.",
+      "textZh": "埃隆·马斯克：我们不会感觉能比数字超级计算机更聪明。因此，如果你无法击败它们，就加入它们。至少我们不会有那个选择。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "Lex Fridman: So you have hope that Neuralink will be able to be a connection to allow us to merge, to ride the wave of the improving AI systems?",
+      "textZh": "莱克斯·弗里德曼：所以你希望 Neuralink 能够成为一种连接，让我们得以融合，乘上不断进步的 AI 系统的浪潮？"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "Elon Musk: I think the chance is above 0%.",
+      "textZh": "埃隆·马斯克：我认为概率高于 0%。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "Lex Fridman: So it's non-zero?",
+      "textZh": "莱克斯·弗里德曼：所以不是零？"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "Elon Musk: Yes.",
+      "textZh": "埃隆·马斯克：是的。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "Lex Fridman: There's a chance.",
+      "textZh": "莱克斯·弗里德曼：有机会。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "Elon Musk: Have you've seen Dumb and Dumber?",
+      "textZh": "埃隆·马斯克：你看过《阿呆与阿瓜》吗？"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "Lex Fridman: Yes.",
+      "textZh": "莱克斯·弗里德曼：看过。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Elon Musk: So I'm saying there's a chance.",
+      "textZh": "埃隆·马斯克：所以我是说，有机会。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "Lex Fridman: So you're saying one in a billion or one in a million, whatever it was that Dumb and Dumber?",
+      "textZh": "莱克斯·弗里德曼：所以你是说10亿分之1，或者100万分之1，不管《阿呆与阿瓜》里说的是什么？"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Elon Musk: It weren't for maybe one in a million to improving, maybe it'll be one in a thousand, and then one in a hundred, then one in 10. It depends on the rate of improvement of Neuralink and how fast we're able to make progress.",
+      "textZh": "埃隆·马斯克：要不是可能从100万分之1改善，也许会变成1000分之1，然后100分之1，再然后10分之1。这取决于 Neuralink 的改进速度，以及我们取得进展的速度有多快。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "Lex Fridman: Well, I've talked to a few folks here that are quite brilliant engineers. So, I'm excited.",
+      "textZh": "莱克斯·弗里德曼：嗯，我和这里几位相当杰出的工程师谈过。所以，我很兴奋。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "Elon Musk: Yeah. I think it's fundamentally good. Giving somebody back full motor control after they've had a spinal cord injury, restoring brain functionality after a stroke, solving debilitating genetically oriented brain diseases. These are all incredibly great, I think. And in order to do these, you have to be able to interface with the neurons at a detailed level. You need to be able to fire the right neurons, read the right neurons. And then effectively you can create a circuit, replace what's broken with silicon and essentially fill in the missing functionality.",
+      "textZh": "埃隆·马斯克：对。我认为这从根本上是好事。让脊髓损伤的人完全恢复运动控制能力，在中风后恢复大脑功能，解决使人衰弱的遗传性大脑疾病。我认为这些全都好得不可思议。而要做到这些，你必须能够在细致层面上与神经元连接。你需要能够激发正确的神经元，读取正确的神经元。然后你实际上就能创建一个回路，用硅替代损坏的部分，从本质上补上缺失的功能。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "Elon Musk: And then over time we can develop a tertiary layer. Like limbic system as a primary layer, then the cortex is a second layer. And I said, obviously the cortex is vastly more intelligent than the limbic system. But people generally like the fact that they have a limbic system and a cortex. I haven't met anyone who wants to delete either one of them. They're like, okay, I'll keep them both. That's cool.",
+      "textZh": "埃隆·马斯克：然后随着时间推移，我们可以发展出第三层。比如边缘系统是第一层，然后大脑皮层是第二层。而且我说过，显然大脑皮层远比边缘系统聪明。但人们通常喜欢自己既有边缘系统又有大脑皮层这件事。我还没遇到过想删除其中任何一个的人。他们会说，好吧，两个我都留着。挺好。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "Lex Fridman: The limbic system is kind of fun.",
+      "textZh": "莱克斯·弗里德曼：边缘系统还挺有意思的。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "Elon Musk: That is where all the fun is, absolutely. And then people generally don't want to lose their cortex either. Right? So they like having the cortex and the limbic system. And then there's a tertiary layer which will be digital superintelligence. And I think there's room for optimism given that the cortex is very intelligent and limbic system is not, and yet they work together well. Perhaps there can be a tertiary layer where digital superintelligence lies. And that will be vastly more intelligent than the cortex, but still coexist peacefully in a benign manner with the cortex and limbic system.",
+      "textZh": "埃隆·马斯克：绝对是，所有乐趣都在那里。而且人们通常也不想失去自己的大脑皮层。对吧？所以他们喜欢拥有大脑皮层和边缘系统。然后还有一个第3层，它将是数字超级智能。我认为有理由保持乐观，因为大脑皮层非常聪明，而边缘系统并不聪明，但它们却能很好地协同工作。也许可以有一个数字超级智能所在的第3层。它将比大脑皮层聪明得多，但仍能以良性的方式与大脑皮层和边缘系统和平共存。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "Lex Fridman: That's super exciting future, both in the low-level engineering that I saw is being done here and the actual possibility in the next few decades.",
+      "textZh": "莱克斯·弗里德曼：那是一个极其令人兴奋的未来，无论是我在这里看到的正在开展的底层工程，还是未来几十年里实际实现的可能性。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "Elon Musk: It's important that Neuralink solves this problem sooner rather than later because the point at which we have digital superintelligence, that's where we pass the singularity and things become just very uncertain. It doesn't mean that they're necessarily bad or good, but the point of which we pass singularity, things become extremely unstable. So we want to have a human brain interface before the singularity or at least not long after it, to minimize existential risk for humanity and consciousness as we know it.",
+      "textZh": "埃隆·马斯克：Neuralink尽早而不是拖到以后解决这个问题非常重要，因为当我们拥有数字超级智能时，我们就会跨越奇点，事情会变得非常不确定。这并不意味着它们必然是坏的或好的，但在我们跨越奇点的那个点上，事情会变得极其不稳定。所以我们希望在奇点之前，或者至少在奇点之后不久，就拥有人脑接口，以最大限度地降低我们所知的人类与意识所面临的生存风险。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "Lex Fridman: There's a lot of fascinating actual engineering, low-level problems here at Neuralink that are quite exciting.",
+      "textZh": "莱克斯·弗里德曼：Neuralink这里有许多令人着迷的实际工程和底层问题，相当令人兴奋。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "Elon Musk: The problems that we face in Neuralink are material science, electrical engineering, software, mechanical engineering, microfabrication, it's a bunch of engineering disciplines, essentially. That's what it comes down to is you have to have a tiny electrode, it's so small, it doesn't hurt neurons. But it's got to last for as long as a person, so it's got to last for decades. And then you've got to take that signal, and you've got to process that signal locally at low power.",
+      "textZh": "埃隆·马斯克：我们在Neuralink面临的问题涉及材料科学、电气工程、软件、机械工程、微加工，本质上是一系列工程学科。归根结底，你必须有一个微小的电极，它非常小，不会伤害神经元。但它必须和一个人的寿命一样长，所以必须持续几十年。然后你必须获取那个信号，并以低功耗在本地处理那个信号。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "Elon Musk: So we need a lot of chip design engineers, because we've got to do signal processing. And do so in a very power efficient way so that we don't heat your brain up. Because the brain's very heat sensitive. And then, we've got to take those signals and we've got to do something with them. And then we've got to stimulate back to, so you could bi-directional communication.",
+      "textZh": "埃隆·马斯克：所以我们需要很多芯片设计工程师，因为我们必须进行信号处理。而且要以非常节能的方式进行，这样我们就不会让你的大脑升温。因为大脑对热非常敏感。然后，我们必须获取那些信号，还必须用它们做些事情。然后我们还必须反向刺激，所以你可以进行双向通信。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "Elon Musk: So if someone's good at material science, software, mechanical engineering, electrical engineering, chip design, microfabrication, those are the things we need to work on. We need to be good at material science so that we can have tiny electrodes that lasts a long time. And it's a tough thing with the material science, it's a tough one because you're trying to read and simulate electrically in an electrically active area, your brain is very electrically active and electrochemically active.",
+      "textZh": "埃隆·马斯克：所以，如果有人擅长材料科学、软件、机械工程、电气工程、芯片设计、微加工，这些就是我们需要开展工作的方面。我们需要擅长材料科学，这样才能拥有可以长时间使用的微小电极。而材料科学方面很棘手，这是个难题，因为你正试图在一个电活跃区域进行读取和电模拟，你的大脑在电活动和电化学活动方面都非常活跃。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "Elon Musk: So how do you have, say a coding on the electrode that doesn't dissolve over time? And is safe in the brain? This is a very hard problem. And then how do you collect those signals in a way that is most efficient, because you really just have very tiny amounts of power to process those signals. And then we need to automate the whole thing. So it's like LASIK, so if this is done by neurosurgeons, there's no way it can scale to large numbers of people. And it needs to scale to large numbers of people because I think ultimately we want the future repeated, to be determined by a large number of humans.",
+      "textZh": "埃隆·马斯克：那么，比如说，你如何在电极上设置一种不会随时间溶解的编码？而且在大脑中是安全的？这是一个非常困难的问题。然后你如何以最高效的方式收集那些信号，因为你实际上只有非常微小的功率来处理那些信号。然后我们需要把整个过程自动化。所以它就像LASIK，如果这是由神经外科医生完成的，就根本不可能扩展到大量人群。而且它需要扩展到大量人群，因为我认为，最终我们希望未来被重复，由大量人类决定。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "Lex Fridman: Do you think that this has a chance to revolutionize surgery, period? So neurosurgery and surgery [crosstalk 00:00:24:38].",
+      "textZh": "莱克斯·弗里德曼：你认为这有机会彻底改变整个外科手术领域吗？也就是神经外科和外科手术[交叉谈话 00:00:24:38]。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "Elon Musk: Yeah, absolutely. Yeah, for sure. It's got to be like LASIK, like if LASIK had to be hand done, done by hand by a person, that wouldn't be great. It's done by a robot. And the ophthalmologist just needs to make sure your head's in my position and then they just press a button and go.",
+      "textZh": "埃隆·马斯克：是的，绝对有。是的，肯定有。它必须像LASIK一样，比如，如果LASIK必须手工完成，由一个人亲手完成，那就不太好了。它是由机器人完成的。眼科医生只需要确保你的头处于我的位置，然后他们只需按下按钮，就开始了。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "Lex Fridman: Smart Summon and soon AutoPark takes on the full beautiful mess of parking lots and their human-to-human nonverbal communication. I think it has actually the potential to have a profound impact in changing how our civilization looks at AI and robotics because this is the first time human beings, people that don't own a Tesla, that may have never seen a Tesla or heard about a Tesla, get to watch hundreds of thousands of cars without a driver. Do you see it this way, almost like an education tool for the world about AI? Do you feel the burden of that, the excitement of that, or do you just think it's a smart parking feature?",
+      "textZh": "莱克斯·弗里德曼：智能召唤以及即将推出的自动泊车，要应对停车场完整而美丽的混乱局面，以及其中人与人之间的非语言交流。我认为，它实际上有潜力产生深远影响，改变我们的文明看待AI和机器人技术的方式，因为这是人类第一次，那些没有Tesla、可能从未见过Tesla或听说过Tesla的人，可以看到数十万辆没有驾驶员的汽车。你也这样看待它吗，几乎把它看作一种向全世界普及AI的教育工具？你感受到其中的负担、其中的兴奋吗，还是你只认为它是一项智能停车功能？"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "Elon Musk: I do think you are getting at something important, which is, most people have never really seen a robot. And what is the car that is autonomous, it's a four-wheeled robot.",
+      "textZh": "埃隆·马斯克：我确实认为你触及了一个重要问题，那就是，大多数人从未真正见过机器人。而自动驾驶汽车是什么，它就是一个四轮机器人。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "Lex Fridman: Right. Yeah. It communicates a certain message with everything from safety to the possibility of what AI could bring to its current limitations, its current challenges. It's what's possible. Do you feel the burden of that? Almost like a communicator educator to the world about AI?",
+      "textZh": "莱克斯·弗里德曼：对。是的。它传达了某种信息，涉及从安全性到人工智能在当前局限、当前挑战之下可能带来什么的一切。它展示了什么是可能的。你感受到这种负担了吗？几乎就像是面向全世界传播和普及人工智能知识的人？"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Elon Musk: We were just really trying to make people's lives easier with autonomy, but now that you mention it, I think it will be an eyeopener to people about robotics. Because most people have never seen a robot and there are hundreds of thousands of Teslas. Won't be long before there's a million of them that have autonomous capability, and the drive without a person in it. And you can see the evolution of the car's personality, and thinking with each iteration of autopilot. You can see it's uncertain about this, or now it's more certain. Now it's moving in a slightly different way.",
+      "textZh": "埃隆·马斯克：我们其实只是想通过自动驾驶让人们的生活更轻松，但既然你提到了，我认为它会让人们对机器人技术大开眼界。因为大多数人从未见过机器人，而现在有数十万辆Tesla。用不了多久，就会有100万辆具备自动驾驶能力的Tesla，而且能在车内无人的情况下行驶。你可以看到汽车的个性以及思考方式随着每一版Autopilot迭代而演变。你能看出它对这个不确定，或者现在它更确定了。现在它正以一种略有不同的方式移动。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "Elon Musk: I can tell immediately if a car is on Tesla Autopilot because it's got just little nuances of movement. It just moves in a slightly different way. If a car's on Tesla Autopilot, for example on the highway, are far more precise about being in the center lane than a person. If you drive down the highway and look at where cars are, the human driven cars are within their lane. They're like bumper cars. They're moving all over the place. The car on Autopilot, dead center.",
+      "textZh": "埃隆·马斯克：我立刻就能判断一辆车是否正在使用Tesla Autopilot，因为它的移动中有一些细微差别。它的移动方式就是略有不同。例如，如果一辆车在高速公路上使用Tesla Autopilot，它在保持位于车道正中央这件事上远比人精确。如果你沿高速公路行驶，看看车辆都在哪里，人类驾驶的车辆是在自己的车道范围内。它们就像碰碰车。它们到处晃来晃去。使用Autopilot的汽车，则正好处于中央。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "Lex Fridman: Yeah. So the incredible work that's going into that neural network, it's learning fast. Autonomy is still very, very hard. We don't actually know how hard it is fully, of course. You look at most problems you tackle this one included, with an exponential lens, but even with an exponential improvement, things can take longer than expected sometimes. So where does Tesla currently stand on its quest for full autonomy? What's your sense? When can we see successful deployment of full autonomy?",
+      "textZh": "莱克斯·弗里德曼：是的。所以，投入那个神经网络的大量非凡工作，正让它快速学习。自动驾驶仍然非常、非常困难。当然，我们其实并不完全知道它到底有多难。你用指数式的视角看待自己着手解决的大多数问题，包括这个问题，但即便有指数式的改进，事情有时仍可能比预期花费更长时间。那么，Tesla目前在追求完全自动驾驶的道路上进展如何？你的判断是什么？我们什么时候能看到完全自动驾驶得到成功部署？"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "Elon Musk: Well on the highway already, the probability of intervention is extremely low. So, for highway autonomy with the latest release, especially the probability of needing to intervene, is really quite low. In fact, I'd say for stop-and-go traffic, it's far safer than a person right now. The probability of an injury or an impact is much, much lower for autopilot than a person. And with navigate and autopilot, you can change lanes, take highway interchanges.",
+      "textZh": "埃隆·马斯克：嗯，在高速公路上，介入的概率已经极低。因此，就最新版本的高速公路自动驾驶而言，尤其是需要介入的概率，确实相当低。事实上，我会说对于走走停停的交通状况，它现在远比人类驾驶安全。使用Autopilot时，受伤或发生碰撞的概率比人类驾驶低得多、低得多。而借助导航和Autopilot，你可以变换车道，驶入高速公路立交。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "Elon Musk: And then we're coming at it from the other direction, which is lower speed, full autonomy. And in a way this is like, how does a person learn to drive? You learn to drive in the parking lot. The first time you learn to drive probably wasn't jumping on Walker Street in San Francisco. That'd be crazy. You learn to drive in the parking lot, get things right at low speed.",
+      "textZh": "埃隆·马斯克：然后我们正从另一个方向着手，也就是低速完全自动驾驶。从某种意义上说，这就像是，一个人如何学习驾驶？你在停车场学习驾驶。你第一次学开车时，大概不是直接开上旧金山的沃克街。那太疯狂了。你在停车场学习驾驶，先在低速下把事情做好。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Elon Musk: And then the missing piece that we're working on is traffic lights and stop streets. Stop streets I would say are actually also relatively easy because you know where the stop street is. Worst case you can geocode it, and then use visualization to see where the line is and stop at the line to eliminate the GPSR. So it's actually, I'd say it's probably complex traffic lights and very winding roads. The two things that need to get solved.",
+      "textZh": "埃隆·马斯克：然后，我们正在研究的缺失部分是交通信号灯和停车街道。我会说，停车街道其实也相对容易，因为你知道停车街道在哪里。最坏的情况下，你可以对它进行地理编码，然后利用可视化来查看停车线在哪里，并在停车线处停下，以消除GPSR。所以实际上，我会说，可能是复杂的交通信号灯和非常蜿蜒的道路。这是需要解决的2件事。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "Lex Fridman: What's harder, perception or control for these problems? So being able to perfectly perceive everything or figuring out a plan once you perceive everything? How to interact with all the agents in the environment? In your sense, from a learning perspective, is perception or action harder, in that giant, beautiful, multi-task learning neural network?",
+      "textZh": "莱克斯·弗里德曼：对于这些问题，感知和控制哪个更难？也就是说，是能够完美感知一切更难，还是在感知到一切之后制定计划更难？如何与环境中的所有智能体互动？根据你的判断，从学习的角度来看，在那个庞大、精妙的多任务学习神经网络中，感知和行动哪个更难？"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "Elon Musk: The hardest thing is having accurate representation of the physical objects in vector space. So, taking the visual input, primarily visual input, some sonar and radar and then creating an accurate vector space representation of the objects around you. Once you have an accurate vector space representation, the planning and control is relatively easier. That is relatively easy.",
+      "textZh": "埃隆·马斯克：最难的是在向量空间中准确表示物理对象。所以，就是获取视觉输入，主要是视觉输入，还有一些声呐和雷达输入，然后为你周围的对象创建准确的向量空间表示。一旦有了准确的向量空间表示，规划和控制就相对更容易了。那相对容易。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "Elon Musk: Basically, once you have accurate vector space representation, then you're like a video game, like cars in Grand Theft Auto or something. They work pretty well. They drive down the road, they don't crash, pretty much unless you crash into them. That's because they've got an accurate vector space representation of where the cars are, and then they're rendering that as the output.",
+      "textZh": "埃隆·马斯克：基本上，一旦有了准确的向量空间表示，那就像电子游戏一样，比如《侠盗猎车手》里的汽车之类的。它们运行得相当好。它们沿着道路行驶，不会撞车，基本上除非你撞上它们。这是因为它们准确地以向量空间表示了汽车的位置，然后将其渲染为输出。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "Lex Fridman: Do you have a sense, high level that Tesla's on track on being able to achieve full autonomy? So on the highway ...",
+      "textZh": "莱克斯·弗里德曼：从宏观层面看，你是否感觉Tesla正在按计划推进，能够实现完全自动驾驶？所以在高速公路上……"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "Elon Musk: Yeah, yeah, absolutely.",
+      "textZh": "埃隆·马斯克：对，对，当然。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "Lex Fridman: And still no driver state? Driver sensing?",
+      "textZh": "莱克斯·弗里德曼：而且还是没有驾驶员状态监测？驾驶员感知？"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "Elon Musk: We have driver sensing with torque on the wheel.",
+      "textZh": "埃隆·马斯克：我们通过方向盘上的扭矩来感知驾驶员。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Lex Fridman: That's right. By the way, just a quick comment on karaoke, most people think it's fun, but I also think it is the driving feature. I've been saying for a long time, singing in the car is really good for attention management and vigilance management.",
+      "textZh": "莱克斯·弗里德曼：没错。顺便说一下，简单谈谈卡拉OK，大多数人认为它很有趣，但我也认为它是一项驾驶功能。我一直以来都在说，在车里唱歌对注意力管理和警觉性管理真的很有帮助。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "Elon Musk: That's right. Tesla Caraoke is great. It's one of the most fun features of the car.",
+      "textZh": "埃隆·马斯克：没错。Tesla Caraoke 很棒。它是这辆车最有趣的功能之一。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "Lex Fridman: Do you think of a connection between fun and safety sometimes?",
+      "textZh": "莱克斯·弗里德曼：你有时会思考趣味性和安全性之间的联系吗？"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "Elon Musk: Yeah, if you can do both at the same time, that's great.",
+      "textZh": "埃隆·马斯克：对，如果能同时做到这两点，那就太好了。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "Lex Fridman: I just met with Ann Druyan, wife of Carl Sagan, who directed Cosmos.",
+      "textZh": "莱克斯·弗里德曼：我刚刚见了安·德鲁扬，她是卡尔·萨根的妻子，曾执导《宇宙》。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "Elon Musk: I'm generally a big fan of Carl Sagan, he's super cool. And had a great way of putting things. All of our consciousness, all civilization, everything we've ever known and done is on this tiny blue dot. People also get too trapped in their squabbles amongst humans, and just don't think of the big picture. They take civilization and our continued existence for granted. They shouldn't do that. Look at the history of civilizations, they rise and they fall, and now civilization is all, it's globalized. And so civilization, I think now rises and falls together. There's not geographic isolation. This is a big risk. Things don't always go up. That should be an important lesson of history.",
+      "textZh": "埃隆·马斯克：总的来说，我非常喜欢卡尔·萨根，他特别酷。而且他非常善于表达。我们所有的意识、整个文明、我们所知道和做过的一切，都在这个微小的蓝点上。人们也太容易困在人类彼此之间的争执中，而不去思考大局。他们把文明以及我们能继续存在视为理所当然。他们不应该这样做。看看文明的历史，它们兴起，又衰落，而现在文明是全部，它已经全球化了。所以我认为，如今文明会共同兴起，也会共同衰落。不存在地理隔离。这是一个巨大的风险。事物并不总是向上发展。这应该是历史给我们的一个重要教训。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "Lex Fridman: In 1990 at the request of Carl Sagan, the Voyager One spacecraft, which is a spacecraft that's reaching out farther than anything human-made into space. Turned around to take a picture of Earth from 3.7 billion miles away, and as you're talking about the pale blue dot, that picture, there it takes up less than a single pixel in that image. Appearing as a tiny blue dot, as a pale blue dot, as Carl Sagan called it. So he spoke about this dot of ours in 1994. And if you could humor me, I was wondering if in the last two minutes you could read the words that he wrote describing this pale blue dot?",
+      "textZh": "莱克斯·弗里德曼：1990年，应卡尔·萨根的请求，旅行者1号航天器，也就是一艘比任何人造物体都更深入太空的航天器。它转过身，从37亿英里之外拍摄了一张地球照片，而你刚才谈到的暗淡蓝点，那张照片中，它占据的面积还不到一个像素。它看起来是一个微小的蓝点，一个暗淡的蓝点，正如卡尔·萨根对它的称呼。因此，他在1994年谈到了我们这个点。如果你愿意迁就我一下，我想知道，在最后2分钟里，你能否读一读他描写这个暗淡蓝点时写下的文字？"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "Elon Musk: Sure. It's funny, the universe appears to be 13.8 billion years old. Earth, like four and a half billion years old. In another half billion years or so the sun will expand and probably evaporate the oceans, and make life impossible on Earth. Which means that if it had taken consciousness 10% longer to evolve, it would never have evolved at all, 10% longer. And I wonder how many dead one-planet civilizations there are out there in the cosmos, that never made it to the other planet and ultimately extinguished themselves or were destroyed by external factors? Probably a few.",
+      "textZh": "埃隆·马斯克：当然。有意思的是，宇宙似乎有138亿年的历史。地球大约有45亿年的历史。再过大约5亿年，太阳就会膨胀，很可能会蒸发海洋，使地球上的生命无法生存。这意味着，如果意识的进化多花了10%的时间，它就根本不可能进化出来，多花10%的时间。我想知道，宇宙中有多少已经死亡的单行星文明，它们从未抵达另一颗行星，最终自我灭绝，或者被外部因素摧毁？可能有一些。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "Elon Musk: It's only just possible to travel to Mars. Just barely. If G was 10% more, wouldn't work really. If G was 10% lower, it would be easy. You can go single stage from surface of Mars, all the way to the surface of the Earth because Mars is 37 syndrome of gravity, there abouts. You need a giant boost to get off the Earth.",
+      "textZh": "埃隆·马斯克：前往火星只是勉强可行。刚刚勉强可行。如果G高出10%，实际上就行不通了。如果G低10%，那就会很容易。你可以从火星表面单级直达地球表面，因为火星是37重力综合征，大概如此。要离开地球，你需要巨大的助推力。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "Elon Musk: Channeling Carl Sagan. Look again at that dot that's here. That's home. That's us. On it, everyone you love, everyone you know, everyone you've ever heard of, every human being who ever was lived out their lives. The aggregate of our joy and suffering. Thousands of confident religions, ideologies and economic doctrines. Every hunter and forager, every hero and coward, every creator and destroyer of civilization, every King and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer. Every teacher of morals, every corrupt politician, every superstar, every supreme leader, every Saint and sinner in the history of our species lived there. Automotive dust suspended in a sun beam.",
+      "textZh": "埃隆·马斯克：代卡尔·萨根传达。再看看那个就在这里的点。那是家园。那是我们。在那里，有你爱过的每一个人、你认识的每一个人、你听说过的每一个人，以及曾经存在过的每一个人，他们都在那里度过了一生。我们所有欢乐与苦难的总和。数千种充满自信的宗教、意识形态和经济学说。每一个猎人和采集者、每一个英雄和懦夫、每一个文明的创造者和毁灭者、每一位国王和农民、每一对相爱的年轻情侣、每一位母亲和父亲、满怀希望的孩子、发明家和探险家。每一位道德导师、每一个腐败政客、每一位超级明星、每一位最高领袖，以及我们这个物种历史上的每一位圣人与罪人，都生活在那里。悬浮在一束阳光中的汽车尘埃。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "Elon Musk: Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all those vastness, there is no hint that help will come from elsewhere to save us from ourselves. The earth is the only world known so far to harbor life. There was nowhere else, at least in the near future to which our species could migrate.",
+      "textZh": "埃隆·马斯克：我们的星球是浩瀚包围着我们的宇宙黑暗中的一个孤独斑点。在我们的默默无闻中，在所有那些浩瀚之中，没有任何迹象表明会有来自其他地方的援助，把我们从自己手中拯救出来。地球是迄今已知唯一孕育生命的世界。至少在不久的将来，我们这个物种无处可迁移。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "Elon Musk: This is not true. This is false, Mars.",
+      "textZh": "埃隆·马斯克：这不是真的。这是错的，火星。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "Lex Fridman: And I think Carl Sagan would agree with that. He couldn't even imagine it at that time. So thank you for making the world dream. And thank you for talking today. I really appreciate it. Thank you.",
+      "textZh": "莱克斯·弗里德曼：而且我认为卡尔·萨根会同意这一点。当时他甚至无法想象这件事。所以，感谢你让世界拥有梦想。也感谢你今天与我交谈。我真的非常感激。谢谢。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "Elon Musk: Thank you.",
+      "textZh": "埃隆·马斯克：谢谢。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T23:33:25.115Z",
+    "reviewedAt": "2026-09-12T23:50:33.493Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:19.842Z",
+  "transcriptSource": "Lex Fridman Podcast #49 — official transcript (Rev.com)",
+  "sourceHash": "e974a33b2a4987c62e7aaea3d8cf7d5ba12bb98c1bd1f68d009f290cb31daaa7"
+}

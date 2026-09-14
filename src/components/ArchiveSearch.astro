@@ -1,0 +1,109 @@
+---
+import { Search } from "@lucide/astro";
+
+interface Props {
+  value?: string;
+  compact?: boolean;
+  autofocus?: boolean;
+}
+
+const { value = "", compact = false, autofocus = false } = Astro.props;
+---
+
+<form class:list={["archive-search", { compact }]} action="/search/" role="search">
+  <label class="visually-hidden" for="archive-query">搜索中文标题与正文</label>
+  <Search size={21} stroke-width={1.8} aria-hidden="true" />
+  <input
+    id="archive-query"
+    type="search"
+    name="q"
+    value={value}
+    placeholder="搜索中文标题、人物或正文"
+    autocomplete="off"
+    autofocus={autofocus}
+  />
+  <button type="submit">搜索</button>
+</form>
+
+<style>
+  .archive-search {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    min-height: 62px;
+    border: 1px solid var(--ink);
+    border-radius: 6px;
+    color: var(--muted);
+    background: var(--surface);
+  }
+
+  .archive-search > svg {
+    margin-inline-start: 19px;
+  }
+
+  .archive-search input {
+    width: 100%;
+    min-width: 0;
+    height: 60px;
+    border: 0;
+    padding: 0 16px;
+    color: var(--ink);
+    background: transparent;
+    font-size: 1.02rem;
+    outline: 0;
+  }
+
+  .archive-search:focus-within {
+    outline: 3px solid color-mix(in srgb, var(--launch), transparent 35%);
+    outline-offset: 3px;
+  }
+
+  .archive-search input:focus-visible {
+    outline: 0;
+  }
+
+  .archive-search button {
+    align-self: stretch;
+    min-width: 92px;
+    border: 0;
+    border-inline-start: 1px solid var(--ink);
+    padding: 0 18px;
+    color: var(--surface);
+    background: var(--ink);
+    font-weight: 600;
+  }
+
+  .archive-search button:hover {
+    color: var(--ink);
+    background: var(--paper);
+  }
+
+  .archive-search.compact {
+    min-height: 54px;
+  }
+
+  .archive-search.compact input {
+    height: 52px;
+  }
+
+  @media (max-width: 520px) {
+    .archive-search {
+      min-height: 54px;
+    }
+
+    .archive-search > svg {
+      margin-inline-start: 14px;
+    }
+
+    .archive-search input {
+      height: 52px;
+      padding-inline: 11px;
+      font-size: 0.92rem;
+    }
+
+    .archive-search button {
+      min-width: 68px;
+      padding-inline: 11px;
+    }
+  }
+</style>

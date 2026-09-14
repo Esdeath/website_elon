@@ -1,0 +1,705 @@
+{
+  "id": "x-takeover-2025-musk",
+  "slug": "x-takeover-2025-musk",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2025-07-27",
+  "titleEn": "X Takeover",
+  "titleZh": "X Takeover",
+  "summaryEn": "A virtual fireside (via Starlink Mini) at the Tesla Owners Silicon Valley X Takeover event, covering Optimus, the Tesla Semi, Robotaxi and autonomy, Starship and Neuralink's medical promise.",
+  "summaryZh": "在Tesla Owners Silicon Valley X Takeover活动上举行的一场虚拟炉边谈话（通过星链 Mini），内容涵盖Optimus、Tesla Semi、Robotaxi与自动驾驶、星舰以及Neuralink的医疗前景。",
+  "sourceUrl": "https://www.youtube.com/watch?v=YqDehngsBHw",
+  "sourceLabel": "X Takeover (Tesla Owners Silicon Valley)",
+  "archiveUrl": "https://elonmuskarchive.org/video/x-takeover-2025-musk",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/YqDehngsBHw",
+  "thumbnailUrl": "https://i.ytimg.com/vi/YqDehngsBHw/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 4630,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "So, I guess >> Hey everybody. Wasn't it great to hear from Lars? >> You can just tell he just he loves what he's doing and that that really just comes through when you talk to him. Uh, somebody else that loves what they do is our next pseudo surprise. We announced it what an hour or something ago. You might know him. He's a guy named Elon. Maybe you've heard of him. He's got a couple followers on this platform called X. I don't know.",
+      "textZh": "所以，我想 >> 大家好。听Lars讲话是不是很棒？>> 你一眼就能看出来，他就是，他热爱自己正在做的事情，而且当你和他交谈时，那一点真的会自然流露出来。呃，另一个热爱自己所做之事的人，就是我们接下来这位不完全算惊喜的嘉宾。我们在，大概1小时前还是什么时候，宣布了这件事。你们可能认识他。他是一个叫埃隆的人。也许你们听说过他。他在这个叫X的平台上有几个关注者。我不知道。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "You know, some new guy. No. Uh Elon Musk, the CEO of Tesla, will be joining us virtually here momentarily and to chat with them for second or third year in a row now. Gosh, second year in a row. Please welcome back, of course, John and Kelvin from the Tesla Owners Club of Silicon Valley. All right, let's go. Have fun, guys. >> Ah, man, the raceh horses out there always causing a ruckus. Family-friendly event, guys. Crazy. What a day. What a day.",
+      "textZh": "你知道，某个新人。不是。呃，Tesla的CEO埃隆·马斯克很快将通过线上方式加入我们，并且与他们交谈，这已经是连续第2年或第3年了。天啊，连续第2年。当然，请再次欢迎来自Tesla Owners Club of Silicon Valley的John和Kelvin。好了，我们开始吧。玩得开心，伙计们。>> 啊，伙计，外面的raceh马总是在制造骚动。这是家庭友好型活动，伙计们。疯了。真是一天。真是一天。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "So, obviously, uh, thank you so much to Lars and Steve for coming on here. And I believe we have Elon on, so it's just a matter of, uh, I feel like, >> you know, just bringing him on the screen and stuff. >> Yeah. Whoa, Elon, what's up? >> Oh, giant on a giant screen. >> Yeah, it actually kind of looks like Mars in some ways. >> It just perseverance. >> Is that a cap right there, too?",
+      "textZh": "所以，很显然，呃，非常感谢Lars和Steve来到这里。而且我相信埃隆已经上线了，所以现在只是，呃，我觉得，>> 你知道，只要把他放到屏幕上之类的。>> 对。哇，埃隆，怎么样？>> 哦，大屏幕上的巨人。>> 对，它实际上在某些方面看起来有点像火星。>> 它只是毅力。>> 那里也是一顶帽子吗？"
+    },
+    {
+      "id": "p-0004",
+      "textEn": ">> That's the Perseverance ro It's a Perseverance rover on Mars. >> Oh my gosh, that's awesome. >> Yeah. >> Well, first off, Elon, thanks for coming to the X Takeover, uh, formerly Tesla Takeover for the second year in a row. You're welcome. >> Well, let's uh let's kick things off. Let's start start off with uh you know uh really your baby, the Starship. Starship is the most ambitious rocket ever built.",
+      "textZh": ">> 那是毅力号ro，那是火星上的毅力号火星车。>> 哦，我的天啊，太棒了。>> 对。>> 好吧，首先，埃隆，感谢你连续第2年来到X Takeover，呃，它以前叫Tesla Takeover。不客气。>> 好吧，让我们，呃，让我们开始吧。我们先从，呃，你知道，呃，真正像你的孩子一样的星舰开始。星舰是有史以来建造的最具雄心的火箭。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "What's been harder than expected and what's the next milestone we should watch for? Um well I I thought everything would be hard so it's not like uh I was like >> it would be easy. >> Yeah. Yeah. So I mean Starship is a is a crazy program on so many levels.",
+      "textZh": "哪些事情比预期更难，我们接下来应该关注什么里程碑？嗯，这个，我我原本就觉得一切都会很难，所以并不是说，呃，我当时觉得 >> 这会很容易。>> 是的。是的。所以，我是说，星舰在很多层面上都是一个疯狂的项目。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "uh because uh you've got something with uh two and a half uh and future versions will be three times the thrust of the Saturn 5 moon rocket which was previously the largest rocket and largest flying object ever made. So Starship is um you know three times thrust roughly twice the weight of the next largest flying object ever made and has the the goal of being fully and rapidly reusable.",
+      "textZh": "呃，因为，呃，你有一个带有，呃，2.5，呃，而未来版本将达到土星5号登月火箭3倍推力的东西；后者此前是有史以来最大的火箭和最大的飞行物体。所以星舰，嗯，你知道，推力是它的3倍，重量大约是有史以来第二大飞行物体的2倍，而且目标是实现完全且快速的重复使用。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "So this is a this is a really crazy thing to I think it's it's really one of the hardest engineering challenges that exists. Um and uh you know when we first started talking about Starship people thought this was impossible. In fact even within the company we we sort of thought it was impossible and it had a very high sort of what I call giggle factor.",
+      "textZh": "所以这是一个，这是一个真的很疯狂的东西，我认为这是现存最困难的工程挑战之一。嗯，而且，呃，你知道，我们最初开始谈论星舰时，人们觉得这是不可能的。事实上，就连公司内部，我们也多少觉得这是不可能的，而且它有一种非常高的、我所谓的“发笑系数”。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Uh you know you mention the thing and people immedately start giggling like at the absurdity of it all. Um so now but now it's gone from uh as say we you know I guess I specialize in the uh in going from the uh impossible to the merely late. Um so that's my skill. Uh it wasn't possible now it's just late. Um so and I encourage anyone who's interested to go and and visit Starbase in South Texas. It's like a magical land uh with gigantic rockets.",
+      "textZh": "呃，你知道，你一提到这件事，人们立刻就会开始发笑，觉得整件事荒谬至极。嗯，所以现在，但现在它已经从，呃，正如我们所说，你知道，我想我擅长的是，呃，把事情从，呃，不可能变成仅仅是延期。嗯，所以这就是我的本事。呃，它以前不可能，现在只是晚了。嗯，所以我鼓励任何感兴趣的人去参观得克萨斯州南部的星舰基地。那里就像一片神奇的土地，呃，有着巨大的火箭。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "I think some of you have been there and seen it. >> It's very inspiring. It's like I take part for take friends and family. It's on a major highway, so you can see things quite close up. >> Um, and really get a sense for the scale of the of the the rocket and the factory and everything. So, it's it's very cool.",
+      "textZh": "我想你们有些人去过那里，也见过它。>> 非常鼓舞人心。就像我参加，是为了带朋友和家人。它就在一条主要公路旁，所以你可以在相当近的距离看到那些东西。>> 嗯，并真正感受到火箭、工厂以及一切事物的规模。所以，它非常非常酷。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "Um I I guess the the thing that I thought would be hardest currently is the hardest which is the creating a fully reusable orbital heat shield which has never been done before. So normally the heat shields are um they're they're expandable and even say for the shuttle heat shield they would lose many of the the tiles on every flight and they'd have to refurbish the heat shield between each flight.",
+      "textZh": "嗯，我我想，目前最难的事情也就是我原以为会最难的事情，也就是制造一种完全可重复使用的轨道级隔热罩，这是以前从未有人做到过的。所以通常隔热罩，嗯，它们是消耗性的，即使是航天飞机的隔热罩，每次飞行也会损失许多隔热瓦，而且每次飞行之间都必须翻修隔热罩。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "So it's it's never no one has ever created a fully reusable orbital heat shield before. Um and no one in fact no one has created a fully reusable orbital rocket before. Um and Falcon 9 is the first rocket where there's at least the boost stage uh is reusable on a regular basis. Um and where it actually makes economic sense.",
+      "textZh": "所以这从来没有，从来没有人制造过完全可重复使用的轨道级隔热罩。嗯，而且事实上，从来没有人制造过完全可重复使用的轨道火箭。嗯，而猎鹰9号是第一枚至少其助推级，呃，能够定期重复使用的火箭。嗯，而且这在经济上确实说得通。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "So um so so solving the heat shield problem is I think probably the single biggest remaining challenge for Starship and um and of course getting the upper stage or the ship to land and also get caught by the the giant metal chopsticks which uh looks looks like a sci-fi movie that looks it looks like an impro improbable sci-fi movie. the whole thing. >> Chopsticks literally catching it. Catching it. >> Yeah. Uh giant metal chopsticks.",
+      "textZh": "所以，嗯，所以所以，解决隔热罩问题，我认为可能是星舰剩余的最大单项挑战，而且，嗯，当然还要让上面级，也就是飞船着陆，并且还要被巨型金属筷子接住；这，呃，看起来就像科幻电影，看起来，它看起来像一部不太可能的科幻电影。整件事都是。>> 筷子真的把它接住。把它接住。>> 是的。呃，巨型金属筷子。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Uh that's um it's pretty wild to be catching the largest flying object ever made with metal chopsticks out of the air.",
+      "textZh": "呃，那，嗯，用金属筷子从空中接住有史以来最大的飞行物体，这相当疯狂。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Um, so then the but I'm hopeful that the ship will be will be recovered maybe this year but certainly I'd say in the first half of next year and then there'll be further improvements to make the ship and the booster not just reusable but fully and rapidly reusable uh which will actually drop the cost per flight cost per ton of payload of Starship below that of a of of a Falcon 1 rocket of an expandable Falcon 1.",
+      "textZh": "嗯，所以然后，但是我希望飞船也许能在今年被回收，但我可以肯定地说会在明年上半年；之后还会进一步改进，让飞船和助推器不只是能够重复使用，而是能够完全且快速地重复使用，呃，这实际上会让星舰每次飞行的成本、每吨载荷的成本，降到一枚猎鹰1号火箭、一枚消耗型猎鹰1号的成本以下。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "So that that getting 100 tons or more to orbit of useful payload will cost less than a rocket that would ordinarily deliver half a ton. That was Falcon 1. And it's because all you're you're doing is replacing the um the fuel and oxygen in the rocket as opposed to building a new rocket. Um and most of the propellant is actually oxygen, not not fuel. But it's almost 80% oxygen, 20% fuel.",
+      "textZh": "所以，把100吨或更多的有效载荷送入轨道，成本将低于一枚通常只能运送半吨载荷的火箭。那就是猎鹰1号。而这是因为你要做的只是更换，嗯，火箭里的燃料和氧气，而不是建造一枚新火箭。嗯，而且大部分推进剂其实是氧气，不是，不是燃料。它几乎是80%的氧气、20%的燃料。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Uh then the next big technology challenge after being able to achieve full re of the full reuse of the ship is orbital refilling where um where where we actually refill propellant from from over like like um like aerial re refueling. In this case, it's orbital refilling. I say refilling, not refueling because most of what's transferred is actually liquid oxygen as opposed to fuel.",
+      "textZh": "呃，在能够实现飞船的完、完全重复使用之后，下一个重大技术挑战是轨道补充，在那里，嗯，在那里在那里，我们实际上会从从上方补充推进剂，就像，就像，嗯，就像空中加、加油。在这种情况下，是轨道补充。我说的是补充，不是加油，因为所转移的大部分东西其实是液氧，而不是燃料。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Um, so for orbital refilling, uh, you need to have two starships come together and dock and transfer propellant from one, uh, starship to another and then and then in the future to an orbit orbital propellant depot. Yeah. So that's that's the situation. >> Doesn't sound hard. It just >> I mean it is very achievable.",
+      "textZh": "嗯，所以对于轨道补充，呃，你需要让2艘星舰会合并对接，将推进剂从1艘，呃，星舰转移到另1艘，然后，然后在未来转移到一个轨、轨道推进剂仓库。是的。所以情况就是这样。>> 听起来不难。只是 >> 我是说，这是非常可以实现的。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "There's nothing um nothing impossible is is being talked about here, but it is it is very uh tricky to do and and and uh no no other organization is even trying to do this. It's like it's not like well who else is trying to do this? Well, nobody actually. So um in fact even after all these years there's still no company that's uh reusing a booster.",
+      "textZh": "这里谈到的事情没有什么，嗯，没有什么是不可能的，但做起来确实非常，呃，棘手，而且而且而且，呃，没有，没有其他组织甚至在尝试这样做。就像，并不存在“还有谁在尝试做这件事？”这个问题。其实没有人。所以，嗯，事实上，即使经过了这么多年，仍然没有一家公司在重复使用助推器。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "So, uh, no one's even tried to do Balcon 9 level reusability, even even though we've shown that that it clearly makes a ton of sense, uh, because, you know, compare the cost of any form of transport where if you have to throw away the item afterwards, like like if you've got if if you had to if every time you drove somewhere you had to throw away the car, uh, you'd be wow, that's a that's a that's a that's a crazy car where you have to throw away after every every time you drive it.",
+      "textZh": "所以，呃，甚至没有人尝试实现Balcon 9级别的可重复使用性，即使，即使我们已经表明那显然非常有意义，呃，因为，你知道，比较一下任何运输方式的成本，如果你之后必须把那个东西扔掉，比如，比如如果你有，如果，如果你不得不，如果每次开车去某个地方后都必须把车扔掉，呃，你会说，哇，那是一辆，那是一辆，那是一辆，那是一辆疯狂的车，每次，每次开完都必须扔掉。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "But that's how it works for for rockets. So that is really um yeah, I don't think anyone would be driving a car if you had to buy a new car every time you drove somewhere and then you'd have to tow another car behind you for the return journey. >> Elon, what does a >> So yeah. >> Yeah. Yeah. So talk about the impossible. Elon, what does a self-sustaining city on Mars actually look like? How many people? What kind of economy?",
+      "textZh": "但火箭就是这样运作的。所以那确实，嗯，是的，我认为如果每次开车去某个地方都必须买一辆新车，就不会有人开车了，然后你还必须在后面拖着另一辆车用于返程。>> 埃隆，什么是一个 >> 所以是的。>> 是的。是的。那么说到不可能。埃隆，火星上一座自给自足的城市实际上是什么样子？会有多少人？什么样的经济？"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "What kind of governance? >> Well, uh that that'll that'll governance will be up to the Martians. Um but uh you know, we have some sort of artist impressions of what a Mars city would look like. Uh the and I don't really know to be honest. um you know to accept that we you know Mars is not yet at the point where we're sort of terraformed where you could live outdoors.",
+      "textZh": "什么样的治理？>> 嗯，呃，那那那种治理将由火星人决定。嗯，但是，呃，你知道，我们有一些关于火星城市外观的艺术构想图。呃，那个，而且老实说，我并不真正知道。嗯，你知道，只能承认我们，你知道，火星还没有达到某种已经被地球化改造、可以在户外生活的程度。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "So uh you you'd have to live initially in uh glass domes or um something like that. And um and then you could you could walk outside with with a Mars suit, but you you could you could not walk outside without a Mars suit. Um so um yeah it's uh but but I should also say like like maybe explain for those who haven't heard of like like why why why is it worth doing something like this? Um what's the purpose of of Mars?",
+      "textZh": "所以，呃，最初你你必须住在，呃，玻璃穹顶里，或者，嗯，类似的东西里。而且，嗯，然后你可以，你可以穿着火星服走到外面，但你，你可以，你不能不穿火星服就走到外面。嗯，所以，嗯，是的，它，呃，但是，但是我还应该说，比如，比如也许要向那些没有听说过的人解释，比如，比如为什么，为什么为什么做这样的事情值得？嗯，火星的目的是什么？"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Shouldn't we just focus on Earth? And I'm like, \"Yeah, I think we should focus on Earth.\" Like 99% of what we do should be focused on Earth. Uh but maybe 1% of what we do should be uh should be focused on on becoming a space fairing civilization and a multilanet species.",
+      "textZh": "难道我们不应该只关注地球吗？我的回答是：“是的，我认为我们应该关注地球。”比如，我们所做事情的99%都应该聚焦于地球。呃，但也许我们所做事情的1%应该，呃，应该聚焦于成为一个太空航行文明和一个多行星物种。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "Uh because uh there there's the defensive argument where it's um you know it's it's um yeah if something were to happen to Earth and that destroyed civilization, this could be World War II or it could be a meteor like the one that destroyed the dinosaurs.",
+      "textZh": "呃，因为，呃，有一种防御性的论点，即，嗯，你知道，它是，它是，嗯，是的，如果地球发生了某种摧毁文明的事情，这可能是第二次世界大战，也可能是像毁灭恐龙的那颗陨石一样的陨石。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "then we want to make sure that the tiny candle of consciousness that exists uh with with humanity does not go out and uh so so I think it's important to be a multilanet species to ensure the long-term survival of consciousness um and all and all the life forms that that we we have here on earth. So, and you know the the the other life forms can't extend life to another planet. Uh but but we we can do it for them.",
+      "textZh": "那么我们就要确保与人类一同存在的那支微小的意识之烛不会熄灭，而且，呃，所以所以我认为，成为一个多行星物种对于确保意识，嗯，以及，以及我们在地球上拥有的所有生命形式长期存续非常重要。所以，而且你知道，其他生命形式无法把生命延伸到另一个星球。呃，但是，但是我们可以替它们做到。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "We can we can bring the other >> Oh >> And and to be clear, I'm I'm an optimist. I mean, I think the most likely outcome is that the future will be good, but there's a small chance that the future that something will go wrong. And if if so, we don't want uh the light of consciousness to go out on a you know, we want we want the light of conscious light of consciousness to continue. Um so that's kind of the defensive argument.",
+      "textZh": "我们可以，我们可以把其他的带去 >> 哦 >> 而且，而且要明确的是，我我是一名乐观主义者。我是说，我认为最有可能的结果是未来会很好，但有很小的可能性，未来，某些事情会出错。如果，如果真是这样，我们不希望，呃，意识之光在一个，你知道，我们希望，我们希望意识之光、意识之光继续存在。嗯，所以这大致就是防御性的论点。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "And then the then there's also the sort of uh the the the sort of the the inspiration argument which is that um life can't be just about solving one sort of miserable problem you about the future that make you that make you excited to be alive and make you you know you wake up in the morning you're like I can't wait to see what happens to have these things like that too and what they learn everyone on Earth just like the Apollo program was inspiring to everyone on Earth whether you went there or obviously very few people went there but but it was in a way we all vicariously went to the moon um and it was a great achievement to humanity and it was very inspiring to people all all around the world so and you know learning more about the nature of the universe",
+      "textZh": "然后，然后还有某种，呃，那种、那种、那种、那种鼓舞人心的论点，也就是说，嗯，生活不能只是解决某一种悲惨的问题，你关于未来的事物，让你、让你为活着感到兴奋，让你，你知道，你早上醒来时会想，我等不及想看看会发生什么，也要有这样的事情，以及他们学到了什么，地球上的每个人，就像阿波罗计划曾鼓舞地球上的每个人一样，无论你有没有去那里，或者显然去那里的人非常少，但、但从某种意义上说，我们都间接地登上了月球，嗯，那是人类的一项伟大成就，也极大地鼓舞了世界各地的所有、所有人。所以，而且你知道，更多地了解宇宙的本质"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "and and seeing what what's happening out there even if you don't go yourself is still very very inspiring.",
+      "textZh": "以及、以及看到外面正在发生什么，即使你自己不去，也仍然非常、非常鼓舞人心。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "So that yeah I think those are all things that matter a lot. >> Yeah. I mean it's truly truly inspiring what SpaceX and even Tesla are doing. Do you ever foresee SpaceX going? >> Oh, >> hello. >> Yeah. Are you there? >> Are you there? >> Sorry, guys. If you're talking to me, I cannot hear you. >> All right. Do you want to go check with Can you hear me? Do you want to go check with Noah real quick? >> Yeah. >> Strange. >> Can you hear us, Elon?",
+      "textZh": "所以，是的，我认为这些都是非常重要的事情。>> 是的。我的意思是，SpaceX，甚至 Tesla 正在做的事情确实、确实鼓舞人心。你是否预见过 SpaceX 会去？>> 哦，>> 喂。>> 是的。你还在吗？>> 你还在吗？>> 抱歉，各位。如果你们在跟我说话，我听不到你们。>> 好吧。你想去确认一下吗？你能听到我吗？你想不想赶快去和诺亚确认一下？>> 好的。>> 真奇怪。>> 你能听到我们吗，埃隆？"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Should I make a joke out of this or not? >> Hold on. >> Can you hear me now, Elon? >> Yeah, the audio hopefully we back in seconds, but uh bear with us as we navigate this. >> At least Elon's still there with the uh Perseverance rover. >> Check. Check, >> John. Can you hear me? Can you hear me? >> Are we back? >> Well, I don't think we can hear him, guys. >> People are waving at you, Elon, if you can't see them.",
+      "textZh": "我该不该拿这件事开个玩笑？>> 等一下。>> 现在能听到我吗，埃隆？>> 是的，音频应该能在几秒内恢复，不过，呃，我们处理这个问题时请稍等。>> 至少埃隆还和，呃，毅力号火星车待在那里。>> 测试。测试，>> 约翰。你能听到我吗？你能听到我吗？>> 我们恢复了吗？>> 嗯，我觉得我们听不到他说话，各位。>> 大家在向你挥手，埃隆，如果你看不到他们的话。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "But yeah, sorry about these audio difficulties. Hopefully, we can get this up and running. >> Can you hear me? >> Are you there? >> Can you hear me? >> Yeah. >> Okay. I was going to ask you to dance while you were waiting silently, but uh you know figured uh we'd wait for that. I'm joking. >> What did you did you hear what I said earlier? >> Yeah, we did. Um and then I think Yeah. Yeah, for sure. No.",
+      "textZh": "不过，是的，很抱歉出现这些音频问题。希望我们能让它恢复运行。>> 你能听到我吗？>> 你在吗？>> 你能听到我吗？>> 能。>> 好的。你默默等待的时候，我本来想让你跳支舞，不过，呃，你知道，觉得，呃，我们还是等一下再说吧。我开玩笑的。>> 什么，你听到我之前说的话了吗？>> 是的，我们听到了。嗯，然后我觉得，是的。是的，当然。不。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "So, we were what the what the question was is we were asking, do you think that SpaceX is eventually going to go interstellar? >> Is there a plan? >> Well, hopefully I s Yeah. And probably not in my lifetime, but probably not lifetime, but uh >> yes, eventually. >> Elon, can you hear me? >> I can hear you. Yes. >> Okay, let's talk about robo taxi. How do you see the robo taxi platform coexisting with the rest of Tesla's lineup?",
+      "textZh": "所以，我们当时，那个、那个问题是，我们在问，你认为 SpaceX 最终会走向星际吗？>> 有计划吗？>> 嗯，希望我会。是的。而且可能不会在我的有生之年，但可能不会有生之年，不过，呃，>> 是的，最终会。>> 埃隆，你能听到我吗？>> 我能听到你。可以。>> 好的，我们来谈谈机器人出租车。你认为机器人出租车平台会如何与 Tesla 的其他产品线共存？"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Will it replace the Model 3? And why? Um well this cyber cap which is a two-seater and that would that would not replace the the three and y because three and y have fourseater and six-seater capability. So I think you'd find that the cyber cab would be for one or two passengers and then dynamically it would call the model three model 3 pool or wire for four passengers or wire for six passengers.",
+      "textZh": "它会取代 Model 3 吗？为什么？嗯，这个网络帽是一款双座车，而它、它不会取代3和Y，因为3和Y具备4座和6座的能力。所以我认为你会发现，网络出租车会用于搭载1或2名乘客，然后它会动态调用型号3、Model 3车池，或者电线来搭载4名乘客，或者电线来搭载6名乘客。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "Um and you know then we'll have the large vehicles but I mean this this is not the forum for making many for our product announcements. Uh, uh, to be totally honest, >> no worries. >> I gotta be, you know, little careful here about what I say. >> We got you. Uh, does Tesla plan on owning a large fleet of robo taxis? And then when will private citizens be able to go on the Tesla network? >> Uh, yes.",
+      "textZh": "嗯，你知道，然后我们会有大型车辆，但我的意思是，这里不是发布很多我们产品公告的场合。呃，呃，完全坦白地说，\n\n>> 没关系。\n\n>> 我得，你知道，对自己说的话稍微谨慎一点。\n\n>> 我们理解你。呃，Tesla 是否计划拥有一支庞大的机器人出租车车队？然后，普通公民什么时候能够加入 Tesla 网络？\n\n>> 呃，是的。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "will own some of the uh the fleet will be Tesla owned and some of the fleet will be customer owned. So you could think of it as model kind of like maybe some combination of Uber and Airbnb where um you know some people own the cars and then add or subtract them to the fleet and and some cars are owned by Tesla uh directly.",
+      "textZh": "车队中的一部分会由 Tesla 拥有，另一部分会由客户拥有。所以，你可以把它看作一种模式，可能有点像 Uber 和 Airbnb 的某种结合，其中，嗯，你知道，有些人拥有车辆，然后把它们加入车队或从车队中移出，而有些车辆则由 Tesla 直接拥有。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "So, if robo taxi succeeds, Elon, how uh how does Tesla navigate the paradox of making the best cars in the world, but also possibly needing fewer of them? Well, guys, I think it's tough for me to answer questions because Tesla is a publicly traded company and so, you know, this is This is the most interesting questions you'd want to ask me are the questions I can't really answer. >> Yeah. >> No. Yeah, of course.",
+      "textZh": "那么，埃隆，如果机器人出租车取得成功，呃，Tesla 要如何应对这样一个悖论：既要制造世界上最好的汽车，但同时可能又不需要那么多汽车？\n\n嗯，各位，我觉得这些问题对我来说很难回答，因为 Tesla 是一家上市公司，所以，你知道，这……你们最想问我的、最有意思的问题，恰恰是我实在无法回答的问题。\n\n>> 是的。\n\n>> 不。是的，当然。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "No, we definitely don't want to put you on the spot there. Um, so I think you posted a week or two ago about um and even uh Lars mentioned it about um just uh the Roadster program and how it's still active. What can you tell us about its current development status? Well, we're we're aiming for a demonstration uh at the end of this year.",
+      "textZh": "不，我们绝对不想让你在那里为难。嗯，我想你在1周或2周前发过一篇帖子，谈到……嗯，甚至呃，拉尔斯也提到了……嗯，就是呃，Roadster 项目，以及它仍在推进。关于它目前的开发状态，你能告诉我们些什么？\n\n嗯，我们的目标是在今年年底进行一次演示。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Um I mean the roadster is not something that's going to meaningfully affect say the financials of the company um because it's too small relative to other programs. Um it's uh it is very cool. Um hopefully we're able to demo later this year but or early next latest [Applause] >> you said that Optimus could be more valuable than Tesla's entire automotive business. >> What's what's the road map from where we are today to widespread deployment?",
+      "textZh": "嗯，我的意思是，Roadster 并不会对公司的财务状况产生实质性影响，嗯，因为相对于其他项目，它的规模太小了。嗯，它，呃，确实非常酷。嗯，希望我们能在今年晚些时候演示，但或者最早下一个、最晚……[掌声]\n\n>> 你说过，Optimus 的价值可能会超过 Tesla 整个汽车业务。\n\n>> 从我们今天所处的阶段到广泛部署，路线图是什么？"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "you know, again, you're really asking me for questions that are highly sensitive to the value of the company. And so, uh, that's not really something I can answer. Um, all right.",
+      "textZh": "你知道，再说一次，你实际上是在问我一些对公司价值高度敏感的问题。所以，呃，那并不是我真正能回答的事情。嗯，好吧。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "the the current design the version three of option I think is the right design to go to volume production um but it is a significant redesign from uh version two um so in fact almost nothing stays the same so I was really faced with a choice of should we make several thousand version two octopus robots when we know the design can be much better or should we pause do version three which is much better um and uh you know and we maybe have I don't know a few hundred robots instead of a few thousand robots by the end of the year and I think the right decision was to go with version three and then scale production significantly next year.",
+      "textZh": "目前的设计，选项的第3版，我认为是适合进入量产的设计，嗯，但它相较于，呃，第2版是一次重大的重新设计，嗯，所以事实上几乎没有任何东西保持不变，所以我当时确实面临一个选择：我们是否应该制造数千台第2版章鱼机器人，尽管我们知道设计可以好得多，还是我们应该暂停，做出好得多的第3版，嗯，然后，呃，你知道，到年底我们可能会有，我不知道，几百台机器人，而不是几千台机器人，而我认为正确的决定是采用第3版，然后在明年大幅扩大生产。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Um, now the in terms of the value of of optimists, you really need to think of the basic question of of who who wouldn't want their own possible C3PO R2-D2. >> I think I think with that I mean let's ask the crowd. Would you guys like >> Do you guys want an optimist? >> Yeah. Yeah. Exactly. It very It would be very cool. Um and uh it it would actually be by the way much better than in functionality than C3PO and RTD2. So it would be super useful.",
+      "textZh": "嗯，现在，就乐观主义者的价值而言，你确实需要思考这个基本问题：谁会不想拥有自己的可能的C3PO、R2-D2。>> 我想，我想说到这里，我是说，让我们问问人群。你们会喜欢吗 >> 你们想要一个乐观主义者吗？>> 是的。是的。没错。它非常，它会非常酷。嗯，而且，呃，顺便说一句，它在功能上实际上会比C3PO和RTD2好得多。所以它会超级有用。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "So I think basically everyone on Earth is going to want one and and then you you're going to have a bunch in industry. Um, so that's why I think there's probably it's probably world's biggest product because there's at least a market for probably 20 billion. Um, maybe it could be 50 billion. I don't know a lot.",
+      "textZh": "所以我认为，基本上地球上的每个人都会想要一个，然后工业领域还会有一大批。嗯，所以这就是为什么我认为它很可能——它很可能是世界上最大的产品，因为市场需求可能至少有200亿个。嗯，也许可能是500亿个。我不太清楚。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "So um you know hypothetically if Tesla was making a billion of these a year at scale and at scale the cost gets lower and lower so maybe it like on the order of $20,000. I'm just guessing there and you know that's that's 30 trillion in revenue. insane. >> Uh, you know, there's a long long way to go between here and making a billion robots a year. >> Yeah. >> But but I I do think something like that may happen. >> Yeah.",
+      "textZh": "所以，嗯，你知道，假设Tesla达到规模化生产后，每年制造10亿个这样的机器人，而在规模化之后，成本会越来越低，所以也许大约是20,000美元。我只是在那里猜测，你知道，那就是30万亿美元的营收。太疯狂了。>> 呃，你知道，从现在到每年制造10亿个机器人，还有非常非常长的路要走。>> 是的。>> 但但我我确实认为，类似的事情可能会发生。>> 是的。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": ">> What would you say is Optimus going to have the biggest impact on? Do you think it's going to start obviously in manufacturing like or at what not not necessarily timeline but like where do you see Optimus having the biggest impact? >> Um well initially it would go to very high value things. So like say somebody um needs a lot of um medical care or something.",
+      "textZh": ">> 你认为Optimus将在哪方面产生最大的影响？你认为它显然会从制造业之类的领域开始，还是在什么——不不一定是时间线，而是你认为Optimus会在哪里产生最大的影响？>> 嗯，最初它会用于价值非常高的事情。比如说，某个人，嗯，需要大量的，嗯，医疗照护之类的。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "So like if you know often could be like a 24-hour a day uh nurse or helper uh to someone that is um quadriplegic or something like that um you know or something just really is it and needs physical help. So that's the kind of thing which would be life-changing for a lot of people. Um those would be the the highest value initial use cases. [Music] It will also be used in situations where it's uh the work is very dangerous.",
+      "textZh": "所以，比如你知道，通常可以像是为某个，嗯，四肢瘫痪之类的人提供每天24小时的，呃，护士或助手服务，嗯，你知道，或者某种确实是并且需要身体帮助的情况。所以这类事情会改变很多人的生活。嗯，这些会是最初价值最高的使用场景。[音乐] 它也会用于工作非常危险的情况。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Um so or um where there's a lot of repetitive tasks. Um but like any work that's that's that's risk life or some kind of injury uh would be a good initial use case for Optimus. >> When you look ahead in 10 years, what's more transformative? Full self-driving or Optimus? Um, optimist >> seems like that was an easy one. You've >> Well, I do like this is a it's very hard to do. So, it's not like it just it's so hard. >> Yeah. >> Yeah.",
+      "textZh": "嗯，所以，或者，嗯，在有大量重复性任务的地方。嗯，但比如任何会冒生命风险或造成某种伤害的工作，呃，都会是Optimus很好的初期使用场景。>> 展望10年后，什么更具变革性？完全自动驾驶还是Optimus？嗯，乐观主义者 >> 看来这个问题很容易回答。你已经 >> 嗯，我确实喜欢，这是一个——这非常难做。所以，并不是说它只是——它太难了。>> 是的。>> 是的。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "I see you're uh drinking some good old Diet Coke, by the way. Shout out to those. Um you've hinted uh that we may reach digital super intelligence this year or next. How will we know that we've crossed that line? And what does one of AGI what does day one of AGI really look like? >> Well, I'm not sure.",
+      "textZh": "顺便说一句，我看到你，呃，正在喝一些经典的健怡可乐。向那些致意。嗯，你曾暗示，呃，我们可能在今年或明年实现数字超级智能。我们要如何知道自己已经跨过了那条线？而AGI的一个——AGI的第1天究竟是什么样子？>> 嗯，我不确定。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "I'm sure it's like a a massive it may be less profound than the At least the first will be less profound like AI has not done yet is invent new technologies that are useful. So uh it hasn't has discovered new physics and it has not invented technologies that are useful but I think that is something that that that that will happen. >> Yeah. If Grock becomes smarter than any human, what role do we play?",
+      "textZh": "我确信它就像一个一个巨大的——它可能没有那么深远，至少最初会没那么深远，比如AI尚未做到的是发明有用的新技术。所以，呃，它还没有已经发现新物理学，也没有发明有用的技术，但我认为那是将会发生的事情。>> 是的。如果Grock变得比任何人都聪明，我们扮演什么角色？"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Are we co-pilots, overseers, or just legacy code? >> Well, it won't just be drug. Uh there will be many AI. Um there will be at least I think four major guys, maybe five. um just in the United States. Uh and so even if was not developed, there would still be digital super intelligence.",
+      "textZh": "我们是副驾驶、监督者，还是仅仅是遗留代码？>> 嗯，不会只有药物。呃，还会有许多AI。嗯，我认为至少会有4个主要家伙，也许5个。嗯，光是在美国就是如此。呃，所以，即使没有被开发出来，仍然会有数字超级智能。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "Um, and I I've been fighting, you know, personally sort of driving hard on digital super intelligence for a long time because I wasn't sure if this is a double-edged sword or a single edge sword or what. But it it became very obvious after a while that this was going to happen whether I participated or not. So therefore I had a choice of either be a spectator or a participant but that it was going to happen with or without me.",
+      "textZh": "嗯，而且我我一直在抗争，你知道，长期以来，我个人算是一直在大力推动数字超级智能，因为我不确定这是一把双刃剑，还是单刃剑，或者究竟是什么。但过了一段时间后，事情变得非常明显：无论我是否参与，这都会发生。所以我只能选择做一名旁观者或参与者，但无论有没有我，它都会发生。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "So then I think well okay rather be a participant than a spectator. And um I can focus on AI safety which in my um view and I've thought about this for a long time is that the most important thing for AI safety is to be maximally truth seeeking. Um which means often like saying things that are maybe politically incorrect but actually factually correct.",
+      "textZh": "所以后来我想，好吧，那与其做旁观者，不如做参与者。而且，嗯，我可以专注于AI安全。在我看来，而且我对此思考了很长时间，AI安全最重要的一点是最大限度地追求真相。嗯，这通常意味着要说一些可能政治不正确、但事实上正确的话。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Um and also um there'll be mistakes that are made than admitting the mistakes and taking correct taking corrective action and GRO still has a long way to go uh to actually truth seeking but I think this goal is also consistent with uh inventing new technologies uh you know solving medical problems uh you know you know if you want If you want to cure cancer, you have to be maximally truth seeeking to understand what the root cause is for example.",
+      "textZh": "嗯，而且，嗯，也会犯一些错误，接着承认错误并采取纠……采取纠正行动，而 GRO 要真正做到寻求真相还有很长的路要走，呃，但我认为这个目标也与，呃，发明新技术、你知道，解决医疗问题相一致，呃，你知道，你知道，如果你想……如果你想治愈癌症，你就必须最大限度地寻求真相，例如去理解根本原因是什么。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "So, so I think that's actually very fundamental both for safety and for usefulness.",
+      "textZh": "所以，所以我认为，这对安全性和实用性来说实际上都非常根本。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "And yeah, so now the the economy of the future I think is going to look uh sort of quite different from where does today um and AI and robotics uh in the good scenario which we're working towards you know trying to ensure makes that we do have the good scenario Um there will be no shortage of products and services for anyone like basically anyone will be able to have any products and services they want.",
+      "textZh": "还有，是的，所以现在，未来的经济，我认为会看起来，呃，和今天所在的状态颇为不同，嗯，而 AI 和机器人技术，呃，在我们正努力实现的良好情景中，你知道，努力确保我们确实迎来良好情景，嗯，对任何人来说，产品和服务都不会短缺，基本上任何人都能拥有他们想要的任何产品和服务。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "Um that's the productivity gains from AI and robotics are just uh astounding to think about. Like I think I think it could increase the the size of the economy by a factor of 10 or more. Like it it will eliminate poverty. Um and you really will be in a situation where anyone can have anything they want. Um the bigger challenge may be finding uh meaning in life.",
+      "textZh": "嗯，AI 和机器人技术带来的生产率提升，光是想想就，呃，令人震惊。比如，我认为，我认为它可以让经济规模扩大10倍或更多。比如，它会消除贫困。嗯，而且你真的会进入一种任何人都能拥有自己想要的任何东西的状况。嗯，更大的挑战可能是寻找，呃，人生的意义。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "So if if the robot can do anything that you can do but maybe better how do you find meaning in life >> that's that may be the biggest challenge >> when you think of the fact you know you mentioned that you know you've been holding off on um you know really getting involved whether it's you know participating versus being a spectator and when you're thinking of the next couple of years of like let's say not necessarily catching up but just doubling down and really focusing on it.",
+      "textZh": "所以，如果……如果机器人能做你能做的任何事情，而且也许做得更好，你要如何找到人生的意义？>> 那……那可能是最大的挑战。>> 当你想到这样一个事实，你知道，你提到过，你知道，你之前一直没有，嗯，你知道，真正参与进来，无论是，你知道，亲自参与还是作为旁观者，而当你考虑接下来几年，比如说不一定是追赶，而是加倍投入、真正专注于它。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "What are going to be your biggest focus points? >> Really, it's making it useful um and making it safe for humanity and making it uh love humanity essentially and be you know you want it to be useful and friendly. Um, so those are the most important things. Um, I I I've never seen any technology advance as fast as AI. So, and I've seen a lot of technologies advance. >> Yeah.",
+      "textZh": "你最大的关注点会是什么？>> 其实就是让它有用，嗯，让它对人类安全，并让它，呃，从本质上热爱人类，而且要，你知道，你希望它有用且友善。嗯，所以这些是最重要的事情。嗯，我……我……我从未见过任何技术像 AI 这样发展得如此之快。所以，而且我见过很多技术进步。>> 是的。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": ">> So, the rate of I I call it and maybe this is a discomforting metaphor, but AI is a A supersonic tsunami >> does not sound fun, but yeah, >> it sounds sounds a little scary in that way, but it's in terms of maybe in terms of uh exceeding prior technologies. Uh it's like supersonic and and you really do need to pair AI with robotics.",
+      "textZh": ">> 所以，AI 的速度，我……我称它为，而且这或许是个令人不安的比喻，但 AI 是一场……一场超音速海啸。>> 听起来不好玩，不过，是的。>> 这样说听起来有点吓人，但这是就，或许就，呃，超越以往技术而言。呃，它就像超音速一样，而且……而且你确实需要把 AI 与机器人技术结合起来。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "Yeah, I I think it's uh it's crazy just how much it's advanced in just the past year or two years and and seeing how kids are using it looking using Grock 4, Grock voice, the companions now. Um, >> yeah, >> I think you've answered this before, but what would what keeps you up at night when you think of the future of AI?",
+      "textZh": "是的，我……我觉得很疯狂，它仅仅在过去1年或2年里就进步了这么多，而且……而且看到孩子们如何使用它，看看他们使用 Grock 4、Grock 语音，还有现在的伴侣。嗯，>> 是的，>> 我想你以前回答过这个问题，但当你思考 AI 的未来时，什么会……什么会让你夜不能寐？"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "And now that you're doubling down and really just going um wartime mode right now on just tackling this these issues, what is uh what is something that keeps you up at night? Well, AI safety um and making sure the AI is aligned with uh humanity and wants to foster and grow and better humanity and you know basically we want to be like if you could you could look into a crystal ball right now and see the future needs to be the future one.",
+      "textZh": "而现在你正在加倍投入，真的就是，嗯，进入战时模式，立即着手应对这个……这些问题，有什么，呃，有什么事情会让你夜不能寐？嗯，AI 安全，嗯，还有确保 AI 与，呃，人类保持一致，想要促进人类成长并让人类变得更好，而且，你知道，基本上我们希望是，比如说，如果你现在能……你能看进水晶球并看到未来，那需要是未来的那个。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "And so I mean I have this kind of like new um term for the goal of Tesla. The goal of Tesla previously was uh accelerating the advancement of sustainable energy which is like a very good goal.",
+      "textZh": "所以，我是说，我对 Tesla 的目标有这样一个新的，嗯，说法。Tesla 以前的目标是，呃，加速可持续能源的发展，这是一个非常好的目标。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "And then the reason I pursued that rather than AI because I could have pursued AI from the beginning was because I was confident that that sustainable energy was a single-edge sword only like it was only a good edge you know so we sure that okay we succeed in that like okay that's that's definitely good sustainable energy by definition is great um you have cleaner air and you know and can run out of whatever the source fuel is uh with with combination solar, batteries, and electric cars, then that's a that's an unequivoc for AI, like I said, there's it is more of a double-edged sword risk.",
+      "textZh": "而我之所以追求它而不是 AI，因为我本可以从一开始就追求 AI，是因为我确信，可持续能源是一把只有单刃的剑，比如，它只有好的一边，你知道，所以我们确定，好吧，我们在这方面取得成功，比如，好吧，那……那绝对是好事，可持续能源顾名思义就很棒，嗯，你会拥有更清洁的空气，而且，你知道，而且不管燃料来源是什么都可能耗尽，呃，通过太阳能、电池和电动汽车的组合，那就是一个……那是一个毫不含糊的……对于 AI，就像我说的，存在……它更像是一种双刃剑风险。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "Um, but but I think it most likely will be good. and most likely will bring immense prosperity and you know it's going to figure out how to cure every disease. Um, and uh it's it's probably going to be awesome, but I think we need to be uh careful and not complacent and and we actually be somewhat paranoid uh to make sure that um we have the good AI future and not the bad AI future.",
+      "textZh": "嗯，但……但我认为它很可能会是好的。而且很可能会带来巨大的繁荣，而且，你知道，它会弄清楚如何治愈每一种疾病。嗯，而且，呃，它……它可能会很棒，但我认为我们需要，呃，谨慎而不能自满，并且……而且实际上要有些多疑，呃，以确保，嗯，我们迎来的是好的 AI 未来，而不是坏的 AI 未来。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Um, so I mean from from a Tesla's stock standpoint I think with autonom autonomous cars and and especially with with Optimus the it does go to to sort of crazy levels. I'd always recommend like looking at uh Kathy Wood and Arinvest analysis. Uh they're they've been right in the past. Um, and I think they're right this time.",
+      "textZh": "嗯，所以我的意思是，从 Tesla 股票的角度来看，我认为随着自动……自动驾驶汽车，尤其是随着 Optimus，它确实会达到某种疯狂的水平。我一直会建议去看看，呃，凯茜·伍德和 Arinvest 的分析。呃，他们过去判断对了。嗯，我认为这次他们也是对的。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "And again, with a lot of difficult execution, I I I think, you know, people out there said, \"Well, Tesla's valuation could be 25 trillion.\" I and I think that that's probably correct. If we execute uh well on autonomous transport and optimus, it actually does get to a 20 to30 trillion valuation. Uh that's 20 to 30 times what it is today. >> Everyone's cheering. >> Yeah. Um yeah, the math is uh math is clear.",
+      "textZh": "而且再次强调，这需要完成大量艰难的执行工作，我我我认为，你知道，外面有人说：“嗯，Tesla 的估值可能达到25万亿美元。”我……我认为这可能是正确的。如果我们在自动驾驶运输和 Optimus 方面执行得很好，它确实会达到20至30万亿美元的估值。呃，那是如今的20至30倍。>> 所有人都在欢呼。>> 是的。嗯，是的，数学……数学很清楚。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "Um, so it's just it's just a massive amount of work and but but like I think if we do that massive amount of work that's what will happen. Elon let's talk about Neurolink. You've described Neurolink in the past as a way to solve the input output bottleneck between humans and machines, right? >> What's the long-term vision? Is Neuralink a medical company or is it the first step towards symbiosis with AI?",
+      "textZh": "嗯，所以这只是……这只是极其庞大的工作量，而……但但就像我认为，如果我们完成那么庞大的工作量，那就是将会发生的事。埃隆，我们来谈谈 Neurolink。你过去曾将 Neurolink 描述为一种解决人类与机器之间输入输出瓶颈的方法，对吧？>> 长期愿景是什么？Neuralink 是一家医疗公司，还是迈向与 AI 共生的第一步？"
+    },
+    {
+      "id": "p-0067",
+      "textEn": ">> It's it's thoughtful as a medical technology.",
+      "textZh": ">> 它……它被审慎地视为一种医疗技术。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "So, Neurolink's initial goals are really to uh help people uh who have say quadriplegic tetroplegic situ they've lost the use of their body um and to be able to enable them to control their bone computer just by thinking and I think we have eight eight patients so far and all eight um love the device and and are uh using it every So it's it's helped a lot of people and I think we're uh Tesla team the neuralinking team is aiming to do about 20 uh patients uh by the end of this year.",
+      "textZh": "所以，Neurolink 最初的目标实际上是，呃，帮助那些，比如说处于四肢瘫痪、四肢瘫痪情……他们已经失去身体使用能力的人，嗯，并使他们能够仅凭思考来控制他们的骨骼电脑，而且我认为到目前为止我们有8名、8名患者，而这8名，嗯，都很喜欢这个设备，并且在每……使用它。所以它……它帮助了很多人，而且我认为我们，呃，Tesla 团队，neuralinking 团队的目标是在今年年底前做到大约20名，呃，患者。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "So it's accelerating. And then next year we'll be doing the uh blind sight implement which will enable people who are completely blind like if they've lost both eyes and optic nerve and still be able to see um interfacing directly with visual cortex. So there a lot of cool things like that.",
+      "textZh": "所以它正在加速。然后明年我们将进行，呃，盲视植入物，它将使完全失明的人，比如即使他们失去了双眼和视神经，仍然能够看见，嗯，方式是直接与视觉皮层连接。所以有很多那样很酷的东西。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "Um so the focus essentially is uh fixing um serious medical issues and as prove out the safety and efficacy and um then eventually at some point uh you could get cybernetic enhancements. So it could could uh be something that massively augments intelligence um and allows you to communicate at ultra high speeds. Um so it it's very sci-fi. Um, and and it could even get to the point where you could upload your memories.",
+      "textZh": "嗯，所以重点本质上是，呃，修复，嗯，严重的医疗问题，并且随着安全性和有效性得到验证，嗯，那么最终在某个时候，呃，你可以获得控制论增强。所以它可……可以是某种极大增强智力，嗯，并让你能以超高速度交流的东西。嗯，所以它……它非常科幻。嗯，而且而且它甚至可能发展到你可以上传自己记忆的程度。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "Uh, and and essentially have a a saved version of yourself. Um, and then I'm I'm speculating here, but but but then maybe download that into uh a new on a closed body either robot. I'm really getting into sci-fi here, but but like download that into a robot body if you want or a clone version of your original self.",
+      "textZh": "呃，并且而且本质上拥有一个……一个保存下来的自己。嗯，然后我……我这是在推测，但但但是，之后也许可以把它下载到，呃，一个新的、在一个封闭的身体上，不管是机器人。我这里真的越来越科幻了，但但就像，如果你愿意，可以把它下载到一个机器人身体里，或者你原本自我的克隆版本里。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "You know, they they certainly made sci-fi movies, written books about this, so these are not new ideas, but I I do think stuff like that will be possible.",
+      "textZh": "你知道，他们……他们当然拍过关于这个的科幻电影，也写过书，所以这些并不是新想法，但我……我确实认为那样的事将成为可能。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "um which would give you I guess a form of or anybody wants it uh a form of immortality and to be clear I do think these things will be available to anyone who wants to do it so it's not going to be sort of limited to a few sort of you know uh elite members of society I think it will be available to everyone who wants it >> it it's crazy just to think, you know, with Neuralink, Grock, the Gro Companion, and even the humanoid robot, how do you do you see I mean, it just feels like more and more uh whether it's Grock, the Grock Companion, and then Neurolink, I know we we did an interview with Brad who was the third patient who has ALS and um he was also utilizing Grock.",
+      "textZh": "嗯，这会给你，我猜，一种，或者给任何想要它的人，呃，一种永生形式，而且需要明确的是，我确实认为任何想这样做的人都能获得这些东西，所以它不会以某种方式仅限于少数某种，你知道，呃，社会精英成员，我认为每个想要它的人都能获得它。>> 光是想想就很疯狂，你知道，有 Neuralink、Grock、Gro Companion，甚至还有人形机器人，你怎么……你是否看……我的意思是，这只是感觉越来越……呃，无论是 Grock、Grock Companion，然后还有 Neurolink，我知道我们……我们采访了布拉德，他是第3名患者，患有 ALS，而且，嗯，他也在使用 Grock。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "Um >> yeah, >> what do you what do you see continuing to see that integration between let's say Neurolink and even even Grock um as things continue to grow?",
+      "textZh": "嗯，>> 是的，>> 随着事物继续发展，你对，比如说 Neurolink，甚至甚至 Grock，嗯，两者之间继续出现的那种整合有何……有何看法？"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "Yeah, a graph will actually be able to understand the signals from your so the neural links connecting to your brain and then sending the signals to Grog and then Grog can actually understand those signals at a at kind of like a a binary level um as opposed to having to translate it into words. And so greatly improve the efficiency with which you can use your Neurolink device.",
+      "textZh": "是的，一个图实际上将能够理解来自你的信号，所以这些神经链路连接到你的大脑，然后把信号发送给 Grog，接着 Grog 实际上可以在某种类似……二进制的层面上理解这些信号，嗯，而不必将其翻译成文字。这样就能大幅提高你使用 Neurolink 设备的效率。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "Um like it's so I mean we're really getting into some interesting philosophical questions or interesting questions like if you think about how much of your your mental capacity your mind is used to take a complex thought or image in your mind and translate that into words and it's and it's very lost. because how can you really with words convey say an image that you have in your mind?",
+      "textZh": "嗯，就像它……所以我的意思是，我们确实正在进入一些有趣的哲学问题，或者说有趣的问题，比如，如果你想想，你的……你的心智能力、你的思维中有多少被用于获取脑海中的复杂想法或图像，并把它翻译成文字，而且它……而且它丢失得非常严重。因为你究竟怎么能用文字传达，比如说，你脑海中的一幅图像？"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "Um it's very difficult to do so and and if you're not like if you're not an artist it's actually very difficult to actually get the image from your mind onto a computer or paper. Um but but the but the computer could do that.",
+      "textZh": "嗯，这非常难做到，而且而且如果你不是，比如如果你不是艺术家，实际上就很难真正把脑海中的图像弄到电脑或纸上。嗯，但是但是……但是电脑可以做到。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "You could say okay this is the image that you want to produce and well let's say like there's a complex series of concepts that you want to convey to someone else and and if both people have a neural link you'll be able to convey a complex uh series of ideas u uncompressed in their full form to someone else's mind as opposed to reducing ing complex con concepts down to um a few sentences and trying to get someone else to hear what those sentences are, decompress those sentences in their mind and try and try to understand the concepts that are in your mind.",
+      "textZh": "你可以说，好吧，这就是你想生成的图像，而且，嗯，假设你想向其他人传达一系列复杂的概念，而而如果两个人都有一条神经链路，你就能够以完整形式、不经压缩地把一系列复杂的，呃，想法传达到另一个人的脑海中，而不是把复杂概……概念缩减成，嗯，寥寥几句话，并试图让另一个人听到那些句子，在他们脑海中解压那些句子，然后试着、试着理解你脑海中的概念。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "So this is why I call it uh conceptual telepathy. So this would greatly improve communication and understanding between humans. You've mentioned restoring vision and mobility, but the idea of writing to the brain >> and hearing too. Sorry. So, it's like basically if if there's if there's any sense or brain injury in principle that sensory function or that brain injury can be solved with a neural link. So that includes uh curing sight smell.",
+      "textZh": "所以这就是为什么我称它为，呃，概念心灵感应。所以这会极大改善人类之间的沟通与理解。你提到了恢复视力和行动能力，但写入大脑这个想法……>> 还有听力。抱歉。所以，它基本上就像，如果……如果存在任何感官或脑损伤，原则上，那种感官功能或那种脑损伤都可以通过一条神经链路得到解决。所以这包括，呃，治愈视力、嗅觉。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "I don't people not many people have lost their sense of smell but um feeling it could be um like if somebody has a stroke and they've lost the ability to move um left arm, a neural link could restore that ability. Um it it's it's really a very powerful general purpose uh input output device uh that can address you know over time any uh brain or neurological issue. So if somebody's having seizures uh it it could actually stop the seizures.",
+      "textZh": "我不，人们，没有多少人失去了嗅觉，但，嗯，感觉它可能会，嗯，比如，如果有人中风并失去了移动，嗯，左臂的能力，Neuralink 可以恢复这种能力。嗯，它，它，它确实是一种非常强大的通用，呃，输入输出设备，呃，随着时间推移，它可以应对，你知道，任何，呃，大脑或神经系统问题。所以，如果有人癫痫发作，呃，它，它实际上可以阻止癫痫发作。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "Um, it could I think probably fix uh schizophrenia like a lot of there's a lot of things that could like in principle it can fix basically anything that's to do with the brain or um neurons or your senses. >> Is there anything that would be like is there a a most difficult problem to solve in that space then? Um because technically a lot of it could be solved.",
+      "textZh": "嗯，我认为它或许可能治好，呃，精神分裂症。就像很多……有很多事情，原则上它基本上可以解决任何与大脑、呃、神经元或你的感官有关的问题。>> 那么在这个领域里，有没有什么可以说是最难解决的问题？呃，因为严格来说，很多问题都可以解决。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Is there something that would uh maybe you would see bigger blockers on trying to solve as far as um fixing those problems? [Music] >> I'm not aware blockers right now. It's just that when you're putting devices in humans, you have to be very careful and to make sure that uh no damage is done and is that the implant works. um and without any negative side effects.",
+      "textZh": "在试图解决这些问题方面，有没有什么，呃，可能会让你看到更大阻碍的事情？[音乐] >> 我目前不知道有什么阻碍。只是当你把设备植入人体时，必须非常谨慎，并确保，呃，不会造成任何损伤，而且植入物能够工作。嗯，并且没有任何负面副作用。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "And so far uh you know, knock on wood, we're betting a thousand here and and and you know, patients have the devices have worked and they've no meaningful side effect. So that's it's it's really just Yeah, it's pretty cool. But it's just in order to be safe that does slow us down. Um, and of course we we interact very closely with the with the FDA and for for approvals and stuff. So it's it's not just uh Neurolink in a vacuum here.",
+      "textZh": "到目前为止，呃，你知道，敲敲木头，我们在这里押了1000，而且，而且，而且，你知道，患者们的设备一直都在工作，也没有任何显著的副作用。所以这……这真的只是，是的，这很酷。但只是为了确保安全，这确实会拖慢我们的进度。嗯，当然，我们与FDA保持非常密切的互动，以获得各种批准。所以这并不只是，呃，Neuralink在真空中独自运作。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "It's it's with regulatory approval from the FDA. So uh and and then you do need different variants of neural link device for solving different things. So for example for uh well the teleathy product which is what we have in the uh eight patients so far that interfaces with the motor cortex in the brain.",
+      "textZh": "这是，这是在获得FDA监管批准的情况下进行的。所以，呃，而且，而且，之后你确实需要不同版本的Neuralink设备来解决不同的问题。比如，呃，嗯，teleathy产品，也就是我们迄今为止用于，呃，8名患者的产品，它与大脑的运动皮层连接。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "So it's like like literally it's someone will will think about moving their hand neural link device will read that signal in the motor cortex and then move the mouse on your on their computer. Um and then for sight it's a different thing because you've got to stimulate the visual cortex and the visual cortex is in a different location and it's and it's a little deeper.",
+      "textZh": "所以它就像，就像字面上说，一个人会，会想着移动自己的手，Neuralink设备会读取运动皮层中的那个信号，然后移动你的，他们的电脑上的鼠标。嗯，而对于视觉，情况则不同，因为你必须刺激视觉皮层，而视觉皮层位于不同的位置，并且它，它要更深一些。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "So you've got so you've got to put the electrodes a little bit deeper to reach the visual cortex. And in this case it's it's uh it's not reading it's writing. It's it's effectively writing pixels to the visual cortex. This is something we've had working in monkeys for um about three years now. Uh, in fact, one of our monkeys has both a telepathy implant and a blind sight implant. And he's a very happy monkey.",
+      "textZh": "所以你必须，所以你必须把电极放得更深一点，以触及视觉皮层。在这种情况下，它，它，呃，不是在读取，而是在写入。它实际上是在向视觉皮层写入像素。我们已经让这项技术在猴子身上运行了，嗯，大约3年。呃，事实上，我们有一只猴子同时植入了Telepathy植入物和盲视植入物。而且它是一只非常开心的猴子。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Um, I do want to emphasize we take uh great care of our of our animals. Um, this is a really big deal because I I've always said like imagine if we were in their position. Well, let's let's just do all the things that if that if we were in that position, we'd do. Um, and the USA inspector that came by to check out our facilities, she said in her entire career, she's never seen a nicer monkey enclosure ever.",
+      "textZh": "嗯，我确实想强调，我们对我们的，对我们的动物照顾得非常周到。嗯，这真的非常重要，因为我，我一直都说，比如，想象一下如果我们处在它们的位置。好吧，那我们就，就把所有那些如果，如果我们处在那个位置时会做的事情都做了。嗯，那位来检查我们设施的美国检查员说，在她整个职业生涯中，她从未见过更好的猴舍。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "And and let me tell you, monkeys love for the lefty implant. Uh, monkeys are just like us. They they love playing video games and eating snacks. So, if you look if you look at that video of Paige around I think it's like four years old now, you see he's just he's just sitting on a branch uh sipping a banana smoothie. Um, which he gets every time he stores. He gets a sip of a smoothie.",
+      "textZh": "而且，而且我告诉你，猴子喜欢左撇子植入物。呃，猴子和我们一模一样。它们，它们喜欢玩电子游戏和吃零食。所以，如果你看，如果你看佩奇的那段视频，我想现在大概有4年了，你会看到它只是，它只是坐在一根树枝上，呃，啜饮香蕉奶昔。嗯，它每次储存时都会得到这个。它会喝一口奶昔。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "Um and he's but he's not being held down like he likes playing the game. >> So just really just like humans likes likes snacks and video games and yeah same same thing. >> One question I have like building a humanoid robot and neural link intersect if at all I mean what are the learnings from that? Um is there any overlap? Yeah. >> Well, I have to say building a humanoid robot has really made me think a lot about how the human body works.",
+      "textZh": "嗯，而且它……但它没有被按住，它喜欢玩这个游戏。>> 所以真的就和人类一样，喜欢，喜欢零食和电子游戏，是的，一模一样。>> 我有一个问题，比如说，制造人形机器人和Neuralink是否存在交集，如果有的话，我是说，从中学到了什么？嗯，有没有任何重叠？是的。>> 嗯，我得说，制造人形机器人确实让我对人体如何运作思考了很多。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "You gain a new appreciation for actually just how awesome at design the human body is. Now admittedly, you know, I think some parts of the human body could be better, like the spine. Like, why do we have so much back pain? It's very annoying. >> Maybe uh don't fight sumo wrestlers, man. >> Yeah, seriously, Doug Moore.",
+      "textZh": "你会产生一种新的认识，意识到人体的设计实际上有多么出色。诚然，你知道，我认为人体的某些部分可以做得更好，比如脊柱。比如，我们为什么会有这么多背痛？这非常烦人。>> 也许，呃，别跟相扑选手打架，伙计。>> 是的，说真的，道格·摩尔。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "Um, but you know, yeah, typically, you know, everyone has back pain in some point in their life, which is also a thing you're linking soul. So that'd be cool, too. Um, but no, your optimist has really made me think a lot about how our hands work. Um, how we balance, how we do different things. Um, but maybe more than anything, just how incredible our hands are. They're it's like, wow.",
+      "textZh": "嗯，但是你知道，是的，通常来说，你知道，每个人一生中都会在某个时候背痛，这也是你正在链接灵魂的一件事。所以那也会很酷。嗯，但是，不，你的乐观主义者确实让我对我们的双手如何运作思考了很多。嗯，我们如何保持平衡，如何做不同的事情。嗯，但也许最重要的是，我们的双手是多么不可思议。它们……这就像，哇。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "Um things that our hands do like the hands in Optimus are half or more than half of the electromechanical problem and the entire rest of the body is is a half. >> Wow. That's crazy. >> Yeah. And and it's like honestly you look to your hands you're like and you move and if you and if you feel your forearm like the almost all the muscles that control your hand are actually in your forearm and and and they're pulling your fingers like like puppets.",
+      "textZh": "嗯，我们的双手所做的事情，比如Optimus的手，占机电问题的一半或超过一半，而身体其余全部部分占，占另一半。>> 哇。这太疯狂了。>> 是的。而且，而且说实话，你看看自己的手，你会觉得……然后你动一动，如果你，如果你摸摸自己的前臂，会发现几乎所有控制手部的肌肉实际上都在前臂里，而且，而且，而且它们像，像木偶一样拉动你的手指。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "So yeah, there's only a a small number of muscles that are in that in your hand itself, but your hand is all being controlled through tendons that go either through or above your carpal tunnel. Um, and your hand is being operated like a marionette from your forearm. >> Yeah. >> One thing that's crazy I just see I just Yeah.",
+      "textZh": "所以，是的，你手本身只有少量肌肉，但你的手全都是通过穿过或位于腕管上方的肌腱来控制的。嗯，你的手就像提线木偶一样由前臂操纵。>> 是的。>> 有一件很疯狂的事，我刚看到，我只是，是的。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "I mean it's crazy how much the the human body whether it's like you know Tesla vision going you know just trying to see what kind of like similar to how uh humans view the the world right and getting rid of the radar and then same thing with the humanoid robot and just you know thinking and seeing how um the human body works um is there anything more specifically even within the human body that will continue to infer whether it's the humanoid robot And it sounds like obviously the the the hand is the big one of the biggest problems.",
+      "textZh": "我是说，这太疯狂了，人体，不管是像，你知道，Tesla 视觉在推进，你知道，只是试图了解那种有点类似于人类如何观察世界的方式，对吧，并且去掉雷达；然后人形机器人也是一样，只是，你知道，思考和观察人体是如何运作的。嗯，人体内还有没有更具体的东西，我们会继续从中推断，无论是人形机器人……而且听起来显然，手是最大的问题之一。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Um but but are there other parts of the body too that would >> um continue to help infer other parts of the the humanoid robot or again it's just yeah with Tesla vision and and eyesight. >> Well with with Optimus we're able to reuse the autopilot computer. So, Oculus is uh intelligence is powered by the AI4, the same computer that controls the car and you know a small battery pack that's similar to the car battery pack.",
+      "textZh": "嗯，但身体还有其他部位也会……>> 嗯，继续帮助推断人形机器人的其他部分吗？或者还是说，对，就是 Tesla 视觉和视力。>> 嗯，对于 Optimus，我们能够复用自动驾驶计算机。所以，Oculus 的，呃，智能由 AI4 驱动，也就是控制汽车的同一台计算机，还有，你知道，一个类似于汽车电池包的小型电池包。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "So, there's a lot of simaries with the car. Uh and and then the AI that's in the car is similar to the AI that will be in Optimus running AI4 hardware and then AI5 hardware when that's ready. So there a lot of parallels um but the limiting factor is the hand. Yeah. >> Um, but I'm convinced that Optimus will be the biggest product ever. Um, yeah. So, and then of course autonomy is starting to roll out.",
+      "textZh": "所以，它和汽车有很多相似之处。车内的 AI 与 Optimus 中运行在 AI4 硬件上的 AI 相似，等 AI5 硬件准备好后也是如此。因此有很多共通之处，但限制因素是手部。是的。>> 嗯，不过我确信 Optimus 会成为有史以来最大的产品。嗯，是的。那么，当然，自动驾驶也开始逐步推出了。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "um car but will be in uh many cities in throughout the United States later this year and hopefully many countries um uh next year. >> Yeah, here in the Bay Area we have a bunch of FOMO. Everyone's looking at Austin right now. Uh, I can tell you I uh I always uh whenever I open that robo taxi app, man, it just the geoence just the figurine is insane. >> It's funny. Yeah. Yeah.",
+      "textZh": "嗯，汽车，但今年晚些时候会出现在美国各地的，呃，许多城市，希望明年会出现在许多国家。>> 是的，我们湾区这里有很多错失恐惧。现在所有人都在看奥斯汀。呃，我可以告诉你，我，呃，我总是，呃，每当我打开那个无人驾驶出租车应用时，天啊，就是那个 geoence，就是那个小人偶，太疯狂了。>> 很有意思。是的。是的。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": ">> I mean, you got to have some fun, you know, don't take yourself too seriously type of thing. [Applause] >> Let's uh switch and talk about X. You've called X and here we are at X takeover. You've called X the everything app, but it's still in a transitional phase. What exactly do you want X to be in 5 years? >> Um I mean X is definitely improving. It's mean it's evolved a lot from Twitter.",
+      "textZh": ">> 我是说，你得找点乐子，你知道，别把自己看得太严肃之类的。[掌声] >> 我们来，呃，转换一下话题，谈谈 X。你把 X 称为……而我们现在就在 X Takeover。你把 X 称为万能应用，但它仍处于过渡阶段。你究竟希望 X 在 5 年后变成什么样？>> 嗯，我是说，X 肯定在不断改进。我的意思是，它相比 Twitter 已经发生了很大演变。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "can only have like uh you know short text tweets and um like two minute videos to the point where now you can have like 4hour videos and you can write a novel um if you want on the system. So it's it's gone sort of fully multimodal from long videos to long text to anything in between. Um and uh we're currently really improving the the DM system.",
+      "textZh": "以前只能发那种，呃，你知道，简短的文字推文和，嗯，大约 2 分钟的视频，而现在你可以发大约 4 小时的视频，如果你愿意，也可以在这个系统上写一部小说。所以它算是从长视频到长文本，再到两者之间的任何内容，全面变成了多模态。嗯，而且，呃，我们目前正在大力改进私信系统。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "So with a new system called Xhat uh which enables audio video calling uh it's all fully encrypted uh peer-to-peer style like Bitcoin. Um and the asset test is that even if somebody uh puts the gun to my head, I still can't read your messages. That's the test. Um, so it's like very secure and and and also like you do calling and and and video with it.",
+      "textZh": "所以有一个名为 Xhat 的新系统，呃，它支持音频和视频通话，呃，全部完全加密，呃，采用像比特币那样的点对点方式。嗯，而资产测试是，即使有人，呃，用枪指着我的头，我仍然无法读取你的消息。这就是测试。嗯，所以它非常安全，而且，而且，而且你还可以用它打电话和，而且，而且进行视频通话。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "Uh, and then there's the uh kind of X money or Xinance release which is uh hope hopefully only a few months away. We actually have it operating in beta within the company. Um, and that that'll be a major factor.",
+      "textZh": "呃，然后还有那种X Money或Xinance的发布，这，呃，希望只需要再过几个月。实际上，我们已经在公司内部以测试版形式运行它了。嗯，而且那，那将会是一个重要因素。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "Um so but but ex as much as possible at ensuring uh freedom like freedom of speech uh within the as much as we can within the bounds of the law and you know also like aspiration trying to reach for the truth of things like you see that in uh community notes where community notes will will correct someone even if they're are very powerful communic community notes will correct me it'll correct presidents CEOs um even major advertisers and uh even if that cost us money so I think it's generally there's a lot of good things that have happened um we're trying to improve the algorithm which we know kind of sucks right now >> sorry about No, not at all.",
+      "textZh": "嗯，所以，但但 X 会尽可能确保，呃，自由，比如言论自由，呃，在……之内，尽我们所能在法律允许的范围内，而且，你知道，也包括像追求真相这样的愿望，试图触及事物的真相，比如你可以在，呃，社区注释中看到这一点，社区注释会，会纠正某个人，即使他们非常有权势。社区注释会纠正我，会纠正总统、首席执行官，嗯，甚至是大广告商，而且，呃，即使这会让我们损失钱。所以我认为，总的来说，已经发生了很多好事。嗯，我们正在努力改进算法，我们知道它现在有点糟糕。>> 抱歉，关于……不，完全没有。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": ">> I actually enjoy it, but >> Okay. Okay, good. Well, um, >> some days are crazier than others, like when the geoence expanded and some of these other things, but um, yeah. No, I don't know if you have any opinions, Kelvin. >> Sorry, your voice was a bit low there. I couldn't hear a question. >> Oh, I was saying the algorithm can be crazy some days, especially like when the robo taxi geoence expanded. >> Yeah. Yeah. >> Yeah.",
+      "textZh": ">> 我其实挺喜欢的，不过……>> 好。好，那很好。嗯，>> 有些日子会比其他日子更疯狂，比如 geoence 扩大时，还有其他一些事情发生时，不过，嗯，是的。不知道你有没有什么看法，Kelvin。>> 抱歉，你刚才的声音有点小。我没听到问题。>> 哦，我是说，算法有些日子会很疯狂，尤其是像无人驾驶出租车的 geoence 扩大时。>> 是的。是的。>> 是的。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "would they have been the overarching goal of the algorithm is to try to show people information they would find most interesting.",
+      "textZh": "他们会不会曾经是……算法的总体目标是尝试向人们展示他们会觉得最有趣的信息。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "Um but right now it'll show you too much of one thing you know so if whatever the sort of interesting thing of the day is right now it'll the X algorithm will show you too much of that and it's like okay I don't need to see it 20 times you know um you know I think I think I've seen like the Sydney Sweeney Jeans thing about 400 times this point and it's like okay the first few times was good, but we shouldn't show things like 100 times um because because you want to learn new things.",
+      "textZh": "嗯，但现在它会向你展示太多同一种东西，你知道，所以不管当天那种有趣的东西是什么，现在 X 的算法都会向你展示太多次，然后就像，好吧，我不需要看 20 次，你知道。嗯，你知道，我觉得关于 Sydney Sweeney 牛仔裤那件事，到这时候我已经看过大约 400 次了，然后就像，好吧，最初几次还不错，但我们不应该把东西展示大约 100 次，嗯，因为，因为你想了解新事物。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "Um >> so, but X is making steady progress being offering um you know, pretty much everything you'd want to do. And yeah, I feel good about where it's headed. payments. We're We've all I know we're waiting on that and just uh you know thinking about even PayPal too. It's crazy just what fate loves irony doing um x. com back in what the late 90s and >> um then full force buying it you know years back and now um now you're doing payments again.",
+      "textZh": "嗯，>> 所以，但 X 正在稳步推进，提供，嗯，你知道，几乎所有你想做的事情。而且，是的，我对它的发展方向感觉很好。支付。我们……我知道我们都在等这个，而且只是，呃，你知道，甚至想到 PayPal 也一样。命运多么钟爱讽刺，这太疯狂了，嗯，在 90 年代末做 x.com，然后 >> 嗯，几年以前全力把它买下来，而现在，嗯，现在你又在做支付了。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": ">> Yeah. That's it's a sort of poetic end or or or re returning to something that we're sort of unfinished with PayPal and completing the product line. >> What role do you think Grock and XAI play in the future of X? Is it just a feature, a core intelligence layer, or does that change how people experience the platform? Yeah, Groth.",
+      "textZh": ">> 是的。那是某种诗意的结局，或者、或者、或者说回到我们在 PayPal 上某种尚未完成的事情，并完成产品线。>> 你认为 Grock 和 xAI 在 X 的未来中扮演什么角色？它只是一个功能、一个核心智能层，还是会改变人们体验这个平台的方式？是的，Groth。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "Um, I think it's pretty helpful because that that that Groth button which you can press about any given post on the system and its analysis of a post is usually quite accurate. It's it it doesn't bat a thousand, but it's really gives you deeper insight into any given piece of information that somebody posts on the system. Uh, you can figure out more context. uh helps you figure out if it's true or not.",
+      "textZh": "嗯，我认为它相当有用，因为那个、那个、那个 Groth 按钮，你可以针对系统上的任何一篇给定帖子按下它，而它对帖子的分析通常相当准确。它、它、它并非百发百中，但它确实能让你更深入地了解某人发布到系统上的任何一条给定信息。呃，你可以弄清更多背景。呃，帮助你判断它是真是假。"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "Um and we actually just added uh Grock for all advertising in the system. So you can you can press the graph button and see, hey, is this ad is this product going to work or is it uh is this product legit or not? Which I kind of always wanted to have on ads, you know, it's like, does this thing really work? Um, that's what I want to ask a lot of ads. And now on the X systems, you can ask, does this thing really work?",
+      "textZh": "嗯，而且我们实际上刚刚为系统中的所有广告添加了，呃，Grock。所以你可以、你可以按下图表按钮，然后看看，嘿，这个广告、这个产品会有效吗，或者它，呃，这个产品是合法的吗？这其实是我一直希望广告能有的功能，你知道，就像，这东西真的有效吗？嗯，这是我面对很多广告时想问的问题。而现在，在 X 系统上，你可以问：这东西真的有效吗？"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "I guess advertisers where Grock says it doesn't really work. I'm probably not going to advertise very long. Um, maybe it'll encourage better honesty in advertising, which I think would be a good thing. But we're just generally trying to make X a system that you can trust more than any other system. And I think I think it is there already. It does not say that X is perfect. Uh, it it's definitely mistakes.",
+      "textZh": "我猜，Grock 说它其实没什么效果的那些广告商。我可能不会投放广告太久。嗯，也许这会鼓励广告更加诚实，我认为那会是一件好事。但总的来说，我们只是想让 X 成为一个你可以比任何其他系统都更加信任的系统。而且我认为、我认为它已经做到了。这并不是说 X 是完美的。呃，它、它肯定是错误。"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "But is there any other social media company you trust more than X? >> No. >> Nope. >> So like I'm not trusting Facebook, you know. Um, so not to pick on Facebook, whatever, but um, you know, I think it's actually probably fair to say that X is the most trustworthy or least untrustworthy of social networks.",
+      "textZh": "但还有其他任何社交媒体公司比 X 更值得你信任吗？>> 没有。>> 没有。>> 所以，就像，我不信任 Facebook，你知道。嗯，所以也不是要针对 Facebook，随便吧，但，嗯，你知道，我认为可以公平地说，X 是社交网络中最值得信任的，或者最不不值得信任的。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": ">> Yeah, I think that became very apparent uh, just when you saw like when you just compare of like the news during COVID and things being censored. >> Yeah. Um, and you know, just you come to X and you can find out what's really happening. Uh, >> and it's real time. It's really like the I would say the, you know, the world's discourse in town square, right? It can sometimes be a fist fight it feels like.",
+      "textZh": ">> 是的，我认为这一点变得非常明显，呃，就在你看到，比如当你比较新冠疫情期间的新闻和一些内容遭到审查时。>> 是的。嗯，而且你知道，你只要来到 X，就能弄清真正发生了什么。呃，>> 而且它是实时的。它真的就像是，我会说，那个，你知道，世界在城镇广场上的话语，对吧？有时候感觉它可能会变成一场拳斗。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": ">> But at the same time, it's just, you know, where you can find out what's really going on, >> right? That and that's the goal. And I I do want to emphasize obviously there's a long way to go.",
+      "textZh": ">> 但与此同时，它就是，你知道，一个你可以弄清真正发生了什么的地方，>> 对吧？那、那就是目标。而且我、我确实想强调，显然还有很长的路要走。"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "It's it's uh far from perfecting but I I do think it's getting better over time and you know sometimes it's uh two steps forward one step back but the trend over time I think is very good for X being the place where you can figure out what's really going on in the world um against the truth and you can ask rockmore um and you can also learn a lot of things so you can ask if there's a a new uh thing that's invented or announced, you can ask Grock on the system more about it and instantly educate yourself.",
+      "textZh": "它、它，呃，远未臻于完善，但我、我确实认为它在随着时间推移变得更好，而且你知道，有时它是，呃，前进2步、后退1步，但从长期趋势看，我认为 X 正朝着非常好的方向发展，成为一个你可以弄清世界上真正发生了什么，嗯，对抗真相的地方，而且你可以询问更多摇滚，嗯，你也可以学到很多东西。所以，如果出现了一个新发明或新发布的，呃，东西，你可以在系统上向 Grock 询问更多相关信息，并立即让自己了解它。"
+    },
+    {
+      "id": "p-0115",
+      "textEn": ">> Yeah, I don't think I've >> and then we we monitor when Grock gets things wrong and then we we feed that we feed that back into the system to make it aspirationally less wrong over time. Yeah, it's really just crazy to think um you know when you talk to Grock and you can ask it for just things in your timeline. Hey, make a post sound like me on this topic >> or you want >> It's pretty fun. >> Yeah.",
+      "textZh": ">> 是的，我想我没有 >> 然后我们、我们会监测 Grock 什么时候答错，然后我们、我们把那个、把那个反馈给系统，力求让它随着时间推移少错一些。是的，当你想到，嗯，你知道，当你和 Grock 交谈，而且你可以让它处理你时间线里的东西时，真的很疯狂。嘿，针对这个话题写一篇听起来像是我写的帖子。>> 或者你想要 >> 这挺好玩的。>> 是的。"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "Like we are actually aiming for Grock to be the actually I should say two goals are for Grock to be the most uh truth seeeking AI but also the funniest AI because you got to have some fun in life and you know uh laughter is the best medicine. You got to you you got to have some fun. [Applause] Elon, you've predicted a world of abundant energy, robotic labor, and AGI.",
+      "textZh": "比如，我们实际上致力于让 Grock 成为最，实际上我应该说，我们对 Grock 有2个目标：成为最，呃，追求真相的 AI，同时也是最有趣的 AI，因为生活中必须有些乐趣，而且你知道，呃，笑是最好的良药。你必须、你必须有些乐趣。[掌声] 埃隆，你曾预测一个能源充裕、机器人劳动力和 AGI 的世界。"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "Uh, with AI and Optimus, uh, doing, you know, potentially a a lot of things and reducing the amount of things that we're doing today, what do you think is left for humans and and, um, really what does that mean for uh, in the world of artificial super intelligence? >> Yeah, that's a question that I struggle with actually. So um this is part of the reason for neural link which is to um improve the bandwidth communication with AI.",
+      "textZh": "呃，随着 AI 和 Optimus，呃，做着，你知道，可能非常、非常多的事情，并减少我们今天正在做的事情数量，你认为人类还剩下什么，而且、而且，嗯，在人工超级智能的世界里，这究竟意味着什么？>> 是的，这其实是一个让我很纠结的问题。所以，嗯，这也是 Neuralink 存在的部分原因，也就是，嗯，提高与 AI 通信的带宽。"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "So to help achieve a better human AI symbiosis so that you know AI knows what we want. Um and it can respond to collective human world. Um and I think things like can actually um effectively dramatically increase our our intelligence. Um um but I think the future is very much one where human intelligence, machine intelligence and robots are interwoven.",
+      "textZh": "从而帮助实现更好的人类与 AI 共生，这样，你知道，AI 就知道我们想要什么。嗯，而且它可以对人类集体世界作出回应。嗯，而且我认为，像这样的东西实际上可以，嗯，有效地大幅提升我们的、我们的智能。嗯，嗯，但我认为未来很大程度上会是人类智能、机器智能和机器人彼此交织的世界。"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "I think I I said I think it's it's 80% maybe 90% likely to be awesome, but we got to be cautious about that, you know, 10% maybe not awesome situation >> like Terminator. >> Uh yeah. Yeah. I mean seriously that that uh you know stuff like that would be bad. What's your vision for a society where human effort is no longer required for survival or productivity? How do we avoid irrelevance? >> Brian, I think that's a central question.",
+      "textZh": "我想我我说过，我认为它有80%、也许90%的可能性会很棒，但我们必须谨慎对待那个，你知道，10%也许不那么棒的情况。>> 就像《终结者》。>> 呃，对。对。我的意思是，说真的，那种、呃，你知道，那样的事情会很糟糕。对于一个人类不再需要付出努力来维持生存或提高生产力的社会，你有什么愿景？我们如何避免变得无关紧要？>> 布莱恩，我认为这是一个核心问题。"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "Um well if we are symbiotic with AI where we that there's this essentially a merger of human and machine intelligence then we may be able to address the relevance question you know like let's say you uh ride a bicycle or a motorcycle or a car, you're you're super human in what you're able to do. You can now travel faster than any human uh with legs. I mean, if you're a car, you can go vastly faster than the fastest human ever.",
+      "textZh": "嗯，好吧，如果我们与AI共生，也就是人类智能与机器智能实质上融合，那么我们也许能够解决相关性这个问题。你知道，比如说你，呃，骑自行车、摩托车或开汽车，你在能力上就是就是超人。你现在可以比任何用腿的、呃，人类移动得更快。我的意思是，如果你是一辆汽车，你可以远远快于有史以来跑得最快的人。"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "Um does that make running irrelevant? I mean, people still run and still race against each other. So, but but you got humans working with machines. I mean, they actually had these kind of debates when this steam engine came along and and the team travel. Uh it's like well because people derived a lot of their value from saying they they can do manual work faster than a machine and then the machine got answer.",
+      "textZh": "嗯，这会让跑步变得无关紧要吗？我的意思是，人们仍然跑步，仍然互相比赛。所以，但是但是人类在与机器协作。我的意思是，当蒸汽机出现以及团队出行出现时，他们实际上也有过这类辩论。呃，就像，好吧，因为人们的很多价值来自于宣称他们他们做体力活可以比机器更快，然后机器得到了答案。"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "So um but this is a philosophical question that I struggle with and the best thing I can come up with is that you have interwoven human and machine intelligence and uh got something like neural link to augment human intelligence and improve the symbiosis with AI that that we effectively become maybe one with the AI. >> Elon, you off >> Sorry, the audience was about to clap and I started talking.",
+      "textZh": "所以，嗯，但这是一个令我纠结的哲学问题，而我能想到的最佳答案是，让人类智能与机器智能交织在一起，并且，呃，拥有类似Neuralink的东西来增强人类智能、改善与AI的共生关系，让我们实际上也许与AI合而为一。>> Elon，你…… >> 抱歉，观众正要鼓掌，我却开始说话了。"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "Um, but Elon, you you know, you're you're solving uh I guess in a lot of ways, as sometimes you say, you know, a lot of problems. Um, and in a lot of ways, you're creating an a very exciting future with reusable rockets, the mission to Mars with Starship, with the humanoid robots and how it's going to um just the impact that it'll have and Neurolink and seeing the impact on um Noland and Brad.",
+      "textZh": "嗯，但是Elon，你你知道，你正在解决，呃，我想从很多方面来说，正如你有时所说，你知道，很多问题。嗯，而且从很多方面来说，你正在创造一个一个非常令人兴奋的未来，有可重复使用的火箭、有借助星舰前往火星的任务、有人形机器人，以及它将会如何，嗯，就是它将产生的影响，还有Neurolink，以及看到它对，嗯，Noland和Brad产生的影响。"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "What what gives you hope um for today um not just for humanity and civilization, but personally? Well, I think the future is going to be very interesting and exciting and and I guess I also think would I want to be at any other point in human history? Is there some other point in human history that that is is more interesting than where we are today? And I think the answer is no. At least for me.",
+      "textZh": "什么什么让你对，嗯，当下抱有希望，嗯，不只是对人类和文明，而且对你个人而言？嗯，我认为未来会非常有趣且令人兴奋，而且而且我想我还会思考：我愿意生活在人类历史上的其他任何时期吗？人类历史上有没有其他某个时期比我们今天所处的时代更有趣？我认为答案是否定的。至少对我来说是这样。"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "I think we're at the most interesting part of human history. And it's getting more interesting with each passing month. And so so think okay well if I'm in if I'm in the part of human history that that is the most interesting then I think you know anyone feels that way and I think a lot of people feel that way that we should feel very lucky to be alive at this at this time to see these amazing things happen.",
+      "textZh": "我认为我们正处在人类历史上最有趣的阶段。而且每过去一个月，它都会变得更加有趣。所以所以就会想，好吧，如果我身处，如果我身处人类历史上最有趣的阶段，那么我认为，你知道，任何人都会有这种感觉，而且我认为很多人都有这种感觉：能活在这个这个时代、看到这些惊人的事情发生，我们应该感到非常幸运。"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "[Applause] Well, Elon, we wanted to do a time check. Um, but also >> I bet I better get back to my eight jobs. >> Yeah, exactly. You're not a busy man at all. Uh but we just um Kelvin and I we just want to on behalf of Tesla owners of Silicon Valley, uh Tesla owners Austria, Sanwain Valley, and really just uh all of the 1500 people that traveled from all over the world. We just want to personally just say thank you for all you're doing.",
+      "textZh": "[掌声] 好了，Elon，我们想确认一下时间。嗯，不过也 >> 我想我最好回去做我的8份工作了。>> 对，没错。你一点儿也不忙。呃，不过我们只是，嗯，Kelvin和我，我们只是想代表硅谷Tesla车主俱乐部、呃，奥地利Tesla车主俱乐部、Sanwain Valley，以及实际上，呃，所有从世界各地赶来的1500人。我们只是想亲口对你说，感谢你所做的一切。"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "Um and thank you for continuing to push humanity forward. >> Well, thank you. >> Yeah, you have a whole bunch of people here just cheering. So, thank you for all you're doing. >> Thank you. Well, and and uh and thank you for all your support over the years. Uh it's super appreciated. Uh you know, I would say my heart goes out to you, but I have to watch my gestures these days. >> We know what you mean.",
+      "textZh": "嗯，也感谢你继续推动人类前进。>> 好，谢谢。>> 对，这里有一大群人正在欢呼。所以，感谢你所做的一切。>> 谢谢。嗯，而且而且，呃，也感谢你们多年来的所有支持。呃，真的非常感激。呃，你知道，我本来会说我的心与你们同在，但这些日子我得注意自己的手势。>> 我们明白你的意思。"
+    },
+    {
+      "id": "p-0128",
+      "textEn": ">> I can only point straight ahead or straight up. >> Thanks. Um, hey Elon. So, we wanted >> But anyway, my heart does go out to you and uh thank you all for your support over the years. >> Yeah. And we just had one thing uh that we wanted to present to you. Um >> Okay. >> How's it going, Elon?",
+      "textZh": ">> 我只能笔直地指向前方或正上方。>> 谢谢。嗯，嘿，埃隆。所以，我们想要 >> 不过无论如何，我的心确实与你们同在，而且，呃，感谢大家多年来的支持。>> 对。我们还有一样东西，呃，想要送给你。嗯 >> 好的。>> 最近怎么样，埃隆？"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "So on behalf of TSO tov and uh the presenting sponsors uh haha yes we we wanted to present something to you that was symbolic meaningful and really you know these last few months have obviously been quite tumultuous for you and so we really got creative and and really uh yeah we wanted to create you something special. And so I'm going to read you something. Basically, you know, Elon, you you brought electric cars back from the dead.",
+      "textZh": "所以，我代表TSO tov以及，呃，冠名赞助商，呃，哈哈，是的，我们想送给你一样具有象征意义、意义深远的东西，而且真的，你知道，过去这几个月对你来说显然相当动荡，所以我们确实发挥了创意，而且而且真的，呃，对，我们想为你创造一样特别的东西。所以我要给你读一段话。基本上，你知道，Elon，你你让电动汽车起死回生。"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "You made clean energy cool. You made rockets reusable. You're going to take us to Mars. You spent billions to buy Twitter and save free speech. You stopped running your empire to work for the US government for free, to reduce wasteful spending, to save the country from bankruptcy. >> Right. And it took a few arrows for that one. Absolutely. >> And and and and how and how were you thanked? It's like you were betrayed. You were you were mocked.",
+      "textZh": "你让清洁能源变得很酷。你让火箭可以重复使用。你将带我们去火星。你花费数十亿美元收购Twitter并拯救言论自由。你停下对自己商业帝国的管理，免费为美国政府工作，以减少浪费性支出、拯救国家免于破产。>> 对。而且为那件事挨了几箭。确实如此。>> 而而而而你是怎么、你是怎么得到感谢的？就好像你遭到了背叛。你遭到了、你遭到了嘲弄。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "Attacked by the very people who once cheered you on. >> Your name dragged through the mud. Your cars vandalized. Your motives questioned. But that's not the full story, as I imagine many here would attest. So there are millions of people who see you for who you are. >> Yeah. >> People whose lives you've touched and changed. People who believe in what you're building. People who love you and have your back. >> Thank you. >> So yeah, thank you.",
+      "textZh": "遭到那些曾经为你喝彩的人攻击。>> 你的名字被拖进泥潭。你的汽车遭到破坏。你的动机受到质疑。但据我想象，在场许多人都会证明，那并不是故事的全部。因此，有数百万人看到了真正的你。>> 对。>> 那些你曾触动并改变其人生的人。那些相信你正在打造之物的人。那些爱你并支持你的人。>> 谢谢。>> 所以，是的，谢谢你。"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "So, we were gonna we were going to introduce to uh like a few uh more than a few, but we had a real that we were going to play, but with some technicalities. We're unable to do it of actual testimonials from people uh really meaningful, impactful ones that people really wanted you to hear. But, uh >> we'll post it on X. >> We'll post it on X.",
+      "textZh": "所以，我们本来打算，我们本来准备介绍，呃，比如几位，呃，不止几位，但我们有一个本来要播放的真实的东西，不过由于一些技术问题，我们无法播放，其中是真实的人们的感言，呃，都是非常有意义、很有影响力的感言，人们真的很希望你能听到。但，呃 >> 我们会把它发布到X上。>> 我们会把它发布到X上。"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "Uh but there was still it there was only a few but there's a lot more people who want to express their gratitude and support. Thank you. >> But uh you know fortunately they could write letters >> and so Elon thousands of people wrote letters to you to to to demonstrate you know uh and express how much you have meant to them. >> We love you. >> Well love you guys too. >> Thank you. So, we compressed all those paper letters into this brick junk.",
+      "textZh": "呃，但还是有，只有少数人，但还有更多人想表达他们的感激和支持。谢谢。>> 但呃，你知道，幸好他们可以写信。>> 所以埃隆，数千人给你写了信，来、来、来表明，你知道，呃，并表达你对他们来说意义有多么重大。>> 我们爱你。>> 嗯，我也爱你们。>> 谢谢。所以，我们把所有那些纸质信件压缩成了这块砖头废料。"
+    },
+    {
+      "id": "p-0134",
+      "textEn": "Yep. This is a custommade brick. Uh the brick itself is a message to you. It's heavy brick. Not in the sense of how heavy it is, but it's a brick of belief which weighs more than any material matter. We believe you can achieve the impossible. Hence the quote on the front of this brick. You want to read it, John? This brick does fly in spirit because you made you have made the impossible happen. >> All right. Thank you. Much appreciated. >> Yeah.",
+      "textZh": "对。这是一块定制砖。呃，这块砖本身就是给你的一条信息。它是一块沉重的砖。不是指它本身有多重，而是说它是一块信念之砖，比任何物质都更有分量。我们相信你能实现不可能之事。因此才有这块砖正面的引文。你想读一下吗，约翰？这块砖确实在精神上飞翔，因为你让——你已经让不可能之事成为现实。>> 好的。谢谢。非常感谢。>> 是的。"
+    },
+    {
+      "id": "p-0135",
+      "textEn": "And so Elon, yeah, you make bricks fly and in turn that inspires us to to pursue the impossible. And you know what we all say to that? Everyone repeat after me. Haha. Yes. >> Yes. Ah, yes. Thank you, Elon. We love you. >> Thank you. Love you, too. >> Thank you, Elon, for your time. We appreciate it. And, uh, hopefully you have a good rest of, uh, your Saturday afternoon. >> All right. You guys, it was a pleasure speaking. [Applause]",
+      "textZh": "所以埃隆，是的，你让砖块飞起来，而这反过来激励我们去、去追求不可能之事。你知道我们大家对此会说什么吗？所有人跟我重复。哈哈。是的。>> 是的。啊，是的。谢谢你，埃隆。我们爱你。>> 谢谢。我也爱你们。>> 谢谢你抽出时间，埃隆。我们对此表示感谢。而且，呃，希望你能好好度过，呃，这个周六下午剩下的时间。>> 好的。各位，很高兴与你们交谈。[掌声]"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T05:46:08.525Z",
+    "reviewedAt": "2026-09-13T06:13:36.918Z"
+  },
+  "fetchedAt": "2026-09-12T07:10:00.524Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=YqDehngsBHw",
+  "sourceHash": "f361134eeb2ffb67c354bc75952fb16d944ab8a16f9414ae42bccd09396eb407"
+}

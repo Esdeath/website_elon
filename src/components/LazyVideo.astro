@@ -1,0 +1,159 @@
+---
+import { ExternalLink, Play } from "@lucide/astro";
+import { privacyEmbedUrl } from "../lib/display";
+
+interface Props {
+  embedUrl?: string;
+  thumbnailUrl?: string;
+  sourceUrl: string;
+  title: string;
+}
+
+const { embedUrl, thumbnailUrl, sourceUrl, title } = Astro.props;
+const privateUrl = privacyEmbedUrl(embedUrl);
+---
+
+{privateUrl ? (
+  <div class="video-frame" data-lazy-video data-embed-url={privateUrl} data-title={title}>
+    <button class="video-poster" type="button" data-load-video aria-label={`播放：${title}`}>
+      {thumbnailUrl ? (
+        <img src={thumbnailUrl} alt="" width="1280" height="720" decoding="async" />
+      ) : (
+        <span class="poster-blank" aria-hidden="true"></span>
+      )}
+      <span class="play-control" aria-hidden="true"><Play size={28} fill="currentColor" /></span>
+    </button>
+    <noscript>
+      <a class="noscript-link" href={sourceUrl} target="_blank" rel="noreferrer">在原始网站观看</a>
+    </noscript>
+  </div>
+) : (
+  <div class="video-frame video-unavailable">
+    <div>
+      <p>该记录没有可嵌入的播放器。</p>
+      <a class="button" href={sourceUrl} target="_blank" rel="noreferrer">
+        打开原始来源 <ExternalLink size={17} stroke-width={1.8} aria-hidden="true" />
+      </a>
+    </div>
+  </div>
+)}
+
+<script>
+  document.querySelectorAll<HTMLElement>("[data-lazy-video]").forEach((container) => {
+    const load = (start?: number) => {
+      if (container.querySelector("iframe")) return;
+      const source = container.dataset.embedUrl;
+      if (!source) return;
+      const url = new URL(source);
+      url.searchParams.set("autoplay", "1");
+      url.searchParams.set("enablejsapi", "1");
+      url.searchParams.set("playsinline", "1");
+      if (start !== undefined) url.searchParams.set("start", String(Math.max(0, Math.floor(start))));
+
+      const iframe = document.createElement("iframe");
+      iframe.src = url.toString();
+      iframe.title = container.dataset.title || "视频播放器";
+      iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+      iframe.allowFullscreen = true;
+      iframe.referrerPolicy = "strict-origin-when-cross-origin";
+      container.replaceChildren(iframe);
+    };
+
+    container.querySelector<HTMLButtonElement>("[data-load-video]")?.addEventListener("click", () => load());
+    container.addEventListener("archive:seek", ((event: CustomEvent<number>) => load(event.detail)) as EventListener);
+  });
+</script>
+
+<style>
+  .video-frame {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid #303532;
+    border-radius: 5px;
+    aspect-ratio: 16 / 9;
+    color: white;
+    background: #1b1f1d;
+  }
+
+  .video-frame :global(iframe) {
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  .video-poster {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border: 0;
+    padding: 0;
+    color: white;
+    background: #1b1f1d;
+  }
+
+  .video-poster::after {
+    position: absolute;
+    inset: 0;
+    background: rgb(20 23 22 / 20%);
+    content: "";
+  }
+
+  .video-poster img,
+  .poster-blank {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .poster-blank {
+    display: block;
+    background: #252a28;
+  }
+
+  .play-control {
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    display: grid;
+    place-items: center;
+    width: 68px;
+    height: 68px;
+    border: 1px solid rgb(255 255 255 / 80%);
+    border-radius: 50%;
+    background: rgb(20 23 22 / 78%);
+    transform: translate(-50%, -50%);
+  }
+
+  .play-control :global(svg) {
+    margin-left: 4px;
+  }
+
+  .video-poster:hover .play-control {
+    color: var(--surface);
+    background: var(--launch);
+  }
+
+  .video-unavailable {
+    display: grid;
+    place-items: center;
+    padding: 30px;
+    text-align: center;
+  }
+
+  .video-unavailable p {
+    margin: 0 0 18px;
+    color: #c8cecb;
+  }
+
+  .noscript-link {
+    position: absolute;
+    z-index: 2;
+    right: 12px;
+    bottom: 12px;
+    color: white;
+  }
+</style>

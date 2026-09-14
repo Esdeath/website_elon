@@ -1,0 +1,1602 @@
+{
+  "id": "cnbc-faber-musk-2025",
+  "slug": "cnbc-faber-musk-2025",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2025-05-20",
+  "titleEn": "Interview with CNBC",
+  "titleZh": "CNBC 访谈",
+  "summaryEn": "A live CNBC interview from Tesla on autonomous driving and the robotaxi, AI, Optimus, China, brand damage and Musk's commitment to Tesla.",
+  "summaryZh": "CNBC 在 Tesla 进行的一场直播访谈，内容涉及自动驾驶和无人驾驶出租车、AI、Optimus、中国、品牌受损以及马斯克对 Tesla 的投入。",
+  "sourceUrl": "https://www.cnbc.com/2025/05/20/cnbc-transcript-elon-musk-sits-down-with-cnbcs-david-faber-live-on-cnbc-today-.html",
+  "sourceLabel": "CNBC — David Faber",
+  "archiveUrl": "https://elonmuskarchive.org/video/cnbc-faber-musk-2025",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/6sUwRiIncKU",
+  "thumbnailUrl": "https://i.ytimg.com/vi/6sUwRiIncKU/hqdefault.jpg",
+  "org": "Tesla",
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "WHEN: Today, Tuesday, May 20, 2025",
+      "textZh": "时间：今天，2025年5月20日，星期二"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "WHERE: CNBC's \"Power Lunch\"",
+      "textZh": "地点：CNBC 的《Power Lunch》"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Following is the unofficial transcript of a CNBC interview with Elon Musk, Tesla CEO, SpaceX CEO, xAI CEO & X Owner, and CNBC's David Faber on \"Power Lunch\" (M-F, 2PM-3PM ET) today, Tuesday, May 20. Following are links to video on CNBC.com: https://www.cnbc.com/video/2025/05/20/elon-musk-confirms-tesla-plan-for-robotaxis-on-austin-roads-in-june.html, https://www.cnbc.com/video/2025/05/20/elon-musk-well-have-hundreds-of-thousands-of-full-self-driving-teslas-by-the-end-of-next-year.html, https://www.cnbc.com/video/2025/05/20/elon-musk-i-dont-follow-byd-or-think-about-competitors-i-focus-on-the-perfect-product.html, https://www.cnbc.com/video/2025/05/20/elon-musk-we-are-very-much-open-to-licensing-self-driving.html, https://www.cnbc.com/video/2025/05/20/elon-musk-we-have-seen-a-major-rebound-in-demand-post-doge.html and https://www.cnbc.com/video/2025/05/20/watch-cnbcs-full-interview-with-tesla-ceo-elon-musk.html.",
+      "textZh": "以下是今天（星期二，5月20日）CNBC《Power Lunch》（周一至周五，美国东部时间下午2点至3点）节目中对 Tesla 首席执行官、SpaceX 首席执行官、xAI 首席执行官兼 X 所有者埃隆·马斯克，以及 CNBC 的戴维·费伯进行访谈的非官方文字实录。以下是 CNBC.com 上的视频链接：https://www.cnbc.com/video/2025/05/20/elon-musk-confirms-tesla-plan-for-robotaxis-on-austin-roads-in-june.html、https://www.cnbc.com/video/2025/05/20/elon-musk-well-have-hundreds-of-thousands-of-full-self-driving-teslas-by-the-end-of-next-year.html、https://www.cnbc.com/video/2025/05/20/elon-musk-i-dont-follow-byd-or-think-about-competitors-i-focus-on-the-perfect-product.html、https://www.cnbc.com/video/2025/05/20/elon-musk-we-are-very-much-open-to-licensing-self-driving.html、https://www.cnbc.com/video/2025/05/20/elon-musk-we-have-seen-a-major-rebound-in-demand-post-doge.html 和 https://www.cnbc.com/video/2025/05/20/watch-cnbcs-full-interview-with-tesla-ceo-elon-musk.html。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "MANDATORY CREDIT: \"CNBC\"",
+      "textZh": "强制署名：“CNBC”"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "1.    Mandatory credit to \"CNBC\" on first reference.",
+      "textZh": "1.    首次提及时必须署名“CNBC”。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "2.    The onscreen \"CNBC\" logo must be clearly visible and unobstructed at all times in any image, video clip or other form of media.",
+      "textZh": "2.    在任何图像、视频片段或其他形式的媒体中，屏幕上的“CNBC”标识必须始终清晰可见且无遮挡。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "3.    Embedded web video must stream from the CNBC.com media player with the unobstructed credit as described above.",
+      "textZh": "3.    嵌入式网络视频必须通过 CNBC.com 媒体播放器播放，并按上述要求显示无遮挡的署名。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "###",
+      "textZh": "###"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "DAVID FABER",
+      "textEn": "Brian, thank you. Elon Musk is here. We're in the lobby of the Gigafactory here in Austin. Last time I was here was your annual meeting a couple of years ago. So thank you for having us back.",
+      "textZh": "布赖恩，谢谢你。埃隆·马斯克在这里。我们现在位于奥斯汀超级工厂的大堂。我上次来这里是参加你们几年前的年度股东大会。所以谢谢你再次接待我们。",
+      "speakerZh": "戴维·费伯"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "ELON MUSK",
+      "textEn": "Welcome back.",
+      "textZh": "欢迎回来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "FABER",
+      "textEn": "Got a robotaxi right behind you.",
+      "textZh": "你身后正好有一辆无人驾驶出租车。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "MUSK",
+      "textEn": "We do?",
+      "textZh": "有吗？",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "FABER",
+      "textEn": "Yes. Yes, you can see it right there.",
+      "textZh": "是的。是的，你在那里就能看到它。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "MUSK",
+      "textEn": "OK.",
+      "textZh": "好的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "FABER",
+      "textEn": "And, obviously, the meeting with the transportation secretary.",
+      "textZh": "还有，显然，与交通部长的会面。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "MUSK",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "FABER",
+      "textEn": "Are you going to have full autonomous on the roads of Austin at the end -- by the end of June?",
+      "textZh": "你们会在月底——6月底之前，让完全自动驾驶车辆驶上奥斯汀的道路吗？",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "MUSK",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "FABER",
+      "textEn": "You are? What gives you that confidence?",
+      "textZh": "真的会？是什么让你有这种信心？",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "MUSK",
+      "textEn": "We have cars driving 24/7 with drivers in the cars. And we see essentially no interventions. So we want to be very careful with the first introduction of unsupervised full self-driving, meaning that there's the cars driving around with no one in it.",
+      "textZh": "我们的车辆在车内有驾驶员的情况下全天候行驶。而我们看到基本不需要任何干预。所以对于首次推出无监督完全自动驾驶，我们希望非常谨慎，意思是车辆在没有任何人在里面的情况下四处行驶。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "FABER",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "MUSK",
+      "textEn": "So we're going to be—",
+      "textZh": "所以我们会——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "FABER",
+      "textEn": "No one behind a driver's—",
+      "textZh": "驾驶员的——后面没有人——",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "MUSK",
+      "textEn": "Well, yes, and sometimes no one in it at all.",
+      "textZh": "嗯，是的，而且有时车里完全没有人。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "FABER",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "MUSK",
+      "textEn": "Just going to pick someone up. So the car obviously has to be incredibly safe. So we're just being -- and we have thousands of cars that are being tested, which is creating some strange situations where we just drive -- there's just a bizarre number of Teslas driving past people's houses. They're like, what's going on?",
+      "textZh": "只是去接某个人。所以这辆车显然必须极其安全。所以我们只是非常——而且我们有数千辆车正在接受测试，这造成了一些奇怪的情况，我们就开车——就是有数量奇多的 Tesla 从人们家门口驶过。他们会想，发生什么事了？",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "FABER",
+      "textEn": "I think we even saw one last night coming from the airport.",
+      "textZh": "我想我们昨晚从机场过来时甚至看到了一辆。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "MUSK",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "FABER",
+      "textEn": "Yes, driving at night alone.",
+      "textZh": "是的，夜里独自行驶。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "MUSK",
+      "textEn": "So, just—",
+      "textZh": "所以，只是——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "FABER",
+      "textEn": "It looked very lonely.",
+      "textZh": "它看起来非常孤独。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "MUSK",
+      "textEn": "It's just -- it did look a little lonely.",
+      "textZh": "只是——它看起来确实有点孤独。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "FABER",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "MUSK",
+      "textEn": "So, yes, yes, it's looking good for Austin next month.",
+      "textZh": "所以，是的，是的，奥斯汀下个月的情况看起来不错。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "FABER",
+      "textEn": "Some estimates have been that you're only going to have 10 to 12 of them on the road initially. I mean, it's going to be a very small amount. Is that correct?",
+      "textZh": "有些估计认为，你们最初上路的车辆只有10到12辆。我是说，数量会非常少。是这样吗？",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "MUSK",
+      "textEn": "Yes, yes, for the first week.",
+      "textZh": "是的，是的，第一周是这样。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "FABER",
+      "textEn": "First week? How do you see it ramping up?",
+      "textZh": "第一周？你认为之后会如何扩大规模？",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "MUSK",
+      "textEn": "Well, we will have to see how well it does. But I think it's prudent for us to start with a small number, confirm that things are going well, and then scale it up proportionate to how well we see it's doing. So—",
+      "textZh": "嗯，我们得看看它表现得有多好。但我认为，先从少量车辆开始，确认一切进展顺利，然后根据我们看到的实际表现按比例扩大规模，这对我们来说是审慎的。所以——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "FABER",
+      "textEn": "Right. And what's going to be a judge of how well it's doing?",
+      "textZh": "对。那么要用什么来评判它表现得有多好？",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "MUSK",
+      "textEn": "I mean, are there any incidents? Are there any interventions? And -- but we want to be -- we want to deliberately take it slow. I mean, we could start with 1,000 or 10,000 on day one, but I don't think that would be prudent. So we will start with probably 10 for a week, then increase it to 20, 30, 40. And I think by, say -- we will probably be at 1,000 within a few months. And then we will expand to other cities, so expand to the -- San Francisco, California, Los Angeles, San Antonio.",
+      "textZh": "我是说，有没有发生任何事故？有没有任何干预？而且——但我们希望——我们希望有意放慢速度。我是说，我们可以在第一天就投入1,000辆或10,000辆，但我认为那样并不审慎。所以我们可能会先用10辆运行一周，然后增加到20辆、30辆、40辆。而且我认为，到，比如说——我们可能会在几个月内达到1,000辆。然后我们会扩展到其他城市，所以扩展到——旧金山、加利福尼亚、洛杉矶、圣安东尼奥。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "FABER",
+      "textEn": "Is that a real possibility in the not-too-distant future?",
+      "textZh": "这在不太遥远的将来真的有可能实现吗？",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "MUSK",
+      "textEn": "Yes, of course.",
+      "textZh": "是的，当然。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "FABER",
+      "textEn": "I mean, Texas is very different, I don't need to tell you, then, California, when it comes to regulation. They don't really have much here in terms of dealing with autonomous, but it's a different story in California.",
+      "textZh": "我是说，得克萨斯州在监管方面和加利福尼亚州非常不同，这不用我告诉你。他们这里在处理自动驾驶方面其实没有太多规定，但加利福尼亚州的情况就不同了。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "MUSK",
+      "textEn": "Yes, but California has already approved -- Waymo has been doing autonomous driving for a while. So—",
+      "textZh": "是的，但加利福尼亚州已经批准了——Waymo 已经开展自动驾驶有一段时间了。所以——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "FABER",
+      "textEn": "I know they have, right. But do you need a separate approval? Or is somehow—",
+      "textZh": "我知道他们已经获批了，对。但你们需要单独获得批准吗？还是通过某种方式——",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "MUSK",
+      "textEn": "Yes, yes, right now, the approval process is very haphazard—",
+      "textZh": "是的，是的，目前的审批流程非常随意——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "FABER",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "MUSK",
+      "textEn": "And sort of state by state and sometimes city by city.",
+      "textZh": "而且可以说是各州各自为政，有时甚至各城市各自为政。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "FABER",
+      "textEn": "We were talking to the secretary of transportation about that very fact a moment ago, yes.",
+      "textZh": "刚才我们正和交通部长谈到这一情况，是的。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "MUSK",
+      "textEn": "Right. So it's going to be important to have a unified set of national regulations for self-driving cars. Otherwise, you're going to get into this weird situation where, if you're driving from Maine to New York, you're going to go through 10 different sets of regulations. Cars are going to behave differently. It's not going to make any sense.",
+      "textZh": "对。所以，为自动驾驶汽车制定一套统一的全国性法规将非常重要。否则，你会陷入这种奇怪的情况：如果你从缅因州开车去纽约，就要经历 10 套不同的法规。汽车的行为会有所不同。这完全说不通。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "FABER",
+      "textEn": "No.",
+      "textZh": "不。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "MUSK",
+      "textEn": "So, one set of regulations that -- just like there is for highway driving, that's what I think makes sense for the country as a whole. But my prediction is that probably by the end of next year we will have probably hundreds of thousands, if not—",
+      "textZh": "所以，要有一套法规——就像公路驾驶所采用的那样，我认为这对整个国家来说是合理的。但我的预测是，可能到明年年底，我们大概会有数十万辆，甚至——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "FABER",
+      "textEn": "Hundreds of thousands?",
+      "textZh": "数十万辆？",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "MUSK",
+      "textEn": "Over a million Teslas doing self-driving in the U.S.",
+      "textZh": "超过 100 万辆 Tesla 在美国进行自动驾驶。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "FABER",
+      "textEn": "Those are not -- OK. What percentage of those are going to be -- well, not the Cybercab. You're just talking about on full self-driving level four?",
+      "textZh": "那些不是——好吧。其中有多大比例会是——嗯，不是 Cybercab。你说的只是完全自动驾驶达到 4 级？",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "MUSK",
+      "textEn": "Unsupervised full self-driving, where you do not need to pay attention.",
+      "textZh": "无需监督的完全自动驾驶，你不需要集中注意力。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "FABER",
+      "textEn": "Right. Right. For me, if I own a Tesla and I have the software and the capability of doing it?",
+      "textZh": "对。对。也就是说，如果我拥有一辆 Tesla，并且有相应的软件和实现这一功能的能力？",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "MUSK",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "FABER",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "MUSK",
+      "textEn": "But we will have a model which is kind of like some combination of Uber and Airbnb. So if you're a Tesla owner—",
+      "textZh": "但我们将采用一种有点像 Uber 和 Airbnb 相结合的模式。所以，如果你是 Tesla 车主——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "FABER",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "MUSK",
+      "textEn": "You will be able to add or subtract your car to the fleet. So just like an Airbnb, you could like rent out your spare bedroom or rent out your house when you're not using it. And the same thing will be available for Tesla owners.",
+      "textZh": "你将能够把自己的车加入车队或从车队中移出。就像在 Airbnb 上，你可以出租空余的卧室，或者在不使用房子时将其出租。Tesla 车主也可以这样做。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "FABER",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "MUSK",
+      "textEn": "So it's a way for Tesla owners to earn revenue. for -- instead of having your car sit in the parking lot, your car could be earning money.",
+      "textZh": "所以，这是 Tesla 车主赚取收入的一种方式。为了——与其让你的车停在停车场里，不如让它为你赚钱。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "FABER",
+      "textEn": "We talked -- you and I talked about that a couple of years ago.",
+      "textZh": "我们谈过——几年前你和我谈过这件事。",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "MUSK",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "FABER",
+      "textEn": "Which takes me back a bit, because, of course, you remember 2019, you were talking about 2020 the introduction of autonomous, and now you just introduced a fairly somewhat ambitious target. Why do you have the confidence now that in a -- what was it, in a year, there will be a million available?",
+      "textZh": "这让我稍微回想起以前，因为你当然还记得，2019 年时你谈到要在 2020 年推出自动驾驶，而现在你刚刚提出了一个相当、多少有些雄心勃勃的目标。为什么你现在有信心认为，在——多久来着，在 1 年内，就会有 100 万辆可用？",
+      "speakerZh": "费伯"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "MUSK",
+      "textEn": "Well, by the end of next year, I think. So, it's more like 18 months.",
+      "textZh": "嗯，我认为是到明年年底。所以，更像是 18 个月。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "FABER",
+      "textEn": "End of next year, end of '26, OK, right.",
+      "textZh": "明年年底，2026 年年底，好的，对。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "MUSK",
+      "textEn": "Yes. I think that's -- I mean, these things happen slowly but then all at once. So it's a -- Peter Thiel, \"Zero to One.\" Once you make -- once you have a proof point, once you have it working, then scaling up is just a matter of time. So, once it's working well in Austin, then we will make sure it works well in other cities. I mean, there are obviously some unique cases like downtown New York—",
+      "textZh": "是的。我认为那是——我是说，这些事情一开始进展缓慢，但随后会一下子发生。所以，这就像——彼得·蒂尔的《从 0 到 1》。一旦你做出——一旦你有了一个验证点，一旦它能够运行，那么扩大规模就只是时间问题。所以，一旦它在奥斯汀运行良好，我们就会确保它在其他城市也运行良好。我是说，显然存在一些特殊情况，比如纽约市中心——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "FABER",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "MUSK",
+      "textEn": "Like if you're in -- but that's a highly unusual situation. Most cities in America are like Austin, so—",
+      "textZh": "比如如果你在——但那是一种非常不寻常的情况。美国大多数城市都和奥斯汀差不多，所以——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "FABER",
+      "textEn": "Right, although you can go on full self-driving right now in New York. I mean, you can -- obviously you have to sit there behind the wheel.",
+      "textZh": "对，不过你现在在纽约就可以使用完全自动驾驶。我是说，你可以——显然，你必须坐在方向盘后面。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "MUSK",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "FABER",
+      "textEn": "But -- and it'll do it.",
+      "textZh": "但是——而且它能做到。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "MUSK",
+      "textEn": "Oh, yes. No, it—",
+      "textZh": "哦，是的。不，它——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "FABER",
+      "textEn": "It'll navigate the traffic. I have seen it.",
+      "textZh": "它能在车流中行驶。我见识过。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "MUSK",
+      "textEn": "Yes. So, even a Tesla that you buy right now and the self-driving just costs $99 a month, will give you autonomous driving anywhere in the country right now. The question is, when is it unsupervised—",
+      "textZh": "是的。所以，即使是你现在购买的一辆 Tesla，而自动驾驶每月只需 99 美元，也能让你现在就在全国任何地方进行自动驾驶。问题是，它什么时候能做到无需监督——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "FABER",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "MUSK",
+      "textEn": "Where that's the best where we want to—",
+      "textZh": "那才是最好的，也正是我们想要——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "FABER",
+      "textEn": "Right, where you're sitting in the back, so to speak.",
+      "textZh": "对，也就是说，你可以坐在后座上。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "MUSK",
+      "textEn": "Yes, where you're like asleep, and a car -- you wake up at your destination.",
+      "textZh": "是的，你就像睡着了一样，然后汽车——你醒来时已经到达目的地。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "FABER",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "MUSK",
+      "textEn": "In order for that to be the case, we want the autonomous car to be much safer than a car driven by a person.",
+      "textZh": "要实现这种情况，我们希望自动驾驶汽车比人驾驶的汽车安全得多。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "FABER",
+      "textEn": "Right. Are we -- but, again -- I will come to Waymo, because, even though they only have about 700 cars, they obviously are on the market. They're in Beverly Hills all over the place.",
+      "textZh": "对。我们是不是——但是，再说一次——我要谈到 Waymo，因为即使他们只有大约 700 辆车，显然也已经投放市场了。它们在比佛利山庄到处都是。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "MUSK",
+      "textEn": "Sure. It's a proof of concept.",
+      "textZh": "当然。这是概念验证。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "FABER",
+      "textEn": "They have got 28 cameras. They have got lidar and radar. You have had a different approach, six -- I think eight to nine cameras and the neural network. Why do you feel that is going to be the equivalent in terms of safety profile?",
+      "textZh": "他们有 28 个摄像头。他们有激光雷达和雷达。你们采用了不同的方法，6 个——我想是 8 到 9 个摄像头和神经网络。为什么你认为这在安全性方面会达到同等水平？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "MUSK",
+      "textEn": "Oh, I think it'll be better.",
+      "textZh": "哦，我认为它会更好。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "FABER",
+      "textEn": "Why?",
+      "textZh": "为什么？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "MUSK",
+      "textEn": "Because the way that the road system is designed is for AI. It's basically, I should say, it's for intelligence, biological neural net, and eyes. That's how the whole road system is designed. So what will actually work best for the road system is artificial intelligence, digital neural nets, and cameras. And we also have the microphones. The car can hear emergency vehicles, that kind of thing.",
+      "textZh": "因为道路系统的设计方式就是面向AI的。基本上，我应该说，它是面向智能、生物神经网络和眼睛设计的。整个道路系统就是这样设计的。所以，真正最适合道路系统的是人工智能、数字神经网络和摄像头。我们还有麦克风。汽车可以听到紧急车辆之类的声音。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "FABER",
+      "textEn": "Right. You are going to have the microphones to hear the—",
+      "textZh": "对。你们会配备麦克风来听到——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "MUSK",
+      "textEn": "Yes, you need to hear—",
+      "textZh": "是的，你需要听到——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "FABER",
+      "textEn": "Because that was a question. Right, you need to hear a fire engine or a police car.",
+      "textZh": "因为这曾是一个问题。对，你需要听到消防车或警车的声音。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "MUSK",
+      "textEn": "Yes, exactly.",
+      "textZh": "是的，没错。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "FABER",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "MUSK",
+      "textEn": "So -- but that's how the whole road system is designed. It's not designed for shooting lasers out of your eyes. So -- and what we found is that, when you have multiple sensors, they tend to get confused. So do you believe the camera or do you believe lidar? And if you get confused, that's where but -- that's what can lead to accidents. So we used to have, for example, radar in the car. But we found that the radar and the camera would sometimes disagree. And then you don't know which one to believe.",
+      "textZh": "所以——但整个道路系统就是这样设计的。它不是为从你的眼睛里射出激光而设计的。所以——而且我们发现，当你有多个传感器时，它们往往会发生混淆。那么你是相信摄像头，还是相信激光雷达？如果你弄混了，那就是——但那可能导致事故。所以举例来说，我们以前在车里装有雷达。但我们发现，雷达和摄像头有时会得出不同结论。然后你就不知道该相信哪一个。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "FABER",
+      "textEn": "So it wasn't about expense? It was just about—",
+      "textZh": "所以这并不是因为成本？只是因为——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "MUSK",
+      "textEn": "No.",
+      "textZh": "不是。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "FABER",
+      "textEn": "Yes. Are you seeing the data right—",
+      "textZh": "是的。你现在看到的数据——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "MUSK",
+      "textEn": "In fact, we turned off the radars in the cars.",
+      "textZh": "事实上，我们关闭了车里的雷达。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "FABER",
+      "textEn": "You turned off the radar? Yes.",
+      "textZh": "你们关闭了雷达？是的。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "MUSK",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "FABER",
+      "textEn": "So, I mean, are you comfortable right now? If I were to say to you, all right, let's go, do you think that you're there in terms of the safety profile you're seeing right now?",
+      "textZh": "所以，我是说，你现在有信心吗？如果我对你说，好吧，我们走，你认为就你目前看到的安全表现而言，你们已经准备好了吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "MUSK",
+      "textEn": "Yes, we could take a ride today, if you want, sure.",
+      "textZh": "是的，如果你愿意，我们今天就可以去兜一圈，当然。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "FABER",
+      "textEn": "Yes. Well, I'm happy to take a ride with you any time you want, wherever you want. Logistics capability to operate sort of a ride hailing fleet at scale, because you mentioned obviously what's called the end of '26. Are you going to have an app? Are you there? Do you have that ability?",
+      "textZh": "是的。好吧，无论你想什么时候、想去哪里，我都很乐意和你一起兜一圈。大规模运营类似网约车车队的后勤能力，因为你显然提到了所谓的'26年底。你们会推出一个应用程序吗？你们准备好了吗？你们有这种能力吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "MUSK",
+      "textEn": "I think we could figure out an app -- tells me.",
+      "textZh": "我想我们能研究出一个应用程序——告诉我。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "FABER",
+      "textEn": "You're not worried about it?",
+      "textZh": "你不担心这个？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "MUSK",
+      "textEn": "Well, Tesla already has an app.",
+      "textZh": "嗯，Tesla已经有应用程序了。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "FABER",
+      "textEn": "Yes, I know. But -- so is there -- is there going to be a ride hailing app you will introduce to—",
+      "textZh": "是的，我知道。但是——所以会不会——你们会不会推出一款网约车应用程序来——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "MUSK",
+      "textEn": "I think we can figure out how to write an app. That's really not the—",
+      "textZh": "我想我们能研究出怎么编写一个应用程序。那真的不是——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "FABER",
+      "textEn": "It's not too hard?",
+      "textZh": "这不太难？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "MUSK",
+      "textEn": "No.",
+      "textZh": "不。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "FABER",
+      "textEn": "xAI can probably do it for you in like an hour?",
+      "textZh": "xAI大概用差不多1个小时就能替你完成？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "MUSK",
+      "textEn": "Tesla can write apps just fine..",
+      "textZh": "Tesla编写应用程序完全没问题。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "FABER",
+      "textEn": "Do you ever license -- consider licensing the technology at some point?",
+      "textZh": "你是否曾经——考虑过在某个时候授权这项技术？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "MUSK",
+      "textEn": "Yes, yes, we're -- I mean, there are a number of major automakers that have talked to us about licensing self-driving, and we're very much open to that. So I think, the more we demonstrate the capability of self-driving, the more that they will want to license it, and we're happy to help.",
+      "textZh": "是的，是的，我们——我是说，有多家大型汽车制造商和我们讨论过获得自动驾驶技术授权的事，我们对此非常开放。所以我认为，我们越能展示自动驾驶的能力，他们就越想获得授权，而我们也乐于提供帮助。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "FABER",
+      "textEn": "You know, back to the safety profile, because it's going to obviously be something key focus. Business Insider, take it for what you want, but I saw this over the weekend. They did a test between Waymo and and Tesla, and they weren't critical at all—",
+      "textZh": "你知道，回到安全表现，因为这显然会是一个重点关注的问题。Business Insider，你爱怎么评价它都行，但我周末看到了这个。他们对Waymo和和Tesla进行了一次测试，而且他们完全没有批评——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "MUSK",
+      "textEn": "But Business Insider is not a real publication.",
+      "textZh": "但Business Insider并不是真正的媒体。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "FABER",
+      "textEn": "No, but, but it did see—",
+      "textZh": "不，但是，但是它确实看到——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "MUSK",
+      "textEn": "They're a fake, they're fake.",
+      "textZh": "他们是假的，他们是假的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "FABER",
+      "textEn": "Regardless of whether we want to have a debate about their journalistic integrity, which I don't, I the test itself. Let me just share with you and get your reaction, which was the Waymo ultimately, they said proved better in part, only because it avoided with its geofencing one very difficult intersection that the Tesla chose to go through. It stopped at a red light, but then it went through the red light. What's your reaction?",
+      "textZh": "无论我们是否想就他们的新闻操守展开辩论，而我不想，我是测试本身。让我直接和你分享一下，听听你的反应，他们说Waymo最终被证明表现更好，部分原因仅仅是它利用地理围栏避开了一个非常棘手的十字路口，而Tesla选择了通过那里。它在红灯前停了下来，但随后又闯过了红灯。你有什么反应？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "MUSK",
+      "textEn": "Look, I'm not going to comment on some Business Insider article.",
+      "textZh": "听着，我不会对Business Insider的某篇文章发表评论。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "FABER",
+      "textEn": "But is that a concern at all? Because, in a way, there's no geofencing, so it's like happy to go on the highways in a way that perhaps a Waymo is not. I guess my question is, is that a concern at all for you, in terms of it encountering things that are still sort of a crucial test and perhaps it fails?",
+      "textZh": "但这完全不令人担忧吗？因为从某种意义上说，它没有地理围栏，所以它愿意驶上高速公路，而Waymo或许并非如此。我想我的问题是，当它遇到仍然算是一项关键考验、而它或许会失败的情况时，你完全不担心吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "MUSK",
+      "textEn": "No. First of all that was that that actually should have been a test of supervised on self-driving, supervised self-driving, not unsupervised self-driving. So the assumption there is that you have a person who is going to take over.",
+      "textZh": "不。首先，那次测试实际上应该是对受监督的自动驾驶、受监督的自动驾驶进行测试，而不是测试无人监督的自动驾驶。所以这里的假设是，车里会有一个人接管驾驶。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "FABER",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "MUSK",
+      "textEn": "So their test made no sense.",
+      "textZh": "所以他们的测试毫无意义。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "FABER",
+      "textEn": "Okay.",
+      "textZh": "好。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "MUSK",
+      "textEn": "For when we deploy the cars in Austin, we are actually going to play not to the entire Austin region, but only the parts of Austin that we consider to be the safest. So we will geofence it.",
+      "textZh": "当我们在奥斯汀部署车辆时，实际上不会投放到整个奥斯汀地区，而只会投放到我们认为最安全的奥斯汀部分区域。所以我们会设置地理围栏。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "FABER",
+      "textEn": "You will.",
+      "textZh": "你们会。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "MUSK",
+      "textEn": "Yeah, of course.",
+      "textZh": "对，当然。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "FABER",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "MUSK",
+      "textEn": "So it's not going to take intersections, unless we are highly confident it'll, it's going to do well with that intersection or just, it'll just take a route around that intersection.",
+      "textZh": "所以它不会经过十字路口，除非我们高度确信它会、它会很好地应对那个十字路口，否则它就只会选择一条绕开那个十字路口的路线。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "FABER",
+      "textEn": "But there won't be a safety driver in the car—",
+      "textZh": "但车里不会有安全驾驶员——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "MUSK",
+      "textEn": "Correct.",
+      "textZh": "正确。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "FABER",
+      "textEn": "Right? The car, it won't. There's not going to be somebody sitting there.",
+      "textZh": "对吧？车里，它不会。不会有人坐在那里。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "MUSK",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "FABER",
+      "textEn": "But you did have ads for vehicle operator, autopilots. What was that about then? Are there going to be people who are remotely sort of monitoring the performance of the fleet?",
+      "textZh": "但你们确实发布过车辆操作员、自动驾驶员的招聘广告。那么那是做什么的？会有人远程监控车队的运行表现吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "MUSK",
+      "textEn": "Yeah.",
+      "textZh": "会。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "FABER",
+      "textEn": "And what will they do?",
+      "textZh": "他们会做什么？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "MUSK",
+      "textEn": "They'll just be, we're going to be extremely paranoid about the deployment as we should be. It would be foolish not to be so we'll be watching what the cars are doing very carefully. And as we find, as confidence grows, you know, less of that will be needed.",
+      "textZh": "他们只会，我们会对这次部署极度谨慎，我们也理应如此。不这样做才是愚蠢的，所以我们会非常仔细地观察这些车辆在做什么。而且随着我们发现、随着信心增强，你知道，需要这样做的程度会降低。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "FABER",
+      "textEn": "You know, again, you spoke about it, and we spoke about it a couple of years ago, and obviously your investor base, many of whom are watching right now, are interested in the revenue and profitability of this ride hailing, autopilot, auto, robotaxi and autonomous driving opportunity. BYD, I believe at this point in China is now offering levels of autonomy for free. I mean, are you confident you're going to be in a position to continue to get a premium for that particular level?",
+      "textZh": "你知道，还是那句话，你谈到过这件事，我们几年前也谈过，显然，你的投资者群体中有许多人现在正在观看，他们关心网约车、自动驾驶仪、汽车、无人出租车和自动驾驶这一机遇所带来的营收和盈利能力。据我所知，比亚迪目前在中国已经开始免费提供不同级别的自动驾驶功能。我的意思是，你是否有信心继续为那一特定级别收取溢价？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "MUSK",
+      "textEn": "Well, interestingly, in China, we, we're not allowed to train on videos in China, so when we released for self-driving, it was actually just trained on the rest of the world, but not in China. And the tests by local Chinese publications, I think, concluded that even without training on local Chinese roads, Tesla self-driving was the best.",
+      "textZh": "嗯，有意思的是，在中国，我们不被允许用中国的视频进行训练，所以当我们发布自动驾驶时，它实际上只使用世界其他地区的数据训练过，并没有用中国的数据训练。而我认为，中国本地出版物的测试得出的结论是，即使没有在中国本地道路上进行训练，Tesla的自动驾驶仍然是最好的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "FABER",
+      "textEn": "It was the best.",
+      "textZh": "它是最好的。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "MUSK",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "FABER",
+      "textEn": "But again, I mean, it's the technology—",
+      "textZh": "但还是那句话，我是说，这是技术——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "MUSK",
+      "textEn": "There's some pretty wild videos where people are like doing self-driving, which we don't recommend, obviously, on like narrow mountain roads, including one where it's there's a sharp precipice on either side and no barriers, and they're doing self-driving across that.",
+      "textZh": "有一些相当疯狂的视频，里面的人在使用自动驾驶，我们显然不建议这么做，比如在狭窄的山路上，其中一段路的两侧都是陡峭悬崖，也没有护栏，而他们正开着自动驾驶通过那里。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "FABER",
+      "textEn": "They may have more confidence than, perhaps they have more confidence in China.",
+      "textZh": "他们可能更有信心，或许他们在中国更有信心。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "MUSK",
+      "textEn": "Yeah, we don't recommend this, but I saw the video.",
+      "textZh": "对，我们不建议这么做，但我看到了那个视频。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "FABER",
+      "textEn": "Are you, are you regulated to have, where are you in China right now in terms of your ability to offer that product though?",
+      "textZh": "你们，你们是否获得监管许可可以，在提供该产品的能力方面，你们目前在中国处于什么阶段？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "MUSK",
+      "textEn": "Well, we, we have, just get the terminology right—",
+      "textZh": "嗯，我们，我们已经，只是把术语说准确——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "FABER",
+      "textEn": "Understood.",
+      "textZh": "明白。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "MUSK",
+      "textEn": "Unsupervised. Sorry, supervised for self-driving, where there's a person in the car. It has approval in China. But as we, whenever we release a new version, we have to get an incremental approval.",
+      "textZh": "无人监督。抱歉，是受监督的自动驾驶，车里有人。它已经在中国获批。但我们，每当我们发布新版本时，都必须获得增量审批。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "FABER",
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "MUSK",
+      "textEn": "And at times we, you know, we do have to battle other car companies in China who are trying to stop us from—",
+      "textZh": "而且有时候我们，你知道，我们确实不得不和中国其他汽车公司斗争，它们试图阻止我们——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "FABER",
+      "textEn": "It's an incredibly competitive market, isn't it?",
+      "textZh": "这是一个竞争激烈得难以置信的市场，不是吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "MUSK",
+      "textEn": "China is the most competitive market, yeah.",
+      "textZh": "中国是竞争最激烈的市场，对。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "FABER",
+      "textEn": "And to the extent BYD, which is neck and neck with you, I think in the EV race, I think it's fair to say worldwide, correct?",
+      "textZh": "就比亚迪而言，我认为它在电动汽车竞赛中与你们不相上下，我认为可以公平地说是在全球范围内，对吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "MUSK",
+      "textEn": "I don't really follow that.",
+      "textZh": "我不太关注这个。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "FABER",
+      "textEn": "You don't?",
+      "textZh": "你不关注？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "MUSK",
+      "textEn": "No.",
+      "textZh": "不。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "FABER",
+      "textEn": "Well, they're willing, again, my question is, they're willing to seemingly offer different levels of autonomy for I don't want to call it free, but part of the cost of the of the car. Do you see that as a possibility for you, or is it always going to be that add on and therefore that significant revenue stream conceivably?",
+      "textZh": "嗯，他们愿意，还是我的问题，他们似乎愿意提供不同级别的自动驾驶功能，我不想说是免费，但它是汽车的、汽车的价格的一部分。你认为你们也有这种可能性吗？还是说它始终会作为附加项目，并因此有可能成为一个可观的收入来源？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "MUSK",
+      "textEn": "I don't really think about competitors. I just think about making the product as perfect as possible.",
+      "textZh": "我不太考虑竞争对手。我只考虑如何让产品尽可能完美。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "FABER",
+      "textEn": "You don't think about competitors at all.",
+      "textZh": "你完全不考虑竞争对手。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "MUSK",
+      "textEn": "I don't. I just think about making, what we want to achieve is the platonic ideal of the perfect product. And as long as you focus on that, you will have a compelling product, obviously.",
+      "textZh": "我不考虑。我只想着把，我们想实现的是完美产品的柏拉图式理想。显然，只要你专注于这一点，你就会拥有一款极具吸引力的产品。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "FABER",
+      "textEn": "Alright, well, there's a potentially compelling product right behind you, which is a robotaxi. So when are we, you know, in five years, are they going to be all over the place?",
+      "textZh": "好吧，那么你身后就有一款可能极具吸引力的产品，那就是无人出租车。那么我们什么时候会看到，你知道，5年后，它们会遍布各地吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "MUSK",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "FABER",
+      "textEn": "They will. You're confident in that.",
+      "textZh": "会的。你对此有信心。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "MUSK",
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "FABER",
+      "textEn": "Talking about Tesla, obviously, you know, takes me to a certain extent, to what some would say is the brand damage done by your government service. I don't know if you would agree with that.",
+      "textZh": "谈到Tesla，显然，你知道，在某种程度上，这就把我带到了某些人所说的，你在政府任职给品牌造成的损害。我不知道你是否认同这种说法。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "MUSK",
+      "textEn": "It has some pros and cons.",
+      "textZh": "这有利有弊。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "FABER",
+      "textEn": "There have been some pros and cons. You know, we sat here two years ago, upstairs, and you famously said when I asked you about this very subject, I don't care. I'm going to say what I want to say. And so be it. Do you regret that?",
+      "textZh": "确实有利有弊。你知道，2年前我们坐在这里，就在楼上，当时我问到的正是这个话题，而你有一句名言：我不在乎。我想说什么就说什么。那就这样吧。你后悔吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "MUSK",
+      "textEn": "No.",
+      "textZh": "不。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "FABER",
+      "textEn": "No, why not?",
+      "textZh": "不，为什么不？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "MUSK",
+      "textEn": "I believe that we want to live in a free society where people are allowed to say what they want to say within reasonable bounds, like you know, you can't advocate for the murder of somebody, but free speech is the bedrock of a functioning democracy. That's why it's the First Amendment.",
+      "textZh": "我认为，我们希望生活在一个自由社会，人们可以在合理界限内说他们想说的话，比如，你知道，你不能鼓吹谋杀某个人，但言论自由是正常运作的民主制度的基石。这就是为什么它是第一修正案。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "FABER",
+      "textEn": "Without a doubt. But I guess my question is more about your work at DOGE, for example, was that worth it? You know, to the extent you are now Elon, you are somewhat divisive figure two years ago, but now you really are. I mean, there are people who love you, but there are a lot of people who dislike you, some of whom were your customers. And I wonder, was it worth the undertaking at DOGE and everything else that you've done and how outspoken you've been in terms of the things you believe in to antagonize so many potential buyers and/or users of things like a robotaxi?",
+      "textZh": "毫无疑问。但我想我的问题更多是关于你在DOGE的工作，例如，那值得吗？你知道，就你现在的情况而言，埃隆，2年前你还是一个多少有些引发分歧的人物，但现在你确实是了。我的意思是，有人爱你，但也有很多人不喜欢你，其中一些人曾是你的客户。我想知道，在DOGE承担的工作、你所做的其他一切，以及你如此直言不讳地表达自己信奉的东西，以至于得罪那么多潜在买家和/或无人出租车之类产品的用户，这值得吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "MUSK",
+      "textEn": "Well, I mean, unfortunately, what I've learned is that legacy media propaganda is very effective at making people believe things that aren't true.",
+      "textZh": "嗯，我是说，很遗憾，我了解到的是，传统媒体的宣传在让人们相信不真实的事情方面非常有效。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "FABER",
+      "textEn": "What would an example of that be?",
+      "textZh": "那方面的例子会是什么？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "MUSK",
+      "textEn": "That I'm a Nazi, for example, and how many legacy media publications, talk shows, whatever, try to claim that I was a Nazi because of some random hand gesture gesture at a rally where all I said was that my heart goes out to you, and I was talking about space travel, and yet the legacy media promoted that as though that was a deliberate Nazi gesture, when in fact, every politician, any public speaker who's spoken for any length of time, has made the exact same gesture. And yet there's so people out there, and I've never harmed us. I've never harmed a single person.",
+      "textZh": "比如说，说我是纳粹，还有多少传统媒体出版物、脱口秀节目之类的，试图声称我是纳粹，就因为在一场集会上某个随意的手势手势，而我当时说的全部内容就是我的心与你们同在，而且我当时谈的是太空旅行，可传统媒体却把那件事宣传得好像那是一个故意做出的纳粹手势，而事实上，每一位政治人物、任何一位讲过足够长时间话的公开演讲者，都做过完全相同的手势。然而外面却有这样的人，而且我从未伤害过我们。我从未伤害过任何一个人。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "FABER",
+      "textEn": "You know what Elon. I wasn't even going to talk—",
+      "textZh": "你知道吗，埃隆。我本来甚至都不打算谈——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "MUSK",
+      "textEn": "Now you asked for an example. And that's—",
+      "textZh": "现在是你要求举一个例子。而那就是——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "FABER",
+      "textEn": "I wasn't even going to talk about it because, in fact—",
+      "textZh": "我本来甚至不打算谈这件事，因为事实上——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "MUSK",
+      "textEn": "It's horrible.",
+      "textZh": "这太糟糕了。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "FABER",
+      "textEn": "I showed a number of people who are close to you, and I called them afterwards, and all of them to a person were like, no way, no way.",
+      "textZh": "我给好几位与你关系密切的人看了，之后我给他们打了电话，他们无一例外都说，不可能，不可能。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "MUSK",
+      "textEn": "Of course not.",
+      "textZh": "当然不是。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0185",
+      "speakerEn": "FABER",
+      "textEn": "But that isn't necessarily the perception. Now, the work you've done for DOGE has also come, obviously, into the spotlight in a great deal. And you know, people are upset about USAID being put into the woodchipper. People are upset about AmeriCorps disappearing. People are upset about –this isn't even on your side – the NIH and so many other areas that they feel, rightly or wrongly, are being cut as a result of your efforts. And I just, I guess I wonder, as you start to transition now, back to Tesla in a more significant way. Was it worth it?",
+      "textZh": "但外界的看法未必如此。现在，你为 DOGE 所做的工作显然也受到了极大的关注。而且你知道，人们对 USAID 被扔进碎木机感到不满。人们对 AmeriCorps 消失感到不满。人们对——这甚至不属于你这边——NIH 以及许多其他领域感到不满，他们觉得，无论对错，这些领域都因为你的努力而遭到了削减。而我只是，我想我想问，随着你现在开始更大程度地把重心转回 Tesla，这值得吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "MUSK",
+      "textEn": "Yeah, first of all, any program in USAID that had any semblance of merit was retained and folded into the State Department. So, and if there's some exception to that, we're all ears, and we'd love to look at it. We just want to see the evidence that the program was doing, actually doing good, and not just funding for after DC and warlords in some countries. Over and over again, we saw not – some sympathetic sounding programs, but when we actually said, well, please show us pictures of the recipients of the aid, we just – or let us get into contact with them. No pictures were forthcoming. They didn't give us any contact information. And we're like, look, we're not going to send money to DC grafters and warlords. That's not – that's not a good use of money. So that's not what we're going to do now, invariably, when you stop waste and fraud, it's not like the fraudsters admit their guilt. They don't say like, Oh, isn't it so great that the money we're getting, fortunately, has been stopped. They will obviously come up with a sympathetic sounding claim that, but not that – that claim has no merit.",
+      "textZh": "是的，首先，USAID 中任何有哪怕一点可取之处的项目都被保留了下来，并被并入国务院。所以，如果这方面存在某些例外，我们愿意听取，也很乐意研究。我们只是想看到证据，证明该项目确实在做、确实在做好事，而不只是在为 DC 之后以及某些国家的军阀提供资金。我们一次又一次地看到，并不是——一些听起来令人同情的项目，但当我们真的说，好吧，请向我们展示援助接受者的照片时，我们只是——或者让我们与他们取得联系。没有任何照片提供出来。他们也没有给我们任何联系信息。然后我们就说，听着，我们不会把钱寄给 DC 的贪腐者和军阀。那不是——那不是对资金的良好使用。所以我们现在不会那么做。总是一贯如此，当你制止浪费和欺诈时，并不是说欺诈者会承认自己的罪行。他们不会说，哦，我们拿到的钱幸好被停掉了，这不是太好了吗。他们显然会提出一种听起来令人同情的说法，但不是——那种说法毫无根据。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "FABER",
+      "textEn": "That all may be true. I guess what I would come back to, because I talked about economics all day long, is, you know, to your point you've been making. We have a deficit that's running at about 6.7% of GDP. We have interest costs that are going to be above a trillion. It's not going down next year. You entered this thinking you could cut as much as a trillion dollars. You're nowhere near that. It's not really making the dent I think you may have thought you might have been able to achieve in terms of a true problem. Would you agree?",
+      "textZh": "这些可能都是真的。我想我还是要回到这一点，因为我整天都在谈经济，也就是，你知道，回到你一直在提出的观点。我们的赤字目前约占 GDP 的 6.7%。我们的利息成本将超过1万亿美元。明年不会下降。你投身此事时认为自己最多可以削减1万亿美元。你离这个数字还差得很远。就一个真正的问题而言，我认为这并没有产生你原以为自己或许能够实现的那种影响。你同意吗？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0188",
+      "speakerEn": "MUSK",
+      "textEn": "Well, first of all, it would obviously be ridiculous to assume that we could achieve that on day one. So it's only been but what, four months?",
+      "textZh": "嗯，首先，如果认为我们第一天就能实现这一目标，显然很荒谬。所以到现在才不过，多久，4个月？",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "FABER",
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "MUSK",
+      "textEn": "And we've done, by our calculations – people may disagree – improved the deficit by $160 billion. That's our –",
+      "textZh": "而且根据我们的计算——人们可能不同意——我们已使赤字改善了1600亿美元。那是我们的——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0191",
+      "speakerEn": "FABER",
+      "textEn": "Right. I mean, that is your number that is out there.",
+      "textZh": "对。我的意思是，那确实是你们公布的数字。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "MUSK",
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0193",
+      "speakerEn": "FABER",
+      "textEn": "A lot of people take issue with it and say, well, you know, taxpayers expenses, such as paid leave, that's 135 billion. That's got to come back. IRS collection may go down as a result of cuts there. I asked Grok, it said, between 5 and 32 billion is what you've actually saved.",
+      "textZh": "很多人对此提出异议，并说，嗯，你知道，纳税人的支出，比如带薪休假，就是1350亿美元。那笔钱必须补回来。由于那里的削减，IRS 的税收征缴额可能会下降。我问了 Grok，它说你们实际节省的是50亿至320亿美元。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0194",
+      "speakerEn": "MUSK",
+      "textEn": "You need to ask – the right question to ask is, what is the bet for – the bet for the actions of DOGE, what would the incremental expenditures be in FY 26.",
+      "textZh": "你需要问——正确的问题是，DOGE 行动的赌注是什么——其赌注是什么，2026财年的增量支出会是多少。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0195",
+      "speakerEn": "FABER",
+      "textEn": "Yep.",
+      "textZh": "对。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0196",
+      "speakerEn": "MUSK",
+      "textEn": "Because, for example, we offered early – we offered severance and early retirement to a lot of government employees. Many of them took us up on that. That severance went all the way through to September.",
+      "textZh": "因为，例如，我们提供了提前——我们向许多政府雇员提供了遣散补偿和提前退休方案。他们中的许多人接受了我们的提议。那笔遣散补偿一直持续到9月。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0197",
+      "speakerEn": "FABER",
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0198",
+      "speakerEn": "MUSK",
+      "textEn": "So there's not going to be any savings until October, because the severance goes through September.",
+      "textZh": "所以要到10月才会产生任何节省，因为遣散补偿会持续到9月。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0199",
+      "speakerEn": "FABER",
+      "textEn": "Understood.",
+      "textZh": "明白。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0200",
+      "speakerEn": "MUSK",
+      "textEn": "So the Delta really is, what is the spending difference FY 25 versus FY 26 as a function of DOGE's actions? That's how we calculate the number, and we'll see if that number, if that turns out to be true or not.",
+      "textZh": "所以这个差额实际上是，作为 DOGE 行动的结果，2025财年与2026财年的支出差异是多少？我们就是这样计算这个数字的，至于这个数字，至于它最终是否属实，我们拭目以待。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0201",
+      "speakerEn": "FABER",
+      "textEn": "Aren't there more effective ways we ultimately could have gotten at it? I mean, by changing the retirement age or really going after some other parts of the budget?",
+      "textZh": "难道最终没有更有效的办法可以解决这个问题吗？我的意思是，通过改变退休年龄，或者真正着手处理预算的其他一些部分？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0202",
+      "speakerEn": "MUSK",
+      "textEn": "We're trying to go after every part of the budget. That's just – some parts are more boring than others.",
+      "textZh": "我们正努力处理预算的每个部分。只不过——有些部分比其他部分更无聊。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0203",
+      "speakerEn": "FABER",
+      "textEn": "You're about efficiency. I mean, that would take an act of Congress, obviously, to really make a change in the significance I'm talking about.",
+      "textZh": "你关注的是效率。我的意思是，显然，要真正实现我所说的那种幅度的改变，需要国会通过法案。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0204",
+      "speakerEn": "MUSK",
+      "textEn": "Yeah. First of all. So I think the, in our opinion, we've created $160 billion Delta, FY 25 to FY 26. Very significant. That's 16% of the way towards a trillion in five months. And in order to make progress, we need the consent, obviously, of the not just the executive branch, but also the legislative branch and the judicial branch. So if we, you know, and we are advisors, we are not – we're not kings, here.",
+      "textZh": "是的。首先。所以我认为，在我们看来，我们已经在2025财年至2026财年之间创造了1600亿美元的差额。非常可观。这相当于在5个月内完成了迈向1万亿美元目标的16%。而且为了取得进展，我们显然不仅需要行政部门的同意，还需要立法部门和司法部门的同意。所以如果我们，你知道，而且我们是顾问，我们不是——我们不是这里的国王。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0205",
+      "speakerEn": "FABER",
+      "textEn": "No. I get it.",
+      "textZh": "不。我明白。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0206",
+      "speakerEn": "MUSK",
+      "textEn": "So why are you attacking this, given that we've made so much progress?",
+      "textZh": "那么，既然我们取得了这么大进展，你为什么还要抨击这件事？",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0207",
+      "speakerEn": "FABER",
+      "textEn": "You mean the – not me.",
+      "textZh": "你是指——不是我。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0208",
+      "speakerEn": "MUSK",
+      "textEn": "Okay.",
+      "textZh": "好吧。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0209",
+      "speakerEn": "FABER",
+      "textEn": "Not me. I'm not attacking. I'm just asking questions. In fact, I want to ask a lot more about Tesla. I'm told you have a call at 1:30 I don't know if you'll be able to come back or but –",
+      "textZh": "不是我。我没有在抨击。我只是在提问。事实上，我还想问更多关于 Tesla 的问题。有人告诉我你1:30有个电话会议，我不知道你之后能不能回来，或者，但是——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0210",
+      "speakerEn": "MUSK",
+      "textEn": "I might be able to come back.",
+      "textZh": "我也许能回来。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0211",
+      "speakerEn": "FABER",
+      "textEn": "Let me – well, that would be great, because I do want to talk about Tesla. I mean, I was talking about brand damage, and what you're seeing in the market. You did an interview earlier this morning, where you seem to indicate you're starting to see a rebound.",
+      "textZh": "让我——嗯，那太好了，因为我确实想谈谈 Tesla。我的意思是，我刚才谈到了品牌受损，以及你在市场中看到的情况。你今天早些时候接受了一次采访，你似乎表示自己开始看到回升。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0212",
+      "speakerEn": "MUSK",
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0213",
+      "speakerEn": "FABER",
+      "textEn": "But automotive revenue was down 20% last quarter. I think 50,000 fewer units were sold in the Q1 versus Q1 a year ago. What is giving you confidence in the automotive business? Or is it all about robotaxis, as you've been saying, and people can't quite see them behind me, the robots as well.",
+      "textZh": "但汽车业务营收上季度下降了20%。我想第一季度比1年前的第一季度少卖了50,000辆。是什么让你对汽车业务有信心？还是说，就像你一直在说的那样，一切都关乎自动驾驶出租车，以及人们在我身后不太看得见的那些机器人？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0214",
+      "speakerEn": "MUSK",
+      "textEn": "Well, really, the only things that matter in long term are autonomy and Optimus. Those overwhelmingly dominate the future of financial success of the company. As for Q1, we had a global factory change over for the Model Y, so there's a new version of the Model Y that came out, which required a factory shutdown across the world. Model Y is the number one selling car of any kind –",
+      "textZh": "嗯，实际上，长期来看唯一重要的事情就是自动驾驶和 Optimus。它们压倒性地主导着公司未来的财务成功。至于第一季度，我们在全球范围内对工厂进行了 Model Y 换型，因此推出了新版 Model Y，而这需要关闭全球各地的工厂。Model Y 是所有类型汽车中销量排名第一的——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0215",
+      "speakerEn": "FABER",
+      "textEn": "Number one in the world.",
+      "textZh": "全球第一。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0216",
+      "speakerEn": "MUSK",
+      "textEn": "Number one in the world.",
+      "textZh": "全球第一。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0217",
+      "speakerEn": "FABER",
+      "textEn": "I watched your presentation during your last – right here, I think during your last –",
+      "textZh": "我看了你上次的演示——就在这里，我想是在你上次——",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0218",
+      "speakerEn": "MUSK",
+      "textEn": "Right. It's number one, number one selling car in the world. So, you know, we can't – we have eight cars the factories are retooling. So we – three – and the right time to retool is the first quarter, since, generally, that's when the least amount occurs. But we've seen a major rebound in demand at this point. I feel comfortable with –",
+      "textZh": "对。它是第一，全球销量第一的汽车。所以，你知道，我们不能——我们有8辆车，工厂正在重新装备。所以我们——3——而重新装备的合适时间是第一季度，因为通常那时候发生的数量最少。但目前我们已经看到需求大幅回升。我对此感到放心——",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0219",
+      "speakerEn": "FABER",
+      "textEn": "You have seen a major rebound in demand.",
+      "textZh": "你们已经看到需求大幅回升。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0220",
+      "speakerEn": "MUSK",
+      "textEn": "Oh yeah.",
+      "textZh": "哦，是的。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0221",
+      "speakerEn": "FABER",
+      "textEn": "You really believe – you have seen that?",
+      "textZh": "你真的相信——你已经看到了？",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0222",
+      "speakerEn": "MUSK",
+      "textEn": "Yeah, absolutely. I mean, look for most people, I mean, when you buy a product, I mean, how much do you care about the political views of the CEO? Or do even know what they are?",
+      "textZh": "是的，绝对如此。我的意思是，你看，对大多数人来说，我是说，当你购买一件产品时，你有多在意 CEO 的政治观点？或者你甚至知道他们的观点是什么吗？",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0223",
+      "speakerEn": "FABER",
+      "textEn": "No, you don't, but you've made it – you know, frustratingly, Elon, I know you have a 1:30 call we promised to get you out in time for it. I hope you'll come back, perhaps if you can afterwards. I'm happy to wait here.",
+      "textZh": "不，你不会，但你已经让它——你知道，令人沮丧的是，埃隆，我知道你1:30有个电话，我们答应让你及时离开去接。我希望你能回来，也许之后如果你可以的话。我很乐意在这里等。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0224",
+      "speakerEn": "MUSK",
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0225",
+      "speakerEn": "FABER",
+      "textEn": "And sit and and talk to you some more. But I want to let you go because I know that's an important call.",
+      "textZh": "然后坐下来，再、再和你多聊一会儿。但我想让你走，因为我知道那是个重要的电话。",
+      "speakerZh": "法伯"
+    },
+    {
+      "id": "p-0226",
+      "speakerEn": "MUSK",
+      "textEn": "All right, sounds good.",
+      "textZh": "好的，听起来不错。",
+      "speakerZh": "马斯克"
+    },
+    {
+      "id": "p-0227",
+      "speakerEn": "FABER",
+      "textEn": "Thank you for taking this time. I hope we get to talk some more on the other side, about this very issue. Elon Musk, obviously joining us, hosting us here at the gigafactory and perhaps he will come back as well, in a little bit but I will end it there for now. Kelly.",
+      "textZh": "谢谢你抽出时间。我希望之后我们能针对这个问题再多聊一会儿。显然，埃隆·马斯克正在和我们一起，并在这里的超级工厂接待我们，也许过一会儿他也会回来，但现在我就先说到这里。凯莉。",
+      "speakerZh": "法伯"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T21:26:41.364Z",
+    "reviewedAt": "2026-09-12T22:06:38.553Z"
+  },
+  "fetchedAt": "2026-09-12T07:10:04.945Z",
+  "transcriptSource": "https://www.cnbc.com/2025/05/20/cnbc-transcript-elon-musk-sits-down-with-cnbcs-david-faber-live-on-cnbc-today-.html",
+  "sourceHash": "41b5d4b6cb7955a4c00a789ab99043b1f7f7883bb16d8bb55e1389abf9c9e089"
+}

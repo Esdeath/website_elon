@@ -1,0 +1,2286 @@
+{
+  "id": "neuralink-launch-event-2019-07-16",
+  "slug": "neuralink-launch-event-2019-07-16",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2019-07-16",
+  "titleEn": "Neuralink Launch Event",
+  "titleZh": "Neuralink 发布活动",
+  "summaryEn": "Musk unveils Neuralink's brain-machine interface and threads technology at the California Academy of Sciences.",
+  "summaryZh": "马斯克在加州科学院展示 Neuralink 的脑机接口和丝线技术。",
+  "sourceUrl": "https://www.youtube.com/watch?v=sr8hzF3j2fo",
+  "sourceLabel": "CNET Highlights",
+  "archiveUrl": "https://elonmuskarchive.org/video/neuralink-launch-event-2019-07-16",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/sr8hzF3j2fo",
+  "thumbnailUrl": "https://i.ytimg.com/vi/sr8hzF3j2fo/hqdefault.jpg",
+  "org": "Neuralink",
+  "durationSec": 4332,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 52.63,
+      "textEn": "All right, welcome to the Neuralink product demo. Really excited to show you what we've got. I think it's going to blow your mind.",
+      "textZh": "好的，欢迎来到 Neuralink 产品演示。非常兴奋能向你们展示我们所拥有的成果。我认为它会让你们大为震撼。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 61.99,
+      "textEn": "So the primary purpose of this demo is actually recruiting. So I'm going to emphasize this at the beginning and then again at the end.",
+      "textZh": "所以，这次演示的主要目的其实是招聘。所以我会在开头强调这一点，然后在结尾再次强调。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 69.91,
+      "textEn": "We're not trying to raise money or do anything else. The main purpose of this is to convince great people to come work at Neuralink and help us bring the product to fruition, make it affordable and reliable and such that anyone who wants one can have one. And so I want to emphasize the purpose of Neuralink. Like, what do we. What's our goal? Our goal is to solve important spine and brain problems with a seamlessly implanted device.",
+      "textZh": "我们不是想筹集资金或做其他任何事情。这件事的主要目的是说服优秀的人来 Neuralink 工作，帮助我们让产品成为现实，使其价格可负担、可靠，并让任何想要它的人都能拥有它。所以我想强调一下 Neuralink 的宗旨。比如，我们……我们的目标是什么？我们的目标是用一种无缝植入的设备解决重要的脊柱和大脑问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 100.56,
+      "textEn": "So you want to have a device that you can basically put in your head and feel and look totally normal, but it solves some important problem in your brain or spine. And the reality is that almost everyone, over time, will develop brain and spine problems. These range from minor to very severe, but if you live long enough, everyone's going to basically have some kind of neurological disorder. And these range, you know, from memory loss to brain damage.",
+      "textZh": "所以，你会想要一种基本上可以放进头部、感觉和外观看起来都完全正常的设备，但它能解决你大脑或脊柱中的某个重要问题。而现实是，随着时间推移，几乎每个人都会出现大脑和脊柱问题。这些问题从轻微到非常严重不等，但如果你活得足够久，每个人基本上都会患上某种神经系统疾病。而这些疾病包括，你知道的，从记忆丧失到脑损伤。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 135.44,
+      "textEn": "But the thing that's important to appreciate is that, is that an implantable device can actually solve these problems. And I think a lot of people don't quite realize that, but all of these, all of your sensors, your sight, hearing, feeling, pain, these are all electrical signals sent by neurons to your brain. And if you can correct these signals, you can solve everything from memory loss. Memory loss, hearing loss, blindness, paralysis, depression, insomnia, extreme pain, seizures, anxiety, addiction, strokes, brain damage.",
+      "textZh": "但需要认识到的重要一点是，是植入式设备实际上可以解决这些问题。我认为很多人并没有完全意识到这一点，但所有这些，你所有的感官，你的视觉、听觉、感觉、疼痛，这些都是神经元发送到你大脑的电信号。如果你能纠正这些信号，就能解决从记忆丧失开始的一切问题。记忆丧失、听力丧失、失明、瘫痪、抑郁、失眠、剧烈疼痛、癫痫发作、焦虑、成瘾、中风、脑损伤。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 182.26,
+      "textEn": "These can all be solved with an implantable neural link. This is an extremely fundamental thing. I think a lot of people don't quite understand that the neurons are like wiring, and you kind of need an electronic thing to solve an electronic problem.",
+      "textZh": "这些都可以通过植入式神经链接解决。这是一件极其根本的事情。我认为很多人并不完全理解，神经元就像线路，而你某种程度上需要用电子的东西来解决电子问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 204.02,
+      "textEn": "So current medical research, we'll just go through what is the state of the art in medical research and then what's the state of the art in what consumers or people in general can get? So the current medical research has shown that you can read neurons in a human's brain. So there's something called the Utah array, which has about 100 channels per array, but it's kind of like a bed of rigid spikes that's literally inserted with an air hammer.",
+      "textZh": "那么关于当前的医学研究，我们会直接讲一下医学研究的最先进水平是什么，然后消费者或普通人能够获得的东西，其最先进水平又是什么？当前的医学研究已经表明，你可以读取人脑中的神经元。所以有一种叫作犹他阵列的东西，每个阵列大约有 100 个通道，但它有点像一片由坚硬尖刺组成的针床，实际上是用气锤插进去的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 231.54,
+      "textEn": "So, you know, that's slightly discomforting, I think. And there's a big. There's wires and a box on your head. And so it's some infection risk. And obviously, it will look pretty weird if you walk around with boxes on your head.",
+      "textZh": "所以，你知道，我觉得这有点让人不安。而且还有一个很大的。你的头上会有电线和一个盒子。因此存在一定的感染风险。而且很明显，如果你头顶盒子四处走动，看起来会很奇怪。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 248.45,
+      "textEn": "And in order to use it, you have to have an expert medical professional there. And it's only been done in a few dozen people. So. But it is served as an important proof of concept that this can be done. So we did want to point this out and show that this actually does work. It's just not something that the average person could use effectively. And in terms of what is currently available, there is something called deep brain stimulation, where they put electrodes, a small number of electrodes in your brain and will actually zap your brain with an electric current.",
+      "textZh": "而且为了使用它，你必须让一位专业医疗人员待在现场。它只在几十个人身上实施过。所以。但它已经成为一个重要的概念验证，证明这件事可以做到。所以我们确实想指出这一点，并展示它确实有效。只不过它不是普通人能够有效使用的东西。至于目前已有的技术，有一种叫作脑深部刺激的技术，他们会把电极，也就是少量电极放进你的大脑，然后真的用电流电击你的大脑。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 287.18,
+      "textEn": "And it's valuable for its uses, but it can't read or write high bandwidth information.",
+      "textZh": "它在其用途上很有价值，但无法读取或写入高带宽信息。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 293.74,
+      "textEn": "I would say this is sort of a bit like sort of kicking the tv, which does work, but not always. And it has limitations nonetheless. This has greatly helped over 150,000 people. And it's. So it's actually, despite being somewhat of a brute force approach, it has been very effective for a lot of people. And this is what's currently available. So we want to radically improve this by multiple orders of magnitude. Improve it by a factor of 100, then 1,000, then 10,000.",
+      "textZh": "我会说，这有点像是，有点像踢电视机，这确实有效，但并不总是有效。尽管它存在局限性，但这已经极大地帮助了超过 150,000 人。而且它。所以实际上，尽管这是一种有些蛮力式的方法，但它对很多人非常有效。这就是目前已有的技术。所以我们想把它彻底提升多个数量级。先提升 100 倍，然后 1,000 倍，再然后 10,000 倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 326.79,
+      "textEn": "So going into the neuralink architecture, what we've done over the past year is dramatically simplify the device. So we, about a year ago we had a device which had multiple parts, including a piece that had to sort of sit behind your ear. And it was complex and you wouldn't still look totally normal, you'd have a thing behind your ear. So we've simplified this to simply something that is about the size of a large coin.",
+      "textZh": "那么说到 Neuralink 的架构，我们过去一年所做的是大幅简化这款设备。所以我们，大约一年前，我们有一款由多个部件组成的设备，其中包括一个必须放在你耳朵后面之类的部件。它很复杂，而且你看起来仍然不会完全正常，因为耳后会有一个东西。所以我们把它简化成了一个大约只有一枚大硬币大小的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 362.41,
+      "textEn": "And it goes in your skull, replaces a piece of skull, and the wires then connect within a few centimeters or about an inch away from the device.",
+      "textZh": "它会放入你的颅骨中，替代一块颅骨，然后电线会连接到距离该设备几厘米或大约 1 英寸以内的位置。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 377.13,
+      "textEn": "And this is sort of what it looks like.",
+      "textZh": "它大概就是这个样子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 386.98,
+      "textEn": "Yeah, this is our little device. That thing at the bottom is just to hold the threads in place because they're just like little fine wires.",
+      "textZh": "是的，这就是我们的小设备。底部的那个东西只是用来固定细丝，因为它们就像细小的电线。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 400.82,
+      "textEn": "I mean, frankly, to sort of simplify this. What we're. I mean, it's more complicated than this, but it's in a lot of ways it's kind of like a Fitbit in your skull with tiny wires. So.",
+      "textZh": "我是说，坦白讲，为了稍微简化一下。我们正在。我是说，它比这更复杂，但从很多方面看，它有点像装在你颅骨里的 Fitbit，并带有细小的电线。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 416.97,
+      "textEn": "And it's. Yeah. So our current prototype version 0.9 has about 1000 channels. So that's about 100 times better than the next best consumer device that's available. And it's a 23 millimeters by 8 millimeters. It actually fits quite nicely in your skull because your skull is about 10 millimeters thick. So it fits, it goes flush with your skull, it's invisible and all you can see afterwards is that there's a tiny scar.",
+      "textZh": "而且它。是的。所以我们目前的 0.9 版原型机大约有 1000 个通道。因此，它比目前可以买到的次优消费级设备好大约 100 倍。它的尺寸是 23 毫米乘 8 毫米。它其实能非常合适地装进你的颅骨，因为你的颅骨大约有 10 毫米厚。所以它能放进去，与颅骨齐平，它是看不见的，之后你唯一能看到的就是一道小小的疤痕。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 449,
+      "textEn": "And if it's under your hair, you can't see it at all. In fact, I could have it in your link right now and you wouldn't know. Maybe I do.",
+      "textZh": "而如果它在你的头发下面，你就完全看不到。事实上，我现在可能已经把它放在你的链接里了，而你不会知道。也许我确实放了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 456.12,
+      "textEn": "So. And it's also got all the things that you would expect to see, the sensors you'd expect to see in a smartwatch or a phone, like notional measurement, temperature, pressure. So there's actually a lot of functions that this device could do related to monitoring your health and warning you about a possible heart attack or stroke or other damage, as well as sort of convenience features like playing music you do a lot.",
+      "textZh": "所以。而且它还具备你预期会看到的所有东西，也就是你预期在智能手表或手机中看到的传感器，比如名义测量、温度、压力。因此，这款设备实际上可以执行许多与你的健康监测有关的功能，并就可能发生的心脏病发作、中风或其他损伤向你发出警告，也可以提供诸如播放音乐之类的便利功能，你经常这么做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 482.83,
+      "textEn": "It's sort of like if your phone went at your brain or something, maybe that's not a great analogy.",
+      "textZh": "这有点像是你的手机冲着你的大脑去了之类的，也许这不是一个很好的类比。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 490.91,
+      "textEn": "So it's also inductively charged. So it's charged in the same way that you charge a smartwatch or a phone. And so you can use it all day, charge it at night and have full functionality. So you would really, it would be completely seamless and yeah, no wires in terms of getting a link. So you need to have the device, a great device, and you also need to have a great robot that puts in the electrodes and does the surgery.",
+      "textZh": "所以它也采用感应充电。也就是说，它的充电方式与你给智能手表或手机充电的方式相同。因此你可以全天使用它，晚上充电，并拥有完整的功能。所以你真的会，它会完全无缝，而且，是的，没有电线。至于获得一个链接。所以你需要有这款设备，一款出色的设备，同时也需要有一个出色的机器人来植入电极并进行手术。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 524.619,
+      "textEn": "So you want the surgery to be as automated as possible. And the only way you can achieve the level of precision that's needed is with an advanced robot. So we're really looking for great people who can help develop both the device and the robot. And we feel confident about getting the link procedure, the installation of a link done in under an hour. So you can basically go in in the morning and leave the hospital in the afternoon.",
+      "textZh": "所以你会希望手术尽可能自动化。而能够达到所需精确度的唯一方式就是使用先进的机器人。因此，我们确实在寻找能够帮助开发设备和机器人的优秀人才。而且我们有信心把 Link 植入手术，也就是植入一个 Link，控制在 1 小时以内。所以你基本上可以早上进去，下午就离开医院。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 551.51,
+      "textEn": "And it can be done without general anesthesia.",
+      "textZh": "而且可以在不进行全身麻醉的情况下完成。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 556.39,
+      "textEn": "So in terms of getting a link, like I said, it's essentially open a piece of skull, you remove about a coin sized piece of skull and then the robot inserts the electrodes. We'll talk more about that later. Then the device replaces the portion of skull that was removed and we basically close that up with actually a super glue, which is how a lot of wounds are closed and then you can just walk around right afterwards.",
+      "textZh": "所以，至于植入一个 Link，就像我说的，本质上是打开一块颅骨，取下大约一枚硬币大小的颅骨，然后由机器人插入电极。我们稍后会进一步讨论这一点。接着，设备会替代被取下的那部分颅骨，而我们基本上会用一种强力胶把那里封起来，实际上很多伤口就是这样闭合的，然后你在手术后马上就可以四处走动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 587.75,
+      "textEn": "It's pretty cool.",
+      "textZh": "这非常酷。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 591.11,
+      "textEn": "So this is our surgical robot.",
+      "textZh": "所以这就是我们的手术机器人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 598.16,
+      "textEn": "And we actually ultimately want this robot to do essentially the entire surgery. So everything from incision, removing the skull, inserting electrodes, placing the device, and then closing things up and having you ready to leave. So we want to have a fully automated system.",
+      "textZh": "而且我们最终其实希望这个机器人基本上完成整个手术。也就是从切开、移除颅骨、插入电极、放置设备，到最后闭合切口，让你可以准备离开。所以我们希望拥有一个全自动系统。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 621.84,
+      "textEn": "And we've to be clear, this robot does actually work. We've used it for all of the implantations.",
+      "textZh": "而且需要明确的是，这个机器人确实能工作。我们所有的植入手术都使用了它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 631.02,
+      "textEn": "So this shows you sort of a close up view, which I think is actually not too gruesome, of the electrodes being inserted in the brain. And if you look closely, you'll see that it's a little counterintuitive that if the electrodes are inserted very carefully, that there is no bleeding. And so if you have very tiny electrodes and if they're inserted very carefully so that the robot actually images the brain and makes sure to avoid any veins or arteries so that the electrodes can be inserted with no noticeable damage.",
+      "textZh": "所以这里向你展示的是电极插入大脑时的某种特写画面，我觉得其实没有太令人不适。如果你仔细看，就会发现有一点反直觉：如果非常小心地插入电极，就不会出血。所以，如果电极非常微小，并且插入时非常小心，让机器人实际对大脑成像，并确保避开所有静脉或动脉，那么电极就可以在没有明显损伤的情况下插入。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 668.77,
+      "textEn": "So you will have no noticeable neural damage in inserting link.",
+      "textZh": "所以插入 Link 时，不会造成明显的神经损伤。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 677.46,
+      "textEn": "Yeah. Like you sort of think like if you stab something with a wire, surely it will bleed, but actually at a really small scale, it does not.",
+      "textZh": "对。你大概会觉得，如果用一根导线刺进某个东西，它肯定会出血，但实际上在非常小的尺度下，它不会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 685.86,
+      "textEn": "So does it actually work? And what I'm excited to show you, I call it like the Three Little Pigs demo. And if our.",
+      "textZh": "那么它真的有用吗？我很兴奋要向大家展示的，我称之为类似“三只小猪”的演示。而且如果我们的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 699.46,
+      "textEn": "I don't have this. We're bringing out the. The pigs. And what we're going to show you is a. Well, I'll walk right over and show you.",
+      "textZh": "我这里没有这个。我们正在把。把猪带出来。我们要向大家展示的是一个。嗯，我直接走过去给你们看。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 716.9,
+      "textEn": "So what we have in pen number one is Joyce and she does not have an implant, obviously healthy and happy.",
+      "textZh": "所以我们在1号围栏里的是乔伊斯，她没有植入物，显然很健康，也很开心。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 728.74,
+      "textEn": "We're trying to get Gertrude out. This is how you know it's a live demo.",
+      "textZh": "我们正试着让格特鲁德出来。这就是让你知道这是现场演示的方式。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 735.3,
+      "textEn": "She's a little. She's like trying to eat something in the corner of her pan.",
+      "textZh": "她有点。她好像正试着吃她的平底锅角落里的什么东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 741.46,
+      "textEn": "Come on, Gertrude, let's go.",
+      "textZh": "来吧，格特鲁德，我们走。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 746.42,
+      "textEn": "Snacks are this way.",
+      "textZh": "零食在这边。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 749.14,
+      "textEn": "Oh, man.",
+      "textZh": "哦，天啊。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 753.38,
+      "textEn": "All right, we'll give Gertrude a second and we'll move on to Dorothy. Sometimes the pigs are a little shy. So here's Dorothy. And in the case of Dorothy, Dorothy used to have an implant and then we removed the implant. So this is a very important thing to demonstrate is reversibility. So if you have in your link and then you decide you don't want it or you want to get an upgrade and the neural link is removed. Is it removed in such a way that you are still healthy and happy afterwards?",
+      "textZh": "好了，我们给格特鲁德一点时间，然后转到多萝西。有时猪会有点害羞。这是多萝西。就多萝西而言，多萝西以前植入过一个植入物，后来我们把植入物移除了。所以，要证明的一件非常重要的事就是可逆性。因此，如果你有在你的链接里，然后你决定不想要它了，或者你想升级，于是神经链接被移除。它是否能以一种让你之后依然健康快乐的方式被移除？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 787.37,
+      "textEn": "And what Dorothy illustrates is that you can put in the neural link, remove it and be healthy, happy, and indistinguishable from a normal pig. Thanks, Dorothy. Man. Gertrude, are you serious?",
+      "textZh": "而多萝西所说明的是，你可以植入神经链接，再把它取出，之后仍然健康、快乐，并且与一头正常的猪没有区别。谢谢，多萝西。天啊。格特鲁德，你是认真的吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 801.77,
+      "textEn": "Okay, Well, should we bring them all out or something? Would that be better? How about everyone, Everyone just comes into this pen, we'll have a few. It'll be a little crowded, but whatever.",
+      "textZh": "好的，好吧，我们要不要把它们全都带出来之类的？那样会不会更好？大家怎么样，大家都到这个围栏里来，我们会有几只。会有点挤，但随便吧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 824.42,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 827.14,
+      "textEn": "All right. Well, is Gertrude still back in the thing? Okay, we need to bring brochure down. Yeah.",
+      "textZh": "好了。格特鲁德还在后面那个东西里吗？好的，我们需要把宣传册拿下来。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 839.55,
+      "textEn": "The beauty of live demos. This is real live demo.",
+      "textZh": "现场演示的魅力。这是真正的现场演示。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 844.11,
+      "textEn": "All right, maybe we can zoom in to do.",
+      "textZh": "好了，也许我们可以拉近镜头来做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Ian (Neuralink)",
+      "startSec": 847.31,
+      "textEn": "Got",
+      "textZh": "明白",
+      "speakerZh": "伊恩（Neuralink）"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 849.87,
+      "textEn": "clearly very interested in something at the back of her pen.",
+      "textZh": "显然对她围栏后面的某样东西非常感兴趣。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 866.36,
+      "textEn": "Can you see her or.",
+      "textZh": "你能看到她吗，还是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 869,
+      "textEn": "All right, This might take a sec.",
+      "textZh": "好了，这可能要花一点时间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 883.65,
+      "textEn": "Well, this worked earlier.",
+      "textZh": "嗯，之前是成功的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 898.53,
+      "textEn": "All right, well, What if we lift the curtain and. And then zoom in?",
+      "textZh": "好了，好吧，要是我们拉开帘子，然后。然后拉近镜头呢？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 916.85,
+      "textEn": "All right, here we go. Great. Okay, great.",
+      "textZh": "好了，开始了。很好。好的，很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 925.49,
+      "textEn": "Okay, this is a high energy thing. All right, Gertrude, thanks for coming out.",
+      "textZh": "好的，这是个精力旺盛的家伙。好了，格特鲁德，谢谢你出来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 935.45,
+      "textEn": "So what you're. The beeps you're hearing are real time signals from the neuralink in Gertrude's head. So this neuralink connects to neurons that are in her snout. So whenever she snuffles around and touches something with her snout, that sends out neural spikes which are detected here. And so on the screen, you. You can see each of the spikes from the 1024 electrodes. And then if she snuffles around, touches the snout in the ground, or you kind of feed her some food.",
+      "textZh": "所以你正在。你听到的哔哔声，是来自格特鲁德头部Neuralink的实时信号。这个Neuralink连接到她吻部的神经元。因此，每当她四处嗅探并用吻部触碰某样东西时，就会发出神经脉冲，而这些脉冲会在这里被检测到。所以在屏幕上，你。你可以看到来自1024个电极的每一次脉冲。然后，如果她四处嗅探、用吻部触碰地面，或者你给她喂点食物。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 970.78,
+      "textEn": "Pigs love food. Then you can see the neurons will fire much more than when you're not touching the snout. And that's what's making the beeping sound. All right, cool. So as you can see, we have healthy and happy pig, initially shy, but obviously high energy and, you know, kind of loving life. And she's had the implant for two months. So this is a healthy and happy pig with an implant that is two months old and working well.",
+      "textZh": "猪喜欢食物。然后你可以看到，神经元放电会比你不触碰吻部时频繁得多。这就是发出哔哔声的原因。好了，很好。所以正如你们所见，我们有一头健康快乐的猪，一开始很害羞，但显然精力旺盛，而且，你知道，可以说很享受生活。她已经植入这个植入物2个月了。所以这是一头健康快乐的猪，体内的植入物已有2个月，而且运行良好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Zach (Neuralink)",
+      "startSec": 1004.84,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "扎克（Neuralink）"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 1010.68,
+      "textEn": "All right, cool, cool.",
+      "textZh": "好了，很好，很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 1013.3,
+      "textEn": "And then we actually have. Hope this works. Is. So we said, well, what if we do two neural length implants? And we've been able to do dual neural link implants in, actually, I think three pigs at this point, and we have a couple of them here, and we're able to show that you can actually have multiple neuralinks implanted. And again, healthy and happy and indistinguishable from a normal pig. So it's possible to have multiple links in your head and have them all be sending out signals and you're working well.",
+      "textZh": "然后我们实际上还有。希望这能成功。就是。我们说，好吧，要是植入2个神经长度植入物会怎么样？实际上，到目前为止，我想我们已经能在3头猪身上植入双Neuralink植入物，而且这里有其中2头，我们能够证明，实际上可以植入多个Neuralink。而且同样，它们健康快乐，与正常的猪没有区别。所以，在你的头部植入多个连接装置，并让它们全都发出信号，而你依然状态良好，这是可能的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 1052.029,
+      "textEn": "All right, here.",
+      "textZh": "好了，这里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 1059.389,
+      "textEn": "All right, so we just showed you a demonstration of reading brain activity. And see, probably see that, as I was saying, each of those dots represents a neural spike. And the blue chart at the bottom is showing an accumulation of neural spikes in that region.",
+      "textZh": "好了，我们刚刚向你们演示了读取大脑活动。而且看，大概能看到，正如我所说，每个点都代表一次神经脉冲。底部的蓝色图表显示的是该区域内神经脉冲的累积情况。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 1081.78,
+      "textEn": "So in terms of additional brain reading activity, when we have, say, one of our pigs on a treadmill. Pig on a treadmill.",
+      "textZh": "那么，就额外的大脑读取活动而言，比如说，当我们把一头猪放在跑步机上时。跑步机上的猪。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 1095.02,
+      "textEn": "It's a funny concept, really.",
+      "textZh": "说真的，这是个很好笑的概念。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 1098.22,
+      "textEn": "And we take the readings from the neurons and we try to predict the position of the joints. And so we say we have the predicted position of the joints, and then we measure the actual position of the joints. You can see that they're almost exactly aligned. So we're able, with our. A wireless neural implant to actually predict the position of all of the limbs in the pig's body with very high accuracy.",
+      "textZh": "我们读取神经元的信号，并尝试预测关节的位置。所以，我们有预测出的关节位置，然后测量关节的实际位置。你可以看到，它们几乎完全重合。因此，我们能够利用我们的。无线神经植入物，以非常高的准确度实际预测猪身体所有肢体的位置。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 1129.35,
+      "textEn": "Now, in terms of writing to the brain or stimulating neurons, we also need precise control of the electric field in space and time. We need a wide range of current for different brain regions. Some regions require delicate simulation, some requirements a lot of current. And you want obviously no harm to the brain over time.",
+      "textZh": "现在，就向大脑写入信号或刺激神经元而言，我们还需要在空间和时间上精确控制电场。对于不同的脑区，我们需要很宽的电流范围。有些区域需要精细的模拟，有些则需要大量电流。而且显然，你希望随着时间推移不会对大脑造成伤害。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 1148.74,
+      "textEn": "And the way we, part of the way we analyze the stimulating neurons is with a two photon microscopy. I always have trouble pronouncing it microscopy. And it's very impressive technology. You can actually literally see in real time how the neurons are firing. So the red sort of things are the neurons, red sort of flashing things are the neurons firing. Or I should say the electrodes firing. So the red things are electrodes firing, and then the green are the neuron bodies responding to the current from the electrode.",
+      "textZh": "而我们分析受刺激神经元的方式，我们采用的部分方式，是双光子显微镜技术。我总是很难念对它，显微镜技术。这是一项非常令人印象深刻的技术。你实际上真的可以实时看到神经元如何放电。所以那些红色的东西是神经元，那些红色闪烁的东西是神经元在放电。或者我应该说，是电极在放电。所以红色的东西是正在放电的电极，然后绿色的是响应电极电流的神经元胞体。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 1190.81,
+      "textEn": "So you can see them lighting up different brain regions. And then by carefully controlling the electric field, you can actually have one electrode influence possibly 1,000 or 10,000 neurons. So although you might only have 1,000 electrodes implanted, you could be influencing millions of neurons.",
+      "textZh": "所以你可以看到它们让不同的脑区亮起来。然后，通过仔细控制电场，你实际上可以让一个电极影响可能1,000或10,000个神经元。所以，尽管你可能只植入了1,000个电极，却可以影响数百万个神经元。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 1212.54,
+      "textEn": "And this is just a similar chart showing stimulation at different power levels.",
+      "textZh": "而这只是一张类似的图表，显示不同功率水平下的刺激。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 1222.55,
+      "textEn": "So like I said, for the initial device, it's read write in every channel with about 10, 24 channels all day. Battery life recharges overnight, has quite a long range. So you have the range, the range being to your phone, I should say that's kind of an important thing. This would connect to your phone and actually the. So the application would be on your phone and it would be communicating by essentially Bluetooth low energy to the device in your head.",
+      "textZh": "所以就像我说的，对于最初的设备，每个通道都可读写，大约有10，24个通道，全天运行。电池续航方面，可在夜间充电，传输距离相当远。所以你有这个距离，这里说的距离是到你手机的距离，我应该说这是件挺重要的事。它会连接到你的手机，而实际上这个。所以应用程序会在你的手机上，并且会基本上通过低功耗蓝牙与头部里的设备通信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 1255.92,
+      "textEn": "That's why I say in a lot of ways it is like a footbed in your skull with tiny wires. So, and then like I said, you would not be able to see the device at all. You would look completely normal and just have a small scar under your hair.",
+      "textZh": "这就是为什么我说，在很多方面，它就像你颅骨里有一个带细小导线的鞋垫。所以，然后就像我说的，你完全看不到这个设备。你看起来会完全正常，只是在头发下面有一道小疤痕。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1271.76,
+      "textEn": "And we're making good progress towards clinical studies. I'm excited to announce that we received a breakthrough device designation from the FDA in July, thanks to the hard work of the Neuralink team.",
+      "textZh": "而且我们正在朝临床研究稳步推进。我很高兴地宣布，得益于Neuralink团队的辛勤工作，我们在7月获得了FDA的突破性医疗器械认定。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1287.65,
+      "textEn": "So I want to be clear, we're working closely with the FDA and we'll be extremely rigorous. In fact, we will significantly exceed the minimum FDA guidelines for safety. We will make this as safe as possible. Just as with Tesla, while it is legally possible to ship a one star car at Tesla, the only cars we make are five stars in every category. So we actually maximize safety. And we'll take the same approach here at Neuralink.",
+      "textZh": "所以我想说清楚，我们正在与FDA密切合作，并且会极其严谨。事实上，我们会大幅超越FDA最低安全准则的要求。我们会尽可能确保它的安全。就像Tesla一样，尽管在法律上Tesla可以交付一星级汽车，但我们生产的汽车在每个类别中都是五星级。所以我们实际上是在最大限度地提高安全性。我们在Neuralink也会采取同样的方法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1320.43,
+      "textEn": "And then to emphasize Again, what the goal of this presentation is is recruiting. We want people who are great at solving problems to join the company and help us complete this device, take care of the animals, write the software, create the chips, and productionize everything. So we need, like, robotics engineers. I think we also especially need people who have worked on product, worked on and shipped products. So if you've, like, shipped a smartwatch or a phone or any kind of complex electronics or complex device or advanced medical devices, we'd love for you to contact us and consider working here.",
+      "textZh": "然后再次强调一下，这次演示的目标是招聘。我们希望擅长解决问题的人加入公司，帮助我们完成这款设备、照料动物、编写软件、制造芯片，并将一切投入生产。所以我们需要，比如，机器人工程师。我认为我们还尤其需要做过产品、参与过产品开发并交付过产品的人。所以，如果你曾经交付过智能手表、手机、任何类型的复杂电子产品或复杂设备，或者先进医疗设备，我们非常希望你联系我们，并考虑来这里工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1365.6,
+      "textEn": "So a very important point to emphasize is that you do not need to have prior experience on brains. So a lot of people think, well, I couldn't possibly work Neuralink because I don't know anything about how brains work. That's okay, you can learn. But we need software engineering, we need mechanical engineering, electrical engineering, like I said, chip design, robotics, and all the things that a company needs to work.",
+      "textZh": "所以需要强调的一个非常重要的点是，你不需要有任何与大脑相关的既往经验。很多人会想，嗯，我不可能在Neuralink工作，因为我完全不了解大脑如何运作。没关系，你可以学习。但我们需要软件工程，需要机械工程、电气工程，还有像我说的芯片设计、机器人技术，以及一家公司运作所需要的一切。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1390.4,
+      "textEn": "So please send in your resume. Actually, it's not just engineering, obviously. Everything. Everything in your link. So now let's actually move to questions. So we've piled questions that have been asked over the Internet, and so we'll do live Q and A. So bring in a bunch of people from the Neuralink team.",
+      "textZh": "所以请把你的简历发过来。实际上，显然不只是工程。所有事情。你链接中的一切。那么现在我们真正进入提问环节。我们汇集了互联网上提出的问题，接下来会进行现场问答。所以请Neuralink团队的一群人上来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Neuralink Team",
+      "startSec": 1417.91,
+      "textEn": "All right?",
+      "textZh": "好了吗？",
+      "speakerZh": "Neuralink团队"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1438.96,
+      "textEn": "All right, cool.",
+      "textZh": "好了，很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1444.08,
+      "textEn": "All right, so if you have any questions, please submit your questions to the Neuralink Twitter account. And we will try to answer as many questions as we can over the next hour. And feel free to ask hard questions. There's no problem, and we'll do our best to answer them. All right, let's move over to the team.",
+      "textZh": "好的，如果你有任何问题，请把问题提交到Neuralink的Twitter账号。接下来1小时里，我们会尽量回答尽可能多的问题。也请随意提出尖锐的问题。没问题，我们会尽力回答。好了，让我们转到团队这边。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Moderator",
+      "startSec": 1463.84,
+      "textEn": "Perfect. Yes. We will continue monitoring questions until the end of the event, so please keep sending them in over Twitter. Elon, do you want to come join us?",
+      "textZh": "很好。是的。我们会继续关注问题，直到活动结束，所以请继续通过Twitter发送问题。埃隆，你要过来加入我们吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Moderator",
+      "startSec": 1473.6,
+      "textEn": "All right, so the first question is, how is the spike detection implemented? Is it on the asic? Is it hardware and software updatable?",
+      "textZh": "好的，第一个问题是，神经脉冲检测是如何实现的？是在ASIC上吗？它是由硬件实现并可通过软件更新的吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Paul (Neuralink)",
+      "startSec": 1483.44,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "保罗（Neuralink）"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Paul (Neuralink)",
+      "startSec": 1487.35,
+      "textEn": "Yeah, I can answer that. So I'm Paul. I work. I've had a few different hats. I've worked a little bit on digital chip design and more recently working on some of the algorithms trying to decode the signals from the brain. And the spike detection algorithm. There's historically been many ways of detecting spikes. Typically, people will record data offline and then look for characteristic shapes. But here we're interested in detecting spikes online and there's a number of simple algorithms that you can do, for example, like detecting just a threshold and where we've been interested in doing a little bit better than that.",
+      "textZh": "是的，我可以回答这个问题。我是 Paul。我工作过。我担任过几种不同的角色。我做过一点数字芯片设计，最近则在研究一些试图解码大脑信号的算法。还有尖峰检测算法。历史上一直有许多检测尖峰的方法。通常，人们会离线记录数据，然后寻找特征形状。但我们这里感兴趣的是在线检测尖峰，而你可以采用许多简单算法，例如只检测一个阈值，而我们一直有兴趣做得比那稍微好一点。",
+      "speakerZh": "Paul（Neuralink）"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Paul (Neuralink)",
+      "startSec": 1524.82,
+      "textEn": "So we actually look for particular shapes, character shapes that we think are spikes. And so we're doing this on the chip. It's for all 1024 electrodes. There's band pass filtering that's happening on the chip.",
+      "textZh": "所以，我们实际上会寻找我们认为是尖峰的特定形状、字符形状。我们是在芯片上完成这项工作的。全部1024个电极都是如此。芯片上正在进行带通滤波。",
+      "speakerZh": "Paul（Neuralink）"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Zach (Neuralink)",
+      "startSec": 1539.78,
+      "textEn": "So if you think of these as",
+      "textZh": "所以，如果你把这些想象成",
+      "speakerZh": "Zach（Neuralink）"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Paul (Neuralink)",
+      "startSec": 1540.66,
+      "textEn": "like little microphones sending audio information, we're basically filtering all of that in real time and then looking for these characteristic shapes. You can configure what sort of shapes you're looking for and that information is what's being sent out. The raw information coming from electrodes is way too much to send out over Bluetooth. So when you're seeing those beautiful spike rasters on the screen, those are the detections that we have coming straight from the chips.",
+      "textZh": "像是发送音频信息的小型麦克风，我们基本上会实时过滤所有这些信息，然后寻找这些特征形状。你可以配置自己要寻找哪种形状，而被发送出去的正是这些信息。来自电极的原始信息量实在太大，无法通过蓝牙发送出去。所以，当你看到屏幕上那些漂亮的尖峰栅格图时，那些就是我们直接从芯片获得的检测结果。",
+      "speakerZh": "Paul（Neuralink）"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Autumn (Neuralink)",
+      "startSec": 1564.35,
+      "textEn": "Got it.",
+      "textZh": "明白了。",
+      "speakerZh": "Autumn（Neuralink）"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Moderator",
+      "startSec": 1564.79,
+      "textEn": "And just for everyone who doesn't know, can you just explain at a basic level what a spike is? Sure.",
+      "textZh": "也为了所有不了解的人，你能从基础层面解释一下什么是尖峰吗？当然。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Paul (Neuralink)",
+      "startSec": 1569.84,
+      "textEn": "So traditionally people think of spikes or action potentials as the electrical events that happen in neurons and is the primary form of communication between neurons. And so this is a hysteresis event where you have currents that flow and generate this. You can think of it as being a digital signal, a 1 or a 0 that's being sent in time where neurons will send that signal to often thousands of recipient neurons.",
+      "textZh": "所以，传统上人们认为尖峰或动作电位是发生在神经元中的电事件，也是神经元之间的主要通信形式。这是一个滞后事件，其中有电流流动并产生这一现象。你可以把它想象成一个数字信号，也就是一个随时间发送的1或0，神经元通常会将该信号发送给数千个接收神经元。",
+      "speakerZh": "Paul（Neuralink）"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Moderator",
+      "startSec": 1600.24,
+      "textEn": "Awesome. Thanks, Paul. So I got a question from Toby on Twitter. He asks what can be further done to simplify the device installation progress?",
+      "textZh": "太棒了。谢谢你，Paul。我收到了 Twitter 上 Toby 提出的一个问题。他问，还能采取什么措施来简化设备安装过程？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Matthew MacDougall",
+      "startSec": 1613.52,
+      "textEn": "So we're working on making the device as small as possible. Of course, with the robot taking more and more of the responsibility away from error prone human surgeons, we're hoping to make the process faster and safer.",
+      "textZh": "我们正在努力让设备尽可能小。当然，随着机器人从容易出错的人类外科医生手中承担越来越多的责任，我们希望让这一过程变得更快、更安全。",
+      "speakerZh": "Matthew MacDougall"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "DJ Seo",
+      "startSec": 1629.27,
+      "textEn": "Actually.",
+      "textZh": "实际上。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 1629.59,
+      "textEn": "It might be good for people to say, you know, who they are and what they do.",
+      "textZh": "让大家说一下，你知道，他们是谁以及他们做什么，可能会比较好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Matthew MacDougall",
+      "startSec": 1635.11,
+      "textEn": "I'm Matthew McDougall. I'm the neurosurgeon, the head neurosurgeon at Nerling.",
+      "textZh": "我是 Matthew McDougall。我是神经外科医生，是 Nerling 的首席神经外科医生。",
+      "speakerZh": "Matthew MacDougall"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Moderator",
+      "startSec": 1640.31,
+      "textEn": "Thanks, Matt. Is there anything specifically from the robot that can be done to make this faster and safer and scalable to billions of people?",
+      "textZh": "谢谢，Matt。具体来说，机器人还能做些什么，让这件事更快、更安全，并能够扩展到数十亿人？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Ian (Neuralink)",
+      "startSec": 1650.06,
+      "textEn": "Yeah, I guess we've started with just implementing robot manipulating the threads,",
+      "textZh": "是的，我想我们一开始只是让机器人操纵这些细丝，",
+      "speakerZh": "Ian（Neuralink）"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 1657.18,
+      "textEn": "but we",
+      "textZh": "但我们",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Ian (Neuralink)",
+      "startSec": 1657.86,
+      "textEn": "definitely need to expand to essentially doing the entire surgery with the robot. So there's nothing like really, as far as I can tell, fundamentally stopping us from doing that sort of like at a fundamental science level, it hasn't been done in the past. I think probably just because like volumes of surgeries hasn't been needed, but specifically for us to scale up to many hundreds of thousands or millions of patients, we will need to automate the entire surgery, essentially.",
+      "textZh": "肯定需要扩展到基本上由机器人完成整场手术。所以据我所知，从根本上讲，没有任何东西真正阻止我们这样做，从基础科学层面来看，它过去没有被做过。我认为这可能只是因为过去并不需要这么大的手术量，但具体到我们要扩大至数十万或数百万名患者，我们基本上需要将整场手术自动化。",
+      "speakerZh": "Ian（Neuralink）"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Moderator",
+      "startSec": 1685.29,
+      "textEn": "Awesome, thank you. Ian Garrett asks, what are some of the lower bandwidth activities to target first? Is it muscle movement, is it auditory signals? What level of bandwidth is required for effective use?",
+      "textZh": "太棒了，谢谢。Ian Garrett 问，最先要针对的是哪些带宽要求较低的活动？是肌肉运动，还是听觉信号？要实现有效使用，需要多大带宽？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 1700.33,
+      "textEn": "So, so there's a couple of. Just to say who you are and what you do.",
+      "textZh": "所以，所以有几个。先说一下你是谁，以及你做什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Joey O'Doherty",
+      "startSec": 1704.9,
+      "textEn": "Hi, my name is Joey o'. Doherty. I'm a neuroscientist and neuro engineer working on decoding from the brain. So there's some low hanging fruit that I think can really be impactful to help many people's lives and that's restoring movement and communication in, for example, a spinal cord injured patient. And there's a lot of antecedents in the academic world where there have been very nice demonstrations of doing this and we think we can take our technology and really bring that to the home.",
+      "textZh": "大家好，我叫 Joey O'Doherty。我是一名神经科学家和神经工程师，研究如何从大脑中解码。所以我认为有一些唾手可得的成果确实能够产生重大影响，帮助改善许多人的生活，那就是恢复运动和交流能力，例如针对脊髓损伤患者。学术界有很多先例，非常出色地展示了如何做到这一点，而我们认为，我们可以运用自己的技术，真正把它带进家庭。",
+      "speakerZh": "Joey O'Doherty"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Joey O'Doherty",
+      "startSec": 1731.66,
+      "textEn": "Something people can take home with them and improve their lives.",
+      "textZh": "让人们可以把它带回家，改善自己的生活。",
+      "speakerZh": "Joey O'Doherty"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Moderator",
+      "startSec": 1734.86,
+      "textEn": "Fantastic. Gil, there's a fun one next. All you. Yeah. So we're fielding questions from Twitter so there's going to be some funny, funny comments. First question is, who are you and what do you do? I'll lead with that. And the question is, can the neuralink chip allow you to summon your Tesla telepathically?",
+      "textZh": "太棒了。Gil，接下来有个有趣的问题。全交给你了。好的。我们正在回答来自 Twitter 的问题，所以会有一些很搞笑、很搞笑的评论。第一个问题是，你是谁，你做什么工作？我先从这个开始。而这个问题是，Neuralink 芯片能让你通过心灵感应召唤你的 Tesla 吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1752.66,
+      "textEn": "Definitely. Of course.",
+      "textZh": "肯定可以。当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Moderator",
+      "startSec": 1754.18,
+      "textEn": "You heard it here first. That's a definite 100%, Carlos. That is the answer.",
+      "textZh": "你们是最先在这里听到的。Carlos，答案是肯定的，100%。这就是答案。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Neuralink Team",
+      "startSec": 1761.78,
+      "textEn": "Just one bit of information.",
+      "textZh": "只需要 1 比特的信息。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1762.82,
+      "textEn": "Yeah, it's very easy. That's an easy one.",
+      "textZh": "是的，非常容易。这个很简单。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Moderator",
+      "startSec": 1765.94,
+      "textEn": "Actually, Max, this might be a question for you. Is. Yeah, like some of the questions we had on Twitter was how do you see the neuralink device and the essentially API growing over time and allowing developers to interact with the device.",
+      "textZh": "实际上，Max，这个问题可能适合你。是。对，我们在 Twitter 上收到的一些问题是，你认为 Neuralink 设备以及本质上的 API 会如何随着时间推移而发展，并让开发者能够与设备交互。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Neuralink Team",
+      "startSec": 1782.97,
+      "textEn": "So there's interesting questions long term about whether you do decoding on head or on a phone or on a computer ultimately. So at a thousand channels it's possible to send all the spike data to a phone and do processing there. As this gets bigger and bigger, you're going to be more constrained by the radio. So you're going to want to push more of this on head and that changes your programming model. But really the APIs you're getting are they're bin spikes.",
+      "textZh": "所以，从长远来看，有一些有趣的问题，比如最终究竟是在头部端、手机上还是计算机上进行解码。在 1000 个通道的情况下，可以把所有尖峰数据发送到手机上，并在那里进行处理。随着规模越来越大，无线电通信会对你形成更大的限制。所以你会希望把更多这类处理放到头部端，而这会改变你的编程模型。但实际上，你获得的 API 是，它们是经过分箱的尖峰信号。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Neuralink Team",
+      "startSec": 1802.69,
+      "textEn": "You're getting raw waveforms and that's like you can consume it basically like an audio feed.",
+      "textZh": "你会获得原始波形，基本上可以像使用音频流一样使用它。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 1809.23,
+      "textEn": "Yeah, it's worth noting, like the lossless compression of the data stream is about 100 kilobits with 1024 channels.",
+      "textZh": "对，值得注意的是，1024 个通道的数据流经过无损压缩后大约是 100 千比特。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Moderator",
+      "startSec": 1818.27,
+      "textEn": "Excellent. So this one came up a lot. And this particular question is from Yosef, but will this technology ever be used for gaming?",
+      "textZh": "很好。这个问题出现了很多次。这个具体问题来自 Yosef：但这项技术将来会用于游戏吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 1828.43,
+      "textEn": "Yeah, probably 100%. 100%, yeah.",
+      "textZh": "会，可能性是 100%。100%，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Neuralink Team",
+      "startSec": 1832.35,
+      "textEn": "I think that a good benchmark of does it work well in humans is can a quadriplegic, does it work well enough for them to play Starcraft? That's A good functional target?",
+      "textZh": "我认为，判断它能否在人类身上良好运作的一个不错基准是，四肢瘫痪者能不能，它是否好用到足以让他们玩《星际争霸》？这是一个不错的功能性目标？",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Ian (Neuralink)",
+      "startSec": 1840.07,
+      "textEn": "Yeah,",
+      "textZh": "对，",
+      "speakerZh": "Ian（Neuralink）"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 1842.47,
+      "textEn": "for sure.",
+      "textZh": "肯定。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Neuralink Team",
+      "startSec": 1842.95,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Moderator",
+      "startSec": 1843.91,
+      "textEn": "Awesome. We'll pull out back from the Twitter questions that are kind of funny. This is a question for the efficacy of the device. Right now, is the device limited to surface layers of the brain only, or can we go deeper? And if not now, what's holding us back from going deeper into the brain?",
+      "textZh": "太棒了。我们先从那些有点搞笑的 Twitter 问题中退出来。这是一个关于设备效能的问题。目前，这个设备只能作用于大脑表层吗，还是可以进入更深处？如果现在还不行，是什么阻碍我们进入大脑更深处？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Matthew MacDougall",
+      "startSec": 1866.16,
+      "textEn": "We are planning on modifying the device and the robot to be able to sew into arbitrary depths of the brain. Right now we're limiting ourselves only to the cortical surface because that simplifies many of the problems involved with going a lot deeper.",
+      "textZh": "我们计划改造设备和机器人，使其能够缝入大脑的任意深度。目前我们把范围仅限于皮层表面，因为这简化了深入很多时所涉及的许多问题。",
+      "speakerZh": "Matthew MacDougall"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Moderator",
+      "startSec": 1881.68,
+      "textEn": "And what kinds of things can you solve on the cortical surface versus when you go deeper?",
+      "textZh": "那么，在皮层表面可以解决哪些问题，而进入更深处时又能解决哪些问题？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Elon Musk",
+      "startSec": 1886.17,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Matthew MacDougall",
+      "startSec": 1886.65,
+      "textEn": "So a lot of the low level processing happens in the cortex in terms of motor intentions, sensory information that comes directly in. So you're hearing your auditory percepts, your visual processing. A lot of that happens in the cortex.",
+      "textZh": "所以，许多低层级处理都发生在大脑皮层中，包括运动意图、直接传入的感觉信息。也就是说，你听到的听觉感知、你的视觉处理。其中很多都发生在大脑皮层中。",
+      "speakerZh": "Matthew MacDougall"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Elon Musk",
+      "startSec": 1905.05,
+      "textEn": "I mean, you could, you could solve blindness, blindness, you could solve paralysis, you can solve hearing, you can solve a lot just by interfacing with the cortex. And to be clear, we actually do insert, I guess about 3 or 4 millimeters into the cortex. So these electrodes are sensing from multiple layers within the cortex.",
+      "textZh": "我的意思是，你可以，你可以解决失明、失明问题，可以解决瘫痪问题，可以解决听力问题，仅仅通过与大脑皮层连接，就能解决很多问题。需要说明的是，我们实际上确实会插入，我想大约深入大脑皮层 3 或 4 毫米。所以这些电极会从大脑皮层内的多个层次感测信号。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1931.2,
+      "textEn": "There are deeper brain systems that are underneath your cortex, like the hypothalamus.",
+      "textZh": "在大脑皮层下方还有更深层的大脑系统，例如下丘脑。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 1939.31,
+      "textEn": "And I think that is something we'd want to interface with for sure because that's going to be important for curing things like depression, addiction, that kind of thing, anxiety.",
+      "textZh": "而我认为，我们肯定会希望与它连接，因为这对于治愈抑郁、成瘾之类的问题，以及焦虑，会非常重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 1953.79,
+      "textEn": "So. But yeah, as like I said in the presentation, overall we're aiming for a general purpose device. And really the thing that we're what change between from interfacing with the cortex versus deep brain systems is kind of the length of the electrode. So we just need kind of longer wires and to adjust the robot in order to access deeper regions of the brain.",
+      "textZh": "所以。不过，是的，就像我在演示中说的那样，总体而言，我们的目标是一种通用设备。而实际上，我们的东西，从与大脑皮层连接到与深层大脑系统连接，所发生的变化其实就是电极的长度。所以，我们只需要某种更长的导线，并调整机器人，以便进入大脑的更深区域。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Moderator",
+      "startSec": 1980.76,
+      "textEn": "Awesome. Ian, did you have anything?",
+      "textZh": "太棒了。Ian，你有什么要补充的吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Neuralink Team",
+      "startSec": 1982.44,
+      "textEn": "The robot is designed like the full length is like 7 centimeters or 8 centimeters.",
+      "textZh": "机器人的设计是这样的，完整长度大约是 7 厘米或 8 厘米。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Ian (Neuralink)",
+      "startSec": 1986.12,
+      "textEn": "Yeah. So right now we're designed for like 6 millimeters. The actuator itself isn't actually limited to 6 millimeters and go much deeper. That's sort of in addition to scaling out sort of to the rest of the surgery, also scaling to deeper, which is mostly a sensing problem. So the ability to avoid deep vasculature is sort of an interesting problem that we're working on in the robotics world here. So, yeah, lots of cool problems in the robot.",
+      "textZh": "对。所以我们目前的设计目标大约是 6 毫米。执行器本身实际上并不受限于 6 毫米，可以进入深得多的位置。这在某种程度上除了要扩展到手术的其余部分之外，也要扩展到更深处，而这主要是一个感测问题。所以，避开深层血管的能力，在我们这里的机器人领域算是一个正在研究的有趣问题。所以，对，机器人方面有很多很酷的问题。",
+      "speakerZh": "Ian（Neuralink）"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 2011.53,
+      "textEn": "And you're leading robot engineering?",
+      "textZh": "你负责领导机器人工程？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Ian (Neuralink)",
+      "startSec": 2013.33,
+      "textEn": "Yeah, sorry, I'm Ian, I lead the robotics program program here.",
+      "textZh": "是的，抱歉，我是伊恩，我负责这里的机器人项目项目。",
+      "speakerZh": "伊恩（Neuralink）"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Moderator",
+      "startSec": 2019.28,
+      "textEn": "Robot is a man's Best friend. All right, next question is, what is the most challenging problem that must be solved in order to meet Neuralink's ultimate goal?",
+      "textZh": "机器人是人类最好的朋友。好的，下一个问题是，为了实现 Neuralink 的最终目标，必须解决的最具挑战性的问题是什么？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 2029.68,
+      "textEn": "Well, I think one of the hardest problems is kind of, I'd say material science and the, especially the installation of the electrodes. What would you say?",
+      "textZh": "嗯，我认为最困难的问题之一算是，我会说是材料科学，以及，尤其是电极的植入。你怎么看？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Felix Deku",
+      "startSec": 2042.09,
+      "textEn": "Yeah, absolutely.",
+      "textZh": "是的，当然。",
+      "speakerZh": "菲利克斯·德库"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 2042.57,
+      "textEn": "Also you want to introduce yourself.",
+      "textZh": "另外，你要介绍一下自己。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Felix Deku",
+      "startSec": 2044.17,
+      "textEn": "So I'm Felix Deku. I currently lead the microfabrication team. My team makes up of a group of process engineers and material scientists. And our job is to make the tiny wires, as Elon referred to them, what we call the threads that are implanted in a brain. And of course the threads are made of conductors and insulators. And choosing the right material that is amenable to the brain and compacted to the brain, it's something that our team have expertise on and we work seriously on interface engineering just to make sure that our layers are actually well thought through, well designed, and at the end of the day, when we implement this device, it'll be actually functional for either reading or for writing in the brain.",
+      "textZh": "我是菲利克斯·德库。目前由我领导微加工团队。我的团队由一群工艺工程师和材料科学家组成。我们的工作是制造那些微小的导线，也就是埃隆提到的、我们称为“线”的东西，它们会被植入大脑。当然，这些线由导体和绝缘体制成。选择适合大脑并且压实到大脑中的正确材料，是我们团队拥有专业知识并认真开展界面工程研究的领域，只为确保我们的各层确实经过了充分思考和精心设计，并且最终当我们实际应用这个设备时，它确实能够发挥功能，用于读取大脑或向大脑写入。",
+      "speakerZh": "菲利克斯·德库"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 2092.94,
+      "textEn": "Yeah, it's going to be important from, in terms of material science problems is making sure that the threads, the electrodes, can last for decades in the brain, which is a tricky thing because it's a very corrosive environment and you're in a dichotomy where you want to read and you want to sense electrical signals and you want to generate electrical signals and but you don't want to corrode the electrodes over time.",
+      "textZh": "是的，从材料科学问题的角度来说，确保这些线、电极能够在大脑中持续使用数十年会很重要。这是一件棘手的事，因为那是一个腐蚀性很强的环境，而你面临着一种两难：你想读取并感测电信号，也想生成电信号，但又不希望电极随着时间推移而受到腐蚀。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 2125.33,
+      "textEn": "So you need to have an insulating layer that is very robust, but also very, very thin.",
+      "textZh": "所以你需要一层非常坚固、但也非常非常薄的绝缘层。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 2132.69,
+      "textEn": "It has to be just the right amount of insulation and it has to stay that amount of insulation over time. So that's why I think we think probably like a silicon carbide type insulator is probably the best long term from a material science standpoint. But it's material. Silicon carbide is a tough material to work with, but that's probably the right choice long term, would you say?",
+      "textZh": "绝缘程度必须恰到好处，而且必须随着时间推移一直保持这种绝缘程度。所以这就是为什么我认为，我们认为，从材料科学角度看，类似碳化硅的绝缘体从长期来看可能是最好的。但它是材料。碳化硅是一种很难处理的材料，但从长期来看，那可能是正确的选择，你觉得呢？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Felix Deku",
+      "startSec": 2153.26,
+      "textEn": "Yeah, yeah, I totally agree. And it's also apart from its electrical properties, it also helps with adhesion between the metal layers and the polymer substrate. Other thing that we also looking at is since we actually reducing the electrode dimensions, the electrocyte, the actual site that actually speaks to the neuron, also have what we call high resistance to the signal. So we actually look into like material engineering that will reduce the impedance at an interface so that we can actually have a very small electric type, but still be able to speak clearly to the, to the neuron.",
+      "textZh": "是的，是的，我完全同意。而且除了它的电气特性之外，它也有助于金属层与聚合物基底之间的黏附。我们还在研究的另一件事是，由于我们实际上正在缩小电极的尺寸，电细胞，也就是实际与神经元交流的那个实际位点，也具有我们所谓的对信号的高电阻。所以我们实际上在研究材料工程之类的方法，以降低界面处的阻抗，这样我们实际上就能拥有非常小的电气类型，但仍然能够清晰地与、与神经元交流。",
+      "speakerZh": "菲利克斯·德库"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Moderator",
+      "startSec": 2184.74,
+      "textEn": "And when you guys say thin, how thin?",
+      "textZh": "你们说薄的时候，究竟有多薄？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Felix Deku",
+      "startSec": 2189.059,
+      "textEn": "How thin? So one strand of your hair is about 100 microns in diameter. We can think about dividing that into 20. So, you know, one of the, the thickness that we recognize, about five microns. And we have this possibility to go even thinner in the nearest future.",
+      "textZh": "有多薄？一根头发的直径大约是 100 微米。我们可以想象把它分成 20 份。所以，你知道，我们认可的一种厚度，大约是 5 微米。而且在不久的将来，我们有可能做到更薄。",
+      "speakerZh": "菲利克斯·德库"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 2207.02,
+      "textEn": "Yeah, yeah, we think we can probably go sub micron in thickness. But obviously the thinner you make the wire, the harder it is to sense the signal and to do simulation because there's less cross sectional area for the current to traverse.",
+      "textZh": "是的，是的，我们认为厚度很可能可以做到亚微米。但显然，导线做得越薄，就越难感测信号和进行模拟，因为可供电流通过的横截面积更小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Elon Musk",
+      "startSec": 2221.82,
+      "textEn": "And yeah, in terms of upgrades, that part of why I wanted to show the explanted plague is to show that you can actually take the device out and there's no observable behavior change. The pig is as happy as before and healthy. And this is going to be important for upgrades because obviously if you get an early device, then by the time, let's say you get version one, probably by the time we have version three or four, you want to upgrade.",
+      "textZh": "还有，是的，就升级而言，我之所以想展示被取出的瘟疫，部分原因是为了说明，你确实可以取出这个设备，而且不会出现可观察到的行为变化。这头猪和以前一样快乐、健康。这对升级会很重要，因为显然，如果你获得的是早期设备，那么等到，比如说你获得第 1 版，可能等我们有了第 3 或第 4 版时，你会想升级。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 2251.7,
+      "textEn": "You wouldn't want version one of a phone, and 10 years later, everyone's got version three or four. So it's going to be important to be able to remove the device and upgrade it over time. So over time, the neuralink would do even more than it did before.",
+      "textZh": "你不会想要一部手机的第 1 版，而 10 年后，每个人用的都是第 3 或第 4 版。所以，能够取出设备并随着时间推移对它进行升级会很重要。这样随着时间推移，Neuralink 能做的事会比以前更多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Moderator",
+      "startSec": 2270.74,
+      "textEn": "Awesome. So here's a question about the device. We have been talking a lot about read speeds and write or we haven't talked about read or write speeds. DJ what are the read and write speeds of the device? If you think of it like a computer.",
+      "textZh": "太棒了。这里有一个关于设备的问题。我们一直在谈很多读取速度和写入，或者说我们还没有谈到读取或写入速度。DJ，如果把它看作一台计算机，这个设备的读取和写入速度是多少？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "DJ Seo",
+      "startSec": 2287.79,
+      "textEn": "Sorry, when you say speed, what do you mean?",
+      "textZh": "抱歉，你说速度时，指的是什么？",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Moderator",
+      "startSec": 2290.03,
+      "textEn": "Like, how quickly can you read information from the brain and how quickly can you write information in the brain?",
+      "textZh": "比如，你能以多快的速度从大脑读取信息，又能以多快的速度向大脑写入信息？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "DJ Seo",
+      "startSec": 2296.35,
+      "textEn": "Okay, so let's see. So one of the things to highlight is that we.",
+      "textZh": "好的，那么让我们看看。需要强调的一件事是，我们。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Elon Musk",
+      "startSec": 2301.23,
+      "textEn": "Dj, what do you work on?",
+      "textZh": "DJ，你负责什么工作？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "DJ Seo",
+      "startSec": 2302.99,
+      "textEn": "Yes, my name is dj, so I'm leading implant electronics development, like a chip design and a chip designer.",
+      "textZh": "是的，我叫 DJ，所以我负责植入物电子器件的开发，比如芯片设计和芯片设计师。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "DJ Seo",
+      "startSec": 2312.03,
+      "textEn": "So the prototype that we were showing, it has 1024 channels. All of those channels are capable of recording and also stimulating. And in terms of recording, as Paul mentioned, we do have on chip algorithms to do level of compression and extracting the signals of interest. In this case, spikes, neural spikes. And those things are actually happening at a much faster speed than your brain even is processing those information.",
+      "textZh": "我们展示的原型有 1024 个通道。所有这些通道都能够记录，也能够刺激。在记录方面，正如 Paul 提到的，我们确实有片上算法来进行一定程度的压缩，并提取我们感兴趣的信号。在这里，就是尖峰、神经尖峰。而这些事情实际上以比你的大脑处理那些信息还要快得多的速度进行。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 2336.93,
+      "textEn": "Well, do you want to say like things like time resolution, like, you know, within how many milliseconds can you detect a spike? And what's the, you know, just some technical data.",
+      "textZh": "嗯，你想不想说说时间分辨率之类的，比如，你知道，你能在多少毫秒内检测到一个尖峰？还有就是，你知道，给出一些技术数据。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "DJ Seo",
+      "startSec": 2345.09,
+      "textEn": "So in terms of the signals that we're collecting, you know, we're digitizing them at 20 kilohertz. Generally, the signals of interest are anywhere between about a millisecond in, in width. And so we sort of sample it at 20 times that speed. And we have analog to digital converters that divides that into 1024 levels. So 10 bit resolution. And the spike detection is done in less than 900 nanosecond, which is really, really fast time.",
+      "textZh": "就我们采集的信号而言，你知道，我们以 20 千赫兹对它们进行数字化。一般来说，感兴趣的信号在、在宽度上介于大约 1 毫秒。所以我们算是以这个速度的 20 倍对它进行采样。我们有模数转换器，把它分成 1024 个电平，也就是 10 位分辨率。尖峰检测在不到 900 纳秒内完成，这确实是非常非常快的时间。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "DJ Seo",
+      "startSec": 2377.31,
+      "textEn": "And it's only sort of determined by the speed of the clock. And for low, making sure that our implant is low power, we're running them actually at a very slow speed. And then for stimulation, you know, we can actually create any arbitrary waveforms with about 7 microseconds of resolution. So basically, whatever you want to draw, we can stimulate and generate those pulses through any comp.",
+      "textZh": "而且它在某种程度上仅由时钟速度决定。为了低，为了确保我们的植入物功耗低，我们实际上让它们以非常慢的速度运行。然后在刺激方面，你知道，我们实际上可以创建分辨率约为 7 微秒的任意波形。所以基本上，无论你想画出什么，我们都可以通过任何……进行刺激并生成那些脉冲。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Elon Musk",
+      "startSec": 2405.08,
+      "textEn": "Version one, as we go to version two, three, four, these things will expand, I think, ultimately by orders of magnitude. Many orders of magnitude.",
+      "textZh": "第 1 版，随着我们发展到第 2、3、4 版，我认为这些方面最终将扩大多个数量级。很多个数量级。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Moderator",
+      "startSec": 2414.31,
+      "textEn": "Great.",
+      "textZh": "很好。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Moderator",
+      "startSec": 2416.87,
+      "textEn": "How big is the Neuralink team and how much do you expect it to grow in the near future?",
+      "textZh": "Neuralink 团队有多大？你预计它在不久的将来会扩大多少？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Elon Musk",
+      "startSec": 2422.79,
+      "textEn": "About 100 people right now, I think over time there might be 10,000 or more people at Neuralink. So I think. Yeah, the couple orders of magnitude. Yeah, exactly. A couple orders of magnitude. Those are my favorite phrases.",
+      "textZh": "目前大约有100人，我认为随着时间推移，Neuralink可能会有10,000人或更多。所以我认为。对，几个数量级。对，没错。几个数量级。这些是我最喜欢的说法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Elon Musk",
+      "startSec": 2438.05,
+      "textEn": "Yeah, just, you know, a couple hours of magic is no big deal.",
+      "textZh": "是的，只不过，你知道，几个小时的魔法而已，没什么大不了的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Elon Musk",
+      "startSec": 2441.65,
+      "textEn": "So, yeah, probably the number of electrodes will grow with the number of people at the company.",
+      "textZh": "所以，是的，电极数量可能会随着公司人数的增加而增长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Neuralink Team",
+      "startSec": 2450.77,
+      "textEn": "Hopefully that's a super linear relationship.",
+      "textZh": "希望那是一种超线性关系。",
+      "speakerZh": "Neuralink团队"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Elon Musk",
+      "startSec": 2453.73,
+      "textEn": "Well, we might need a million people at the company then. Yeah, super. Yeah. Even more. Yeah, yeah, yeah. Ideally, like. Yeah, yeah, super linear.",
+      "textZh": "嗯，那我们公司可能就需要100万人了。对，超……对。甚至更多。对，对，对。理想情况下，就像。对，对，超线性。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Neuralink Team",
+      "startSec": 2464.49,
+      "textEn": "Our hiring quotas are determined by our channel counts.",
+      "textZh": "我们的招聘配额由通道数量决定。",
+      "speakerZh": "Neuralink团队"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Elon Musk",
+      "startSec": 2469.13,
+      "textEn": "Maybe it's 10 to 1 ratio or something. Yeah, cool.",
+      "textZh": "也许是10比1之类的比例。对，很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Moderator",
+      "startSec": 2473.37,
+      "textEn": "So Twitter asks, how does the implant system fare against various disturbances from the outside, like electrical, magnetic, wi fi, radio.",
+      "textZh": "那么，Twitter上有人问，植入系统在面对来自外部的各种干扰时表现如何，比如电、磁、Wi-Fi、无线电干扰。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Zach (Neuralink)",
+      "startSec": 2485.29,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "扎克（Neuralink）"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "DJ Seo",
+      "startSec": 2485.77,
+      "textEn": "So the current version of implant that we have is using Bluetooth low energy radio. So similar to any Bluetooth devices that are out there, you know, they, they are able to coexist with other devices that are using and sharing our Same spectrum in 2.4 GHz. Obviously, as you imagine, you know, when you go to concerts or there's just a lot of people, the signal quality does degrade because it is a pretty congested spectrum.",
+      "textZh": "所以，我们目前版本的植入设备使用的是低功耗蓝牙无线电。因此，与市面上的任何蓝牙设备类似，你知道，它们，它们能够与其他使用并共享我们在 2.4 GHz 上的相同频谱的设备共存。显然，正如你可以想象的，你知道，当你去听音乐会，或者现场就是有很多人时，信号质量确实会下降，因为这是一个相当拥挤的频谱。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "DJ Seo",
+      "startSec": 2511.07,
+      "textEn": "So we are actually working on some new versions of the radio that are operating at different frequencies to be able to also send out a lot more data and have it be scalable to, you know, billions of electrodes and then also in terms of sort of electromagnetic compatibility and interferences, obviously it's very important for us to coexist with other systems and just disturbances out there. So there are also well documented guidelines from FDA that we'll be following and doing a lot of testing for.",
+      "textZh": "所以，我们实际上正在研发一些以不同频率运行的新版无线电，以便也能发送更多得多的数据，并且能够扩展到，你知道，数十亿个电极；然后，另外就某种电磁兼容性和干扰而言，显然，对我们来说，与其他系统以及外界存在的各种干扰共存非常重要。所以，FDA也有充分成文的指导方针，我们将遵循这些方针并为此进行大量测试。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Moderator",
+      "startSec": 2543.06,
+      "textEn": "Fantastic. We're going to take an audience question. Fred, take it away.",
+      "textZh": "太棒了。我们要请现场观众提一个问题。弗雷德，请开始吧。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "Elon Musk",
+      "startSec": 2548.26,
+      "textEn": "So we all want to play starcraft using neuralink, but what are some likely first applications? Well, I don't know if we all want to play StarCraft.",
+      "textZh": "所以，我们都想用Neuralink玩《星际争霸》，但最初可能会有哪些应用？嗯，我不知道我们是不是都想玩《星际争霸》。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Neuralink Team",
+      "startSec": 2558.1,
+      "textEn": "There are other games.",
+      "textZh": "还有其他游戏。",
+      "speakerZh": "Neuralink团队"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Elon Musk",
+      "startSec": 2559.38,
+      "textEn": "There are other games to play. Exactly.",
+      "textZh": "还有其他游戏可以玩。没错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Neuralink Team",
+      "startSec": 2562.06,
+      "textEn": "But also starcraft.",
+      "textZh": "但也有《星际争霸》。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "Matthew MacDougall",
+      "startSec": 2566.1,
+      "textEn": "So our first clinical trial is aimed at people with paraplegia or tetraplegia. So cervical spinal cord injury. We're going to enroll, or plan to enroll a small number of patients to make sure the device is safe and that it works in that case.",
+      "textZh": "所以，我们的首次临床试验面向截瘫或四肢瘫痪患者。也就是颈段脊髓损伤患者。我们将招募，或者说计划招募少量患者，以确保该设备是安全的，并且在这种情况下能够发挥作用。",
+      "speakerZh": "马修·麦克杜格尔"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Elon Musk",
+      "startSec": 2582.62,
+      "textEn": "Yeah. So actually just to elaborate on that, if somebody has like a severe spinal cord injury, you know, to the degree that they even, they have very limited control even over their facial muscles, then. But with this implant you can actually think, just by thinking, you can output words and you can type and you can control a computer, control a phone, which is pretty, pretty wild. And I think something that's very exciting as a long term application is if you can sense what somebody is trying to do with their limbs, what they want to do with their limbs, then you can actually do a second implant that's at the base of the spine or wherever, just after, wherever the spinal injury occurred and you can create a neural shunt.",
+      "textZh": "是的。所以其实再详细说一下，如果某人有严重的脊髓损伤，你知道，严重到他们甚至，他们连面部肌肉都只能进行非常有限的控制，那么。但是有了这个植入物，你实际上可以通过思考，仅仅通过思考，就可以输出文字，可以打字，可以控制电脑、控制手机，这相当、相当不可思议。而且我认为，作为一种长期应用，非常令人兴奋的一点是，如果你能感知某人试图用四肢做什么、他们想用四肢做什么，那么你实际上可以在脊柱底部或任何地方，也就是脊髓损伤发生位置的后方，再植入第2个植入物，并且可以建立一条神经分流通路。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Elon Musk",
+      "startSec": 2639.96,
+      "textEn": "So I think long term, I'm confident that long term it will be possible to restore somebody's full body motion. So if somebody even has a severed spine, they will be able to walk again, they will be able to use their hands. And like when you have a severed spinal cord, you essentially have broken wires.",
+      "textZh": "所以我认为，从长期来看，我相信从长期来看，恢复某人的全身运动能力将是可能的。所以，即使某人的脊柱断裂，他们也将能够再次行走，将能够使用双手。而且，就像当你的脊髓断裂时，你实质上就是有一些断掉的电线。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Elon Musk",
+      "startSec": 2662.32,
+      "textEn": "And so if you can just jump over those wires and transmit the signals over those wires, you can give somebody the ability to walk again naturally.",
+      "textZh": "所以，如果你能直接跨过那些断掉的电线传输信号，就能让某人重新获得自然行走的能力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "Moderator",
+      "startSec": 2675.77,
+      "textEn": "So, D.J. you talked about outside interference. Can anyone talk about the inside interference? So how to protect the implant from the body?",
+      "textZh": "那么，D.J.，你谈到了外部干扰。有人能谈谈内部干扰吗？也就是说，怎样保护植入物不受身体影响？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 2685.77,
+      "textEn": "Sure, I can talk about that. My name is Robin, I'm a mechanical engineer and I lead the implant mechanical packaging and assembly team. So actually making the devices and designing the seal. So yeah, the body's not a friendly place to be. So what we do is basically create an accelerated test chamber that can mimic the conditions that the devices will see in the body and basically test the devices at as fast as accelerated rate as we can at this time.",
+      "textZh": "当然，我可以谈谈这个。我叫 Robin，是一名机械工程师，负责植入物机械封装与组装团队。也就是实际制造设备并设计密封结构。所以，是的，人体并不是一个友好的环境。因此，我们所做的基本上是建立一个加速测试舱，它可以模拟设备在体内会遇到的环境，并且基本上以我们目前所能达到的最快加速速率来测试设备。",
+      "speakerZh": "Robin（Neuralink）"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 2718.22,
+      "textEn": "We're limited temperature wise by some of the electronics components, but basically we can submit test subsystems to mimic the environment in the body. And by that we've brought Some devices in the test right now to almost a year and all the implanted ones prior to these implants, we had tested the same architecture in the tester to validate it. And yeah, so there's obviously chemical things attacking the implant. There's, there's pressure, there's mechanical shock and vibration.",
+      "textZh": "在温度方面，我们受到某些电子元件的限制，但基本上，我们可以让受测子系统经受模拟体内环境的测试。通过这种方式，我们目前已使一些设备在测试中达到接近1年；对于在这些植入物之前植入的所有设备，我们都曾在测试设备中测试相同的架构，以进行验证。是的，所以显然会有化学物质侵蚀植入物。还有压力，还有机械冲击和振动。",
+      "speakerZh": "Robin（Neuralink）"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 2753.24,
+      "textEn": "So all of these things are part of it. And yeah, I think one of the things that really helps is having everything in sourced in house. So we have the capability to deposit thin layers of metal. We have the capability to weld glass and machine micron scale with lasers and yeah, so basically we have all the tools in house to be able to design any sort of ceiling enclosure, packaging that we need to do.",
+      "textZh": "所以，所有这些都是其中的一部分。是的，我认为真正有所帮助的一点，是所有东西都在内部完成。所以我们有沉积金属薄层的能力。我们有焊接玻璃以及用激光进行微米级加工的能力，而且，是的，所以基本上，我们内部拥有设计我们需要制造的任何类型的天花板式外壳、封装所需的全部工具。",
+      "speakerZh": "Robin（Neuralink）"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "Moderator",
+      "startSec": 2783.18,
+      "textEn": "Awesome. Thank you. Robin. Another question from Twitter. Will you be able to save and replay memories in the future?",
+      "textZh": "太棒了。谢谢你，Robin。另一个来自 Twitter 的问题。未来你们能保存和回放记忆吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "Elon Musk",
+      "startSec": 2791.9,
+      "textEn": "Yes, I think in the future you'll be able to save and replay memories. I mean, this is obviously sounding increasingly like a black mirror episode, but. Well, I guess they're pretty good at predicting.",
+      "textZh": "是的，我认为未来你将能够保存和回放记忆。我的意思是，这显然听起来越来越像《黑镜》的一集了，但是。嗯，我想他们相当擅长预测。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "Elon Musk",
+      "startSec": 2807.45,
+      "textEn": "But yeah, essentially if you have a whole rain interface, everything that's encoded in memory, you could, you could upload, you could basically store your memories as a backup and restore the memories and ultimately you could potentially download them into a new body or into a robot body. The future is going to be weird.",
+      "textZh": "不过，是的，实质上，如果你有一个完整的雨界面，记忆中编码的一切，你都可以，你可以上传，基本上可以把你的记忆存储为备份并恢复这些记忆，最终你甚至可能把它们下载到一个新的身体里，或者一个机器人身体里。未来会变得很奇怪。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0185",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 2832.04,
+      "textEn": "Cool.",
+      "textZh": "酷。",
+      "speakerZh": "Robin（Neuralink）"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "Moderator",
+      "startSec": 2833.16,
+      "textEn": "So I can't help but notice that the pigs back there are pretty well behaved and pretty darn cute. Can anyone talk about. I'm looking at Autumn over here. First, can you tell everyone who you are and what you do here? And can you describe, like, how are they so well behaved and so smart?",
+      "textZh": "所以我忍不住注意到，后面的猪都非常乖，而且可爱得不得了。有人能谈谈吗。我正看着这边的 Autumn。首先，你能告诉大家你是谁，以及你在这里做什么吗？你能描述一下，比如说，它们为什么这么乖、这么聪明吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "Autumn (Neuralink)",
+      "startSec": 2852.68,
+      "textEn": "Well, I'm Autumn and I lead our animal care program. And our philosophy here is to set up a system where the animals are able to volunteer to make choices to participate in our projects. As you see, sometimes they choose not to participate, and that's okay.",
+      "textZh": "嗯，我是 Autumn，负责我们的动物照护项目。我们在这里的理念是建立一个系统，让动物能够自愿选择是否参与我们的项目。正如你们看到的，它们有时会选择不参与，这也没关系。",
+      "speakerZh": "Autumn（Neuralink）"
+    },
+    {
+      "id": "p-0188",
+      "speakerEn": "Autumn (Neuralink)",
+      "startSec": 2876.42,
+      "textEn": "We want to make sure that our animals are happy and healthy. So all of the behavioral research that we do is led by positive reinforcement. And again, that allows for them to choose to volunteer or not.",
+      "textZh": "我们希望确保我们的动物快乐且健康。因此，我们所做的全部行为研究都以正向强化为指导。而且同样，这让它们可以选择自愿参与或不参与。",
+      "speakerZh": "Autumn（Neuralink）"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "Moderator",
+      "startSec": 2890.24,
+      "textEn": "Sam's also on our animal care team. Sam, do you have anything to add to that?",
+      "textZh": "Sam 也在我们的动物照护团队。Sam，你对此有什么要补充的吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "Sam (Neuralink)",
+      "startSec": 2893.76,
+      "textEn": "Hi, I'm Sam, one of the veterinarians here, work closely with Autumn taking care of the animals. And yeah, it's just emphasizing what Autumn said. The whole animal care program here, in fact, the whole company here is very dedicated to providing, promoting the care of these animals. We, you know, everybody's involved, everybody's very interested in making sure that they're taken care of. And yeah, the program from Top to bottom is designed to make sure that they can express their species specific behaviors, express, you know, choose to do things.",
+      "textZh": "大家好，我是 Sam，是这里的一名兽医，与 Autumn 密切合作照顾这些动物。是的，我只是想强调 Autumn 所说的话。这里的整个动物照护项目，事实上这里的整个公司，都非常致力于为这些动物提供照护、促进对它们的照护。我们，你知道，每个人都参与其中，每个人都非常关心确保它们得到照顾。是的，这个项目从上到下的设计，都是为了确保它们能够展现其物种特有的行为，展现，你知道，选择做一些事情。",
+      "speakerZh": "Sam（Neuralink）"
+    },
+    {
+      "id": "p-0191",
+      "speakerEn": "Sam (Neuralink)",
+      "startSec": 2925.16,
+      "textEn": "We don't force things upon them as much as possible. And yeah, that's why you see the pigs happily rooting around the straw right now and generally being very content.",
+      "textZh": "我们尽可能不把事情强加给它们。是的，这就是为什么你们现在会看到这些猪开心地在稻草里拱来拱去，而且总体上非常满足。",
+      "speakerZh": "Sam（Neuralink）"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "Moderator",
+      "startSec": 2934.8,
+      "textEn": "They do have those natural little smiles on their faces which is ever delightful. Next question is what programming language are you guys using for developing the device?",
+      "textZh": "它们脸上确实带着那种自然的小微笑，总是令人愉悦。下一个问题是，你们在开发这款设备时使用什么编程语言？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0193",
+      "speakerEn": "DJ Seo",
+      "startSec": 2948.4,
+      "textEn": "Several.",
+      "textZh": "好几种。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0194",
+      "speakerEn": "DJ Seo",
+      "startSec": 2951.2,
+      "textEn": "We use several different types of programming languages. So for chip development, a lot of Verilog, for doing low level programming at the kind of the register transfer level. As you go up higher and higher there are, you know, various C, C, Python. But to be honest, like at the end of the day it's not, you know, which programming language do you know how to use, it's do you know, the principles behind, you know, coming up with just methods to enable these systems to work.",
+      "textZh": "我们使用好几种不同类型的编程语言。所以在芯片开发方面，会大量使用 Verilog，用于寄存器传输级那种底层编程。随着层级越来越高，会有，你知道，各种 C、C、Python。但说实话，比如归根结底，重点并不是，你知道，你会使用哪种编程语言，而是你是否了解，你知道，提出能让这些系统运行的方法背后的原理。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0195",
+      "speakerEn": "DJ Seo",
+      "startSec": 2982.7,
+      "textEn": "So I think, you know, if you have any experience in programming and you've been building things since you were little, you should really come join us.",
+      "textZh": "所以我认为，你知道，如果你有任何编程经验，而且从小就在做东西，你真的应该来加入我们。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0196",
+      "speakerEn": "Elon Musk",
+      "startSec": 2990.62,
+      "textEn": "Yeah, but can I play Crisis?",
+      "textZh": "是啊，但我能玩《Crisis》吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0197",
+      "speakerEn": "Elon Musk",
+      "startSec": 2994.38,
+      "textEn": "Eventually it can play Crisis.",
+      "textZh": "最终它可以玩《Crisis》。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0198",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 2999.82,
+      "textEn": "Cool.",
+      "textZh": "酷。",
+      "speakerZh": "Robin（Neuralink）"
+    },
+    {
+      "id": "p-0199",
+      "speakerEn": "Moderator",
+      "startSec": 3000.22,
+      "textEn": "Crisis confirmed. And then Ian, what about. Yeah, Ian, what about the robot? What kind of programming languages and tech stacks are you using over there?",
+      "textZh": "《Crisis》已确认。然后 Ian，怎么样。对了，Ian，机器人怎么样？你们那边使用什么样的编程语言和技术栈？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0200",
+      "speakerEn": "Ian (Neuralink)",
+      "startSec": 3009.58,
+      "textEn": "I mean, sort of just reiterating what DJ said, sort of doesn't matter. Like specifically for us, it's, there's real time low level platform C, some Java and Python scripts, but really those are more just like pragmatic choices to essentially optimize for getting like productive work done. So it doesn't really matter what your background is or necessarily what the tools you use are. It's more just can you like accomplish things really quickly?",
+      "textZh": "我的意思是，基本上只是重申 DJ 所说的，基本上并不重要。具体到我们这里，有实时底层平台 C、一些 Java 和 Python 脚本，但其实那些更多只是务实的选择，本质上是为了优化，让富有成效的工作得以完成。所以你的背景是什么，或者你使用什么工具，其实并不重要。更重要的是，你能不能非常迅速地完成事情？",
+      "speakerZh": "Ian（Neuralink）"
+    },
+    {
+      "id": "p-0201",
+      "speakerEn": "Moderator",
+      "startSec": 3040.19,
+      "textEn": "Awesome. This next question is from this is Rex. They're wondering, can this device be used to explain consciousness in the long term?",
+      "textZh": "太棒了。下一个问题来自——这是 Rex。他们想知道，从长远来看，这个设备能否用于解释意识？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0202",
+      "speakerEn": "Elon Musk",
+      "startSec": 3050.11,
+      "textEn": "Of course I can certainly shed some light on consciousness.",
+      "textZh": "当然，我肯定可以阐明一些有关意识的问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0203",
+      "speakerEn": "Neuralink Team",
+      "startSec": 3054.43,
+      "textEn": "This is a really interesting question. I think the answer is yes. And I think one of the reasons that consciousness is so hard is because like anything in physics, you're looking at a mapping from X to Y where X is the neuronal correlates. It's the thing that's happening than physically. And then why is this phenomenal state? And historically we've been unable to observe the neuronal correlates very well. And unless it's in you, we've been unable to observe the phenomenal state.",
+      "textZh": "这是一个非常有趣的问题。我认为答案是肯定的。我认为意识如此困难的原因之一，是因为就像物理学中的任何事物一样，你看到的是从 X 到 Y 的映射，其中 X 是神经元相关物。它是在物理层面发生的事情。然后为什么是这种现象状态？从历史上看，我们一直无法很好地观察神经元相关物。而且除非这种现象状态发生在你自己身上，否则我们一直无法观察它。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0204",
+      "speakerEn": "Neuralink Team",
+      "startSec": 3073.48,
+      "textEn": "So as soon as you were able, neuroscientists are able to personally get these tools where they can see the correlates and they can have the experience, I think the hard problem will vanish very quickly.",
+      "textZh": "所以，一旦你能够——神经科学家能够亲自获得这些工具，既可以看到相关物，也可以拥有这种体验，我认为这个难题会很快消失。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0205",
+      "speakerEn": "Elon Musk",
+      "startSec": 3085.08,
+      "textEn": "What I find remarkable is that the universe started out as like quarks and leptons, we'll call it, like, you know, hydrogen. And hydrogen evolved, and somewhere along the way that hydrogen started talking and thought it was conscious.",
+      "textZh": "我觉得很了不起的是，宇宙起初就像是夸克和轻子，我们姑且这样称呼它，就像，你知道的，氢。然后氢不断演化，在这个过程中的某个时候，氢开始说话，并认为自己有意识。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0206",
+      "speakerEn": "Neuralink Team",
+      "startSec": 3101.26,
+      "textEn": "I like the joke that it turns out that if you bombard Earth with photons for long enough, it'll emit a Tesla.",
+      "textZh": "我喜欢这个笑话：事实证明，如果你用光子轰击地球足够长的时间，它就会发射出一辆 Tesla。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0207",
+      "speakerEn": "Elon Musk",
+      "startSec": 3106.86,
+      "textEn": "Exactly.",
+      "textZh": "没错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0208",
+      "speakerEn": "Elon Musk",
+      "startSec": 3109.9,
+      "textEn": "Yeah, that's exactly what happened.",
+      "textZh": "对，事情正是这样发生的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0209",
+      "speakerEn": "Moderator",
+      "startSec": 3117.83,
+      "textEn": "Just basic science, guys. Yeah. Just teach you in school.",
+      "textZh": "只是基础科学，各位。对。学校里就是这么教你的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0210",
+      "speakerEn": "Moderator",
+      "startSec": 3123.11,
+      "textEn": "Yeah. So there's a lot of Twitter comments coming in about a question that I think is on everyone's mind, no pun intended. What is the security of the device look like? What kind of precautions are being taken, and what does the future look like for the security of the system?",
+      "textZh": "对。所以 Twitter 上涌来了许多评论，都在谈一个我认为人人心中都有的问题，无意玩文字游戏。这个设备的安全性是什么样的？正在采取什么样的预防措施，这套系统未来的安全性又会是什么样的？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0211",
+      "speakerEn": "DJ Seo",
+      "startSec": 3143.6,
+      "textEn": "So, first and foremost, privacy and security are top priorities at Neuralink, especially given the sensitivity of the data that we're collecting. And one of the things that we're ensuring is to make sure that a lot of the interactions with the brain data is going to be encrypted and authenticated properly. And I think this has been kind of a sort of recurring theme. But one of the things that we have the ability to do at neuralink is that we work on every layer of the product from chip design to source code.",
+      "textZh": "所以，首先也是最重要的是，隐私和安全是 Neuralink 的首要任务，尤其是考虑到我们所收集数据的敏感性。我们正在确保的一件事，是确保许多与脑数据的交互都将得到适当的加密和认证。我认为，这一直有点像是一个反复出现的主题。但我们在 Neuralink 有能力做到的一件事是，我们参与产品的每一个层面，从芯片设计到源代码。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0212",
+      "speakerEn": "DJ Seo",
+      "startSec": 3176.78,
+      "textEn": "And it really gives us a unique opportunity to embed security as part of our design from the get go and to make sure that there are no single points of failure. So as an example, we can actually completely isolate sensitive modules like the BLE radio by just segregating it out at the hardware level and really making sure that we protect the IO to the brain away from any potential attacks and really minimizing the attack surface.",
+      "textZh": "而这确实给了我们一个独特的机会，从一开始就把安全性嵌入我们的设计之中，并确保不存在单点故障。举例来说，我们实际上可以在硬件层面将 BLE 无线电之类的敏感模块分隔出去，从而将其完全隔离，并真正确保保护通往大脑的 IO，使其免受任何潜在攻击，同时真正把攻击面降至最低。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0213",
+      "speakerEn": "DJ Seo",
+      "startSec": 3205.77,
+      "textEn": "And, you know, we have in house security expertise and we're also working with external parties to, you know, do audits and perform penetration testing.",
+      "textZh": "而且，你知道，我们内部拥有安全专业能力，我们也在与外部各方合作，来，你知道，进行审计和渗透测试。",
+      "speakerZh": "DJ·徐"
+    },
+    {
+      "id": "p-0214",
+      "speakerEn": "Moderator",
+      "startSec": 3218.17,
+      "textEn": "Excellent. Thank you. Dj.",
+      "textZh": "太好了。谢谢你，DJ。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0215",
+      "speakerEn": "Elon Musk",
+      "startSec": 3220.25,
+      "textEn": "Well, actually, is there, is there any. Is there a point that anybody here wants to make that has not been asked in a question, but you think should be a question?",
+      "textZh": "嗯，其实，有没有，有没有什么。这里有没有谁想提出某一点，虽然问题里没有问到，但你认为它本应该是一个问题？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0216",
+      "speakerEn": "Elon Musk",
+      "startSec": 3228.9,
+      "textEn": "Hey, Martin.",
+      "textZh": "嘿，马丁。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0217",
+      "speakerEn": "Elon Musk",
+      "startSec": 3230.98,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0218",
+      "speakerEn": "Zach (Neuralink)",
+      "startSec": 3232.82,
+      "textEn": "So, hey, I'm Zach. I work on microfabrication team. I help making implants. And one thing that I think is really cool, just in general, is that, you know, this is a platform essentially, so we can change the design up in a variety of ways. So if we find that a certain design or electrode size or number of electrodes works better in different areas of the brain, we have the capability to do that. I personally think that's very cool.",
+      "textZh": "那么，嘿，我是扎克。我在微加工团队工作。我协助制造植入物。总的来说，我觉得有一件事真的很酷，那就是，你知道，这本质上是一个平台，所以我们可以用各种方式改变设计。因此，如果我们发现某种设计、电极尺寸或电极数量在大脑的不同区域效果更好，我们有能力做到这一点。我个人觉得这非常酷。",
+      "speakerZh": "扎克（Neuralink）"
+    },
+    {
+      "id": "p-0219",
+      "speakerEn": "Moderator",
+      "startSec": 3256.74,
+      "textEn": "Fantastic. Anyone else? Dan do you have something to add?",
+      "textZh": "太棒了。还有别人吗？丹，你有什么要补充的吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0220",
+      "speakerEn": "Neuralink Team",
+      "startSec": 3259.54,
+      "textEn": "Yeah, I think one of the things that's allowed us to make such fast progress in the last few months is the use of pigs as a model. And we started out using, choosing pigs because of very similar anatomy of their skull to humans, same thickness and similar kind of membrane, dural membrane. But then as time went on, we realized that pigs are actually have amazing other properties. You can train them to walk on treadmills, you can train them to do all kinds of tricks.",
+      "textZh": "对，我认为，让我们在过去几个月里取得如此快速进展的因素之一，是使用猪作为模型。我们一开始使用、选择猪，是因为它们的头骨解剖结构与人类非常相似，厚度相同，并有类似的膜，也就是硬脑膜。但后来随着时间推移，我们意识到猪其实还具有其他惊人的特性。你可以训练它们在跑步机上行走，也可以训练它们做各种把戏。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0221",
+      "speakerEn": "Neuralink Team",
+      "startSec": 3285.9,
+      "textEn": "And also that they have this large representation of the snout in the cortex, which you can very easily stimulate. So the question would be, why are we using pigs? And I think we've even surprised ourselves at how useful they are as a model in this respect. And another important point is that it's very easy to keep pigs happy. They. They have very low needs, and so we can build an environment in which they have amazingly good welfare.",
+      "textZh": "而且，它们的吻部在大脑皮层中有很大的表征区域，你可以非常容易地刺激这个区域。所以问题会是，我们为什么使用猪？我想，就它们作为这方面的模型有多么实用而言，甚至连我们自己都感到惊讶。另一个重要之处是，让猪保持快乐非常容易。它们。它们的需求非常低，所以我们可以营造一种环境，让它们享有好得惊人的福利。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0222",
+      "speakerEn": "Moderator",
+      "startSec": 3313.02,
+      "textEn": "They seem very happy about food.",
+      "textZh": "它们似乎对食物非常开心。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0223",
+      "speakerEn": "Elon Musk",
+      "startSec": 3314.7,
+      "textEn": "Yeah, it's easy to make pigs happy, basically. They love food. Pigs really love food. This is a true thing about pigs.",
+      "textZh": "对，基本上，让猪开心很容易。它们喜欢食物。猪真的很喜欢食物。这是关于猪的一件真事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0224",
+      "speakerEn": "Elon Musk",
+      "startSec": 3323.02,
+      "textEn": "So give them some straw and some things to play with and some friends to hang out with and good food and they're, they're, they're happy as pigs.",
+      "textZh": "所以，给它们一些稻草、一些可以玩的东西、一些可以一起待着的朋友，再给它们好吃的，它们就会，它们就会，它们就会像猪一样快乐。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0225",
+      "speakerEn": "Elon Musk",
+      "startSec": 3335.65,
+      "textEn": "And, and then, yeah, they're. Pigs are actually quite similar to people. So that's, you know, if we're going to figure out things for people, then pigs are a good choice. And they're also, they're quite robust creatures, like little tanks. And. And then I think one of the questions was, like, what? Like, is, Is the device itself robust? And it's like, well, you know, pig, pigs, they bustle around quite a lot and they bump into things and they headbutt each other at times and they're pretty animated.",
+      "textZh": "而且，而且然后，对，它们。猪其实和人相当相似。所以，你知道，如果我们要为人类弄清楚一些事情，那么猪是一个不错的选择。而且它们也是，它们是相当强健的生物，就像小型坦克。还有。而且我想其中一个问题是，像，什么？比如，这个设备本身坚固吗？这就像，嗯，你知道，猪，猪会四处闹腾得很厉害，它们会撞到东西，有时还会互相用头顶撞，而且它们相当活跃。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0226",
+      "speakerEn": "Elon Musk",
+      "startSec": 3366.14,
+      "textEn": "So if the device is lasting in the pig, as it lasted there for two months and still going strong, then that's a good sign that the device is robust for people.",
+      "textZh": "所以，如果这个设备能在猪体内持续运行，就像它已经在那里持续了2个月、而且仍然运行良好，那么这是一个好迹象，说明这个设备用于人类时也很坚固。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0227",
+      "speakerEn": "Moderator",
+      "startSec": 3377.9,
+      "textEn": "Fantastic. One common theme that's been coming up a lot on these Twitter questions coming in is that of availability. And so Matthias has a specific question on this, which is any estimate of how much it will cost at launch and what price it will reduce to over time.",
+      "textZh": "太棒了。这些不断收到的 Twitter 提问中，反复出现的一个共同主题是可获得性。所以 Matthias 对此有一个具体问题，那就是，能否估算一下它发布时要花多少钱，以及随着时间推移价格会降到多少。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0228",
+      "speakerEn": "Elon Musk",
+      "startSec": 3394.42,
+      "textEn": "I think at launch, it's probably going to be.",
+      "textZh": "我想在发布时，它可能会是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0229",
+      "speakerEn": "Elon Musk",
+      "startSec": 3398.58,
+      "textEn": "I would say that's not really representative because at first I think it's going to be quite expensive, but that price will very rapidly drop. And I think over time, we want to get the cost, obviously down as low as possible, but I think inclusive of the automated surgery, I think we want to get the price down to a few thousand dollars, something like that.",
+      "textZh": "我会说，那其实不具代表性，因为一开始我认为它会相当昂贵，但那个价格会非常迅速地下降。而且我认为，随着时间推移，我们显然希望把成本降得尽可能低，但我想，包括自动化手术在内，我们希望把价格降到几千美元，大概是这个水平。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0230",
+      "speakerEn": "Elon Musk",
+      "startSec": 3425.83,
+      "textEn": "And I think that's possible. I think it should be possible to get it similar to Lasik. And then the device electronics itself, I think will not be very expensive because it actually does use a lot of the parts that are made in extremely high volume in tens of millions of units for smartphones and smart watches and wearables in general.",
+      "textZh": "而且我认为这是可能的。我认为应该有可能把它做到与 LASIK 激光视力矫正手术差不多。然后，设备的电子部件本身，我认为不会非常昂贵，因为它实际上确实使用了很多以数千万件的规模、为智能手机、智能手表和一般可穿戴设备进行超大批量生产的零部件。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0231",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 3450.51,
+      "textEn": "Great.",
+      "textZh": "很好。",
+      "speakerZh": "Robin（Neuralink）"
+    },
+    {
+      "id": "p-0232",
+      "speakerEn": "Moderator",
+      "startSec": 3450.99,
+      "textEn": "So here's another question about the device. What does the architecture look like? Is it a cpu, arm, cpu? What's going on inside the device that you can talk about? DJ",
+      "textZh": "这是另一个关于设备的问题。它的架构是什么样的？是 CPU、ARM、CPU 吗？关于设备内部的情况，你能谈些什么？DJ",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0233",
+      "speakerEn": "Paul (Neuralink)",
+      "startSec": 3464.04,
+      "textEn": "I can talk a little bit about the digital architecture. It's fully custom. One of the most difficult challenges, I think, of building an implant is the energy density. So the more electrodes you record from, the more energy you're going to be consuming. And so there's just, there was nothing commercial out there. So there's an analog front end that's able to amplify these really small signals, like microvolt range, so that we can actually digitize them and then take those signals and then find exactly what we're looking for.",
+      "textZh": "我可以稍微谈谈数字架构。它是完全定制的。我认为，制造植入物最困难的挑战之一是能量密度。所以，你记录的电极越多，消耗的能量就越多。而且就是，当时市场上没有任何商用产品。所以这里有一个模拟前端，能够放大这些非常微弱的信号，比如微伏范围的信号，这样我们才能实际将它们数字化，然后获取这些信号，再准确找到我们要找的东西。",
+      "speakerZh": "Paul（Neuralink）"
+    },
+    {
+      "id": "p-0234",
+      "speakerEn": "Paul (Neuralink)",
+      "startSec": 3494.64,
+      "textEn": "And there was nothing out there that could basically do those two things. And so that's why we had to build a full custom asic. And so there's really, there's nothing, you know, like it out there. It's designed specifically to record signals from the brain and anything else is, would just be wasting energy.",
+      "textZh": "而市面上没有任何东西基本上能完成这两件事。所以这就是我们不得不制造一款完全定制的 ASIC 的原因。因此确实，你知道，市面上没有类似的东西。它是专门为记录大脑信号而设计的，任何其他东西都只会浪费能量。",
+      "speakerZh": "Paul（Neuralink）"
+    },
+    {
+      "id": "p-0235",
+      "speakerEn": "DJ Seo",
+      "startSec": 3514.81,
+      "textEn": "Yeah. So the thing that I would add to that is so there are obviously elements that we customize from ground up, like our neural amplifiers and some of the algorithms that we develop. But a lot of the other systems around it are really borrowing from parts that are already been productionized and available from the wearables industry. So BLE radio, a lot of the low power microprocessors that are part of it, a lot of small sensors.",
+      "textZh": "对。所以我想补充的是，显然，有些部件是我们从头开始定制的，比如我们的神经信号放大器和我们开发的一些算法。但它周围的很多其他系统，实际上借鉴了可穿戴设备行业已经实现量产并可供使用的部件。比如 BLE 无线电、其中包含的许多低功耗微处理器，以及许多小型传感器。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0236",
+      "speakerEn": "DJ Seo",
+      "startSec": 3539.53,
+      "textEn": "So there are obviously the neural sensors that we're developing that gives us kind of a unique data set for our applications. But really a lot of that is getting packaged up and, you know, just not really resisting the industry that's been sort of been laid out to really create these devices with very short amount of time.",
+      "textZh": "所以，显然有我们正在开发的神经传感器，它们为我们的应用提供了一种独特的数据集。但实际上，其中很多东西正被封装起来，而且，你知道，并不真正抗拒这个已经以某种方式铺展开来的行业，从而确实能在非常短的时间内制造出这些设备。",
+      "speakerZh": "DJ·徐"
+    },
+    {
+      "id": "p-0237",
+      "speakerEn": "Moderator",
+      "startSec": 3563.45,
+      "textEn": "So here's another question about the integrity of the device, more from a mechanical perspective. So, so you're replacing a piece of bone and replacing it with an implant and then the person is going to take that home. How does the integrity of the device fare compared to, I don't know, bone or something similar?",
+      "textZh": "这是另一个关于设备结构强度的问题，更多是从机械角度提出的。所以，所以你们要替换一块骨头，用植入物取而代之，然后这个人会带着它回家。与，我不知道，骨头或类似的东西相比，这个设备的结构强度如何？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0238",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 3583.56,
+      "textEn": "Sure. Well, I think Matt's probably replaced a lot of pieces of skull with plastic and other materials. So I don't know if you can talk about some of those. But yeah, basically, I mean, we know what the mechanical properties of bone are and we know what the stresses on the device are going to be. So it's fairly easy to just go from first principles and design for any condition that it might see.",
+      "textZh": "当然。嗯，我想 Matt 可能已经用塑料和其他材料替换过很多块颅骨了。所以我不知道你能否谈谈其中一些情况。不过对，基本上，我是说，我们知道骨骼的机械性能，也知道设备将要承受的应力。所以，只需从第一性原理出发，并针对它可能遇到的任何情况进行设计，是相当容易的。",
+      "speakerZh": "Robin（Neuralink）"
+    },
+    {
+      "id": "p-0239",
+      "speakerEn": "Elon Musk",
+      "startSec": 3609.41,
+      "textEn": "I mean, as you can see from the pigs, as I was saying earlier, the implants are obviously very robust because pigs move around vigorously, they roll around, they bang into the wall, they bang into each other, they do like headbutting and way more than people do, so. Well, sure, but you know, it's not like the pigs are just walking around very delicately.",
+      "textZh": "我是说，正如你们可以从这些猪身上看到的，就像我之前说的，植入物显然非常坚固，因为猪会剧烈地四处活动，它们会到处打滚，会撞墙，会互相碰撞，它们确实会用头顶撞，而且比人类频繁得多，所以。嗯，当然，但你知道，并不是说这些猪只是在非常小心翼翼地四处走动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0240",
+      "speakerEn": "Elon Musk",
+      "startSec": 3636.39,
+      "textEn": "They're high energy creatures. And I think it's clear that the implants are, has been going for a few months, still going strong despite a lot of vigorous activity from the pig. And, and it's difficult. You can't just explain to the pig, hey, you've got an implant in your head, why don't you take care of it? So it's got to be robust against a lot of head impacts, essentially. So I think maybe one of the things that isn't super obvious is that the implant itself is attached to the skull, but the electrodes have long threads.",
+      "textZh": "它们是精力旺盛的生物。而且我认为很明显，植入物已经，已经运行了几个月，尽管猪进行了大量剧烈活动，它仍然运行良好。而且，而且这很困难。你不可能直接向猪解释，嘿，你的脑袋里有一个植入物，你为什么不好好照顾它呢？所以它本质上必须能够抵御大量头部撞击。所以我想，也许有一点不是特别明显，那就是植入物本身固定在颅骨上，但电极带有很长的细线。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0241",
+      "speakerEn": "Elon Musk",
+      "startSec": 3672.39,
+      "textEn": "So you can have quite a lot of movement, relative movement between the brain and the skull without putting attention on the electrodes that are inserted in the, in the cortex. So. Well, let's see with that. Maybe a couple more questions or if anybody wants to make some comments and then we'll call it a day.",
+      "textZh": "所以，大脑和颅骨之间可以发生相当大的运动、相对运动，而不会把注意力放在插入，插入大脑皮层的电极上。所以。嗯，关于这个就先说到这里。也许再回答几个问题，或者如果有人想发表一些意见，然后我们今天就到此为止。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0242",
+      "speakerEn": "Felix Deku",
+      "startSec": 3689.64,
+      "textEn": "So I just want to add to what you just said. So the thread is actually also in the brain also because of their thinness, they're actually very flexible. And so as the pig is moving around and banging your head, the, the threads actually move with the brain, even the normal pulsation of the brain. And that help minimize stress within the brain tissue also. And that has a long term impact on the functionality of the device.",
+      "textZh": "所以我只想补充一下你刚才说的内容。细线实际上也位于大脑中，而且也是因为它们很细，所以实际上非常柔韧。因此，当猪四处活动并撞击你的头部时，这些，这些细线实际上会随大脑一起移动，甚至会随着大脑的正常搏动而移动。这也有助于最大限度地减小脑组织内的应力。而这会对设备的功能产生长期影响。",
+      "speakerZh": "Felix Deku"
+    },
+    {
+      "id": "p-0243",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 3716.21,
+      "textEn": "Zach, how long are the threads?",
+      "textZh": "Zach，这些细线有多长？",
+      "speakerZh": "Robin（Neuralink）"
+    },
+    {
+      "id": "p-0244",
+      "speakerEn": "Zach (Neuralink)",
+      "startSec": 3720.05,
+      "textEn": "Well, right now they're about 43 millimeters, but like I said, it's tunable. So if we want to hit deep brain regions or some other brain area, we totally can do that.",
+      "textZh": "嗯，目前它们大约是43毫米，但就像我说的，这是可调的。所以，如果我们想触及深部脑区或其他某个脑区，我们完全可以做到。",
+      "speakerZh": "Zach（Neuralink）"
+    },
+    {
+      "id": "p-0245",
+      "speakerEn": "Neuralink Team",
+      "startSec": 3729.67,
+      "textEn": "Just to follow up on what Felix said about the threads moving around with the brain, I mean, that's great for protecting the threads, but it equally serves to protect the tissue around it. We have a lot of different ways to image the tissue around the threads and iterate very quickly on doing Things to them that will improve the overall biocompatibility.",
+      "textZh": "接着菲利克斯所说的那些细线会随大脑移动这件事再补充一下，我的意思是，这对保护细线很好，但同样也能保护其周围的组织。我们有许多不同的方法可以对细线周围的组织进行成像，并非常迅速地迭代我们对它们所做的事情，从而改善整体生物相容性。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0246",
+      "speakerEn": "Moderator",
+      "startSec": 3747.35,
+      "textEn": "As a closing question, I thought we might go down the line, starting with Dan. And what I'm wondering is what is the number one thing on your wish list that you're really hoping that the neuralink device will do over time that you're working towards?",
+      "textZh": "作为最后一个问题，我想我们可以从丹开始，依次问下去。我想知道的是，在你们努力实现的目标中，你最希望 Neuralink 设备随着时间推移能够做到的第一件事是什么？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0247",
+      "speakerEn": "Neuralink Team",
+      "startSec": 3758.64,
+      "textEn": "So my background is in visual neuroscience. And one of the things I think has great potential for the neuralink is to provide a visual prosthesis for people who have retinal injury or blindness through eye injury. You can essentially plug a camera directly into the visual cortex and stimulate with an enormous array of thousands or maybe tens of thousands of electrodes to recreate a visual image. And in time, perhaps you can use that same technology in people who haven't lost vision to produce some kind of heads up display, something like Terminator or something like that.",
+      "textZh": "我的专业背景是视觉神经科学。我认为 Neuralink 极具潜力的用途之一，是为视网膜受损或因眼部受伤而失明的人提供视觉假体。你基本上可以把摄像头直接接入视觉皮层，并用由数千、或许数万个电极组成的庞大阵列进行刺激，以重建视觉图像。随着时间推移，也许你可以把同样的技术用在没有失去视力的人身上，生成某种抬头显示，就像《终结者》之类的东西。",
+      "speakerZh": "Neuralink 团队"
+    },
+    {
+      "id": "p-0248",
+      "speakerEn": "Moderator",
+      "startSec": 3793.12,
+      "textEn": "Wonderful.",
+      "textZh": "太好了。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0249",
+      "speakerEn": "Elon Musk",
+      "startSec": 3794.24,
+      "textEn": "In fact, it's worth saying that like over time we could actually give somebody supervision. Like you could have like ultraviolet or infrared or CN radar, basically name your frequency.",
+      "textZh": "事实上，值得一提的是，随着时间推移，我们实际上可以赋予某人监督能力。比如，你可以拥有紫外线、红外线或 CN 雷达，基本上随你说哪种频率。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0250",
+      "speakerEn": "Elon Musk",
+      "startSec": 3806.81,
+      "textEn": "You can just dynamically adjust the sensor or have sensors that feed into the visual cortex across a wide range of frequencies and actually have superhuman vision.",
+      "textZh": "你可以直接动态调整传感器，或者让传感器在很宽的频率范围内向视觉皮层输入信号，从而真正拥有超人的视觉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0251",
+      "speakerEn": "DJ Seo",
+      "startSec": 3820.81,
+      "textEn": "Yeah. So for me, telepathy. So I think it's incredible amount of effort to put your thoughts into a set of words and you know, it comes out completely compress. So being able to do that seamlessly without being able to compress it with all of the mechanisms would be great.",
+      "textZh": "是的。所以对我来说，是心灵感应。我认为，要把你的想法转化成一组词语，需要付出难以置信的大量努力，而且你知道，表达出来时完全经过了压缩。所以，能够无缝地做到这一点，而不用通过所有那些机制来压缩它，那会很棒。",
+      "speakerZh": "DJ Seo"
+    },
+    {
+      "id": "p-0252",
+      "speakerEn": "Elon Musk",
+      "startSec": 3839.34,
+      "textEn": "Yeah, it's like just a. Sorry to add further to that. In fact, when I did the Wait but why article, I think Tim thought I said consensual telepathy, but I said conceptual telepathy. We presume it would be consensual because you definitely don't want just people, you know, sending stuff into your brain without your consent. But a lot of our brain thought capacity is, goes into compressing our thoughts into words. And then you think of like the data rate of words.",
+      "textZh": "是的，这就像只是一个。抱歉，再补充一点。事实上，当我做《Wait But Why》那篇文章时，我想蒂姆以为我说的是“经同意的心灵感应”，但我说的是“概念性心灵感应”。我们假定它会是经同意的，因为你肯定不希望别人未经你的同意，就往你的大脑里发送东西。但我们大脑的许多思维能力，都用在把我们的想法压缩成词语上。然后你再想想词语的数据传输速率。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0253",
+      "speakerEn": "Elon Musk",
+      "startSec": 3877.08,
+      "textEn": "Words are a very slow, very low data rate. And we're putting a tremendous amount of mental energy into compressing the concepts and thoughts in our head into words. And then slowly talking speech is so very, very slow. And we could actually send the true thoughts that we can obviously have far better communication because we can convey the actual concepts, the actual thoughts uncompressed to somebody else.",
+      "textZh": "词语非常缓慢，数据传输速率非常低。我们正投入巨大的脑力，把头脑中的概念和想法压缩成词语。然后再慢慢地说出来，言语实在是非常、非常缓慢。如果我们真的能够发送真实的想法，我们显然就能进行好得多的交流，因为我们可以把未经压缩的实际概念、实际想法传达给另一个人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0254",
+      "speakerEn": "Moderator",
+      "startSec": 3902.7,
+      "textEn": "So non linguistic consensual and conceptual telepathy.",
+      "textZh": "所以，是非语言、经同意且概念性的心灵感应。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0255",
+      "speakerEn": "Elon Musk",
+      "startSec": 3906.42,
+      "textEn": "Exactly. Non linguistic, consensual conceptual telepathy.",
+      "textZh": "没错。非语言、经同意的概念性心灵感应。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0256",
+      "speakerEn": "Moderator",
+      "startSec": 3910.18,
+      "textEn": "There we go.",
+      "textZh": "这就对了。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0257",
+      "speakerEn": "Ian (Neuralink)",
+      "startSec": 3912.87,
+      "textEn": "I've actually been excited from the beginning, sort of about the side benefit of these Devices, I sort of see them as essentially like an oscilloscope to a printed circuit board is our device to the brain, where just by virtue of having us in there and being able to see what's actually going on, you'll end up learning a ton about how the brain works. And so sort of augmenting people, but also just using that to learn a lot more about like neurological diseases is really exciting to me.",
+      "textZh": "其实从一开始，我就对这些设备的附带益处感到兴奋。我某种程度上认为，我们的设备之于大脑，本质上就像示波器之于印刷电路板。仅仅因为我们把设备放在那里，并且能够看到实际发生的事情，你最终就会学到大量关于大脑如何运作的知识。所以，增强人的能力，同时也利用它来进一步了解神经系统疾病之类的事情，真的让我非常兴奋。",
+      "speakerZh": "伊恩（Neuralink）"
+    },
+    {
+      "id": "p-0258",
+      "speakerEn": "Moderator",
+      "startSec": 3937.4,
+      "textEn": "Absolutely.",
+      "textZh": "当然。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0259",
+      "speakerEn": "Paul (Neuralink)",
+      "startSec": 3939,
+      "textEn": "So to sort of follow up on Elon's thoughts, I feel, and I imagine a lot of other people feel the same way, that there's a lot of sort of trapped creativity in your mind. You know, you can, for example, you know, close your eyes and conjure up like an incredible, like Dali esque scene. But you know, if I wanted to actually show someone that it would, yeah, it would take years of, you know, honing a craft to be able to paint that.",
+      "textZh": "所以，接着埃隆的想法来说，我觉得，而且我想很多其他人也有同感，你的头脑中有大量某种被困住的创造力。比如说，你知道，你可以闭上眼睛，想象出一个令人惊叹的、仿佛达利风格的场景。但你知道，如果我真的想把它展示给某个人看，那就会，是的，就会需要花上数年时间，你知道，磨炼一门技艺，才能把它画出来。",
+      "speakerZh": "保罗（Neuralink）"
+    },
+    {
+      "id": "p-0260",
+      "speakerEn": "Paul (Neuralink)",
+      "startSec": 3961.56,
+      "textEn": "And so, you know, potential with enough electrodes in the right places, you could begin to sort of tap into those raw concepts or thought vectors and be able to decode that and show people. It could be for art, you imagine, music, or even for engineering, like a three dimensional model.",
+      "textZh": "所以，你知道，如果在正确的位置放置足够多的电极，就有可能开始以某种方式触及那些原始概念或思维向量，并且能够将其解码并展示给人们。你可以想象，它可以用于艺术、音乐，甚至工程，比如一个三维模型。",
+      "speakerZh": "保罗（Neuralink）"
+    },
+    {
+      "id": "p-0261",
+      "speakerEn": "Moderator",
+      "startSec": 3978.23,
+      "textEn": "So mental artistry is a new field.",
+      "textZh": "所以，心智艺术是一个新领域。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0262",
+      "speakerEn": "Neuralink Team",
+      "startSec": 3983.51,
+      "textEn": "I like to think about ways to interface devices with biology better. And so one of the things I'm looking forward to is getting this thing to be less look less like technology and more like biology, so that it really is, you know, seamlessly interface with the brain stable for a very long time. And then similar to that, having stimulation be much more precise and multidimensional, such that eventually the brain sort of doesn't really know if it's being stimulated from outside or inside and.",
+      "textZh": "我喜欢思考让设备与生物体更好连接的方法。所以，我期待的事情之一，就是让这个东西看起来更少像技术、更多像生物体，从而使它真正地，你知道，与大脑无缝连接并长期保持稳定。与此类似，也让刺激变得精确得多、更加多维，以至于最终大脑某种程度上真的不知道自己受到的刺激是来自外部还是内部，而且。",
+      "speakerZh": "Neuralink团队"
+    },
+    {
+      "id": "p-0263",
+      "speakerEn": "Neuralink Team",
+      "startSec": 4015.67,
+      "textEn": "And you end up just sort of completely merging.",
+      "textZh": "然后你最终就会在某种程度上完全融合。",
+      "speakerZh": "Neuralink团队"
+    },
+    {
+      "id": "p-0264",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 4019.83,
+      "textEn": "Wow.",
+      "textZh": "哇。",
+      "speakerZh": "罗宾（Neuralink）"
+    },
+    {
+      "id": "p-0265",
+      "speakerEn": "Joey O'Doherty",
+      "startSec": 4021.51,
+      "textEn": "Yeah. You know, following up on stimulation, one of the things our device can do is simultaneously read and write on every channel, stimulate and record. And that's both a more challenging problem than it may seem like at first, but also incredibly exciting. The sort of the vistas that it opens up, I mean, it's really kind of the whole game in terms of interaction, interfacing with the nervous system. And I'm very excited to use that.",
+      "textZh": "是的。你知道，接着刺激来说，我们的设备能做的一件事，就是同时在每个通道上进行读取和写入，也就是刺激和记录。这既是一个比乍看之下可能更具挑战性的问题，也令人难以置信地兴奋。它所开辟的那种前景，我的意思是，就与神经系统进行交互和连接而言，这确实可以说是整个关键所在。我非常期待使用它。",
+      "speakerZh": "乔伊·奥多尔蒂"
+    },
+    {
+      "id": "p-0266",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 4047.75,
+      "textEn": "Yeah, I'm excited just because of the scalability of the device. We're doing everything in house and all of it can scale to more channels, more brain regions, et cetera. I think. Yeah, I'm really interested about solving things related to anxiety or depression or even like removing fear. Like I'm an athlete and to like rock climb without fear would be pretty,",
+      "textZh": "是的，我感到兴奋，只是因为这款设备具有可扩展性。所有事情我们都在内部完成，而且全都可以扩展到更多通道、更多脑区等等。我想。是的，我真的很有兴趣解决与焦虑或抑郁相关的问题，甚至比如消除恐惧。比如我是一名运动员，而要是能毫无恐惧地攀岩，那会相当，",
+      "speakerZh": "罗宾（Neuralink）"
+    },
+    {
+      "id": "p-0267",
+      "speakerEn": "Elon Musk",
+      "startSec": 4067.51,
+      "textEn": "maybe A little bit of fear, just a little.",
+      "textZh": "也许还是要有一点点恐惧，就一点点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0268",
+      "speakerEn": "Robin (Neuralink)",
+      "startSec": 4070.53,
+      "textEn": "And also it'd be great if we could make the pigs fly. But",
+      "textZh": "而且，如果我们能让猪飞起来，那也会很棒。但是",
+      "speakerZh": "罗宾（Neuralink）"
+    },
+    {
+      "id": "p-0269",
+      "speakerEn": "Matthew MacDougall",
+      "startSec": 4076.85,
+      "textEn": "I think we have an incredible opportunity to limit human suffering to a tiny fraction of what it is today in all kinds of different avenues. Pain being the essence of suffering, we might be able to control that finally. And so many other diseases, so much other suffering in the world. I think the neuralink device could help a lot with.",
+      "textZh": "我认为，我们拥有一个难以置信的机会，可以从各种不同的途径，把人类的痛苦限制到今天的一小部分。疼痛是痛苦的本质，我们也许终于能够控制它。还有如此多的其他疾病，世界上如此多的其他痛苦。我认为Neuralink设备能够在很大程度上帮助解决。",
+      "speakerZh": "马修·麦克杜格尔"
+    },
+    {
+      "id": "p-0270",
+      "speakerEn": "Moderator",
+      "startSec": 4101.02,
+      "textEn": "Amazing.",
+      "textZh": "太不可思议了。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0271",
+      "speakerEn": "Elon Musk",
+      "startSec": 4102.7,
+      "textEn": "I think all these things are great functions for a neural link.",
+      "textZh": "我认为，所有这些对于神经连接来说都是很棒的功能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0272",
+      "speakerEn": "Elon Musk",
+      "startSec": 4110.3,
+      "textEn": "I think on a species level basis, I think it's going to be important for us to figure out how we coexist with advanced artificial intelligence. And, you know, I think achieving some kind of AI symbiosis where you have an AI extension of yourself, like a tertiary layer above the limbic system and cortex.",
+      "textZh": "我认为，从物种层面来说，弄清楚我们如何与先进人工智能共存，对我们而言会很重要。而且，你知道，我认为要实现某种AI共生，让你拥有一个作为自身延伸的AI，就像位于边缘系统和大脑皮层之上的第三层。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0273",
+      "speakerEn": "Elon Musk",
+      "startSec": 4135.99,
+      "textEn": "And having that, having that symbiosis be good, such that the future of the world is controlled by the combined will of the people of Earth. I think that that's obviously going to be the future that we want, presumably is the sum of our collective will. And so I think it's going to be important from an existential threat standpoint to achieve a good AI symbiosis. And that's what I think might be the most important thing that a device like this achieves.",
+      "textZh": "并且让那种、让那种共生关系是良性的，使世界的未来由地球上人们的共同意志所掌控。我认为，这显然会是我们想要的未来，大概也就是我们集体意志的总和。因此，我认为，从生存威胁的角度来看，实现良好的AI共生会很重要。而我认为，这或许就是这种设备所能实现的最重要的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0274",
+      "speakerEn": "Neuralink Team",
+      "startSec": 4169.38,
+      "textEn": "I have in many ways a very basic science interest, which is I'm really interested in the nature of consciousness and that there's a lot of very silly philosophy that's been written about it over the last thousand years. But I think that it's really. We've been very limited by the tools and our ability to interrogate and measure the brain. And as these tools get better, it will pull it into the realm of physics. And it's really one of the last big great mysteries in science.",
+      "textZh": "从许多方面来说，我对一个非常基础的科学问题感兴趣，那就是我真的对意识的本质很感兴趣，而过去一千年里，人们围绕它写了许多非常愚蠢的哲学论述。但我认为，这其实。我们一直受到工具以及探查和测量大脑的能力的极大限制。随着这些工具变得更好，它会把这个问题带入物理学的领域。而这确实是科学中最后几个重大的伟大谜题之一。",
+      "speakerZh": "Neuralink团队"
+    },
+    {
+      "id": "p-0275",
+      "speakerEn": "Felix Deku",
+      "startSec": 4197.499,
+      "textEn": "So for me, can you imagine a disease free future, a future where you know what's going to happen to you before it happens, so you can prevent it? With these devices, we'll be able to not just pick up electrical signals, but we can also pick up chemical clues in the brain. And if you're successful, which I know we are, we're able to kind of prevent ahead of time, you know, diseases. And really the functionality of the device is widespread.",
+      "textZh": "所以对我来说，你能想象一个没有疾病的未来吗？一个在事情发生之前，你就知道自己身上会发生什么、因而可以加以预防的未来？借助这些设备，我们不仅能够获取电信号，还能获取大脑中的化学线索。如果你成功了，而我知道我们会成功，我们就能以某种方式提前预防，你知道，疾病。而且这款设备的功能确实非常广泛。",
+      "speakerZh": "费利克斯·德库"
+    },
+    {
+      "id": "p-0276",
+      "speakerEn": "Felix Deku",
+      "startSec": 4226.23,
+      "textEn": "So I'm looking forward to the future.",
+      "textZh": "所以，我期待未来。",
+      "speakerZh": "费利克斯·德库"
+    },
+    {
+      "id": "p-0277",
+      "speakerEn": "Zach (Neuralink)",
+      "startSec": 4229.83,
+      "textEn": "I'm really excited about the opportunity to help people overcome challenges that they face through life circumstances, bad luck through no fault of their own, spinal cord injury, brain disease, some devastating things that completely change your life. Hopefully we can help them get some function back.",
+      "textZh": "我真的很高兴有机会帮助人们克服他们因生活境遇、并非自身过错的坏运气、脊髓损伤、脑部疾病而面临的挑战，还有一些会彻底改变你生活的毁灭性事情。希望我们能帮助他们恢复一些功能。",
+      "speakerZh": "扎克（Neuralink）"
+    },
+    {
+      "id": "p-0278",
+      "speakerEn": "Autumn (Neuralink)",
+      "startSec": 4248.68,
+      "textEn": "I know and love many humans with autism spectrum disorder, so I'm really interested to see how the Neuralink might be able to support them if they chose to do that.",
+      "textZh": "我认识并爱着许多患有自闭症谱系障碍的人，所以我真的很想看看，如果他们选择这样做，Neuralink可能如何为他们提供支持。",
+      "speakerZh": "奥特姆（Neuralink）"
+    },
+    {
+      "id": "p-0279",
+      "speakerEn": "Sam (Neuralink)",
+      "startSec": 4262.53,
+      "textEn": "Yeah. So, I mean, everyone else along the line has had amazing ideas and suggestions, and for me, it's about memories, and everyone loses those memories over time. I already can't remember what happened to me when I was younger, and it'll only get worse. And so having a repository of memories that you can access whenever you want, if you're feeling down, you can go access some good memories. If you miss something or miss somebody, you can go and access those memories.",
+      "textZh": "是的。所以，我是说，这一路上的其他每个人都提出了很棒的想法和建议，而对我来说，重要的是记忆，每个人都会随着时间流逝而失去那些记忆。我已经记不得小时候发生在我身上的事情了，而且只会越来越糟。所以，拥有一个你随时都能访问的记忆库，如果你情绪低落，就可以去调取一些美好的记忆。如果你想念某件事或某个人，就可以去调取那些记忆。",
+      "speakerZh": "山姆（Neuralink）"
+    },
+    {
+      "id": "p-0280",
+      "speakerEn": "Sam (Neuralink)",
+      "startSec": 4287.91,
+      "textEn": "And I think that would just be such a life changing experience to be able to just tap into that.",
+      "textZh": "而我认为，能够直接接入那些记忆，会是一种如此改变人生的体验。",
+      "speakerZh": "山姆（Neuralink）"
+    },
+    {
+      "id": "p-0281",
+      "speakerEn": "Moderator",
+      "startSec": 4294.71,
+      "textEn": "Those are such a beautiful and diverse array of answers there.",
+      "textZh": "这些回答真是既美好又丰富多样。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0282",
+      "speakerEn": "Elon Musk",
+      "startSec": 4298.07,
+      "textEn": "Yeah. All right, well, thanks for tuning in. And as I said, please consider working at Neuralink and helping us solve these problems. There's a tremendous amount of work to be done to go from here to advice that is available, widely available, and affordable and reliable. So please consider joining us and supporting us in our mission. Thank you very much.",
+      "textZh": "是的。好了，感谢收看。正如我所说，请考虑来 Neuralink 工作，帮助我们解决这些问题。要从这里走到让建议可获得、广泛可获得、价格可负担且可靠，还有大量工作要做。所以，请考虑加入我们，支持我们的使命。非常感谢。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T07:49:43.458Z",
+    "reviewedAt": "2026-09-13T08:22:33.867Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:32.729Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "eafed6cde42f8c81b74da1871189a7142daac8cd5fa06070cf6f605bae9daeb6"
+}

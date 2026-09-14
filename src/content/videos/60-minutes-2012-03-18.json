@@ -1,0 +1,814 @@
+{
+  "id": "60-minutes-2012-03-18",
+  "slug": "60-minutes-2012-03-18",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2012-03-18",
+  "titleEn": "60 Minutes",
+  "titleZh": "60分钟",
+  "summaryEn": "Scott Pelley profiles Musk and SpaceX for CBS's 60 Minutes as the company prepares to fly cargo to the Space Station. Musk grows visibly emotional when asked about Apollo heroes Neil Armstrong and Gene Cernan criticizing commercial spaceflight.",
+  "summaryZh": "斯科特·佩利为 CBS《60分钟》节目采访马斯克并介绍 SpaceX，当时该公司正准备向空间站运送货物。在被问及阿波罗英雄尼尔·阿姆斯特朗和吉恩·塞尔南对商业航天的批评时，马斯克明显情绪激动。",
+  "sourceUrl": "https://www.youtube.com/watch?v=23GzpbNUyI4",
+  "sourceLabel": "60 Minutes",
+  "archiveUrl": "https://elonmuskarchive.org/video/60-minutes-2012-03-18",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/23GzpbNUyI4",
+  "thumbnailUrl": "https://i.ytimg.com/vi/23GzpbNUyI4/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 875,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 1.04,
+      "textEn": "60 minutes. Rewind.",
+      "textZh": "《60分钟》。回顾。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 5.36,
+      "textEn": "In the history of space flight, only four entities have launched a space capsule into orbit and successfully brought it back to the Earth. The United States, Russia, China, and Elon Musk. Mr. Musk is a wealthy Internet entrepreneur who has vowed to revolutionize space exploration by bringing down the astronomical costs. And that can't happen fast enough for NASA, which retired the shuttle last summer and now has to pay its old rival Russia to fly American astronauts into space.",
+      "textZh": "在航天史上，只有4个实体曾将太空舱送入轨道并成功带回地球：美国、俄罗斯、中国和埃隆·马斯克。马斯克先生是一位富有的互联网企业家，他誓言通过降低高得惊人的成本来彻底改变太空探索。对 NASA 而言，这件事越快实现越好，因为 NASA 去年夏天退役了航天飞机，如今不得不付钱给昔日的对手俄罗斯，让其将美国宇航员送入太空。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 39.72,
+      "textEn": "Musk is one of the contenders vying for a NASA contract to build America's next manned spacecraft, a contest he believes he has the right stuff to win.",
+      "textZh": "马斯克是争夺 NASA 合同的竞争者之一，该合同旨在建造美国下一代载人航天器；他相信自己具备赢得竞争的真材实料。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 58.36,
+      "textEn": "When the final shuttle mission ended last July, for the first time in three decades, the United States had no way to launch astronauts into space. It was the end of one era and the beginning of another.",
+      "textZh": "去年7月，最后一次航天飞机任务结束后，美国30年来首次失去了将宇航员送入太空的能力。一个时代就此终结，另一个时代由此开始。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 75.3,
+      "textEn": "Instead of NASA designing the next manned spacecraft, the White House decided that private industry should design, build and fly it, opening space to commercial development. One of the companies vying for that contract is Space X. Elon Musk is the founder and CEO. Is what we are experiencing at this moment in time the turning point in man's reach for space? Going from governments to private companies like yours?",
+      "textZh": "白宫决定不再由 NASA 设计下一代载人航天器，而是让私营企业负责设计、建造和飞行，从而向商业开发开放太空。争夺这份合同的公司之一是 SpaceX。埃隆·马斯克是其创始人兼首席执行官。我们此刻正在经历的，是否就是人类进军太空的转折点？从政府转向你们这样的私营公司？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 105.97,
+      "textEn": "I think we're at the dawn of a new era and I think it's going to be very exciting. What we're hoping to do with SpaceX is to push the envelope and provide a reason for people to be excited and inspired to be human.",
+      "textZh": "我认为我们正处于一个新时代的开端，我认为这会非常令人兴奋。我们希望通过 SpaceX 突破极限，让人们有理由因为身为人类而感到兴奋、受到鼓舞。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 117.82,
+      "textEn": "Musk is 40 years old, a naturalized American citizen, and reportedly worth nearly $2 billion. He isn't your typical corporate CEO. As a teenager, he wrote computer games in his native South Africa before immigrating to the US and to Silicon Valley, where he was one of the most successful Internet entrepreneurs. The the co founder of PayPal.",
+      "textZh": "马斯克40岁，是归化入籍的美国公民，据报道身家接近20亿美元。他不是典型的企业首席执行官。青少年时期，他在故乡南非编写电脑游戏，后来移民美国并前往硅谷，在那里成为最成功的互联网企业家之一。PayPal 的联合创始人。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 142.97,
+      "textEn": "Ladies and gentlemen, Mr. Elon Musk.",
+      "textZh": "女士们、先生们，有请埃隆·马斯克先生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 149.69,
+      "textEn": "Despite a chorus of skeptics, Musk built a car company called Tesla that turns out 5,000 high end all electric cars a year. Another Musk company sells solar power systems. But his lifelong passion is space. And when eBay bought PayPal in 2002, Musk started looking for ways to launch his new fortune into orbit.",
+      "textZh": "尽管质疑声此起彼伏，马斯克仍创办了一家名为 Tesla 的汽车公司，每年生产5,000辆高端纯电动汽车。马斯克的另一家公司销售太阳能发电系统。但他毕生的热情是太空。2002年 eBay 收购 PayPal 后，马斯克便开始寻找将新获得的财富送入轨道的方法。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 175.34,
+      "textEn": "I went to Russia to look at buying a refurbished icbm, which is a very trippy experience. It was very bizarre.",
+      "textZh": "我去了俄罗斯，想购买一枚翻新的洲际弹道导弹，那是一次非常迷幻的经历。感觉非常离奇。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 186.14,
+      "textEn": "And when I tell people that, like what?",
+      "textZh": "我把这件事告诉别人时，他们会说：什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 189.42,
+      "textEn": "Musk made three trips to Russia trying to buy an intercontinental ballistic missile called the Dnieper.",
+      "textZh": "马斯克3次前往俄罗斯，试图购买一种名为“第聂伯”的洲际弹道导弹。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 199.32,
+      "textEn": "His plan was bizarre. Put a greenhouse on the rocket, landed on Mars and beam back the pictures.",
+      "textZh": "他的计划十分离奇：在火箭上放置一座温室，让它在火星着陆，再把照片传回地球。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 205.88,
+      "textEn": "It'll get people really excited and that would recharge human space exploration. That was my original idea.",
+      "textZh": "这会让人们真正兴奋起来，并重新激发人类的太空探索。这就是我最初的想法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 210.84,
+      "textEn": "You just wanted to get people interested in space again?",
+      "textZh": "你只是想让人们重新对太空产生兴趣？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 212.96,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 213.48,
+      "textEn": "Capture the imagination.",
+      "textZh": "激发想象力。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 214.84,
+      "textEn": "Yes, that was the idea.",
+      "textZh": "是的，就是这个想法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 216.68,
+      "textEn": "Turns out the Dnieper was so expensive his idea never flew. So Musk decided that the only way to get an affordable rocket was to build it himself. And he started SpaceX.",
+      "textZh": "事实证明，“第聂伯”价格过于昂贵，他的构想从未升空。因此，马斯克认定，获得价格可负担的火箭只有一个办法，那就是自己建造。于是他创办了 SpaceX。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 229.37,
+      "textEn": "The odds, me coming into the rocket business, not knowing anything about rockets, not having ever built anything, I mean, I would have to be insane if I thought the odds were in my favor.",
+      "textZh": "从胜算来看，我进入火箭行业，对火箭一无所知，也从未造过任何东西。我的意思是，如果我认为胜算对自己有利，那我肯定是疯了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 237.45,
+      "textEn": "Why even begin?",
+      "textZh": "那为什么还要开始？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 239.45,
+      "textEn": "When something is important enough, you do it even if it's not in your favor.",
+      "textZh": "当一件事足够重要时，即使形势对你不利，你也要去做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 243.17,
+      "textEn": "How much of your personal fortune have you poured into this?",
+      "textZh": "你投入了多少个人财富？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 246.25,
+      "textEn": "$$100 million.",
+      "textZh": "$$1亿美元。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 247.426,
+      "textEn": "$$100 million into something that you did not believe would work at the beginning?",
+      "textZh": "把$$1亿美元投入一件你一开始并不相信会成功的事情？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 252.89,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 253.65,
+      "textEn": "Musk truly believes that low cost space exploration is essential to the survival of mankind.",
+      "textZh": "马斯克真心相信，低成本太空探索对于人类的生存至关重要。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 260.61,
+      "textEn": "I think it's important that humanity become a multi planet species. I think most people would agree that a future where we are a space faring civilization is inspiring and exciting compared with one where we are forever confined to Earth until some eventual extinction event. That's really why I started SpaceX.",
+      "textZh": "我认为，让人类成为一个多行星物种非常重要。我想大多数人都会同意：与人类永远被困在地球上、直到某次最终的灭绝事件到来相比，一个我们成为太空文明的未来更加鼓舞人心，也更加令人兴奋。这才是我创办 SpaceX 的真正原因。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 278.21,
+      "textEn": "SpaceX is housed in a sprawling factory near Los Angeles where fuselages for Boeing 747s used to be built.",
+      "textZh": "SpaceX 坐落在洛杉矶附近一座规模庞大的工厂内，那里过去曾用于制造波音747的机身。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 287.82,
+      "textEn": "From its beginning 10 years ago, its goal has been revolutionary change in rocket and spacecraft manufacturing. Now tell me, what's that big piece right up there?",
+      "textZh": "从10年前创办之初起，它的目标就是彻底改变火箭和航天器的制造方式。现在告诉我，上面那个大家伙是什么？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 299.26,
+      "textEn": "That's the second stage of a Falcon 9 rocket.",
+      "textZh": "那是猎鹰9号火箭的第二级。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 303.66,
+      "textEn": "Instead of multiple companies building parts all across the country, SpaceX builds most of its rockets and spacecraft in house, based on Musk's belief that it's more efficient and lowers costs. 1400 engineers and skilled technicians work here building engines, rockets, space capsules, creating mostly from scratch the thousands of components that are the guts of a rocket.",
+      "textZh": "SpaceX 没有让多家公司在全国各地分别制造零部件，而是在内部制造其大部分火箭和航天器，因为马斯克相信，这样效率更高，也能降低成本。1,400名工程师和熟练技术人员在这里制造发动机、火箭和太空舱，并从零开始制造构成火箭核心的数千个部件中的绝大部分。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 330.42,
+      "textEn": "So what that means is raw metal comes in and then we build the engines, the airframe, the electronics, and we integrate all of that together. And that's all done more or less under one roof.",
+      "textZh": "也就是说，原料金属运进来，然后我们制造发动机、机身和电子设备，再把所有东西集成到一起。这些工作基本上都在同一座厂房内完成。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 343.13,
+      "textEn": "Metal comes in one end of this factory, spaceships come out the other.",
+      "textZh": "金属从工厂的一端运进来，飞船从另一端出来。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 347.49,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 348.09,
+      "textEn": "Final assembly takes place at the Cape Canaveral launch pad.",
+      "textZh": "总装工作在卡纳维拉尔角发射台进行。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 351.69,
+      "textEn": "If the margin is there and we don't then have margin to the fourth power, that's fine.",
+      "textZh": "如果裕度已经存在，而我们之后没有达到四次方的裕度，那也没关系。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 356.09,
+      "textEn": "Musk has college degrees in business and physics, but SpaceX is his first venture in aerospace. He builds himself. And as chief designer and chief technology officer, how did you get the expertise to be the chief technology officer of a rocket ship company?",
+      "textZh": "马斯克拥有商业和物理学的大学学位，但 SpaceX 是他首次涉足航空航天领域。他亲自参与制造。作为首席设计师兼首席技术官，你是如何获得专业知识，成为一家火箭飞船公司的首席技术官的？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 374.27,
+      "textEn": "Well, I do have a physics background that's helpful as a foundation. And then I read a lot of books and talked To a lot of",
+      "textZh": "嗯，我确实有物理学背景，这能提供有益的基础。之后，我读了很多书，还与很多",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 381.39,
+      "textEn": "smart people, you're self taught.",
+      "textZh": "聪明人交流过。你是自学成才的。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 384.03,
+      "textEn": "Yeah, well, self taught, yes, meaning I don't have an aerospace degree.",
+      "textZh": "是的，嗯，自学成才，是的，也就是说我没有航空航天学位。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 388.71,
+      "textEn": "So how did you go about acquiring the knowledge?",
+      "textZh": "那么，你是如何获取这些知识的？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 391.31,
+      "textEn": "Well, I, like I said, I read a lot of books, talked to a lot of people and have a great team.",
+      "textZh": "嗯，正如我所说，我读了很多书，与很多人交流，而且拥有一支出色的团队。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 396.65,
+      "textEn": "His team is a mixture. There are newcomers, mostly 30something engineers, some of them straight out of college. And then there are the skilled technicians and aerospace veterans. Former NASA astronaut Garrett Reisman spent three months aboard the space station and flew on one of the final shuttle missions. He was brought in to help oversee the company's manned space work. You know, I'm curious, you have so much background in engineering, you could have easily gotten a job at Boeing or at Lockheed, but you came here.",
+      "textZh": "他的团队由不同的人组成。有新人，其中大多是30多岁的工程师，有些刚从大学毕业。还有熟练技术人员和航空航天业的老手。前 NASA 宇航员加勒特·赖斯曼曾在空间站驻留3个月，并参加过最后几次航天飞机任务中的一次。他受聘来协助监督公司的载人航天工作。你知道，我很好奇，你拥有如此丰富的工程背景，本可以轻松地在波音或洛克希德找到工作，但你却来到了这里。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 428.59,
+      "textEn": "If you had a chance to go back in time and work with Howard Hughes when he was creating twa, if you had a chance to be there at that moment when it was the dawn of a brand new era, wouldn't you want to do that? I mean, that's, that's why I'm here",
+      "textZh": "如果你有机会回到过去，在霍华德·休斯创办环球航空公司时与他共事；如果你有机会亲历一个全新时代刚刚开启的那个时刻，难道你不想这样做吗？我的意思是，这就是我来到这里的原因。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 441.23,
+      "textEn": "and that's why most of the engineers we met are here. Building spaceships is the chance of a lifetime. If you reach the point of having a successful manned flight, what will you have proven?",
+      "textZh": "也是我们遇到的大多数工程师来到这里的原因。建造飞船是一生难逢的机会。如果你们成功实现载人飞行，那将证明什么？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 453.32,
+      "textEn": "We're not doing it to prove anything, you know, we know it can be done.",
+      "textZh": "我们这样做并不是为了证明什么。你知道，我们知道这是可以做到的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 458.2,
+      "textEn": "We're just trying to do it a",
+      "textZh": "我们只是想把它做得更",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 459.24,
+      "textEn": "little bit differently, a little bit faster and to push the, push the fence a little bit farther out and then we can all go. I mean, I want to go into space. I assume most people here do as well.",
+      "textZh": "以稍微不同的方式，稍微快一点，把，把边界再往外推一点，然后我们大家就都能去了。我的意思是，我想去太空。我想这里的大多数人也一样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 468.24,
+      "textEn": "How many want to ride?",
+      "textZh": "有多少人想搭乘？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 471.41,
+      "textEn": "Okay, everybody wants to go.",
+      "textZh": "好吧，所有人都想去。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 473.25,
+      "textEn": "I'm not so sure.",
+      "textZh": "我可不太确定。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 475.57,
+      "textEn": "First stage sequence initially, 3, 2, 1.",
+      "textZh": "第一级初始程序，3、2、1。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 481.89,
+      "textEn": "Four years after starting, SpaceX rolled out its first rocket, an unmanned booster called the Falcon 1. Falcon has cleared the tower, but the first three test flights failed to reach orbit.",
+      "textZh": "创办4年后，SpaceX推出了第一枚火箭，一种名为猎鹰1号的无人运载火箭。猎鹰已飞离发射塔，但前3次试飞均未能进入轨道。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 494.69,
+      "textEn": "We are hearing from the launch control center that there has been an anomaly on the vehicle.",
+      "textZh": "我们从发射控制中心获悉，飞行器出现了异常。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 500.21,
+      "textEn": "When you had that third failure in a row, did you think, I need to pack this in?",
+      "textZh": "当你们连续第3次失败时，你有没有想过，我得就此收手了？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 507.14,
+      "textEn": "Never.",
+      "textZh": "从来没有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 508.98,
+      "textEn": "Why not?",
+      "textZh": "为什么没有？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 510.1,
+      "textEn": "I don't ever give up. I mean, I'd have to be dead or completely incapacitated.",
+      "textZh": "我绝不会放弃。我的意思是，除非我死了或完全丧失行动能力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 516.74,
+      "textEn": "It turned out that the third failure was caused by a two second glitch in the timing.",
+      "textZh": "后来发现，第3次失败是由计时中一个持续2秒的故障造成的。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 524.18,
+      "textEn": "Eight weeks later, Musk bet the company on another flight.",
+      "textZh": "8周后，马斯克把公司押在了另一次飞行上。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 529.28,
+      "textEn": "We have liftoff.",
+      "textZh": "我们升空了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 530.48,
+      "textEn": "And this time around, everything worked perfect.",
+      "textZh": "而这一次，一切都完美运行。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 534.96,
+      "textEn": "If that fourth launch hadn't worked, that would have been it. We would have not had the resources to mount a fifth.",
+      "textZh": "如果第4次发射没有成功，那就全完了。我们将没有资源组织第5次发射。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 541.44,
+      "textEn": "You couldn't have gone on at that point?",
+      "textZh": "到那时你们就无法继续了？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 543.92,
+      "textEn": "Yes, death Would have been, I think, inevitable because we did not have the resources to. To mount a fifth launch.",
+      "textZh": "是的，我认为，倒闭将不可避免，因为我们没有资源去，去组织第5次发射。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 550.32,
+      "textEn": "This is a tricky business.",
+      "textZh": "这一行很棘手。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 553.48,
+      "textEn": "Yeah, the.",
+      "textZh": "是啊，这个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 555.56,
+      "textEn": "Yeah, I wish it wasn't so hard.",
+      "textZh": "是啊，我真希望它没这么难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 560.68,
+      "textEn": "The story will continue after this.",
+      "textZh": "稍后继续报道。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 571.24,
+      "textEn": "In 2010, SpaceX tested a larger, more powerful nine engine rocket called the Falcon 9 and an unmanned cargo capsule known as Dragon. It was the first privately developed rocket designed to carry cargo and eventually astronauts to the space station.",
+      "textZh": "2010年，SpaceX测试了一枚更大、更强劲的9引擎火箭，名为猎鹰9号，以及一个名为龙飞船的无人货运舱。这是第一枚由私营企业研发、旨在把货物并最终把宇航员送往空间站的火箭。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 589.09,
+      "textEn": "MVAC ignition confirmed 3.2 kilometers per second.",
+      "textZh": "确认MVAC点火，速度为每秒3.2公里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 593.33,
+      "textEn": "In its first test flight, the Dragon capsule performed flawlessly, orbiting the Earth twice before splashdown in the Pacific. The first time a private company had launched and recovered its own spacecraft. And this is a historic spacecraft.",
+      "textZh": "在首次试飞中，龙飞船表现得无可挑剔，绕地球飞行2圈后溅落太平洋。这是私营企业第一次发射并回收自己的航天器。而这是一艘具有历史意义的航天器。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 610.96,
+      "textEn": "It is, yeah.",
+      "textZh": "确实如此，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 611.88,
+      "textEn": "We came across the Dragon capsule while Musk was showing us around. You know what I noticed about your cargo ship is that it has windows.",
+      "textZh": "马斯克带我们参观时，我们见到了龙飞船。你知道我注意到你的货运飞船有什么吗？它有舷窗。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 620.08,
+      "textEn": "Yeah, absolutely. The windows are there in case there's an astronaut on board who wants to look out.",
+      "textZh": "是的，当然。舷窗在那里，是为了在有宇航员搭乘、想向外看时使用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 625.2,
+      "textEn": "But people don't put windows in cargo ships.",
+      "textZh": "但人们不会在货运飞船上装舷窗。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 627.4,
+      "textEn": "That's right, exactly.",
+      "textZh": "没错，正是如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 629.04,
+      "textEn": "So what that tells me is that this was never intended to be only a cargo ship.",
+      "textZh": "所以这告诉我，它从来就不打算只做一艘货运飞船。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 632.68,
+      "textEn": "No, no. The Dragon was always designed to carry astronauts.",
+      "textZh": "不，不。龙飞船从一开始就是为搭载宇航员而设计的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 636.26,
+      "textEn": "Musk says a manned version of the Dragon capsule will be safer than the space shuttle and a lot cheaper. Engineers are already designing escape rockets, life support equipment and computer guidance systems. They were studying seating for seven when we were there. Do you believe that your rocket will be the next American rocket to take an astronaut into space?",
+      "textZh": "马斯克说，载人版龙飞船将比航天飞机更安全，也便宜得多。工程师已经在设计逃逸火箭、生命保障设备和计算机导航系统。我们到访时，他们正在研究可供7人乘坐的座椅布局。你相信你们的火箭将成为下一枚把宇航员送入太空的美国火箭吗？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 661.27,
+      "textEn": "I believe that is the most likely outcome, yes.",
+      "textZh": "我相信这是最有可能的结果，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 663.75,
+      "textEn": "That sort of confidence has not exactly endeared him to the space establishment or to his competitors. There are people who've been in the rocketry business for decades who say about you that you don't know what you don't know.",
+      "textZh": "这种自信并没有让他受到航天界权威或竞争对手的喜爱。有些从事火箭行业数十年的人这样评价你：你不知道自己不知道什么。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 679.91,
+      "textEn": "Well, I suppose that's true of anyone. How can anyone know what they don't know?",
+      "textZh": "好吧，我想这对任何人都成立。任何人怎么可能知道自己不知道什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 685.07,
+      "textEn": "But when critics say, you can't do this, your answer to them is, we've done it. He's done it in partnership with NASA, which has given SpaceX technical advice and a contract worth up to $1.6 billion, mostly for 12 cargo flights to the space station. But SpaceX's lack of experience bothers some NASA legends like Apollo astronauts Neil Armstrong and Gene Cernan. They've testified to Congress that the Obama administration's drive to commercialize space could compromise safety and eventually cost the taxpayers.",
+      "textZh": "但当批评者说“你做不到”时，你对他们的回答是：“我们已经做到了。”他是与NASA合作做到的，NASA为SpaceX提供了技术建议和一份价值最高达16亿美元的合同，主要用于执行12次前往空间站的货运飞行。但SpaceX经验不足令一些NASA传奇人物感到担忧，例如阿波罗宇航员尼尔·阿姆斯特朗和吉恩·塞尔南。他们已在国会作证称，奥巴马政府推动太空商业化可能会危及安全，并最终让纳税人付出代价。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 720.39,
+      "textEn": "Now is the time to overrule this administration's pledge to mediocrity. You know, there are American heroes who don't like this idea. Neil Armstrong, Gene Cernan have both testified against commercial space flight in the way that you're developing it. And I wonder what you think of that.",
+      "textZh": "现在正是推翻本届政府甘于平庸这一承诺的时候。你知道，有些美国英雄不喜欢这个想法。尼尔·阿姆斯特朗和吉恩·塞尔南都作证反对你正在发展的这种商业航天。我想知道你对此有何看法。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 741.22,
+      "textEn": "I was very sad to see that because those guys are. Yeah, you know, those guys are heroes of mine. So it's really tough, you know, I wish they would come and visit and see the hardware that we're doing here and I think that would change their mind.",
+      "textZh": "看到这一幕，我非常难过，因为那些人是……是啊，你知道，那些人是我的英雄。所以这真的很难受。你知道，我希望他们能来参观，看看我们在这里制造的硬件，我认为这会改变他们的想法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 757.86,
+      "textEn": "They inspired you to do this, didn't they?",
+      "textZh": "是他们激励你做这件事的，不是吗？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 760.18,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 762.9,
+      "textEn": "And to see them casting stones in your direction,",
+      "textZh": "而看到他们向你投掷石块，",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 769.55,
+      "textEn": "difficult.",
+      "textZh": "很难受。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 771.31,
+      "textEn": "Did you expect them to cheer you on?",
+      "textZh": "你原本期望他们为你加油吗？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 775.31,
+      "textEn": "Certainly hoping they would.",
+      "textZh": "当然希望他们会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 777.39,
+      "textEn": "What are you trying to prove to them?",
+      "textZh": "你想向他们证明什么？",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 779.15,
+      "textEn": "What I'm trying to do is to make a significant difference in spaceflight and help make spaceflight accessible to almost anyone. And I would hope for as much support in that direction as we, as we can receive.",
+      "textZh": "我想做的是给航天飞行带来重大改变，并帮助让几乎所有人都有机会进行太空飞行。我希望在这个方向上获得我们、我们所能得到的尽可能多的支持。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 795.21,
+      "textEn": "President Obama made his support clear when he visited SpaceX's launch site just before Falcon 9's first test flight. As this animation shows, Elon Musk's next flight will be far more ambitious, carrying cargo all the way to the space station. It was scheduled to fly in February, but it's taken longer than expected to perfect the flight software. The flight will be a complicated rendezvous with a space station that is moving 17,000 miles an hour, 240 miles above the Earth.",
+      "textZh": "在猎鹰9号首次试飞前不久，奥巴马总统访问SpaceX发射场，明确表达了支持。正如这段动画所示，埃隆·马斯克的下一次飞行将更具雄心，要把货物一路运往空间站。此次飞行原定于2月进行，但完善飞行软件所花的时间超过预期。此次飞行将与一个位于地球上空240英里、以每小时17,000英里速度移动的空间站进行复杂交会。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "60 Minutes Correspondent",
+      "startSec": 828.75,
+      "textEn": "Okay, so it looks like our burn performance is nominal in the SpaceX mission control flight simulations are continuing, and if all goes well, SpaceX will begin routine space station cargo deliveries later this year. But the big prize is winning the NASA contract to build America's next manned spacecraft. And Elon Musk is facing stiff competition.",
+      "textZh": "好的，看起来我们的点火推进表现正常。SpaceX任务控制中心的飞行模拟仍在继续，如果一切顺利，SpaceX将在今年晚些时候开始例行向空间站运送货物。但真正的大奖是赢得NASA合同，建造美国下一艘载人航天器。而埃隆·马斯克正面临激烈竞争。",
+      "speakerZh": "《60分钟》记者"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 852.41,
+      "textEn": "I'm probably not the guy that most people would bet on who wins. It's like a little kid fighting a bunch of sumo wrestlers. Usually the sumo wrestlers win. We're a little scrappy company. Every now and again, little scrappy company wins. I think this will be one of those times.",
+      "textZh": "大多数人要下注谁会赢的话，可能不会押我。这就像一个小孩子和一群相扑选手打架。通常都是相扑选手赢。我们是一家小而顽强的公司。小而顽强的公司偶尔也会赢。我认为这次就会是其中之一。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T08:36:03.555Z",
+    "reviewedAt": "2026-09-12T17:38:26.334Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:25.093Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "78a67b519bb9731e178dcba84ff34ff4303006fb84c1bc397773c1d8a5948e2c"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "tesla-giga-shanghai-delivery-event-2020-01-07",
+  "slug": "tesla-giga-shanghai-delivery-event-2020-01-07",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2020-01-07",
+  "titleEn": "Tesla Giga Shanghai Delivery Event",
+  "titleZh": "Tesla上海超级工厂交付活动",
+  "summaryEn": "Musk dances on stage in Shanghai as Tesla hands over the first made-in-China Model 3 cars and announces the Model Y program.",
+  "summaryZh": "Tesla交付首批中国制造的Model 3汽车，并宣布启动Model Y项目，马斯克在上海的舞台上跳舞。",
+  "sourceUrl": "https://www.youtube.com/watch?v=3apCpl_Bwcg",
+  "sourceLabel": "The Megawatts",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-giga-shanghai-delivery-event-2020-01-07",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/3apCpl_Bwcg",
+  "thumbnailUrl": "https://i.ytimg.com/vi/3apCpl_Bwcg/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 79,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 14.4,
+      "textEn": "All right.",
+      "textZh": "好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 30.16,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 37.34,
+      "textEn": "All right, all right, all right, all right. Okay. Thank you. Thank you very much. Really want to thank, you know, the Tesla team and, and the, the government officials that have been really helpful in making this happen. You guys achieved, like, an incredible, incredible outcome that I think hardly anyone expected. And, you know, here we are with this kick ass factory and it looks great, you know, and it's, there's, you know, there's still obviously going to be challenges ahead.",
+      "textZh": "好，好，好，好。好的。谢谢。非常感谢。真的想感谢，你知道，Tesla团队，还有，还有那些为促成此事提供了很大帮助的，那些政府官员。你们取得了一个，怎么说，令人难以置信、难以置信的成果，我想几乎没人预料得到。而且，你知道，我们现在有了这座牛逼的工厂，而且它看起来棒极了，你知道，而且它，还有，你知道，显然未来仍会有挑战。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 68.66,
+      "textEn": "That's the way it goes. But I'm very impressed with this kind of work and you can get this done. You know, what else can we do? It's going to be a very exciting future. So.",
+      "textZh": "事情就是这样。但这种工作给我留下了非常深刻的印象，而你们可以把它完成。你知道，我们还能做些什么？未来将会非常令人兴奋。所以。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T02:20:53.545Z",
+    "reviewedAt": "2026-09-13T02:53:33.439Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:12.915Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "7435226ecb3c9fd5c59baee8c78eba91b908dabb5bbb4c9bcc9db4d3e3d15ff9"
+}

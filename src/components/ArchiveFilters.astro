@@ -1,0 +1,239 @@
+---
+import { RotateCcw } from "@lucide/astro";
+import { TYPE_LABELS } from "../lib/display";
+import type { VideoType } from "../lib/types";
+
+interface Props {
+  years: string[];
+  organizations: string[];
+  typeCounts: Partial<Record<VideoType, number>>;
+  total: number;
+}
+
+const { years, organizations, typeCounts, total } = Astro.props;
+---
+
+<form class="archive-filters" data-filter-form>
+  <fieldset class="type-filter">
+    <legend>类别</legend>
+    <div class="segments">
+      <label class="segment-option">
+        <input id="type-all" type="radio" name="type" value="all" checked />
+        <span class="segment-label">全部 <small>{total}</small></span>
+      </label>
+      {(Object.entries(TYPE_LABELS) as [VideoType, string][]).map(([value, label]) => (
+        <label class="segment-option">
+          <input id={`type-${value}`} type="radio" name="type" value={value} />
+          <span class="segment-label">{label} <small>{typeCounts[value] || 0}</small></span>
+        </label>
+      ))}
+    </div>
+  </fieldset>
+
+  <div class="select-filters">
+    <label>
+      <span>年份</span>
+      <select name="year">
+        <option value="all">全部年份</option>
+        {years.map((year) => <option value={year}>{year} 年</option>)}
+      </select>
+    </label>
+
+    <label>
+      <span>机构</span>
+      <select name="org">
+        <option value="all">全部机构</option>
+        {organizations.map((org) => <option value={org}>{org}</option>)}
+      </select>
+    </label>
+
+    <label>
+      <span>正文</span>
+      <select name="body">
+        <option value="all">全部状态</option>
+        <option value="available">有正文</option>
+        <option value="none">暂无正文</option>
+      </select>
+    </label>
+
+    <label>
+      <span>排序</span>
+      <select name="sort">
+        <option value="newest">时间：最新</option>
+        <option value="oldest">时间：最早</option>
+      </select>
+    </label>
+
+    <button class="reset-filters" type="reset" title="清除筛选">
+      <RotateCcw size={17} stroke-width={1.8} aria-hidden="true" />
+      <span>清除</span>
+    </button>
+  </div>
+</form>
+
+<style>
+  .archive-filters {
+    display: grid;
+    gap: 22px;
+    padding-block: 30px 26px;
+    border-bottom: 1px solid var(--line-dark);
+  }
+
+  fieldset {
+    min-width: 0;
+    margin: 0;
+    border: 0;
+    padding: 0;
+  }
+
+  legend,
+  .select-filters label > span {
+    margin-bottom: 8px;
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 560;
+  }
+
+  .segments {
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    border: 1px solid var(--line-dark);
+    border-radius: 5px;
+    background: var(--surface);
+    scrollbar-width: thin;
+  }
+
+  .segment-option {
+    position: relative;
+    flex: 1 0 auto;
+    border-inline-end: 1px solid var(--line);
+  }
+
+  .segment-option:last-child {
+    border-inline-end: 0;
+  }
+
+  .segment-option input {
+    position: absolute;
+    z-index: 1;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    opacity: 0;
+  }
+
+  .segment-label {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    min-height: 42px;
+    padding: 7px 14px;
+    color: var(--muted);
+    font-size: 0.86rem;
+    white-space: nowrap;
+  }
+
+  .segment-label small {
+    color: var(--muted);
+    font-size: 0.72rem;
+  }
+
+  .segment-option input:checked + .segment-label {
+    color: var(--surface);
+    background: var(--ink);
+  }
+
+  .segment-option input:checked + .segment-label small {
+    color: #cbd0cd;
+  }
+
+  .segment-option input:focus-visible + .segment-label {
+    position: relative;
+    outline: 3px solid var(--launch);
+    outline-offset: -3px;
+  }
+
+  .segment-option:hover .segment-label {
+    color: var(--ink);
+  }
+
+  .segment-option:hover input:checked + .segment-label {
+    color: var(--surface);
+  }
+
+  .select-filters {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(130px, 1fr)) auto;
+    gap: 12px;
+    align-items: end;
+  }
+
+  .select-filters label {
+    display: grid;
+  }
+
+  select {
+    width: 100%;
+    height: 42px;
+    border: 1px solid var(--line-dark);
+    border-radius: 4px;
+    padding: 0 36px 0 12px;
+    color: var(--ink);
+    background: var(--surface);
+    font-size: 0.86rem;
+  }
+
+  .reset-filters {
+    display: inline-flex;
+    gap: 7px;
+    align-items: center;
+    justify-content: center;
+    height: 42px;
+    border: 1px solid var(--line-dark);
+    border-radius: 4px;
+    padding-inline: 13px;
+    background: transparent;
+    font-size: 0.84rem;
+  }
+
+  .reset-filters:hover {
+    border-color: var(--ink);
+    background: var(--surface);
+  }
+
+  @media (max-width: 900px) {
+    .select-filters {
+      grid-template-columns: repeat(2, minmax(0, 1fr)) auto;
+    }
+  }
+
+  @media (max-width: 560px) {
+    .archive-filters {
+      gap: 18px;
+      padding-top: 24px;
+    }
+
+    .segments {
+      margin-inline: -14px;
+      width: calc(100% + 28px);
+      border-inline: 0;
+      border-radius: 0;
+    }
+
+    .segment-label {
+      padding-inline: 13px;
+    }
+
+    .select-filters {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .reset-filters {
+      grid-column: 1 / -1;
+    }
+  }
+</style>

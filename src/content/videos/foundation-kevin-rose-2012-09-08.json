@@ -1,0 +1,1078 @@
+{
+  "id": "foundation-kevin-rose-2012-09-08",
+  "slug": "foundation-kevin-rose-2012-09-08",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2012-09-08",
+  "titleEn": "Foundation with Kevin Rose",
+  "titleZh": "凯文·罗斯主持的《Foundation》",
+  "summaryEn": "In Kevin Rose's Foundation series, Musk talks at length about his childhood, learning by reading, starting companies, and his now-famous explanation of \"first principles\" reasoning — boiling problems down to fundamental truths rather than reasoning by analogy.",
+  "summaryZh": "在凯文·罗斯的《Foundation》系列节目中，马斯克详细谈到了自己的童年、通过阅读学习、创办公司，以及他如今广为人知的对“第一性原理”推理的解释——将问题归结为基本事实，而不是通过类比进行推理。",
+  "sourceUrl": "https://www.youtube.com/watch?v=L-s_3b5fRd8",
+  "sourceLabel": "Kevin Rose",
+  "archiveUrl": "https://elonmuskarchive.org/video/foundation-kevin-rose-2012-09-08",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/L-s_3b5fRd8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/L-s_3b5fRd8/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 1603,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Kevin Rose",
+      "startSec": 2.88,
+      "textEn": "Welcome to Foundation, a show where we profile some of the world's most interesting entrepreneurs. For more episodes, check out foundation kr. Today we're talking to Elon Musk, a founder at Tesla, SpaceX and PayPal. Let's go talk to him.",
+      "textZh": "欢迎收看《Foundation》，这是一档介绍世界上一些最有意思的创业者的节目。想看更多期节目，请查看 foundation kr。今天我们要采访埃隆·马斯克，他是 Tesla、SpaceX 和 PayPal 的创始人。我们去和他聊聊吧。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Kevin Rose",
+      "startSec": 20.24,
+      "textEn": "So let's start at the beginning. Where'd you grow up?",
+      "textZh": "那么我们从头说起吧。你是在哪里长大的？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 22.56,
+      "textEn": "I was born in South Africa, lived there till I was 17 and then moved by myself. Should I give you the whole story?",
+      "textZh": "我出生在南非，在那里一直生活到17岁，然后独自搬走了。我要把整个故事都讲给你听吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Kevin Rose",
+      "startSec": 29.11,
+      "textEn": "Yeah, I would love to hear the very beginning.",
+      "textZh": "好啊，我很想听听最开始的事情。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 32.55,
+      "textEn": "Sure. So yeah, I was born in Pretoria, South Africa, lived in Johannesburg, in Durban as well. Was able to travel to a few countries growing up within Africa and around the world. Went to the US when I was, I don't know, 10ish or something like that. And I read a lot of comics and books and stuff and always seems and stuff and things on technology and it always seemed like when there was cool technology or things happening, it was kind of in the United States.",
+      "textZh": "当然。对，我出生在南非比勒陀利亚，住过约翰内斯堡，也住过德班。小时候有机会去非洲境内和世界各地的几个国家旅行。我大概10岁左右去了美国，我也不清楚，差不多就是那个年纪。我读了很多漫画、书之类的东西，而且总是看起来还有关于科技的东西和事情，而且似乎每当有什么很酷的技术或事情发生时，地点差不多都是美国。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 60.21,
+      "textEn": "So my goal as a kid was to try to get to America basically.",
+      "textZh": "所以我小时候的目标基本上就是设法去美国。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Kevin Rose",
+      "startSec": 64.65,
+      "textEn": "What were your favorite comics?",
+      "textZh": "你最喜欢哪些漫画？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 66.29,
+      "textEn": "Well, I read every comic in the store.",
+      "textZh": "嗯，店里的每一本漫画我都读过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 70.53,
+      "textEn": "I like obviously the Batman, Superman stuff, I mean, the Green Lantern, Iron Man. Gotta not say Iron man first because then people will think. But I did think that was a pretty cool one.",
+      "textZh": "我当然喜欢蝙蝠侠、超人之类的，我是说，还有绿灯侠、钢铁侠。不能先说钢铁侠，因为那样人们就会觉得。不过我确实觉得那是个相当酷的角色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 86.69,
+      "textEn": "But I read everything like Doctor Strange.",
+      "textZh": "但我什么都读，比如奇异博士。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 92.77,
+      "textEn": "If there was a comic on the rack, I read it.",
+      "textZh": "只要书架上有漫画，我就会读。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Kevin Rose",
+      "startSec": 94.85,
+      "textEn": "Awesome. And when did you decide to get into computers and technology?",
+      "textZh": "太棒了。那你是什么时候决定进入计算机和科技领域的？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 98.61,
+      "textEn": "Did you start coding?",
+      "textZh": "你开始写代码了吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Kevin Rose",
+      "startSec": 100.61,
+      "textEn": "Or is it just a lot of noise, a lot of construction going on?",
+      "textZh": "还是只是噪声很大，有很多施工正在进行？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 103.97,
+      "textEn": "Can you still hear ok. Ok, we're good.",
+      "textZh": "你还能听清吗。好，没问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Kevin Rose",
+      "startSec": 106.45,
+      "textEn": "So did you start coding?",
+      "textZh": "那么你开始写代码了吗？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Kevin Rose",
+      "startSec": 109.53,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 109.85,
+      "textEn": "So when I was about 10 years old, I went into a store in South Africa and saw a Commodore Vic 20. And I guess maybe I was nine years old, I don't know, somewhere at that time. And I thought this was like the most awesome thing I'd ever seen. And you could make this, write computer programs and make games. And I played Atari and other things, other games, consoles, when I was like maybe six or seven. So the idea of being able to create games, that's always really exciting.",
+      "textZh": "所以在我大约10岁时，我走进南非的一家商店，看到了一台 Commodore VIC-20。我想当时我也可能是9岁，我不知道，大概就是那个时候。我觉得这简直是我见过的最棒的东西。你可以让这个，编写计算机程序和制作游戏。我大概6岁或7岁时玩过雅达利和其他东西、其他游戏、游戏机。所以，能够创作游戏这个想法一直都非常令人兴奋。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 144.63,
+      "textEn": "And so that was my first computer. It was a Commodore Vic 20. I think it had like 8k of memory.",
+      "textZh": "所以那就是我的第一台电脑。是一台 Commodore VIC-20。我记得它好像有8k内存。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Kevin Rose",
+      "startSec": 150.79,
+      "textEn": "And then what led you into entrepreneurship? Was it something that you always knew that you wanted to be an entrepreneur and start something on your own or did you stumble into it? Yeah,",
+      "textZh": "那么，是什么促使你走上创业道路的？你是不是一直都知道自己想成为创业者、独自创办些什么，还是说你是偶然走上这条路的？对，",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 163.2,
+      "textEn": "I wouldn't say that. I always knew that I wanted to be an entrepreneur. I actually wasn't sure what I wanted to do growing up. And I think at one point I thought, well, Inventing stuff or creating things would be a cool thing to do, but I wasn't really sure if that meant starting a company or whether that meant working for a company that made cool stuff.",
+      "textZh": "我不会这么说。我并非一直都知道自己想成为创业者。事实上，我小时候并不确定自己想做什么。我想有那么一段时间，我觉得，嗯，发明东西或创造事物会是一件很酷的事，但我并不确定那究竟意味着创办一家公司，还是去一家制造很酷东西的公司工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 189.06,
+      "textEn": "And in fact, when I first came out to Silicon Valley, it was to do grad studies at Stanford in applied physics, material science. And then in 95, I kind of thought the Internet would be something that would change the world in a major way and I wanted to be part of it. And actually what I first tried to do was I tried to get a job at Netscape, so I wouldn't actually try to start a company. I tried to get a job at Netscape.",
+      "textZh": "事实上，我最初来到硅谷，是为了在斯坦福大学攻读应用物理学、材料科学的研究生课程。后来在95年，我觉得互联网会成为一种以重大方式改变世界的事物，我想成为其中的一员。其实我最初尝试做的是去网景公司找份工作，所以我实际上并没有试图创办公司。我试过去网景公司找工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 214.35,
+      "textEn": "And then that didn't work out. No, I didn't get any reply. So, I mean, I had a physics and economics degree or physics and business degree from Wharton, and I was doing grad studies in applied physics and science. And I guess that, you know, I didn't have a computer science degree or several years working at a software company.",
+      "textZh": "然后那件事没成。不，我没有收到任何回复。所以，我是说，我有物理学和经济学学位，或者说沃顿商学院的物理学和商科学位，而且当时正在攻读应用物理学和科学的研究生课程。我想，你知道，我没有计算机科学学位，也没有在软件公司工作数年的经历。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 239.64,
+      "textEn": "Well, so for whatever reason, I didn't get a reply from Netscape. And I actually tried hanging out in the lobby, but I was. I was too shy to talk to anyone. So I was just like standing in the lobby and I. And then I just walk in.",
+      "textZh": "嗯，所以不管出于什么原因，我没有收到网景公司的回复。实际上我还试过在大堂里待着，但我当时。我太害羞了，不敢和任何人说话。所以我就那样站在大堂里，然后我。然后我就走进去。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Kevin Rose",
+      "startSec": 253.96,
+      "textEn": "Did you have your resume with you or was it.",
+      "textZh": "你当时带着简历吗，还是说。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 255.4,
+      "textEn": "Yeah, actually it was pretty embarrassing. I was just sort of standing there trying to see if there's someone I could talk to and then I just couldn't. I couldn't. I was too scared to talk to anyone. So then I left. Amazing.",
+      "textZh": "对，其实那相当尴尬。我就只是站在那里，试着看看有没有人可以和我谈谈，然后我就是做不到。我做不到。我太害怕了，不敢和任何人说话。所以后来我就离开了。太不可思议了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Kevin Rose",
+      "startSec": 267.63,
+      "textEn": "So then you went on to do what from that point?",
+      "textZh": "那么从那时起，你接下来去做了什么？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 273.23,
+      "textEn": "So then I just. I was just writing software that summer and it got to the start of the quarter for Stanford and I had to make a decision, so I decided to go on deferment. So I figure if I start a company and it doesn't work, then I can always go back to grad school. It's just, you know. So I talked to the chairman of the department and he let me go on deferment. And I said I'll probably be back in six months. And he said he's probably never going to hear from me again.",
+      "textZh": "然后我就只是。我那个夏天一直在写软件，等到斯坦福大学的学季开始时，我必须作出决定，所以我决定申请延期入学。我想，如果我创办一家公司但没有成功，那我随时可以回去读研究生。就是，你知道。所以我和系主任谈了谈，他允许我延期入学。我说我大概6个月后就会回来。他说他可能再也不会收到我的消息了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 297.04,
+      "textEn": "And he was correct. I've never spoken to him since.",
+      "textZh": "他说对了。从那以后，我再也没有和他说过话。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 301.48,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 303.72,
+      "textEn": "Yeah, so started company with my brother and a friend of mine, Greg Curry, and the three of us created Zip2, which, where the initial idea was to create software that could help bring the media companies online. So we helped in a small way bring companies like New York Times, Hearst Niter and so forth, bring them online. They weren't actually always online. People don't realize that.",
+      "textZh": "是的，所以我和我兄弟，还有我的一个朋友格雷格·柯里一起创办了公司，我们3个人创建了 Zip2，最初的想法是开发能帮助媒体公司上线的软件。所以我们以微薄之力帮助《纽约时报》、Hearst Niter 等公司上线。它们其实并非一直都在线。人们没有意识到这一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Kevin Rose",
+      "startSec": 329.97,
+      "textEn": "Were you the CEO at the time or did you give that role to someone else?",
+      "textZh": "当时你是首席执行官，还是把这个职位交给了别人？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 333.49,
+      "textEn": "Yeah, I started off being the CEO. So I was CEO for probably the first year and then.",
+      "textZh": "是的，我一开始担任首席执行官。所以我大概在第一年担任首席执行官，然后。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 341.73,
+      "textEn": "But after we got VC funding, the veg capitalist wanted to hire a professional CEO.",
+      "textZh": "但在我们获得风险投资后，那个蔬菜资本家想聘请一位职业首席执行官。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Kevin Rose",
+      "startSec": 348.59,
+      "textEn": "Was that frustrating or were you like, this is over my head. I'm ready to give up this role to someone else.",
+      "textZh": "那让你感到沮丧吗，还是你当时觉得，这超出了我的能力范围。我准备把这个职位交给别人。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 354.59,
+      "textEn": "At the time I thought it was a good idea because I didn't really know what I was doing. And I figured they would hire someone who would be really good and that person would increase the chances of success of the company. And so that seemed like a good thing. And then I could work on software and kind of product direction and that's what I like doing. So that seemed like a great thing. Now, in retrospect, I think that wasn't the best thing because the person that was hired, in my opinion, was actually not that great.",
+      "textZh": "当时我觉得这是个好主意，因为我确实不知道自己在做什么。而且我以为他们会聘请一个真正出色的人，那个人会提高公司成功的可能性。所以那似乎是件好事。然后我就可以从事软件和某种产品方向方面的工作，而那正是我喜欢做的。所以那似乎是件很棒的事。现在回过头看，我认为那并不是最好的做法，因为在我看来，受聘的那个人其实没有那么出色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 395.5,
+      "textEn": "So I think, yeah, I mean, I think quite frankly, the company succeeded in spite of that person, not because of them.",
+      "textZh": "所以我想，是的，我是说，坦率地说，我认为公司是在那个人的妨碍下取得成功的，而不是因为那个人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Kevin Rose",
+      "startSec": 404.77,
+      "textEn": "You know, starting a company for the first time is very challenging for a lot of people. They don't even know where to begin. You must have run into a lot of. I mean, we all made mistakes in starting our first company. As far as hiring, like you said, the people you bring in, like CEO that replaced you, did you surround yourself with mentors? How did you. Who did you look to for advice?",
+      "textZh": "你知道，第一次创办公司对很多人来说都非常具有挑战性。他们甚至不知道该从何着手。你肯定遇到过很多。我是说，我们第一次创业时都犯过错误。就招聘而言，就像你说的，你招进来的人，比如接替你的首席执行官，你有没有让导师围绕在自己身边？你是怎么。你会向谁寻求建议？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 424.59,
+      "textEn": "I read a lot of books and talked to lots of people. I didn't have any one person who was a mentor, but I always look for feedback from people around me and feedback from an historical context, which is books, basically. So that's.",
+      "textZh": "我读了很多书，也和很多人交谈过。我没有某一个具体的人作为导师，但我总是寻求周围人的反馈，也从历史背景中寻求反馈，基本上就是通过书籍。所以就是这样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Kevin Rose",
+      "startSec": 440.91,
+      "textEn": "Any books stand out as something that was something that you really relied upon. Well, are they just general business books or.",
+      "textZh": "有没有什么书特别突出，是你真正依赖的。嗯，它们只是一般的商业书籍，还是。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 449.99,
+      "textEn": "I didn't read actually very many general business books, but I like biographies and autobiographies. I think those are pretty helpful.",
+      "textZh": "其实我没有读过很多一般的商业书籍，但我喜欢传记和自传。我认为这些书相当有帮助。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 461.83,
+      "textEn": "So I like. And actually some aren't really business, although, like something like Franklin's, both his autobiography and say the biography that's recently been written by. Or not that recently, but In, I guess five or 10 years ago, whenever it was written. The biography of Bon Isaacson on Franklin is really good. You can sort of see how he kind of. Because he was an entrepreneur. I mean, he sort of started from nothing, actually was just like a runaway kid basically and created his printing business and sort of how he went about doing that.",
+      "textZh": "所以我喜欢。而且实际上有些并不算真正的商业书籍，不过，比如富兰克林的书，包括他的自传，以及比如最近由。或者也不是那么近，但我猜是在5年或10年前写的，不管具体是什么时候写的。邦·艾萨克森写的富兰克林传记非常好。你多少能看出他是怎样有点。因为他是一位企业家。我是说，他算是白手起家，实际上基本就是一个离家出走的孩子，然后创办了自己的印刷企业，以及他大致是如何着手做这件事的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 497.77,
+      "textEn": "And then over time he also did science and politics. Other. I would say certainly he's one of the people I most admire. Franklin's pretty awesome. But then I think it's also worth reading books on scientists and engineers. Tesla obviously.",
+      "textZh": "然后随着时间推移，他也从事科学和政治。其他。我会说，他当然是我最敬佩的人之一。富兰克林非常了不起。不过我认为，关于科学家和工程师的书也值得一读。Tesla，显然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Kevin Rose",
+      "startSec": 513.21,
+      "textEn": "Did you hear about that Tesla museum that they're having built now?",
+      "textZh": "你听说过他们现在正在建造的那座 Tesla 博物馆吗？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 516.01,
+      "textEn": "I actually contributed some funding to save the land.",
+      "textZh": "实际上我出了一些资金来保住那块土地。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Kevin Rose",
+      "startSec": 519.29,
+      "textEn": "Oh, that's great. Awesome. That was a very cool thing that Oatmeal did.",
+      "textZh": "哦，那太好了。真棒。Oatmeal 做的那件事非常酷。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 522.57,
+      "textEn": "Yeah, it was pretty cool. I like the way that they put it too. It's like, let's have a goddamn Tesla museum.",
+      "textZh": "是的，相当酷。我也喜欢他们表达这件事的方式。就像是，让我们建一座该死的 Tesla 博物馆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Kevin Rose",
+      "startSec": 531.65,
+      "textEn": "So fast forward a little bit. You know, you obviously did PayPal, that was very successful. And then at some point in time you're like, I'm gonna do something crazy, something that's never been done before with Tesla and the space related stuff you're into. I mean, why take on such huge, very ambitious type projects? I mean, did you have ever have a feeling like this might not work?",
+      "textZh": "那么稍微快进一点。你知道，你显然做了 PayPal，而且非常成功。然后在某个时刻，你就像是，我要做一件疯狂的事，一件以前从未有人做过的事，也就是 Tesla 和你所涉足的太空相关事务。我是说，为什么要承担如此庞大、如此雄心勃勃的项目？我是说，你是否曾经觉得，这可能行不通？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 552.53,
+      "textEn": "Oh yeah, absolutely. Well, so this kind of goes back to college where I was trying to figure out what are the things that would most affect the future of humanity. And the things that I thought would most affect the future would be the Internet sustainable energy, which is both production and consumption. And so effectively solar cities like production, Tesla's consumption in a sustainable way, and then also space exploration and specifically making life multi planetary.",
+      "textZh": "哦，是的，当然。嗯，这得追溯到大学时期，当时我试图弄清楚，哪些事物会对人类的未来产生最大影响。而我认为会对未来产生最大影响的事物是互联网、可持续能源，其中既包括生产也包括消费。所以实际上，像太阳城是生产，Tesla 是以可持续方式进行消费，然后还有太空探索，尤其是让生命成为多行星生命。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 582.55,
+      "textEn": "Now I didn't expect at the time to be involved in all those areas, but those are just the areas that I thought would most affect the future. And as it turned out, I've been fortunate enough to be involved in those areas, but that's the thread that connects them. It's like it's kind of my best guess at what would most likely affect the future in the biggest way.",
+      "textZh": "当时我并没料到自己会参与所有这些领域，但它们就是我认为会对未来产生最大影响的领域。事实证明，我足够幸运，能够参与这些领域，而这就是将它们串联起来的主线。就像是，这算是我对什么最有可能以最大的方式影响未来所作出的最佳猜测。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 601.75,
+      "textEn": "And when I first thought about doing something in space, the thing I was going to do was actually going to be a philanthropic mission to Mars to land a small greenhouse on the surface of Mars with seeds and dehydrated nutrient gel that you'd hydrate upon landing. You'd have this little greenhouse on Mars and you have this great shot of green plants on the red background. And the public tends to respond to precedents and superlatives.",
+      "textZh": "当我最初考虑在太空领域做些什么时，我原本真正打算做的是一项前往火星的慈善任务，把一座小型温室降落在火星表面，里面装着种子和脱水营养凝胶，着陆后再给它补水。这样火星上就会有这座小温室，你还能拍到一张很棒的照片，红色背景上是绿色植物。而公众往往会对首创之举和创纪录的事物作出反应。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 631.94,
+      "textEn": "I thought that would get people really excited about sending life to Mars. And my expectation from that project would be 100% loss because I wouldn't expect, maybe you can make a little bit back on advertising or sponsorship or something, but it would be essentially a complete loss. So starting a rocket company would necessarily have a greater likely outcome than 0% financial return.",
+      "textZh": "我以为那会让人们对把生命送往火星感到非常兴奋。而我对那个项目的预期会是100%的损失，因为我不会指望，也许可以从广告、赞助或其他什么上收回一点钱，但它基本上会是彻底的损失。所以，创办一家火箭公司的财务回报至少更有可能高于0%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 661.11,
+      "textEn": "But at the beginning of starting SpaceX, I thought that the most likely Outcome was failure.",
+      "textZh": "但在创办 SpaceX 之初，我认为最有可能的结果是失败。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Kevin Rose",
+      "startSec": 667.35,
+      "textEn": "And how about Tesla Motors? Walk me through your process of wanting to launch something like that.",
+      "textZh": "那Tesla Motors呢？给我讲讲你想创办这样一家公司的过程。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 672.55,
+      "textEn": "Yeah. So in terms of an electric car company, at first I thought that there would be no need to do an electric car company startup because California regulations basically forced General Motors to create the Volt, or rather the EV1, I should say. So when General Motors had the EV1, I thought, hey, this is great. Biggest car company in the world is making electric car called the EV1. That would imply that there's going to be an EV2, 3, 4.",
+      "textZh": "是的。所以就电动汽车公司而言，一开始我认为没有必要创办一家电动汽车初创公司，因为加州的法规基本上迫使通用汽车制造了Volt，或者更确切地说，我应该说是EV1。所以当通用汽车推出EV1时，我想，嘿，这太棒了。世界上最大的汽车公司正在制造一款名为EV1的电动汽车。那意味着接下来会有EV2、3、4。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Kevin Rose",
+      "startSec": 705.92,
+      "textEn": "They killed that project off though, right?",
+      "textZh": "不过他们把那个项目终止了，对吧？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 707.6,
+      "textEn": "They did, yeah. And that was very unwise.",
+      "textZh": "他们确实这么做了，是的。而且那非常不明智。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 711.63,
+      "textEn": "I mean it's sort of really short sighted, I think. Action. I mean in retrospect that seems perhaps obvious, but at the time, not only did they cancel the project, they forcibly removed the EV ones that they'd given out, which they only gave out on lease. They removed them from customers against their wishes, took the cars and crushed them in a yard so that they could never be used again.",
+      "textZh": "我是说，我觉得这算是真的非常短视。行动。我的意思是，事后看来，这或许很明显，但当时他们不仅取消了这个项目，还强行收回了他们发放出去的EV1，而那些车只是以租赁方式发放的。他们违背客户的意愿把车收走，把车带到一个场地碾碎，让它们再也无法使用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 736.68,
+      "textEn": "And the customers whose cars had been taken away, they tried legal action, they tried to sue General Motors to keep their car. They actually had a candlelit vigil at the yard where the cars got crushed. And it's like, when's the last time there was a candle lit vigil for a product? You know, that's pretty ridiculous, right? And let alone a General Motors product,",
+      "textZh": "那些车被收走的客户尝试采取法律行动，他们试图起诉通用汽车，好保住自己的车。他们实际上还在碾碎汽车的场地举行了烛光守夜活动。就好像，上一次有人为一款产品举行烛光守夜活动是什么时候？你知道，这相当荒谬，对吧？更别说还是通用汽车的产品，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Kevin Rose",
+      "startSec": 764.57,
+      "textEn": "I mean, you have to passion the level of passion, right?",
+      "textZh": "我是说，你得……这种热情的程度，对吧？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 768.77,
+      "textEn": "Yeah, actually pretty, pretty tone deaf to. I mean you don't need to run a customer's, you don't need to do a customer survey to figure out that at least some number of people want the cars if they are treating it like somebody's being sent to death.",
+      "textZh": "是的，实际上相当、相当迟钝。我的意思是，你不需要开展客户的，你不需要做客户调查就能弄清楚，至少有一些人想要这些车，因为他们对待这件事，就像有人要被送去处死一样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 788.11,
+      "textEn": "So when I saw that, I was like, holy crap, this is not going to happen. And so there really needs to be a new car company that comes in and shows that it can be done. And the key thing that needed to be done was to show that you can make an electric car that was good looking, high performance, long range, and that if you made such a car that people would buy it, that they didn't have some fundamental affinity for gasoline.",
+      "textZh": "所以当我看到这一幕时，我当时想，天哪，这不会发生了。因此，确实需要有一家新的汽车公司进入这个行业，证明这是可以做到的。而需要做到的关键，是证明你能制造出一辆外观漂亮、高性能、长续航的电动汽车，而且如果你造出这样的汽车，人们就会购买它，他们对汽油并不存在某种根本性的偏爱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 820.34,
+      "textEn": "So that's.",
+      "textZh": "所以那就是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Kevin Rose",
+      "startSec": 822.34,
+      "textEn": "Where do you get started? You have the capital to obviously put into something on your venture. But you know, you're sitting there and you're like, okay, I want to do this. Like who helps myself with.",
+      "textZh": "你从哪里开始？显然，你有资本可以投入自己的项目。但你知道，你坐在那里，然后你会想，好吧，我想做这件事。比如，谁帮我做。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 832.34,
+      "textEn": "Well, my initial thought was that I did not want to run to create an electric car company and run it myself because I was running SpaceX. And the idea of running two companies, that's a lot of work.",
+      "textZh": "嗯，我最初的想法是，我不想去创办一家电动汽车公司并亲自经营，因为当时我正在经营SpaceX。而经营2家公司，这工作量很大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 849.49,
+      "textEn": "And you know, just like imagine if somebody had two pretty demanding jobs and then you had one really demanding job. Now you got to do two of them. You know, it kind of takes the fun away and you know, it makes it pretty, pretty arduous.",
+      "textZh": "而且你知道，想象一下，如果某个人有2份要求相当高的工作，而你本来有1份要求非常高的工作。现在你得做其中的2份。你知道，这多少会让乐趣消失，而且你知道，这会让事情变得相当、相当艰苦。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Kevin Rose",
+      "startSec": 865.93,
+      "textEn": "Yeah, the social life goes away or something has to give.",
+      "textZh": "是的，社交生活会消失，或者必须牺牲些什么。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 867.97,
+      "textEn": "Something's got to give. Yeah.",
+      "textZh": "总得牺牲些什么。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 870.93,
+      "textEn": "So my initial thought was, okay, I'll hire some people and work with a team and I'll just sort of work on the product design and sort of maybe the overall strategy or something, but I'll leave the day to day operations to a CEO that I'd hire. So unfortunately that didn't work out.",
+      "textZh": "所以我最初的想法是，好吧，我会雇一些人，与一个团队合作，而我只需要做做产品设计，或许再做做整体战略之类的事情，但我会把日常运营交给我聘请的一名CEO。所以遗憾的是，这没有成功。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 892.58,
+      "textEn": "I actually tried hiring a couple of CEOs and I guess, I don't know, I couldn't find the right person.",
+      "textZh": "我实际上试着聘请过两位CEO，而我想，我不知道，我找不到合适的人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 901.78,
+      "textEn": "And so it then came to 2008. I was kind of co CEO from 2007. In 2007, 2008, while trying to bring up some other people up to speed. And then when the market fell apart, the financial market fell apart and the economy fell apart in 2008 and I had a choice of like basically commit all of my remaining resources to Tesla or it's going to die for sure. And I thought, okay, if I'm going to do that, then I got to bite the bullets and run the company because it's just too much.",
+      "textZh": "然后就到了2008年。从2007年起，我算是联席CEO。在2007年、2008年期间，同时还试图让其他一些人跟上进度。后来市场崩溃了，金融市场崩溃了，经济也在2008年崩溃了，而我面临一个选择，基本上要么把我剩余的全部资源都投入Tesla，要么它肯定会倒闭。我想，好吧，如果我要这么做，那我就得硬着头皮经营这家公司，因为这实在太多了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 942.98,
+      "textEn": "You know, if you've got all your chips on, on the table, you got to play the hand yourself.",
+      "textZh": "你知道，如果你已经把所有筹码都押在桌上，那你就得亲自打这手牌。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Kevin Rose",
+      "startSec": 947.54,
+      "textEn": "Yeah. Why do, why do other car companies just really suck? Like a lot of their designs are horrible. It seems like they're not really listening to consumers. There's no, like you're the.",
+      "textZh": "是的。为什么，为什么其他汽车公司真的那么差劲？比如它们的很多设计都很糟糕。感觉它们根本没有真正倾听消费者的意见。没有，比如你是那个。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 956.74,
+      "textEn": "Does this seem like obviously bad?",
+      "textZh": "这看起来是不是明显很糟糕？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Kevin Rose",
+      "startSec": 957.82,
+      "textEn": "I mean, yeah, they seem obviously bad. Like you look at them and you're the first company I feel has that kind of Apple esque design aesthetic, you know, like, why do other car companies just make horrible looking cars?",
+      "textZh": "我的意思是，是的，它们看起来明显很糟糕。比如你看看那些车，而你们是我觉得第1家拥有那种类似Apple的设计美学的公司，你知道，比如，为什么其他汽车公司就是要制造外观糟糕的汽车？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 970.93,
+      "textEn": "I don't know, it blows my mind. I don't know how because it just seems like, you know, you can take a body panel and you can stamp it with that shape, with this shape or that shape, and yet they chose, they choose to do the bad shape. But it costs the same either way, right?",
+      "textZh": "我不知道，这让我无法理解。我不知道这是怎么回事，因为看起来，你知道，你可以拿一块车身面板，把它冲压成那个形状、这个形状或另一个形状，可他们却选择，他们选择做成糟糕的形状。但不管做成哪种形状，成本都一样，对吧？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 986.53,
+      "textEn": "I mean, there are some things that cost a little more in terms of the quality of materials and the, you know, getting things really to fit accurately. And so there are a few things that cost more, but a lot of it doesn't. You know, you can make an ugly, expensive car, you can make a good Looking expensive car. And actually the same goes, I think you can make an affordable good looking car or an ugly looking car. And I think the cost differences are really actually relatively small.",
+      "textZh": "我的意思是，就材料质量，以及，你知道，让各个部件真正精确贴合而言，有些地方确实会多花一点钱。所以有少数东西成本更高，但很多地方并不是这样。你知道，你可以制造一辆难看而昂贵的汽车，也可以制造一辆外观漂亮而昂贵的汽车。实际上，我认为同样的道理也适用，你可以制造一辆价格亲民、外观漂亮的汽车，也可以制造一辆外观难看的汽车。而且我认为成本差异实际上真的相对很小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1015.68,
+      "textEn": "And I mean, I don't know, it just, I think maybe the, some of the larger car companies are just trapped in their own history.",
+      "textZh": "而且我是说，我不知道，只是，我觉得也许，一些规模较大的汽车公司只是被困在了自身的历史之中。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1025.85,
+      "textEn": "Did you do like, did you have focus groups where you decide on the decision or was it very much. I like the way that looks. Let's go with that.",
+      "textZh": "你们有没有，比如，你们有没有通过焦点小组来作出决定，还是基本上就是。我喜欢那个外观。就用那个吧。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 1034.01,
+      "textEn": "No, it's just literally just a series of weekly iterations with the design team.",
+      "textZh": "没有，实际上就只是和设计团队每周进行一系列迭代。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1040.49,
+      "textEn": "Awesome.",
+      "textZh": "太棒了。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 1040.89,
+      "textEn": "So just every Friday afternoon I meet with Franz and the design team and we go over every nuance of the car, every bumper, every curve, every little tiny piece of the car, what's right, what's wrong. And then that has to be filtered against the engineering needs and the ergonomic needs and regulatory requirements. So it's a really, there's a lot of constraints and you can't just make a car any old shape you want and still achieve, meet all the regulatory requirements, be livestock crash safe and all that.",
+      "textZh": "所以，每周五下午我都会与弗朗茨和设计团队见面，我们会逐一检查汽车的每个细微之处、每个保险杠、每条曲线、汽车的每一个微小部件，哪些是对的，哪些是错的。然后还必须结合工程需求、人体工学需求和监管要求来权衡。所以这确实，有很多限制，你不能随心所欲地把汽车做成任何形状，同时还实现、满足所有监管要求，做到牲畜碰撞安全之类的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1081.38,
+      "textEn": "So it just requires a lot of iterative activity and caring about every millimeter of the car and that's what results in a good product.",
+      "textZh": "所以这需要进行大量反复迭代，并关心汽车的每一毫米，而这正是造就优秀产品的原因。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1096.34,
+      "textEn": "So I know we have limited time. I want to jump towards the future.",
+      "textZh": "我知道我们的时间有限。我想转向未来。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1101.23,
+      "textEn": "Talk to me about this hyperloop, I think of calling it.",
+      "textZh": "跟我谈谈这个超级高铁吧，我想是这么称呼它的。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 1106.11,
+      "textEn": "Yeah, so the hyperloop.",
+      "textZh": "是的，这个超级高铁。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 1111.63,
+      "textEn": "I need to set aside some time to actually write down some of the details and I want to make sure that I don't say something completely stupid. So I'm spending time with both the SpaceX Aerodynamics team and the Tesla aerodynamics team just to make sure that whatever I put out there really will work.",
+      "textZh": "我需要抽出一些时间，真正把一些细节写下来，而且我想确保自己不会说出什么蠢透了的话。所以我正在与SpaceX空气动力学团队和Tesla空气动力学团队一起花时间研究，只是为了确保无论我公布什么，它确实都能奏效。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1136.97,
+      "textEn": "Are we talking train here or is this just an alternative, something that we haven't thought of before?",
+      "textZh": "我们说的是火车吗，还是说这只是一种替代方案，是我们以前从未想到过的东西？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 1141.45,
+      "textEn": "Yeah, I think it's genuinely, it would genuinely be a new mode of transport. That's exciting. Maybe. I think the one way to think of it is like, it's, it's kind of like a ground based Concorde.",
+      "textZh": "是的，我觉得这确实，它确实会是一种新的交通方式。那很令人兴奋。也许吧。我觉得可以这样理解，它，它有点像陆地上的协和式飞机。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 1159.76,
+      "textEn": "If you could make something go as fast as a Concorde on the ground, how would you do that?",
+      "textZh": "如果你能让某种东西在地面上跑得和协和式飞机一样快，你会怎么做到？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1165.36,
+      "textEn": "Right. Would you require rails in that sense or. I mean, is it interesting?",
+      "textZh": "对。从这个意义上说，它需要轨道吗，还是。我是说，这有意思吗？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 1169.92,
+      "textEn": "We shall see. No, actually, I think rails are not needed.",
+      "textZh": "我们拭目以待。不，实际上，我认为不需要轨道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1173.04,
+      "textEn": "Awesome.",
+      "textZh": "太棒了。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Elon Musk",
+      "startSec": 1173.6,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1174.08,
+      "textEn": "So I mean, do you have a lot of ideas like this? Is it where you have a sketch?",
+      "textZh": "所以，我是说，你有很多这样的想法吗？是不是你会画个草图？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 1177.44,
+      "textEn": "Yeah, I've got more ideas than you know what to do to, I think. So is it something.",
+      "textZh": "是的，我的想法多到你都不知道该拿它们怎么办，我想。所以，这是某种。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1182.77,
+      "textEn": "Where do you come up with your best ideas? Are you on vacation or are you kind of Just like in the middle of the night, you wake up and start drawing things down.",
+      "textZh": "你最好的想法都是在哪里想出来的？是在度假时，还是就像在半夜，你醒过来，开始把东西画下来。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1189.57,
+      "textEn": "You know, this sounds really cliche, but, like, the shower is probably like, you know, wake up and go to shower in the morning. And I think actually what's really happened is kind of stuff is percolated in the subconscious.",
+      "textZh": "你知道，这听起来真的很老套，但，比如说，淋浴可能就是，你知道，早上醒来去洗澡。而我觉得实际发生的事情是，有些东西一直在潜意识里酝酿。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1200.57,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1201.01,
+      "textEn": "And it's not really occurring in the shower, but you're kind of getting the results of last night's, you know, computation, basically.",
+      "textZh": "而且它其实并不是在淋浴时发生的，你只是在得到昨晚的，你知道，运算结果，基本上是这样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1207.66,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1208.78,
+      "textEn": "And then sometimes it's late at night, if I can't sleep and there's something bothering me, then it'll occur then.",
+      "textZh": "然后有时候是在深夜，如果我睡不着，而且有什么事情困扰着我，那它就会在那时冒出来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1216.94,
+      "textEn": "And one key idea for a supersonic vertical takeoff landing electric plane occurred to me at Burning Man.",
+      "textZh": "而关于超音速垂直起降电动飞机的一个关键想法，是我在火人节时想到的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1226.86,
+      "textEn": "A lot of good ideas come out of Burning Man. Exactly. Absolutely.",
+      "textZh": "很多好点子都来自火人节。没错。绝对是。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 1230.38,
+      "textEn": "So suddenly it's a very, very creative place.",
+      "textZh": "所以，突然间它成了一个非常、非常有创造力的地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1235.13,
+      "textEn": "So, yes, that's it. Shower and buddy Man.",
+      "textZh": "所以，是的，就是这样。淋浴和伙伴，老兄。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1239.29,
+      "textEn": "Awesome. One last question I always ask of everyone that I interview for the new entrepreneurs that are just getting started out there, what's one piece of advice that you would always recommend to an entrepreneur, something that you've learned over the years that they can take with them in their new venture, and then something you'd completely avoid, like something that you really screwed up on, that you'd never do again.",
+      "textZh": "太棒了。最后一个问题，这是我采访每个人时都会问的：对于那些才刚刚起步的新创业者，你始终会向创业者推荐的一条建议是什么，也就是你这些年来学到、而他们可以带进新事业里的一些东西；然后，还有什么是你会彻底避免的，比如某件你真的搞砸了、绝不会再做一次的事。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1260.98,
+      "textEn": "Okay, sure. So I think in terms of advice, I think it's very important to seek out, to actively seek out and listen very carefully to negative feedback.",
+      "textZh": "好的，当然。所以说到建议，我认为非常重要的一点是，要寻找，要主动寻找负面反馈，并且非常仔细地听取。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Elon Musk",
+      "startSec": 1274.58,
+      "textEn": "And this is something that people tend to avoid because it's painful. But I think this is a very common mistake, is to not actively seek out and listen to negative feedback.",
+      "textZh": "而这是人们往往会回避的事情，因为它让人痛苦。但我认为，不主动寻找和听取负面反馈，是一个非常常见的错误。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1289.58,
+      "textEn": "Where do you do that? Do you go into forums? Do you go into Twitter? Like, what are your areas where you go to look for feedback on, let's say, the Tesla?",
+      "textZh": "你会在哪里做这件事？你会去论坛吗？你会去 Twitter 吗？比如说，以 Tesla 为例，你会去哪些地方寻找反馈？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Elon Musk",
+      "startSec": 1296.14,
+      "textEn": "It's like everyone I talk to, in fact, when friends get a product, I say, look, don't tell me what you like. Tell me what you don't like, because otherwise your friend is not going to tell you what he doesn't like. This kid's going to say, oh, I love this and that and then. And leave out the this is the stuff I don't like list. Because who wants to be your friend, doesn't want to offend you, so you really need to sort of coax negative feedback.",
+      "textZh": "就是我跟每个人都会这么说，事实上，当朋友拿到一个产品时，我会说，听着，别告诉我你喜欢什么。告诉我你不喜欢什么，因为否则你的朋友不会告诉你他不喜欢什么。这孩子会说，哦，我喜欢这个、那个，然后。然后把“这些是我不喜欢的东西”这张清单遗漏掉。因为想当你朋友的人不想冒犯你，所以你真的需要设法引导出负面反馈。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 1328.83,
+      "textEn": "And you know that if somebody is your friend, or at least not your enemy, and they're giving you negative feedback, then they may be wrong, but it's coming from a good place. And sometimes even your enemies give you good negative feedback. Yeah, absolutely. So I think that's important.",
+      "textZh": "而且你知道，如果某个人是你的朋友，或者至少不是你的敌人，而他们在给你负面反馈，那么他们可能是错的，但这是出于善意。有时甚至你的敌人也会给你有价值的负面反馈。是的，绝对如此。所以我认为这很重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 1349.02,
+      "textEn": "Positive Feedback like water off a duck's back. That's like really underweight. That and overweight. Negative feedback. And then I think it's also important to reason from first principles rather than by analogy. So the normal way that we conduct our lives is we, we reason by analogy. We're doing this because it's like something else that was done, or it's like what other people are doing.",
+      "textZh": "正面反馈就像水从鸭背上滑过一样。那确实要把权重放得很低。低估那个，高估负面反馈。然后我认为，从第一性原理出发进行推理，而不是通过类比来推理，也很重要。所以我们生活中的通常做法是，我们，我们通过类比来推理。我们这么做，是因为它像以前做过的某件事，或者它像其他人正在做的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1375.15,
+      "textEn": "Me too. Type ideas.",
+      "textZh": "我也是。类型的想法。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 1376.83,
+      "textEn": "Yeah, Slight iterations on a theme.",
+      "textZh": "是的，围绕一个主题稍作迭代。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 1384.91,
+      "textEn": "And it's because it's kind of mentally easier to reason by analogy rather than from first principles. But first principles is kind of a physics way of looking at the world. And what that really means is you kind of boil things down to the most fundamental truths and say, okay, what are we sure is true or as sure as possible is true? And then reason up from there. That takes a lot more mental energy.",
+      "textZh": "而这是因为在思维上，通过类比推理比从第一性原理出发更容易。但第一性原理算是一种物理学看待世界的方式。它真正的意思是，你把事物归结到最根本的真相，然后说，好吧，我们确定什么是真的，或者尽可能确定什么是真的？然后从那里向上推理。这需要耗费多得多的脑力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1412.11,
+      "textEn": "Give me an example of that. Like, what's one thing that you've done that on that you feel has worked for you?",
+      "textZh": "给我举个例子。比如，你在哪件做过的事情上运用了这一点，并且觉得它对你奏效了？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Elon Musk",
+      "startSec": 1416.27,
+      "textEn": "Sure. So somebody could say, in fact, people do that. Battery packs are really expensive, and that's just the way they'll always be because that's the way they've been in the past. You're like, well, no, that's pretty dumb because if you applied that reasoning to anything new, then you wouldn't be able to ever get to that new thing. Right. So, you know, it's like you can't say, oh, you know horses, nobody wants a car because horses are great and we're used to them and they can eat grass and there's lots of grass all over the place.",
+      "textZh": "当然。所以有人可能会说，事实上，人们确实会这么做。电池组真的很贵，而且它们永远都会这样，因为过去一直就是这样。你会觉得，嗯，不，这相当愚蠢，因为如果你把这种推理应用到任何新事物上，那么你永远都不可能实现那个新事物。对吧。所以，你知道，这就像你不能说，哦，你知道，马，没人想要汽车，因为马很棒，我们也习惯了马，而且它们可以吃草，到处都有很多草。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 1455.6,
+      "textEn": "And you know, there's not like a. There's no gasoline that people can buy, so people are never going to get cars.",
+      "textZh": "而且你知道，并没有什么。没有人们可以买到的汽油，所以人们永远不会拥有汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1462.32,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 1463.48,
+      "textEn": "People did say that.",
+      "textZh": "人们确实这么说过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Elon Musk",
+      "startSec": 1466.28,
+      "textEn": "And for batteries, they would say, oh, it's going to cost. You know, historically it's cost $600 per. $600 per kilowatt hour. And so it's not going to be much better than that in the future. And you say, no, okay, what are the batteries made of? So first principles would be to say, okay, what are the material constituents of the batteries? What is the spot market value of the material constituents? So you can say, okay, it's got cobalt, nickel, aluminum, carbon, and some polymers for separation.",
+      "textZh": "至于电池，他们会说，哦，它要花费。你知道，历史上它的成本是每……600美元。每千瓦时600美元。所以未来也不会比这好多少。而你会说，不，好吧，电池是由什么制成的？所以从第一性原理出发，就是要问，好吧，电池由哪些材料成分构成？这些材料成分在现货市场上的价值是多少？所以你可以说，好吧，它含有钴、镍、铝、碳，以及一些用于分隔的聚合物。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1499.21,
+      "textEn": "And a seal can. So break that down on a material basis and say, okay, if we bought that in London Metal Exchange, what would each of those things cost? Like, oh, geez, it's like $80 per kilowatt hour. So clearly you just need to think of clever ways to Take those materials and combine them into the shape of a battery cell, and you can have batteries that are much, much cheaper than anyone realizes.",
+      "textZh": "还有一个密封罐。所以从材料层面把它拆解开来，然后问，好吧，如果我们在伦敦金属交易所购买这些材料，每一种要花多少钱？就像，哦，天哪，大约是每千瓦时80美元。所以显然，你只需要想出巧妙的办法，把这些材料组合成电池单元的形状，这样你就能造出比任何人意识到的都要便宜得多、便宜得多的电池。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1525.83,
+      "textEn": "Is that your big challenge at Tesla is battery?",
+      "textZh": "电池是你在Tesla面临的一大挑战吗？",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 1529.27,
+      "textEn": "It's the single biggest item. But it's. Right now, it is not. It's not any kind of obstacle to us.",
+      "textZh": "它是单项中最大的一项。但它是。现在，它不是。它对我们不构成任何形式的障碍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 1537.909,
+      "textEn": "There are a whole bunch of little issues that are kind of trivial, that are challenges when you're making a new product. Because there are several thousand unique parts in the car, 90% of them are fine, 5% of them are slightly problematic, 3% or 4% are problematic, and 1% are extremely problematic.",
+      "textZh": "有一大堆有点微不足道的小问题，而在制造新产品时，它们会成为挑战。因为车里有数千个独特零部件，其中90%没问题，5%略有问题，3%或4%有问题，还有1%问题极其严重。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 1563.12,
+      "textEn": "But you cannot ship a car that is 99% complete. So, like, software, you can do stable functionality, but with a car, you know, you can't ship it without, like, a steering wheel or, like, what? Without backseat or something like that. Yeah.",
+      "textZh": "但你不能交付一辆只完成了99%的汽车。所以，比如软件，你可以实现稳定的功能，但汽车的话，你知道，你不能在没有，比如方向盘，或者，比如什么？没有后座之类的情况下就交付。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1575.69,
+      "textEn": "Well, thanks for being on the show. You're a huge inspiration to a lot of entrepreneurs out there, so I know they're going to enjoy this. And thanks for having us in your factory here. Awesome.",
+      "textZh": "好，感谢你来参加节目。你给外面许多创业者带来了巨大的启发，所以我知道他们会喜欢这期节目。也感谢你让我们来到你这里的工厂。太棒了。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 1583.57,
+      "textEn": "Sounds good.",
+      "textZh": "听起来不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Kevin Rose",
+      "startSec": 1584.05,
+      "textEn": "Thanks.",
+      "textZh": "谢谢。",
+      "speakerZh": "凯文·罗斯"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 1584.73,
+      "textEn": "Thanks for coming by.",
+      "textZh": "谢谢你们过来。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T20:42:48.074Z",
+    "reviewedAt": "2026-09-12T20:58:45.305Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:23.631Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=L-s_3b5fRd8",
+  "sourceHash": "231bf2bebe644c5907ea71051e7b23a97af7db25d3208c262ba6dcbe0ffaeb6c"
+}

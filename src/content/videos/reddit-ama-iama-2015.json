@@ -1,0 +1,417 @@
+{
+  "id": "reddit-ama-iama-2015",
+  "slug": "reddit-ama-iama-2015",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2015-01-06",
+  "titleEn": "Reddit AMA — “I am Elon Musk, CEO/CTO of a rocket company” (r/IAmA, 2015)",
+  "titleZh": "Reddit AMA——“我是埃隆·马斯克，一家火箭公司的首席执行官/首席技术官”（r/IAmA，2015年）",
+  "summaryEn": "The night before the first attempt to land a Falcon 9 booster on a drone ship, Musk answered r/IAmA for an hour and a half: grid fins, the mass ratio of the upper stage, the future BFR, the Model 3, AI safety — and the semantic-tree advice on learning that became one of his most quoted answers.",
+  "summaryZh": "在首次尝试将猎鹰9号助推器降落到无人船上的前一晚，马斯克在 r/IAmA 回答了1个半小时的问题：栅格翼、上面级的质量比、未来的 BFR、Model 3、人工智能安全——以及关于学习的语义树建议，该回答后来成为他最常被引用的回答之一。",
+  "sourceUrl": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/",
+  "sourceLabel": "Reddit — r/IAmA AMA",
+  "archiveUrl": "https://elonmuskarchive.org/video/reddit-ama-iama-2015",
+  "org": "SpaceX",
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "u/prettypenny42: Hi Elon, I'll leave the technical questions to the experts. 1) Do you plan on getting any sleep tonight and 2) how will you celebrate if the test is successful? Best of luck!",
+      "textZh": "u/prettypenny42：你好，埃隆，技术问题我就留给专家们了。1）你今晚打算睡一会儿吗？2）如果测试成功，你会如何庆祝？祝你好运！"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "Elon Musk: Yes, but probably only a few hours Party at Cocoa Beach!",
+      "textZh": "埃隆·马斯克：是的，但可能只有几个小时。在可可海滩开派对！"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfpqrh/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfpqrh/"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "u/salty914: Has the Raptor engine changed in its target thrust since the last number we have officially heard of 1.55 Mlbf sea-level thrust?",
+      "textZh": "u/salty914：自从我们上次从官方获悉猛禽发动机的目标海平面推力为 1.55 Mlbf 以来，它的目标推力有变化吗？"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Elon Musk: Thrust to weight is optimizing for a surprisingly low thrust level, even when accounting for the added mass of plumbing and structure for many engines. Looks like a little over 230 metric tons (~500 klbf) of thrust per engine, but we will have a lot of them :)",
+      "textZh": "埃隆·马斯克：即使把多台发动机所需管路和结构增加的质量考虑在内，推重比优化后对应的推力水平也低得令人惊讶。看起来每台发动机的推力略高于 230 公吨（约 500 klbf），不过我们会有很多台发动机 :)"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfpuwi/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfpuwi/"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "u/[deleted]: [question deleted by its author — it asked about the Falcon Heavy centre core recovery, the Mars transport system, and the SpaceX spacesuit]",
+      "textZh": "u/[已删除]：[问题已被作者删除——该问题询问了猎鹰重型火箭中央芯级的回收、火星运输系统以及 SpaceX 航天服]"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Elon Musk: 1. Yes, the Falcon Heavy center core is seriously hauling a** at stage separation. We can bring it back to the launch site, but the boost back penalty is significant. If we also have to do the plane change for geo missions from Cape inclination (28.5 deg) to equatorial, then a downrange platform landing is needed. 2. The Mars transport system will be a completely new architecture. Am hoping to present that towards the end of this year. Good thing we didn't do it sooner, as we have learned a huge amount from Falcon and Dragon. 3. Our spacesuit design is finally coming together and will also be unveiled later this year. We are putting a lot of effort into design esthetics, not just utility. It needs to both look like a 21st century spacesuit and work well. Really difficult to achieve both.",
+      "textZh": "埃隆·马斯克：1. 是的，猎鹰重型火箭的中央芯级在级间分离时确实冲得飞快。我们可以把它送回发射场，但返推的代价很大。如果执行地球同步轨道任务时，我们还必须把轨道平面从卡纳维拉尔角的倾角（28.5 度）变到赤道平面，那就需要在下航区的平台上着陆。2. 火星运输系统将采用一种全新的架构。我希望能在今年年底前后介绍它。幸好我们没有更早做这件事，因为我们已经从猎鹰和龙飞船上学到了大量东西。3. 我们的航天服设计终于逐渐成形，也将在今年晚些时候亮相。我们在设计美感上投入了大量精力，而不仅仅关注实用性。它既要看起来像 21 世纪的航天服，也要好用。要同时做到这两点真的很难。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfq5qf/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfq5qf/"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "u/salty914: Question about the Mars Colonial Transporter: there has been a lot of speculation over exactly how much mass you are hoping to send to the Martian surface with the MCT. Can you tell us how much cargo you would like to be able to land on Mars with MCT, not including the mass of the MCT itself?",
+      "textZh": "u/salty914：一个关于火星殖民运输器的问题：对于你希望用 MCT 向火星表面运送的确切质量，人们有很多猜测。你能告诉我们，你希望 MCT 能够在火星上着陆多少货物吗，不包括 MCT 本身的质量？"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Elon Musk: Goal is 100 metric tons of useful payload to the surface of Mars. This obviously requires a very big spaceship and booster system.",
+      "textZh": "埃隆·马斯克：目标是把 100 公吨的有效载荷送到火星表面。这显然需要一个非常庞大的飞船和助推器系统。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfq9be/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfq9be/"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "u/FoxhoundBat: In order to use the full MCT design (100 passengers), will BFR be one core or 3 cores?",
+      "textZh": "u/FoxhoundBat：为了采用完整的 MCT 设计（100 名乘客），BFR 会使用 1 个芯级还是 3 个芯级？"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Elon Musk: At first, I was thinking we would just scale up Falcon Heavy, but it looks like it probably makes more sense just to have a single monster boost stage.",
+      "textZh": "埃隆·马斯克：起初，我想我们只要把猎鹰重型火箭按比例放大就行了，但现在看来，采用单个巨型助推级可能更合理。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqb5s/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqb5s/"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "u/awests: Hello Mr. Musk, I sold you a pair of hiking boots at the Sports Authority Elite in Corte Madera. I just wanted to know how your walk through the forest (as you described it) went? Also did you like the boots?",
+      "textZh": "u/awests：马斯克先生，您好，我曾在科尔特马德拉的 Sports Authority Elite 卖给您一双登山靴。我只是想知道，您那次穿过森林的徒步（正如您当时所描述的）怎么样？另外，您喜欢那双靴子吗？"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Elon Musk: Yeah, they were great",
+      "textZh": "埃隆·马斯克：是的，它们很棒"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqbi1/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqbi1/"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "u/salty914: Emily Shanklin indicated in late 2013 that the Raptor would be the first of a “family of engines” designed for the exploration and colonization of Mars. Could you elaborate on her wording — was she simply referring to a vacuum version and a standard version, or do you plan on building multiple methane-based engines with significantly different thrust and size specifications?",
+      "textZh": "u/salty914：Emily Shanklin 在 2013 年末表示，猛禽将是为探索和殖民火星而设计的“发动机家族”中的首款发动机。你能详细说明一下她这句话的含义吗——她只是指真空版和标准版，还是说你们计划制造多款在推力和尺寸规格上存在显著差异的甲烷发动机？"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "Elon Musk: Default plan is to have a sea level and vacuum version of Raptor, much like Merlin. Since the booster and spaceship will both have multiple engines, we don't have to have fundamentally different designs. This plan might change.",
+      "textZh": "埃隆·马斯克：默认计划是让猛禽拥有海平面版和真空版，很像梅林发动机。由于助推器和飞船都会配备多台发动机，我们不必采用根本不同的设计。这个计划可能会改变。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqdvd/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqdvd/"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "u/StapleGun: Hi Elon, I'm already saving up for my Model 3. Can you share anything about the Model 3 that we don't already know?",
+      "textZh": "u/StapleGun：嗨，埃隆，我已经开始为购买 Model 3 存钱了。你能透露一些我们还不知道的 Model 3 信息吗？"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Elon Musk: It won't look like other cars",
+      "textZh": "埃隆·马斯克：它看起来不会像其他汽车"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqeii/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqeii/"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "u/1201alarm: Mr Musk, how will you secure the first stage of the Falcon 9 to the barge when it lands? Gravity or some mechanism?",
+      "textZh": "u/1201alarm：马斯克先生，猎鹰 9 号的第一级着陆后，你们将如何把它固定在驳船上？靠重力还是某种机械装置？"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "Elon Musk: Mostly gravity. The center of gravity is pretty low for the booster, as all the engines and residual propellant is at the bottom. We are going to weld steel shoes over the landing feet as a precautionary measure.",
+      "textZh": "埃隆·马斯克：主要靠重力。助推器的重心相当低，因为所有发动机和剩余推进剂都位于底部。作为预防措施，我们会在着陆支脚外焊上钢制套靴。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqgek/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqgek/"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "u/AvenueEvergreen: Previously, you've stated that you estimate a 50% probability of success with the attempted landing on the automated spaceport drone ship tomorrow. Can you discuss the factors that were considered to make that estimation? In addition, can you talk more about the grid fins that will be flying tomorrow? How do they compare to maneuvering with cold-gas thrusters?",
+      "textZh": "u/AvenueEvergreen：此前，你曾表示，你估计明天尝试在自动化太空港无人船上着陆的成功概率为 50%。你能谈谈作出这一估计时考虑了哪些因素吗？此外，你能多谈谈明天将参与飞行的栅格翼吗？它们与使用冷气推进器进行机动相比如何？"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Elon Musk: I pretty much made that up. I have no idea :) The grid fins are super important for landing with precision. The aerodynamic forces are way too strong for the nitrogen thrusters. In particular, achieving pitch trim is hopeless. Our atmosphere is like molasses at Mach 4!",
+      "textZh": "埃隆·马斯克：那基本上是我编出来的。我也不知道 :) 栅格翼对于精准着陆极其重要。气动力太强了，氮气推进器根本应付不了。特别是，实现俯仰配平毫无希望。在 4 马赫时，我们的大气就像糖蜜一样！"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqjjk/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqjjk/"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "u/Forrestal: SpaceX's current strategy revolves mostly around old style rockets, even if they are now approaching complete reusability (Grasshopper rocks). Has SpaceX looked into hybrid craft like the SABRE programme happening in the UK, or looked into the possibility of a space elevator (even at a thought-experiment stage) in the way that Google and NASA have done?",
+      "textZh": "u/Forrestal：SpaceX 当前的战略主要围绕老式火箭展开，即使它们现在正接近实现完全可重复使用（Grasshopper 太棒了）。SpaceX 是否研究过像英国正在开展的 SABRE 项目那样的混合动力飞行器，或者像 Google 和 NASA 所做的那样，研究过太空电梯的可行性（哪怕只是在思想实验阶段）？"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "Elon Musk: If you want to get to orbit or beyond, go with pure rockets. It is not like Von Braun and Korolev didn't know about airplanes and they were really smart dudes.",
+      "textZh": "埃隆·马斯克：如果你想进入轨道或前往更远的地方，就用纯火箭。这并不是说冯·布劳恩和科罗廖夫不了解飞机，而且他们确实都是非常聪明的家伙。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqn03/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqn03/"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "u/usa_dublin: Hi Elon. A friend of mine is all paranoid about the computer singularity, and used your name as a source of his paranoia. Don't you think it could all be a bunch of hype?",
+      "textZh": "u/usa_dublin：你好，埃隆。我的一个朋友对计算机奇点充满疑惧，还把你的名字当作他产生这种疑惧的依据。你不觉得这一切可能都只是一场炒作吗？"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Elon Musk: The timeframe is not immediate, but we should be concerned. There needs to be a lot more work on AI safety. And, with all due respect to the Roomba dude, that is not a concern https://www.youtube.com/watch?v=Of2HU3LGdbo",
+      "textZh": "埃隆·马斯克：这不会立即发生，但我们应该保持警惕。需要在 AI 安全方面开展更多工作。另外，恕我直言，Roomba 那位老兄说的并不值得担忧 https://www.youtube.com/watch?v=Of2HU3LGdbo"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqyf5/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfqyf5/"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "u/MarsColony_in10years: In your recent MIT talk, you mentioned that you didn't think second-stage recovery was possible for the Falcon 9 — due to the low fuel efficiency of kerosene and the high velocities needed for many payloads. However, you also said that full reusability would be possible for the Mars Colonial Transporter launch vehicle. What have you learned from flights of Falcon 9 that taught you (a) that reuse of its second stage won't be possible and (b) what you'll need to do differently with MCT to reuse its second stage?",
+      "textZh": "u/MarsColony_in10years：在你最近于 MIT 的演讲中，你提到，你认为猎鹰 9 号的第二级不可能回收，因为煤油的燃料效率较低，而且许多有效载荷需要达到很高的速度。不过，你也说过，火星殖民运输器运载火箭可以实现完全重复使用。你从猎鹰 9 号的飞行中了解到什么，使你认识到：（a）它的第二级不可能重复使用；以及（b）要让 MCT 的第二级实现重复使用，你需要采取哪些不同的做法？"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Elon Musk: Actually, we could make the 2nd stage of Falcon reusable and still have significant payload on Falcon Heavy, but I think our engineering resources are better spent moving on to the Mars system. MCT will have meaningfully higher specific impulse engines: 380 vs 345 vac Isp. For those unfamiliar, in the rocket world, that is a super gigantic difference for stages of roughly equivalent mass ratio (mass full to mass empty).",
+      "textZh": "埃隆·马斯克：实际上，我们可以让猎鹰的第 2 级实现重复使用，同时仍让猎鹰重型拥有可观的有效载荷，但我认为把我们的工程资源用来推进火星系统更为合适。MCT 将配备比冲显著更高的发动机：真空比冲 380 对 345。对于不熟悉这一点的人来说，在火箭领域，对于质量比（满载质量与空载质量之比）大致相当的级而言，这是一个极其巨大的差异。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfr48y/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfr48y/"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "u/aerovistae: [The asker later replaced the text of this question. It originally asked how Elon had been able to learn enough to run both Tesla and SpaceX, two engineering-intensive companies, at the same time.]",
+      "textZh": "u/aerovistae：[提问者后来替换了这个问题的文本。原问题询问的是，埃隆如何能够学到足够多的知识，从而同时经营 Tesla 和 SpaceX 这两家高度依赖工程技术的公司。]"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Elon Musk: I do kinda feel like my head is full! My context switching penalty is high and my process isolation is not what it used to be. Frankly, though, I think most people can learn a lot more than they think they can. They sell themselves short without trying. One bit of advice: it is important to view knowledge as sort of a semantic tree -- make sure you understand the fundamental principles, ie the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to.",
+      "textZh": "埃隆·马斯克：我确实有点觉得自己的脑袋已经装满了！我的上下文切换代价很高，而且我的进程隔离能力已经不如从前。不过坦率地说，我认为大多数人能学到的东西都比他们自以为能学到的多得多。他们还没尝试就低估了自己。一点建议：把知识视为某种语义树非常重要——在深入叶子/细节之前，务必先理解基本原理，也就是树干和大树枝，否则这些叶子/细节便无处依附。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfre0a/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfre0a/"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "u/[deleted]: Follow-up question: how much do you sleep per night, on average?",
+      "textZh": "u/[已删除]：追问：你平均每晚睡多长时间？"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "Elon Musk: I actually measured this with my phone! Almost exactly 6 hours on average.",
+      "textZh": "埃隆·马斯克：我真的用手机测量过这个！平均几乎正好是6小时。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfrh2q/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfrh2q/"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "u/Skov: Nice to see you are doing things the Kerbal way.",
+      "textZh": "u/Skov：很高兴看到你在用坎巴拉的方式做事。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "Elon Musk: Kerbal is awesome!",
+      "textZh": "埃隆·马斯克：坎巴拉太棒了！"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfri17/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfri17/"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "u/ken27238: Have you played Kerbal Space Program? What do you think SpaceX uses for testing software?",
+      "textZh": "u/ken27238：你玩过《坎巴拉太空计划》吗？你觉得SpaceX用什么来测试软件？"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "Elon Musk: Kerbal Space Program!",
+      "textZh": "埃隆·马斯克：《坎巴拉太空计划》！"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfrm06/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfrm06/"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "u/danielle_miller: I'm a teacher, and I always wonder what I can do to help my students achieve big things. What's something your teachers did for you while you were in school that helped to encourage your ideas and thinking? Or, if they didn't, what's something they could have done better?",
+      "textZh": "u/danielle_miller：我是一名教师，我总是在想，我能做些什么来帮助学生取得伟大的成就。你上学时，老师为你做过什么，帮助鼓励你的想法和思考？或者，如果他们没有这样做，他们本可以在哪些方面做得更好？"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "Elon Musk: The best teacher I ever had was my elementary school principal. Our math teacher quit for some reason and he decided to sub in himself for math and accelerate the syllabus by a year. We had to work like the house was on fire for the first half of the lesson and do extra homework, but then we got to hear stories of when he was a soldier in WWII. If you didn't do the work, you didn't get to hear the stories. Everybody did the work.",
+      "textZh": "埃隆·马斯克：我遇到过的最好的老师是我的小学校长。我们的数学老师不知为何辞职了，他决定亲自代教数学，并把教学进度提前1年。每节课的前半段，我们都必须像房子着火了一样拼命学习，还要做额外的家庭作业，但之后我们就能听他讲自己在第二次世界大战期间当兵的故事。如果你不完成作业，就听不到那些故事。每个人都完成了作业。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfrrm9/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfrrm9/"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "u/FoxhoundBat: The design life of the Merlin 1D has been mentioned to be 40 “cycles”. Could you expand on what a “cycle” is? Is it just a start of the engine?",
+      "textZh": "u/FoxhoundBat：Merlin 1D 的设计寿命据称是40个“循环”。你能详细解释一下“循环”是什么吗？它只是指发动机启动1次吗？"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "Elon Musk: There is no meaningful limit. We would have to replace a few parts that experience thermal stress after 40 cycles, but the rest of the engine would be fine.",
+      "textZh": "埃隆·马斯克：没有什么实质性的限制。40个循环后，我们需要更换少数几个承受热应力的部件，但发动机的其余部分不会有问题。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfru00/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfru00/"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "u/chasbecht: What kind of mass ratio do your upper stages have?",
+      "textZh": "u/chasbecht：你们的上面级质量比是多少？"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "Elon Musk: With sub-cooled propellant, I think we can get the Falcon 9 upper stage mass ratio (excluding payload) to somewhere between 25 and 30. Another way of saying that is the upper stage would be close to 97% propellant by mass.",
+      "textZh": "埃隆·马斯克：采用过冷推进剂后，我认为我们可以让猎鹰9号上面级的质量比（不包括有效载荷）达到25到30之间。换一种说法，上面级按质量计算将有接近97%是推进剂。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfs7zz/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfs7zz/"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "u/TCEchicago: What daily habit do you believe has the largest positive impact on your life?",
+      "textZh": "u/TCEchicago：你认为哪种日常习惯对你的生活产生了最大的积极影响？"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Elon Musk: Showering",
+      "textZh": "埃隆·马斯克：洗澡"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfsdy9/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfsdy9/"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "u/ghostrider176: 1) What is your favorite airplane? 2) What is your favorite video game? 3) What is your favorite food? 4) If you consume alcohol, what is your favorite alcoholic drink?",
+      "textZh": "u/ghostrider176：1）你最喜欢哪种飞机？2）你最喜欢哪款电子游戏？3）你最喜欢什么食物？4）如果你喝酒，最喜欢哪种酒精饮料？"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "Elon Musk: SR-71 Hard to pick a favorite. I tend to like FPS with a story, like Bioshock, Fallout or Mass Effect, but was also a big fan of Civ and Warcraft. French and BBQ Whiskey",
+      "textZh": "埃隆·马斯克：SR-71 很难选出最喜欢的。我通常喜欢有故事情节的第一人称射击游戏，比如《生化奇兵》《辐射》或《质量效应》，但我也曾是《文明》和《魔兽争霸》的忠实粉丝。法餐和烧烤 威士忌"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfskxt/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfskxt/"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "u/[deleted]: [question deleted by its author]",
+      "textZh": "u/[已删除]：[问题已被作者删除]"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "Elon Musk: Good school",
+      "textZh": "埃隆·马斯克：好学校"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfspmy/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfspmy/"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "u/[deleted]: Europa: attempt no landing there. True or false?",
+      "textZh": "u/[已删除]：木卫二：不要尝试在那里着陆。对还是错？"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "Elon Musk: There should definitely be a science mission to Europa",
+      "textZh": "埃隆·马斯克：绝对应该派一项科学任务前往木卫二"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfsq5b/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfsq5b/"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "u/catsx3: Hi Elon, I currently work for Toyota Tsusho in Fremont doing the wheel assembly for Tesla. My question: you seem to have had to deal with a tremendous amount of adversity in a few of your ventures. Do you have any advice for those dealing with seemingly insurmountable adversity?",
+      "textZh": "u/catsx3：你好，埃隆，我目前在弗里蒙特的丰田通商工作，负责为 Tesla 组装车轮。我的问题是：你似乎在自己的几项事业中都不得不应对极其巨大的逆境。对于那些正在应对看似无法克服的逆境的人，你有什么建议吗？"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "Elon Musk: There is a great quote by Churchill: \"If you're going through hell, keep going.\"",
+      "textZh": "埃隆·马斯克：丘吉尔有一句很棒的名言：“如果你正在经历地狱，那就继续前进。”"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfsrdy/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfsrdy/"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "u/[deleted]: Would you ever consider becoming a politician?",
+      "textZh": "u/[已删除]：你会考虑成为一名政治人物吗？"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "Elon Musk: Unlikely",
+      "textZh": "埃隆·马斯克：不太可能"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfsskp/",
+      "textZh": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/cnfsskp/"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T21:53:47.629Z",
+    "reviewedAt": "2026-09-12T22:43:52.741Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:53.522Z",
+  "transcriptSource": "https://www.reddit.com/r/IAmA/comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/",
+  "sourceHash": "e39a275ccd95daa8b78388f215caf7b8449426f80c73b49b0fbbf6e4e975b035"
+}

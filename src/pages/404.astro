@@ -1,0 +1,46 @@
+---
+import { ArrowLeft } from "@lucide/astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="页面未找到" description="请求的档案页面不存在。" noindex excludeFromSearch>
+  <section class="not-found shell">
+    <p>404</p>
+    <h1>这条记录不在档案里</h1>
+    <span>链接可能已经变更，或者这条资料尚未收录。</span>
+    <a class="button" href="/"><ArrowLeft size={17} stroke-width={1.8} aria-hidden="true" /> 返回影像目录</a>
+  </section>
+</BaseLayout>
+
+<style>
+  .not-found {
+    display: grid;
+    place-items: start;
+    min-height: 58vh;
+    padding-block: 76px;
+  }
+
+  .not-found p {
+    margin: 0 0 18px;
+    color: var(--launch);
+    font-weight: 650;
+  }
+
+  .not-found h1 {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 5rem;
+    line-height: 1.15;
+  }
+
+  .not-found span {
+    margin: 18px 0 32px;
+    color: var(--muted);
+  }
+
+  @media (max-width: 600px) {
+    .not-found h1 {
+      font-size: 2.5rem;
+    }
+  }
+</style>

@@ -1,0 +1,287 @@
+---
+import { ArrowUpRight, Clock3 } from "@lucide/astro";
+import {
+  CONTENT_LABELS,
+  TRANSLATION_LABELS,
+  TYPE_LABELS,
+  formatDate,
+  formatDuration,
+  videoThumbnail,
+  videoYear,
+} from "../lib/display";
+import type { VideoEntry } from "../lib/types";
+
+interface Props {
+  video: VideoEntry;
+}
+
+const { video } = Astro.props;
+const thumbnail = videoThumbnail(video);
+const title = video.titleZh || video.titleEn;
+const summary = video.summaryZh || video.summaryEn;
+const bodyState = video.contentKind === "none" ? "none" : "available";
+const statusLabel = video.contentKind === "none"
+  ? CONTENT_LABELS.none
+  : TRANSLATION_LABELS[video.translation.status];
+---
+
+<article
+  class="video-card"
+  data-video-card
+  data-type={video.type}
+  data-year={videoYear(video.date)}
+  data-org={video.org || ""}
+  data-body={bodyState}
+  data-date={video.date}
+>
+  <a class="card-media" href={`/videos/${video.slug}/`} tabindex="-1" aria-hidden="true">
+    {thumbnail ? (
+      <img src={thumbnail} alt="" width="640" height="360" loading="lazy" decoding="async" />
+    ) : (
+      <span class="media-placeholder">
+        <span>{videoYear(video.date)}</span>
+        <small>影像记录</small>
+      </span>
+    )}
+    {video.durationSec !== undefined && (
+      <span class="duration">
+        <Clock3 size={13} stroke-width={2} aria-hidden="true" />
+        {formatDuration(video.durationSec)}
+      </span>
+    )}
+  </a>
+
+  <div class="card-body">
+    <div class="card-index" aria-hidden="true">
+      <span>{videoYear(video.date)}</span>
+    </div>
+    <div class="card-copy">
+      <p class="meta-line">
+        <time datetime={video.date}>{formatDate(video.date)}</time>
+        <span>{TYPE_LABELS[video.type]}</span>
+        {video.org && <span>{video.org}</span>}
+      </p>
+      <h2 lang={video.titleZh ? undefined : "en"}><a href={`/videos/${video.slug}/`}>{title}</a></h2>
+      {summary && <p class="summary" lang={video.summaryZh ? undefined : "en"}>{summary}</p>}
+      <div class="card-footer">
+        <span class="status" data-status={video.contentKind === "none" ? "none" : video.translation.status}>
+          {statusLabel}
+        </span>
+        <a class="read-link" href={`/videos/${video.slug}/`} aria-label={`阅读：${title}`}>
+          阅读档案 <ArrowUpRight size={15} stroke-width={1.8} aria-hidden="true" />
+        </a>
+      </div>
+    </div>
+  </div>
+</article>
+
+<style>
+  .video-card {
+    display: grid;
+    grid-template-columns: minmax(210px, 36%) minmax(0, 1fr);
+    height: 248px;
+    overflow: hidden;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: var(--surface);
+  }
+
+  .video-card:hover {
+    border-color: var(--line-dark);
+  }
+
+  .video-card[hidden] {
+    display: none;
+  }
+
+  .card-media {
+    position: relative;
+    display: block;
+    min-height: 100%;
+    overflow: hidden;
+    border-inline-end: 1px solid var(--line);
+    color: var(--surface);
+    background: #252a28;
+  }
+
+  .card-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(0.82) contrast(1.03);
+  }
+
+  .media-placeholder {
+    display: grid;
+    place-content: center;
+    min-height: 100%;
+    padding: 24px;
+    text-align: center;
+  }
+
+  .media-placeholder span {
+    font-family: var(--serif);
+    font-size: 2.4rem;
+  }
+
+  .media-placeholder small {
+    color: #b9c0bd;
+  }
+
+  .duration {
+    position: absolute;
+    right: 9px;
+    bottom: 9px;
+    display: inline-flex;
+    gap: 5px;
+    align-items: center;
+    border-radius: 3px;
+    padding: 4px 7px;
+    color: white;
+    background: rgb(20 23 22 / 88%);
+    font-size: 0.74rem;
+  }
+
+  .card-body {
+    display: grid;
+    grid-template-columns: 47px minmax(0, 1fr);
+    min-width: 0;
+  }
+
+  .card-index {
+    position: relative;
+    border-inline-end: 1px solid var(--line);
+    color: var(--muted);
+  }
+
+  .card-index::before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 14px;
+    width: 2px;
+    background: var(--launch);
+    content: "";
+  }
+
+  .card-index::after {
+    position: absolute;
+    top: 28px;
+    left: 9px;
+    width: 10px;
+    height: 10px;
+    border: 2px solid var(--surface);
+    border-radius: 50%;
+    background: var(--launch);
+    content: "";
+  }
+
+  .card-index span {
+    position: absolute;
+    top: 47px;
+    left: 25px;
+    font-size: 0.7rem;
+    writing-mode: vertical-rl;
+  }
+
+  .card-copy {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    padding: 25px 26px 22px;
+  }
+
+  h2 {
+    display: -webkit-box;
+    margin: 12px 0 10px;
+    overflow: hidden;
+    font-family: var(--serif);
+    font-size: 1.35rem;
+    font-weight: 650;
+    line-height: 1.42;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+
+  h2 a {
+    text-decoration: none;
+  }
+
+  h2 a:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--launch);
+  }
+
+  .summary {
+    display: -webkit-box;
+    margin: 0;
+    overflow: hidden;
+    color: var(--muted);
+    font-family: var(--serif);
+    font-size: 0.91rem;
+    line-height: 1.72;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: center;
+    margin-top: auto;
+    padding-top: 18px;
+  }
+
+  .read-link {
+    display: inline-flex;
+    gap: 5px;
+    align-items: center;
+    font-size: 0.82rem;
+    font-weight: 580;
+    text-decoration: none;
+  }
+
+  .read-link:hover {
+    color: var(--launch);
+  }
+
+  @media (max-width: 680px) {
+    .video-card {
+      grid-template-columns: 1fr;
+      height: auto;
+    }
+
+    .card-media {
+      min-height: auto;
+      aspect-ratio: 16 / 9;
+      border-inline-end: 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .card-body {
+      grid-template-columns: 38px minmax(0, 1fr);
+    }
+
+    .card-index::before {
+      left: 11px;
+    }
+
+    .card-index::after {
+      left: 6px;
+    }
+
+    .card-index span {
+      left: 20px;
+    }
+
+    .card-copy {
+      min-height: 244px;
+      padding: 22px 18px 19px;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+    }
+  }
+</style>

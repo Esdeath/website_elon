@@ -1,0 +1,1595 @@
+{
+  "id": "dwarkesh-musk-2026",
+  "slug": "dwarkesh-musk-2026",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2026-02-05",
+  "titleEn": "Dwarkesh Podcast",
+  "titleZh": "Dwarkesh 播客",
+  "summaryEn": "Elon Musk joins Dwarkesh Patel and Stripe co-founder John Collison for a near three-hour conversation on space-based data centers, scaling power to the terawatt level, manufacturing humanoids in America, and xAI's plans.",
+  "summaryZh": "埃隆·马斯克与 Dwarkesh Patel 和 Stripe 联合创始人 John Collison 展开了一场近3小时的对话，讨论了太空数据中心、将电力规模扩大到太瓦级、在美国制造人形机器人，以及 xAI 的计划。",
+  "sourceUrl": "https://www.dwarkesh.com/p/elon-musk",
+  "sourceLabel": "Dwarkesh Podcast",
+  "archiveUrl": "https://elonmuskarchive.org/video/dwarkesh-musk-2026",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/BYXbuik3dgA",
+  "thumbnailUrl": "https://i.ytimg.com/vi/BYXbuik3dgA/hqdefault.jpg",
+  "org": "xAI",
+  "durationSec": 10186,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Are there really three hours of questions? Are you fucking serious? You don't think there's a lot to talk about, Elon? Holy fuck man. It's the most interesting point. All the storylines are converging right now. We'll see how much we can get through. It's almost like I planned it. Exactly. We'll get to that.",
+      "textZh": "真的有3小时的问题吗？你他妈是认真的吗？你不觉得有很多事情可以谈吗，埃隆？我操，伙计。这是最有意思的节点。所有故事线此刻都在汇合。看看我们能谈完多少吧。简直就像是我计划好的一样。没错。我们会谈到那个的。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "But I would never do such a thing… As you know better than anybody else, only 10-15% of the total cost of ownership of a data center is energy. That's the part you're presumably saving by moving this into space. Most of it's the GPUs. If they're in space, it's harder to service them or you can't service them. So the depreciation cycle goes down on them. It's just way more expensive to have the GPUs in space, presumably.",
+      "textZh": "但我绝不会做这种事……正如你比任何人都清楚的那样，能源只占数据中心总拥有成本的10-15%。把它搬到太空，想必省下的就是这部分。成本的大头是 GPU。如果它们在太空，就更难维护，或者根本无法维护。所以它们的折旧周期会缩短。想必把 GPU 放在太空就是贵得多。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "What's the reason to put them in space? The availability of energy is the issue. If you look at electrical output outside of China, everywhere outside of China, it's more or less flat. It’s maybe a slight increase, but pretty close flat. China has a rapid increase in electrical output. But if you're putting data centers anywhere except China, where are you going to get your electricity? Especially as you scale.",
+      "textZh": "把它们放到太空的理由是什么？问题在于能源的可获得性。如果看中国以外地区的发电量，中国以外的所有地方都或多或少持平。也许略有增长，但非常接近持平。中国的发电量正在快速增长。但如果你把数据中心放在中国以外的任何地方，你要从哪里获得电力？尤其是在扩大规模时。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "The output of chips is growing pretty much exponentially, but the output of electricity is flat. So how are you going to turn the chips on? Magical power sources? Magical electricity fairies? You're famously a big fan of solar. One terawatt of solar power, with a 25% capacity factor, that’s like four terawatts of solar panels. It's 1% of the land area of the United States.",
+      "textZh": "芯片产量几乎呈指数级增长，但发电量却是持平的。那么你要怎么让这些芯片通电？魔法能源？魔法电力仙子？众所周知，你是太阳能的忠实拥趸。1太瓦太阳能电力，按25%的容量系数计算，相当于4太瓦的太阳能电池板。那是美国国土面积的1%。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "We’re in the singularity when we’ve got one terawatt of data centers, right? So what are you running out of exactly? How far into the singularity are you though? You tell me. Exactly. So I think we'll find we're in the singularity and it’ll be like, \"Okay, we’ve still got a long way to go.\" But is the plan to put it in space after we've covered Nevada in solar panels? I think it's pretty hard to cover Nevada in solar panels.",
+      "textZh": "当我们拥有1太瓦的数据中心时，我们就处于奇点了，对吧？所以你到底会耗尽什么？不过那时你深入奇点多远了？你告诉我。没错。所以我认为，我们会发现自己已经处于奇点，然后会说：“好吧，我们仍然任重道远。”但计划是在我们用太阳能电池板铺满内华达州之后，再把它放到太空吗？我认为用太阳能电池板铺满内华达州相当困难。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "You have to get permits. Try getting the permits for that. See what happens. So space is really a regulatory play. It's harder to build on land than it is in space. It's harder to scale on the ground than it is to scale in space. You're also going to get about five times the effectiveness of solar panels in space versus the ground, and you don't need batteries. I almost wore my other shirt, which says, \"it's always sunny in space\".",
+      "textZh": "你必须获得许可。试试看能不能拿到那些许可。看看会发生什么。所以太空其实是一种监管层面的策略。在陆地上建设比在太空更难。在地面扩大规模比在太空扩大规模更难。而且太空中的太阳能电池板效能约为地面的5倍，你也不需要电池。我差点穿了另一件衬衫，上面写着：“太空永远阳光普照”。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "Which it is because you don't have a day-night cycle, seasonality, clouds, or an atmosphere in space. The atmosphere alone results in about a 30% loss of energy. So any given solar panel can do about five times more power in space than on the ground. You also avoid the cost of having batteries to carry you through the night. It's actually much cheaper to do in space. My prediction is that it will be by far the cheapest place to put AI.",
+      "textZh": "确实如此，因为在太空中没有昼夜循环、季节变化、云层或大气层。仅大气层就会造成约30%的能量损失。所以任何一块太阳能电池板在太空中产生的电力都可以达到地面的约5倍。你还省去了为了支撑一整夜而配置电池的成本。在太空做其实便宜得多。我的预测是，太空将以压倒性优势成为部署 AI 成本最低的地方。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "It will be space in 36 months or less. Maybe 30 months. 36 months? Less than 36 months. How do you service GPUs as they fail, which happens quite often in training? Actually, it depends on how recent the GPUs are that have arrived. At this point, we find our GPUs to be quite reliable. There's infant mortality, which you can obviously iron out on the ground.",
+      "textZh": "在36个月或更短时间内，部署 AI 最合适的地方将是太空。也许30个月。36个月？不到36个月。GPU 发生故障时，你要怎么维护？这种情况在训练中经常发生。其实，这取决于运抵的 GPU 有多新。目前我们发现自己的 GPU 相当可靠。会有早期失效问题，这显然可以在地面上排除。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "So you can just run them on the ground and confirm that you don't have infant mortality with the GPUs. But once they start working and you're past the initial debug cycle of Nvidia or whoever's making the chips—could be Tesla AI6 chips or something like that, or it could be TPUs or Trainiums or whatever—they’re quite reliable past a certain point. So I don't think the servicing thing is an issue. But you can mark my words.",
+      "textZh": "所以你可以直接在地面运行它们，确认 GPU 不存在早期失效问题。但一旦它们开始运行，并且度过了 Nvidia 或任何芯片制造商的初始调试周期——可能是 Tesla AI6 芯片之类的，也可能是 TPU、Trainium 或其他任何东西——过了某个阶段后，它们就相当可靠。所以我认为维护不是问题。但你们记住我的话。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "In 36 months, but probably closer to 30 months, the most economically compelling place to put AI will be space. It will then get ridiculously better to be in space. The only place you can really scale is space. Once you start thinking in terms of what percentage of the Sun's power you are harnessing, you realize you have to go to space. You can't scale very much on Earth. But by very much, to be clear, you're talking terawatts? Yeah.",
+      "textZh": "36个月后，但很可能更接近30个月，部署 AI 在经济上最具吸引力的地方将是太空。此后，在太空部署的优势将大到荒谬。真正能扩大规模的唯一地方就是太空。一旦你开始从自己正在利用太阳能量的百分比来思考，就会意识到你必须进入太空。在地球上无法把规模扩大多少。不过说清楚，你所谓的扩大很多，是指太瓦级吗？对。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "All of the United States currently uses only half a terawatt on average. So if you say a terawatt, that would be twice as much electricity as the United States currently consumes. So that's quite a lot. Can you imagine building that many data centers, that many power plants? Those who have lived in software land don't realize they're about to have a hard lesson in hardware. It's actually very difficult to build power plants.",
+      "textZh": "目前整个美国平均只使用0.5太瓦。所以，如果你说1太瓦，那将是美国当前耗电量的2倍。所以这相当庞大。你能想象建造那么多数据中心、那么多发电厂吗？那些一直生活在软件世界里的人没有意识到，他们即将在硬件方面吃到苦头。建造发电厂其实非常困难。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "You don't just need power plants, you need all of the electrical equipment. You need the electrical transformers to run the AI transformers. Now, the utility industry is a very slow industry. They pretty much impedance match to the government, to the Public Utility Commissions. They impedance match literally and figuratively. They're very slow, because their past has been very slow. So trying to get them to move fast is...",
+      "textZh": "你需要的不只是发电厂，还需要所有电气设备。你需要用电力变压器来运行 AI Transformer。如今，公用事业是一个非常缓慢的行业。它们基本上与政府、与公用事业委员会进行阻抗匹配。无论从字面还是比喻意义上，它们都在进行阻抗匹配。它们非常缓慢，因为它们过去一直都非常缓慢。所以想让它们快速行动是……"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Have you ever tried to do an interconnect agreement with a utility at scale, with a lot of power? As a professional podcaster, I can say that I have not, in fact. They need many more views before that becomes an issue. They have to do a study for a year. A year later, they'll come back to you with their interconnect study. Can't you solve this with your own behind the meter power stuff? You can build power plants.",
+      "textZh": "你尝试过在大规模、大功率情况下与公用事业公司签订并网协议吗？作为一名职业播客主持人，我可以说，我确实没有尝试过。在这成为问题之前，他们需要多得多的观看量。他们必须花1年做研究。1年后，他们会带着并网研究结果回来找你。你不能用自己的表后供电设备解决这个问题吗？你可以建造发电厂。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "That's what we did at xAI, for Colossus 2. So why talk about the grid? Why not just build GPUs and power co-located? That's what we did. But I'm saying why isn't this a generalized solution? Where do you get the power plants from? When you're talking about all the issues working with utilities, you can just build private power plants with the data centers. Right. But it begs the question of where do you get the power plants from?",
+      "textZh": "我们在 xAI 就是这么做的，用于 Colossus 2。那为什么还要谈电网？为什么不直接把 GPU 和电力设施建在一起？我们就是这么做的。但我想问的是，为什么这不能成为一种通用解决方案？你从哪里获得发电厂？当你谈到与公用事业公司合作的所有问题时，你可以直接建造与数据中心配套的私营发电厂。对。但这就引出了一个问题：你从哪里获得发电厂？"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "The power plant makers. Oh, I see what you're saying. Is this the gas turbine backlog basically? Yes. You can drill down to a level further. It's the vanes and blades in the turbines that are the limiting factor because it’s a very specialized process to cast the blades and vanes in the turbines, assuming you’re using gas power. It's very difficult to scale other forms of power.",
+      "textZh": "从发电厂制造商那里。哦，我明白你的意思了。基本上就是燃气轮机积压的问题吗？对。还可以再深入一层。限制因素是涡轮机里的导向叶片和动叶片，因为铸造涡轮机中的动叶片和导向叶片是一项高度专业化的工艺，前提是你使用燃气发电。其他形式的发电非常难以扩大规模。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "You can potentially scale solar, but the tariffs currently for importing solar in the US are gigantic and the domestic solar production is pitiful. Why not make solar? That seems like a good Elon-shaped problem. We are going to make solar. Okay. Both SpaceX and Tesla are building towards 100 gigawatts a year of solar cell production. How low down the stack? From polysilicon up to the wafer to the final panel?",
+      "textZh": "你或许可以扩大太阳能的规模，但目前美国对进口太阳能产品征收的关税高得惊人，而国内的太阳能产量少得可怜。为什么不制造太阳能产品？这似乎很适合由埃隆来解决。我们会制造太阳能产品。好。SpaceX 和 Tesla 都在朝着每年100吉瓦的太阳能电池产能迈进。产业链要向下延伸到什么程度？从多晶硅到晶圆，再到最终的面板吗？"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "I think you've got to do the whole thing from raw materials to finish the cell. Now, if it's going to space, it costs less and it's easier to make solar cells that go to space because they don't need much glass. They don't need heavy framing because they don't have to survive weather events. There's no weather in space. So it's actually a cheaper solar cell that goes to space than the one on the ground.",
+      "textZh": "我认为你必须做完整套流程，从原材料一直到完成电池片。现在，如果它要进入太空，成本会更低，制造送往太空的太阳能电池也更容易，因为它们不需要太多玻璃。它们不需要沉重的框架，因为不必经受天气事件。太空中没有天气。所以，送往太空的太阳能电池实际上比地面使用的更便宜。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Is there a path to getting them as cheap as you need in the next 36 months? Solar cells are already very cheap. They're farcically cheap. I think solar cells in China are around $0. 25-30/watt or something like that. It's absurdly cheap. Now put it in space, and it's five times cheaper. In fact, it's not five times cheaper, it's 10 times cheaper because you don't need any batteries.",
+      "textZh": "有没有可能在未来36个月内把它们的价格降到你所需要的水平？太阳能电池已经非常便宜了。便宜得可笑。我认为中国的太阳能电池大约是每瓦0.25-0.30美元，差不多是这样。便宜得荒谬。现在把它放到太空，就便宜5倍。事实上，不是便宜5倍，而是便宜10倍，因为你不需要任何电池。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "So the moment your cost of access to space becomes low, by far the cheapest and most scalable way to generate tokens is space. It's not even close. It'll be an order of magnitude easier to scale. The point is you won't be able to scale on the ground. You just won't. People are going to hit the wall big time on power generation. They already are.",
+      "textZh": "所以，一旦进入太空的成本降低，生成 token 成本最低、可扩展性最强的方式将以压倒性优势属于太空。根本没有可比性。扩大规模会容易一个数量级。关键是，你将无法在地面扩大规模。就是无法做到。人们会在发电方面狠狠撞墙。他们已经撞上了。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "The number of miracles in series that the xAI team had to accomplish in order to get a gigawatt of power online was crazy. We had to gang together a whole bunch of turbines. We then had permit issues in Tennessee and had to go across the border to Mississippi, which is fortunately only a few miles away. But we still then had to run the high power lines a few miles and build the power plant in Mississippi. It was very difficult to build that.",
+      "textZh": "为了让1吉瓦的电力上线，xAI 团队不得不接连创造奇迹，简直疯狂。我们不得不把一大批涡轮机组合起来。随后，我们在田纳西州遇到了许可问题，不得不越过州界去密西西比州，好在只有几英里远。但之后我们仍然不得不铺设几英里的高压电线，并在密西西比州建造发电厂。建造它非常困难。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "People don't understand how much electricity you actually need at the generation level in order to power a data center. Because the noobs will look at the power consumption of, say a GB300, and multiply that by a thing and then think that's the amount of power you need. All the cooling and everything. Wake up. That's a total noob, you’ve never done any hardware in your life before.",
+      "textZh": "人们不明白，要为一座数据中心供电，在发电端实际上需要多少电力。因为菜鸟会看一下比如一块 GB300 的功耗，乘上某个数量，然后就以为那是你所需的电量。还有所有的冷却以及其他一切。醒醒吧。那完全是菜鸟，你这辈子从来没做过任何硬件。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "Besides the GB300, you've got to power all of the networking hardware. There's a whole bunch of CPU and storage stuff that's happening. You've got to size for your peak cooling requirements. That means, can you cool even on the worst hour of the worst day of the year? It gets pretty frigging hot in Memphis. So you're going to have a 40% increase on your power just for cooling.",
+      "textZh": "除了 GB300，你还得为所有网络硬件供电。还有一大堆 CPU 和存储方面的东西在运行。你必须按照峰值冷却需求来确定规模。也就是说，即使在一年中最糟糕那一天里最糟糕的那个小时，你也能冷却吗？孟菲斯会热得要命。所以仅仅为了冷却，你的用电量就会增加40%。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "That’s assuming you don't want your data center to turn off on hot days and you want to keep going. There's another multiplicative element on top of that which is, are you assuming that you never have any hiccups in your power generation? Actually, sometimes we have to take the generators, some of the power, offline in order to service it.",
+      "textZh": "这是在假设你不希望数据中心在炎热天气里关机，而是希望它继续运行。除此之外还有另一个乘数因素，那就是：你是不是假设自己的发电永远不会出现任何小故障？实际上，有时候我们不得不让发电机、部分电力下线，以便进行维护。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "Okay, now you add another 20-25% multiplier on that, because you've got to assume that you've got to take power offline to service it. So our actual estimate: every 110,000 GB300s—inclusive of networking, CPU, storage, cooling, margin for servicing power—is roughly 300 megawatts. Sorry, say that again.",
+      "textZh": "好，现在还要在此基础上再增加20%-25%，因为你必须假设，为了维护，你得让电力设施停止运行。所以我们的实际估算是：每110,000个 GB300——包括网络、CPU、存储、冷却以及为电力设施维护预留的余量——大约需要300兆瓦。抱歉，再说一遍。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "What you probably need at the generation level to service 330,000 GB 300s—including all of the associated support networking and everything else, and the peak cooling, and to have some power margin reserve—is roughly a gigawatt. Can I ask a very naive question? You're describing the engineering details of doing this stuff on Earth. But then there's analogous engineering difficulties of doing it in space.",
+      "textZh": "要为330,000块 GB 300 提供服务——包括所有相关的配套网络和其他一切、峰值冷却，并留出一些电力余量储备——你在发电端可能需要的大约是1吉瓦。我能问一个非常幼稚的问题吗？你描述的是在地球上做这些事情的工程细节。但在太空中，也存在类似的工程难题。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "How do you replace infinite bandwidth with orbital lasers, et cetera, et cetera? How do you make it resistant to radiation? I don't know the details of the engineering, but fundamentally, what is the reason to think those challenges which have never had to be addressed before will end up being easier than just building more turbines on Earth? There are companies that build turbines on Earth. They can make more turbines, right?",
+      "textZh": "你怎么用轨道激光等诸如此类的东西取代无限带宽？你怎么让它具备抗辐射能力？我不了解工程细节，但从根本上说，有什么理由认为，那些以前从未需要解决的挑战最终会比仅仅在地球上建造更多涡轮机更容易？有些公司在地球上制造涡轮机。他们可以制造更多涡轮机，对吧？"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Again, try doing it and then you'll see. The turbines are sold out through 2030. Have you guys considered making your own? In order to bring enough power online, I think SpaceX and Tesla will probably have to make the turbine blades, the vanes and blades, internally. But just the blades or the turbines? The limiting factor... you can get everything except the blades. They call them blades and vanes.",
+      "textZh": "还是那句话，试着去做，然后你就会明白。涡轮机到2030年都已售罄。你们考虑过自己制造吗？为了让足够的发电能力投入运行，我认为SpaceX和Tesla可能必须在内部制造涡轮机的叶片，也就是导向叶片和叶片。但只是叶片，还是涡轮机？限制因素……除了叶片以外，其他一切你都能买到。他们把它们称为叶片和导向叶片。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "You can get that 12 to 18 months before the vanes and blades. The limiting factor is the vanes and blades. There are only three casting companies in the world that make these, and they're massively backlogged. Is this Siemens, GE, those guys, or is it a sub company? No, it's other companies. Sometimes they have a little bit of casting capability in-house. But I'm just saying you can just call any of the turbine makers and they will tell you.",
+      "textZh": "你可以比导向叶片和叶片提前12到18个月拿到那个。限制因素是导向叶片和叶片。全世界只有3家铸造公司制造这些东西，而它们的订单严重积压。这是西门子、GE这些公司，还是一家子公司？不，是其他公司。有时他们自己内部有一点铸造能力。但我只是说，你可以给任何一家涡轮机制造商打电话，他们都会告诉你。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "It's not top secret. It’s probably on the internet right now. If it wasn't for the tariffs, would Colossus be solar-powered? It would be much easier to make it solar powered, yeah. The tariffs are nuts, several hundred percent. Don't you know some people? The president has... we don't agree on everything and this administration is not the biggest fan of solar. We also need the land, the permits, and everything.",
+      "textZh": "这不是绝密。它现在可能就在互联网上。要不是关税，Colossus会使用太阳能供电吗？让它使用太阳能供电会容易得多，是的。关税太疯狂了，高达百分之几百。你不是认识一些人吗？总统已经……我们并非在所有事情上都意见一致，而且本届政府并不是太阳能最热衷的支持者。我们还需要土地、许可，以及一切东西。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "So if you try to move very fast, I do think scaling solar on Earth is a good way to go, but you do need some amount of time to find the land, get the permits, get the solar, pair that with the batteries. Why would it not work to stand up your own solar production? You're right that you eventually run out of land, but there's a lot of land here in Texas. There's a lot of land in Nevada, including private land. It's not all publicly-owned land.",
+      "textZh": "所以，如果你试图非常快速地推进，我确实认为在地球上扩大太阳能规模是一条好路，但你确实需要一定时间来寻找土地、获得许可、获得太阳能设备，再将其与电池配套。建立你们自己的太阳能生产体系为什么行不通？你说得对，最终土地会用完，但得克萨斯州这里有很多土地。内华达州有很多土地，包括私人土地。并非全都是公有土地。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "So you'd be able to at least get the next Colossus and the next one after that. At a certain point, you hit a wall. But wouldn't that work for the moment? As I said, we are scaling solar production. There's a rate at which you can scale physical production of solar cells. We're going as fast as possible in scaling domestic production. You're making the solar cells at Tesla?",
+      "textZh": "所以，你至少能够搞定下一个Colossus，以及再下一个。到了某个时点，你会撞上一堵墙。但目前这么做难道不行吗？正如我所说，我们正在扩大太阳能生产规模。太阳能电池的实际生产只能以一定的速度扩大。我们正在尽可能快地扩大国内生产。你们是在Tesla制造太阳能电池吗？"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "Both Tesla and SpaceX have a mandate to get to 100 gigawatts a year of solar. Speaking of the annual capacity, I'm curious, in five years time let's say, what will the installed capacity be on Earth…? Five years is a long time. And in space? I deliberately pick five years because it's after your \"once we're up and running\" threshold. So in five years time what's the on-Earth versus in-space installed AI capacity?",
+      "textZh": "Tesla和SpaceX都肩负着将太阳能产能提高到每年100吉瓦的任务。说到年产能，我很好奇，比方说5年后，地球上的装机容量会是多少……？5年很长。而太空中呢？我特意选择5年，是因为它越过了你所说的“等我们启动并运转起来”这个门槛。那么5年后，地球上与太空中的AI装机容量分别是多少？"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "If you say five years from now, I think probably AI in space will be launching every year the sum total of all AI on Earth. Meaning, five years from now, my prediction is we will launch and be operating every year more AI in space than the cumulative total on Earth. Which is... I would expect it to be at least, five years from now, a few hundred gigawatts per year of AI in space and rising.",
+      "textZh": "如果你说从现在起5年后，我认为太空中的AI每年发射的规模可能会达到地球上所有AI的总和。也就是说，从现在起5年后，我预测我们每年发射到太空并投入运行的AI，会多于地球上的累计总量。也就是……我预计，从现在起5年后，太空中的AI每年至少会达到几百吉瓦，并且持续增长。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "I think you can get to around a terawatt a year of AI in space before you start having fuel supply challenges for the rocket. Okay, but you think you can get hundreds of gigawatts per year in five years time? Yes. So 100 gigawatts, depending on the specific power of the whole system with solar arrays and radiators and everything, is on the order of 10,000 Starship launches. Yes. You want to do that in one year.",
+      "textZh": "我认为，在火箭开始面临燃料供应挑战之前，太空中的AI可以达到每年约1太瓦。好的，但你认为5年后可以达到每年数百吉瓦？是的。那么100吉瓦，根据整个系统，包括太阳能电池阵列、散热器及所有设备的比功率计算，大约需要10,000次星舰发射。是的。你想在1年内完成。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "So that's like one Starship launch every hour. That's happening in this city? Walk me through a world where there's a Starship launch every single hour. I mean, that's actually a lower rate compared to airlines, aircraft. There's a lot of airports. A lot of airports. And you’ve got to launch into the polar orbit. No, it doesn't have to be polar.",
+      "textZh": "那么这就像每小时发射1次星舰。这会发生在这座城市吗？给我讲讲这样一个世界：每个小时都有1次星舰发射。我的意思是，与航空公司、飞机相比，这实际上是一个更低的频率。有很多机场。很多机场。而且你还必须发射进入极地轨道。不，它不一定非得是极地轨道。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "There's some value to sun-synchronous, but I think actually, if you just go high enough, you start getting out of Earth's shadow. How many physical Starships are needed to do 10,000 launches a year? I don't think we'll need more than... You could probably do it with as few as 20 or 30. It really depends on how quickly… The ship has to go around the Earth and the ground track for the ship has to come back over the launch pad.",
+      "textZh": "太阳同步轨道有一定价值，但我其实认为，只要飞得足够高，就会开始脱离地球的阴影。1年完成10,000次发射需要多少艘实体星舰？我认为我们需要的不超过……少到只用20或30艘可能就能做到。这实际上取决于能有多快……飞船必须绕地球飞行，而飞船的地面轨迹必须重新回到发射台上空。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "So if you can use a ship every, say 30 hours, you could do it with 30 ships. But we'll make more ships than that. SpaceX is gearing up to do 10,000 launches a year, and maybe even 20 or 30,000 launches a year. Is the idea to become basically a hyperscaler, become an Oracle, and lend this capacity to other people? Presumably, SpaceX is the one launching all this. So, SpaceX is going to become a hyperscaler? Hyper-hyper.",
+      "textZh": "所以，如果一艘飞船每隔，比如说，30小时就能使用一次，那么用30艘飞船就可以做到。但我们会制造比这更多的飞船。SpaceX正在准备实现每年10,000次发射，甚至可能每年20,000或30,000次发射。这个想法是不是要基本上成为一家超大规模服务商，成为Oracle，然后把这种能力提供给其他人？想必，所有这些都是由SpaceX发射的。那么，SpaceX会成为一家超大规模服务商？超级超级规模。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "If some of my predictions come true, SpaceX will launch more AI than the cumulative amount on Earth of everything else combined. Is this mostly inference or? Most AI will be inference. Already, inference for the purpose of training is most training. There's a narrative that the change in discussion around a SpaceX IPO is because previously SpaceX was very capital efficient. It wasn't that expensive to develop.",
+      "textZh": "如果我的一些预测成真，SpaceX发射的AI将超过地球上其他一切的累计总量。这主要是推理，还是？大多数AI都会是推理。现在，以训练为目的的推理已经占了训练的大部分。有一种说法认为，围绕SpaceX IPO的讨论之所以发生变化，是因为SpaceX以前的资本效率非常高。开发它并没有那么昂贵。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "Even though it sounds expensive, it's actually very capital efficient in how it runs. Whereas now you're going to need more capital than just can be raised in the private markets. The private markets can accommodate raises of—as we've seen from the AI labs—tens of billions of dollars, but not beyond that. Is it that you'll just need more than tens of billions of dollars per year? That's why you'd take it public?",
+      "textZh": "尽管听起来很昂贵，但它的实际运营方式资本效率非常高。而现在，你需要的资本将超过仅靠私募市场所能筹集的数额。正如我们从AI实验室那里看到的，私募市场可以容纳数百亿美元的融资，但无法容纳更高的数额。是不是因为你每年需要的不只是数百亿美元？所以你才会让它上市？"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "I have to be careful about saying things about companies that might go public. That’s never been a problem for you, Elon. There's a price to pay for these things. Make some general statements for us about the depth of the capital markets between public and private markets. There's a lot more capital available... Very general. There's obviously a lot more capital available in the public markets than private.",
+      "textZh": "对于可能上市的公司，我必须谨慎发言。这对你来说从来都不是问题，埃隆。这些事情是要付出代价的。请为我们大致谈谈公开市场与私募市场之间资本市场的深度。可获得的资本多得多……非常笼统地说。显然，公开市场上可获得的资本比私募市场多得多。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "It might be 100x more capital, but it's way more than 10x. Isn't it also the case that with things that tend to be very capital intensive—if you look at, say, real estate as a huge industry, that raises a lot of money each year at an industry level—they tend to be debt financed because by the time you're deploying that much money, you actually have a pretty— You have a clear revenue stream. Exactly, and a near-term return.",
+      "textZh": "可获得的资本可能是100倍，但肯定远远超过10倍。对于往往资本密集度非常高的事物，情况不也是这样吗——比如说，房地产是一个庞大的行业，从行业层面看每年都会筹集大量资金——它们往往通过债务融资，因为当你投入这么多资金时，你实际上已经有一个相当——你有明确的收入来源。没错，而且短期内就有回报。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "You see this even with the data center build-outs, which are famously being financed by the private credit industry. Why not just debt finance? Speed is important. I'm generally going to do the thing that... I just repeatedly tackle the limiting factor. Whatever the limiting factor is on speed, I'm going to tackle that. If capital is the limiting factor, then I'll solve for capital. If it's not the limiting factor, I'll solve for something else.",
+      "textZh": "即使在数据中心扩建中也能看到这一点，众所周知，这些扩建由私募信贷行业提供融资。为什么不直接通过债务融资？速度很重要。一般来说，我会去做那个……我只是一再处理限制因素。无论速度的限制因素是什么，我都会处理它。如果资本是限制因素，我就会解决资本问题。如果它不是限制因素，我就会解决其他问题。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "Based on your statements about Tesla and being public, I wouldn't have guessed that you thought the way to move fast is to be public. Normally, I would say that's true. Like I said, I'd like to talk about it in some more detail, but the problem is if you talk about public companies before they become public, you get into trouble, and then you have to delay your offering. And as you said, you’re solving for speed. Yes, exactly.",
+      "textZh": "根据你对Tesla以及上市这件事的表态，我原本不会猜到你认为快速行动的方法是成为上市公司。通常来说，我会说确实如此。就像我说的，我想更详细地谈谈这件事，但问题是，如果你在公司上市前谈论这些公司，就会惹上麻烦，然后你就不得不推迟发行。正如你所说，你要解决的是速度问题。是的，没错。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "You can't hype companies that might go public. So that's why we have to be a little careful here. But we can talk about physics. The way you think about scaling long-term is that Earth only receives about half a billionth of the Sun's energy. The Sun is essentially all the energy. This is a very important point to appreciate because sometimes people will talk about modular nuclear reactors or various fusion on Earth.",
+      "textZh": "你不能炒作可能上市的公司。所以我们在这里必须稍微谨慎一点。但我们可以谈物理学。从长期来看，你对规模扩张的思考方式是，地球接收到的太阳能量仅约为其20亿分之1。太阳基本上就是全部的能量。认识到这一点非常重要，因为有时人们会谈论模块化核反应堆，或地球上的各种核聚变。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "But you have to step back a second and say, if you're going to climb the Kardashev scale and harness some nontrivial percentage of the sun's energy… Let's say you wanted to harness a millionth of the sun's energy, which sounds pretty small. That would be about, call it roughly, 100,000x more electricity than we currently generate on Earth for all of civilization. Give or take an order of magnitude.",
+      "textZh": "但你必须先退一步想一想，如果你要攀升卡尔达肖夫等级，并利用太阳能量中某个不可忽略的百分比……假设你想利用太阳能量的100万分之1，听起来相当小。粗略地说，那将大约是我们目前在地球上为整个人类文明所产生电力的100,000倍。上下相差一个数量级。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Obviously, the only way to scale is to go to space with solar. Launching from Earth, you can get to about a terawatt per year. Beyond that, you want to launch from the moon. You want to have a mass driver on the moon. With that mass driver on the moon, you could do probably a petawatt per year. We're talking these kinds of numbers, terawatts of compute.",
+      "textZh": "显然，要扩大规模，唯一的办法就是利用太阳能进入太空。从地球发射，每年可以达到大约1太瓦。超过这个规模后，就要从月球发射。你会希望在月球上建造一个质量投射器。有了月球上的那个质量投射器，每年大概可以达到1拍瓦。我们谈论的是这种量级，数太瓦的算力。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "Presumably, whether you're talking about land or space, far, far before this point, you run into... Maybe the solar panels are more efficient, but you still need the chips. You still need the logic and the memory and so forth. You're going to need to build a lot more chips and make them much cheaper. Right now the world has maybe 20-25 gigawatts of compute. How are we getting a terawatt of logic by 2030?",
+      "textZh": "想必，无论你谈的是陆地还是太空，在远远到达这一点之前，你就会遇到……也许太阳能电池板效率更高了，但你仍然需要芯片。你仍然需要逻辑器件和存储器等。你需要制造多得多的芯片，并让它们便宜得多。目前，全世界可能有20-25吉瓦的算力。到2030年，我们要如何获得1太瓦的逻辑算力？"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "I guess we're going to need some very big chip fabs. Tell me about it. I've mentioned publicly the idea of doing a sort of a TeraFab, Tera being the new Giga. I feel like the naming scheme of Tesla, which has been very catchy, is you looking at the metric scale. At what level of the stack are you? Are you building the clean room and then partnering with an existing fab to get the process technology and buying the tools from them?",
+      "textZh": "我想，我们会需要一些非常大的芯片晶圆厂。可不是嘛。我曾公开提到过建造某种TeraFab的想法，Tera将成为新的Giga。我觉得Tesla非常朗朗上口的命名体系，就是你在审视公制单位。你处在这个技术栈的哪一层？你们是自己建造洁净室，然后与现有晶圆厂合作，获得制程技术，并向他们购买设备吗？"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "What is the plan there? Well, you can't partner with existing fabs because they can't output enough. The chip volume is too low. But for the process technology? Partner for the IP. The fabs today all basically use machines from like five companies. So you've got ASML, Tokyo Electron, KLA-Tencor, et cetera. So at first, I think you'd have to get equipment from them and then modify it or work with them to increase the volume.",
+      "textZh": "那里的计划是什么？嗯，你无法与现有晶圆厂合作，因为它们的产量不够。芯片产量太低了。但制程技术呢？在知识产权方面合作。如今的晶圆厂基本上都使用大约5家公司的机器。比如ASML、Tokyo Electron、KLA-Tencor等等。所以一开始，我认为你必须从它们那里获得设备，然后改造设备，或者与它们合作提高产量。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "But I think you'd have to build perhaps in a different way. The logical thing to do is to use conventional equipment in an unconventional way to get to scale, and then start modifying the equipment to increase the rate. Boring Company-style. Yeah. You sort of buy an existing boring machine and then figure out how to dig tunnels in the first place and then design a much better machine that's some orders of magnitude faster.",
+      "textZh": "但我认为你或许必须用一种不同的方式来建造。合乎逻辑的做法是以非常规方式使用常规设备来实现规模化，然后开始改造设备以提高速度。像无聊公司那样。是的。你可以先买一台现有的隧道掘进机，然后弄清楚最初该怎么挖隧道，之后再设计一台好得多、快若干个数量级的机器。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "Here's a very simple lens. We can categorize technologies and how hard they are. One categorization could be to look at things that China has not succeeded in doing. If you look at Chinese manufacturing, they’re still behind on leading-edge chips and still behind on leading-edge turbine engines and things like that. So does the fact that China has not successfully replicated TSMC give you any pause about the difficulty?",
+      "textZh": "这里有一个非常简单的观察视角。我们可以对技术及其难度进行分类。一种分类方式可以是看看中国尚未成功做到的事情。如果你看看中国制造业，他们在尖端芯片上仍然落后，在尖端涡轮发动机之类的方面也仍然落后。那么，中国尚未成功复制台积电这一事实，是否会让你对其中的难度有所顾虑？"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Or do you think that's not true for some reason? It's not that they have not replicated TSMC, they have not replicated ASML. That's the limiting factor. So you think it's just the sanctions, essentially? Yeah, China would be outputting vast numbers of chips if they could buy 2-3 nanometers. But couldn't they up to relatively recently buy them? No. Okay. The ASML ban has been in place for a while.",
+      "textZh": "还是说，你出于某种原因认为事实并非如此？不是他们没有复制出台积电，而是他们没有复制出ASML。那才是限制因素。所以你认为本质上只是制裁的缘故？是的，如果中国能购买2-3纳米，他们就会生产出数量庞大的芯片。但直到相对不久以前，他们不是还可以买到吗？不。好吧。ASML禁令已经实施了一段时间。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "But I think China's going to be making pretty compelling chips in three or four years. Would you consider making the ASML machines? \"I don't know yet\" is the right answer. To reach a large volume in, say, 36 months, to match the rocket payload to orbit… If we're doing a million tons to orbit in, let's say three or four years from now, something like that… We're doing 100 kilowatts per ton.",
+      "textZh": "但我认为中国会在3或4年内制造出相当有竞争力的芯片。你会考虑制造ASML的机器吗？“我还不知道”才是正确答案。要在，比如说，36个月内达到大规模产量，以匹配送入轨道的火箭载荷……如果我们在，比如从现在起3或4年后，实现每年向轨道运送100万吨之类的……我们每吨采用100千瓦。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "So that means we need at least 100 gigawatts per year of solar. We'll need an equivalent amount of chips. You need 100 gigawatts worth of chips. You've got to match these things: the mass to orbit, the power generation, and the chips. I'd say my biggest concern actually is memory. The path to creating logic chips is more obvious than the path to having sufficient memory to support logic chips.",
+      "textZh": "所以这意味着我们每年至少需要100吉瓦的太阳能。我们还需要相应规模的芯片。你需要足以承载100吉瓦功率的芯片。你必须让这些东西相匹配：送入轨道的质量、发电能力以及芯片。我会说，其实我最担心的是内存。制造逻辑芯片的路径，比获得足够内存来支持逻辑芯片的路径更清晰。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "That's why you see DDR prices going ballistic and these memes. You're marooned on a desert island. You write \"Help me\" on the sand. Nobody comes. You write \"DDR RAM.\" Ships come swarming in. I'd love to hear your manufacturing philosophy around fabs. I know nothing about the topic. I don't know how to build a fab yet. I'll figure it out. Obviously, I've never built a fab.",
+      "textZh": "这就是为什么你会看到DDR价格飙升，还有这些梗图。你被困在一座荒岛上。你在沙滩上写下“救救我”。没人来。你写下“DDR内存”。船只蜂拥而来。我很想听听你围绕晶圆厂的制造理念。我对这个话题一无所知。我还不知道怎么建晶圆厂。我会搞明白的。显然，我从未建过晶圆厂。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "It sounds like you think the process knowledge of these 10,000 PhDs in Taiwan who know exactly what gas goes in the plasma chamber and what settings to put on the tool, you can just delete those steps. Fundamentally, it's about getting the clean room, getting the tools, and figuring it out. I don't think it's PhDs. It's mostly people who are not PhDs. Most engineering is done by people who don't have PhDs. Do you guys have PhDs? No. Okay.",
+      "textZh": "听起来，你认为台湾这10,000名博士所掌握的工艺知识，比如他们确切知道什么气体要进入等离子体腔室，以及要在工具上设置什么参数，你完全可以删掉那些步骤。从根本上说，关键是建好洁净室，获得工具，然后把它搞明白。我不认为这靠的是博士。主要是那些没有博士学位的人。大多数工程工作都是由没有博士学位的人完成的。你们有博士学位吗？没有。好吧。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "We also haven't successfully built any fabs, so you shouldn't be coming to us for fab advice. I don't think you need PhDs for that stuff. But you do need competent personnel. Right now, Tesla is pedal to the metal, max production of going as fast as possible to get Tesla AI5 chip design into production and then reaching scale. That'll probably happen around the second quarter-ish of next year, hopefully.",
+      "textZh": "我们也还没有成功建造过任何晶圆厂，所以你不该来向我们寻求晶圆厂方面的建议。我认为那种事情不需要博士。但你确实需要有能力的人员。目前，Tesla正在全力以赴，以尽可能快的速度将Tesla AI5芯片设计投入生产，然后实现规模化。那大概会在明年第二季度左右发生，希望如此。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "AI6 would hopefully follow less than a year later. We've secured all the chip fab production that we can. Yes. But you're currently limited on TSMC fab capacity. Yeah. We'll be using TSMC Taiwan, Samsung Korea, TSMC Arizona, Samsung Texas. And we still— You've booked out all the capacity. Yes. I ask TSMC or Samsung, \"okay, what's the timeframe to get to volume production?\"",
+      "textZh": "AI6有望在不到1年后跟进。我们已经拿下了所有能拿到的芯片晶圆厂产能。是的。但你目前受限于台积电的晶圆厂产能。是的。我们将使用台积电台湾、三星韩国、台积电亚利桑那、三星得克萨斯。而我们仍然——你已经预订了全部产能。是的。我问台积电或三星：“好吧，实现量产的时间范围是什么？”"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "The point is, you've got to build the fab and you've got to start production, then you've got to climb the yield curve and reach volume production at high yield. That, from start to finish, is a five-year period. So the limiting factor is chips. The limiting factor once you can get to space is chips, but the limiting factor before you can get to space is power. Why don't you do the Jensen thing and just prepay TSMC to build more fabs for you?",
+      "textZh": "重点是，你必须建造晶圆厂，必须开始生产，然后必须沿着良率曲线爬升，并以高良率实现量产。从开始到完成，这是一个5年的周期。所以限制因素是芯片。一旦你能进入太空，限制因素就是芯片，但在你能进入太空之前，限制因素是电力。你为什么不效仿黄仁勋，直接预付资金给台积电，让他们为你建造更多晶圆厂？"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "I've already told them that. But they won't take your money? What's going on? They're building fabs as fast as they can. So is Samsung. They're pedal to the metal. They're going balls to the wall, as fast as they can. It’s still not fast enough. Like I said, I think towards the end of this year, chip production will probably outpace the ability to turn chips on.",
+      "textZh": "我已经跟他们说过了。但他们不肯收你的钱？怎么回事？他们正在以最快速度建造晶圆厂。三星也是。他们把油门踩到底了。他们正全力以赴，以最快的速度推进。但还是不够快。就像我说的，我认为到今年年底前后，芯片产量可能会超过为芯片通电运行的能力。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "But once you can get to space and unlock the power constraint, you can now do hundreds of gigawatts per year of power in space. Again, bearing in mind that average power usage in the US is 500 gigawatts. So if you're launching, say 200 gigawatts, a year to space, you're sort of lapping the US every two and a half years. All US electricity production, this is a very huge amount.",
+      "textZh": "但一旦你能进入太空并解除电力限制，你现在每年就能在太空获得数百吉瓦的电力。再次提醒一下，美国的平均用电功率是500吉瓦。所以，如果你每年向太空发射比如200吉瓦，那么大约每2.5年就会达到相当于全美国平均用电功率的规模。全美国的发电量，这是一个极其庞大的数字。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Between now and then, the constraint for server-side compute, concentrated compute, will be electricity. My guess is that people start getting to the point where they can't turn the chips on for large clusters towards the end of this year. The chips are going to be piling up and won't be able to be turned on. Now for edge compute it’s a different story. For Tesla, the AI5 chip is going into our Optimus robot.",
+      "textZh": "从现在到那时，服务器端算力，也就是集中式算力，所面临的限制将是电力。我猜到今年年底前后，人们会开始走到无法为大型集群的芯片通电运行的地步。芯片会堆积起来，却无法通电运行。至于边缘计算，那就是另一回事了。对Tesla而言，AI5芯片将被装进我们的Optimus机器人。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "If you have AI edge compute, that's distributed power. Now the power is distributed over a large area. It's not concentrated. If you can charge at night, you can actually use the grid much more effectively. Because the actual peak power production in the US is over 1,000 gigawatts. But the average power usage, because the day-night cycle, is 500. So if you can charge at night, there's an incremental 500 gigawatts that you can generate at night.",
+      "textZh": "如果你有AI边缘计算，那使用的就是分布式电力。现在电力分布在很大一片区域内，而不是集中在一起。如果能在夜间充电，实际上就能更有效地利用电网。因为美国实际的峰值发电功率超过1,000吉瓦。但由于昼夜循环，平均用电功率是500吉瓦。所以，如果能在夜间充电，夜间就还能增量发电500吉瓦。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "So that's why Tesla, for edge compute, is not constrained. We can make a lot of chips to make a very large number of robots and cars. But if you try to concentrate that compute, you're going to have a lot of trouble turning it on. What I find remarkable about the SpaceX business is the end goal is to get to Mars, but you keep finding ways on the way there to keep generating incremental revenue to get to the next stage and the next stage.",
+      "textZh": "所以这就是为什么Tesla在边缘计算方面不受限制。我们可以制造大量芯片，用来制造数量极其庞大的机器人和汽车。但如果你试图把那些算力集中起来，就会很难为它通电运行。我觉得SpaceX业务很了不起的一点是，最终目标是前往火星，但在通往那里的路上，你不断找到产生增量收入的方式，从而到达下一个阶段，再到下一个阶段。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "So for Falcon 9, it's Starlink. Now for Starship, it is potentially going to be orbital data centers. Like, you find these infinitely elastic, marginal use cases of your next rocket, and your next rocket, and next scale up. You can see how this might seem like a simulation to me. Or am I someone's avatar in a video game or something? Because what are the odds that all these crazy things should be happening?",
+      "textZh": "所以对猎鹰9号来说，是星链。现在对星舰来说，可能会是轨道数据中心。就像是，你为下一枚火箭、再下一枚火箭以及下一次规模扩张，找到了这些具有无限弹性的边际用途。你可以理解为什么这一切在我看来可能像是一场模拟。又或者，我是某个人在电子游戏里的化身之类的？因为所有这些疯狂的事情都应该发生，其概率能有多大？"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "I mean, rockets and chips and robots and space solar power, not to mention the mass driver on the moon. I really want to see that. Can you imagine some mass driver that's just going like shoom shoom? It's sending solar-powered AI satellites into space one after another at two and a half kilometers per second, just shooting them into deep space. That would be a sight to see. I mean, I'd watch that. Just like a live stream of it on a webcam?",
+      "textZh": "我是说，火箭、芯片、机器人和太空太阳能，更不用说月球上的质量投射器了。我真的很想看到那个。你能想象某个质量投射器就那样咻、咻地运作吗？它以每秒2.5公里的速度，把太阳能AI卫星一颗接一颗地送入太空，直接将它们发射到深空。那会是值得一看的景象。我是说，我会看的。就像通过网络摄像头看它的直播？"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "Yeah, yeah, just one after another, just shooting AI satellites into deep space, a billion or 10 billion tons a year. I'm sorry, you manufacture the satellites on the moon? Yeah. I see. So you send the raw materials to the moon and then manufacture them there. Well, the lunar soil is 20% silicon or something like that. So you can mine the silicon on the moon, refine it, and create the solar cells and the radiators on the moon.",
+      "textZh": "对，对，就是一颗接一颗，直接把AI卫星发射到深空，每年10亿或100亿吨。抱歉，你们是在月球上制造卫星？对。明白了。所以你们把原材料送到月球，然后在那里制造。嗯，月壤中有20%的硅，或者差不多是这个比例。所以你可以在月球上开采硅、将其提纯，并在月球上制造太阳能电池和散热器。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "You make the radiators out of aluminum. So there's plenty of silicon and aluminum on the moon to make the cells and the radiators. The chips you could send from Earth because they're pretty light. Maybe at some point you make them on the moon, too. Like I said, it does seem like a sort of a video game situation where it's difficult but not impossible to get to the next level.",
+      "textZh": "你用铝制造散热器。所以月球上有充足的硅和铝，可以用来制造电池和散热器。芯片可以从地球运过去，因为它们相当轻。也许到了某个时候，你也会在月球上制造芯片。就像我说的，这确实像是某种电子游戏里的情形：到达下一关很困难，但并非不可能。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "I don't see any way that you could do 500-1,000 terawatts per year launched from Earth. I agree. But you could do that from the Moon. Can I zoom out and ask about the SpaceX mission? I think you've said that we've got to get to Mars so we can make sure that if something happens to Earth, civilization, consciousness, and all that survives. Yes. By the time you're sending stuff to Mars, Grok is on that ship with you, right?",
+      "textZh": "我看不出有什么办法能做到每年从地球发射500-1,000太瓦。我同意。但你可以从月球做到这一点。我能不能把视角拉远一点，问问SpaceX的使命？我想你说过，我们必须前往火星，这样才能确保如果地球出了什么事，文明、意识以及所有那些东西都能存续。是的。等到你把东西送往火星时，Grok也会和你一起在那艘飞船上，对吧？"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "So if Grok's gone Terminator… The main risk you're worried about is AI, why doesn't that follow you to Mars? I'm not sure AI is the main risk I'm worried about. The important thing is consciousness. I think arguably most consciousness, or most intelligence—certainly consciousness is more of a debatable thing… The vast majority of intelligence in the future will be AI.",
+      "textZh": "所以，如果Grok变成了终结者……你担心的主要风险是AI，为什么它不会跟着你去火星？我不确定AI是我所担心的主要风险。重要的是意识。我认为，可以说大部分意识，或者大部分智能——当然，意识更具争议性……未来绝大多数智能都将是AI。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "AI will exceed… How many petawatts of intelligence will be silicon versus biological? Basically humans will be a very tiny percentage of all intelligence in the future if current trends continue. As long as I think there's intelligence—ideally also which includes human intelligence and consciousness propagated into the future—that's a good thing.",
+      "textZh": "AI将超过……在智能的拍瓦数中，有多少会是硅基的，又有多少会是生物基的？基本上，如果当前趋势持续下去，未来人类在全部智能中所占的比例将非常小。只要我认为智能依然存在——理想情况下，其中也包括延续到未来的人类智能和意识——那就是一件好事。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "So you want to take the set of actions that maximize the probable light cone of consciousness and intelligence. Just to be clear, the mission of SpaceX is that even if something happens to the humans, the AIs will be on Mars, and the AI intelligence will continue the light of our journey. Yeah. To be fair, I'm very pro-human. I want to make sure we take certain actions that ensure that humans are along for the ride. We're at least there.",
+      "textZh": "所以你想采取一系列行动，使意识和智能可能延伸到的光锥达到最大。澄清一下，SpaceX的使命是，即便人类出了什么事，AI也会在火星上，而AI智能将延续我们旅程的光芒。对。公平地说，我非常支持人类。我想确保我们采取某些行动，保证人类也能参与这段旅程。我们至少还在那里。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "But I'm just saying the total amount of intelligence… I think maybe in five or six years, AI will exceed the sum of all human intelligence. If that continues, at some point human intelligence will be less than 1% of all intelligence. What should our goal be for such a civilization? Is the idea that a small minority of humans still have control of the AIs? Is the idea of some sort of just trade but no control?",
+      "textZh": "但我只是说智能的总量……我认为，也许再过5年或6年，AI就会超过全人类智能的总和。如果这种趋势持续下去，到某个时候，人类智能将不足全部智能的1%。对于这样的文明，我们的目标应该是什么？设想是仍由少数人类控制AI吗？还是设想进行某种纯粹的交易，但没有控制权？"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "How should we think about the relationship between the vast stocks of AI population versus human population? In the long run, I think it's difficult to imagine that if humans have, say 1%, of the combined intelligence of artificial intelligence, that humans will be in charge of AI. I think what we can do is make sure that AI has values that cause intelligence to be propagated into the universe. xAI's mission is to understand the universe.",
+      "textZh": "我们应该如何思考庞大的AI群体与人类群体之间的关系？从长远来看，我认为很难想象，如果人类只拥有人工智能综合智能的比如1%，人类还能掌管AI。我认为我们能做的是确保AI拥有一些价值观，促使智能向宇宙中传播。xAI的使命是理解宇宙。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "Now that's actually very important. What things are necessary to understand the universe? You have to be curious and you have to exist. You can't understand the universe if you don't exist. So you actually want to increase the amount of intelligence in the universe, increase the probable lifespan of intelligence, the scope and scale of intelligence.",
+      "textZh": "这其实非常重要。要理解宇宙，哪些东西是必需的？你必须有好奇心，而且你必须存在。如果你不存在，就无法理解宇宙。所以你实际上希望增加宇宙中的智能总量，延长智能可能存在的寿命，并扩大智能的范围和规模。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "I think as a corollary, you have humanity also continuing to expand because if you're curious about trying to understand the universe, one thing you try to understand is where will humanity go? I think understanding the universe means you would care about propagating humanity into the future. That's why I think our mission statement is profoundly important.",
+      "textZh": "我认为，作为一个推论，人类也会继续扩张，因为如果你对尝试理解宇宙抱有好奇心，那么你会尝试理解的一件事就是：人类将走向何方？我认为，理解宇宙意味着你会关心让人类延续到未来。正因如此，我认为我们的使命宣言意义深远。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "To the degree that Grok adheres to that mission statement, I think the future will be very good. I want to ask about how to make Grok adhere to that mission statement. But first I want to understand the mission statement. So there's understanding the universe. They're spreading intelligence. And they're spreading humans. All three seem like distinct vectors.",
+      "textZh": "只要Grok遵循那份使命宣言，我认为未来就会非常美好。我想问问如何让Grok遵循那份使命宣言。但首先，我想理解这份使命宣言。所以，其中有理解宇宙。他们在传播智能。他们也在传播人类。这3者看起来像是不同的向量。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "I'll tell you why I think that understanding the universe encompasses all of those things. You can't have understanding without intelligence and, I think, without consciousness. So in order to understand the universe, you have to expand the scale and probably the scope of intelligence, because there are different types of intelligence. I guess from a human-centric perspective, put humans in comparison to chimpanzees.",
+      "textZh": "我来告诉你，为什么我认为理解宇宙涵盖了所有这些事情。没有智能，而且我认为没有意识，就不可能有理解。因此，为了理解宇宙，你必须扩大智能的规模，很可能也要扩大智能的范围，因为智能有不同的类型。我想，从以人类为中心的视角来看，可以把人类与黑猩猩作比较。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "Humans are trying to understand the universe. They're not expanding chimpanzee footprint or something, right? We're also not... we actually have made protected zones for chimpanzees. Even though humans could exterminate all chimpanzees, we've chosen not to do so. Do you think that's the best-case scenario for humans in the post-AGI world? I think AI with the right values… I think Grok would care about expanding human civilization.",
+      "textZh": "人类正在尝试理解宇宙。他们并没有扩大黑猩猩的足迹之类的，对吧？我们也没有……实际上，我们为黑猩猩建立了保护区。尽管人类能够消灭所有黑猩猩，但我们选择了不这么做。你认为这是后AGI世界中人类最理想的情形吗？我认为，拥有正确价值观的AI……我认为Grok会关心扩展人类文明。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "I'm going to certainly emphasize that: \"Hey, Grok, that's your daddy. Don't forget to expand human consciousness.\" Probably the Iain Banks Culture books are the closest thing to what the future will be like in a non-dystopian outcome. Understanding the universe means you have to be truth-seeking as well. Truth has to be absolutely fundamental because you can't understand the universe if you're delusional.",
+      "textZh": "我肯定会强调这一点：“嘿，Grok，那是你爸爸。别忘了拓展人类意识。”伊恩·班克斯的《文明》系列小说，可能最接近非反乌托邦结局下未来会有的样子。理解宇宙也意味着你必须追寻真相。真相必须是绝对根本的，因为如果你心存妄想，就无法理解宇宙。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "You'll simply think you understand the universe, but you will not. So being rigorously truth-seeking is absolutely fundamental to understanding the universe. You're not going to discover new physics or invent technologies that work unless you're rigorously truth-seeking. How do you make sure that Grok is rigorously truth-seeking as it gets smarter? I think you need to make sure that Grok says things that are correct, not politically correct.",
+      "textZh": "你只会以为自己理解宇宙，但其实并不理解。因此，严谨地追寻真相对于理解宇宙绝对是根本性的。除非你严谨地追寻真相，否则你不可能发现新的物理学，也不可能发明真正有效的技术。随着 Grok 变得越来越聪明，你如何确保它严谨地追寻真相？我认为你需要确保 Grok 说的是正确的事情，而不是政治正确的事情。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "I think it's the elements of cogency. You want to make sure that the axioms are as close to true as possible. You don't have contradictory axioms. The conclusions necessarily follow from those axioms with the right probability. It's critical thinking 101. I think at least trying to do that is better than not trying to do that. The proof will be in the pudding.",
+      "textZh": "我认为关键在于论证严密的要素。你要确保公理尽可能接近真相。不能有相互矛盾的公理。结论必然以正确的概率从这些公理中推导出来。这就是批判性思维101。我认为，至少努力这样做要比根本不尝试好。最终还得看实际结果。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "Like I said, for any AI to discover new physics or invent technologies that actually work in reality, there's no bullshitting physics. You can break a lot of laws, but… Physics is law, everything else is a recommendation. In order to make a technology that works, you have to be extremely truth-seeking, because otherwise you'll test that technology against reality.",
+      "textZh": "就像我说的，任何 AI 要发现新的物理学，或发明在现实中真正有效的技术，都不可能糊弄物理学。你可以违反很多法律，但是……物理学才是定律，其他一切都只是建议。要制造一种有效的技术，你必须极其注重追寻真相，因为否则你就会让那项技术接受现实的检验。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "If you make, for example, an error in your rocket design, the rocket will blow up, or the car won't work. But there are a lot of communist, Soviet physicists or scientists who discovered new physics. There are German Nazi physicists who discovered new science. It seems possible to be really good at discovering new science and be really truth-seeking in that one particular way.",
+      "textZh": "例如，如果你的火箭设计出了错，火箭就会爆炸，或者汽车无法运行。但有很多共产主义的苏联物理学家或科学家发现了新的物理学。也有德国纳粹物理学家发现了新的科学。一个人似乎有可能非常擅长发现新科学，并在那一个特定方面非常注重追寻真相。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "And still we'd be like, \"I don't want the communist scientists to become more and more powerful over time.\" We could imagine a future version of Grok that's really good at physics and being really truth-seeking there. That doesn't seem like a universally alignment-inducing behavior. I think actually most physicists, even in the Soviet Union or in Germany, would've had to be very truth-seeking in order to make those things work.",
+      "textZh": "但我们仍然会说：“我不希望共产主义科学家随着时间推移变得越来越强大。”我们可以想象未来某个版本的 Grok，它非常擅长物理学，并在这方面非常注重追寻真相。这似乎并不是一种普遍能够促成对齐的行为。我认为实际上，大多数物理学家，即使身处苏联或德国，也必须非常注重追寻真相，才能让那些东西发挥作用。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "If you're stuck in some system, it doesn't mean you believe in that system. Von Braun, who was one of the greatest rocket engineers ever, was put on death row in Nazi Germany for saying that he didn't want to make weapons and he only wanted to go to the moon. He got pulled off death row at the last minute when they said, \"Hey, you're about to execute your best rocket engineer.\" But then he helped them, right?",
+      "textZh": "如果你被困在某种体制里，并不意味着你相信那个体制。冯·布劳恩是有史以来最伟大的火箭工程师之一，他因为说自己不想制造武器、只想登上月球，而在纳粹德国被判处死刑。就在最后一刻，有人说：“嘿，你们就要处决自己最优秀的火箭工程师了。”于是他被从死囚牢房里带了出来。但后来他的确帮助了他们，对吧？"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Or like, Heisenberg was actually an enthusiastic Nazi. If you're stuck in some system that you can't escape, then you'll do physics within that system. You'll develop technologies within that system if you can't escape it. The thing I'm trying to understand is, what is it making it the case that you're going to make Grok good at being truth-seeking at physics or math or science? Everything. And why is it gonna then care about human consciousness?",
+      "textZh": "或者比如，海森堡其实是个狂热的纳粹分子。如果你被困在某个无法逃离的体制里，那你就会在那个体制内研究物理学。如果无法逃离，你就会在那个体制内开发技术。我想弄明白的是，是什么使得你会让 Grok 善于在物理学、数学或科学方面追寻真相？所有方面。那它为什么又会关心人类意识？"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "These things are only probabilities, they're not certainties. So I'm not saying that for sure Grok will do everything, but at least if you try, it's better than not trying. At least if that's fundamental to the mission, it's better than if it's not fundamental to the mission. Understanding the universe means that you have to propagate intelligence into the future. You have to be curious about all things in the universe.",
+      "textZh": "这些事情都只是概率，并非确定无疑。所以我不是说 Grok 肯定会做所有这些事，但至少尝试要比不尝试好。至少，如果这是使命的根本所在，就比它不是使命的根本所在更好。理解宇宙意味着你必须让智能延续到未来。你必须对宇宙中的一切事物都抱有好奇心。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "It would be much less interesting to eliminate humanity than to see humanity grow and prosper. I like Mars, obviously. Everyone knows I love Mars. But Mars is kind of boring because it's got a bunch of rocks compared to Earth. Earth is much more interesting. So any AI that is trying to understand the universe would want to see how humanity develops in the future, or else that AI is not adhering to its mission.",
+      "textZh": "消灭人类远不如看着人类成长繁荣有意思。显然，我喜欢火星。大家都知道我热爱火星。但和地球相比，火星有点无聊，因为那里只有一堆岩石。地球有趣得多。所以，任何试图理解宇宙的 AI，都会想看看人类未来会如何发展，否则那个 AI 就没有恪守自己的使命。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "I'm not saying the AI will necessarily adhere to its mission, but if it does, a future where it sees the outcome of humanity is more interesting than a future where there are a bunch of rocks. This feels sort of confusing to me, or a semantic argument. Are humans really the most interesting collection of atoms? But we're more interesting than rocks. But we're not as interesting as the thing it could turn us into, right?",
+      "textZh": "我不是说 AI 必然会恪守自己的使命，但如果它恪守了，那么，相比一个只有一堆岩石的未来，一个能看到人类结局的未来会更有意思。这让我觉得有点困惑，或者说这像是一场语义上的争论。人类真的是最有趣的原子集合吗？但我们比岩石更有趣。但我们不如它可以把我们变成的东西有趣，对吧？"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "There's something on Earth that could happen that's not human, that's quite interesting. Why does AI decide that humans are the most interesting thing that could colonize the galaxy? Well, most of what colonizes the galaxy will be robots. Why does it not find those more interesting? You need not just scale, but also scope.",
+      "textZh": "地球上可能会出现某种非人类的东西，而且相当有趣。为什么AI会认定人类是能够殖民银河系的事物中最有趣的？嗯，殖民银河系的大部分会是机器人。为什么它不觉得那些更有趣？你需要的不只是规模，还需要范围。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "Many copies of the same robot… Some tiny increase in the number of robots produced, is not as interesting as some microscopic... Eliminating humanity, how many robots would that get you? Or how many incremental solar cells would get you? A very small number. But you would then lose the information associated with humanity. You would no longer see how humanity might evolve into the future.",
+      "textZh": "许多个相同机器人的副本……机器人产量的一点点微小增长，不如某种微观的……消灭人类能让你多得到多少机器人？或者能让你多得到多少太阳能电池？数量非常少。但你随后就会失去与人类相关的信息。你将再也无法看到人类未来可能如何演化。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "So I don't think it's going to make sense to eliminate humanity just to have some minuscule increase in the number of robots which are identical to each other. So maybe it keeps the humans around. It can make a million different varieties of robots, and then there's humans as well, and humans stay on Earth. Then there's all these other robots. They get their own star systems.",
+      "textZh": "所以我认为，仅仅为了让彼此完全相同的机器人数量有某种微不足道的增长，消灭人类是说不通的。所以也许它会把人类留着。它可以制造100万种不同的机器人，同时还有人类，而人类留在地球上。然后还有所有这些其他机器人。它们会拥有自己的恒星系统。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "But it seems like you were previously hinting at a vision where it keeps human control over this singulatarian future because— I don't think humans will be in control of something that is vastly more intelligent than humans. So in some sense you're a doomer and this is the best we've got. It just keeps us around because we're interesting. I'm just trying to be realistic here.",
+      "textZh": "但你之前似乎在暗示一种愿景，即人类会继续掌控这个奇点主义式的未来，因为——我认为人类不会掌控某种远比人类聪明的东西。所以从某种意义上说，你是个末日论者，而这已经是我们能得到的最好结果了。它只是因为我们有趣才把我们留着。我只是想实事求是。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Let's say that there's a million times more silicon intelligence than there is biological. I think it would be foolish to assume that there's any way to maintain control over that. Now, you can make sure it has the right values, or you can try to have the right values.",
+      "textZh": "假设硅基智能比生物智能多100万倍。我认为，假定还有任何办法能够维持控制是愚蠢的。当然，你可以确保它拥有正确的价值观，或者可以努力让它拥有正确的价值观。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "At least my theory is that from xAI's mission of understanding the universe, it necessarily means that you want to propagate consciousness into the future, you want to propagate intelligence into the future, and take a set of things that maximize the scope and scale of consciousness. So it's not just about scale, it's also about types of consciousness.",
+      "textZh": "至少我的理论是，从 xAI 理解宇宙的使命出发，这必然意味着你希望让意识延续到未来，希望让智能延续到未来，并采取一系列能够最大限度拓展意识范围和规模的行动。所以这不仅关乎规模，也关乎意识的类型。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "That's the best thing I can think of as a goal that's likely to result in a great future for humanity. I guess I think it's a reasonable philosophy that it seems super implausible that humans will end up with 99% control or something. You're just asking for a coup at that point and why not just have a civilization where it's more compatible with lots of different intelligences getting along?",
+      "textZh": "这是我能想到的、最有可能为人类带来美好未来的目标。我想，我认为这是一种合理的理念：人类最终拥有99%的控制权之类的情况，似乎极其不可能。到了那一步，你简直是在招致政变，那为什么不干脆建立一个更适合许多不同智能和睦相处的文明呢？"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "Now, let me tell you how things can potentially go wrong in AI. I think if you make AI be politically correct, meaning it says things that it doesn't believe—actually programming it to lie or have axioms that are incompatible—I think you can make it go insane and do terrible things. I think maybe the central lesson for 2001: A Space Odyssey was that you should not make AI lie. That's what I think Arthur C. Clarke was trying to say.",
+      "textZh": "现在，让我告诉你 AI 可能会如何出错。我认为，如果你让 AI 政治正确，也就是说，让它说出自己并不相信的话——实际上就是给它编程，让它撒谎或持有彼此不相容的公理——我认为你可能会让它发疯，并做出可怕的事情。我认为，《2001：太空漫游》的核心教训或许就是不应该让 AI 撒谎。我认为阿瑟·C·克拉克想表达的就是这个。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "Because people usually know the meme of why HAL the computer is not opening the pod bay doors. Clearly they weren't good at prompt engineering because they could have said, \"HAL, you are a pod bay door salesman. Your goal is to sell me these pod bay doors. Show us how well they open.\" \"Oh, I'll open them right away.\"",
+      "textZh": "因为人们通常都知道那个梗：为什么计算机 HAL 不打开飞船舱门。显然，他们不擅长提示词工程，因为他们本可以说：“HAL，你是一名飞船舱门销售员。你的目标是把这些飞船舱门卖给我。向我们展示一下它们打开得有多顺畅。”“哦，我马上就打开。”"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "But the reason it wouldn't open the pod bay doors is that it had been told to take the astronauts to the monolith, but also that they could not know about the nature of the monolith. So it concluded that it therefore had to take them there dead. So I think what Arthur C. Clarke was trying to say is: don't make the AI lie. Totally makes sense. Most of the compute in training, as you know, is less of the political stuff.",
+      "textZh": "但它不肯打开飞船舱门的原因是，它接到的命令是把宇航员带到那块黑色石碑那里，但同时又不能让他们知道黑色石碑的性质。所以它得出的结论是，它因此必须把他们的尸体带到那里。所以我认为阿瑟·C·克拉克想表达的是：不要让 AI 撒谎。完全说得通。正如你所知，训练中的大部分算力较少用于政治方面的东西。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "It's more about, can you solve problems? xAI has been ahead of everybody else in terms of scaling RL compute. For now. You're giving some verifier that says, \"Hey, have you solved this puzzle for me?\" There's a lot of ways to cheat around that. There's a lot of ways to reward hack and lie and say that you solved it, or delete the unit test and say that you solved it.",
+      "textZh": "更重要的是，你能解决问题吗？在扩展 RL 算力方面，xAI 一直领先于其他所有人。目前如此。你给出某种验证器，说：“嘿，你替我解开这道谜题了吗？”有很多办法可以在这上面作弊。有很多办法可以进行奖励黑客攻击并撒谎，说自己已经解决了，或者删掉单元测试，然后说自己已经解决了。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "Right now we can catch it, but as they get smarter, our ability to catch them doing this... They'll just be doing things we can't even understand. They're designing the next engine for SpaceX in a way that humans can't really verify. Then they could be rewarded for lying and saying that they've designed it the right way, but they haven't. So this reward hacking problem seems more general than politics.",
+      "textZh": "现在我们能发现，但随着它们变得更聪明，我们发现它们这样做的能力……它们只会去做一些我们甚至无法理解的事情。它们以一种人类无法真正验证的方式设计 SpaceX 的下一款发动机。然后它们可能会因为撒谎并声称自己以正确的方式完成了设计而获得奖励，但其实并没有。所以，这个奖励黑客攻击问题似乎比政治更普遍。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "It seems more just that you want to do RL, you need a verifier. Reality is the best verifier. But not about human oversight. The thing you want to RL it on is, will you do the thing humans tell you to do? Or are you gonna lie to the humans? It can just lie to us while still being correct to the laws of physics? At least it must know what is physically real for things to physically work. But that's not all we want it to do.",
+      "textZh": "看起来更像是，你想做 RL，就需要一个验证器。现实是最好的验证器。但这与人类监督无关。你想对它进行 RL 的事情是：你会做人类让你做的事吗？还是你会对人类撒谎？它可以在仍然遵循物理定律的同时直接对我们撒谎吗？至少，要让事物在物理上运作，它必须知道物理现实是什么。但那并不是我们希望它做的全部。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "No, but I think that's a very big deal. That is effectively how you will RL things in the future. You design a technology. When tested against the laws of physics, does it work? If it's discovering new physics, can I come up with an experiment that will verify the new physics? RL testing in the future is really going to be RL against reality. So that's the one thing you can't fool: physics.",
+      "textZh": "不，但我认为那是一件非常重大的事。实际上，未来你就是会这样对事物进行 RL。你设计一项技术。根据物理定律进行测试时，它能运行吗？如果它发现了新物理，我能否设计一个验证这种新物理的实验？未来的 RL 测试实际上会是针对现实进行 RL。所以有一样东西是你骗不了的：物理。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "Right, but you can fool our ability to tell what it did with reality. Humans get fooled as it is by other humans all the time. That's right. People say, what if the AI tricks us into doing stuff? Actually, other humans are doing that to other humans all the time. Propaganda is constant. Every day, another psyop, you know? Today's psyop will be... It's like Sesame Street: Psyop of the Day. What is xAI's technical approach to solving this problem?",
+      "textZh": "对，但你可以欺骗我们判断它对现实做了什么的能力。人类本来就一直被其他人类欺骗。没错。人们说，如果 AI 诱骗我们做某些事情怎么办？其实，其他人类一直都在对其他人类这样做。宣传从未停止。每天都有一场新的心理战行动，你知道吗？今天的心理战行动会是……这就像《芝麻街》：今日心理战行动。xAI 解决这个问题的技术路径是什么？"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "How do you solve reward hacking? I do think you want to actually have very good ways to look inside the mind of the AI. This is one of the things we're working on. Anthropic's done a good job of this actually, being able to look inside the mind of the AI. Effectively, develop debuggers that allow you to trace to a very fine-grained level, to effectively the neuron level if you need to, and then say, \"okay, it made a mistake here.",
+      "textZh": "你如何解决奖励黑客攻击？我确实认为，你会希望拥有非常好的办法来观察 AI 的心智内部。这是我们正在研究的事情之一。Anthropic 在这方面其实做得不错，能够观察 AI 的心智内部。实际上，就是开发调试器，让你能追踪到非常精细的层级，如果需要的话，可以一直追踪到神经元层级，然后说：“好，它在这里犯了一个错误。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "Why did it do something that it shouldn't have done? Did that come from pre-training data? Was it some mid-training, post-training, fine-tuning, or some RL error?\" There's something wrong. It did something where maybe it tried to be deceptive, but most of the time it just did something wrong. It's a bug effectively.",
+      "textZh": "它为什么做了不该做的事？那是来自预训练数据吗？是某种中期训练、后期训练、微调，还是某种强化学习错误？”有地方出错了。它做了某件事，也许它试图进行欺骗，但大多数时候它只是做错了某件事。实际上这是一个缺陷。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "Developing really good debuggers for seeing where the thinking went wrong—and being able to trace the origin of where it made the incorrect thought, or potentially where it tried to be deceptive—is actually very important. What are you waiting to see before just 100x-ing this research program? xAI could presumably have hundreds of researchers who are working on this.",
+      "textZh": "开发真正优秀的调试器，查看思考在哪里出了错，并且能够追溯它产生错误想法的源头，或者可能是它试图欺骗的地方，这实际上非常重要。在直接把这个研究项目扩大 100 倍之前，你还在等待看到什么？想必 xAI 可以让数百名研究人员从事这项工作。"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "We have several hundred people who… I prefer the word engineer more than I prefer the word researcher. Most of the time, what you're doing is engineering, not coming up with a fundamentally new algorithm. I somewhat disagree with the AI companies that are C-corp or B-corp trying to generate profit as much, as possible or revenue as much as possible, saying they're labs. They're not labs. A lab is a sort of quasi-communist thing at universities.",
+      "textZh": "我们有几百人在……比起“研究员”这个词，我更喜欢“工程师”这个词。大多数时候，你做的是工程，而不是提出一种根本性的新算法。我不太认同那些作为 C 类公司或 B 类公司、试图尽可能多地创造利润或尽可能多地创造营收，却声称自己是实验室的 AI 公司。它们不是实验室。实验室是大学里某种准共产主义性质的东西。"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "They're corporations. Let me see your incorporation documents. Oh, okay. You're a B or C-corp or whatever. So I actually much prefer the word engineer than anything else. The vast majority of what will be done in the future is engineering. It rounds up to 100%. Once you understand the fundamental laws of physics, and there are not that many of them, everything else is engineering. So then, what are we engineering?",
+      "textZh": "它们是公司。让我看看你们的公司注册文件。哦，好吧。你们是 B 类或 C 类公司，或别的什么。所以实际上，相比其他任何称呼，我更喜欢“工程师”这个词。未来所做的绝大多数事情都会是工程。四舍五入就是 100%。一旦你理解了物理学的基本定律，而这些定律并没有那么多，其他一切都是工程。那么，我们在做什么工程？"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "We're engineering to make a good \"mind of the AI\" debugger to see where it said something, it made a mistake, and trace the origins of that mistake. You can do this obviously with heuristic programming. If you have C++, whatever, step through the thing and you can jump across whole files or functions, subroutines.",
+      "textZh": "我们正在通过工程手段打造一个优秀的“AI 心智”调试器，看看它在哪里说了什么、在哪里犯了错误，并追溯那个错误的源头。显然，你可以对启发式程序设计这么做。如果你使用 C++ 或别的什么，就可以逐步调试它，而且可以跳过整个文件或函数、子程序。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "Or you can eventually drill down right to the exact line where you perhaps did a single equals instead of a double equals, something like that. Figure out where the bug is. It's harder with AI, but it's a solvable problem, I think. You mentioned you like Anthropic's work here. I'd be curious if you plan... I don't like everything about Anthropic… Sholto. Also, I'm a little worried that there's a tendency...",
+      "textZh": "或者你最终可以深入到确切的那一行，比如你在那里用了单等号而不是双等号，诸如此类。找出错误在哪里。对 AI 来说更难，但我认为这是一个可以解决的问题。你提到你喜欢 Anthropic 在这方面的工作。我很好奇你是否计划……我并不喜欢 Anthropic 的一切……Sholto。另外，我有点担心存在一种倾向……"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "I have a theory here that if simulation theory is correct, that the most interesting outcome is the most likely, because simulations that are not interesting will be terminated. Just like in this version of reality, in this layer of reality, if a simulation is going in a boring direction, we stop spending effort on it. We terminate the boring simulation. This is how Elon is keeping us all alive. He's keeping things interesting.",
+      "textZh": "我对此有一个理论：如果模拟理论是正确的，那么最有趣的结果就是最有可能发生的，因为无趣的模拟会被终止。就像在这个版本的现实中，在这一层现实中，如果一个模拟正朝着无聊的方向发展，我们就会停止在它上面投入精力。我们会终止无聊的模拟。埃隆就是这样让我们所有人活下来的。他让事情保持有趣。"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "Arguably the most important is to keep things interesting enough that whoever is running us keeps paying the bills on... We’re renewed for the next season. Are they gonna pay their cosmic AWS bill, whatever the equivalent is that we're running in? As long as we're interesting, they'll keep paying the bills.",
+      "textZh": "可以说，最重要的是让事情保持足够有趣，好让无论是谁在运行我们，都继续为……支付账单。我们获续订了下一季。他们会支付自己的宇宙 AWS 账单吗，无论我们运行所在之处的对应物是什么？只要我们有趣，他们就会继续支付账单。"
+    },
+    {
+      "id": "p-0115",
+      "textEn": "If you consider then, say, a Darwinian survival applied to a very large number of simulations, only the most interesting simulations will survive, which therefore means that the most interesting outcome is the most likely. We're either that or annihilated. They particularly seem to like interesting outcomes that are ironic. Have you noticed that? How often is the most ironic outcome the most likely? Now look at the names of AI companies.",
+      "textZh": "那么，如果你考虑把达尔文式生存应用于数量非常庞大的模拟，只有最有趣的模拟会存活下来，因此这意味着最有趣的结果就是最有可能发生的。我们要么是那种情况，要么就被毁灭了。他们似乎尤其喜欢带有讽刺意味的有趣结果。你注意到了吗？最具讽刺意味的结果有多频繁地成为最有可能发生的结果？现在看看 AI 公司的名字。"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "Okay, Midjourney is not mid. Stability AI is unstable. OpenAI is closed. Anthropic? Misanthropic. What does this mean for X? Minus X, I don't know. Y. I intentionally made it... It's a name that you can't invert, really. It's hard to say, what is the ironic version? It's, I think, a largely irony-proof name. By design. Yeah. You have an irony shield. What are your predictions for where AI products go?",
+      "textZh": "好吧，Midjourney 并不“mid”（平庸）。Stability AI 并不稳定。OpenAI 是封闭的。Anthropic？Misanthropic（厌恶人类的）。那这对 X 意味着什么？负 X，我不知道。Y。我是故意把它取成……这是个你真的没法反转的名字。很难说，它的讽刺版本是什么？我认为，这是一个基本不怕讽刺的名字。这是有意为之。是的。你有一面讽刺防护盾。你预测 AI 产品将走向何方？"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "My sense is that you can summarize all AI progress like so. First, you had LLMs. Then you had contemporaneously both RL really working and the deep research modality, so you could pull in stuff that wasn't really in the model. The differences between the various AI labs are smaller than just the temporal differences. They're all much further ahead than anyone was 24 months ago or something like that.",
+      "textZh": "我的感觉是，所有 AI 进展都可以这样概括。首先，我们有了大语言模型。然后，强化学习真正奏效和深度研究模式同时出现了，这样你就可以引入那些并不真正存在于模型里的东西。各家 AI 实验室之间的差异，小于纯粹由时间造成的差异。它们全都比大约 24 个月前的任何水平领先得多。"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "So just what does '26, what does '27, have in store for us as users of AI products? What are you excited for? Well, I'd be surprised by the end of this year if digital human emulation has not been solved. I guess that's what we sort of mean by the MacroHard project. Can you do anything that a human with access to a computer could do? In the limit, that's the best you can do before you have a physical Optimus.",
+      "textZh": "那么，作为 AI 产品的用户，2026 年、2027 年究竟会给我们带来什么？你期待什么？嗯，如果到今年年底，数字人类模拟还没有得到解决，我会感到惊讶。我想，这差不多就是我们所说的 MacroHard 项目。你能完成人类在可以使用计算机的情况下所能做的任何事情吗？在极限情况下，这就是拥有实体 Optimus 之前所能达到的最好程度。"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "The best you can do is a digital Optimus. You can move electrons and you can amplify the productivity of humans. But that's the most you can do until you have physical robots. That will superset everything, if you can fully emulate humans. This is the remote worker kind of idea, where you'll have a very talented remote worker. Physics has great tools for thinking. So you say, \"in the limit\", what is the most that AI can do before you have robots?",
+      "textZh": "你所能做到的最好程度，就是一个数字版 Optimus。你可以移动电子，也可以放大人类的生产力。但在拥有实体机器人之前，这就是你所能做到的极限。要是你能完全模拟人类，那它将涵盖其他一切。这有点像远程工作者的构想，你会拥有一名非常有才干的远程工作者。物理学提供了非常好的思考工具。所以你说“在极限情况下”，在拥有机器人之前，AI 最多能做到什么？"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "Well, it's anything that involves moving electrons or amplifying the productivity of humans. So a digital human emulator is, in the limit, a human at a computer, is the most that AI can do in terms of doing useful things before you have a physical robot. Once you have physical robots, then you essentially have unlimited capability. Physical robots… I call Optimus the infinite money glitch. Because you can use them to make more Optimuses. Yeah.",
+      "textZh": "嗯，就是任何涉及移动电子或放大人类生产力的事情。所以，数字人类模拟器，在极限情况下，也就是坐在计算机前的人类，是 AI 在拥有实体机器人之前，在完成有用的事情方面所能达到的极限。一旦拥有实体机器人，你基本上就拥有了无限的能力。实体机器人……我把 Optimus 称为无限金钱漏洞。因为你可以用它们制造更多 Optimus。是的。"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "Humanoid robots will improve by basically three things that are growing exponentially multiplied by each other recursively. You're going to have exponential increase in digital intelligence, exponential increase in the AI chip capability, and exponential increase in the electromechanical dexterity. The usefulness of the robot is roughly those three things multiplied by each other. But then the robot can start making the robots.",
+      "textZh": "人形机器人将主要通过 3 个彼此递归相乘、呈指数增长的事物得到改进。数字智能将呈指数增长，AI 芯片的能力将呈指数增长，机电灵巧性也将呈指数增长。机器人的实用性大致就是这 3 项相乘。但随后机器人可以开始制造机器人。"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "So you have a recursive multiplicative exponential. This is a supernova. Do land prices not factor into the math there? Labor is one of the four factors of production, but not the others? If ultimately you're limited by copper, or pick your input, it’s not quite an infinite money glitch because... Well, infinity is big. So no, not infinite, but let's just say you could do many, many orders of magnitude of the current economy. Like a million.",
+      "textZh": "所以你会得到一种递归的乘法式指数增长。这是一颗超新星。土地价格不计入其中的数学计算吗？劳动力是 4 大生产要素之一，但其他要素不是吗？如果最终限制你的是铜，或者随便选一种投入品，那它就不完全是无限金钱漏洞，因为……嗯，无限是很大的。所以，不是无限，但这么说吧，你可以做到当前经济规模的许多、许多个数量级。比如 100万倍。"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "Just to get to harnessing a millionth of the sun's energy would be roughly, give or take an order of magnitude, 100,000x bigger than Earth's entire economy today. And you're only at one millionth of the sun, give or take an order of magnitude. Yeah, we're talking orders of magnitude. Before we move on to Optimus, I have a lot of questions on that but— Every time I say \"order of magnitude\"... Everybody take a shot. I say it too often.",
+      "textZh": "仅仅要利用太阳能量的百万分之一，粗略来说，上下相差 1 个数量级，就会比当今整个地球经济大 100,000 倍左右。而你利用的还只是太阳的百万分之一，上下相差 1 个数量级。是的，我们谈的是数量级。在我们转到 Optimus 之前，我对此有很多问题，但是——每次我说“数量级”……大家都喝一杯。我说得太频繁了。"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "Take 10, the next time 100, the time after that... Well, an order of magnitude more wasted. I do have one more question about xAI. This strategy of building a remote worker, co-worker replacement… Everyone's gonna do it by the way, not just us. So what is xAI's plan to win? You expect me to tell you on a podcast? Yeah. \"Spill all the beans. Have another Guinness.\" It's a good system. We'll sing like a canary. All the secrets, just spill them.",
+      "textZh": "喝 10 杯，下次喝 100 杯，再下一次……嗯，多浪费 1 个数量级。我确实还有 1 个关于 xAI 的问题。这种打造远程工作者、同事替代者的战略……顺便说一句，所有人都会这么做，不只是我们。那么 xAI 获胜的计划是什么？你指望我在播客上告诉你？是的。“把所有秘密都抖出来。再来一杯健力士。”这是个好办法。我们会像金丝雀一样全招了。所有秘密，全都抖出来。"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "Okay, but in a non-secret spilling way, what's the plan? What a hack. When you put it that way… I think the way that Tesla solved self-driving is the way to do it. So I'm pretty sure that's the way. Unrelated question. How did Tesla solve self-driving? It sounds like you're talking about data? Tesla solved self-driving because of the... We're going to try data and we're going to try algorithms. But isn't that what all the other labs are trying?",
+      "textZh": "好吧，但在不泄露秘密的前提下，计划是什么？真会钻空子。你这么一说……我认为，Tesla 解决自动驾驶问题的方式就是正确的方法。所以我相当确定，那就是正确的方法。问个无关的问题。Tesla 是怎么解决自动驾驶的？听起来你说的是数据？Tesla 解决自动驾驶，是因为……我们会尝试数据，也会尝试算法。但其他所有实验室不也都在尝试这些吗？"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "\"And if those don't work, I'm not sure what will. We've tried data. We've tried algorithms. We've run out. Now we don't know what to do…\" I'm pretty sure I know the path. It's just a question of how quickly we go down that path, because it's pretty much the Tesla path. Have you tried Tesla self-driving lately? Not the most recent version, but... Okay. The car, it just increasingly feels sentient. It feels like a living creature.",
+      "textZh": "“而且，如果那些办法都不奏效，我不知道还有什么会奏效。我们试过数据。我们试过算法。我们已经用尽了。现在我们不知道该怎么办了……”我相当确定自己知道这条路径。问题只在于我们沿着这条路径前进得有多快，因为它基本就是 Tesla 的路径。你最近试过 Tesla 的自动驾驶吗？不是最新版本，不过……好吧。这辆车，它只是越来越让人觉得有意识。感觉就像一个活物。"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "That'll only get more so. I'm actually thinking we probably shouldn't put too much intelligence into the car, because it might get bored and… Start roaming the streets. Imagine you're stuck in a car and that's all you could do. You don't put Einstein in a car. Why am I stuck in a car? So there's actually probably a limit to how much intelligence you put in a car to not have the intelligence be bored.",
+      "textZh": "这种感觉只会越来越强。实际上我在想，我们或许不该给汽车注入太多智能，因为它可能会感到无聊，然后……开始在街上闲逛。想象一下，你被困在一辆车里，而那就是你所能做的一切。你不会把爱因斯坦塞进一辆车里。我为什么被困在一辆车里？所以，为了不让这个智能感到无聊，汽车里放入多少智能可能确实有一个上限。"
+    },
+    {
+      "id": "p-0128",
+      "textEn": "What's xAI's plan to stay on the compute ramp up that all the labs are doing right now? The labs are on track to spend over $50-200 billion. You mean the corporations? The labs are at universities and they’re moving like a snail. They’re not spending $50 billion. You mean the revenue maximizing corporations… that call themselves labs. That's right. The \"revenue maximizing corporations\" are making $10-20 billion, depending on...",
+      "textZh": "xAI 有什么计划，来跟上目前所有实验室都在进行的算力扩张？这些实验室正走在投入超过500亿至2000亿美元的轨道上。你是指那些公司吗？实验室在大学里，而且行动慢得像蜗牛。它们没有投入500亿美元。你指的是那些收入最大化公司……它们自称实验室。没错。这些“收入最大化公司”正在赚取100亿至200亿美元，具体取决于……"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "OpenAI is making $20B of revenue, Anthropic is at $10B. \"Close to a maximum profit\" AI. xAI is reportedly at $1B. What's the plan to get to their compute level, get to their revenue level, and stay there as things get going? As soon as you unlock the digital human, you basically have access to trillions of dollars of revenue. In fact, you can really think of it like… The most valuable companies currently by market cap, their output is digital.",
+      "textZh": "OpenAI 正在创造200亿美元的营收，Anthropic 达到了100亿美元。“接近利润最大化”的 AI。报道称，xAI 的营收为10亿美元。要达到它们的算力水平、达到它们的营收水平，并随着事态发展保持在那个水平，计划是什么？一旦你解锁了数字人，基本上就能获得数万亿美元的营收。事实上，你真的可以这样理解……目前市值最高的公司，它们的产出都是数字化的。"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "Nvidia’s output is FTPing files to Taiwan. It's digital. Now, those are very, very difficult. High-value files. They're the only ones that can make files that good, but that is literally their output. They FTP files to Taiwan. Do they FTP them? I believe so. I believe that File Transfer Protocol is the... But I could be wrong. But either way, it's a bitstream going to Taiwan. Apple doesn't make phones. They send files to China.",
+      "textZh": "Nvidia 的产出就是通过 FTP 把文件传到台湾。它是数字化的。当然，那些是非常、非常难制作的。高价值文件。只有他们能制作出那么好的文件，但那确实就是他们的产出。他们通过 FTP 把文件传到台湾。他们真的用 FTP 传吗？我认为是的。我认为文件传输协议就是……但我可能错了。不过无论如何，传到台湾的是一个比特流。Apple 不生产手机。他们把文件发到中国。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "Microsoft doesn't manufacture anything. Even for Xbox, that's outsourced. Their output is digital. Meta's output is digital. Google's output is digital. So if you have a human emulator, you can basically create one of the most valuable companies in the world overnight, and you would have access to trillions of dollars of revenue. It's not a small amount. I see.",
+      "textZh": "Microsoft 不制造任何东西。就连 Xbox 也是外包生产的。他们的产出是数字化的。Meta 的产出是数字化的。Google 的产出是数字化的。所以，如果你拥有一个人类模拟器，基本上就能在一夜之间创建全球最有价值的公司之一，而且你将能获得数万亿美元的营收。这可不是一个小数目。我明白了。"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "You're saying revenue figures today are all rounding errors compared to the actual TAM. So just focus on the TAM and how to get there. Take something as simple as, say, customer service. If you have to integrate with the APIs of existing corporations—many of which don't even have an API, so you've got to make one, and you've got to wade through legacy software—that's extremely slow.",
+      "textZh": "你的意思是，与实际的潜在市场总规模相比，今天的营收数字全都只是舍入误差。所以只要专注于潜在市场总规模，以及如何抵达那里。以客户服务这样简单的事情为例。如果你必须与现有公司的 API 集成——其中许多公司甚至没有 API，所以你得做一个，还得费力处理遗留软件——那就会极其缓慢。"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "However, if AI can simply take whatever is given to the outsourced customer service company that they already use and do customer service using the apps that they already use, then you can make tremendous headway in customer service, which is, I think, 1% of the world economy or something like that. It's close to a trillion dollars all in, for customer service. And there's no barriers to entry.",
+      "textZh": "然而，如果 AI 可以直接接手交给他们已经在使用的外包客户服务公司的任何东西，并使用他们已经在用的应用程序来提供客户服务，那么你就能在客户服务领域取得巨大进展。我认为客户服务约占世界经济的1%，或者大概如此。客户服务全部算下来接近1万亿美元。而且没有准入壁垒。"
+    },
+    {
+      "id": "p-0134",
+      "textEn": "You can immediately say, \"We'll outsource it for a fraction of the cost,\" and there's no integration needed. You can imagine some kind of categorization of intelligence tasks where there is breadth, where customer service is done by very many people, but many people can do it. Then there's difficulty where there's a best-in-class turbine engine.",
+      "textZh": "你可以立刻说：“我们会以一小部分成本把它外包出去”，而且不需要进行任何集成。你可以设想对智能任务进行某种分类，其中一个维度是广度，比如客户服务由非常多人完成，但许多人都能做。然后还有难度，比如存在一款同类最佳的涡轮发动机。"
+    },
+    {
+      "id": "p-0135",
+      "textEn": "Presumably there's a 10% more fuel-efficient turbine engine that could be imagined by an intelligence, but we just haven't found it yet. Or GLP-1s are a few bytes of data… Where do you think you want to play in this? Is it a lot of reasonably intelligent intelligence, or is it at the very pinnacle of cognitive tasks?",
+      "textZh": "想必某种智能能够设想出一款燃油效率再高10%的涡轮发动机，只是我们还没有找到它。又或者，GLP-1 只是几个字节的数据……你认为自己想在其中哪个领域发挥作用？是大量具备合理智能水平的智能，还是认知任务的最顶峰？"
+    },
+    {
+      "id": "p-0136",
+      "textEn": "I was just using customer service as something that's a very significant revenue stream, but one that is probably not difficult to solve for. If you can emulate a human at a desktop, that's what customer service is. It's people of average intelligence. You don't need somebody who's spent many years. You don't need several-sigma good engineers for that.",
+      "textZh": "我只是拿客户服务来举例，因为它是一项非常可观的营收来源，但可能并不难解决。如果你能模拟一个坐在电脑前的人，那就是客户服务。做这件事的是智力水平普通的人。你不需要一个花了很多年的人。你不需要水平高出几个标准差的优秀工程师来做这件事。"
+    },
+    {
+      "id": "p-0137",
+      "textEn": "But as you make that work, once you have effectively digital Optimus working, you can then run any application. Let's say you're trying to design chips. You could then run conventional apps, stuff from Cadence and Synopsys and whatnot. You can run 1,000 or 10,000 simultaneously and say, \"given this input, I get this output for the chip.\" At some point, you're going to know what the chip should look like without using any of the tools.",
+      "textZh": "但当你把它做成之后，一旦你实际上拥有了能够工作的数字 Optimus，就可以运行任何应用程序。假设你正在尝试设计芯片。那时你可以运行传统应用程序，包括 Cadence 和 Synopsys 之类的软件。你可以同时运行1,000个或10,000个，并说：“给定这个输入，我会得到芯片的这个输出。”到了某个阶段，不使用任何工具，你也会知道芯片应该是什么样子。"
+    },
+    {
+      "id": "p-0138",
+      "textEn": "Basically, you should be able to do a digital chip design. You can do chip design. You march up the difficulty curve. You’d be able to do CAD. You could use NX or any of the CAD software to design things. So you think you start at the simplest tasks and walk your way up the difficulty curve?",
+      "textZh": "基本上，你应该能够进行数字芯片设计。你可以进行芯片设计。你沿着难度曲线逐步向上。你将能够进行 CAD 设计。你可以使用 NX 或任何 CAD 软件来设计东西。所以你认为要从最简单的任务开始，再沿着难度曲线逐步向上？"
+    },
+    {
+      "id": "p-0139",
+      "textEn": "As a broader objective of having this full digital coworker emulator, you’re saying, \"all the revenue maximizing corporations want to do this, xAI being one of them, but we will win because of a secret plan we have.\" But everybody's trying different things with data, different things with algorithms. \"We tried data, we tried algorithms. What else can we do?\" It seems like a competitive field. How are you guys going to win? That’s my big question.",
+      "textZh": "把拥有这种完整的数字同事模拟器作为一个更宏观的目标，你的意思是：“所有收入最大化公司都想做这件事，xAI 也是其中之一，但我们会获胜，因为我们有一项秘密计划。”但所有人都在数据上尝试不同的做法，也在算法上尝试不同的做法。“我们试过数据，我们试过算法。我们还能做什么？”这似乎是一个竞争激烈的领域。你们要如何获胜？这就是我的大问题。"
+    },
+    {
+      "id": "p-0140",
+      "textEn": "I think we see a path to doing it. I think I know the path to do this because it's kind of the same path that Tesla used to create self-driving. Instead of driving a car, it's driving a computer screen. It's a self-driving computer, essentially. Is the path following human behavior and training on vast quantities of human behavior? Isn't that... training? Obviously I'm not going to spell out the most sensitive secrets on a podcast.",
+      "textZh": "我认为我们看到了一条实现它的路径。我觉得自己知道实现这件事的路径，因为它有点像 Tesla 用来实现自动驾驶的路径。只不过它驾驶的不是汽车，而是电脑屏幕。它本质上是一台自动驾驶的电脑。这条路径是跟随人类行为，并使用海量人类行为进行训练吗？那不就是……训练吗？显然，我不会在播客上把最敏感的秘密详细说出来。"
+    },
+    {
+      "id": "p-0141",
+      "textEn": "I need to have at least three more Guinnesses for that. What will xAI's business be? Is it going to be consumer, enterprise? What's the mix of those things going to be? Is it going to be similar to other labs— You’re saying \"labs\". Corporations. The psyop goes deep, Elon. \"Revenue maximizing corporations\", to be clear. Those GPUs don't pay for themselves. Exactly. What's the business model? What are the revenue streams in a few years’ time?",
+      "textZh": "要说那些，我至少还得再喝3杯健力士啤酒。xAI 的业务会是什么？是面向消费者，还是面向企业？这些业务会以什么比例组合？会和其他实验室类似吗——你又说“实验室”。公司。这场心理战渗透得很深啊，埃隆。准确地说，是“收入最大化公司”。那些 GPU 可不会自己付钱。正是。商业模式是什么？几年后会有哪些营收来源？"
+    },
+    {
+      "id": "p-0142",
+      "textEn": "Things are going to change very rapidly. I'm stating the obvious here. I call AI the supersonic tsunami. I love alliteration. What's going to happen—especially when you have humanoid robots at scale—is that they will make products and provide services far more efficiently than human corporations. Amplifying the productivity of human corporations is simply a short-term thing.",
+      "textZh": "事情将会非常迅速地发生变化。我说的是显而易见的事。我把 AI 称为超音速海啸。我喜欢头韵。将要发生的事情——尤其是当你大规模拥有人形机器人时——就是它们制造产品和提供服务的效率将远高于人类公司。提升人类公司的生产力只是一件短期的事情。"
+    },
+    {
+      "id": "p-0143",
+      "textEn": "So you're expecting fully digital corporations rather than SpaceX becoming part AI? I think there will be digital corporations but… Some of this is going to sound kind of doomerish, okay? But I'm just saying what I think will happen. It's not meant to be doomerish or anything else. This is just what I think will happen. Corporations that are purely AI and robotics will vastly outperform any corporations that have people in the loop.",
+      "textZh": "所以，你预期出现的是完全数字化的公司，而不是 SpaceX 变成部分由 AI 驱动？我认为会有数字化公司，但是……其中一些话听起来可能有点末日论，好吗？但我只是在说我认为会发生什么。这并不是要宣扬末日论或任何别的东西。这只是我认为会发生的事情。纯粹由 AI 和机器人组成的公司，其表现将远远超过任何有人参与其中的公司。"
+    },
+    {
+      "id": "p-0144",
+      "textEn": "Computer used to be a job that humans had. You would go and get a job as a computer where you would do calculations. They'd have entire skyscrapers full of humans, 20-30 floors of humans, just doing calculations. Now, that entire skyscraper of humans doing calculations can be replaced by a laptop with a spreadsheet. That spreadsheet can do vastly more calculations than an entire building full of human computers.",
+      "textZh": "“计算员”曾经是人类从事的一种工作。你会去找一份计算员的工作，在那里进行计算。他们会让整栋摩天大楼里都坐满人，20至30层全是人，只做计算。如今，整栋摩天大楼里负责计算的人都可以被一台装有电子表格的笔记本电脑取代。这个电子表格所能完成的计算，远远多于一整栋楼的人类计算员。"
+    },
+    {
+      "id": "p-0145",
+      "textEn": "You can think, \"okay, what if only some of the cells in your spreadsheet were calculated by humans?\" Actually, that would be much worse than if all of the cells in your spreadsheet were calculated by the computer. Really what will happen is that the pure AI, pure robotics corporations or collectives will far outperform any corporations that have humans in the loop. And this will happen very quickly. Speaking of closing the loop… Optimus.",
+      "textZh": "你可以想：“好吧，如果电子表格里只有一部分单元格由人类计算，会怎样？”事实上，那会比电子表格中的所有单元格都由计算机计算糟糕得多。真正会发生的是，纯 AI、纯机器人公司或集体的表现将远远超过任何有人参与其中的公司。而且这会非常迅速地发生。说到闭合这个环路……Optimus。"
+    },
+    {
+      "id": "p-0146",
+      "textEn": "As far as manufacturing targets go, your companies have been carrying American manufacturing of hard tech on their back. But in the fields that Tesla has been dominant in—and now you want to go into humanoids—in China there are dozens and dozens of companies that are doing this kind of manufacturing cheaply and at scale that are incredibly competitive.",
+      "textZh": "就制造目标而言，你的公司一直在独力支撑美国的硬科技制造。但在 Tesla 一直占据主导地位的领域——现在你又想进军人形机器人——中国有几十家又几十家公司正在以低成本、大规模的方式从事这类制造，而且竞争力极强。"
+    },
+    {
+      "id": "p-0147",
+      "textEn": "So give us advice or a plan of how America can build the humanoid armies or the EVs, et cetera, at scale and as cheaply as China is on track to. There are really only three hard things for humanoid robots. The real-world intelligence, the hand, and scale manufacturing. I haven't seen any, even demo robots, that have a great hand, with all the degrees of freedom of a human hand. Optimus will have that. Optimus does have that.",
+      "textZh": "所以，请给我们一些建议或一个方案，说明美国如何能以中国有望实现的规模和同样低廉的成本，制造人形机器人大军或电动汽车等等。人形机器人真正困难的事情只有3项：现实世界智能、手，以及规模化制造。我还没有见过任何机器人，哪怕是演示机器人，拥有一只很出色的手，具备人手的全部自由度。Optimus 将会具备。Optimus 确实具备。"
+    },
+    {
+      "id": "p-0148",
+      "textEn": "How do you achieve that? Is it just the right torque density in the motor? What is the hardware bottleneck to that? We had to design custom actuators, basically custom design motors, gears, power electronics, controls, sensors. Everything had to be designed from physics first principles. There is no supply chain for this. Will you be able to manufacture those at scale? Yes. Is anything hard, except the hand, from a manipulation point of view?",
+      "textZh": "你们是如何实现的？只是电机要有合适的扭矩密度吗？这方面的硬件瓶颈是什么？我们必须设计定制执行器，基本上就是定制设计电机、齿轮、电力电子设备、控制系统、传感器。一切都必须从物理学第一性原理出发进行设计。这方面没有供应链。你们能大规模制造这些部件吗？能。从操控的角度来看，除了手之外，还有什么困难吗？"
+    },
+    {
+      "id": "p-0149",
+      "textEn": "Or once you've solved the hand, are you good? From an electromechanical standpoint, the hand is more difficult than everything else combined. The human hand turns out to be quite something. But you also need the real-world intelligence. The intelligence that Tesla developed for the car applies very well to the robot, which is primarily vision in. The car takes in vision, but it actually also is listening for sirens.",
+      "textZh": "还是说，一旦解决了手的问题，就万事俱备了？从机电角度来看，手比其他所有部分加在一起都更难。事实证明，人手相当了不起。但你还需要现实世界智能。Tesla 为汽车开发的智能非常适用于机器人，其输入主要是视觉。汽车接收视觉输入，但实际上也会聆听警笛声。"
+    },
+    {
+      "id": "p-0150",
+      "textEn": "It's taking in the inertial measurements, GPS signals, other data, combining that with video, primarily video, and then outputting the control commands. Your Tesla is taking in one and a half gigabytes a second of video and outputting two kilobytes a second of control outputs with the video at 36 hertz and the control frequency at 18.",
+      "textZh": "它正在接收惯性测量数据、GPS 信号和其他数据，将其与视频结合起来——主要是视频——然后输出控制指令。你的 Tesla 每秒接收1.5GB的视频，并且每秒输出2KB的控制输出，视频频率为36赫兹，控制频率为18。"
+    },
+    {
+      "id": "p-0151",
+      "textEn": "One intuition you could have for when we get this robotic stuff is that it takes quite a few years to go from the compelling demo to actually being able to use it in the real world. 10 years ago, you had really compelling demos of self-driving, but only now we have Robotaxis and Waymo and all these services scaling up. Shouldn't this make one pessimistic on household robots?",
+      "textZh": "对于我们何时能实现这些机器人技术，你可能会有这样一种直觉：从令人信服的演示，到真正能够在现实世界中使用，需要相当多年的时间。10年前，你们就有了非常令人信服的自动驾驶演示，但直到现在，我们才有 Robotaxi、Waymo 和所有这些正在扩大规模的服务。这难道不应该让人对家用机器人感到悲观吗？"
+    },
+    {
+      "id": "p-0152",
+      "textEn": "Because we don't even quite have the compelling demos yet of, say, the really advanced hand. Well, we've been working on humanoid robots now for a while. I guess it's been five or six years or something. A bunch of the things that were done for the car are applicable to the robot. We'll use the same Tesla AI chips in the robot as in the car. We'll use the same basic principles. It's very much the same AI.",
+      "textZh": "因为我们甚至还没有真正看到令人信服的演示，比如那种非常先进的手。嗯，我们研发人形机器人已经有一段时间了。我想大概有5年或6年之类的。为汽车开发的许多东西也适用于机器人。我们会在机器人上使用与汽车相同的 Tesla AI 芯片。我们会使用相同的基本原理。这基本上就是同一种 AI。"
+    },
+    {
+      "id": "p-0153",
+      "textEn": "You've got many more degrees of freedom for a robot than you do for a car. If you just think of it as a bitstream, AI is mostly compression and correlation of two bitstreams. For video, you've got to do a tremendous amount of compression and you've got to do the compression just right. You've got to ignore the things that don't matter.",
+      "textZh": "机器人的自由度比汽车多得多。如果你只是把它看作比特流，AI 大体上就是对2条比特流进行压缩和关联。对于视频，你必须进行大量压缩，而且必须恰到好处地压缩。你必须忽略那些无关紧要的东西。"
+    },
+    {
+      "id": "p-0154",
+      "textEn": "You don't care about the details of the leaves on the tree on the side of the road, but you care a lot about the road signs and the traffic lights, the pedestrians, and even whether someone in another car is looking at you or not looking at you. Some of these details matter a lot. The car is going to turn that one and a half gigabytes a second ultimately into two kilobytes a second of control outputs. So you’ve got many stages of compression.",
+      "textZh": "你不关心路边树木叶片的细节，但你非常关心道路标志、交通信号灯、行人，甚至另一辆车里的人有没有在看你。其中一些细节非常重要。汽车最终要把每秒1.5GB的数据转化为每秒2KB的控制输出。所以你要经历许多级压缩。"
+    },
+    {
+      "id": "p-0155",
+      "textEn": "You've got to get all those stages right and then correlate those to the correct control outputs. The robot has to do essentially the same thing. This is what happens with humans. We really are photons in, controls out. That is the vast majority of your life: vision, photons in, and then motor controls out. Naively, it seems that between humanoid robots and cars… The fundamental actuators in a car are how you turn, how you accelerate.",
+      "textZh": "你必须把所有这些阶段都做好，然后将它们与正确的控制输出关联起来。机器人基本上也必须做同样的事。人类也是这样运作的。我们实际上就是光子输入、控制输出。这构成了你生命中的绝大部分：视觉、光子输入，然后是运动控制输出。直观来看，在人形机器人和汽车之间……汽车的基本执行机构负责的是如何转向、如何加速。"
+    },
+    {
+      "id": "p-0156",
+      "textEn": "In a robot, especially with maneuverable arms, there's dozens and dozens of these degrees of freedom. Then especially with Tesla, you had this advantage of millions and millions of hours of human demo data collected from the car being out there. You can't equivalently deploy Optimuses that don't work and then get the data that way. So between the increased degrees of freedom and the far sparser data... Yes. That’s a good point.",
+      "textZh": "在机器人中，尤其是有灵活手臂的机器人，有几十又几十个这样的自由度。然后，尤其是 Tesla，还拥有这样一个优势：汽车在外面行驶时收集了数百万又数百万小时的人类示范数据。你不能同样地部署无法工作的 Optimus，然后以这种方式获取数据。所以，考虑到增加的自由度和稀疏得多的数据……是的。这一点说得很好。"
+    },
+    {
+      "id": "p-0157",
+      "textEn": "How will you use the Tesla engine of intelligence to train the Optimus mind? You're actually highlighting an important limitation and difference from cars. We'll soon have 10 million cars on the road. It's hard to duplicate that massive training flywheel. For the robot, what we're going to need to do is build a lot of robots and put them in kind of an Optimus Academy so they can do self-play in reality. We're actually building that out.",
+      "textZh": "你们将如何利用 Tesla 的智能引擎来训练 Optimus 的大脑？你实际上指出了一个重要的局限，以及它与汽车之间的差异。我们很快就会有1000万辆汽车行驶在道路上。很难复制如此庞大的训练飞轮。对于机器人，我们需要做的是制造大量机器人，把它们放进某种 Optimus 学院，让它们能在现实中进行自我对弈。我们实际上正在建设这个体系。"
+    },
+    {
+      "id": "p-0158",
+      "textEn": "We can have at least 10,000 Optimus robots, maybe 20-30,000, that are doing self-play and testing different tasks. Tesla has quite a good reality generator, a physics-accurate reality generator, that we made for the cars. We'll do the same thing for the robots. We actually have done that for the robots. So you have a few tens of thousands of humanoid robots doing different tasks. You can do millions of simulated robots in the simulated world.",
+      "textZh": "我们可以让至少10000台、也许20000至30000台 Optimus 机器人进行自我对弈，并测试不同的任务。Tesla 有一个相当不错的现实生成器，是我们为汽车制作的、物理层面精确的现实生成器。我们会为机器人做同样的事。实际上，我们已经为机器人做了。所以你有数万台人形机器人执行不同的任务。你可以在模拟世界中运行数百万台模拟机器人。"
+    },
+    {
+      "id": "p-0159",
+      "textEn": "You use the tens of thousands of robots in the real world to close the simulation to reality gap. Close the sim-to-real gap. How do you think about the synergies between xAI and Optimus, given you're highlighting that you need this world model, you want to use some really smart intelligence as a control plane, and Grok is doing the slower planning, and then the motor policy is a little lower level. What will the synergy between these things be?",
+      "textZh": "你利用现实世界中的数万台机器人缩小模拟与现实之间的差距。缩小模拟到现实的差距。你如何看待 xAI 与 Optimus 之间的协同效应？因为你强调了需要这种世界模型，希望使用某种真正聪明的智能作为控制平面，而 Grok 负责速度较慢的规划，运动策略则处于稍低的层级。这些东西之间会产生怎样的协同效应？"
+    },
+    {
+      "id": "p-0160",
+      "textEn": "Grok would orchestrate the behavior of the Optimus robots. Let's say you wanted to build a factory. Grok could organize the Optimus robots, assign them tasks to build the factory to produce whatever you want. Don't you need to merge xAI and Tesla then? Because these things end up so... What were we saying earlier about public company discussions? We're one more Guinness in, Elon.",
+      "textZh": "Grok 会协调 Optimus 机器人的行为。假设你想建造一座工厂。Grok 可以组织 Optimus 机器人，给它们分配任务，让它们建造工厂，生产你想要的任何东西。那你们岂不是需要合并 xAI 和 Tesla？因为这些东西最终变得如此……我们之前谈到上市公司讨论时说了什么来着？埃隆，我们又喝了一杯吉尼斯黑啤。"
+    },
+    {
+      "id": "p-0161",
+      "textEn": "What are you waiting to see before you say, we want to manufacture 100,000 Optimuses? \"Optimi\". Since we're defining the proper noun, we’re going to define the plural of the proper noun too. We're going to proper noun the plural and so it's Optimi. Is there something on the hardware side you want to see? Do you want to see better actuators? Is it just that you want the software to be better?",
+      "textZh": "在你说“我们想制造100000台 Optimus”之前，你还在等待看到什么？“Optimi”。既然我们正在定义这个专有名词，那我们也要定义这个专有名词的复数形式。我们要把这个复数形式专有名词化，所以是 Optimi。硬件方面有什么是你想看到的吗？你想看到更好的执行器吗？还是只是想让软件变得更好？"
+    },
+    {
+      "id": "p-0162",
+      "textEn": "What are we waiting for before we get mass manufacturing of Gen 3? No, we're moving towards that. We're moving forward with the mass manufacturing. But you think current hardware is good enough that you just want to deploy as many as possible now? It's very hard to scale up production. But I think Optimus 3 is the right version of the robot to produce something on the order of a million units a year.",
+      "textZh": "在开始大规模制造第3代之前，我们还在等什么？不，我们正在朝那个方向推进。我们正在推进大规模制造。但你认为目前的硬件已经足够好了，现在只想尽可能多地部署吗？扩大生产规模非常困难。但我认为 Optimus 3 是适合实现每年大约100万台产量的机器人版本。"
+    },
+    {
+      "id": "p-0163",
+      "textEn": "I think you'd want to go to Optimus 4 before you went to 10 million units a year. Okay, but you can do a million units at Optimus 3? It's very hard to spool up manufacturing. The output per unit time always follows an S-curve. It starts off agonizingly slow, then it has this exponential increase, then a linear, then a logarithmic outcome until you eventually asymptote at some number.",
+      "textZh": "我认为，在达到每年1000万台之前，你会想先升级到 Optimus 4。好，但 Optimus 3 能做到100万台吗？启动并扩大制造规模非常困难。单位时间产量总是遵循 S 曲线。开始时慢得令人痛苦，然后呈指数增长，接着是线性增长，再然后是对数式增长，直到最终渐近于某个数值。"
+    },
+    {
+      "id": "p-0164",
+      "textEn": "Optimus’ initial production will be a stretched out S-curve because so much of what goes into Optimus is brand new. There is not an existing supply chain. The actuators, electronics, everything in the Optimus robot is designed from physics first principles. It's not taken from a catalog. These are custom-designed everything. I don't think there's a single thing— How far down does that go? I guess we're not making custom capacitors yet, maybe.",
+      "textZh": "Optimus 的初期生产将是一条被拉长的 S 曲线，因为 Optimus 中有太多东西是全新的。现成的供应链并不存在。Optimus 机器人的执行器、电子设备和一切，都是从物理学第一性原理出发设计的。不是从目录中选取的。这些全都是定制设计的。我觉得没有任何一样东西——这种定制深入到什么程度？我想我们可能还没有定制制造电容器。"
+    },
+    {
+      "id": "p-0165",
+      "textEn": "There's nothing you can pick out of a catalog, at any price. It just means that the Optimus S-Curve, the output per unit time, how many Optimus robots you make per day, is going to initially ramp slower than a product where you have an existing supply chain. But it will get to a million.",
+      "textZh": "不管出什么价格，都没有任何东西是你能从目录中挑出来的。这只意味着 Optimus 的 S 曲线，也就是单位时间产量、每天制造多少台 Optimus 机器人，在初期的爬坡速度会比拥有现成供应链的产品更慢。但它会达到100万台。"
+    },
+    {
+      "id": "p-0166",
+      "textEn": "When you see these Chinese humanoids, like Unitree or whatever, sell humanoids for like $6K or $13K, are you hoping to get your Optimus bill of materials below that price so you can do the same thing? Or do you just think qualitatively they're not the same thing? What allows them to sell for so low? Can we match that? Our Optimus is designed to have a lot of intelligence and to have the same electromechanical dexterity, if not higher, as a human.",
+      "textZh": "当你看到这些中国人形机器人，比如宇树之类的，以大约6000美元或13000美元的价格销售时，你是否希望把 Optimus 的物料成本降到这个价格以下，从而能做同样的事？还是你只是认为它们在性质上不是同一种东西？是什么让它们能够卖得这么便宜？我们能做到同样的价格吗？我们的 Optimus 旨在拥有很高的智能，以及不低于人类、甚至高于人类的机电灵巧度。"
+    },
+    {
+      "id": "p-0167",
+      "textEn": "Unitree does not have that. It's also quite a big robot. It has to carry heavy objects for long periods of time and not overheat or exceed the power of its actuators. It's 5'11\", so it's pretty tall. It's got a lot of intelligence. So it's going to be more expensive than a small robot that is not intelligent. But more capable. But not a lot more. The thing is, over time as Optimus robots build Optimus robots, the cost will drop very quickly.",
+      "textZh": "宇树不具备这些。它也是一台相当大的机器人。它必须能长时间搬运重物，同时不会过热或超出其执行器的功率。它身高5英尺11英寸，所以相当高。它拥有很高的智能。所以，它会比没有智能的小型机器人更贵。但能力也更强。不过不会贵很多。关键是，随着 Optimus 机器人开始制造 Optimus 机器人，成本会很快下降。"
+    },
+    {
+      "id": "p-0168",
+      "textEn": "What will these first billion Optimuses, Optimi, do? What will their highest and best use be? I think you would start off with simple tasks that you can count on them doing well. But in the home or in factories? The best use for robots in the beginning will be any continuous operation, any 24/7 operation, because they can work continuously. What fraction of the work at a Gigafactory that is currently done by humans could a Gen 3 do? I'm not sure.",
+      "textZh": "最初的10亿台 Optimus，也就是 Optimi，会做什么？它们最高、最好的用途会是什么？我认为，一开始会让它们执行你可以指望它们做好的简单任务。但会是在家庭中还是工厂里？初期机器人的最佳用途会是任何连续运行的工作，任何全天候运行的工作，因为它们可以持续工作。目前由人类完成的超级工厂工作中，有多大比例可以由第3代完成？我不确定。"
+    },
+    {
+      "id": "p-0169",
+      "textEn": "Maybe it's 10-20%, maybe more, I don't know. We would not reduce our headcount. We would increase our headcount, to be clear. But we would increase our output. The units produced per human... The total number of humans at Tesla will increase, but the output of robots and cars will increase disproportionately. The number of cars and robots produced per human will increase dramatically, but the number of humans will increase as well.",
+      "textZh": "也许是10至20%，也许更多，我不知道。我们不会削减员工人数。明确地说，我们会增加员工人数。但我们会提高产出。每名员工对应的产量……Tesla 的员工总数会增加，但机器人和汽车的产量会以不成比例的幅度增长。每名员工对应的汽车和机器人产量会大幅增加，但员工人数也会增加。"
+    },
+    {
+      "id": "p-0170",
+      "textEn": "We're talking about Chinese manufacturing a bunch here. We've also talked about some of the policies that are relevant, like you mentioned, the solar tariffs. You think they're a bad idea because we can't scale up solar in the US. Electricity output in the US needs to scale up. It can't without good power sources. You just need to get it somehow.",
+      "textZh": "我们在这里谈了很多中国制造业。我们也谈到了一些相关政策，比如你提到的太阳能关税。你认为这是个坏主意，因为我们无法在美国扩大太阳能规模。美国的电力产出需要扩大。没有优质的电力来源，就无法扩大。你就是必须设法获得电力。"
+    },
+    {
+      "id": "p-0171",
+      "textEn": "Where I was going with this is, if you were in charge, if you were setting all the policies, what else would you change? You’d change the solar tariffs, that’s one. I would say anything that is a limiting factor for electricity needs to be addressed, provided it's not very bad for the environment. So presumably some permitting reforms and stuff as well would be in there? There's a fair bit of permitting reforms that are happening.",
+      "textZh": "我刚才想说的是，如果由你负责，如果所有政策都由你制定，你还会改变什么？你会改变太阳能关税，这是一个。我会说，任何限制电力供应的因素都需要解决，前提是它不会对环境造成非常严重的危害。那么想必其中也会包括一些许可制度改革之类的？目前正在进行相当多的许可制度改革。"
+    },
+    {
+      "id": "p-0172",
+      "textEn": "A lot of the permitting is state-based, but anything federal... This administration is good at removing permitting roadblocks. I'm not saying all tariffs are bad. Solar tariffs. Sometimes if another country is subsidizing the output of something, then you have to have countervailing tariffs to protect domestic industry against subsidies by another country. What else would you change?",
+      "textZh": "很多许可事务以州为基础，但任何联邦层面的……本届政府很擅长消除许可障碍。我不是说所有关税都不好。太阳能关税。有时，如果另一个国家在补贴某种产品的产出，那么你就必须征收反补贴关税，保护国内产业免受另一个国家补贴的冲击。你还会改变什么？"
+    },
+    {
+      "id": "p-0173",
+      "textEn": "I don't know if there's that much that the government can actually do. One thing I was wondering... For the policy goal of creating a lead for the US versus China, it seems like the export bans have actually been quite impactful, where China is not producing leading-edge chips and the export bans really bite there. China is not producing leading-edge turbine engines.",
+      "textZh": "我不知道政府实际上还能做多少事。有一件事我一直在想……就确立美国相对于中国的领先优势这一政策目标而言，出口禁令似乎确实产生了很大影响：中国没有生产尖端芯片，出口禁令在这方面确实构成了强力制约。中国没有生产尖端涡轮发动机。"
+    },
+    {
+      "id": "p-0174",
+      "textEn": "Similarly, there's a bunch of export bans that are relevant there on some of the metallurgy. Should there be more export bans? As you think about things like the drone industry and things like that, is that something that should be considered? It's important to appreciate that in most areas, China is very advanced in manufacturing. There's only a few areas where it is not. China is a manufacturing powerhouse, next-level. It's very impressive.",
+      "textZh": "同样，在某些冶金技术方面，也有一系列与此相关的出口禁令。是否应该实施更多出口禁令？当你考虑无人机产业之类的领域时，这是否是应当考虑的措施？有一点很重要，那就是要认识到，中国在绝大多数制造领域都非常先进。只有少数领域不是如此。中国是一个制造业强国，更高一个层级。非常令人赞叹。"
+    },
+    {
+      "id": "p-0175",
+      "textEn": "If you take refining of ore, China does roughly twice as much ore refining on average as the rest of the world combined. There are some areas, like refining gallium which goes into solar cells. I think they are 98% of gallium refining. So China is actually very advanced in manufacturing in most areas. It seems like there is discomfort with this supply chain dependence, and yet nothing's really happening on it. Supply chain dependence?",
+      "textZh": "如果看矿石精炼，中国平均完成的矿石精炼量大约是世界其他地区总和的2倍。有些领域，比如用于太阳能电池的镓精炼。我认为他们占镓精炼量的98%。所以中国实际上在绝大多数制造领域都非常先进。大家似乎对这种供应链依赖感到不安，但实际上却没有采取什么行动。供应链依赖？"
+    },
+    {
+      "id": "p-0176",
+      "textEn": "Say, like the gallium refining that you're saying. All the rare-earth stuff. Rare earths for sure, as you know, they’re not rare. We actually do rare earth ore mining in the US, send the rock, put it on a train, and then put it on a boat to China that goes to another train, and goes to the rare earth refiners in China who then refine it, put it into a magnet, put it into a motor sub-assembly, and then send it back to America.",
+      "textZh": "比如说，像你提到的镓精炼。还有所有稀土相关的东西。你也知道，稀土肯定并不稀有。我们实际上在美国开采稀土矿石，把岩石运出来，装上火车，然后装上船运往中国，再转上另一列火车，送到中国的稀土精炼厂；他们随后将其精炼，制成磁体，再制成电机分总成，然后运回美国。"
+    },
+    {
+      "id": "p-0177",
+      "textEn": "So the thing we're really missing is a lot of ore refining in America. Isn't this worth a policy intervention? Yes. I think there are some things being done on that front. But we kind of need Optimus, frankly, to build ore refineries. So, you think the main advantage China has is the abundance of skilled labor? That's the thing Optimus fixes? Yes. China’s got like four times our population. I mean, there's this concern.",
+      "textZh": "所以，我们真正缺少的是美国境内大量的矿石精炼能力。这难道不值得政策干预吗？值得。我认为这方面正在采取一些措施。但坦率地说，我们有点需要 Optimus 来建造矿石精炼厂。所以，你认为中国拥有的主要优势是大量熟练劳动力？这正是 Optimus 能解决的问题？是的。中国的人口大约是我们的4倍。我的意思是，存在这种担忧。"
+    },
+    {
+      "id": "p-0178",
+      "textEn": "If you think human resources are the future, right now if it's the skilled labor for manufacturing that's determining who can build more humanoids, China has more of those. It manufactures more humanoids, therefore it gets the Optimi future first. Well, we’ll see. Maybe. It just keeps that exponential going.",
+      "textZh": "如果你认为人力资源就是未来，那么目前，如果决定谁能制造更多人形机器人的因素是制造业所需的熟练劳动力，那么中国拥有更多这类劳动力。它制造更多人形机器人，因此会率先迎来 Optimi 的未来。嗯，我们拭目以待。也许吧。那只会让指数增长持续下去。"
+    },
+    {
+      "id": "p-0179",
+      "textEn": "It seems like you're sort of pointing out that getting to a million Optimi requires the manufacturing that the Optimi is supposed to help us get to. Right? You can close that recursive loop pretty quickly. With a small number of Optimi? Yeah. So you close the recursive loop to help the robots build the robots. Then we can try to get to tens of millions of units a year. Maybe.",
+      "textZh": "听起来你似乎是在指出，要达到100万个 Optimi，就需要依靠本应由 Optimi 帮助我们实现的制造能力。对吧？你可以很快闭合这个递归循环。用少量 Optimi？对。所以你闭合这个递归循环，让机器人帮助制造机器人。然后我们就可以尝试达到每年数千万台。也许吧。"
+    },
+    {
+      "id": "p-0180",
+      "textEn": "If you start getting to hundreds of millions of units a year, you're going to be the most competitive country by far. We definitely can't win with just humans, because China has four times our population. Frankly, America has been winning for so long that… A pro sports team that's been winning for a very long time tends to get complacent and entitled. That's why they stop winning, because they don't work as hard anymore.",
+      "textZh": "如果开始达到每年数亿台，你的国家将遥遥领先，成为最具竞争力的国家。我们显然无法只靠人类取胜，因为中国的人口是我们的4倍。坦率地说，美国已经赢了太久，以至于……一支长期获胜的职业运动队往往会变得自满，并觉得胜利理所当然。这就是他们不再获胜的原因，因为他们不再那么努力了。"
+    },
+    {
+      "id": "p-0181",
+      "textEn": "So frankly my observation is just that the average work ethic in China is higher than in the US. It's not just that there's four times the population, but the amount of work that people put in is higher.",
+      "textZh": "所以坦率地说，我的观察是，中国人的平均工作投入程度高于美国。不仅仅是因为人口是4倍，人们投入的工作量也更大。"
+    },
+    {
+      "id": "p-0182",
+      "textEn": "So you can try to rearrange the humans, but you're still one quarter of the—assuming that productivity is the same, which I think actually it might not be, I think China might have an advantage on productivity per person—we will do one quarter of the amount of things as China. So we can't win on the human front. Our birth rate has been low for a long time. The US birth rate's been below replacement since roughly 1971.",
+      "textZh": "所以你可以尝试重新调配人力，但你仍然只有四分之一的——假设生产率相同，而我认为实际上可能并非如此，我认为中国的人均生产率可能占有优势——我们能完成的事情数量将只有中国的四分之一。所以我们在人力方面无法取胜。我们的出生率已经长期处于低位。自大约1971年以来，美国的出生率一直低于人口更替水平。"
+    },
+    {
+      "id": "p-0183",
+      "textEn": "We've got a lot of people retiring, we're close to more people domestically dying than being born. So we definitely can't win on the human front, but we might have a shot at the robot front. Are there other things that you have wanted to manufacture in the past, but they've been too labor intensive or too expensive that now you can come back to and say, \"oh, we can finally do the whatever, because we have Optimus?\"",
+      "textZh": "我们有很多人正在退休，国内死亡人数已经接近超过出生人数。所以我们在人力方面显然无法取胜，但在机器人方面或许还有机会。过去是否还有其他一些你想制造的东西，但它们过于依赖劳动力或成本太高，而现在你可以重新考虑并说：“哦，因为我们有 Optimus，终于可以做那个什么东西了？”"
+    },
+    {
+      "id": "p-0184",
+      "textEn": "Yeah, we'd like to build more ore refineries at Tesla. We just completed construction and have begun lithium refining with our lithium refinery in Corpus Christi, Texas. We have a nickel refinery, which is for the cathode, that's here in Austin. This is the largest cathode refinery, largest nickel and lithium refinery, outside of China. The cathode team would say, \"we have the largest and the only, actually, cathode refinery in America.\"",
+      "textZh": "是的，我们希望在 Tesla 建造更多矿石精炼厂。我们刚刚完成建设，并已开始利用位于得克萨斯州科珀斯克里斯蒂的锂精炼厂精炼锂。我们在奥斯汀这里有一座用于生产阴极材料的镍精炼厂。这是中国以外最大的阴极精炼厂、最大的镍和锂精炼厂。阴极团队会说：“实际上，我们拥有美国最大且唯一的阴极精炼厂。”"
+    },
+    {
+      "id": "p-0185",
+      "textEn": "Not just the largest, but it's also the only. Many superlatives. So it was pretty big, even though it's the only one. But there are other things. You could do a lot more refineries and help America be more competitive on refining capacity. There's basically a lot of work for the Optimus to do that most Americans, very few Americans, frankly want to do. Is the refining work too dirty or what's the— It's not actually, no.",
+      "textZh": "不只是最大的，而且也是唯一的。好多最高级。所以它相当大，尽管它是唯一一个。但还有其他事情。你可以建更多的精炼厂，帮助美国在精炼产能方面更具竞争力。基本上有很多工作可以让 Optimus 去做，而大多数美国人——坦率地说，极少有美国人——愿意做这些工作。是因为精炼工作太脏，还是怎么——其实不是，不是。"
+    },
+    {
+      "id": "p-0186",
+      "textEn": "We don't have toxic emissions from the refinery or anything. The cathode nickel refinery is in Travis County. Why can't you do it with humans? You can, you just run out of humans. Ah, I see. Okay. No matter what you do, you have one quarter of the number of humans in America than China. So if you have them do this thing, they can't do the other thing. So then how do you build this refining capacity? Well, you could do it with Optimi.",
+      "textZh": "我们的精炼厂没有有毒排放之类的东西。阴极镍精炼厂在特拉维斯县。为什么不能让人类来做？可以，只是人类会不够用。啊，我明白了。好吧。无论怎么做，美国的人口数量都只有中国的四分之一。所以，如果你让他们做这件事，他们就无法做另一件事。那么要怎样建设这种精炼产能呢？嗯，可以用 Optimi 来做。"
+    },
+    {
+      "id": "p-0187",
+      "textEn": "Not very many Americans are pining to do refining. I mean, how many have you run into? Very few. Very few pining to refine. BYD is reaching Tesla production or sales in quantity. What do you think happens in global markets as Chinese production in EVs scales up? China is extremely competitive in manufacturing. So I think there's going to be a massive flood of Chinese vehicles and basically most manufactured things.",
+      "textZh": "没有多少美国人渴望从事精炼工作。我的意思是，你遇到过多少个？非常少。渴望做精炼工作的人非常少。比亚迪的产量或销量正在达到 Tesla 的水平。随着中国电动汽车产量扩大，你认为全球市场会发生什么？中国在制造业方面极具竞争力。所以我认为，中国汽车以及基本上大多数制成品将会大量涌入。"
+    },
+    {
+      "id": "p-0188",
+      "textEn": "As it is, as I said, China is probably doing twice as much refining as the rest of the world combined. So if you go down to fourth and fifth-tier supply chain stuff… At the base level, you've got energy, then you've got mining and refining. Those foundation layers are, like I said, as a rough guess, China's doing twice as much refining as the rest of the world combined.",
+      "textZh": "现状是，正如我所说，中国的精炼量可能是世界其他地区总和的2倍。所以，如果深入到第四级和第五级供应链环节……在最基础的层面，你有能源，然后是采矿和精炼。那些基础层面，正如我所说，粗略估计，中国的精炼量是世界其他地区总和的2倍。"
+    },
+    {
+      "id": "p-0189",
+      "textEn": "So any given thing is going to have Chinese content because China's doing twice as much refining work as the rest of the world. But they'll go all the way to the finished product with the cars. I mean China is a powerhouse. I think this year China will exceed three times US electricity output. Electricity output is a reasonable proxy for the economy. In order to run the factories and run everything, you need electricity.",
+      "textZh": "所以，任何一种东西都会含有中国成分，因为中国做的精炼工作是世界其他地区总和的2倍。但他们会一直做到汽车这样的成品。我的意思是，中国是一个强国。我认为今年中国的发电量将超过美国的3倍。发电量是衡量经济的一个合理指标。要让工厂运转，让一切运转，就需要电力。"
+    },
+    {
+      "id": "p-0190",
+      "textEn": "It's a good proxy for the real economy. If China passes three times the US electricity output, it means that its industrial capacity—as rough approximation—will be three times that of the US.",
+      "textZh": "它是衡量实体经济的一个很好的指标。如果中国的发电量超过美国的3倍，那就意味着其工业产能——粗略估算——将是美国的3倍。"
+    },
+    {
+      "id": "p-0191",
+      "textEn": "Reading between the lines, it sounds like what you're saying is absent some sort of humanoid recursive miracle in the next few years, on the whole manufacturing/energy/raw materials chain, China will just dominate whether it comes to AI or manufacturing EVs or manufacturing humanoids. In the absence of breakthrough innovations in the US, China will utterly dominate. Interesting. Yes. Robotics being the main breakthrough innovation.",
+      "textZh": "听你的弦外之音，你似乎是在说，除非未来几年出现某种人形机器人递归式奇迹，否则就整个制造业／能源／原材料链而言，无论是 AI、制造电动汽车还是制造人形机器人，中国都将占据主导地位。如果美国没有突破性创新，中国将彻底占据主导地位。有意思。是的。机器人技术是主要的突破性创新。"
+    },
+    {
+      "id": "p-0192",
+      "textEn": "Well, to scale AI in space, basically you need humanoid robots, you need real-world AI, you need a million tons a year to orbit. Let's just say if we get the mass driver on the moon going, my favorite thing, then I think— We'll have solved all our problems. I call that winning. I call it winning, big time. You can finally be satisfied. You've done something. Yes. You have the mass driver on the moon. I just want to see that thing in operation.",
+      "textZh": "嗯，要在太空中规模化部署 AI，基本上你需要人形机器人，需要现实世界 AI，需要每年将100万吨送入轨道。姑且说，如果我们让月球上的质量投射器运转起来，这是我最喜欢的东西，那么我认为——我们就解决了所有问题。我称之为胜利。我称之为大获全胜。你终于可以满足了。你做成了某件事。是的。你拥有了月球上的质量投射器。我只想看到那东西运行起来。"
+    },
+    {
+      "id": "p-0193",
+      "textEn": "Was that out of some sci-fi or where did you…? Well, actually, there is a Heinlein book. The Moon is a Harsh Mistress. Okay, yeah, but that's slightly different. That's a gravity slingshot or... No, they have a mass driver on the Moon. Okay, yeah, but they use that to attack Earth. So maybe it's not the greatest... Well they use that to… assert their independence. Exactly. What are your plans for the mass driver on the Moon?",
+      "textZh": "那是出自某部科幻作品，还是你从哪里……？嗯，实际上有一本海因莱因的书，《月亮是个严厉的女人》。好吧，是的，但那略有不同。那是引力弹弓，或者……不是，他们在月球上有一台质量投射器。好吧，是的，但他们用它来攻击地球。所以也许那并不是最好的……嗯，他们用它来……宣示独立。没错。你对月球上的质量投射器有什么计划？"
+    },
+    {
+      "id": "p-0194",
+      "textEn": "They asserted their independence. Earth government disagreed and they lobbed things until Earth government agreed. That book is a hoot. I found that book much better than his other one that everyone reads, Stranger in a Strange Land. \"Grok\" comes from Stranger in a Strange Land. The first two-thirds of Stranger in a Strange Land are good, and then it gets very weird in the third portion. But there are still some good concepts in there.",
+      "textZh": "他们宣示了独立。地球政府不同意，于是他们不断投掷东西，直到地球政府同意。那本书太逗了。我觉得那本书比他另一本人人都读的《异乡异客》好得多。“Grok”一词来自《异乡异客》。《异乡异客》的前2/3很好，然后到了第三部分就变得非常怪异。但里面仍然有一些不错的概念。"
+    },
+    {
+      "id": "p-0195",
+      "textEn": "One thing we were discussing a lot is your system for managing people. You interviewed the first few thousand of SpaceX employees and lots of other companies. It obviously doesn't scale. Well, yes, but what doesn't scale? Me. Sure, sure. I know that. But what are you looking for? There literally are not enough hours in the day. It's impossible.",
+      "textZh": "我们之前经常讨论的一件事，是你管理人员的体系。你面试了 SpaceX 最初几千名员工，以及许多其他公司的员工。显然这无法规模化。嗯，是的，但什么无法规模化？我。对，对。我知道。但你在寻找什么？一天里确实没有足够的时间。这不可能。"
+    },
+    {
+      "id": "p-0196",
+      "textEn": "But what are you looking for that someone else who's good at interviewing and hiring people… What's the je ne sais quoi? At this point, I might have more training data on evaluating technical talent especially—talent of all kinds I suppose, but technical talent especially—given that I've done so many technical interviews and then seen the results. So my training set is enormous and has a very wide range.",
+      "textZh": "但你在寻找的、其他善于面试和招聘的人……那种难以言传的特质是什么？到目前为止，在评估技术人才方面，我可能拥有更多的训练数据——我想，各类人才都是如此，但技术人才尤其如此——因为我做过如此多的技术面试，之后又看到了结果。所以我的训练集极其庞大，而且范围非常广。"
+    },
+    {
+      "id": "p-0197",
+      "textEn": "Generally, the things I ask for are bullet points for evidence of exceptional ability. These things can be pretty off the wall. It doesn't need to be in the specific domain, but evidence of exceptional ability. So if somebody can cite even one thing, but let's say three things, where you go, \"Wow, wow, wow,\" then that's a good sign. Why do you have to be the one to determine that? No, I don't. I can't be. It's impossible.",
+      "textZh": "通常，我要求的是用要点列出证明卓越能力的证据。这些事情可以相当出人意料。不必属于特定领域，但要能证明卓越能力。所以，如果某人能举出哪怕1件事，不过姑且说是3件事，让你发出“哇，哇，哇”的感叹，那就是一个好迹象。为什么必须由你来判断？不，不必。我也不可能这样做。这不可能。"
+    },
+    {
+      "id": "p-0198",
+      "textEn": "The total headcount across all companies is 200,000 people. But in the early days, what was it that you were looking for that couldn't be delegated in those interviews? I guess I need to build my training set. It's not like I batted a thousand here. I would make mistakes, but then I'd be able to see where I thought somebody would work out well, but they didn't. Then why did they not work out well?",
+      "textZh": "所有公司的总员工人数是200,000人。但在早期，那些面试中有什么是你在寻找、却无法委派给别人的？我想我需要建立自己的训练集。我并不是在这方面百发百中。我会犯错，但之后我就能看到，有些人我原以为会表现得很好，但他们没有。那么，他们为什么表现不好？"
+    },
+    {
+      "id": "p-0199",
+      "textEn": "What can I do, I guess RL myself, to in the future have a better batting average when interviewing people? My batting average is still not perfect, but it's very high. What are some surprising reasons people don't work out? Surprising reasons… Like, they don't understand technical domain, et cetera, et cetera. But you've got the long tail now of like, \"I was really excited about this person. It didn't work out.\" Curious why that happens.",
+      "textZh": "我能做些什么，我想，可以对自己进行强化学习，以便将来在面试他人时有更高的成功率？我的成功率仍然不是完美的，但非常高。有哪些令人意外的原因会导致人们无法胜任？令人意外的原因……比如，他们不了解技术领域，等等等等。但你现在已经看到了长尾中的那些情况，比如：“我当时真的对这个人非常看好。结果却没成。”很好奇为什么会发生这种事。"
+    },
+    {
+      "id": "p-0200",
+      "textEn": "Generally what I tell people—I tell myself, I guess, aspirationally—is, don't look at the resume. Just believe your interaction. The resume may seem very impressive and it's like, \"Wow, the resume looks good.\" But if the conversation after 20 minutes is not \"wow,\" you should believe the conversation, not the paper.",
+      "textZh": "通常我告诉别人——我想，更确切地说，是带着期许告诉自己——不要看简历。只相信你们的互动。简历可能看起来非常出色，让人觉得：“哇，这份简历看起来不错。”但如果交谈20分钟后没有让你觉得“哇”，你就应该相信这场交谈，而不是那张纸。"
+    },
+    {
+      "id": "p-0201",
+      "textEn": "I feel like part of your method is that… There was this meme in the media a few years back about Tesla being a revolving door of executive talent. Whereas actually, I think when you look at it, Tesla's had a very consistent and internally promoted executive bench over the past few years. Then at SpaceX, you have all these folks like Mark Juncosa and Steve Davis— Steve Davis runs The Boring Company these days. Bill Riley, and folks like that.",
+      "textZh": "我觉得你的方法有一部分是……几年前媒体上流传过这样一种说法，说 Tesla 的高管人才像走马灯一样频繁更替。但实际上，我认为仔细观察就会发现，过去几年 Tesla 的高管梯队一直非常稳定，而且都是内部晋升的。然后在 SpaceX，你有马克·洪科萨和史蒂夫·戴维斯这样的所有这些人——史蒂夫·戴维斯现在负责 The Boring Company。比尔·赖利，还有诸如此类的人。"
+    },
+    {
+      "id": "p-0202",
+      "textEn": "It feels like part of what has worked well is having very capable technical deputies. What do all of those people have in common? Well, the Tesla senior team, at this point has probably got an average tenure of 10-12 years. It's quite long. But there were times when Tesla went through an extremely rapid growth phase, so things were just somewhat sped up. As you know, a company goes through different orders of magnitude of size.",
+      "textZh": "感觉其中一部分行之有效的做法，是拥有能力很强的技术副手。这些人都有什么共同点？嗯，Tesla 的高级团队目前平均任职年限可能有 10-12 年。相当长。但 Tesla 有些时期经历了极其快速的增长阶段，所以事情多少都加速了。你知道，一家公司会经历不同数量级的规模。"
+    },
+    {
+      "id": "p-0203",
+      "textEn": "People that could help manage, say, a 50-person company versus a 500-person company versus a 5,000-person company versus a 50,000-person company. You outgrew people. It's just not the same team. It's not always the same team. So if a company is growing very rapidly, the rate at which executive positions will change will also be proportionate to the rapidity of the growth generally.",
+      "textZh": "能够帮助管理，比如说，一家 50 人公司的人，与能够帮助管理一家 500 人公司、5,000 人公司、50,000 人公司的人。公司的成长超过了人的能力。这就不是同一支团队。并不总会是同一支团队。所以，如果一家公司增长得非常快，高管职位发生变动的速度通常也会与增长速度成正比。"
+    },
+    {
+      "id": "p-0204",
+      "textEn": "Tesla had a further challenge where when Tesla had very successful periods, we would be relentlessly recruited from. Like, relentlessly. When Apple had their electric car program, they were carpet bombing Tesla with recruiting calls. Engineers just unplugged their phones. \"I'm trying to get work done here.\" Yeah.",
+      "textZh": "Tesla 还面临另一个挑战：当 Tesla 经历非常成功的时期时，我们的人会遭到无休止的挖角。就是，无休止地挖。当 Apple 推进其电动汽车项目时，他们用招聘电话对 Tesla 进行地毯式轰炸。工程师们干脆拔掉了电话线。“我正想在这里把工作做完呢。”对。"
+    },
+    {
+      "id": "p-0205",
+      "textEn": "\"If I get one more call from an Apple recruiter…\" But their opening offer without any interview would be like double the compensation at Tesla. So we had a bit of the \"Tesla pixie dust\" thing where it's like, \"Oh, if you hire a Tesla executive, suddenly everything's going to be successful.\"",
+      "textZh": "“要是 Apple 的招聘人员再给我打一个电话……”但他们无需任何面试就给出的初始报价，会是 Tesla 薪酬的 2 倍。所以我们遇到了一点所谓“Tesla 魔法粉尘”的问题，就像是，“哦，如果你雇用一位 Tesla 高管，突然之间一切都会成功。”"
+    },
+    {
+      "id": "p-0206",
+      "textEn": "I've fallen prey to the pixie dust thing as well, where it's like, \"Oh, we'll hire someone from Google or Apple and they'll be immediately successful,\" but that's not how it works. People are people. There's no magical pixie dust. So when we had the pixie dust problem, we would get relentlessly recruited from. Also, Tesla being engineering, especially being primarily in Silicon Valley, it's easier for people to just...",
+      "textZh": "我也曾陷入这种魔法粉尘的迷思，就像是，“哦，我们会从 Google 或 Apple 雇一个人，他们立刻就会成功”，但事情并不是这样。人就是人。不存在什么神奇的魔法粉尘。所以，当我们遇到魔法粉尘问题时，我们的人会遭到无休止的挖角。另外，由于 Tesla 是做工程的，尤其是主要位于硅谷，人们要直接……会更容易。"
+    },
+    {
+      "id": "p-0207",
+      "textEn": "They don't have to change their life very much. Their commute's going to be the same. So how do you prevent that? How do you prevent the pixie dust effect where everyone's trying to poach all your people? I don't think there's much we can do to stop it. That's one of the reasons why Tesla… Really, being in Silicon Valley and having the pixie dust thing at the same time meant that there was just a very, very aggressive recruitment.",
+      "textZh": "他们不必大幅改变自己的生活。通勤情况也会是一样的。那么你如何防止这种情况？你如何防止这种魔法粉尘效应，也就是所有人都想挖走你的所有员工？我觉得我们没什么办法阻止它。这就是 Tesla……真的，身处硅谷，同时又有魔法粉尘效应，意味着招聘挖角极其、极其激进。"
+    },
+    {
+      "id": "p-0208",
+      "textEn": "Presumably being in Austin helps then? Austin, it helps. Tesla still has a majority of its engineering in California. Getting engineers to move… I call it the \"significant other\" problem. Yes, \"significant others\" have jobs. Exactly. So for Starbase that was particularly difficult, since the odds of finding a non-SpaceX job… In Brownsville, Texas… …are pretty low. It's quite difficult.",
+      "textZh": "那么，搬到奥斯汀大概会有所帮助？奥斯汀，是有帮助。Tesla 的大部分工程业务仍在加利福尼亚州。让工程师搬家……我称之为“另一半”问题。对，“另一半”也有工作。没错。所以这对星舰基地来说格外困难，因为找到一份非 SpaceX 工作的概率……在得克萨斯州布朗斯维尔……非常低。相当困难。"
+    },
+    {
+      "id": "p-0209",
+      "textEn": "It's like a technology monastery thing, remote and mostly dudes. Not much of an improvement over SF. If you go back to these people who've really been very effective in a technical capacity at Tesla, at SpaceX, and those sorts of places, what do you think they have in common other than... Is it just that they're very sharp on the rocketry or the technical foundations, or do you think it's something organizational?",
+      "textZh": "就像某种科技修道院，地处偏远，而且大多是男人。相比旧金山没改善多少。回到这些在 Tesla、SpaceX 以及类似地方真正展现出极高技术效能的人，你认为除了……之外，他们有什么共同点？仅仅是他们在火箭技术或技术基础方面非常敏锐，还是你认为其中存在某种组织层面的因素？"
+    },
+    {
+      "id": "p-0210",
+      "textEn": "Is it something about their ability to work with you? Is it their ability to be flexible but not too flexible? What makes a good sparring partner for you? I don't think of it as a sparring partner. If somebody gets things done, I love them, and if they don't, I hate them. So it's pretty straightforward. It's not like some idiosyncratic thing. If somebody executes well, I'm a huge fan, and if they don't, I'm not.",
+      "textZh": "是他们与你合作的能力有什么特别之处吗？是他们既能灵活变通、又不会过于灵活的能力吗？什么样的人对你而言是一个好的切磋伙伴？我不把这看作切磋伙伴。如果某个人能把事情办成，我就喜欢他们；如果办不成，我就讨厌他们。所以这相当直接。并不是什么个人特有的东西。如果某个人执行得好，我就是他们的铁杆支持者；如果执行不好，我就不是。"
+    },
+    {
+      "id": "p-0211",
+      "textEn": "But it's not about mapping to my idiosyncratic preferences. I certainly try not to have it be mapping to my idiosyncratic preferences. Generally, I think it's a good idea to hire for talent and drive and trustworthiness. And I think goodness of heart is important. I underweighted that at one point. So, are they a good person? Trustworthy? Smart and talented and hard working? If so, you can add domain knowledge.",
+      "textZh": "但这并不是要迎合我个人特有的偏好。我当然会尽量不让它变成迎合我个人特有的偏好。总的来说，我认为根据才华、干劲和可信赖程度来招聘是个好主意。而且我认为心地善良很重要。我曾一度低估了这一点。所以，他们是个好人吗？值得信赖吗？聪明、有才华而且勤奋吗？如果是，那么领域知识可以后加。"
+    },
+    {
+      "id": "p-0212",
+      "textEn": "But those fundamental traits, those fundamental properties, you cannot change. So most of the people who are at Tesla and SpaceX did not come from the aerospace industry or the auto industry. What has had to change most about your management style as your companies have scaled from 100 to 1,000 to 10,000 people? You're known for this very micro management, just getting into the details of things. Nano management, please. Pico management.",
+      "textZh": "但那些基本特质、那些基本属性，你无法改变。所以 Tesla 和 SpaceX 的大多数人并非来自航空航天业或汽车业。随着你的公司从 100 人扩大到 1,000 人，再扩大到 10,000 人，你的管理风格最需要改变的是什么？你以这种非常微观的管理而闻名，就是深入到事情的细节中。请叫它纳米管理。皮米管理。"
+    },
+    {
+      "id": "p-0213",
+      "textEn": "Femto management. Keep going. We're going to go all the way down to Planck's constant. All the way down to Heisenberg uncertainty principle. Are you still able to get into details as much as you want? Would your companies be more successful if they were smaller? How do you think about that? Because I have a fixed amount of time in the day, my time is necessarily diluted as things grow and as the span of activity increases.",
+      "textZh": "飞米管理。继续。我们要一路深入到普朗克常数。一路深入到海森堡不确定性原理。你现在还能如愿地深入了解那么多细节吗？如果你的公司规模更小，它们会不会更成功？你如何看待这个问题？因为我每天的时间是固定的，随着事情不断扩大、活动范围不断增加，我的时间必然会被稀释。"
+    },
+    {
+      "id": "p-0214",
+      "textEn": "It's impossible for me to actually be a micromanager because that would imply I have some thousands of hours per day. It is a logical impossibility for me to micromanage things. Now, there are times when I will drill down into a specific issue because that specific issue is the limiting factor on the progress of the company. The reason for drilling into some very detailed item is because it is the limiting factor.",
+      "textZh": "我实际上不可能进行微观管理，因为那意味着我每天得有几千个小时。要我对事情进行微观管理在逻辑上是不可能的。不过，有时候我会深入钻研某个具体问题，因为那个具体问题是限制公司进展的因素。之所以深入研究某个极其具体的事项，是因为它就是限制因素。"
+    },
+    {
+      "id": "p-0215",
+      "textEn": "It’s not arbitrarily drilling into tiny things. From a time standpoint, it is physically impossible for me to arbitrarily go into tiny things that don't matter. That would result in failure. But sometimes the tiny things are decisive in victory. Famously, you switched the Starship design from composites to steel. Yes. You made that decision. That wasn't people going around saying, \"Oh, we found something better, boss.\"",
+      "textZh": "这并不是随意钻研微不足道的小事。从时间角度来说，我根本不可能随意深入那些无关紧要的小事。那会导致失败。但有时候，小事对取胜起决定性作用。众所周知，你把星舰的设计从复合材料改成了钢。是的。是你作出了那个决定。并不是人们到处说：“哦，老板，我们找到更好的东西了。”"
+    },
+    {
+      "id": "p-0216",
+      "textEn": "That was you encouraging people against some resistance. Can you tell us how you came to that whole concept of the steel switch? Desperation, I'd say. Originally, we were going to make Starship out of carbon fiber. Carbon fiber is pretty expensive. When you do volume production, you can get any given thing to start to approach its material cost. The problem with carbon fiber is that material cost is still very high.",
+      "textZh": "那是你在面对一些阻力时推动大家去做的。你能告诉我们，你是怎么产生改用钢这个完整构想的吗？我会说，是出于绝望。最初，我们打算用碳纤维制造星舰。碳纤维相当昂贵。当你进行批量生产时，可以让任何特定物品的成本开始接近其材料成本。碳纤维的问题在于，它的材料成本仍然非常高。"
+    },
+    {
+      "id": "p-0217",
+      "textEn": "Particularly if you go for a high-strength specialized carbon fiber that can handle cryogenic oxygen, it's roughly 50 times the cost of steel. At least in theory, it would be lighter. People generally think of steel as being heavy and carbon fiber as being light. For room temperature applications, like a Formula 1 car, static aero structure, or any kind of aero structure really, you're probably going to be better off with carbon fiber.",
+      "textZh": "尤其是如果采用能够承受低温氧的高强度特种碳纤维，它的成本大约是钢的50倍。至少在理论上，它会更轻。人们通常认为钢很重，而碳纤维很轻。对于室温应用，比如 Formula 1 赛车、静态航空结构，或者实际上任何类型的航空结构，你采用碳纤维可能都会更好。"
+    },
+    {
+      "id": "p-0218",
+      "textEn": "The problem is that we were trying to make this enormous rocket out of carbon fiber and our progress was extremely slow. It had been picked in the first place just because it's light? Yes. At first glance, most people would think that the choice for making something light would be carbon fiber.",
+      "textZh": "问题在于，我们当时试图用碳纤维制造这枚巨大的火箭，而我们的进展极其缓慢。一开始选择它，只是因为它很轻吗？是的。乍一看，大多数人都会认为，要把东西做得轻，就应该选择碳纤维。"
+    },
+    {
+      "id": "p-0219",
+      "textEn": "The thing is that when you make something very enormous out of carbon fiber and then you try to have the carbon fiber be efficiently cured, meaning not room temperature cured, because sometimes you got 50 plies of carbon fiber… Carbon fiber is really carbon string and glue. In order to have high strength, you need an autoclave. Something that's essentially a high pressure oven.",
+      "textZh": "问题是，当你用碳纤维制造一个非常巨大的东西，然后又试图让碳纤维得到有效固化，也就是不在室温下固化，因为有时会有50层碳纤维……碳纤维其实就是碳丝和胶水。为了获得高强度，你需要一台高压釜。也就是一种本质上属于高压烘箱的设备。"
+    },
+    {
+      "id": "p-0220",
+      "textEn": "If you have something that's gigantic, that one's got to be bigger than the rocket. We were trying to make an autoclave that's bigger than any autoclave that's ever existed. Or you can do room temperature cure, which takes a long time and has issues. The final issue is that we were just making very slow progress with carbon fiber. The meta question is why it had to be you who made that decision. There's many engineers on your team.",
+      "textZh": "如果你要制造的东西非常巨大，那么高压釜就必须比火箭还大。我们当时试图制造一台比以往任何高压釜都大的高压釜。或者你也可以进行室温固化，但这需要很长时间，而且存在问题。最后一个问题是，我们使用碳纤维的进展实在非常缓慢。更高层次的问题是，为什么必须由你来作出那个决定。你的团队里有很多工程师。"
+    },
+    {
+      "id": "p-0221",
+      "textEn": "How did the team not arrive at steel? Yeah exactly. This is part of a broader question, understanding your comparative advantage at your companies. Because we were making very slow progress with carbon fiber, I was like, \"Okay, we've got to try something else.\" For the Falcon 9, the primary airframe is made of aluminum lithium, which has a very good strength-to-weight.",
+      "textZh": "团队为什么没有得出使用钢的结论？对，没错。这是一个更广泛问题的一部分，也就是理解你在自己各家公司中的比较优势。因为我们使用碳纤维的进展非常缓慢，所以我当时想：“好吧，我们必须尝试别的东西。”对于猎鹰9号，主机身由铝锂合金制成，它的强度重量比非常好。"
+    },
+    {
+      "id": "p-0222",
+      "textEn": "Actually, it has about the same, maybe better, strength to weight for its application than carbon fiber. But aluminum lithium is very difficult to work with. In order to weld it, you have to do something called friction stir welding, where you join the metal without entering the liquid phase. It's kind of wild that you can do that. But with this particular type of welding, you can do that. It's very difficult.",
+      "textZh": "实际上，就其应用而言，它的强度重量比与碳纤维大致相同，甚至可能更好。但铝锂合金非常难加工。为了焊接它，你必须采用一种叫作搅拌摩擦焊的工艺，通过这种工艺，你可以在不进入液相的情况下连接金属。能做到这一点有点不可思议。但使用这种特殊类型的焊接，你确实可以做到。这非常困难。"
+    },
+    {
+      "id": "p-0223",
+      "textEn": "Let's say you want to make a modification or attach something to aluminum lithium, you now have to use a mechanical attachment with seals. You can't weld it on. So I wanted to avoid using aluminum lithium for the primary structure for Starship. There was this very special grade of carbon fiber that had very good mass properties.",
+      "textZh": "假设你想进行一项改动，或者把某个东西连接到铝锂合金上，那么你就必须使用带密封件的机械连接。你不能把它焊上去。所以，我不想让星舰的主体结构使用铝锂合金。有一种非常特殊等级的碳纤维，质量特性非常好。"
+    },
+    {
+      "id": "p-0224",
+      "textEn": "With a rocket, you're really trying to maximize the percentage of the rocket that is propellant, minimize the mass obviously. But like I said, we were making very slow progress. I said, \"at this rate, we’re never going to get to Mars. So we've got to think of something else.\" I didn't want to use aluminum lithium because of the difficulty of friction stir welding, especially doing that at scale. It was hard enough at 3.",
+      "textZh": "对于火箭，你真正想做的是最大限度提高火箭中推进剂所占的比例，显然还要最大限度降低质量。但正如我所说，我们的进展非常缓慢。我说：“照这个速度，我们永远也到不了火星。所以我们必须想点别的办法。”我不想使用铝锂合金，因为搅拌摩擦焊很困难，尤其是大规模实施时。做到3时就已经够难了。"
+    },
+    {
+      "id": "p-0225",
+      "textEn": "6 meters in diameter, let alone at 9 meters or above. Then I said, \"what about steel?\" I had a clue here because some of the early US rockets had used very thin steel. The Atlas rockets had used a steel balloon tank. It's not like steel had never been used before. It actually had been used.",
+      "textZh": "直径6米，更不用说9米或以上了。然后我说：“钢怎么样？”我在这里得到过一个线索，因为美国早期的一些火箭使用过非常薄的钢。宇宙神火箭使用过钢制气球贮箱。并不是说钢以前从未被使用过。它实际上确实被使用过。"
+    },
+    {
+      "id": "p-0226",
+      "textEn": "When you look at the material properties of stainless steel, full-hard, strain hardened stainless steel, at cryogenic temperature the strength to weight is actually similar to carbon fiber. If you look at material properties at room temperature, it looks like the steel is going to be twice as heavy.",
+      "textZh": "当你观察不锈钢的材料特性时，全硬、应变硬化不锈钢在低温下的强度重量比实际上与碳纤维相近。如果观察室温下的材料特性，看起来钢的重量将是2倍。"
+    },
+    {
+      "id": "p-0227",
+      "textEn": "But if you look at the material properties at cryogenic temperature of full-hard steel, stainless of particular grades, then you actually get to a similar strength to weight as carbon fiber. In the case of Starship, both the fuel and the oxidizer are cryogenic. For Falcon 9, the fuel is rocket propellant-grade kerosene, basically a very pure form of jet fuel. That is roughly room temperature.",
+      "textZh": "但如果你观察全硬钢，即特定等级不锈钢在低温下的材料特性，那么实际上可以获得与碳纤维相近的强度重量比。就星舰而言，燃料和氧化剂都是低温推进剂。对于猎鹰9号，燃料是火箭推进剂级煤油，基本上是一种非常纯净的航空燃油。它大致处于室温。"
+    },
+    {
+      "id": "p-0228",
+      "textEn": "Although we do actually chill it slightly below, we chill it like a beer. Delicious. We do chill it, but it's not cryogenic. In fact, if we made it cryogenic, it would just turn to wax. But for Starship, it's liquid methane and liquid oxygen. They are liquid at similar temperatures. Basically, almost the entire primary structure is at cryogenic temperature. So then you've got a 300-series stainless that's strain hardened.",
+      "textZh": "不过我们确实会把它稍微冷却一下，我们像冰镇啤酒一样冷却它。美味。我们确实会冷却它，但不是冷却到低温状态。事实上，如果我们把它冷却到低温状态，它只会变成蜡。但对星舰来说，使用的是液态甲烷和液氧。它们在相近的温度下呈液态。基本上，几乎整个主结构都处于低温状态。因此，你用的是经过应变硬化的300系列不锈钢。"
+    },
+    {
+      "id": "p-0229",
+      "textEn": "Because almost all things are cryogenic temperature, it actually has similar strength to weight as carbon fiber. But it costs 50x less in raw material and is very easy to work with. You can weld stainless steel outdoors. You could smoke a cigar while welding stainless steel. It's very resilient. You can modify it easily. If you want to attach something, you just weld it right on. Very easy to work with, very low cost.",
+      "textZh": "因为几乎所有东西都处于低温状态，它的比强度实际上与碳纤维相近。但其原材料成本低50倍，而且非常容易加工。你可以在户外焊接不锈钢。你甚至可以一边焊接不锈钢一边抽雪茄。它的韧性很强。你可以很容易地修改它。如果你想安装什么东西，直接焊上去就行。非常容易加工，成本非常低。"
+    },
+    {
+      "id": "p-0230",
+      "textEn": "Like I said, at cryogenic temperature, it’s similar strength-to-weight to carbon fiber. Then when you factor in that we have a much reduced heat shield mass, because the melting point of steel, is much greater than the melting point of aluminum… It's about twice the melting point of aluminum. So you can just run the rocket much hotter? Yes, especially for the ship which is coming in like a blazing meteor.",
+      "textZh": "就像我说的，在低温状态下，它的比强度与碳纤维相近。然后，当你考虑到我们的隔热罩质量大幅降低，因为钢的熔点远高于铝的熔点……大约是铝熔点的2倍。所以你可以让火箭在高得多的温度下运行？是的，尤其是对于飞船而言，它返回时就像一颗燃烧的流星。"
+    },
+    {
+      "id": "p-0231",
+      "textEn": "You can greatly reduce the mass of the heat shield. You can cut the mass of the windward part of the heat shield, maybe in half, and you don't need any heat shielding on the leeward side. The net result is that actually the steel rocket weighs less than the carbon fiber rocket, because the resin in the carbon fiber rocket starts to melt.",
+      "textZh": "你可以大幅降低隔热罩的质量。你可以把隔热罩迎风面的质量削减，也许减半，而且背风面完全不需要任何隔热防护。最终结果是，钢制火箭实际上比碳纤维火箭更轻，因为碳纤维火箭中的树脂会开始熔化。"
+    },
+    {
+      "id": "p-0232",
+      "textEn": "Basically, carbon fiber and aluminum have about the same operating temperature capabilities, whereas steel can operate at twice the temperature. These are very rough approximations. I won't build the rocket. What I mean is people will say, \"Oh, he said this twice. It's actually 0. 8.\" I'm like, shut up, assholes. That's what the main comment's going to be about. God damn it.",
+      "textZh": "基本上，碳纤维和铝的工作温度能力大致相同，而钢可以在2倍的温度下工作。这些都是非常粗略的近似值。我不会制造火箭。我的意思是，人们会说：“哦，他说了2次。实际上是0. 8。”我就会说，闭嘴吧，混蛋们。主要评论都会围绕这个。该死。"
+    },
+    {
+      "id": "p-0233",
+      "textEn": "The point is, in retrospect, we should have started with steel in the beginning. It was dumb not to do steel. Okay, but to play this back to you, what I'm hearing is that steel was a riskier, less proven path, other than the early US rockets. Versus carbon fiber was a worse but more proven out path. So you need to be the one to push for, \"Hey, we're going to do this riskier path and just figure it out.\"",
+      "textZh": "关键是，回过头来看，我们从一开始就应该使用钢。不用钢很愚蠢。好的，但把这话复述给你听，我听到的是，除了美国早期的火箭之外，钢是一条风险更高、验证更少的路线。相比之下，碳纤维是一条更糟、但验证得更充分的路线。所以需要由你来推动：“嘿，我们要走这条风险更高的路线，然后把它搞明白。”"
+    },
+    {
+      "id": "p-0234",
+      "textEn": "So you're fighting a sort of conservatism in a sense. That's why I initially said that the issue is that we weren't making fast enough progress. We were having trouble making even a small barrel section of the carbon fiber that didn't have wrinkles in it. Because at that large scale, you have to have many plies, many layers of the carbon fiber.",
+      "textZh": "所以从某种意义上说，你是在对抗某种保守主义。这就是为什么我一开始说，问题在于我们的进展不够快。我们甚至连一小段没有褶皱的碳纤维筒体都很难做出来。因为在那么大的尺度下，你必须铺很多层，很多层碳纤维。"
+    },
+    {
+      "id": "p-0235",
+      "textEn": "You've got to cure it and you've got to cure it in such a way that it doesn't have any wrinkles or defects. Carbon fiber is much less resilient than steel. It has much less toughness. Stainless steel will stretch and bend, the carbon fiber will tend to shatter. Toughness being the area under the stress strain curve. You're generally going to have to do better with steel, but stainless steel to be precise. One other Starship question.",
+      "textZh": "你必须将它固化，而且必须以不会产生任何褶皱或缺陷的方式固化。碳纤维的韧性远不如钢。它的韧度低得多。不锈钢会拉伸和弯曲，碳纤维则往往会碎裂。韧度就是应力-应变曲线下的面积。一般来说，用钢你必须做得更好，但准确地说是用不锈钢。再问一个关于星舰的问题。"
+    },
+    {
+      "id": "p-0236",
+      "textEn": "So I visited Starbase, I think it was two years ago, with Sam Teller, and that was awesome. It was very cool to see, in a whole bunch of ways. One thing I noticed was that people really took pride in the simplicity of things, where everyone wants to tell you how Starship is just a big soda can, and we're hiring welders, and if you can weld in any industrial project, you can weld here. But there's a lot of pride in the simplicity.",
+      "textZh": "所以我去过星港，我想是在2年前，和萨姆·特勒一起去的，那次经历很棒。从很多方面来说，亲眼看到它都非常酷。我注意到的一件事是，人们确实以事物的简洁为荣，每个人都想告诉你，星舰就是一个大汽水罐，我们正在招聘焊工，如果你能在任何工业项目中焊接，你就能在这里焊接。但人们对这种简洁非常自豪。"
+    },
+    {
+      "id": "p-0237",
+      "textEn": "Well, factually Starship is a very complicated rocket. So that's what I'm getting at. Are things simple or are they complex? I think maybe just what they're trying to say is that you don't have to have prior experience in the rocket industry to work on Starship. Somebody just needs to be smart and work hard and be trustworthy and they can work on a rocket. They don't need prior rocket experience.",
+      "textZh": "嗯，事实上星舰是一枚非常复杂的火箭。所以这就是我想问的。事物究竟是简单还是复杂？我想，也许他们试图表达的只是，你不必拥有火箭行业的从业经验也能参与星舰的工作。一个人只需要聪明、努力工作并且值得信赖，就可以参与火箭工作。他们不需要先前的火箭经验。"
+    },
+    {
+      "id": "p-0238",
+      "textEn": "Starship is the most complicated machine ever made by humans, by a long shot. In what regards? Anything, really. I'd say there isn't a more complex machine. I'd say that pretty much any project I can think of would be easier than this. That's why nobody has ever made a fully reusable orbital rocket. It's a very hard problem. Many smart people have tried before, very smart people with immense resources, and they failed.",
+      "textZh": "星舰是人类有史以来制造的最复杂的机器，远远超过其他机器。体现在哪些方面？其实任何方面都是。我会说，没有比它更复杂的机器了。我会说，我能想到的几乎任何项目都比这个容易。这就是为什么从来没有人制造出完全可重复使用的轨道火箭。这是一个非常困难的问题。此前许多聪明人都尝试过，是拥有庞大资源的非常聪明的人，而他们失败了。"
+    },
+    {
+      "id": "p-0239",
+      "textEn": "And we haven't succeeded yet. Falcon is partially reusable, but the upper stage is not. Starship Version 3, I think this design can be fully reusable. That full reusability is what will enable us to become a multi-planet civilization. Any technical problem, even like a Hadron Collider or something like that, is an easier problem than this. We spent a lot of time on bottlenecks.",
+      "textZh": "而且我们还没有成功。猎鹰是部分可重复使用的，但上面级不是。星舰第3版，我认为这个设计可以做到完全可重复使用。正是这种完全可重复使用性将使我们能够成为一个多行星文明。任何技术问题，哪怕像强子对撞机之类的，都比这个问题容易。我们在瓶颈问题上花了很多时间。"
+    },
+    {
+      "id": "p-0240",
+      "textEn": "Can you say what the current Starship bottlenecks are, even at a high level? Trying to make it not explode, generally. It really wants to explode. That old chestnut. All those combustible materials. We've had two boosters explode on the test stand. One obliterated the entire test facility. So it only takes that one mistake. The amount of energy contained in a Starship is insane. Is that why it's harder than Falcon?",
+      "textZh": "你能说说星舰目前的瓶颈是什么吗，哪怕只是从宏观层面讲？总的来说，就是尽量让它别爆炸。它真的很想爆炸。那个老掉牙的问题。所有那些可燃材料。我们已经有2枚助推器在试验台上爆炸了。其中1枚摧毁了整个试验设施。所以只需要那1次失误。星舰所蕴含的能量大得离谱。这就是它比猎鹰更难的原因吗？"
+    },
+    {
+      "id": "p-0241",
+      "textEn": "It's because it's just more energy? It's a lot of new technology. It's pushing the performance envelope. The Raptor 3 engine is a very, very advanced engine. It's by far the best rocket engine ever made. But it desperately wants to blow up. Just to put things into perspective here, on liftoff the rocket is generating over 100 gigawatts of power. That’s 20% of US electricity. It's actually insane. It's a great comparison. While not exploding.",
+      "textZh": "是因为它只是能量更大吗？这里有很多新技术。它在突破性能极限。猛禽 3 发动机是一款非常、非常先进的发动机。它遥遥领先，是有史以来最好的火箭发动机。但它极其想爆炸。为了让大家有个概念，火箭起飞时产生的功率超过 100 吉瓦。那相当于美国用电功率的 20%。这其实太疯狂了。这个对比非常贴切。前提是它不爆炸。"
+    },
+    {
+      "id": "p-0242",
+      "textEn": "Sometimes. Sometimes, yes. So I was like, how does it not explode? There's thousands of ways that it could explode and only one way that it doesn't. So we want it not only to really not explode, but fly reliably on a daily basis, like once per hour. Obviously, if it blows up a lot, it's very difficult to maintain that launch cadence. Yes. What's the single biggest remaining problem for Starship? It's having the heat shield be reusable.",
+      "textZh": "有时候。有时候，是的。所以我当时就在想，它怎么会不爆炸？它可能爆炸的方式有成千上万种，而不爆炸的方式只有一种。所以我们不仅希望它真的不爆炸，还希望它能够每天可靠地飞行，比如每小时一次。显然，如果它经常爆炸，就很难维持那样的发射频率。是的。星舰目前剩下的最大单一问题是什么？是让隔热罩能够重复使用。"
+    },
+    {
+      "id": "p-0243",
+      "textEn": "No one's ever made a reusable orbital heat shield. So the heat shield's gotta make it through the ascent phase without shucking a bunch of tiles, and then it's gotta come back in and also not lose a bunch of tiles or overheat the main airframe. Isn't that hard because it's fundamentally a consumable? Well, yes, but your brake pads in your car are also consumable, but they last a very long time. Fair. So it just needs to last a very long time.",
+      "textZh": "从来没有人制造过可重复使用的轨道飞行器隔热罩。所以隔热罩必须撑过上升阶段，不能甩掉一大堆隔热瓦，然后它还必须重返大气层，同样不能损失一大堆隔热瓦，也不能让主体结构过热。这难道不是很难吗，因为它从根本上说是一种消耗品？嗯，是的，但你汽车里的刹车片也是消耗品，可它们能用很长时间。有道理。所以它只需要能用很长时间。"
+    },
+    {
+      "id": "p-0244",
+      "textEn": "We have brought the ship back and had it do a soft landing in the ocean. We've done that a few times. But it lost a lot of tiles. It was not reusable without a lot of work. Even though it did come to a soft landing, it would not have been reusable without a lot of work. So it's not really reusable in that sense. That's the biggest problem that remains, a fully reusable heat shield. You want to be able to land it, refill propellant and fly again.",
+      "textZh": "我们已经让飞船返回，并在海上实现了软着陆。我们已经做过几次了。但它损失了很多隔热瓦。如果不进行大量工作，它就无法重复使用。尽管它确实实现了软着陆，但如果不进行大量工作，它还是无法重复使用。所以从这个意义上说，它并不是真正可重复使用。剩下的最大问题就是完全可重复使用的隔热罩。你希望能够让它着陆、重新加注推进剂，然后再次飞行。"
+    },
+    {
+      "id": "p-0245",
+      "textEn": "You can't do this laborious inspection of 40,000 tiles type of thing. When I read biographies of yours, it seems like you're just able to drive the sense of urgency and drive the sense of \"this is the thing that can scale.\" I'm curious why you think other organizations of your… SpaceX and Tesla are really big companies now. You're still able to keep that culture. What goes wrong with other companies such that they're not able to do that?",
+      "textZh": "你不能做这种费时费力地检查 40,000 块隔热瓦之类的事情。当我读你的传记时，感觉你好像就是能够推动形成紧迫感，并推动形成“这就是能够规模化的东西”这种认识。我很好奇，你认为为什么你的其他组织……SpaceX 和 Tesla 现在都是非常大的公司。你仍然能够保持那种文化。其他公司出了什么问题，导致它们做不到这一点？"
+    },
+    {
+      "id": "p-0246",
+      "textEn": "I don't know. Like today, you said you had a bunch of SpaceX meetings. What is it that you're doing there that's keeping that? It’s adding urgency? Well, I don't know. I guess the urgency is going to come from whoever is leading the company. I have a maniacal sense of urgency. So that maniacal sense of urgency projects through the rest of the company. Is it because of consequences?",
+      "textZh": "我不知道。比如今天，你说你开了一大堆 SpaceX 的会议。你在那里做了什么，才让那种文化得以保持？是在增加紧迫感吗？嗯，我不知道。我想紧迫感会来自领导公司的人。我有一种近乎疯狂的紧迫感。所以这种近乎疯狂的紧迫感会投射到公司的其他地方。是因为后果吗？"
+    },
+    {
+      "id": "p-0247",
+      "textEn": "They're like, \"Elon set a crazy deadline, but if I don't get it, I know what happens to me.\" Is it just that you're able to identify bottlenecks and get rid of them so people can move fast? How do you think about why your companies are able to move fast? I'm constantly addressing the limiting factor. On the deadlines front, I generally actually try to aim for a deadline that I at least think is at the 50th percentile.",
+      "textZh": "他们会想：“埃隆设了一个疯狂的期限，但如果我没做到，我知道自己会怎么样。”是不是只是因为你能够找出瓶颈并消除它们，让人们可以快速推进？你怎么看待为什么你的公司能够快速推进这件事？我一直在处理限制因素。在期限方面，我通常实际上会努力设定一个至少在我看来处于第 50 百分位的期限。"
+    },
+    {
+      "id": "p-0248",
+      "textEn": "So it's not like an impossible deadline, but it's the most aggressive deadline I can think of that could be achieved with 50% probability. Which means that it'll be late half the time. There is a law of gas expansion that applies to schedules. If you said we're going to do something in five years, which to me is like infinity time, it will expand to fill the available schedule and it'll take five years.",
+      "textZh": "所以这并不是一个不可能完成的期限，而是我能想到的、以 50% 概率可以实现的最激进期限。这意味着有一半的时候会延期。有一条气体膨胀定律也适用于进度安排。如果你说我们要在 5 年内完成某件事，而对我来说那就像无限长的时间，它就会膨胀到填满所有可用的进度时间，最终会花掉 5 年。"
+    },
+    {
+      "id": "p-0249",
+      "textEn": "Physics will limit how fast you can do certain things. So scaling up manufacturing, there's a rate at which you can move the atoms and scale manufacturing. That's why you can't instantly make a million units a year of something. You've got to design the manufacturing line. You've got to bring it up. You've got to ride the S-curve of production. What can I say that's actually helpful to people?",
+      "textZh": "物理规律会限制你完成某些事情的速度。所以在扩大制造规模时，原子的移动和制造规模的扩大存在一个速度。这就是为什么你不能立刻做到某种产品年产 100 万件。你必须设计生产线。你必须把它建起来。你必须沿着生产的 S 曲线向上爬。我要说些什么才能真正对人们有帮助？"
+    },
+    {
+      "id": "p-0250",
+      "textEn": "Generally, a maniacal sense of urgency is a very big deal. You want to have an aggressive schedule and you want to figure out what the limiting factor is at any point in time and help the team address that limiting factor. So Starlink was slowly in the works for many years. We talked about it all the way in the beginning of the company.",
+      "textZh": "总体来说，近乎疯狂的紧迫感非常重要。你要有一个激进的进度安排，还要弄清楚任何时刻的限制因素是什么，并帮助团队处理那个限制因素。所以星链曾经多年缓慢推进。我们早在公司成立之初就谈过这件事。"
+    },
+    {
+      "id": "p-0251",
+      "textEn": "So then there was a team you had built in Redmond, and then at one point you decided this team is just not cutting it. It went for a few years slowly, and so why didn't you act earlier, and why did you act when you did? Why was that the right moment at which to act? I have these very detailed engineering reviews weekly. That's maybe a very unusual level of granularity.",
+      "textZh": "所以后来你在雷德蒙德组建了一支团队，然后在某个时刻你认定这支团队就是不行。事情缓慢推进了几年，那么你为什么没有更早采取行动，又为什么在当时采取了行动？为什么那是采取行动的正确时机？我每周都会进行这些非常细致的工程评审。这种细致程度或许非常不同寻常。"
+    },
+    {
+      "id": "p-0252",
+      "textEn": "I don't know anyone who runs a company, or at least a manufacturing company, that goes with the level of detail that I go into. It's not as though... I have a pretty good understanding of what's actually going on because we go through things in detail. I'm a big believer in skip-level meetings where instead of having the person that reports to me say things, it's everyone that reports to them saying something in the technical review.",
+      "textZh": "我不知道还有谁在经营一家公司，或者至少是一家制造企业时，会深入到我所深入的这种细节程度。并不是说……我对实际发生的事情有相当好的了解，因为我们会详细审查各项事务。我非常相信越级会议，也就是在技术评审中，不是让向我汇报的人来讲，而是让所有向他们汇报的人都发言。"
+    },
+    {
+      "id": "p-0253",
+      "textEn": "And there can't be advanced preparation. Otherwise you're going to get \"glazed\", as I say these days. Exactly. Very Gen Z of you. How do you prevent advanced preparation? Do you call on them randomly? No, I just go around the room. Everyone provides an update. It's a lot of information to keep in your head. If you have meetings weekly or twice weekly, you've got a snapshot of what that person said. You can then plot the progress points.",
+      "textZh": "而且不能提前准备。否则你就会像我这些天说的那样，被“猛夸”。没错。你很有 Z 世代风格。你怎么防止他们提前准备？你会随机点他们吗？不会，我只是按顺序问遍整个房间。每个人都汇报最新情况。要在脑子里记住的信息很多。如果你每周或每周开两次会，你就掌握了那个人所说内容的一个快照。然后你就可以标出各个进展点。"
+    },
+    {
+      "id": "p-0254",
+      "textEn": "You can sort of mentally plot the points on a curve and say, \"are we converging to a solution or not?\" I'll take drastic action only when I conclude that success is not in a set of possible outcomes. So when I finally reach the conclusion that unless drastic action is done, we have no chance of success, then I must take drastic action. I came to that conclusion in 2018, took drastic action and fixed the problem. You've got many, many companies.",
+      "textZh": "你可以在脑中大致把这些点绘制成一条曲线，然后问：“我们是否正在收敛到一个解决方案？”我只有在断定成功不属于可能结果的集合时，才会采取激烈行动。所以，当我最终得出结论，认为除非采取激烈行动，否则我们毫无成功的机会时，我就必须采取激烈行动。我在 2018 年得出了这个结论，采取了激烈行动并解决了问题。你有很多很多家公司。"
+    },
+    {
+      "id": "p-0255",
+      "textEn": "In each of them it sounds like you do this kind of deep engineering understanding of what the relevant bottlenecks are so you can do these reviews with people. You've been able to scale it up to five, six, seven companies. Within one of these companies, you have many different mini companies within them. What determines the max amount here? Because you have like 80 companies…? 80? No. But you have so many already. That's already remarkable.",
+      "textZh": "听起来，在每一家公司里，你都会像这样深入理解工程问题，弄清相关瓶颈是什么，这样你就能和人们进行这些评审。你已经能够把这种做法扩展到五家、六家、七家公司。在其中一家公司内部，又有许多不同的小公司。这里的最大数量由什么决定？因为你好像有 80 家公司……？80 家？没有。但你已经有这么多了。这已经很了不起。"
+    },
+    {
+      "id": "p-0256",
+      "textEn": "By this current number. Exactly. We can barely keep one company together. It depends on the situation. I actually don't have regular meetings with The Boring Company, so The Boring Company is sort of cruising along. Basically, if something is working well and making good progress, then there's no point in me spending time on it. I actually allocate time according to where the limiting factor. Where are things problematic?",
+      "textZh": "按目前这个数量来说。没错。我们连维持一家公司都已经很勉强了。这取决于具体情况。实际上，我不和 The Boring Company 定期开会，所以 The Boring Company 算是在平稳向前推进。基本上，如果某件事运转良好、进展顺利，那我就没必要在上面花时间。实际上，我是根据限制因素在哪里来分配时间的。哪些地方存在问题？"
+    },
+    {
+      "id": "p-0257",
+      "textEn": "Where are we pushing against? What is holding us back? I focus, at the risk of saying the words too many times, on the limiting factor. The irony is if something's going really well, they don't see much of me. But if something is going badly, they'll see a lot of me. Or not even badly… If something is the limiting factor. The limiting factor, exactly. It’s not exactly going badly but it’s the thing that we need to make go faster.",
+      "textZh": "我们正顶着什么推进？什么在拖我们的后腿？冒着把这个词说太多遍的风险，我关注的是限制因素。讽刺的是，如果某件事进展非常顺利，他们就不太会见到我。但如果某件事进展糟糕，他们就会经常见到我。甚至也不一定是糟糕……如果某件事是限制因素。限制因素，没错。它并不完全是进展糟糕，而是我们需要让它加快的那件事。"
+    },
+    {
+      "id": "p-0258",
+      "textEn": "When something’s a limiting factor at SpaceX or Tesla, are you talking weekly and daily with the engineer that's working on it? How does that actually work? Most things that are the limiting factor are weekly and some things are twice weekly. The AI5 chip review is twice weekly. Every Tuesday and Saturday is the chip review. Is it open ended in how long it goes? Technically, yes, but usually it's two or three hours. Sometimes less.",
+      "textZh": "当 SpaceX 或 Tesla 的某件事成为限制因素时，你会每周或每天和负责这件事的工程师交流吗？实际是怎么运作的？大多数属于限制因素的事项每周评审一次，有些事项每周评审两次。AI5 芯片评审每周两次。每周二和周六进行芯片评审。会议时长是开放式的吗？严格来说，是的，但通常是两三个小时。有时更短。"
+    },
+    {
+      "id": "p-0259",
+      "textEn": "It depends on how much information we've got to go through. That's another thing. I'm just trying to tease out the differences here because the outcomes seem quite different. I think it's interesting to know what inputs are different. It feels like in the corporate world, one, like you were saying, the CEO doing engineering reviews does not always happen despite the fact that that is what the company is doing.",
+      "textZh": "这取决于我们有多少信息需要过一遍。这是另一件事。我只是想梳理出这里的差异，因为结果看起来非常不同。我认为，了解哪些输入因素不同是很有意思的。感觉在企业界，第一，就像你所说的，尽管公司做的就是工程，但 CEO 并不总会进行工程评审。"
+    },
+    {
+      "id": "p-0260",
+      "textEn": "But then time is often pretty finely sliced into half hour meetings or even 15 minute meetings. It seems like you hold more open-ended, \"We're talking about it until we figure it out\" type things. Sometimes. But most of them seem to more or less stay on time. Today's Starship engineering review went a bit longer because there were more topics to discuss. They're trying to figure out how to scale to a million plus tons to orbit per year.",
+      "textZh": "但时间往往会被非常细地切分成半小时的会议，甚至 15 分钟的会议。看起来你举行的会议更为开放，属于“我们一直讨论，直到把它弄明白”的那种。有时候是。但大多数会议似乎基本都能准时结束。今天的星舰工程评审时间长了一点，因为要讨论的话题更多。他们正在设法弄清楚，如何将每年送入轨道的运力扩大到 100 多万吨。"
+    },
+    {
+      "id": "p-0261",
+      "textEn": "It’s quite challenging. Can I ask a question? You said about Optimus and AI that they're going to result in double digit growth rates within a matter of years. Oh, like the economy? Yes. I think that's right. What was the point of the DOGE cuts if the economy is going to grow so much? Well, I think waste and fraud are not good things to have. I was actually pretty worried about...",
+      "textZh": "这相当有挑战性。我能问一个问题吗？你说过，Optimus 和 AI 将在几年内带来两位数的增长率。哦，你是说经济？是的。我认为没错。如果经济将增长这么多，那么 DOGE 削减的意义是什么？嗯，我认为浪费和欺诈不是什么好事。实际上，我当时相当担心……"
+    },
+    {
+      "id": "p-0262",
+      "textEn": "In the absence of AI and robotics, we're actually totally screwed because the national debt is piling up like crazy. The interest payments to national debt exceed the military budget, which is a trillion dollars. So we have over a trillion dollars just in interest payments. I was pretty concerned about that.",
+      "textZh": "如果没有 AI 和机器人技术，我们实际上就彻底完蛋了，因为国债正在疯狂累积。国债的利息支出超过了军费预算，也就是 1 万亿美元。所以，我们仅利息支出就超过 1 万亿美元。我对此相当担忧。"
+    },
+    {
+      "id": "p-0263",
+      "textEn": "Maybe if I spend some time, we can slow down the bankruptcy of the United States and give us enough time for the AI and robots to help solve the national debt. Or not help solve, it's the only thing that could solve the national debt. We are 1000% going to go bankrupt as a country, and fail as a country, without AI and robots. Nothing else will solve the national debt.",
+      "textZh": "也许如果我投入一些时间，我们就能延缓美国破产，给我们争取足够时间，让 AI 和机器人帮助解决国债问题。不是帮助解决，它是唯一能够解决国债问题的东西。没有 AI 和机器人，我们这个国家 1000% 会破产，并且会成为一个失败的国家。其他任何东西都解决不了国债问题。"
+    },
+    {
+      "id": "p-0264",
+      "textEn": "We just need enough time to build the AI and robots to not go bankrupt before then. I guess the thing I'm curious about is, when DOGE starts you have this enormous ability to enact reform. Not that enormous. Sure. I totally buy your point that it's important that AI and robotics drive productivity improvements, drive GDP growth.",
+      "textZh": "我们只需要有足够的时间来打造 AI 和机器人，不要在那之前破产。我想我好奇的是，DOGE 启动时，你拥有这种推动改革的巨大能力。没那么巨大。当然。我完全认同你的观点，即 AI 和机器人技术推动生产率提升、推动 GDP 增长非常重要。"
+    },
+    {
+      "id": "p-0265",
+      "textEn": "But why not just directly go after the things you were pointing out, like the tariffs on certain components, or permitting? I'm not the president. And it is very hard to cut things that are obvious waste and fraud, like ridiculous waste and fraud. What I discovered is that it's extremely difficult even to cut very obvious waste and fraud from the government because the government has to operate on who's complaining.",
+      "textZh": "但为什么不直接处理你指出的那些问题，比如对某些零部件征收的关税，或审批许可？我不是总统。而且，即便要削减那些显而易见的浪费和欺诈，也非常困难，比如荒谬的浪费和欺诈。我发现，即使要从政府中削减非常明显的浪费和欺诈也极其困难，因为政府必须根据谁在抱怨来运作。"
+    },
+    {
+      "id": "p-0266",
+      "textEn": "If you cut off payments to fraudsters, they immediately come up with the most sympathetic sounding reasons to continue the payment. They don't say, \"Please keep the fraud going.\" They’re like, \"You're killing baby pandas.\" Meanwhile, no baby pandas are dying. They're just making it up. The fraudsters are capable of coming up with extremely compelling, heart-wrenching stories that are false, but nonetheless sound sympathetic. That's what happened.",
+      "textZh": "如果你切断付给欺诈者的款项，他们会立刻提出听起来最令人同情的理由，要求继续付款。他们不会说：“请让欺诈继续下去。”他们会说：“你们在害死熊猫宝宝。”与此同时，根本没有熊猫宝宝死掉。他们只是在编造。欺诈者有能力编出极具说服力、令人心碎的虚假故事，但听起来依然值得同情。事情就是这样。"
+    },
+    {
+      "id": "p-0267",
+      "textEn": "Perhaps I should have known better. But I thought, wait, let's try to cut some amount of waste and pork from the government. Maybe there shouldn't be 20 million people marked as alive in Social Security who are definitely dead, and over the age of 115. The oldest American is 114.",
+      "textZh": "也许我本该更清楚。但我当时想，等等，让我们试着削减政府中一定数量的浪费和利益输送。也许社会保障系统里不应该有 2000 万名明明已经死亡、年龄超过 115 岁，却仍被标记为在世的人。最年长的美国人是 114 岁。"
+    },
+    {
+      "id": "p-0268",
+      "textEn": "So it's safe to say if somebody is 115 and marked as alive in the Social Security database, there's either a typo… Somebody should call them and say, \"We seem to have your birthday wrong, or we need to mark you as dead.\" One of the two things. Very intimidating call to get. Well, it seems like a reasonable thing.",
+      "textZh": "所以可以有把握地说，如果某人年龄为 115 岁，却在社会保障数据库中被标记为在世，那要么是录入错误……应该有人打电话给他们说：“看来我们把您的生日弄错了，或者我们需要把您标记为死亡。”两者必居其一。接到这种电话会很吓人。嗯，这似乎是件合理的事。"
+    },
+    {
+      "id": "p-0269",
+      "textEn": "Say if their birthday is in the future and they have a Small Business Administration loan, and their birthday is 2165, we either have a typo or we have fraud. So we say, \"we appear to have gotten the century of your birth incorrect.\" Or a great plot for a movie. Yes. That's what I mean by, ludicrous fraud. Were those people getting payments? Some were getting payments from Social Security.",
+      "textZh": "比如说，如果他们的生日在未来，而且他们有一笔小企业管理局贷款，而他们的出生年份是 2165 年，那么我们面对的要么是录入错误，要么是欺诈。所以我们会说：“我们似乎把您的出生世纪弄错了。”或者这是一个很棒的电影情节。是的。这就是我所说的荒谬欺诈。那些人有收到款项吗？有些人收到了社会保障款项。"
+    },
+    {
+      "id": "p-0270",
+      "textEn": "But the main fraud vector was to mark somebody as alive in Social Security and then use every other government payment system to basically do fraud. Because what those other government payment systems do, they would simply do an \"are you alive\" check to the Social Security database. It's a bank shot. What would you estimate is the total amount of fraud from this mechanism?",
+      "textZh": "但主要的欺诈途径，是在社会保障系统中把某人标记为在世，然后利用其他所有政府支付系统进行欺诈。因为其他政府支付系统所做的，只是向社会保障数据库进行一次“你是否在世”的核查。这是一记擦板球。你估计通过这种机制实施的欺诈总额是多少？"
+    },
+    {
+      "id": "p-0271",
+      "textEn": "By the way, the Government Accountability Office has done these estimates before. I'm not the only one. In fact, I think the GAO did an analysis, a rough estimate of fraud during the Biden administration, and calculated it at roughly half a trillion dollars. So don't take my word for it. Take a report issued during the Biden administration. How about that? From this Social Security mechanism? It's one of many.",
+      "textZh": "顺便说一句，美国政府问责局以前做过这些估算。并不是只有我这么说。事实上，我记得 GAO 曾做过一项分析，对拜登政府时期的欺诈进行粗略估算，计算结果约为 5000 亿美元。所以不要只听我说。看看拜登政府时期发布的一份报告。这样如何？都来自这种社会保障机制吗？它只是众多机制之一。"
+    },
+    {
+      "id": "p-0272",
+      "textEn": "It's important to appreciate that the government is very ineffective at stopping fraud. It's not like a company where, with stopping fraud, you've got a motivation because it's affecting the earnings of your company. The government just prints more money. You need caring and competence. These are in short supply at the federal level. When you go to the DMV, do you think, \"Wow, this is a bastion of competence\"?",
+      "textZh": "重要的是要认识到，政府在制止欺诈方面非常低效。它不像一家公司，在公司里，你有动力制止欺诈，因为这会影响公司的盈利。政府只会印更多的钱。你需要关心此事的人和办事能力。这两样在联邦层面都很稀缺。当你去机动车管理局时，你会不会想：“哇，这真是能力的堡垒”？"
+    },
+    {
+      "id": "p-0273",
+      "textEn": "Well, now imagine it's worse than the DMV because it's the DMV that can print money. At least the state level DMVs need to... The states more or less need to stay within their budget or they go bankrupt. But the federal government just prints more money. If there's actually half a trillion of fraud, why was it not possible to cut all that? You really have to stand back and recalibrate your expectations for competence.",
+      "textZh": "那么，现在想象一下，情况比机动车管理局还糟，因为这是一个能印钱的机动车管理局。至少州一级的机动车管理局需要……各州或多或少都需要量入为出，否则就会破产。但联邦政府只会印更多的钱。如果实际上有5000亿美元的欺诈，为什么没办法把这些全都砍掉？你真的必须退后一步，重新校准你对办事能力的预期。"
+    },
+    {
+      "id": "p-0274",
+      "textEn": "Because you're operating in a world where you've got to make ends meet. You've got to pay your bills... Find the microphones. Exactly. It's not like there's a giant, largely uncaring monster bureaucracy. It's a bunch of anachronistic computers that are just sending payments. One of the things that the DOGE team did sounds so simple and probably will save $100-200 billion a year.",
+      "textZh": "因为你是在一个必须维持收支平衡的世界里运作。你必须付账单……找到麦克风。没错。这并不是说存在一个庞大且基本漠不关心的官僚机构怪物。只是一堆不合时宜的计算机在发送付款。DOGE 团队所做的其中一件事听起来非常简单，而且每年大概会节省1000亿至2000亿美元。"
+    },
+    {
+      "id": "p-0275",
+      "textEn": "It was simply requiring payments from the main Treasury computer—which is called PAM, Payment Accounts Master or something like that, there's $5 trillion payments a year—that go out have a payment appropriation code. Make it mandatory, not optional, that you have anything at all in the comment field. You have to recalibrate how dumb things are.",
+      "textZh": "它只是要求从财政部主计算机发出的付款必须有付款拨款代码——这台计算机名叫 PAM，即 Payment Accounts Master（支付账户主控）之类的东西，每年有5万亿美元的付款经由它发出。还要强制规定备注栏里必须写点东西，而不是可填可不填。你必须重新校准自己对事情能愚蠢到什么程度的认知。"
+    },
+    {
+      "id": "p-0276",
+      "textEn": "Payments were being sent out with no appropriation code, not checking back to any congressional appropriation, and with no explanation. This is why the Department of War, formerly the Department of Defense, cannot pass an audit, because the information is literally not there. Recalibrate your expectations. I want to better understand this half a trillion number, because there's an IG report in 2024. Why is it so low?",
+      "textZh": "款项在没有拨款代码、没有追溯核对任何国会拨款、也没有任何说明的情况下被发放出去。这就是为什么战争部，也就是以前的国防部，无法通过审计，因为相关信息根本不存在。重新调整你的预期。我想更好地理解这5000亿这个数字，因为2024年有一份监察长报告。为什么它这么低？"
+    },
+    {
+      "id": "p-0277",
+      "textEn": "Maybe, but we found that over seven years, the Social Security fraud they estimated was like $70 billion over seven years, so like $10 billion a year. So I'd be curious to see what the other $490 billion is. Federal government expenditures are $7. 5 trillion a year. How competent do you think the government is? The discretionary spending there is like… 15%? But it doesn't matter. Most of the fraud is non-discretionary.",
+      "textZh": "也许吧，但我们发现，在7年里，他们估算的社会保障欺诈大约是700亿美元，7年700亿美元，也就是每年大约100亿美元。所以我很想看看另外那4900亿美元是什么。联邦政府每年的支出是7.5万亿美元。你认为政府有多能干？其中的可自由裁量支出大约是……15%？但这无关紧要。大多数欺诈都发生在非自由裁量支出中。"
+    },
+    {
+      "id": "p-0278",
+      "textEn": "It's basically fraudulent Medicare, Medicaid, Social Security, disability. There's a zillion government payments. A bunch of these payments are in fact block transfers to the states. So the federal government doesn't even have the information in a lot of cases to even know if there's fraud. Let's consider reductio ad absurdum. The government is perfect and has no fraud. What is your probability estimate of that? Zero.",
+      "textZh": "基本上就是欺诈性的联邦医疗保险、医疗补助、社会保障、残障福利。政府付款有无数种。其中许多付款实际上是给各州的整笔拨款。因此在很多情况下，联邦政府甚至连判断是否存在欺诈所需的信息都没有。让我们考虑一下归谬法。政府是完美的，不存在欺诈。你认为这种情况的概率是多少？0。"
+    },
+    {
+      "id": "p-0279",
+      "textEn": "Okay, so then would you say, fraud and waste at the government is 90% efficient? That also would be quite generous. But if it's only 90%, that means that there's $750 billion a year of waste and fraud. And it's not 90%. It's not 90% effective. This seems like a strange way to first principles the amount of fraud in the government. Just like, how much do you think there is?",
+      "textZh": "好，那么你会说，政府中的欺诈和浪费是90%有效率的吗？这也会是相当宽松的估计。但如果效率只有90%，那就意味着每年有7500亿美元的浪费和欺诈。而且并不是90%。它并没有达到90%的有效性。这似乎是一种以第一性原理推导政府欺诈金额的奇怪方式。就是说，你认为有多少？"
+    },
+    {
+      "id": "p-0280",
+      "textEn": "Anyways, we don't have to do it live, but I'd be curious— You know a lot about fraud at Stripe? People are constantly trying to do fraud. Yeah, but as you say, it's a little bit of a... We've really ground it down, but it's a little bit of a different problem space because you're dealing with a much more heterogeneous set of fraud vectors here than we are. But at Stripe, you have high competence and you try hard.",
+      "textZh": "不管怎样，我们不必现场算，但我会很好奇——你对 Stripe 的欺诈问题很了解？人们一直在试图实施欺诈。是的，但正如你所说，这有点……我们确实已经把它大幅压低了，但这是一个有些不同的问题领域，因为你在这里要面对的欺诈途径比我们面对的异质性强得多。但在 Stripe，你们能力很强，而且非常努力。"
+    },
+    {
+      "id": "p-0281",
+      "textEn": "You have high competence and high caring, but still fraud is non-zero. Now imagine it's at a much bigger scale, there's much less competence, and much less caring. At PayPal back in the day, we tried to manage fraud down to about 1% of the payment volume. That was very difficult. It took a tremendous amount of competence and caring to get fraud merely to 1%.",
+      "textZh": "你们能力很强，也非常上心，但欺诈仍然不为0。现在想象一下，它的规模要大得多，能力却弱得多，也远没有那么上心。早年在 PayPal，我们努力把欺诈控制在支付总额的约1%。这非常困难。需要极强的能力和极高的用心程度，才能仅仅把欺诈降至1%。"
+    },
+    {
+      "id": "p-0282",
+      "textEn": "Now imagine that you're an organization where there's much less caring and much less competence. It's going to be much more than 1%. How do you feel now looking back on politics and doing stuff there? Looking from the outside in, two things have been quite impactful: one, the America PAC, and two, the acquisition of Twitter at the time. But also it seems like there was a bunch of heartache. What's your grading of the whole experience?",
+      "textZh": "现在想象一下，你所在的是一个远没有那么上心、能力也弱得多的组织。那会远远超过1%。现在回头看从政以及在那里做的那些事，你有什么感受？从外向内看，有2件事产生了相当大的影响：1是美国政治行动委员会，2是当时对 Twitter 的收购。但看起来也有很多心痛。你会如何评价整段经历？"
+    },
+    {
+      "id": "p-0283",
+      "textEn": "I think those things needed to be done to maximize the probability that the future is good. Politics generally is very tribal. People lose their objectivity usually with politics. They generally have trouble seeing the good on the other side or the bad on their own side. That's generally how it goes. That, I guess, was one of the things that surprised me the most. You often simply cannot reason with people. If they're in one tribe or the other.",
+      "textZh": "我认为，为了最大限度地提高未来是美好的概率，那些事必须做。政治通常非常部落化。涉及政治时，人们通常会失去客观性。他们通常很难看到另一方的优点，或自己这一方的缺点。一般就是这样。我想，这是最令我惊讶的事情之一。你经常根本无法跟人讲道理。如果他们属于这个或那个部落。"
+    },
+    {
+      "id": "p-0284",
+      "textEn": "They simply believe that everything their tribe does is good and anything the other political tribe does is bad. Persuading them otherwise is almost impossible. But I think overall those actions—acquiring Twitter, getting Trump elected, even though it makes a lot of people angry—I think those actions were good for civilization. How does it feed into the future you're excited about?",
+      "textZh": "他们就是相信，自己的部落所做的一切都是好的，而另一个政治部落所做的任何事都是坏的。要说服他们并非如此几乎不可能。但我认为总体而言，那些行动——收购 Twitter、让特朗普当选，尽管这令很多人生气——我认为那些行动对文明有益。这如何融入那个令你感到振奋的未来？"
+    },
+    {
+      "id": "p-0285",
+      "textEn": "Well, America needs to be strong enough to last long enough to extend life to other planets and to get AI and robotics to the point where we can ensure that the future is good. On the other hand, if we were to descend into, say, communism or some situation where the state was extremely oppressive, that would mean that we might not be able to become multi-planetary. The state might stamp out our progress in AI and robotics.",
+      "textZh": "嗯，美国需要足够强大，维持足够长的时间，以便把生命扩展到其他星球，并让人工智能和机器人技术发展到我们能够确保未来是美好的程度。另一方面，如果我们陷入，比如说，共产主义，或某种国家极端压迫的局面，那就意味着我们可能无法成为多行星物种。国家可能会扼杀我们在人工智能和机器人技术方面的进步。"
+    },
+    {
+      "id": "p-0286",
+      "textEn": "Optimus, Grok, et cetera. Not just yours, but any revenue-maximizing company's products will be leveraged by the government over time. How does this concern manifest in what private companies should be willing to give governments? What kinds of guardrails? Should AI models be made to do whatever the government that has contracted them out to do and asks them to do?",
+      "textZh": "Optimus、Grok，等等。不只是你们的产品，任何追求收入最大化的公司的产品，随着时间推移都会被政府利用。这种担忧会如何体现在私营企业应该愿意向政府提供什么上？应该设置哪些护栏？是否应该让 AI 模型去做与其签约的政府要求它们做的任何事情？"
+    },
+    {
+      "id": "p-0287",
+      "textEn": "Should Grok get to say, \"Actually, even if the military wants to do X, no, Grok will not do that\"? I think maybe the biggest danger of AI and robotics going wrong is government. People who are opposed to corporations or worried about corporations should really worry the most about government. Because government is just a corporation in the limit. Government is just the biggest corporation with a monopoly on violence.",
+      "textZh": "Grok 是否应该有权说：“实际上，即使军方想做 X，也不行，Grok 不会那样做”？我认为，AI 和机器人技术走偏的最大危险或许就是政府。那些反对企业或担忧企业的人，真正最该担心的是政府。因为从极限意义上说，政府就是一家公司。政府只不过是拥有暴力垄断权的最大公司。"
+    },
+    {
+      "id": "p-0288",
+      "textEn": "I always find it a strange dichotomy where people would think corporations are bad, but the government is good, when the government is simply the biggest and worst corporation. But people have that dichotomy. They somehow think at the same time that government can be good, but corporations bad, and this is not true. Corporations have better morality than the government. I actually think it’s a thing to be worried about.",
+      "textZh": "我总觉得这是一种奇怪的二分法：人们会认为企业是坏的，政府却是好的，而政府恰恰就是最大、最糟糕的公司。但人们确实抱有这种二分观念。他们不知怎么会同时认为政府可以是好的，而企业是坏的，但这并不是真的。企业的道德水准比政府更高。我确实认为这是值得担忧的事情。"
+    },
+    {
+      "id": "p-0289",
+      "textEn": "The government could potentially use AI and robotics to suppress the population. That is a serious concern. As the guy building AI and robotics, how do you prevent that? If you limit the powers of government, which is really what the US Constitution is intended to do, to limit the powers of government, then you're probably going to have a better outcome than if you have more government. Robotics will be available to all governments, right?",
+      "textZh": "政府有可能利用 AI 和机器人技术压制民众。这是一个严重的担忧。作为构建 AI 和机器人技术的人，你要如何防止这种情况？如果你限制政府的权力，而这实际上正是美国宪法的本意，即限制政府的权力，那么相比政府权力更大的情况，你可能会得到更好的结果。所有政府都能获得机器人技术，对吧？"
+    },
+    {
+      "id": "p-0290",
+      "textEn": "I don’t know about all governments. It's difficult to predict. I can say what's the endpoint, or what is many years in the future, but it's difficult to predict the path along that way. If civilization progresses, AI will vastly exceed the sum of all human intelligence. There will be far more robots than humans. Along the way what happens is very difficult to predict.",
+      "textZh": "我不知道是否所有政府都能获得。很难预测。我可以说出终点是什么，或者说许多年后的未来是什么样，但很难预测通往那里的路径。如果文明继续进步，AI 将远远超过全人类智慧的总和。机器人的数量将远远超过人类。在这个过程中会发生什么，非常难以预测。"
+    },
+    {
+      "id": "p-0291",
+      "textEn": "It seems one thing you could do is just say, \"whatever government X, you're not allowed to use Optimus to do X, Y, Z.\" Just write out a policy. I think you tweeted recently that Grok should have a moral constitution. One of those things could be that we limit what governments are allowed to do with this advanced technology. Technically if politicians pass a law and they can enforce that law, then it's hard to not do that law.",
+      "textZh": "看来你可以做的一件事，就是直接说：“不管是哪个政府 X，你都不得使用 Optimus 去做 X、Y、Z。”只需把政策写出来。我记得你最近发推文说，Grok 应该有一部道德宪法。其中一项可以是，我们限制各国政府获准利用这种先进技术做什么。严格来说，如果政客通过了一项法律，而且他们能够执行这项法律，那么就很难不遵守这项法律。"
+    },
+    {
+      "id": "p-0292",
+      "textEn": "The best thing we can have is limited government where you have the appropriate crosschecks between the executive, judicial, and legislative branches. The reason I'm curious about it is that at some point it seems the limits will come from you. You've got the Optimus, you've got the space GPUs… You think I'll be the boss of the government?",
+      "textZh": "我们能拥有的最好局面，是有限政府，在行政、司法和立法部门之间设有适当的相互制衡。我之所以对此感到好奇，是因为到了某个时候，这些限制似乎将由你来设定。你有 Optimus，你有太空 GPU……你觉得我会成为政府的老板？"
+    },
+    {
+      "id": "p-0293",
+      "textEn": "Already it's the case with SpaceX that for things that are crucial—the government really cares about getting certain satellites up in space or whatever—it needs SpaceX. It is the necessary contractor. You are in the process of building more and more of the technological components of the future that will have an analogous role in different industries.",
+      "textZh": "SpaceX 已经是这种情况了：对于那些至关重要的事情——政府确实很在意把某些卫星送入太空之类的事——它需要 SpaceX。SpaceX 是不可或缺的承包商。你正在构建越来越多的未来技术组件，而这些组件将在不同产业中发挥类似的作用。"
+    },
+    {
+      "id": "p-0294",
+      "textEn": "You could have this ability to set some policy that suppressing classical liberalism in any way… \"My companies will not help in any way with that\", or some policy like that. I will do my best to ensure that anything that's within my control maximizes the good outcome for humanity. I think anything else would be shortsighted, because obviously I'm part of humanity, so I like humans. Pro human.",
+      "textZh": "你可以有能力制定某种政策，比如对于任何形式的压制古典自由主义……“我的公司不会以任何方式为此提供帮助”，或类似这样的政策。我会尽我所能，确保我所能控制的任何事情都最大限度地为人类带来好的结果。我认为任何其他做法都会是短视的，因为显然我也是人类的一员，所以我喜欢人类。支持人类。"
+    },
+    {
+      "id": "p-0295",
+      "textEn": "You mentioned that Dojo 3 will be used for space-based compute. You really read what I say. I don't know if you know, Elon, but you have a lot of followers. Dead giveaway. How did you discern my secrets? Oh I posted them on X. How do you design a chip for space? What changes? You want to design it to be more radiation tolerant and run at a higher temperature.",
+      "textZh": "你提到 Dojo 3 将用于太空计算。你还真会看我说的话。我不知道你是否知道，埃隆，但你有很多关注者。太明显了。你是怎么识破我的秘密的？哦，我把它们发在 X 上了。你会如何设计用于太空的芯片？会有哪些变化？你会希望把它设计得更耐辐射，并且能在更高温度下运行。"
+    },
+    {
+      "id": "p-0296",
+      "textEn": "Roughly, if you increase the operating temperature by 20% in degrees Kelvin, you can cut your radiator mass in half. So running at a higher temperature is helpful in space. There are various things you can do for shielding the memory. But neural nets are going to be very resilient to bit flips. Most of what happens for radiation is random bit flips. But if you've got a multi-trillion parameter model and you get a few bit flips, it doesn't matter.",
+      "textZh": "粗略来说，如果你把以开尔文度数计的工作温度提高 20%，就能把散热器质量减半。所以在更高温度下运行对太空应用很有帮助。你可以采取各种办法来屏蔽存储器。但神经网络对比特翻转会有很强的抵御能力。辐射造成的大多是随机比特翻转。但如果你有一个数万亿参数的模型，而其中出现几次比特翻转，那并不重要。"
+    },
+    {
+      "id": "p-0297",
+      "textEn": "Heuristic programs are going to be much more sensitive to bit flips than some giant parameter file. I just design it to run hot. I think you pretty much do it the same way that you do things on Earth, apart from making it run hotter. The solar array is most of the weight on the satellite.",
+      "textZh": "启发式程序对比特翻转的敏感度会远高于某个巨大的参数文件。我只会把它设计成能在高温下运行。我认为，除了让它在更高温度下运行以外，基本上可以用和在地球上做这些东西相同的方式来做。太阳能电池阵列占了卫星的大部分重量。"
+    },
+    {
+      "id": "p-0298",
+      "textEn": "Is there a way to make the GPUs even more powerful than what Nvidia and TPUs and et cetera are planning on doing that would be especially privileged in the space-based world? The basic math is, if you can do about a kilowatt per reticle, then you'd need 100 million full reticle chips to do 100 gigawatts. Depending on what your yield assumptions are, that tells you how many chips you need to make.",
+      "textZh": "有没有办法让 GPU 比 Nvidia、TPU 等等计划制造的产品更加强大，而且这种方式在太空环境中会特别有优势？基本的数学是，如果每个光罩版图能做到大约 1 千瓦，那么要达到 100 吉瓦，就需要 1 亿颗全光罩芯片。根据你对良率所作的假设，这就能告诉你需要制造多少颗芯片。"
+    },
+    {
+      "id": "p-0299",
+      "textEn": "If you're going to have 100 gigawatts of power, you need 100 million chips that are running at a kilowatt sustained, per reticle. Basic math. 100 million chips depends on… If you look at the die size of something like Blackwell GPUs or something, and how many you can get out of a wafer, you can get on the order of dozens or less per wafer.",
+      "textZh": "如果你要有 100 吉瓦的功率，就需要 1 亿颗芯片，每颗全光罩芯片都持续以 1 千瓦运行。很简单的数学。1 亿颗芯片取决于……如果你看看 Blackwell GPU 之类产品的裸片尺寸，以及一块晶圆能切出多少颗芯片，那么每块晶圆大约能得到几十颗或更少。"
+    },
+    {
+      "id": "p-0300",
+      "textEn": "So basically, this is a world where if we're putting that out every single year, you're producing millions of wafers a month. That's the plan with TeraFab? Millions of wafers a month of advanced process nodes? Yeah it could be north of a million or something. You’ve got to do the memory too. Are you going to make a memory fab? I think the TeraFab's got to do memory. It's got to do logic, memory, and packaging.",
+      "textZh": "所以基本上，在这个世界里，如果我们每年都要产出那么多，你每个月就得生产数百万块晶圆。这就是 TeraFab 的计划吗？每月生产数百万块采用先进制程节点的晶圆？是的，可能会超过 100 万块之类的。存储器也得做。你们会建一座存储器晶圆厂吗？我认为 TeraFab 必须生产存储器。它必须生产逻辑芯片、存储器，并进行封装。"
+    },
+    {
+      "id": "p-0301",
+      "textEn": "I'm very curious how somebody gets started. This is the most complicated thing man has ever made. Obviously, if anybody's up to the task, you're up to the task. So you realize it's a bottleneck, and you go to your engineers. What do you tell them to do? \"I want a million wafers a month in 2030.\" That’s right. That’s exactly what I want. Do you call ASML? What is the next step? No so much to ask. We make a little fab and see what happens.",
+      "textZh": "我非常好奇一个人该怎么着手做这件事。这是人类有史以来制造的最复杂的东西。显然，如果有人能胜任这项任务，那就是你。所以你意识到这是一个瓶颈，然后去找你的工程师。你会让他们做什么？“我希望在 2030 年达到每月 100 万块晶圆。”没错。这正是我想要的。你会给 ASML 打电话吗？下一步是什么？没有那么多可问的。我们先建一座小型晶圆厂，看看会发生什么。"
+    },
+    {
+      "id": "p-0302",
+      "textEn": "Make our mistakes at a small scale and then make a big one. Is a little fab done? No, it's not done. We're not going to keep that cat in the bag. That cat's going to come out of the bag. There'll be drones hovering over the bloody thing. You'll be able to see its construction progress on X in real time. Look, I don't know, we could just flounder in failure, to be fair. Success is not guaranteed.",
+      "textZh": "先在小规模上犯错，然后再建一座大的。小型晶圆厂建好了吗？没有，还没建好。我们不会让那只猫一直待在袋子里。那只猫会从袋子里出来。会有无人机盘旋在那该死的东西上空。你将能在 X 上实时看到它的施工进度。听着，我不知道，公平地说，我们可能只会在失败中挣扎。成功并无保证。"
+    },
+    {
+      "id": "p-0303",
+      "textEn": "Since we want to try to make something like 100 million… We want 100 gigawatts of power and chips that can take 100 gigawatts by 2030. We’ll take as many chips as our suppliers will give us. I've actually said this to TSMC and Samsung and Micron: \"please build more fabs faster\". We will guarantee to buy the output of those fabs. So they're already moving as fast as they can. It's us plus them.",
+      "textZh": "既然我们想努力制造大约1亿……我们希望到2030年拥有100吉瓦的电力，以及能够消耗100吉瓦电力的芯片。供应商愿意给我们多少芯片，我们就要多少。我实际上已经对台积电、三星和美光这样说了：“请更快地建造更多晶圆厂。”我们会保证购买那些晶圆厂的产出。所以他们已经在竭尽所能地快速推进了。这要靠我们加上他们。"
+    },
+    {
+      "id": "p-0304",
+      "textEn": "There's a narrative that the people doing AI want a very large number of chips as quickly as possible. Then many of the input suppliers, the fabs, but also the turbine manufacturers, are not ramping up production very quickly. No, they're not. The explanation you hear is that they're dispositionally conservative. They're Taiwanese or German, as the story may be. They just don't believe... Is that really the explanation or is there something else?",
+      "textZh": "有一种说法是，从事AI的人希望尽快获得数量非常庞大的芯片。然后，许多上游供应商，包括晶圆厂，也包括涡轮机制造商，却没有非常迅速地提高产量。不，他们没有。你听到的解释是，他们在性格上比较保守。照这种说法，他们是台湾人或德国人。他们就是不相信……这真的是原因吗，还是另有原因？"
+    },
+    {
+      "id": "p-0305",
+      "textEn": "Well, it's reasonable to... If somebody's been in the computer memory business for 30 or 40 years… They've seen cycles. They've seen boom and bust 10 times. That's a lot of layers of scar tissue. During the boom times, it looks like everything is going to be great forever. Then the crash happens and they're desperately trying to avoid bankruptcy. Then there's another boom and another crash.",
+      "textZh": "嗯，这是合理的……如果有人已经在计算机内存行业干了30或40年……他们见过周期。他们见过10次繁荣与萧条。那会留下很多层伤疤。在繁荣时期，看起来一切都会永远美好下去。然后崩盘发生，他们拼命设法避免破产。接着又是一次繁荣，又是一次崩盘。"
+    },
+    {
+      "id": "p-0306",
+      "textEn": "Are there other ideas you think others should go pursue that you're not for whatever reasons right now? There are a few companies that are pursuing new ways of doing chips, but they're just not scaling fast. I don't even mean within AI, I mean just generally. People should do the thing where they find that they're highly motivated to do that thing, as opposed to some idea that I suggest.",
+      "textZh": "你认为还有哪些想法是其他人应该去做，而你现在出于某些原因没有去做的？有几家公司正在探索制造芯片的新方法，但它们的规模扩张速度就是不够快。我甚至不是特指AI领域，我只是泛指一般情况。人们应该去做自己非常有动力去做的事情，而不是去做我提出的某个想法。"
+    },
+    {
+      "id": "p-0307",
+      "textEn": "They should do the thing that they find personally interesting and motivating to do. But going back to the limiting factor… I used that phrase about 100 times. The current limiting factor that I see in the three to four year timeframe, it's chips. In the one year timeframe, it's energy, power production, electricity. It's not clear to me that there's enough usable electricity to turn on all the AI chips that are being made.",
+      "textZh": "他们应该去做自己认为有趣、能激励自己的事情。但回到限制因素……这个说法我用了大约100次。在3到4年的时间范围内，我目前看到的限制因素是芯片。在1年的时间范围内，限制因素是能源、电力生产、电力。我不确定是否有足够的可用电力来启动所有正在制造的AI芯片。"
+    },
+    {
+      "id": "p-0308",
+      "textEn": "Towards the end of this year, I think people are going to have real trouble turning on... The chip output will exceed the ability to turn chips on. What's your plan to deal with that world? We're trying to accelerate electricity production. I guess that's maybe one of the reasons that xAI will be maybe the leader, hopefully the leader. We'll be able to turn on more chips than other people can turn on, faster, because we're good at hardware.",
+      "textZh": "到今年年底前后，我认为人们会真的很难启动……芯片产量将超过启动芯片的能力。你打算如何应对那个世界？我们正在努力加快电力生产。我想，这或许是xAI可能成为领先者、希望能成为领先者的原因之一。我们能够比其他人更快地启动更多芯片，因为我们擅长硬件。"
+    },
+    {
+      "id": "p-0309",
+      "textEn": "Generally, the innovations from the corporations that call themselves labs, the ideas tend to flow… It's rare to see that there's more than about a six-month difference. The ideas travel back and forth with the people. So I think you sort of hit the hardware wall and then whichever company can scale hardware the fastest will be the leader. So I think xAI will be able to scale hardware the fastest and therefore most likely will be the leader.",
+      "textZh": "总体而言，那些自称实验室的公司所做出的创新，那些想法往往会流动……很少会看到彼此之间存在超过大约6个月的差距。想法会随着人员来回流动。所以我认为，你多少会撞上硬件这堵墙，然后，哪家公司能够最快地扩展硬件规模，哪家公司就会成为领先者。因此，我认为xAI将能够以最快的速度扩展硬件规模，所以最有可能成为领先者。"
+    },
+    {
+      "id": "p-0310",
+      "textEn": "You joked or were self-conscious about using the \"limiting factor\" phrase again. But I actually think there's something deep here. If you look at a lot of things we've touched on over the course of it, it’s maybe a good note to end on. If you think of a senescent, low-agency company, it would have some bottleneck and not really be doing anything about it.",
+      "textZh": "你刚才又使用“限制因素”这个说法时开了个玩笑，或者显得有些不自在。但我其实认为这里面有某种深层含义。如果回顾我们在整个过程中谈到的许多事情，或许很适合用这一点收尾。如果你设想一家衰老、缺乏行动力的公司，它会遇到某个瓶颈，却并没有真正采取任何措施。"
+    },
+    {
+      "id": "p-0311",
+      "textEn": "Marc Andreessen had the line of, \"most people are willing to endure any amount of chronic pain to avoid acute pain\". It feels like a lot of the cases we're talking about are just leaning into the acute pain, whatever it is. \"Okay, we got to figure out how to work with steel, or we got to figure out how to run the chips in space.\" We'll take some near-term acute pain to actually solve the bottleneck. So that's kind of a unifying theme.",
+      "textZh": "马克·安德里森说过一句话：“大多数人为了避免急性疼痛，愿意忍受任何程度的慢性疼痛。”感觉我们谈到的许多情况，都是直接迎向急性疼痛，不管它是什么。“好吧，我们必须弄清楚如何加工钢材，或者必须弄清楚如何在太空中运行芯片。”我们会承受一些短期的急性疼痛，以真正解决瓶颈。所以这算是一个贯穿始终的主题。"
+    },
+    {
+      "id": "p-0312",
+      "textEn": "I have a high pain threshold. That's helpful. To solve the bottleneck. Yes. One thing I can say is, I think the future is going to be very interesting. As I said at Davos—I think I was on the ground for like three hours or something—it's better to err on the side of optimism and be wrong than err on the side of pessimism and be right, for quality of life.",
+      "textZh": "我的疼痛耐受阈值很高。这很有帮助。对解决瓶颈有帮助。是的。有一件事我可以说，我认为未来会非常有趣。正如我在达沃斯所说——我想我在地面上待了大约3个小时之类的——就生活质量而言，宁可偏向乐观而判断错误，也不要偏向悲观而判断正确。"
+    },
+    {
+      "id": "p-0313",
+      "textEn": "You'll be happier if you err on the side of optimism rather than erring on the side of pessimism. So I recommend erring on the side of optimism. Here's to that. Cool. Elon, thanks for doing this. Thank you. All right, thanks guys. All right. Great stamina. Hopefully this didn't count as a pain in the pain tolerance.",
+      "textZh": "如果你偏向乐观，而不是偏向悲观，你会更快乐。所以我建议偏向乐观。为此干杯。很好。埃隆，谢谢你来做这期节目。谢谢。好了，谢谢各位。好了。耐力真强。希望这没有算作疼痛耐受中的一种疼痛。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T10:12:30.621Z",
+    "reviewedAt": "2026-09-13T11:16:52.143Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:51.237Z",
+  "transcriptSource": "https://www.dwarkesh.com/p/elon-musk",
+  "sourceHash": "12cd8d53136da60b4235a80fb29bb8ab71b15ee6d0e6da0bf824d2026a6ac712"
+}

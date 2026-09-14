@@ -1,0 +1,25 @@
+{
+  "total": 2,
+  "entries": [
+    {
+      "id": "dialogue-video",
+      "type": "interview",
+      "date": "2026-09-01",
+      "title": "A dialogue",
+      "url": "https://elonmuskarchive.org/video/dialogue-video",
+      "source": "https://www.youtube.com/watch?v=abcDEF12345",
+      "sourceLabel": "Example",
+      "hasTranscript": true,
+      "durationSec": 75
+    },
+    {
+      "id": "article-video",
+      "type": "speech",
+      "date": "2003-04-22",
+      "title": "An article",
+      "url": "https://elonmuskarchive.org/video/article-video",
+      "source": "https://example.com/article",
+      "hasTranscript": true
+    }
+  ]
+}

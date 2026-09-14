@@ -1,0 +1,55 @@
+{
+  "id": "the-b-word-bitcoin-conference-2021-07-21",
+  "slug": "the-b-word-bitcoin-conference-2021-07-21",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2021-07-21",
+  "titleEn": "The B Word Bitcoin Conference",
+  "titleZh": "The B Word 比特币大会",
+  "summaryEn": "Musk discusses his views on Bitcoin and reveals that Tesla and SpaceX hold it during The B Word panel with Jack Dorsey and Cathie Wood.",
+  "summaryZh": "在与杰克·多西和凯茜·伍德一同参加 The B Word 论坛期间，马斯克谈论了他对比特币的看法，并透露 Tesla 和 SpaceX 持有比特币。",
+  "sourceUrl": "https://www.youtube.com/watch?v=HmbsThZcPu8",
+  "sourceLabel": "CNET Highlights",
+  "archiveUrl": "https://elonmuskarchive.org/video/the-b-word-bitcoin-conference-2021-07-21",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/HmbsThZcPu8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/HmbsThZcPu8/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 237,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "i've been thinking about only for a long time um and really it's it's like it's best to think of money as an information system uh primarily an information system for labor allocation um and uh for practical purposes it exists in a series of heterogeneous databases they're like very different databases in uh bank mainframes around the world uh it moves quite slowly in reality it may seem to move fast sometimes and it does with paypal which is real time but the vast majority of the systems out there are batch processing so the actual reconciliation may take one to five business days sometimes longer and the you have the ach system which is ancient and still still in operation which is um allows transfers uh effectively like a check would be an ach transfer",
+      "textZh": "我很长时间以来一直只在思考，嗯，实际上，它，它就像是，最好把货币看作一种信息系统，呃，主要是一种用于劳动力分配的信息系统，嗯，而且，呃，就实际用途而言，它存在于一系列异构数据库中，它们就像是世界各地银行大型主机中，呃，非常不同的数据库，呃，实际上它的流转相当缓慢，有时看起来可能很快，使用 PayPal 时确实如此，因为那是实时的，但现有的绝大多数系统都采用批处理，所以实际对账可能需要 1 到 5 个工作日，有时更久，而且你还有 ACH 系统，它非常古老，但仍然仍在运行，它，嗯，允许转账，呃，实际上就像支票会是一笔 ACH 转账"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "transfer but it's it's not secure and you've got the uh credit card systems which are also uh not secure it'll be like handing your username and password to a stranger in a restaurant if you buy a meal so um there's definitely an opportunity for uh something that is uh that is better from an information theory standpoint so um and and and there you can see with like data data on a network i think is the way to view it um what has the the most throughput what has uh the least error lost what drops the fewest packets fraud for example being a source of error and government interference in currencies being a source of error but it's fundamentally an information system so um i think it makes sense to support something that improves the the the quality of",
+      "textZh": "转账，但它，它并不安全，而你还有，呃，信用卡系统，它们也，呃，并不安全，如果你买了一顿饭，这就像把你的用户名和密码交给餐厅里的一个陌生人，所以，嗯，从信息论的角度来看，显然存在一种机会，可以出现某种，呃，某种更好的东西，所以，嗯，而且而且而且，在那里你可以把它看成类似网络上的数据，数据，我认为应该这样看，嗯，什么具有最高的吞吐量，什么的，呃，错误损失最少，什么丢失的数据包最少，例如欺诈就是一种错误来源，政府对货币的干预也是一种错误来源，但它从根本上说是一个信息系统，所以，嗯，我认为支持某种能够改善这种，这种，这种质量的东西是有道理的"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "information with which we conduct the economy um and you know bitcoin is uh a candidate for that uh it is it does i think some things well um and it's obviously it's evolving and there are additional things like lightning being done on top of bitcoin um but but bitcoin per se is mostly solving for uh scarcity um or rather solving for uh essentially um having no throat to choke decentralized uh so there's no one who can be coerced in any way uh to empty their bitcoin account well i guess they could technically buy on an individual basis but the system as a whole cannot um and um and it has an open ledger which is also quite quite good transaction volume is is low uh a transaction transaction cost is high and usability for the average person is not is not",
+      "textZh": "也就是我们用来运行经济的信息的质量，嗯，而且你知道，比特币是，呃，这方面的一个候选方案，呃，我认为它确实，它有些事情做得很好，嗯，而且显然，它正在演进，比特币之上还在开发闪电网络之类的其他东西，嗯，但但比特币本身主要解决的是，呃，稀缺性，嗯，或者更准确地说，是在解决，呃，本质上，嗯，没有可以扼住的咽喉，去中心化，呃，所以没有任何人能以任何方式被胁迫，呃，清空他们的比特币账户，好吧，我想从技术上来说，他们可以按个人为单位购买，但整个系统不能，嗯，而且，嗯，而且它有一本开放式账本，这也相当相当好，交易量很低，呃，交易交易成本很高，而对普通人来说，其易用性并不，并不"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "yet very good but it has a lot of potential and i should say that like i i'm not and i apologize for taking a long time but there's there's certainly a lot to say um in general i'm a supporter of bitcoin um and uh the idea of cryptocurrency in general um uh but as i've said publicly we do need to watch out for uh crypto taking uh especially bitcoin using proof of work to maybe use energy that's maybe but too much uh and and not necessarily good for the environment so um but on balance i support bitcoin and i i and i'm not an investor i don't the only publicly traded stock i own is tesla and the only significant thing i own outside of tesla is is my spacex stock that that um you know could help create both companies so um but apart from that uh i do own",
+      "textZh": "算很好，但它很有潜力，而且我应该说，像是，我，我不是，而且抱歉我讲了这么长时间，但确实确实有很多话可以说，嗯，总的来说，我是比特币的支持者，嗯，而且，呃，也支持广义上的加密货币理念，嗯，呃，但正如我公开说过的，我们确实需要警惕，呃，加密货币使用，呃，尤其是比特币使用工作量证明，可能会使用也许过多的能源，呃，而且而且不一定对环境有利，所以，嗯，但总的来说，我支持比特币，而且我，我，而且我不是投资者，我不，唯一由我持有的上市股票是 Tesla，而除了 Tesla 之外，我唯一持有的重大资产是，是我的 SpaceX 股票，那个，那个，嗯，你知道，可能有助于创建这两家公司，所以，嗯，但除此之外，呃，我确实持有"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "bitcoin uh and tesla owns bitcoin spacex owns bitcoin um and i do personally uh own and go to ethereum and dogecoin of course so",
+      "textZh": "比特币，呃，而且 Tesla 持有比特币，SpaceX 持有比特币，嗯，而且我个人确实，呃，持有并去以太坊，当然还有狗狗币，所以"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T01:44:46.869Z",
+    "reviewedAt": "2026-09-13T02:26:25.336Z"
+  },
+  "fetchedAt": "2026-09-12T07:13:46.941Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=HmbsThZcPu8",
+  "sourceHash": "bdbd3fb91eaba31091c01f5e17747da8bc01afae2f87e97887e85ce55f8e9ff6"
+}

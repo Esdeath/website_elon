@@ -1,0 +1,326 @@
+---
+import { getCollection } from "astro:content";
+import { Search } from "@lucide/astro";
+import ArchiveSearch from "../components/ArchiveSearch.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { TYPE_LABELS } from "../lib/display";
+
+const entries = await getCollection("videos");
+const fallbackRecords = entries.map(({ data }) => ({
+  title: data.titleZh || data.titleEn,
+  summary: data.summaryZh || data.summaryEn,
+  type: TYPE_LABELS[data.type],
+  date: data.date,
+  org: data.org || "",
+  url: `/videos/${data.slug}/`,
+}));
+const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
+---
+
+<BaseLayout title="搜索" description="检索马斯克中文档案中的标题、摘要与正文。" noindex excludeFromSearch>
+  <section class="search-page shell" data-pagefind-ignore>
+    <header>
+      <Search size={28} stroke-width={1.5} aria-hidden="true" />
+      <div>
+        <h1>搜索档案</h1>
+      </div>
+    </header>
+
+    <ArchiveSearch />
+
+    <div class="search-status" aria-live="polite" data-search-status>
+      输入关键词开始搜索
+    </div>
+    <div class="search-results" data-search-results></div>
+    <nav class="search-pagination" aria-label="搜索结果分页" data-search-pagination hidden>
+      <button type="button" data-search-prev>上一页</button>
+      <span data-search-page></span>
+      <button type="button" data-search-next>下一页</button>
+    </nav>
+  </section>
+
+  <script is:inline type="application/json" id="fallback-search-records" set:html={fallbackJson} />
+  <script>
+    interface SearchRecord {
+      title: string;
+      summary: string;
+      type: string;
+      date: string;
+      org: string;
+      url: string;
+      excerpt?: string;
+    }
+
+    const PAGE_SIZE = 20;
+    const form = document.querySelector<HTMLFormElement>(".search-page form[role='search']");
+    const input = form?.querySelector<HTMLInputElement>("input[name='q']");
+    const status = document.querySelector<HTMLElement>("[data-search-status]");
+    const results = document.querySelector<HTMLElement>("[data-search-results]");
+    const pagination = document.querySelector<HTMLElement>("[data-search-pagination]");
+    const prev = document.querySelector<HTMLButtonElement>("[data-search-prev]");
+    const next = document.querySelector<HTMLButtonElement>("[data-search-next]");
+    const pageText = document.querySelector<HTMLElement>("[data-search-page]");
+    const source = document.querySelector<HTMLScriptElement>("#fallback-search-records");
+    const fallback: SearchRecord[] = source?.textContent ? JSON.parse(source.textContent) : [];
+    let currentResults: SearchRecord[] = [];
+    let page = 1;
+    let requestId = 0;
+
+    const createResult = (item: SearchRecord) => {
+      const article = document.createElement("article");
+      const link = document.createElement("a");
+      const title = document.createElement("h2");
+      const meta = document.createElement("p");
+      const excerpt = document.createElement("p");
+
+      link.href = item.url;
+      link.className = "result-link";
+      title.textContent = item.title;
+      meta.className = "result-meta";
+      meta.textContent = [item.date ? formatSearchDate(item.date) : "", item.type, item.org].filter(Boolean).join(" / ");
+      excerpt.className = "result-excerpt";
+      if (item.excerpt) excerpt.innerHTML = item.excerpt;
+      else excerpt.textContent = item.summary || "打开记录查看详细内容。";
+      link.append(title, meta, excerpt);
+      article.append(link);
+      return article;
+    };
+
+    const formatSearchDate = (date: string) => {
+      const value = new Date(`${date}T00:00:00Z`);
+      return Number.isNaN(value.getTime())
+        ? date
+        : new Intl.DateTimeFormat("zh-CN", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" }).format(value);
+    };
+
+    const updateUrl = (query: string) => {
+      const params = new URLSearchParams();
+      if (query) params.set("q", query);
+      if (page > 1) params.set("page", String(page));
+      history.replaceState(null, "", `${location.pathname}${params.size ? `?${params}` : ""}`);
+    };
+
+    const render = (query: string) => {
+      if (!results || !status || !pagination || !prev || !next || !pageText) return;
+      const pages = Math.ceil(currentResults.length / PAGE_SIZE);
+      page = Math.min(Math.max(1, page), Math.max(1, pages));
+      const items = currentResults.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+      results.replaceChildren(...items.map(createResult));
+      status.textContent = query
+        ? currentResults.length > 0 ? `“${query}”找到 ${currentResults.length} 条结果` : `没有找到“${query}”`
+        : "输入关键词开始搜索";
+      pagination.hidden = pages <= 1;
+      prev.disabled = page <= 1;
+      next.disabled = page >= pages;
+      pageText.textContent = `第 ${page} / ${Math.max(1, pages)} 页`;
+      updateUrl(query);
+    };
+
+    const searchFallback = (query: string) => {
+      const terms = query.toLocaleLowerCase("zh-CN").split(/\s+/).filter(Boolean);
+      return fallback.filter((item) => {
+        const haystack = `${item.title} ${item.summary} ${item.type} ${item.org}`.toLocaleLowerCase("zh-CN");
+        return terms.every((term) => haystack.includes(term));
+      });
+    };
+
+    const performSearch = async (query: string, requestedPage = 1) => {
+      const id = ++requestId;
+      page = requestedPage;
+      if (!query) {
+        currentResults = [];
+        render("");
+        return;
+      }
+      if (status) status.textContent = "正在检索…";
+
+      try {
+        const pagefindPath = "/pagefind/pagefind.js";
+        const pagefind = await import(/* @vite-ignore */ pagefindPath);
+        await pagefind.init();
+        const response = await pagefind.search(query, { excerptLength: 34 });
+        const loaded = await Promise.all(response.results.map((result: { data: () => Promise<any> }) => result.data()));
+        if (id !== requestId) return;
+        const terms = query.toLocaleLowerCase("zh-CN").split(/\s+/).filter(Boolean);
+        currentResults = loaded.map((item: any) => {
+          const subResults = item.sub_results || [];
+          const exactSubResult = subResults.find((sub: any) => {
+            const excerpt = String(sub.plain_excerpt || "").toLocaleLowerCase("zh-CN");
+            return terms.every((term) => excerpt.includes(term));
+          });
+          const selected = exactSubResult || subResults[0];
+          const url = selected?.url || item.url;
+          return {
+            title: item.meta?.title || "未命名记录",
+            summary: "",
+            type: item.filters?.type?.[0] || "影像档案",
+            date: item.meta?.date || "",
+            org: item.filters?.org?.[0] || "",
+            url,
+            excerpt: selected?.excerpt || item.excerpt,
+          };
+        });
+      } catch {
+        if (id !== requestId) return;
+        currentResults = searchFallback(query);
+      }
+      render(query);
+    };
+
+    form?.addEventListener("submit", (event) => {
+      event.preventDefault();
+      performSearch(input?.value.trim() || "");
+    });
+    prev?.addEventListener("click", () => {
+      page -= 1;
+      render(input?.value.trim() || "");
+      status?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    next?.addEventListener("click", () => {
+      page += 1;
+      render(input?.value.trim() || "");
+      status?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    window.addEventListener("popstate", () => {
+      const params = new URLSearchParams(location.search);
+      const query = params.get("q") || "";
+      if (input) input.value = query;
+      performSearch(query, Number.parseInt(params.get("page") || "1", 10) || 1);
+    });
+
+    const params = new URLSearchParams(location.search);
+    const initialQuery = params.get("q") || "";
+    if (input) input.value = initialQuery;
+    performSearch(initialQuery, Number.parseInt(params.get("page") || "1", 10) || 1);
+  </script>
+</BaseLayout>
+
+<style>
+  .search-page {
+    max-width: 920px;
+    padding-top: 64px;
+  }
+
+  .search-page > header {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    margin-bottom: 32px;
+  }
+
+  .search-page > header > svg {
+    margin-top: 7px;
+    color: var(--launch);
+  }
+
+  h1 {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 4rem;
+    line-height: 1.15;
+  }
+
+  header p {
+    margin: 8px 0 0;
+    color: var(--muted);
+  }
+
+  .search-status {
+    scroll-margin-top: 20px;
+    margin-top: 36px;
+    padding-block: 14px;
+    border-bottom: 1px solid var(--line-dark);
+    color: var(--muted);
+    font-size: 0.86rem;
+  }
+
+  .search-results :global(article) {
+    border-bottom: 1px solid var(--line);
+  }
+
+  .search-results :global(.result-link) {
+    position: relative;
+    display: block;
+    padding: 26px 0 28px;
+    text-decoration: none;
+  }
+
+  .search-results :global(.result-link:hover h2) {
+    color: var(--launch);
+    text-decoration: underline;
+  }
+
+  .search-results :global(h2) {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 1.28rem;
+    line-height: 1.45;
+  }
+
+  .search-results :global(.result-meta) {
+    margin: 7px 0 12px;
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+
+  .search-results :global(.result-excerpt) {
+    display: -webkit-box;
+    margin: 0;
+    overflow: hidden;
+    color: var(--muted);
+    font-family: var(--serif);
+    font-size: 0.94rem;
+    line-height: 1.8;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+
+  .search-results :global(mark) {
+    padding-inline: 2px;
+    color: var(--ink);
+    background: #f3df9f;
+  }
+
+  .search-pagination {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    margin-top: 28px;
+    border-block: 1px solid var(--line-dark);
+  }
+
+  .search-pagination[hidden] {
+    display: none;
+  }
+
+  .search-pagination button {
+    width: max-content;
+    min-height: 50px;
+    border: 0;
+    background: transparent;
+  }
+
+  .search-pagination button:last-child {
+    justify-self: end;
+  }
+
+  .search-pagination button:disabled {
+    color: var(--line-dark);
+    cursor: not-allowed;
+  }
+
+  .search-pagination span {
+    color: var(--muted);
+    font-size: 0.78rem;
+  }
+
+  @media (max-width: 600px) {
+    .search-page {
+      padding-top: 44px;
+    }
+
+    h1 {
+      font-size: 2.6rem;
+    }
+  }
+</style>

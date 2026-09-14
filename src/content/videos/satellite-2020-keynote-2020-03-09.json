@@ -1,0 +1,275 @@
+{
+  "id": "satellite-2020-keynote-2020-03-09",
+  "slug": "satellite-2020-keynote-2020-03-09",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2020-03-09",
+  "titleEn": "SATELLITE 2020 Keynote",
+  "titleZh": "SATELLITE 2020 主题演讲",
+  "summaryEn": "Musk talks Starlink, Starship, the future of human spaceflight and lowering launch costs in a fireside chat at the SATELLITE 2020 conference.",
+  "summaryZh": "马斯克在 SATELLITE 2020 大会的一场炉边谈话中谈论了星链、星舰、人类太空飞行的未来以及降低发射成本。",
+  "sourceUrl": "https://www.youtube.com/watch?v=HPV8Xp3pEpI",
+  "sourceLabel": "Via Satellite",
+  "archiveUrl": "https://elonmuskarchive.org/video/satellite-2020-keynote-2020-03-09",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/HPV8Xp3pEpI",
+  "thumbnailUrl": "https://i.ytimg.com/vi/HPV8Xp3pEpI/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 2839,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "ladies and gentlemen welcome to our satellite 2020 Opening Day keynote sponsored by max are please take your seats the program is about to begin ladies and gentlemen a message from our session sponsor max R for two decades government and commercial organizations have relied on max our satellite imagery to map monitor and provide earth intelligence at a global scale today max R operates the world's most sophisticated commercial imaging constellation but to help customers keep pace with rapid change around the world we are excited to introduce worldview legion our next-generation high-resolution earth imaging constellation designed and built in-house worldview legion will fly in both Sun synchronous and mid inclination orbits to dramatically increase max",
+      "textZh": "女士们、先生们，欢迎参加由 Maxar 赞助的卫星 2020 开幕日主题演讲，请就座，活动即将开始。女士们、先生们，下面是来自本场会议赞助商 Maxar 的一段信息。20 年来，政府和商业组织一直依靠 Maxar 的卫星影像，在全球范围内进行测绘、监测并提供地球情报。如今，Maxar 运营着世界上最先进的商业成像星座，但为了帮助客户跟上世界各地的快速变化，我们很高兴推出 WorldView Legion，这是我们在内部设计和制造的下一代高分辨率地球成像星座。WorldView Legion 将同时在太阳同步轨道和中倾角轨道上运行，以显著提高 Max"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "ARS revisit over the most rapidly changing regions on earth it will triple our high resolution 30 centimeter coverage and overall imaging capacity allowing max R to capture many areas up to 15 times of a single day this enables max R to better support applications that require current and accurate earth intelligence with frequent updates on changing ground conditions for enhanced monitoring foundational and national security and military operations accurate mapping a key component on the road to autonomous vehicle technology and expedited access to post event coverage critical in the wake of natural disasters with worldview Legion max R is shaping the future of what's possible changing the way we detect understand and address change the next era in earth",
+      "textZh": "ARS 对地球上变化最快地区的重访能力。它将使我们的高分辨率 30 厘米覆盖范围和总体成像能力提高至 3 倍，使 Maxar 能够在一天之内对许多区域拍摄多达 15 次。这使 Maxar 能够更好地支持那些需要及时、准确的地球情报，并频繁更新地面状况变化的应用，包括增强型监测、基础和国家安全及军事行动、精确测绘——这是迈向自动驾驶汽车技术之路上的一个关键组成部分——以及快速获取事件后影像，这在自然灾害发生后至关重要。借助 WorldView Legion，Maxar 正在塑造未来的可能性，改变我们发现、理解和应对变化的方式。地球领域的下一个时代"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "intelligence begins at launch [Music] all right hi everybody welcome to satellite 2020 sorry we got off to a late start DC traffic is a killer but my name is Jeffrey ill I'm conference chair and I'm here with Elon Musk chief engineer and founder of SpaceX Elon thank you so much for being with us thanks thanks for thanks for having me I guess it was a 11 years ago that we met yeah and when we met 11 years ago we were talking about Falcon 1 Falcon 9 at the time and when I asked you what's what's the point of all this you said to send human beings back into space on a u.",
+      "textZh": "情报始于发射。[音乐] 好的，大家好，欢迎来到卫星 2020。很抱歉我们开始晚了，华盛顿特区的交通真要命。我的名字是杰弗里·伊尔，我是大会主席，和我一起的是 SpaceX 首席工程师兼创始人埃隆·马斯克。埃隆，非常感谢你和我们在一起。谢谢，谢谢，谢谢你们邀请我。我想我们是在 11 年前见面的。是的。我们 11 年前见面时，当时谈的是 Falcon 1、Falcon 9；当我问你这一切有什么意义时，你说，要用一枚由美国"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "s. built rocket from a u. s.",
+      "textZh": "制造的火箭，从一个美国"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "built facility so that we could permanently reset all other other planets and here we are we're right on the the brink here of sending humans back into space the the crew dragon is in Cape Canaveral how do you feel that you're on the doorstep here yeah it's great that we're about to launch people to orbit it's been a long time a long road 18 years yeah good kid giving kid giving college right now is it like sending your kid off to college well we haven't done it yet but it's a long time you're packing you're packing the bags you're ready to go can you talk about the talk about the the road from the space shuttle to the crew dragon I can talk about the the what are some of the challenges that you faced in creating a human rated space spacecraft for for",
+      "textZh": "建造的设施把人类送回太空，这样我们就能永久重置所有其他其他行星。现在我们就在这里，我们正处于把人类送回太空的边缘，载人龙飞船就在卡纳维拉尔角。如今已经走到这一步、临近实现，你感觉如何？是的，我们即将把人送入轨道，这很棒。已经很久了，这是一条漫长的道路，18 年了。是啊，好孩子送孩子现在上大学。这就像送你的孩子去上大学吗？嗯，我们还没有做到，但时间很长。你在打包，你在打包行李，你已经准备出发了。你能谈谈从航天飞机到载人龙飞船的这段历程吗？我可以谈谈，这个，你们在为人类载人航天打造一艘达到载人标准的太空航天器时，面临的一些挑战是什么"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "human spaceflight well where are some of the challenges that you encountered along the way well the thing that the thing that concerns me most right now is that unless we improve our rate of innovation dramatically then there is no chance of a base on the moon or a city on Mars no I'll be low yeah this is my biggest concern crew dragon was real we've already taken it to the space station are back your luck people aren't aware of that we just had like basically a dummy you know so and it's us what then we're done massive amount of testing you know pushing all the corner cases and just a truly ridiculous amount of testing it's like definitely had us off to the dragon engineers and supporting team at NASA for going through a truly staggering number of tests",
+      "textZh": "载人航天。嗯，你们一路上遇到的一些挑战是什么？嗯，现在最令我担忧的是，除非我们大幅提高创新速度，否则在月球上建立基地或在火星上建立城市就毫无可能。不，我会很低。是的，这是我最大的担忧。载人龙飞船是真的，我们已经把它送到空间站再返回。你很幸运，人们并不知道这一点，我们只是基本上放了一个假人，你知道。所以，而且是我们什么，然后我们完成了大量测试，你知道，覆盖所有边缘情况，测试量确实荒谬得惊人。这绝对让我们离开，前往龙飞船工程师和 NASA 的支持团队，他们完成了数量确实多得惊人的测试。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "now that now that that said dragon really is just a low Earth orbit transport vehicle it's it's really just it's capable of taking a few people at what is still a very high cost to Earth orbit I technically we could send people around the moon on Dragon but I'm not sure we'd want to it's due to small so it it's good good to get this done but it's I think we need to be very careful of getting stuck in a local maximum and you know the the Space Shuttle was something that was really stuck in a local maximum for a long time and yeah we don't want to be that situation I mean frankly what Y is why does so you still fly I'm a car live is probably turning in his grave right now interesting it's this dream quite it was designed in the 50s yeah right right if you",
+      "textZh": "话虽如此，龙飞船实际上只是一种近地轨道运输工具。它真的只是，它能够把几个人送入地球轨道，而成本仍然非常高。从技术上说，我们可以用龙飞船载人绕月飞行，但我不确定我们是否愿意，因为它太小了。所以，完成这件事很好，但我认为我们需要非常小心，不要陷入局部最大值。你知道，航天飞机就是一种长期深陷局部最大值的东西。是的，我们不想处于那种境地。我的意思是，坦率地说，为什么 Y，为什么“所以你”仍然飞。我是一辆活着的汽车，现在可能正在他的坟墓里翻身。有意思，这是这个梦想，相当，它是 50 年代设计的。对，对，如果你"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "told I'm gonna just old car live on the other guys that that still reversibly flank Sawyer's in 2020 they'd be like that's crazy yeah we are so we don't want to be that situation you know just solid vehicle it's just like it's time to move on right right and so we you know I know we started late I sourced a lot of these questions from that from the public in the audience we're also going to do a Q&A here so I'm just gonna jump right into the questions that we received so I mean the most popular question we got was like what are the greatest challenges are the biggest challenges we face expanding our presence in space and exploring and eventually resettling new worlds there's really just one thing that matters that is a fully and rapidly reusable rocket",
+      "textZh": "告诉，我只是告诉老卡尔·利夫和其他那些人，那些在 2020 年仍然可逆地侧翼索耶的人，他们会说那太疯狂了。是的，我们，所以我们不想处于那种境地。你知道，只是坚固的飞行器，就是该继续前进了。对，对。所以我们，你知道，我知道我们开始晚了。我从公众和现场观众那里征集了很多这些问题。我们在这里也会进行问答，所以我就直接进入我们收到的问题。我的意思是，我们收到的最热门问题是：我们在扩大太空中的存在、开展探索并最终到新世界重新定居时，面临的最大挑战是什么？真正重要的只有一件事，那就是一枚完全且可快速重复使用的火箭。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "that that's the one thing that matters and it needs to be reasonably big or your payload to non payload ratio will be kind of whacked you know what would be good so just like you wouldn't want a super tanker growing it like you know container ships you have a container ship with thousands of containers you don't you know have like a bunch of tiny ships with little out ports on them cruising across the Pacific that would be silly so you have big ships when you want to go long distances with the Cirrus cargo so we need a fairly big but definitely rapidly and completely reusable rocket this is the fundamental thing without that we're nowhere and what level of reusability is SpaceX actively pursuing for for Falcon 9 for Dragon for starship I think Falcon",
+      "textZh": "那就是唯一重要的事情，而且它需要相当大，否则你的有效载荷与非有效载荷之比会有点失衡，你知道，那可不太好。就像你不会想要一艘超级油轮长得像，你知道，集装箱船里装着数千个集装箱；你不会，你知道，弄一堆带着小型外置港口的小船横渡太平洋，那会很愚蠢。所以，当你想带着大量货物进行长距离航行时，就会使用大船。因此，我们需要一枚相当大、但肯定能快速且完全重复使用的火箭。这是根本，没有它我们就无处可去。SpaceX 正在为 Falcon 9、龙飞船、星舰积极追求什么程度的可重复使用性？我认为 Falcon"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "diner dragon have the there are asymptoting that their their tech their technology architectures asymptoting meaning like it it really would not make sense to have a block six Falcon nine you know from where we are right now it just doesn't make sense that's why we have a big focus in terms of new technology development on starship for Falcon and Falcon and Dragon are kind of like operational vehicles at this point so they're that they're good products they're operational but but there's not really we need to hold in your architecture and that's what starship is about and social needs to be fully and completely reusable and rapidly so I mean it's it's being designed for about you know TV really want relaunched an hour after landing with with zero nominal",
+      "textZh": "餐厅龙飞船已经，它们正在渐近，它们的，它们的技术、它们的技术架构正在渐近。意思是，从我们现在所处的位置来看，推出 Block 6 Falcon 9 确实没有意义，你知道，这就是为什么在新技术开发方面，我们把重点放在星舰上。对于 Falcon，Falcon 和龙飞船目前算是运营飞行器。所以它们，它们是好产品，已经投入运营，但但实际上没有，我们需要在你的架构中保持，而这正是星舰要做的。星舰需要能够完全、彻底且快速地重复使用。我的意思是，它的设计目标是，大约，你知道，电视真的希望在着陆 1 小时后再次发射，并且名义上零"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "work like it is you could have scheduled maintenance you or you could have like something like a spork issue just like commercial aircraft but you're expected the only thing you expect to change on a regular basis is propellant and it's got to be fast so yeah now that for the ship you gonna wait unless you're launching due east from the equator you better have figure out some way to get get those the ship overall ground track to pass over the landing site otherwise you're too far away so the ship maybe it might take you know three orbit four orbits maybe to get back over the the launch site but it but I think we want to aim for a capability of three flights a day for the show most of which is taken up with getting the orbital you know a ground track to",
+      "textZh": "工作。比如，你可以安排定期维护，你或者可能遇到像叉勺一样的问题，就像商业飞机一样，但预计唯一需要定期更换的东西就是推进剂，而且必须要快。是的，现在对于飞船，你必须等待，除非你从赤道向正东发射，否则你最好想办法让飞船的整体地面轨迹经过着陆场，不然你就离得太远了。所以飞船也许可能需要，你知道，绕行 3 圈、4 圈，才能重新经过发射场。但我认为我们的目标应该是让飞船具备每天飞行 3 次的能力，其中大部分时间都花在让轨道，你知道，地面轨迹"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "come over the launch site and then an hour for everything else and you know everybody's interested in in the the mission to Mars planetary resettlement I'm talking about reusability for the launch vehicle what are your thoughts on in space resource utilization for example water oxygen soil from the moon perhaps may be the go to Mars do you have any plans to utilize resources in space for the mission to Mars nope I mean apart from orbital refilling I think that's very important so you better so there's one exit besides it fully in review fully under Africa rapidly reusable rocket you need to also have orbital refilling or retaking that's got to be that's fundamental because then you can essentially recoup all of your mass fraction Delta be in Earth orbit",
+      "textZh": "经过发射场，然后其他一切用 1 小时。你知道，所有人都对火星任务、行星重新定居感兴趣。我说的是运载火箭的可重复使用性。你对利用太空资源有什么看法，例如来自月球的水、氧气、土壤，也许可能是去火星？你是否有任何计划为火星任务利用太空中的资源？没有。我的意思是，除了轨道补加燃料，我认为那非常重要。所以你最好，所以除了一枚完全处于审查、完全处于非洲、可快速重复使用的火箭之外，还有一个出口，你还需要轨道补加燃料或重新获取。这必须做到，这是根本，因为这样你基本上可以在地球轨道上挽回全部质量分数 Delta be。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "you can leave with full tanks and it could be from immediate low Earth orbit or you know something that's maybe elliptical or something like that if you want to go higher energy but that's that's crucial for getting to to Mars the moon is neither here nor there I mean the using the moon would be like okay if you want to cross the Atlantic maybe you want to go to Iceland probably know that you know but you know to visit sure but you know it's not like a mandatory Saab so and also for the mission to Mars what advancements we talk a lot about hardware and physics problems and then what about advancements in software you know reason I bring this up and recently are you familiar with the game designer Jonathan Blow he referenced you in a keynote he was given",
+      "textZh": "你可以加满燃料离开，它可以来自近地轨道的直接位置，或者你知道，也许是椭圆轨道之类的，如果你想达到更高能量的话，但那对于抵达火星至关重要。月球既不在这里也不在那里。我的意思是，利用月球就像，好吧，如果你想横渡大西洋，也许你会想去冰岛，可能知道那个，你知道，但你知道，去参观当然可以，但你知道，它并不是一个强制性的萨博。所以，另外对于火星任务，我们在进展方面，我们谈了很多硬件和物理问题，那么软件方面的进展呢？你知道，我之所以提起这个，最近你熟悉游戏设计师乔纳森·布洛吗？他在一次自己所作的主题演讲中提到了你。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "and he said that you you had talked about technology naturally because skills naturally fade and one of the things he identified was a decay in software degredation in software is this something we have to address in doing something like going to Mars and since all of the stuff runs on software well software is an increasing part of any piece of technology I mean Tesla the car is extremely configurable it's basically like a laptop on wheels so software matters enormously there and really for example for full autonomy the only gating factor is software the hardware is all there that's required it has been for last couple years what well the final piece of hardware was upgrading the computer it's have more compute power so software is extremely important",
+      "textZh": "他说，你，你曾谈到技术自然地，因为技能会自然消退，而他指出的事情之一是软件中的衰退，软件中的退化。这是我们在做诸如前往火星这样的事情时必须处理的问题吗？既然所有这些东西都依靠软件运行。嗯，软件在任何技术产品中所占的部分都越来越大。我的意思是，Tesla 汽车的可配置程度极高，它基本上就像一台装了轮子的笔记本电脑。因此软件在那里极其重要。实际上，例如对于完全自动驾驶，唯一的限制因素就是软件。所需的硬件已经全部到位，过去几年一直如此。嗯，最后一块硬件是升级计算机，让它拥有更强的算力。所以软件极其重要。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "the point you're relating to which is that you know I was referring to is technology does not automatically improve right people are used to the phone being better every year oh and I mean an iPhone user but I think like some of the recent software updates have been like not great certainly feeding into that point like broke my email system we put the like quite fundamental so yeah there sure is a lot of software out there and some of its like the people that wrote it are retired or maybe dad you know so like now how do you fix it it's gonna be an issue and we're definitely a lot more smart people work in software and not just troubleshooting old problems no just troubleshooting old problems it's actually very important to retire old code bases and and",
+      "textZh": "你所说的那个观点，也就是你知道，我当时所指的是，技术不会自动进步，对吧。人们习惯了手机每年都会变得更好。哦，而且我的意思是，我是 iPhone 用户，但我觉得最近的一些软件更新就，没那么好，当然印证了那个观点，比如弄坏了我的电子邮件系统，我们把这个，比如相当根本性的。所以，是的，外面肯定有很多软件，其中一些，比如编写它的人已经退休了，或者也许是爸爸，你知道。所以，比如现在你要怎么修复它？这会成为一个问题，而且我们肯定有更多聪明人在软件领域工作，而不只是排查旧问题。不，只是排查旧问题。淘汰旧代码库实际上非常重要，并且，并且"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "not just maintain them forever because the the difficulty of maintaining them becomes extremely high and it's one point you just got to redo the code base so we'll come back to the Mars mission because I know we've got some audience questions on that we're at a satellite conference so I'm gonna ask you some questions about satellites StarLink what's the long-term vision for StarLink how do you see the role of star link as it relates to mobile broadband and 5g sure so I mean the whole purpose of SpaceX is really to help make life multiplanetary and then but the revenue potential of launching rocket launching satellites serves in Space Station why not that's you know type taps out around three billion dollars a year but I think providing broadband is is",
+      "textZh": "而不是永远维护它们，因为维护它们的、其难度会变得极高，到某个时候你就只能重做代码库，所以我们稍后会回到火星任务，因为我知道我们有一些关于这方面的观众提问，我们是在一场卫星会议上，所以我要问你一些关于卫星的问题，星链的长期愿景是什么，你如何看待星链在移动宽带和5G方面的作用，当然，所以我的意思是，SpaceX的全部目的其实是帮助让生命成为多行星的，然后、但是发射火箭、发射卫星、为空间站提供服务所带来的收入潜力，为什么不呢，那是，你知道，大约在每年30亿美元处见顶，但我认为提供宽带是、是"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "more like an order of magnitude more than that probably thirty billion a year as a rough approximation and we're still like probably below 5% at that point so it's not like I want to be clear like so I'm like stalling I guess I'm a huge threat to telcos I want to be super clear it is not in fact it will be helpful to telcos because start like what will serve the hardest to serve customers that telcos otherwise have trouble doing with with landlines or even with with cell radio stations with itself cell towers 5g is is great for high-density situations like being here in DC or you know New York temperatures call that kind of thing 5g is great for high-density situations but it's actually not great for the the countryside you know for rural areas it's it's",
+      "textZh": "更像是比那高一个数量级，粗略估计可能是每年300亿美元，而到那时我们可能仍低于5%，所以并不是，我想说清楚，比如，所以我好像是在拖延，我猜我是电信公司的巨大威胁，我想说得非常清楚，事实上并不是，相反这会对电信公司有帮助，因为星链将服务最难服务的客户，否则电信公司很难用、用固定线路，甚至用、用蜂窝无线电台，用它本身的蜂窝塔为他们提供服务，5G非常适合高密度情境，比如这里的华盛顿特区，或者，你知道，纽约的温度称之为那种事情，5G非常适合高密度情境，但实际上并不适合、适合乡村，你知道，适合农村地区，它、它"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "not it's not great you need you need range and so in any any kind of sparse environment 5 G's is really not not well-suited but it's great great for in it for for City Denton City situations so StarLink will effectively serve the I don't know three or four percent hardest to reach customers for telcos or people who simply have no connectivity right now or the connectivity is really bad so I think it will be actually helpful and take a significant load off the traditional telcos and I was I was gonna ask you what customers you know were ideally suited for StarLink but I guess since you mentioned that it would be it would be these three to four percent at the very like that at the very edge what is the customer experience like then for those people and",
+      "textZh": "不好、它并不好，你需要、你需要覆盖距离，因此在任何、任何类型的稀疏环境中，5G确实非常、非常不适合，但它非常、非常适合在、适合城市登顿城市情境，所以星链实际上将服务于那些，我不知道，对电信公司而言最难触达的3%或4%的客户，或那些现在根本没有连接的人，或连接确实很差的人，所以我认为它实际上会有所帮助，并显著减轻传统电信公司的负担，而我、我正要问你哪些客户，你知道，最适合星链，但我想既然你提到那会是、会是这3%到4%，处于最、像是最边缘的那些客户，那么这些人的客户体验是什么样的，以及"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "what's the cost of acquiring the services well it will be attributed good experience because it'll be very low latency and we're targeting latency below 20 milliseconds so somebody could could play a fast response video game at a competitive level like that's the threshold for the latency so then and bam bandwidth the bandwidth is a very complex question but let's just say somebody will be able to watch high-def movies play it play video games and do all the things they want to do without noticing speed right and then the challenge for anything that is space based is that the the size of the cell is gigantic so it's like said it's great for for very low - maybe maybe mediums sort of sparsity situations but it's not it's not good for high density situations",
+      "textZh": "获得服务的成本是多少，嗯，这会被归因于良好的体验，因为延迟会非常低，而我们的目标是将延迟控制在20毫秒以下，所以有人可以、可以以竞技水平玩一款要求快速响应的电子游戏，就像那是延迟的门槛，所以然后，还有砰带宽，带宽是一个非常复杂的问题，但我们姑且说，有人将能够观看高清电影、玩、玩电子游戏，并做他们想做的一切，而不会注意到速度，对吧，然后任何基于太空的东西所面临的挑战是，小区的、其面积极其巨大，所以就像所说的，它很适合、适合非常低的——也许、也许中等的某种稀疏度情境，但它并不、并不适合高密度情境"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "they will have some small number of customers in LA but we can't do a lot of customers in LA because the bandwidth per cell is simply not high enough what is what is the equipment on the ground look like for this what the ground equipment just looks like well I think it's like sizing it looks like a little you it looks like a UFO on a stake so the at least the version one of the uses terminal will actually have actuators on it so then it can it can improve the pointing accuracy so you don't have to it's very important that you don't need a specialist ourself to install the goal is that this the instructions in the box will there's just two instructions and they can be done in either order a point at sky plug in you do it either order see you it doesn't",
+      "textZh": "他们会在洛杉矶有少量客户，但我们不能在洛杉矶有大量客户，因为每个小区的带宽根本不够高。什么是、什么是用于这个的地面设备长什么样？地面设备看起来就是，嗯，我觉得它像尺寸，它看起来像桩子上的一个小型 UFO。所以至少第1版用户终端实际上会装有执行器，这样它就能、它就能提高指向精度，所以你不必。你不需要我们自己的一名专家来安装，这一点非常重要。目标是，这、盒子里的说明会、只有2条说明，而且可以按任意顺序完成：指向天空，插上电源。你按任意顺序做。再见，它并不"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "matter and it will work plug and play literally but also point of sky was I can't see the satellites you can't see the satellites you can't see you just wanted to talk about just some of the design concerns that were raised by astronomers you can talk about a little bit about how you working maybe working with astronomers to alleviate these concerns or are you working on the designer altering it or are the concerns overblown I mean how do you feel about what has been raised I I am confident that we will not cause any impact whatsoever in astronomical discoveries zero that's my prediction we'll take corrective action if it's above zero so you're not giving like Orion a hat or anything like things no I mean this there's a so much people get a little excited",
+      "textZh": "重要，而且它会工作，真正的即插即用，但同样指向天空是、我看不到卫星，你看不到卫星，你看不到，你只是想谈一谈天文学家提出的一些设计担忧，你可以稍微谈谈你如何与天文学家合作、也许正在合作，以缓解这些担忧吗，或者你们正在改动设计吗，还是这些担忧被夸大了，我的意思是，你如何看待已经提出的问题，我、我确信我们不会对任何天文发现造成任何影响，零，这是我的预测，如果高于零，我们会采取纠正措施，所以你不会给，比如，猎户座戴上一顶帽子或诸如此类的东西，不会，我的意思是，这里有一个、如此之多，人们有点激动"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "because when when the satellites are first launched that they're they're tumbling a little bit so they're like they're kind of like they're gonna blink and because they haven't stabilized and then and they're they're raising their orbit so they're they're lower than you'd expect and they're kind of necessarily gonna reflect in ways that it's not the case when they're on orbit but now the other the satellites are on orbit I'll be impressed if if somebody can actually tell me where where all of them are I've not met someone who can tell me where all of them are not even one person yes thing so that I mean it can't be that big of a deal but we are taped there we are actually working with here members of the the the science community and antenor astronomers",
+      "textZh": "因为当卫星刚发射时，它们会有点翻滚，所以它们就像是、有点像是会闪烁，因为它们还没有稳定下来，然后、然后它们正在提升轨道，所以它们比你预期的更低，并且必然会以某些方式反射，而当它们进入轨道后就不是这种情况了。但现在其他卫星已经在轨道上了，如果真有人能告诉我它们全都在哪里，我会印象深刻。我还没遇到过能告诉我它们全都在哪里的人，连1个人都没有。是的，事情就是这样。所以我的意思是，这不可能是多大的问题，但我们被录下来了，我们实际上正在与这里的科学界成员以及安特诺天文学家合作"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "to minimize the potential for reflection of the satellites so you know we're and we're running a bunch of experiments too for example just have a paint the phase array antenna black instead of white and we're working on a a sunshade because that there there was like certain angles where if a Sun gets you know just sort of just right and there's not like a little sunshade we're not talking about a lot here then you can get a reflection and so we were launching sunshade changing the color of the satellites and otherwise minimizing the the potential for any impact even like a at least aesthetically this issue should not be an impact I think recently when Shotwell and Bloomberg was quoted as saying that you know you were exploring splitting StarLink from",
+      "textZh": "以尽量减少卫星发生反射的可能性。所以你知道，我们还在开展一系列实验，比如把相控阵天线涂成黑色而不是白色，而且我们正在研究一个遮阳罩，因为在某些角度，如果太阳照射得，你知道，正好恰到好处，而那里又没有一个小遮阳罩，我们说的并不是什么很大的东西，那么就可能产生反射。所以我们将发射遮阳罩，改变卫星的颜色，并通过其他方式尽量减少造成任何影响的可能性。即使至少从美观角度来说，这个问题也应该不会产生影响。我想最近肖特韦尔在彭博社被引述说，你知道，你们正在探索把星链从"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "SpaceX could you talk a little bit about that why that would happen and how you see both of these independent companies functioning and just talk a little bit about that you were thinking about that zero was that we're thinking about that what zero zero zero not thinking about it at all we need to make the thing work it's it's far from obvious that I mean it's real important to just set the stage here for leoch communications constellations guess how many Leo constellations didn't go bankrupt zero alright zero it iridium is doing okay now but the iridium one went bankrupt Volcom went bankrupt Globalstar bankrupt Teledesic bankrupt I'm believing it without this bunch of others that didn't get very far they also went bankrupt anyway the word bankrupt so",
+      "textZh": "从 SpaceX 拆分出去，你能稍微谈谈为什么会发生这种事、你认为这2家独立公司将如何运作吗？就稍微谈谈你们在考虑这件事。0，我们对这件事的考虑程度是0。什么，0，0，0，完全没有考虑。我们需要让这东西运转起来。它远非显而易见，我的意思是，这里非常重要的一点是先说明利奥奇通信星座的背景。猜猜有多少个 Leo 星座没有破产？0。好吧，0。铱星现在经营得还行，但铱星1破产了，Volcom 破产了，Globalstar 破产了，Teledesic 破产了。我相信它没有这一批其他没有走多远的项目，它们也破产了。总之，破产这个词，所以"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "you're focusing on making it work first not bankrupt right I'm not gonna there's a big that'd be a big staff have like more than zero and then not bankrupt category how would you I mean with how does it work then with the the business of SpaceX since you're like I mean you are launching other constellations is that is that a an issue does that cause like a conflict or we're launching out the constellations oh you're launching other satellites that's right oh yeah sure whatever yet no problem of course so there's no like you know even if I can have a good deal of it like no problem you know I won't just constellation on SpaceX sound good to me so I mean I think that you know I think there's there's the world seems to have an insatiable appetite for bandwidth",
+      "textZh": "你们首先专注于让它运转起来，不破产。对，我不会。有一个大的，那会是一个庞大的员工队伍，拥有类似超过0，然后是不破产类别。那么你会如何，我的意思是，这和 SpaceX 的业务如何配合，因为你们，比如说，我的意思是，你们还在发射其他星座，这会是个问题吗？会不会造成某种冲突，或者——我们在发射其他星座。哦，你们在发射其他卫星，没错。哦，是的，当然，随便，还没有问题，当然。所以不存在那种，你知道，即使我能从中得到一笔不错的交易，比如，没问题，你知道，我不会只、SpaceX 上的星座，对我来说听起来不错。所以我的意思是，我认为，你知道，我认为世界似乎对带宽有着永不满足的需求"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "so we're certainly happy just launched other satellites and you know we don't think star link is gonna destroy all other satellites or something like that or definitely not all right yeah we were just wanting to be in the not bankrupt category that's a goal since you're since you're now the company of SpaceX now you know you're you're building you're launching satellites are you are you looking at expanding the business of SpaceX into other areas of commercial satellite connectivity maybe like we talked a little bit about the you know you're already building like technology on the ground are there other areas that you're looking to get into in terms of commercial space connectivity or satellite services no we really there's just this two major new technology",
+      "textZh": "所以我们当然很乐意就是发射其他卫星，而且你知道，我们不认为星链会摧毁所有其他卫星或诸如此类的东西，肯定不会。好的，是的，我们只想进入没有破产的类别，那就是目标。既然你们现在，既然你们现在是 SpaceX 这家公司，你知道，你们在制造、在发射卫星，你们是否考虑把 SpaceX 的业务扩展到商业卫星连接的其他领域？也许就像我们稍微谈到的，你知道，你们已经在建造地面技术，那么在商业太空连接或卫星服务方面，你们还考虑进入其他领域吗？没有，我们确实只有这2个主要的新技术"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "programs at SpaceX that's StarLink and starship well like it's kinda has star in the name of a team we were just cool like Lincoln ship if you divide the one by the other it stars net outs and then was just making sure that's it cause I know anyway it would be some secret project that's so secret I even I don't know about it you don't have a business under the chairs I don't think there's anything major so I want to I want to give time for the people in the audience to ask some questions but you know we talked about starship so development at Boca Chica is moving on pretty quickly and yeah actually that was a real reason as ladies because I was at Boca Chica my apologies I was just working on starship with the team there so it's pretty cool out there",
+      "textZh": "SpaceX 的项目，那就是星链和星舰。嗯，就像是，它有点在一个团队的名字里有 star。我们当时只是很酷，像林肯船。如果你用1个除以另1个，星星就会净抵消。然后只是确认就是这样，因为我知道，不管怎样，那会是某个秘密到连我都不知道的秘密项目。你们椅子底下没有业务。我认为没有什么重大的。所以我想、我想留出时间让现场观众提问，但你知道，我们谈到了星舰，所以博卡奇卡的开发进展得相当快。而且，是的，其实那是我作为女士们迟到的真正原因，因为我当时在博卡奇卡。抱歉，我刚才在和那里的团队一起研究星舰，所以那里非常酷"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "actually I like you tell us a little bit about the work that's underway what we can expect in the future for for starship well we're building a production line for production line is the hard part you're making one of something it is well at this point you know like frankly designing rockets is not that hard especially if it's an expandable rocket just not really a hard problem you could literally read books they'll tell you exactly how to do it the hard part is now actually building that thing even once is hard I mean building a production line is a thousand percent harder like at least a thousand percent harder yeah maybe more so just in general production and manufacturing is underappreciated I think especially in the u.",
+      "textZh": "其实我想让你稍微告诉我们正在进行的工作，以及我们未来可以对星舰期待什么。嗯，我们正在建设一条生产线。生产线是困难的部分。你正在制造某种东西中的1个，它是，嗯，在这一点上，你知道，坦率地说，设计火箭并没有那么难，尤其是如果它是一枚可扩展火箭。只是真的不是什么难题。你完全可以读书，它们会准确告诉你怎么做。困难的部分是现在真正制造那个东西，哪怕只制造1次也很难。我的意思是，建设一条生产线要难1000%，比如至少难1000%。是的，也许更多。所以总的来说，生产和制造没有得到足够重视，我认为尤其是在 U。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "s.",
+      "textZh": "s。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "frankly so we should really pay a lot more attention and care a lot more about manufacturing losses yeah this is an honest day's work let me tell you so what inspired some of the design aesthetics of the space craft and stainless steel it's a it's a striking design first first base graphic what would inspire your vision for the way it looks wave functions like Y stainless steel why well we were going to make it out of advanced composites and the advanced composites that cost like $60 a pound over 60 dollars a kilogram like a little more than that maybe 130 dollars a pound and there was 60 to 120 plies before the the tank it was taking forever you weren't making good progress cost crazy money and I was like okay switching to aluminum lithium is also a",
+      "textZh": "坦率地说。所以我们真的应该更加关注制造损失，也更加在意它。是的，让我告诉你，这可是老老实实干一天的活。那么，航天器的一些设计美学和不锈钢是受什么启发的？这是一个醒目的设计。首先，首先是基本图形，是什么启发了你对其外观的构想？波函数，比如 Y、不锈钢，为什么？嗯，我们原本打算用先进复合材料制造它，而先进复合材料的成本大约是每磅60美元，每公斤超过60美元，可能还要多一点，也许每磅130美元，而且储箱之前有60至120层。它耗时太久了。你们没有取得良好进展，成本高得离谱，于是我就说，好吧，改用铝锂合金也是一种"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "pain in the neck we do that that's what we used for the Falcon 9 tanks because it's hard to world because of the reactivity of the lithium so you know what's easy to weld steel Steel's really easy to world and stainless steel doesn't even require paint that sounds great because the paint shops are paying the neck and you want to try painting something that's got a go to drop to cryogenic temperatures and then band a lot it's like forget it I mean that paint wants to come off like there's no tomorrow it does not like to stake so then you could use special paint and then the special paint also can't you get like when you're going vertically at like supersonic you get the basically static electricity build-up quote Triborough electrification although it",
+      "textZh": "很麻烦，我们就是那么做的，那就是我们给猎鹰9号贮箱用的东西，因为锂的反应性，所以它很难世界，你知道什么容易焊接吗，钢。钢真的很容易世界，而且不锈钢甚至不需要油漆，这听起来很棒，因为喷漆车间很让人脖子疼，而且你要试着给一个必须降到低温温度、然后还要弯曲很多的东西喷漆，那还是算了吧。我的意思是，那层油漆像明天不存在了一样想脱落，它不喜欢附着。所以你可以用特种油漆，然后这种特种油漆也不能，你会遇到，比如当你以超音速垂直飞行时，基本上会积聚静电，所谓的特里伯勒电气化，尽管它"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "reminds me the trouble of troubles but you can basically zap yourself if you have paint that the wrong paint yeah so it was no paint is great yeah because we need a big friggin big-ass paint shop for starship yeah well that's problems I think one less problem and then paint doesn't weigh zero you know they these to paint the the shuttle external tank white didn't like like well we're adding a lot of weight to this thing and it's big pain in the neck so we'll leave just have it stay orange so just not painting it's great so then you know and we're not the first to use steel like they used 301 in the early atlas program Charlie Bossert I think it was you know think was his idea obviously other people involved but Charlie busted by the way that guy's underappreciated",
+      "textZh": "让我想起麻烦中的麻烦，但如果你用的油漆是错误的油漆，你基本上可能会电到自己，是的，所以没有油漆很棒，是的，因为我们需要一个给星舰用的巨大得要命的大型喷漆车间，是的，好吧，那是问题，我想少了一个问题，而且油漆的重量不是0，你知道，他们这些把航天飞机的外部燃料箱漆成白色，不喜欢，就像，好吧，我们给这东西增加了很多重量，而且这很让人脖子疼，所以我们就让它保持橙色吧，所以不喷漆很棒。然后你知道，我们并不是第一个使用钢的，他们在早期的阿特拉斯计划中使用了301，查理·博瑟特，我想是他，你知道，我想这是他的主意，显然还有其他人参与，但顺便说一句，查理搞砸了，那家伙被低估了。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "he kicks ass it's really great to read about his stuff he's awesome so he's 301 so obviously it's not a new alloy I think we're gonna start switching to a different alloy pretty soon and then just treat the alloy constituents because we should be able to better in 2020 then they were they didn't like the 50s you know so I mean come on so I think we'll probably start switching away from 301 maybe the next month or two now the funny thing is that like I actually knew that steel especially 301 full hard steel couldn't be that heavy because the original Atlas had a very good mass fraction right so it can't be that wrong with that and if you look at the normal normal sort of standard material sheet for a 301 it will usually not tell you what that it work hardens",
+      "textZh": "他太厉害了，读他的那些东西真的很棒，他非常棒，所以他是301，所以显然这不是一种新合金。我想我们很快就会开始改用另一种合金，然后只处理合金成分，因为我们在2020年应该能够做得比他们做得更好，他们不喜欢50年代，你知道，所以我的意思是，拜托。所以我认为我们可能会开始放弃301，也许就在接下来1个月或2个月。现在有趣的是，比如我其实知道钢，尤其是301全硬钢，不可能那么重，因为最初的阿特拉斯有非常好的质量分数，对吧，所以用它不可能错得那么离谱，而且如果你查看301的一般、一般那种标准材料表，它通常不会告诉你它会加工硬化。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "dramatically and improves the strength dramatically with work hardening and also at cryogenic temperatures it improves strength dramatically so then the if you combine the work hardening with the the cryo strength improvement you get an effective strength to weight that is about the same as advanced composite now if you will generally make a mistake with composites because they'll look at the material sheet and not realize that okay with composites you could have a big knockdown because you basically have composite saw string and glue and so you and and you can't just like have like let's say your problem cause for having for pliers of carbon you can't just have four players you need like five or six because in case you damaged one or something like that",
+      "textZh": "会显著硬化，而且加工硬化会显著提高强度，在低温温度下，它的强度也会显著提高。所以，如果把加工硬化与低温强度提升结合起来，你得到的有效比强度就和先进复合材料大致相同。现在，对于复合材料，你通常会犯错，因为他们会看材料表，却没有意识到，好吧，复合材料可能会有很大的折减，因为你基本上有复合材料锯弦和胶水，所以你，而且你不能只是，比如说，假设你的问题要求使用4把碳钳子，你不能只用4名选手，你需要大概5名或6名，因为万一你损坏了其中1名或者发生类似情况。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "and you say what's your worst case allowable for a D bond or something like that so the actual knockdown you end up taking pro composites is more than you would for a metal structure so people often so it's like a classic movie mistake is to overrate carbon fiber because you just you look at the material datasheet and it looks like an obvious move but it's not so area so at cryogenic temperatures the steel is has a de facto strength weight about the same as advanced composite but that doesn't not even counting the fact that you have to paint the composite don't paint this deal then there's a another factor which is if you want to have a reusable vehicle it's gonna get hot composites don't like getting hot so you're typically your your composite maybe",
+      "textZh": "而且你会问，对于D粘接或类似情况，你最坏情况下的允许值是多少，所以你最终对复合材料采用的实际折减幅度，会大于对金属结构采用的折减幅度。所以人们经常，所以这就像一个典型的电影错误，也就是高估碳纤维，因为你只是，你看了材料数据表，它看起来像是一个显而易见的选择，但事实并非如此。所以区域，所以在低温温度下，钢事实上具有与先进复合材料大致相同的比强度，但这甚至还没有计入你必须给复合材料喷漆，不要给这笔交易喷漆。然后还有另一个因素，那就是如果你想要一款可重复使用的飞行器，它会变热，复合材料不喜欢变热，所以通常你的，你的复合材料也许"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "is comfortable up to around 150 200 Celsius something like that you know and things start getting pretty sketchy around 250 C but I mean like you start having to use advanced resins and all that kind of thing so whereas Steel's pretty happy at a thousand see you know no pain no problem with by 500 considered fibre at sea all day and brief periods of a thousand sino ROM so then for a reasonable vehicle you now need zero heat shielding on the leeward side normally you beat some heat shielding just Souter due to radiative heating on the back so you don't have a lot of convective heating at hypersonic we do have radiative heating and then you can thin out the windward side of the the heat shield because the thickness of the of the heat shield tile is driven",
+      "textZh": "在大约 150、200 摄氏度之前都还可以，差不多就是这样，你知道，到了大约 250 C，事情就开始变得相当棘手了。但我的意思是，你开始不得不使用高级树脂之类的东西，而钢在 1000 C 时还挺自在，你知道，不痛不痒，没问题，在 500，碳纤维在 C 下整天，以及 1000 的短暂时段，sino ROM。所以对于一个合理的飞行器，现在背风侧完全不需要隔热层。通常背面只需要一些隔热层，因为有辐射加热。所以在高超音速状态下不会有很多对流加热，我们确实有辐射加热。然后你可以把迎风侧的隔热罩做薄，因为隔热瓦的厚度是由……决定的"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "by the temperature on the backside of the tile where it mounts the primary structure so if your primary structure can take a high heat that means you can thin out the tile so think of it like these like like oven mitts or something you know if you have like how hot can your hand go and that assets how thick your oven mitt is right so then you can have like I said no no no he chilled on the leeward side on it and then heat shield on the windward side so now your actual total mass of a steel a reasonable Steel's a spacecraft is less than that of the most advanced carbon fiber vehicle you could possibly imagine yeah Wow but this is happen by accident by the way it may sound like some great insight but it actually happened because we're moving too slowly",
+      "textZh": "取决于隔热瓦背面、也就是它安装在主结构上的位置的温度。所以，如果你的主结构能够承受高温，那就意味着你可以把隔热瓦做薄。所以可以把它想成这些、像、像烤箱手套之类的东西，你知道，如果你考虑你的手能承受多高的温度，那就决定了烤箱手套有多厚，对吧。所以，就像我说的，不、不、不，他在它的背风侧冷却，然后在迎风侧装隔热层。这样一来，一艘合理的钢制航天器的实际总质量，就会低于你所能想象的最先进的碳纤维飞行器。对。哇。不过顺便说一句，这是偶然发生的。听起来也许像是什么了不起的洞见，但它实际上之所以发生，是因为我们推进得太慢了"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "on composite and I was like we cannot move this slowly or we'll go bankrupt so that's good do this for steel so yeah I mean the design has to be focused on problem solving otherwise you're going to spend too much time trying to figure it you don't start with it yeah yeah I'm like sort of taken to management management by rhyming if the schedule is scheduled as long your design is wrong right very true it's good good point yes with that I want to go to some audience questions we asked the audience through the the app to submit us question so I believe we have a few that we've pulled here so we've got some over here can we and can you come closer over here so we can we can see you let's say all right our first question hello I'm Jane zündel I'm a graduate",
+      "textZh": "在复合材料方面，而我当时想，我们不能推进得这么慢，否则就会破产，所以那就好，改用钢来做。所以，是的，我的意思是，设计必须专注于解决问题，否则你会花太多时间试图弄明白它，你一开始并没有从它入手。对，对。我有点倾向于押韵式管理，如果进度表是进度表那么长，你的设计就是错的，对吧。非常正确。这一点很好，很好的观点。是的。说到这里，我想转向一些观众提问。我们通过应用程序请观众向我们提交问题，所以我相信我们从中选出了几个。我们这边有一些。能不能，请你靠近这边一点，这样我们就能、我们就能看到你。我们来说，好。我们的第一个问题。你好，我叫 Jane Zündel，我是一名研究生"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "student at Stanford my question for you is as you look back on your career in the space industry what has been the most surprising or unexpected challenge that you faced and along those lines if you were to go back in time and talk to your 20 year old self would you do anything differently go back in time do your 20 year old self I mean I think if I get it I think it would make a far fewer mistakes I would see if I could guard like it here's a list of all the dumb things you're about to do please do not hear them yeah I'd be a very long list and like here let me and you know write it down or something you know I mean it's behind size 2020 so it's hard to say I mean number of I've made so many foolish mistakes I have a lot count honestly I mean some of",
+      "textZh": "在斯坦福读书。我的问题是，当你回顾自己在航天行业的职业生涯时，你遇到的最令人惊讶或最出乎意料的挑战是什么？沿着这个思路，如果你能回到过去，和 20 岁的自己谈谈，你会采取什么不同的做法吗？回到过去，做你的 20 岁的自己。我的意思是，我想如果我做得到，我想我会少犯得多的错误。我会看看自己能不能像这样防范：这里列出了你即将做的所有蠢事，请不要听它们。对，那会是一份非常长的清单，而且像，来，让我，你知道，把它写下来之类的。你知道，我的意思是，事后看大小是 2020，所以很难说。我的意思是，数量，我犯过太多愚蠢的错误了，老实说我已经数不清了。我的意思是，其中一些"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "these things I just wish I liked just like that's a simple sort of mantra management by rhyming I mean it worked for Homer okay the management of our rhyming is the thing I'm saying like if but if the schedule is long the design is wrong we've complicated the design many times and I think you should just gone with a simpler design with the acid test being how long will it take to for this to fly and if it's going to take a long time don't do it do something else if you look it's a falcon 9 eye it's got a aluminum lithium tank but then the unpressurized structures are carbon fiber composite and really one of the worst possible things you could do to a joint is takes me with a high coefficient of thermal expansion high CTE put it go take it from room temperature",
+      "textZh": "事情，我只是希望我喜欢，只是喜欢，那是一句简单的、类似押韵式管理的口号。我的意思是，这对 Homer 奏效了，好吧。我所说的押韵式管理就是，比如，如果进度很长，设计就是错的。我们很多次把设计弄复杂了，而我认为你就应该采用更简单的设计，最终检验标准是让它飞起来要花多长时间。如果要花很长时间，那就别做，去做别的。如果你看，它是一枚 Falcon 9，我，它有一个铝锂合金贮箱，但非增压结构是碳纤维复合材料。实际上，你能对一个接头做的最糟糕的事情之一，就是拿某种热膨胀系数很高、高 CTE 的东西，把它从室温带到"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "to cryo and then connect it to something that has zero CTE you know basically zero or like a carbon fiber so now you've got a real pain in the ass joint basically so in order for that to work you've got at the tanks got a shrink radially and you've got these super expensive heavy bolts that are like a beam inventing across you know that I've been taking load into the interstage and they just really want to share off or snap off this is crazy you know really just have a continuous metal structure but that's obvious that should be done that'd be way better you know if things expand to full the available resources so then like sometimes you should say no to things that you that you don't you know like the original thought one team which the the fairing tanks",
+      "textZh": "低温，然后把它连接到某种 CTE 为零的东西上，你知道，基本为零，或者像碳纤维。于是你就有了一个真正让人头疼得要命的接头，基本上就是这样。所以，为了让它起作用，贮箱必须径向收缩，而且你得用这些超级昂贵、沉重的螺栓，它们就像一根正在跨越发明的梁，你知道，我一直在把载荷传入级间段，而它们真的很想分开或折断。这太疯狂了，你知道。真的，只要采用连续的金属结构就行了。但这很显然应该这样做，那会好得多。你知道，如果事情会扩张到全部可用资源，那么有时你就应该对那些你、那些你不、你知道的事情说不。比如最初想到的一个团队，也就是整流罩、贮箱"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "engines or everything pretty much was maybe a little over a hundred people now SpaceX is like six thousand people I think some like now so it's or it really just is it I simplify your product as much as possible you know and then like with the figure but I think of some of the ways which how does the SWAT engineer make down mistakes included is you know is optimize something that shouldn't exist don't optimize something that shouldn't exist if people are trained to do this in college you can't say no to the professor you know this is gonna give you the exam and you've got to answer all the questions over they will get angry so and give you a bad grade so then you you always optimize the yours answer the question all the times you should say this is the",
+      "textZh": "发动机，或者几乎所有东西，也许只有略多于 100 人。现在 SpaceX 大约有 6000 人，我想现在差不多是这样。所以它、它实际上就是，尽可能简化你的产品，你知道。然后像是对于那个数字，但我会想到一些方式，那个 SWAT 工程师是怎样犯下那些包括在内的错误的，你知道，就是优化某个本不该存在的东西。不要优化本不该存在的东西。人们在大学里受的训练就是这么做。你不能对教授说不，你知道，他要给你考试，而你必须回答上面的所有问题，否则他们就会生气，然后给你一个低分。所以之后你、你总是在优化你的、一直回答问题。有时你应该说，这是"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "wrong question all right in fact the question is definitely wrong to some degree just how wrong and I think just generally taking the approach that your design is some degree wrong probably a lot more than you think your goal is to make it less wrong over time we have that it's good right another question hi my name is Julie seven sage and mr.",
+      "textZh": "错误的问题。好吧。事实上，这个问题肯定在某种程度上是错的，只是错得有多厉害。我认为，一般来说，你应该采取这样一种方法：你的设计在某种程度上是错的，而且可能比你想象的错得多。你的目标是随着时间推移，让它错得少一些。我们有那个。很好，对吧。另一个问题。你好，我叫 Julie Seven Sage，还有……先生"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "monkey have said in the past that you think that college degrees shouldn't be that important and that I've been showed in job listings in places such as Tesla however in places like sis industry including even at SpaceX in the satellite development area many of the job listings say that you need at least a bachelor's degree and prefer at least a master's degree so my question to you is with more jobs asking for higher levels of degrees without scholarships are not changing amounts and that is getting harder and harder every year to pay tuition even with using scholarships how can colleges and industries make it easier to afford college but at the same time being able to pay grad students and employees well and also to make sure that there is a large-scale",
+      "textZh": "猴子过去曾说过，你认为大学学位不应该那么重要，而我已经在 Tesla 等地方的招聘信息中看到了这一点。然而，在 sis 行业这样的地方，甚至包括 SpaceX 的卫星开发领域，许多招聘信息都说你至少需要学士学位，并且最好至少拥有硕士学位。所以我想问的是，随着越来越多的工作要求更高等级的学位，而奖学金没有改变数额，并且即便使用奖学金，每年也越来越难以支付学费，大学和行业怎样才能让人更容易负担大学费用，同时又能给研究生和员工良好的薪酬，并且还要确保存在大规模的"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "access to good colleges especially to underprivileged communities so that everyone can be a part of the future rebuilding thank you well first of all you don't need college to learn and learn stuff okay everything is available basically for free you can learn anything you want for free it is not a question of learning there there is a value that colleges have which is like you know seeing whether somebody's it is can somebody work hard at something including a bunch of sort of annoying homework assignments and still do their homework assignments and a car soldier through and get it done you know that's that's like the main value of college and then also you you know if you you if you probably want to hang around with a bunch of people you're on edge for",
+      "textZh": "让人们能够进入好的大学，尤其是让弱势群体能够进入，这样每个人都能参与重建未来。谢谢。嗯，首先，你不需要上大学也能学习和学到东西，好吗？基本上一切都可以免费获得。你可以免费学习任何想学的东西。问题并不在于学习。大学确实有一种价值，就是，你知道，看看某个人是否，它是，某个人能否努力完成某件事，包括一大堆有点烦人的家庭作业，而且仍然完成这些家庭作业，并用一辆车坚持熬过去把它做完。你知道，那、那差不多就是大学的主要价值。然后还有，你、你知道，如果你、如果你大概想和一群人待在一起，你就会处于边缘，持续……"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "a while instead of going drag it right into the work force so I think colleges are basically for fun and to prove you can do your chores but they're not for learning there it is I know we started late and I know wait we we don't have much time left but to build on Julie's question here how does somebody like you with a very long term mission of going to Mars how are you cultivating the next generation of leadership to take you there because I mean this is this is a long-term project you might we might not be around to see us finally resettle on Mars or maybe maybe no I mean I hope I'm not dead by the time I people go to Mars that would be a great great outcome I think I might be you know if we don't improve our pace of progress I'm definitely you know",
+      "textZh": "一段时间，而不是被拖着直接进入职场。所以我认为大学基本上是为了好玩，也是为了证明你能完成杂务，但不是为了学习。答案就在这里。我知道我们开始得晚，我也知道，等等，我们、我们剩下的时间不多了，但接着朱莉刚才的问题来说，像你这样肩负着前往火星这一长期使命的人，要如何培养下一代领导者来带你实现它？因为，我是说，这是、这是一个长期项目。你可能、我们可能活不到最终看到我们在火星上重新定居的那一天，或者也许、也许不会。我的意思是，我希望在人们前往火星时我还没死，那将是一个非常、非常好的结果。我想我可能会，你知道，如果我们不加快进展速度，我肯定，你知道……"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "gonna be dead before we go to Mars so I'm just like would like to not be dead when by the time we go to Mars that's my aspiration here so if it's taking us 18 years just to get ready to do the first people to orbit we better improve our rate of innovation or you know based on past trends I am definitely gonna be dead before Mars so we're going to improve our pace of innovation a lot so yeah it's a you I can tell you can see you how do you communicate that vision you have to that to the somebody who could maybe take over for what you're doing and to see things where you're seeing them in terms of the mission well we have a lot of good good people at SpaceX that a lot of really talented people in fact I wonder like sometimes how we can make use of their",
+      "textZh": "会在我们前往火星之前死去。所以我只是希望在我们前往火星的时候我还没死，这就是我在这里的愿望。所以，如果我们仅仅为把第一批人送入轨道做准备就花了18年，我们最好提高创新速度，否则，你知道，按照过去的趋势，我肯定会在到达火星前死去。所以我们要大幅提高创新速度。所以，是的，这是一个，你，我能告诉你，你能看到你如何把自己的愿景传达给那个、给某个也许能接手你正在做的事情的人，并让他从使命的角度看到你所看到的东西？嗯，SpaceX有很多优秀、优秀的人，很多真正有才华的人。事实上，我有时会想，我们该如何以最好的方式发挥他们的……"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "talents in the best way because it you know I think we're often not using their talents in the best way yeah but you know to the point of the question I was just asked I'm gonna make sure Tesla recruiting does not have anything that says requires University because that's absurd but there is a requirement of evidence of exceptional ability like you just can't if you're trying to do something exceptional they must have evidence of exceptional ability I don't consider going to college evidence of exceptional ability in fact ideally you dropped out and did something I mean obviously you know look at like you know Gates is a pretty smart guy who dropped out job is pretty smart he dropped out you know that re Allison smart guy he dropped out like obviously",
+      "textZh": "才华，因为，你知道，我认为我们经常没有以最好的方式发挥他们的才华。是的，不过，你知道，说到刚才问我的问题，我会确保Tesla的招聘信息里不会有任何要求大学学历的内容，因为那很荒谬。但确实有一项要求，就是要有能力出众的证据。比如，你不能，如果你试图做出非凡的事情，他们就必须有能力出众的证据。我不认为上大学是能力出众的证据。事实上，理想情况下，你退了学并做出了一些事情。我的意思是，显然，你知道，看看，你知道，盖茨是个相当聪明的人，他退了学；乔布相当聪明，他退了学；你知道，那个雷·艾利森是个聪明人，他退了学，比如，显然……"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "not needed so did Shakespeare even go to college probably not well I'm thank you so much I wish we could take more audience questions I know we have it we have a hard stop but thank you you on for stopping by thank you let's give them a round of applause for stopping by and speaking less did you either message to your evening and thank you very much [Applause] [Music]",
+      "textZh": "不需要，所以莎士比亚甚至上过大学吗？可能没有。嗯，非常感谢您。我希望我们能接受更多观众提问。我知道我们有，我们必须准时结束，但谢谢你，你昂，感谢你到场。谢谢。让我们为他们的到场和少说些话送上一轮掌声。你是否也给你的夜晚发消息了，非常感谢。[掌声] [音乐]"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T03:43:48.540Z",
+    "reviewedAt": "2026-09-13T04:09:29.653Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:11.449Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=HPV8Xp3pEpI",
+  "sourceHash": "206ea597973ed853be2d51b5ba60dc0e423462749c2efaff90114d488e440ede"
+}

@@ -1,0 +1,1262 @@
+{
+  "id": "stanford-etl-2003-10-08",
+  "slug": "stanford-etl-2003-10-08",
+  "snapshotId": "2026-09-12",
+  "type": "speech",
+  "date": "2003-10-08",
+  "titleEn": "Stanford Entrepreneurial Thought Leaders Lecture",
+  "titleZh": "斯坦福创业思想领袖讲座",
+  "summaryEn": "One of Elon Musk's earliest recorded public talks. At 32, a year after founding SpaceX and while still building Tesla's predecessors, he recounts Zip2, X.com and PayPal, and lays out why he turned to rockets and Mars.",
+  "summaryZh": "埃隆·马斯克最早有记录的公开演讲之一。32岁时，也就是创立SpaceX 1年后、仍在打造Tesla的前身之际，他回顾了Zip2、X.com和PayPal，并阐述了自己为何转向火箭与火星。",
+  "sourceUrl": "https://www.youtube.com/watch?v=afZTrfvB2AQ",
+  "sourceLabel": "Stanford University",
+  "archiveUrl": "https://elonmuskarchive.org/video/stanford-etl-2003-10-08",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/afZTrfvB2AQ",
+  "thumbnailUrl": "https://i.ytimg.com/vi/afZTrfvB2AQ/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 2879,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 1.6,
+      "textEn": "Try to make this as interesting as possible. If you like space, you'll like this talk.",
+      "textZh": "尽量让这场演讲有趣一些。如果你喜欢太空，你会喜欢这场演讲。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 7.36,
+      "textEn": "So my background, in brief, I'll talk a little bit about Zip2 and PayPal, and then mostly about space and what we're doing in space.",
+      "textZh": "简要说说我的背景，我会稍微谈谈Zip2和PayPal，然后主要谈太空，以及我们在太空领域所做的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 20.16,
+      "textEn": "So I originally came out of California to do energy physics at Stanford, actually, and ended up putting this in 95 and ended up putting that on hold to start zip two. And zip two. I'll tell you a little bit about the thought process of exactly what happened there in 95. It wasn't at all clear that the Internet was going to be a big commercial thing. In fact, most of the venture capitalists that I talked to hadn't even heard of the Internet, which sounds bizarre on Sand Hill Road.",
+      "textZh": "所以我最初其实是从加州出来，到斯坦福研究能源物理学，结果在95年把这件事放下，后来又把它搁置起来，创办了Zip2。而Zip2。我会稍微讲讲95年那里究竟发生了什么，以及当时的思考过程。当时完全不清楚互联网会不会成为一个重大的商业事物。事实上，我交谈过的大多数风险投资家甚至都没听说过互联网，这在沙丘路听起来很离奇。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 54.71,
+      "textEn": "So. But I wanted to do something in there. I thought it would be a pretty huge thing, and I thought it was one of those things that only came along once in a very long while. So I got a deferment at Stanford and thought I'd give it a couple quarters, and if it didn't work out, which I thought it probably wouldn't, then I'd come back.",
+      "textZh": "所以。但是我想在这个领域做点什么。我认为它会成为一件相当重大的事，而且我认为这是那种很久很久才会出现一次的事情。所以我在斯坦福申请了延期，想用2个季度试试看；如果没有成功——我觉得很可能不会成功——那我就回来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 80.9,
+      "textEn": "And actually, when I talked to my professor and I told him this, he said, well, I don't think you'll be coming back. And that was the last conversation I had with him.",
+      "textZh": "而实际上，当我和教授谈起这件事并告诉他这些时，他说，嗯，我觉得你不会回来了。那也是我和他的最后一次谈话。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 89.94,
+      "textEn": "But there weren't a lot of ways to get. The only way to get involved with the Internet in 95 that I could think of was to start a company, because they weren't a lot of companies to go and work for, apart from Netscape, maybe one or two others.",
+      "textZh": "但当时没有很多办法可以参与。95年，我能想到的参与互联网的唯一方式就是创办一家公司，因为除了Netscape，也许还有另外1家或2家公司之外，并没有很多公司可以去工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 102.5,
+      "textEn": "And then I didn't have any money, so I thought, well, we got to make something that's going to return. That's going to return money very, very quickly. So we thought, well, the media industry would need help converting its content from a print media to electronic. And they clearly had money. So if we could find a way to help them move their media to the Internet, that would be an obvious way of generating revenue. There was no advertising revenue on the Internet at the time, so.",
+      "textZh": "而且我当时没有钱，所以我想，嗯，我们得做出某种能带来回报的东西。能非常、非常快地带来资金回报。于是我们想，媒体行业需要帮助，将其内容从印刷媒体转换到电子形式。而且他们显然有钱。所以，如果我们能找到办法帮助他们把媒体搬到互联网上，那显然是一种创造收入的方式。当时互联网上没有广告收入，所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 135.3,
+      "textEn": "And that was really the basis of Zip2. We ended up building quite a bit of software for the media industry, primarily the print media industry. So we had as investors and customers, Hearst Corporation, Knightritter, most of the major US Print publishers. We built that up. And then we. We had the opportunity to sell to compaq in early 99 and basically took that offer. It was for a little over $300 million in cash, and that's a currency I highly recommend.",
+      "textZh": "而这实际上就是Zip2的基础。我们最终为媒体行业开发了相当多的软件，主要是印刷媒体行业。所以我们的投资者和客户包括Hearst Corporation、Knightritter，以及美国大多数主要的印刷出版商。我们把它发展了起来。然后我们。我们在99年初有机会卖给Compaq，基本上接受了那份报价。价格是略高于3亿美元的现金，而现金是我强烈推荐的一种货币。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 171.87,
+      "textEn": "So we had that, but I wanted to do something more after Zip2. So how post the sale. In fact, immediately post the sale. I didn't really take any time off.",
+      "textZh": "所以我们有了这些，但在Zip2之后，我想做一些更进一步的事情。所以如何在出售之后。实际上，就是出售之后立刻。我并没有真正休息过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 188.03,
+      "textEn": "I was trying to think of where the opportunities in this is in early 99, where the opportunities remained in the Internet. And it seems to me that there hadn't been a lot of innovation in the financial services sector.",
+      "textZh": "我当时试图思考互联网中还有哪些机会——这是99年初——互联网中还剩下哪些机会。而在我看来，金融服务领域并没有发生很多创新。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 200.59,
+      "textEn": "And when you think about it, money is low bandwidth. You don't need some sort of big infrastructure improvement to do things with it. It's really just an entry in the database. The paper form of money is really only a small percentage of all the money that's out there. So it should lend itself to innovation on the Internet.",
+      "textZh": "仔细想想，资金是低带宽的。要用它做事情，并不需要某种重大的基础设施改进。它实际上只是数据库中的一条记录。纸币形式的资金实际上只占现有全部资金的一小部分。所以它应该很适合在互联网上进行创新。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 220.99,
+      "textEn": "So we thought of a couple of different things we could do. One of the things was to combine all of somebody's financial services needs into one website. So you could have banking, brokerage, insurance, and all sorts of things in one place. And that was actually quite a difficult problem to solve. But we solved most of the issues associated with that. And then we had a little feature which took us about a day that was the ability to email money from one customer to another.",
+      "textZh": "所以我们想了几件可以做的不同事情。其中一件，是把某个人的全部金融服务需求整合到一个网站上。这样你就可以在一个地方获得银行、经纪、保险以及各种服务。而这其实是一个相当难以解决的问题。但我们解决了与此相关的大部分问题。然后，我们还有一个花了大约1天时间开发的小功能，就是可以通过电子邮件把钱从一名客户发送给另一名客户。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 250.32,
+      "textEn": "So you could type in an email address or actually any unique identifier and transfer funds, or conceivably stocks or mutual funds or whatever from one account holder to another. And if you try to transfer money to somebody who didn't have an account in the system, it would then forward an email to them saying, hey, why don't you sign up and open an account? So, and whenever we demonstrate these two sets of features, we'd say, well, this is a feature that took us a lot of effort to do.",
+      "textZh": "所以你可以输入一个电子邮件地址，或者实际上任何唯一标识符，然后把资金，或者可以设想的股票、共同基金或任何东西，从一个账户持有人转给另一个账户持有人。如果你试图把钱转给一个在系统中没有账户的人，系统就会向他们转发一封电子邮件，说，嘿，你为什么不注册并开个账户呢？所以，每当我们演示这两组功能时，我们都会说，嗯，这是一个让我们付出了大量努力才完成的功能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 280.86,
+      "textEn": "And look how you can see your bank statement, your mutual funds and insurance and all that. And it's all on one page and look how convenient that is. And people go, and then we'd say, and by the way, we have this feature where you can enter somebody's email address and transpose funds. And they go, wow. So we're like, okay. So we focused the company's business on email payments. And the only going the company was called x dot com.",
+      "textZh": "看看你可以如何查看自己的银行账单、共同基金、保险以及所有这些东西。它们全都在一个页面上，看看这有多方便。然后人们会，而接着我们会说，顺便一提，我们还有一个功能，你可以输入某人的电子邮件地址，然后转置资金。他们就会说，哇。所以我们就想，好吧。于是我们把公司的业务集中在电子邮件支付上。而唯一发展中的公司叫作X.com。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 309.28,
+      "textEn": "And then there was another company called Confinity, which had actually also started out from it a different area. They started out with PalmPilot cryptography, and then they had as a demo application, the ability to beam token payments from one PalmPilot to another via the infrared port. And then they had a website, which is called PayPal, where you would reconcile the beamed payments.",
+      "textZh": "然后还有另一家名叫Confinity的公司，它实际上也是从一个不同领域起步的。他们最初做的是PalmPilot密码学，后来他们有一个演示应用程序，可以通过红外端口，把代币支付从一台PalmPilot传送到另一台PalmPilot。然后他们有一个叫作PayPal的网站，你可以在那里核对这些传送的付款。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 334.54,
+      "textEn": "And what they found was that the website Portion was actually far more interesting to people than palm pilot cryptography was. So they started leading their business in that direction. And then in basically early 2000, X.com acquired Confinity. And then about a year later, we ended up changing the company's name to PayPal.",
+      "textZh": "而他们发现，比起PalmPilot密码学，网站部分实际上让人们感兴趣得多。所以他们开始把业务引向那个方向。然后基本上在2000年初，X.com收购了Confinity。大约1年后，我们最终把公司名称改成了PayPal。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 358.94,
+      "textEn": "And that's kind of how the approximate evolution of the company.",
+      "textZh": "这差不多就是公司的大致演变过程。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 365.1,
+      "textEn": "But PayPal is really a case of. Of where the whole viral marketing, it's really a perfect case example of viral marketing like Hotmail was where one customer would essentially act as a salesperson for you, for all, for bringing in other customers. So they would send money to a friend and essentially recruit that friend into the network. And so you had this exponential growth. The more customers you had, the faster it grew.",
+      "textZh": "但PayPal实际上是一个关于。关于整个病毒式营销的案例，它确实是一个完美的病毒式营销案例，就像Hotmail一样，其中一名客户基本上会充当你的销售人员，为了所有，为了带来其他客户。所以他们会把钱发给一个朋友，并且实际上把那个朋友招募进网络。于是你就会获得这种指数级增长。客户越多，增长就越快。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 397.09,
+      "textEn": "So it was like bacteria in a petri dish. It just goes like, there's this S curve. And in fact, I ran PayPal for about the first two years of its existence. And we launched after year one, and by the end of year two, we had a million customers. So to give you a sense of how fast things grow in that scenari. And we didn't have a sales force. We actually didn't have a VP of sales, we didn't have a VP of marketing, and we didn't spend any money on advertising.",
+      "textZh": "所以它就像培养皿中的细菌。它就这样发展，形成这条S曲线。事实上，PayPal存在的最初2年左右是由我负责运营的。我们在第1年之后推出，到第2年年底时，我们已经拥有100万名客户。这能让你感受一下，在那种情境中事情增长得有多快。而且我们没有销售团队。实际上，我们没有销售副总裁，没有营销副总裁，也没有花任何钱做广告。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 433.45,
+      "textEn": "In about February of last year, for those, some of you are probably following it, in February of last year, PayPal went public. And I think we were the only Internet company to go public in the first part of last year. It went off reasonably well, although I think we had more SEC rewrites than any company I can imagine. Like, we set a record on SEC rewrites. This was right around the Enron time when there was all sorts of corporate scandals.",
+      "textZh": "大约在去年2月，对于那些——你们有些人可能一直在关注——去年2月，PayPal上市了。我想我们是去年上半年唯一上市的互联网公司。上市进行得还算顺利，不过我觉得，我们收到的美国证券交易委员会重写要求比我能想到的任何公司都多。就像是，我们创下了美国证券交易委员会重写次数的纪录。当时正值Enron事件前后，各种公司丑闻层出不穷。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 463.07,
+      "textEn": "So they put us through the wringer.",
+      "textZh": "所以他们让我们吃尽了苦头。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 466.83,
+      "textEn": "And then shortly thereafter, in about June, July, we struck a deal with ebay to see sell a company to ebay and over for about $4.5 billion. But that was when eBay's stock price was about $55 and they hadn't split. So I guess in today's dollars, we have about $3 billion.",
+      "textZh": "然后不久之后，大约在6月、7月，我们与 eBay 达成了一项交易，把一家公司卖给 eBay，价格约为45亿美元。但那是在 eBay 的股价约为55美元、而且他们还没有拆股的时候。所以我想，按今天的美元计算，我们大约有30亿美元。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 493.13,
+      "textEn": "So it worked out pretty well.",
+      "textZh": "所以结果相当不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 497.37,
+      "textEn": "It happened coincidentally, that in the first part of last year, I've been doing just some background research on space and. Well, let me talk a bit about that.",
+      "textZh": "碰巧的是，去年年初那段时间，我一直在做一些太空方面的背景研究，而且。嗯，让我谈谈这件事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 510.73,
+      "textEn": "Essentially, I was trying to figure out why we had not made more progress since Apollo in the 60s. We went from basically nothing, not being able to put anyone into space, to putting people on the moon and developing all the technology from scratch to do that. And yet in the 70s and 80s and the 90s, we've kind of gone sideways. And we're currently in a situation where we can't even put a person into low Earth orbit.",
+      "textZh": "从根本上说，我当时试图弄清楚，为什么自60年代的阿波罗计划以来，我们没有取得更大进展。我们从基本上一无所有、无法把任何人送入太空，发展到把人送上月球，并从零开始开发出实现这一目标所需的全部技术。然而到了70年代、80年代和90年代，我们却有点横向停滞不前。而我们目前甚至连一个人都无法送入近地轨道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 538.66,
+      "textEn": "And that doesn't really gel with all of the other technology sectors out there. The computer that you could have bought in the early 70s would have filled this room and had less computing power than your cell phone.",
+      "textZh": "而这与其他所有技术领域的情况并不真正相符。你在70年代初能买到的计算机会塞满这个房间，而且计算能力还不如你的手机。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 552.98,
+      "textEn": "And so just about every sector of technology has improved. Why has this not improved? So I started looking into that.",
+      "textZh": "所以几乎每一个技术领域都有所进步。为什么这个领域没有进步？于是我开始研究这件事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 562.94,
+      "textEn": "Initially I thought, well, perhaps it's a question of funding. And that funding can be garnered by really marshaling public support. So I thought, well, one way to get the public excited about space would be to do maybe a privately funded robotic mission to Mars. And so we figured out a mission that would cost about 15 to 20 million dollars, which isn't a lot of money, but it's about a tenth of what a low cost NASA mission would be.",
+      "textZh": "起初我想，嗯，也许这是资金问题。而资金可以通过真正动员公众支持来筹集。所以我想，嗯，让公众对太空产生兴趣的一种方式，或许是执行一次由私人资助的火星机器人任务。于是我们规划出了一项耗资约1500万至2000万美元的任务，这并不算很多钱，但大约是 NASA 一项低成本任务费用的十分之一。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 592.01,
+      "textEn": "And the idea was called Mars Oasis, where we'd put a small robotic lander on the surface of Mars with seeds and dehydrated nutrient gel that would hydrate upon landing. And you'd have plants growing in a martian radiation and gravity conditions. And you'd also be maintaining essentially a life support system on the surface of Mars. And this would be interesting to the public because they tend to respond to precedents and superlatives.",
+      "textZh": "这个构想叫作“火星绿洲”，我们会把一个小型机器人着陆器放到火星表面，里面装有种子和脱水营养凝胶，凝胶会在着陆后吸水。然后植物会在火星的辐射和重力条件下生长。你还会在火星表面维持一个实质上的生命保障系统。这会引起公众的兴趣，因为他们往往会对创举和最高级事物作出反应。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 615.95,
+      "textEn": "And this would be the furthest that life's ever traveled and the first life on Mars. So pretty significant.",
+      "textZh": "而这将是生命有史以来抵达的最远之处，也是火星上的第一个生命。所以意义相当重大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 622.27,
+      "textEn": "And then when I started looking at launch vehicles, the lowest cost vehicle in the US is Boeing's Delta II, which costs about $50 million. And that's a bit, that's a bit steep, what we were trying to do. So I made three visits to Moscow, to Russia to look at buying a Russian launch.",
+      "textZh": "然后，当我开始考察运载火箭时，美国成本最低的运载工具是波音的 Delta II，耗资约5000万美元。而这有点，这对我们试图做的事来说有点太贵了。所以我去了俄罗斯莫斯科3次，考察购买俄罗斯发射服务的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 644.22,
+      "textEn": "And it's actually pretty interesting going to Moscow to negotiate for a refurbished ICBM on the range of interesting experiences. That's pretty far out there.",
+      "textZh": "而且，前往莫斯科谈判购买一枚翻修过的洲际弹道导弹，放在各种有趣的经历中其实相当有意思。那真的相当离谱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 661.25,
+      "textEn": "But we actually did get to a deal. But there were so many complications associated with the deal that I wasn't comfortable with the risks associated with it. So when I got back from the third trip, I thought, well, you know, why is it the Russians can build these low cost launch vehicles? Because it's not like we drive Russian cars, fly Russian planes, or, or have Russian kitchen appliances. And when's the last time you bought something Russian that wasn't vodka?",
+      "textZh": "但我们实际上确实谈成了一笔交易。可是，这笔交易牵涉到太多复杂问题，我对相关风险感到不放心。所以，当我第三次出访回来后，我想，嗯，你知道，为什么俄罗斯人能制造出这些低成本运载火箭？因为我们并不开俄罗斯汽车，不坐俄罗斯飞机，也不用俄罗斯厨房电器。你上一次购买伏特加以外的俄罗斯产品是什么时候？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 691.37,
+      "textEn": "So I think the US Is a pretty competitive place and we should be able to build a cost efficient launch vehicle. So I put together a feasibility study which consisted of engineers that have been involved with all the major launch vehicle developments over the last three decades. And we iterated over a number of Saturdays beginning of last year to figure out, well, what would be, what would be the smartest way to approach this problem of not just launch cost but also launch reliability.",
+      "textZh": "所以，我认为美国是一个竞争力很强的地方，我们应该能够制造出成本效益高的运载火箭。于是，我组织了一项可行性研究，参与者是过去30年间参与过所有主要运载火箭研发工作的工程师。从去年年初开始，我们连续用了若干个星期六反复推演，以弄清楚，嗯，要处理的不仅是发射成本，还有发射可靠性这个问题，最明智的解决方式会是什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 720.93,
+      "textEn": "And we came up with a default design. And that actually sort of fortunate timing. That feasibility study finished up right around the time that we agreed to sell PayPal to eBay. So coincident with that sale, I moved down to LA where there's actually the biggest concentration of aerospace industry in the world. It's actually the biggest industry in Southern California, Much bigger than entertainment or anything else.",
+      "textZh": "我们得出了一个默认设计。而且时机实际上算是相当凑巧。那项可行性研究完成时，正好赶上我们同意把PayPal卖给eBay。因此，就在那笔出售交易发生之际，我搬到了洛杉矶，那里实际上是全球航空航天产业最集中的地方。它实际上是南加州最大的产业，比娱乐业或其他任何产业都大得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 747.01,
+      "textEn": "I was living in Palo Alto for about nine years before that.",
+      "textZh": "在那之前，我在帕洛阿尔托住了大约9年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 753.49,
+      "textEn": "Anyway, so just to talk a little broadly about space and where things are today, obviously US government manned exploration is not in a great place. We've got the three remaining shuttles are grounded. It looks like post flight might only be a year from now, if that. And we've got a vehicle that is incredibly expensive and really quite dangerous. It's, you know, for reasons mentioned there, it's got a side mounted crew compartment.",
+      "textZh": "总之，先宽泛地谈一点太空以及目前的状况。显然，美国政府的载人探索情况不太好。我们剩余的3架航天飞机都已停飞。看起来，后续飞行可能要等到1年以后了，如果真能成行的话。而且我们拥有的是一种极其昂贵、确实相当危险的飞行器。它，你知道，由于那里提到的原因，采用了侧挂式乘员舱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 783.31,
+      "textEn": "So if there's an explosion that's basically instant death.",
+      "textZh": "所以如果发生爆炸，基本上就是当场死亡。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 788.39,
+      "textEn": "You've got solid rocket boosters which once you ignite them, you can turn them off. And there's something fundamentally dangerous about premixing your fuel and oxidizer, I think. And then you've got wings and control surfaces when you re enter you've got to maintain a precise angle of attack. Even a momentary variance in that can break the whole vehicle apart.",
+      "textZh": "它配有固体火箭助推器，一旦点燃，你就可以把它们关闭。而且我认为，预先混合燃料和氧化剂这件事存在某种根本性的危险。然后，它还有机翼和操纵面；再入时，你必须保持精确的迎角。哪怕只是瞬间出现偏差，也可能让整架飞行器解体。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 809.93,
+      "textEn": "And then of course it's got no escape system. So if anything does go wrong, you're toast and you've got a cast that is really pretty hard to fathom. The shuttle program where you add up all the pieces is about 4 billion a year. And so you can divide 4 billion by the number of flights and that'll tell you what the cost is.",
+      "textZh": "当然，它也没有逃逸系统。所以如果真出了任何问题，你就完蛋了，而且它还有一个确实很难理解的演员阵容。把航天飞机项目的所有部分加起来，每年大约是40亿。于是，你可以用40亿除以飞行次数，那就能得出成本是多少。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 830.51,
+      "textEn": "And if there's say four flights a year, which they haven't been for a while, then you're talking about a billion dollars a flight.",
+      "textZh": "如果说每年飞行4次，而他们已经有一段时间没做到过了，那么每次飞行的成本就是10亿美元。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 840.11,
+      "textEn": "The plans for the immediate future, obviously we've got to continue building the space station, so we're going to keep flying the shuttle, but I think it's probably going to be the minimum number of shuttle flights that we need to launch.",
+      "textZh": "近期的计划是，显然我们必须继续建造空间站，所以我们会继续让航天飞机飞行，但我认为发射次数可能会保持在我们所需的最低航天飞机飞行次数。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 855.61,
+      "textEn": "The long term plans are to build something called orbital space plane and it says plane in quotes because one of the options is a capsule. So it should be called maybe orbital space thing.",
+      "textZh": "长期计划是建造一种叫作“轨道太空飞机”的东西，其中“飞机”要加引号，因为其中一个方案是太空舱。所以它或许应该叫作“轨道太空东西”。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 868.66,
+      "textEn": "But the basic idea is to have something that's hopefully a little cheaper and a lot safer than the space shuttle. So in particular it's going to have an escape system. So if something does go wrong, you can abort to safety.",
+      "textZh": "但基本构想是拥有某种有望比航天飞机便宜一点、而且安全得多的东西。尤其是，它将配备逃逸系统。所以如果真出了问题，你可以中止任务并安全脱险。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 884.9,
+      "textEn": "The downside is that it's still, while it might be a little cheaper, it's still going to be pretty darn expensive. The estimated cost per flight of orbital space plane is somewhere in the region of 300 to $400 million. Flight flight. And of that amount, just $200 million alone goes to Boeing for the Delta IV heavy expendable booster. And it's a $15 billion development effort and expects to be completed in nine or 10 years.",
+      "textZh": "缺点是，尽管它可能会便宜一点，但仍然会贵得要命。轨道太空飞机每次飞行的预计成本大约在3亿至4亿美元之间。飞行飞行。其中，仅支付给波音公司的Delta IV重型一次性助推器费用就高达2亿美元。这项研发工作耗资150亿美元，预计将在9或10年内完成。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 915,
+      "textEn": "Now typically things have not been under budget and under time. So it's unlikely, I think, given historical precedent that it will stay within $15 billion and the 2012 timeline.",
+      "textZh": "通常情况下，事情并不会低于预算并提前完成。所以，鉴于历史先例，我认为它不太可能控制在150亿美元以内，也不太可能遵守2012年的时间表。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 936.78,
+      "textEn": "And a bit about what's going on elsewhere in the world in Russia. This is really the Soyuz is our only access to space station. It's considerably cheaper, considerably safer. The Soyuz has a very good track record.",
+      "textZh": "再谈一点世界其他地方的情况，在俄罗斯。这确实是，联盟号是我们前往空间站的唯一途径。它便宜得多，也安全得多。联盟号拥有非常良好的记录。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 951.54,
+      "textEn": "The crew is top mounted. It has an escape system. There are no wings or control surfaces to go wrong. Overall, it's a pretty good system. And the estimated costs are about $60 million a flight which is more than order of magnitude less than the space shuttle. The thing that constrains them obviously is the weakness of the Russian economy. It's very hard for them to embark on ambitious programs with an economy the size of Belgium.",
+      "textZh": "乘员舱位于顶部。它配有逃逸系统。没有可能出故障的机翼或操纵面。总体而言，这是一个相当不错的系统。预计每次飞行的成本约为6000万美元，比航天飞机低一个数量级以上。显然，制约他们的是俄罗斯经济的疲弱。以比利时那么大规模的经济体，他们很难启动雄心勃勃的项目。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 978.37,
+      "textEn": "So China is probably the most interesting thing that's going on in space.",
+      "textZh": "所以，中国可能是太空领域正在发生的最有意思的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 985.17,
+      "textEn": "This month China is expected to be only the third is expected to launch their first person into space. That will make them only the third country ever to put someone in orbit. And they put a lot of money and effort into this program. If anything serves as a spur for human space exploration, it's it is likely to be China's ambitions in space and hopefully a sense in America that we want to at least keep up with China.",
+      "textZh": "本月，中国预计将成为仅有的第3个，预计将把他们的第1个人送入太空。这将使他们成为有史以来仅有的第3个将人送入轨道的国家。他们为这个项目投入了大量资金和精力。如果说有什么能推动载人太空探索，那很可能就是中国在太空领域的雄心，以及美国希望至少跟上中国的一种意识。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 1017.21,
+      "textEn": "And they have grand ambitions beyond just Lilith orbit. They're planning on setting up a space station, putting a base on Mars and eventually sending humans to Mars.",
+      "textZh": "而且，他们的宏大抱负不止于莉莉丝轨道。他们计划建立一座空间站，在火星上建造一个基地，并最终把人类送往火星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 1028.57,
+      "textEn": "So what's happening us that I think might ultimately surpass all of that stuff is entrepreneurial space activities where things are led by the spirit of free enterprise. And I think there's perhaps an analogy here where just as DARPA served as the initial impetus for the Internet and underwrote a lot of the cost of developing the Internet in the beginning, it may be the case that NASA has essentially done the same thing by spending the money to develop some of the fundamental technologies in the beginning.",
+      "textZh": "所以，我认为我们这里正在发生、并可能最终超越所有那些事情的，是由自由企业精神引领的创业型太空活动。我认为这里或许存在一种类比：正如DARPA最初推动了互联网，并承担了早期开发互联网的大量成本，NASA或许也通过投入资金开发一些早期基础技术，实质上做了同样的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 1066.05,
+      "textEn": "And then once we can bring sort of commercial free enterprise sector into it, then we can see the dramatic acceleration that we did that we saw in the Internet.",
+      "textZh": "然后，一旦我们能让某种商业自由企业部门参与进来，我们就能看到我们当时，我们在互联网领域看到的那种急剧加速。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 1078.05,
+      "textEn": "So there are several Cirrus launch vehicle efforts underway. Talk about each one. There's Burt Rattan of Scaled Composites. Burt Rattan is one of the world's foremost aircraft designers and he's developed a suborbital vehicle that they're actually flying out of Mojave. This is an X Prize class vehicle. There's John Carmack, who wrote Quake and Doom. He's probably one of the best software engineers in the world, one of the best engineers that I know, period.",
+      "textZh": "所以，目前有数个Cirrus运载火箭项目正在推进。谈谈其中每一个。有Scaled Composites公司的伯特·拉坦。伯特·拉坦是世界上最杰出的飞机设计师之一，他研发了一种亚轨道飞行器，他们实际上正在莫哈韦试飞。这是一种X Prize级别的飞行器。还有编写了《Quake》和《Doom》的约翰·卡马克。他可能是世界上最优秀的软件工程师之一，也是我认识的最优秀的工程师之一，就是如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 1106.78,
+      "textEn": "And he's developing a vertical takeoff and landing vehicle. Jeff Bezos, who I understand was here last week, is a huge space advocate.",
+      "textZh": "他正在研发一种垂直起降飞行器。据我了解，上周来过这里的杰夫·贝索斯，是太空事业的坚定倡导者。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 1117.57,
+      "textEn": "And it's my understanding that he intends to spend something on the order of a billion dollars over the next 20 years on space exploration and then space, then my company SpaceX. And I think within the next several years these entrepreneurial efforts will actually be what drives space exploration.",
+      "textZh": "据我了解，他打算在未来20年里投入大约10亿美元用于太空探索，然后是太空，然后是我的公司SpaceX。我认为，在未来几年内，这些创业活动实际上将成为推动太空探索的力量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 1138.46,
+      "textEn": "So a little bit about each one that's a picture of the Bertra 10. If it's called White Knight, it's the carrier plane. And then Spaceship one is the thing that's held in the belly there. And this project is supposedly funded by Paul Allen. So there's quite a lot of capital also, I should make that point, quite a lot of capital that's entering this entrepreneurial space sector as well.",
+      "textZh": "那么简单介绍一下每一个，那是Bertra 10的照片。如果它叫“白骑士”，它就是运载飞机。然后“太空船一号”就是挂在它腹部的那个东西。这个项目据说由保罗·艾伦资助。所以也有相当多的资本，我也应该指出这一点，相当多的资本也正在进入这个创业型航天领域。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 1165.56,
+      "textEn": "The only drawback I think of this architecture is that it's not really scalable for something that would get to orbit. This is pretty good for suborbital, but I think the architecture would need to change for an orbital vehicle.",
+      "textZh": "我认为这种架构唯一的缺点是，对于要进入轨道的东西来说，它其实不具备可扩展性。它很适合亚轨道飞行，但我认为，对于轨道飞行器，架构需要改变。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 1179.64,
+      "textEn": "And there's John Carmack's effort.",
+      "textZh": "还有约翰·卡马克的项目。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 1183.08,
+      "textEn": "He's a little irreverent. This is from his website.",
+      "textZh": "他有点不拘礼法。这是从他的网站上取的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 1188.86,
+      "textEn": "His vehicle is a vertical takeoff and landing vehicle. He's made really incredible progress for somebody who has no background in aerospace engineering and is also kind of doing it all himself with him and like three buddies.",
+      "textZh": "他的飞行器是一种垂直起降飞行器。对于一个没有航空航天工程背景、而且基本上是由他自己和大概3个伙伴包办所有工作的人来说，他取得的进展确实令人难以置信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 1206.3,
+      "textEn": "So. And I think they will make something that works actually. If you can check out their website, Almadella Aerospace, it's pretty interesting stuff. But in order to get to orbit, this would require a substantial improvement in the mass efficiency and the engine efficiency and probably be a two stage vehicle.",
+      "textZh": "所以。我认为他们实际上会造出能用的东西。如果你们能看看他们的网站Almadella Aerospace，上面的东西很有意思。但要进入轨道，这就需要大幅提高质量效率和发动机效率，而且可能得是一种2级飞行器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 1226.39,
+      "textEn": "Jeff Bezos, who I'm sure almost everyone here is aware of, he is a pretty huge fan of space. In fact, his high school valedictorian speech was about the necessity of humanity expanding to other planets. So it's pretty important. From what I understand, this is our effort.",
+      "textZh": "杰夫·贝索斯，我相信这里几乎每个人都知道他，他是个相当狂热的太空迷。事实上，他在高中毕业生代表致辞中谈的就是人类向其他行星扩张的必要性。所以这相当重要。据我了解，这是我们的尝试。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 1252.9,
+      "textEn": "We're spending quite a bit more than the three prior entities that I mentioned. In some cases probably an order of magnitude more because what we're doing is really an order of magnitude more difficult. We're building an orbital launch vehicle. It's a two stage, very high efficiency engines, very high mass efficiency launch vehicle and it's targeted to the satellite delivery market. So our approach is really to make this a solid sound business.",
+      "textZh": "我们的投入比我提到的前3个实体多得多。在某些情况下可能要多一个数量级，因为我们所做的事情实际上也要难一个数量级。我们正在建造一种轨道运载火箭。它是一种2级运载火箭，配备效率非常高的发动机，质量效率也非常高，目标是卫星发射市场。所以我们的做法实际上是把它做成一门稳健可靠的生意。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 1279.52,
+      "textEn": "And so I've predicated the strategic plan on a known market, something that we know for a fact exists, which is the need to put small to medium sized satellites into orbit. And, and so that's what we're going after initially. And then with that as kind of a revenue base, we will move into the human transportation market. So long term aims of the company are definitely human transportation. I think the smart strategy is to first go for cargo delivery, essentially satellite delivery.",
+      "textZh": "所以，我把战略计划建立在一个已知市场之上，也就是我们确切知道存在的东西，那就是将小型到中型卫星送入轨道的需求。而，而这就是我们最初要争取的目标。然后，以此作为一种收入基础，我们将进入人员运输市场。所以，公司的长期目标肯定是人员运输。我认为，明智的策略是首先开展货物运送，本质上就是卫星运送。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 1312.43,
+      "textEn": "And our eventual upgrade path is to build the successor to Saturn V. Build a super heavy lift vehicle that could be used for setting up a moon base or doing a Mars mission. That would be the holy grail objective.",
+      "textZh": "而我们最终的升级路线是建造土星 V 的后继型号。建造一种可用于建立月球基地或执行火星任务的超重型运载火箭。那将是终极目标。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 1329.72,
+      "textEn": "On the upper right there you can see a test firing of our engine. And on the lower right you can see our first stage tank.",
+      "textZh": "在右上方，你们可以看到我们的发动机试车点火。在右下方，你们可以看到我们的一级贮箱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 1342.76,
+      "textEn": "This is an engine test of our main engine, which is called Merlin.",
+      "textZh": "这是我们主发动机的一次发动机测试，它叫 Merlin。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 1360.12,
+      "textEn": "And that that generates about roughly 75,000 pounds of thrust.",
+      "textZh": "而那，那会产生大约约75,000磅的推力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 1368.36,
+      "textEn": "At sea level. This is our upper stage engine.",
+      "textZh": "在海平面上。这是我们的上面级发动机。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1375.25,
+      "textEn": "It's about 7,500 pounds of thrust in vacuum.",
+      "textZh": "它在真空中的推力约为7,500磅。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1383.65,
+      "textEn": "And this is an accelerated version of our launch sequence. Our first launch will be from the SpaceX launch complex at Vandenberg Air Force Base in approximately March of next year, basically early next year.",
+      "textZh": "这是我们发射流程的加速版本。我们的首次发射将于明年大约3月，基本上是明年年初，从范登堡空军基地的 SpaceX 发射场进行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1399.77,
+      "textEn": "And we'll be flying a Navy satellite, Navy communications satellite. So it's notable because often launch vehicle companies are not able to get somebody get a paying customer on their first flight, but we've been able to do that. This is also the falcon development at SpaceX is the fastest launch vehicle development in history, including wartime.",
+      "textZh": "我们将搭载一颗海军卫星，海军通信卫星。所以这值得注意，因为运载火箭公司通常无法在首次飞行时找到某个人、找到一位付费客户，但我们做到了。这也是 SpaceX 的 Falcon 研制，它是历史上最快的运载火箭研制，包括战时在内。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1433.3,
+      "textEn": "That's actually Vandenberg Airport base, which is about two hours away from Santa Barbara.",
+      "textZh": "那实际上是范登堡机场基地，距离圣巴巴拉大约2小时。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1439.78,
+      "textEn": "Common themes between Zip2 and PayPal? Well, I guess both of them involved had software as the heart of the technology.",
+      "textZh": "Zip2 和 PayPal 之间的共同主题？嗯，我想两者都涉及以软件作为技术的核心。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 1451.13,
+      "textEn": "Even though Zip2 was in, was servicing the media sector and obviously PayPal was servicing the financial sector, the heart of it was really software and Internet related stuff. So certainly that's a huge commonality. They were both in Palo Alto where I live.",
+      "textZh": "尽管 Zip2 当时是在、是在为媒体行业提供服务，而 PayPal 显然是在为金融行业提供服务，但它的核心其实是软件和互联网相关的东西。所以，这当然是一个巨大的共同点。它们都在我居住的帕洛阿尔托。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1477.06,
+      "textEn": "I think we took A similar approach to building both companies, which was to have a small group of very talented people and keep it small.",
+      "textZh": "我认为，我们在创建这两家公司时采取了相似的方法，也就是组建一小群非常有才华的人，并保持小规模。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1491.78,
+      "textEn": "I think PayPal had, at its height, probably 30 engineers for a system that I would say is more sophisticated than the Federal Reserve clearing system.",
+      "textZh": "我认为 PayPal 在鼎盛时期可能有30名工程师，负责一个在我看来比美联储清算系统更复杂的系统。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Elon Musk",
+      "startSec": 1502.51,
+      "textEn": "I'm pretty sure it is, actually, because the Federal Reserve clearing system sucks.",
+      "textZh": "其实，我相当确定确实如此，因为美联储的清算系统很烂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 1510.03,
+      "textEn": "So what else is there?",
+      "textZh": "那么还有什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 1513.23,
+      "textEn": "I think the way both Zip2 and PayPal operated was really your canonical Silicon Valley startup.",
+      "textZh": "我认为 Zip2 和 PayPal 的运作方式，确实就是典型的硅谷初创公司模式。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 1522.99,
+      "textEn": "Pretty flat hierarchy. Everybody had a roughly similar cube and anyone could talk to anyone. We had a philosophy of best idea wins as opposed to, you know, the person proposing the idea winning because they are who they are. Even though there were times when I thought that should have been the way it goes.",
+      "textZh": "相当扁平的层级结构。每个人的隔间都大致相似，任何人都可以和任何人交谈。我们的理念是最好的想法胜出，而不是，你知道，由于提出想法的人是谁，所以那个人胜出。尽管有些时候，我觉得事情本该那样发展。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1547.3,
+      "textEn": "And obviously, you know, everyone was an equity stakeholder, give us anything.",
+      "textZh": "而且显然，你知道，每个人都是股权利益相关者，给我们任何东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 1559.67,
+      "textEn": "If there were two paths that, you know, let's say we had to choose to do one thing or the other, and one wasn't obviously better than the other, then rather than spend a lot of time trying to figure out which one was slightly better, we would just pick one and do it. And sometimes we'd be wrong and we'd pick the suboptimal path. But often it's better to pick a path and do it than to just vacillate endlessly on a choice.",
+      "textZh": "如果有两条路径，你知道，比如说我们必须选择做这件事或那件事，而其中一条并没有明显优于另一条，那么与其花大量时间试图弄清哪一条稍微更好，我们会直接选一条去做。有时我们会选错，选到次优的路径。但通常，选择一条路径去做，要比在一个选择上无休止地摇摆不定更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Elon Musk",
+      "startSec": 1587.63,
+      "textEn": "We didn't worry too much about intellectual property, paperwork, legal stuff. We really were very focused on building the best product that we possibly could. Both Zip2 and PayPal were very product focused companies that, that's. We're incredibly obsessive about how do we build something that is really going to be the best possible customer experience.",
+      "textZh": "我们没有太担心知识产权、文书工作、法律事务。我们确实非常专注于打造我们所能打造的最好产品。Zip2 和 PayPal 都是非常注重产品的公司，那个，那就是。我们极其执着于如何打造真正能够提供最佳客户体验的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 1616.04,
+      "textEn": "And that was a far more effective selling tool than having a giant sales force or thinking of marketing gimmicks or 12 step processes or whatever.",
+      "textZh": "而这是一种远比拥有庞大的销售团队，或构思营销噱头、12步流程之类的东西更有效的销售工具。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 1628.36,
+      "textEn": "I'm not super familiar with Friendster, certainly. I mean, the essence of viral marketing is do you have something that one customer is where one customer is going to sell another customer without you having to do anything.",
+      "textZh": "我当然不是特别熟悉 Friendster。我的意思是，病毒式营销的本质在于，你是否拥有某种东西，使得一个客户会在你什么都不用做的情况下，向另一个客户推销它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 1642.93,
+      "textEn": "And there are lots of instances of that. Friendster might be one. Obviously Hotmail was one, PayPal was one, eBay was one.",
+      "textZh": "这种例子有很多。Friendster 可能是其中一个。显然，Hotmail 是一个，PayPal 是一个，eBay 是一个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 1653.97,
+      "textEn": "And in a situation like that, going back to what I said about product, product matters incredibly. Because if you're going to recommend something to somebody, you've got to really love the product experience, otherwise you're not going to recommend it because you don't want to burn your friend.",
+      "textZh": "而在这种情况下，回到我刚才谈产品时说的，产品极其重要。因为如果你要向某个人推荐某样东西，你就必须真正喜欢这种产品体验，否则你不会推荐它，因为你不想坑自己的朋友。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 1669.09,
+      "textEn": "Hurdles in the space industry, entering the space industry.",
+      "textZh": "航天行业中的障碍，进入航天行业。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 1674.21,
+      "textEn": "Well, you know, it is a very complicated regulatory structure, as you might imagine, when somebody tries to build an orbital launch vehicle, which is not really all that distinguishable from an icbm. There's a lot of regulation, and they probably should be because you don't want to launch something and end up hitting la, where I live.",
+      "textZh": "嗯，你知道，监管结构非常复杂，正如你可以想象的那样，当有人试图建造一种轨道运载火箭时，它其实与洲际弹道导弹没有那么容易区分。有很多监管，而且可能也应该如此，因为你不希望发射某个东西，结果它击中了我居住的洛杉矶。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 1697.54,
+      "textEn": "So probably the regulatory stuff was very difficult. The environmental approvals certainly proven very difficult. Much more so than we expected. I mean, here in Silicon Valley. What I came to appreciate is in Silicon Valley, you live in a libertarian paradise.",
+      "textZh": "所以，监管方面的事情可能非常困难。事实证明，环境审批确实非常困难。远比我们预期的困难。我的意思是，在硅谷这里。我逐渐认识到的是，在硅谷，你生活在一个自由意志主义者的天堂里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 1716.54,
+      "textEn": "There's almost no regulation. And what can be very frustrating is that regulation is often irrational, it doesn't make any sense. But you've got somebody there who is simply executing a set of rules independent of where those rules make sense, and you can try to convince them that the rules don't make sense and they won't listen to you so fully. Regulation is the most annoying thing, I would say. Overall though, I'm very pleased because I think we've had a very smooth development process and on the whole, I can't complain at all.",
+      "textZh": "几乎没有监管。非常令人沮丧的一点是，监管往往不合理，完全说不通。但那里有人只是在执行一套规则，不管那些规则是否合理，而你可以试着说服他们这些规则不合理，他们也不会完全听你的。所以我会说，监管是最令人恼火的事情。不过总体而言，我非常满意，因为我认为我们的开发过程非常顺利，而且总的来说，我完全没什么可抱怨的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Elon Musk",
+      "startSec": 1750.09,
+      "textEn": "Yeah. Why is it so expensive to send something into space?",
+      "textZh": "是的。为什么把东西送入太空这么昂贵？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 1754.25,
+      "textEn": "Well, let me tell you what makes a rocket hard.",
+      "textZh": "嗯，让我告诉你火箭难在哪里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 1759.93,
+      "textEn": "The energy and the velocity required to get into orbit is so substantial that compared to, say, a car or even a plane plane, you have almost no margin to play with. Typically, a launch vehicle will get about 2% of its liftoff mass to orbit, and that's the case for Falcon. So if you can only get 2% of what your rocket weighs to begin with to orbit, if you're wrong by 2%, you're not going to get anything to orbit, come crashing down in the Pacific somewhere.",
+      "textZh": "进入轨道所需的能量和速度是如此之大，以至于与比如汽车、甚至飞机飞机相比，你几乎没有任何余量可供周旋。通常，运载火箭只能将其起飞质量的大约2%送入轨道，猎鹰也是如此。所以，如果一开始只能将火箭重量的2%送入轨道，而你又错了2%，那你就什么也送不上轨道，只会坠落在太平洋的某个地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 1798.63,
+      "textEn": "So that means all of your calculations have to be right.",
+      "textZh": "所以这意味着你的所有计算都必须正确。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1804.95,
+      "textEn": "If you miscalculate something, you get an answer wrong, it blows up. And it's very expensive trying to get all your answers right and then double checking that they're right and testing them all and doing as much as you can on the ground, I think that's a lot of what makes rockets expensive. The low launch rate typically is also what makes rocket rockets expensive. If you had thousands of flights a year, then it would be a lot cheaper, although it's a bit of a chicken and egg because it needs to be cheaper in order to have thousands of flights a year.",
+      "textZh": "如果你算错了什么，得出了错误答案，它就会爆炸。努力确保所有答案都正确，然后再次核查它们是否正确，对它们进行全面测试，并尽可能多地在地面上完成工作，是非常昂贵的。我认为，这在很大程度上就是火箭昂贵的原因。通常，低发射频率也是导致火箭火箭昂贵的原因。如果每年有数千次飞行，那么成本就会低得多，不过这有点像先有鸡还是先有蛋的问题，因为它必须变得更便宜，才能实现每年数千次飞行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 1835.38,
+      "textEn": "But at the end of the day, in the final analysis, I would say that rockets really should be a lot cheaper than they are today. And I think the way that they're built, the way they're operated, is just very inefficiently.",
+      "textZh": "但归根结底，经过最终分析，我会说火箭确实应该比现在便宜得多。而且我认为，它们的建造方式、运营方式，就是非常低效地。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1849.08,
+      "textEn": "And I think with SpaceX and Falcon, we're going to show that that's the case. Our vehicle will sell for about $6 million a flight. Our nearest competitor is the Pegasus from Orbital Sciences, which is about $25 million a flight and that has less capability than our rocket. So Falcon represent a pretty substantial breakthrough on the cost of access to space. Space.",
+      "textZh": "我认为，通过 SpaceX 和猎鹰，我们将证明事实确实如此。我们的飞行器每次飞行将以大约600万美元的价格出售。离我们最近的竞争对手是轨道科学公司的飞马座，每次飞行的价格约为2500万美元，而且它的能力还不如我们的火箭。因此，猎鹰代表着在进入太空的成本方面一次相当重大的突破。太空。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1877.82,
+      "textEn": "Can you talk a little bit about the difference in the customer base you have to target with SpaceX versus experiences with PayPal and how much more challenge that presents? Yeah, the customer base with SpaceX is just dramatically different, obviously, from PayPal. PayPal is a consumer product, whereas SpaceX, we're selling rockets and the number of people who want to buy rockets is quite small. If Anyone here has $6 billion and wants a rocket, I mean, I'd be glad to sell it to them.",
+      "textZh": "你能不能稍微谈谈，SpaceX 必须瞄准的客户群与 PayPal 时的经历有何不同，以及这带来了多大得多的挑战？是的，SpaceX 的客户群显然与 PayPal 截然不同。PayPal 是一款消费产品，而 SpaceX，我们销售的是火箭，想购买火箭的人数量相当少。如果这里有人有60亿美元，并且想要一枚火箭，我的意思是，我很乐意卖给他们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1908.76,
+      "textEn": "So it's much more of an individual selling process. There's a great deal more thought that goes into any purchase of a launch. Much more so than signing up a PayPal account, which doesn't really cost you much.",
+      "textZh": "所以，这更多是一种针对个体的销售过程。每一次购买发射服务，都要经过多得多的考虑。远比注册一个 PayPal 账户要多，后者其实花不了你多少钱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1924.04,
+      "textEn": "So. Yeah. And there's not a lot of viral marketing that's going to happen with the rocket, I suspect. I'm hoping, but, you know, I'm not counting on it.",
+      "textZh": "所以。是的。而且我猜火箭不会发生太多病毒式营销。我对此抱有希望，但，你知道，我并不指望它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 1935.74,
+      "textEn": "I think successful entrepreneurs probably come in all sizes, shapes and flavors. I'm not sure there's any one particular thing for me. You know, some of the things I've described already I think are very important. I think really an obsessive nature with respect to the quality of the product is very important. So, you know, being obsessive compulsive is a good thing in this context.",
+      "textZh": "我认为成功的创业者可能有各种体量、形态和风格。我不确定对我而言是否存在某一种特定的东西。你知道，我已经描述过的一些事情，我认为非常重要。我认为，对产品质量真正抱有执着的天性非常重要。所以，你知道，在这种情况下，有强迫性执着是件好事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 1966.87,
+      "textEn": "Really, really liking what you do, whatever area that you get into. Given that even if you're the best, the best, there's always a chance of failure. So I think it's important that you really like whatever you're doing. If you don't like it, life is too short, you know, I'd say. And also, if you like what you're doing, you think about it even when you're not working. I mean, it'll just. It's something that your mind is drawn to and if you don't like it, you just really can make it work.",
+      "textZh": "真的、真的喜欢你所做的事，无论你进入哪个领域。鉴于即使你是最优秀、最优秀的，也始终存在失败的可能。所以我认为，你真正喜欢自己所做的任何事情很重要。如果你不喜欢它，人生太短了，你知道，我会这么说。而且，如果你喜欢自己正在做的事，即使不工作时也会想着它。我的意思是，它就是。它是你的思绪会被吸引过去的东西，而如果你不喜欢它，你就真的能让它行得通。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1999.32,
+      "textEn": "I think.",
+      "textZh": "我认为。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 2004.44,
+      "textEn": "SpaceX is about 30 people.",
+      "textZh": "SpaceX大约有30人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 2007.88,
+      "textEn": "And what we do internally at SpaceX is we do all of the design, analysis, integration of hardware testing, and then launch operations. But a lot of the heavy manpower stuff like welding together our primary structure, the heavy machining and so forth that we outsource, so we'd be a much larger company if we did all that internally and. Sorry, you had another part to your question?",
+      "textZh": "而我们在SpaceX内部所做的是，我们负责所有设计、分析、硬件测试集成，然后是发射操作。但许多需要大量人力的工作，比如焊接我们的主体结构、重型机械加工等等，我们都会外包，所以如果我们在内部完成所有这些工作，我们会是一家规模大得多的公司，而且。抱歉，你的问题还有另一部分？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Elon Musk",
+      "startSec": 2033.91,
+      "textEn": "Oh, yeah.",
+      "textZh": "哦，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 2036.23,
+      "textEn": "Actually, we don't have any lawyers.",
+      "textZh": "实际上，我们没有任何律师。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Elon Musk",
+      "startSec": 2039.75,
+      "textEn": "The regulatory stuff that we deal with is very technical. It's really a lot like trying to get an airplane certified. With the faa, we're just getting a rocket certified. So our documentation is very. I wish we could offload it to some lawyers. They wouldn't know what the heck to do.",
+      "textZh": "我们要处理的监管事务技术性很强。其实很像是设法让一架飞机获得认证。只不过在联邦航空管理局那里，我们是在让一枚火箭获得认证。所以我们的文件非常。我倒希望能把它转交给一些律师。他们根本不知道该怎么做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 2061.99,
+      "textEn": "How did the Wharton degree help? I think a business degree teaches you a lot of the terminology. It introduces you to concepts that you would otherwise. You know, there's terminology, there's something to be said for that.",
+      "textZh": "沃顿学位起到了什么帮助？我认为商科学位会教给你许多术语。它会向你介绍一些概念，否则你就会。你知道，术语，这方面还是有价值的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 2075.99,
+      "textEn": "It introduces you to concepts you would otherwise have to learn empirically. I mean, I think you can learn whatever you need to do to start a successful business either in school or out of school. School, you know, in theory, should help accelerate that process. And I think it's. Oftentimes it does. It can be an efficient learning process, perhaps more efficient than empirically learning lessons. But really, I think you.",
+      "textZh": "它会向你介绍一些否则必须通过实践来学习的概念。我的意思是，我认为无论在学校内还是学校外，你都能学会创办一家成功企业所需的一切。学校，你知道，理论上应该有助于加快这个过程。而且我认为它。很多时候确实如此。它可以是一种高效的学习过程，也许比通过实践吸取教训更加高效。但实际上，我认为你。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 2103.84,
+      "textEn": "There are examples of successful entrepreneurs who never graduated high school, and there are those that have PhDs. So I think the important principle is to be dedicated to learning what you need to know, whether that is in school or empirically.",
+      "textZh": "有些成功企业家从未高中毕业，也有些人拥有博士学位。所以我认为，重要的原则是致力于学习你需要知道的东西，无论是在学校里学习还是通过实践学习。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 2126.99,
+      "textEn": "Well, I should point out that Falcon, our first vehicle, doesn't really have the same capability as either the Chinese, the Russian, or the space shuttle vehicles that I mentioned. Falcon would be in the light class of launch vehicles, whereas the space shuttle would be a heavy class launch vehicle. So it's not quite an apples to apples comparison.",
+      "textZh": "嗯，我应该指出，我们的第一款飞行器Falcon，其实并不具备我提到的中国、俄罗斯或航天飞机所拥有的同等能力。Falcon属于轻型运载火箭，而航天飞机属于重型运载火箭。所以这不完全是同类比较。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 2148.04,
+      "textEn": "However, the right comparison would be Falcon compared to the Pegasus from Orbital sciences. Falcon is 6 million, the Pegasus is 25 million.",
+      "textZh": "不过，正确的比较应该是将Falcon与轨道科学公司的Pegasus相比。Falcon是600万，Pegasus是2500万。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 2159.88,
+      "textEn": "And the way we've gotten our prices low, our costs low, is we've really focused on every element of the launch vehicle. There's really no one silver bullet that has been responsible for a substantial portion of the cost savings. It's been really hundreds of small innovations and improvements. And so we've done improvements in the propulsion system, the structure, the avionics, and the launch operations, as well as maintain a very low overhead organization.",
+      "textZh": "而我们之所以能把价格降下来、把成本降下来，是因为我们确实专注于运载火箭的每一个要素。实际上，并没有哪一颗银弹促成了成本节省中的很大一部分。真正起作用的是数百项小创新和改进。因此，我们对推进系统、结构、航空电子设备和发射操作都进行了改进，同时还维持着一个管理费用非常低的组织。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Elon Musk",
+      "startSec": 2186.48,
+      "textEn": "And when you add up all the things we've done in those areas, that allows us to produce the launch vehicle at $6 million.",
+      "textZh": "而当你把我们在这些领域所做的一切加在一起时，这使我们能够以600万美元的价格生产运载火箭。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 2196.16,
+      "textEn": "As far as PayPal, there were a lot of back office relationships that we needed to establish and to attach to various heterogeneous data sources. We needed to attach to the credit card system for processing credit cards. We needed to attach to the Federal Reserve System for doing electronic funds transfers. We needed to attach to various fraud databases to run fraud checks.",
+      "textZh": "至于 PayPal，我们需要建立许多后台关系，并接入各种异构数据源。我们需要接入信用卡系统来处理信用卡。我们需要接入美联储系统来进行电子资金转账。我们还需要接入各种欺诈数据库来开展欺诈检查。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Elon Musk",
+      "startSec": 2224.63,
+      "textEn": "There was a lot that we had to. We have to interface with.",
+      "textZh": "有很多东西是我们必须。我们必须与之对接的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 2230.02,
+      "textEn": "And that took a while, but it all came together, I think roughly simultaneously. I mean, developing the software and having it ready for the general public reasonably coincided with us being able to conclude those deals and interface with the outside vendors and all that took about a year. I think one thing that's important is to try not to serialize dependencies. So if you can put as many elements in parallel as possible, a lot of things have a gestation period and there's really nothing you can do to accelerate.",
+      "textZh": "而这花了一段时间，但我认为，这些事情大致是同时完成的。我的意思是，软件开发完成并能够提供给公众使用的时间，基本上与我们能够敲定那些交易、对接外部供应商的时间相吻合，而这一切大约花了1年。我认为，有一点很重要，就是尽量不要把相互依赖的事项串行处理。所以，如果可以把尽可能多的事项并行推进，很多事情都有一个孕育期，而你实际上没有任何办法加快它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Elon Musk",
+      "startSec": 2268.489,
+      "textEn": "I mean, it's very hard to accelerate that gestation period.",
+      "textZh": "我的意思是，要加快那个孕育期非常困难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 2273.93,
+      "textEn": "So if you can sort of have all those things gestating in parallel, then that is one way to substantially accelerate your timeline. I think people tend to serialize things too much.",
+      "textZh": "所以，如果你能让所有那些事情以某种方式并行孕育，那么这就是大幅缩短时间进度的一种方法。我认为，人们往往把事情串行处理得太多了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 2287.14,
+      "textEn": "We did do a few patents on the PayPal system, although nothing that ever actually mattered. So patents are mostly useful in a defensive situation rather than offensive. It can be very difficult to actually offensively prosecute a patent.",
+      "textZh": "我们确实为 PayPal 系统申请了几项专利，不过实际上没有一项真正发挥过作用。所以，专利主要在防御性场景中有用，而不是进攻性场景。要真正主动发起专利诉讼可能非常困难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 2307.2,
+      "textEn": "So I think in certain industries like pharmaceuticals and so forth, patents can be incredibly important. In software, particularly when you've got a very rapid life cycle where, you know, you made sure you got a patent but now it's redundant, so who cares? It's less relevant in when you've got a rapid life cycle.",
+      "textZh": "所以我认为，在制药等某些行业，专利可能极其重要。在软件行业，尤其是当产品生命周期非常短时，你知道，你确保拿到了专利，但现在它已经多余了，那谁还在乎呢？当生命周期很短时，它的相关性就没那么大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 2331.77,
+      "textEn": "Well, I don't, you know, I've looked at the various. There are a couple things that I think are pretty bogus. One is space mining. Another is space solar power. I mean, if you calculate how much it costs to bring either the photons from space solar power back to Earth or the raw material back to Earth, the economics don't make sense. They just can't close the economic case, not even by. It's probably off by three orders of magnitude.",
+      "textZh": "嗯，我不，你知道，我研究过各种各样的。我认为有几件事相当荒唐。一件是太空采矿，另一件是太空太阳能。我的意思是，如果你计算一下把太空太阳能产生的光子送回地球，或者把原材料运回地球需要花多少钱，从经济角度看都说不通。它们根本无法在经济上成立，甚至不……。可能差了3个数量级。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 2362.37,
+      "textEn": "So I think probably the biggest thing that could happen is if we decide to establish a base on the moon or a base on Mars, and particularly if we attempt to make a self sustaining base, self sustaining civilization on the moon or Mars, that is enormous opportunity on probably the trillion dollar level because then you've got basically interplanetary commerce going on. I think that's pretty huge.",
+      "textZh": "所以我认为，可能发生的最大事件是，我们决定在月球或火星上建立基地，尤其是如果我们试图在月球或火星上建立一个自给自足的基地、自给自足的文明，那将是一个巨大的机会，规模可能达到1万亿美元，因为届时基本上就会出现行星际商业活动。我认为那会非常巨大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Elon Musk",
+      "startSec": 2394.86,
+      "textEn": "But it's not going to be space solar power, it's not going to be space mining, I think.",
+      "textZh": "但我认为，它不会是太空太阳能，也不会是太空采矿。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 2405.18,
+      "textEn": "So let's see the government, who knows, maybe we're being spied upon, I don't know. But certainly there are some restrictions which are really annoying, such as that we're only allowed to employ people who have at least a green card or are citizen of the US we're not allowed to employ anyone who does not have permanent residency in the U.S. basically, if they can't throw you in jail, they won't let you work on rocket stuff.",
+      "textZh": "所以，看看政府吧，谁知道呢，也许我们正受到监视，我不知道。但确实存在一些非常烦人的限制，比如我们只能雇用至少持有绿卡或是美国公民的人，我们不能雇用任何没有美国永久居留权的人。基本上，如果他们不能把你扔进监狱，就不会让你从事火箭方面的工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 2434.32,
+      "textEn": "And if we talk to any foreign nationals, we need a technology transfer agreement or something like that from the state Department. So our second launch is actually a non US governmental launch and it's taken us six months to get the state upon approval just to engage in a contract discussion with them. So that is problematic.",
+      "textZh": "而且，如果我们与任何外国国民交谈，就需要从国务院获得一份技术转让协议或类似文件。因此，我们的第2次发射实际上是一次非美国政府的发射，而我们仅仅为了与他们展开合同讨论，就花了6个月才获得国务院批准。所以这很成问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 2464.05,
+      "textEn": "We had several offers actually from a number of different entities for PayPal.",
+      "textZh": "实际上，我们收到过多个不同实体对 PayPal 提出的几份收购要约。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 2470.61,
+      "textEn": "And in fact, the closer we got to IPO, the more offers we got. But we always felt that those undervalued the company. And subsequently when we went public, I think the public markets kind of indicated the value of the company.",
+      "textZh": "事实上，我们越接近首次公开募股，收到的要约就越多。但我们始终觉得，那些要约低估了公司的价值。后来我们上市时，我认为公开市场算是表明了公司的价值。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Elon Musk",
+      "startSec": 2485.1,
+      "textEn": "So I think that's one of the good things about the public markets is that they're an objective valuer of companies. When you're a private company, it's very hard to say how much you're worth because you have to basically think of some metric. Are you going to go off a multiple of future earnings? Are you going to go off something of revenue? What are your comparables going to be? There are all sorts of questions. It's really up for debate what sort of value your company is when you're public.",
+      "textZh": "所以我认为，公开市场的一个好处就是，它们是公司的客观估值者。当你是一家私营公司时，很难判断自己值多少钱，因为你基本上必须想出某种衡量指标。你是要按未来收益的倍数来算吗？还是要按收入的某种指标来算？你的可比公司会是哪些？这里面有各种各样的问题。当你上市时，你的公司究竟价值多少，实际上是可以争论的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 2512.25,
+      "textEn": "You know, it's whatever the market says you're worth, that's what you're worth.",
+      "textZh": "你知道，市场说你值多少，你就值多少。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 2516.97,
+      "textEn": "So, yeah, so I think ebay made a number of offers prior to going public that were substantially below our. The value at once went post public and that kind of cleared up the disagreement and then we solved them.",
+      "textZh": "所以，是的，我认为 eBay 在我们上市之前提出过多份要约，都大幅低于我们的。上市后的价值，而这算是消除了分歧，然后我们解决了他们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 2535.13,
+      "textEn": "And what else? Actually, you had a second part of the question.",
+      "textZh": "还有什么？实际上，你的问题还有第2部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 2539.95,
+      "textEn": "I was wondering if you were concerned that ebay's current solution was going to be in a crash so they didn't need another solution. Yeah, eBay had a.",
+      "textZh": "我想知道，你是否担心 eBay 目前的解决方案会陷入崩溃，所以他们不需要另一个解决方案。是的，eBay 有一个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 2549.87,
+      "textEn": "It was initially BillPoint and there was ebay payments and it was really a pretty tough, long running battle of PayPal versus eBay's payment system. And it was certainly a very challenging. I mean, I think it was, you know, there were times when it felt like we were trying to win a land war in Asia. And, you know, they kind of set the ground rules or trying to beat Microsoft in their own operating system. It's really, really pretty hard.",
+      "textZh": "起初是 BillPoint，后来又有 eBay Payments，而 PayPal 与 eBay 支付系统之间确实经历了一场非常艰难、旷日持久的战斗。而且这当然非常具有挑战性。我的意思是，我认为，你知道，有些时候感觉我们是在设法打赢一场亚洲陆地战争。而且，你知道，规则有点由他们制定，或者就像试图在微软自己的操作系统上击败微软。真的、真的相当困难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Elon Musk",
+      "startSec": 2577.64,
+      "textEn": "That took a lot of our effort to actually beat ebay on their own system.",
+      "textZh": "为了真正在 eBay 自己的系统上击败 eBay，我们投入了大量精力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 2584.6,
+      "textEn": "And one of the long term risks certainly for the company was that ebay would one day prevail. And one way to retire that risk obviously was to sell to ebay.",
+      "textZh": "而对公司来说，一个长期风险无疑是 eBay 有朝一日会胜出。显然，消除这一风险的一种办法就是把公司卖给 eBay。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Elon Musk",
+      "startSec": 2600.53,
+      "textEn": "Writing software during the summer of 95, trying to make useful things happen on the Internet. And I wrote something that allowed you to get maps and directions on the Internet and then something that allowed you to do online manipulation of content. Kind of a really advanced blogging system.",
+      "textZh": "在95年夏天编写软件，试图让互联网上出现一些有用的东西。我写了一个能让你在互联网上获取地图和路线指引的东西，然后又写了一个能让你在线处理内容的东西。有点像一个非常先进的博客系统。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 2621.1,
+      "textEn": "And then we started talking to small newspapers and media companies and so forth and we started getting some interest. I mean, half the time we'd be like, what's the Internet even in Silicon Valley? But then occasionally somebody would buy it and we'd get a little bit of money from them. And then there was basically only about six of us. There were myself, my brother who I convinced to come down from Canada, and a friend of my mom's, and then three salespeople we hired on contingency by putting an ad in the newspaper.",
+      "textZh": "然后我们开始与小型报社和媒体公司等等交谈，并开始得到一些关注。我的意思是，有一半时间，即使在硅谷，我们也会说，互联网到底是什么？但偶尔也会有人购买，我们就能从他们那里得到一点钱。然后基本上只有大约6个人。有我、被我说服从加拿大过来的弟弟、我妈妈的一位朋友，还有我们通过在报纸上刊登广告、以业绩提成方式聘用的3名销售人员。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Elon Musk",
+      "startSec": 2657.01,
+      "textEn": "But things were pretty tough in the early going. I didn't have any money. In fact, I had negative money. I had huge student debts.",
+      "textZh": "但刚开始时情况相当艰难。我没有任何钱。事实上，我的钱是负数。我背负着巨额学生债务。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 2668.13,
+      "textEn": "In fact, I couldn't afford a place to stay and an office, so I rented an office instead because that was actually, I got a cheaper office than I could get a place to stay. And then I just sort of slept on the futon and showered. The YMCA on Pagemull and El Camino.",
+      "textZh": "事实上，我负担不起一个住处加一间办公室，所以我转而租了一间办公室，因为实际上，我能租到的办公室比我能找到的住处更便宜。然后我就睡在蒲团沙发上，洗澡。Pagemull 和 El Camino 路上的 YMCA。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Elon Musk",
+      "startSec": 2685.46,
+      "textEn": "I was in the best shape I've ever been.",
+      "textZh": "那是我有生以来身体状态最好的时候。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 2689.38,
+      "textEn": "Shower workout and you're good to go. And there was an ISP on the floor below us, just like a little tiny isp. And we drilled a hole through the floor and connected a null modem cable that gave us our Internet connectivity for like 100 bucks a month. So I mean, we had just an absurdly tiny burn rate and we also had, you know, a really tiny revenue stream, but we actually had more revenue than we had expenses. So, so when we went and talked to VCs, we could actually.",
+      "textZh": "洗澡，锻炼，然后你就可以出发了。我们楼下有一家互联网服务提供商，就是一家很小很小的 ISP。我们在地板上钻了一个洞，接上一条零调制解调器电缆，它以每月大约100美元的价格为我们提供互联网连接。所以我的意思是，我们的资金消耗率低得荒谬，而我们也有，你知道，非常少的收入来源，但实际上我们的收入比支出更多。所以，所以当我们去和风险投资人谈时，我们其实可以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Elon Musk",
+      "startSec": 2725.53,
+      "textEn": "Well, like I said, there's no silver bullet that I can point to as to why our vehicle is a lot cheaper. We've really focused on reducing the cost across the board. I mean, one thing, our overhead in a 30 person company is, you know, an order of magnitude less than it is in Lockheed or Boeing, just for starters. So even if we did everything the same and built the same launch vehicle, we'd be considerably cheaper. And then every decision we've made has been with consideration to simplicity.",
+      "textZh": "嗯，正如我所说，对于我们的运载火箭为何便宜得多，我指出不了什么万能解决方案。我们确实专注于全面降低成本。我的意思是，举个例子，一家30人公司的管理费用，你知道，首先就比洛克希德或波音低一个数量级。所以即使我们做的所有事情都一样，并制造同样的运载火箭，我们也会便宜很多。然后，我们作出的每一个决定都考虑到了简洁性。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Elon Musk",
+      "startSec": 2756.81,
+      "textEn": "And the reason for simplicity is because that both improves the reliability as well as reduces your cost. If you've got fewer components, that's fewer components to go wrong and fewer components to buy.",
+      "textZh": "追求简洁性的原因是，它既能提高可靠性，也能降低成本。如果组件更少，那就意味着会出故障的组件更少，需要购买的组件也更少。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Elon Musk",
+      "startSec": 2768.81,
+      "textEn": "I think there's, there's, I think a fairly significant innovation in our airframe which is semi pressure stabilized monocoque with variable skin thickness and a common bulkhead, if you know what that means. I need a diagram to explain it all, but the net result is that it's very cheap and it's very mass efficient and I think easy to test and quite reliable. Our avionics system, I'll give you another example. Our avionics system, we use an ethernet on the vehicle to communicate.",
+      "textZh": "我认为，我们的，我认为我们的箭体结构中存在一项相当重大的创新，也就是采用可变蒙皮厚度和共用舱壁的半压力稳定式硬壳结构，如果你知道那是什么意思的话。我需要一张图才能把这一切解释清楚，但最终结果是，它非常便宜，质量效率非常高，而且我认为易于测试，也相当可靠。我们的航空电子系统，我再举一个例子。我们的航空电子系统使用运载火箭上的以太网进行通信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Elon Musk",
+      "startSec": 2800.96,
+      "textEn": "That may not sound like a great innovation, but it is. Launch vehicles, all the other launch vehicles communicate in the vehicle by these serial cables that run the entire length of the vehicle. And so you've got these giant copper bundles as thick as your arm running up and down the vehicle makes it heavier, it makes it expensive. And so there's things like that which when you add them all up, it makes a huge difference.",
+      "textZh": "那听起来可能算不上什么了不起的创新，但它确实是。运载火箭，其他所有运载火箭，都是通过贯穿整个箭体的这些串行电缆在箭体内部进行通信。所以你会看到像手臂一样粗的巨大铜线束在箭体内上下贯穿，这让它更重，也让它更昂贵。所以有很多这样的东西，把它们全都加起来，就会产生巨大的差异。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Elon Musk",
+      "startSec": 2829.21,
+      "textEn": "No, that's a good question. That's a good question. No, I would not. I think SpaceX is not, this is advanced entrepreneuring and it may also, I can't tell you how many people have said that, you know, the fastest way to turn, the fastest way to make a small fortune in the aerospace industry is to start with a large one.",
+      "textZh": "不，这是个好问题。这是个好问题。不，我不会。我认为 SpaceX 并不，这属于高级创业，而且它可能还会，我都数不清有多少人说过，你知道，把，把一大笔财富变成一小笔财富的最快方式，在航空航天业赚到一小笔财富的最快方式，就是先拥有一大笔财富。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 2854.4,
+      "textEn": "So hopefully that doesn't work out, but I would definitely, I think space is a tough one for first time entrepreneurs.",
+      "textZh": "所以希望事情不会变成那样，但我肯定，我认为太空对于初次创业者来说是个艰难的领域。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Elon Musk",
+      "startSec": 2866.48,
+      "textEn": "You're better off starting with something that requires low capital and space is a high capital effort.",
+      "textZh": "你最好从资本需求较低的事情做起，而太空是一项高资本投入的事业。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Elon Musk",
+      "startSec": 2874.16,
+      "textEn": "Sorry, last question.",
+      "textZh": "抱歉，最后一个问题。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T00:59:19.061Z",
+    "reviewedAt": "2026-09-13T02:33:39.297Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:43.836Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "9c6cf0b4a1444ee4feb57ce92301daafcea5b83809fe906beddae3e34734442e"
+}

@@ -1,0 +1,1150 @@
+{
+  "id": "montana-economic-development-summit-2013-09-16",
+  "slug": "montana-economic-development-summit-2013-09-16",
+  "snapshotId": "2026-09-12",
+  "type": "speech",
+  "date": "2013-09-16",
+  "titleEn": "Montana Economic Development Summit",
+  "titleZh": "蒙大拿州经济发展峰会",
+  "summaryEn": "Keynote address on SpaceX, Tesla and sustainable energy at the Montana Jobs Summit in Butte.",
+  "summaryZh": "在比尤特举行的蒙大拿州就业峰会上发表关于 SpaceX、Tesla 和可持续能源的主题演讲。",
+  "sourceUrl": "https://www.youtube.com/watch?v=fWCCcgVwNJ0",
+  "sourceLabel": "MontanaJobsSummit",
+  "archiveUrl": "https://elonmuskarchive.org/video/montana-economic-development-summit-2013-09-16",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/fWCCcgVwNJ0",
+  "thumbnailUrl": "https://i.ytimg.com/vi/fWCCcgVwNJ0/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 2123,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Moderator",
+      "startSec": 2.88,
+      "textEn": "Next speaker certainly thinks big, very big. He dreams big, does big things. His ideas have been described as excessively",
+      "textZh": "下一位演讲者的想法无疑很宏大，非常宏大。他有远大的梦想，做大事。他的想法被形容为过分地",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 15.32,
+      "textEn": "cool",
+      "textZh": "酷",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Moderator",
+      "startSec": 17.76,
+      "textEn": "whether it's PayPal the car or SpaceX obviously as you know when the co founders of PayPal CEO today, Tesla drove one of his cars a short while ago and man they are, they got pick up and cool. They are really cool.",
+      "textZh": "无论是 PayPal、汽车还是 SpaceX，显然，正如各位所知，当 PayPal 的联合创始人、如今的首席执行官，Tesla，不久前驾驶过他的一辆车，天啊，它们，它们加速很猛，而且很酷。它们真的很酷。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Moderator",
+      "startSec": 35.05,
+      "textEn": "SpaceX, you know, he's tied in here with Seacast because a lot of SpaceX rocket components are made right here in Butte by the Robins family. So we're very, very proud of all that. Let's give a big, big round of applause to Elon Musk.",
+      "textZh": "SpaceX，你们知道，他通过 Seacast 与这里建立了联系，因为许多 SpaceX 火箭部件正是由罗宾斯家族在比尤特这里制造的。所以我们对此感到非常、非常自豪。让我们用非常、非常热烈的掌声欢迎埃隆·马斯克。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 63.96,
+      "textEn": "All right, thanks very much for having me. I actually just came from ccast which",
+      "textZh": "好的，非常感谢你们邀请我。其实我刚从 ccast 过来，那里",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Audience Member",
+      "startSec": 70.92,
+      "textEn": "is",
+      "textZh": "是",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 73,
+      "textEn": "they make cast titanium and inconel parts for the SpaceX rocket engines and actually brought all my five kids who are sitting right there.",
+      "textZh": "他们为 SpaceX 火箭发动机制造铸钛和铬镍铁合金零件，而且实际上我把我的5个孩子都带来了，他们就坐在那里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 90.8,
+      "textEn": "So they got to see steel being poured and then titanium being poured as well and creating sophisticated castings. They seem pretty excited about that. And it was kind of like Charlie and the metal factory I guess.",
+      "textZh": "所以他们看到了钢水浇注，之后也看到了钛液浇注并制成复杂的铸件。他们似乎对此相当兴奋。我猜这有点像《查理和金属工厂》。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 112.03,
+      "textEn": "So let's see. I guess I'll maybe talk a bit about entrepreneurship and technology, tell you about my experiences and what happened to me and then I think we're going to try to reserve as much time as possible for Q and A from the audience and certainly feel free to ask any questions, any and every question.",
+      "textZh": "那么，让我想想。我想我可能会谈一点创业和技术，跟各位讲讲我的经历以及发生在我身上的事，然后我想我们会尽量为现场观众的问答留出尽可能多的时间，当然，大家尽管提出任何问题，任何一个、每一个问题都可以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 133.65,
+      "textEn": "And so I'll kind of give the nutshell account because it's getting a little bit long at this point. So I arrived in North America when I was about 17. I was born in South Africa, but I was actually named after my American great grandfather. So I was returning to my ancestral homeland actually.",
+      "textZh": "所以我会做个简要讲述，因为到这个时候，故事已经变得有点长了。我大约17岁时来到北美。我出生在南非，但实际上，我的名字取自我的美国曾祖父。所以实际上，我是在回归自己的祖籍故土。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 157.66,
+      "textEn": "And he was John Elon Haldeman and he was actually from Minnesota and generally from the Minnesota, Wisconsin area anyway. But I wanted to come to the United States because I think it's where great things are possible. It's where the technological frontiers are pushed forward. And I knew I wanted to be involved in that. I didn't know exactly how, but anyway, I went through college and ended up eventually at Stanford with the idea of studying applied physics and material science, trying to figure out ways to store energy more effectively for electric cars so you can make them go further.",
+      "textZh": "他叫约翰·埃隆·霍尔德曼，实际上来自明尼苏达州，总之大体来自明尼苏达州、威斯康星州一带。但我想来美国，因为我认为这里能成就伟大的事情。这里推动着技术前沿不断向前发展。我知道自己想参与其中。我并不确切知道该怎么做，但无论如何，我读完了大学，最终去了斯坦福，打算学习应用物理学和材料科学，试图找出为电动汽车更有效地储存能量的方法，让它们能够行驶得更远。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 203.35,
+      "textEn": "And I ended up putting that on hold to start an Internet company in 95. And at the time it wasn't from the perspective of making a lot of money because nobody had made any money on the Internet in 95. But it seemed to me that the Internet was something that would create effectively like a nervous system for Humanity. So whereas previously if you wanted to access information, you'd have to go to a library. And you know, even if you went to a lot of libraries, you still wouldn't have access to all that much information.",
+      "textZh": "后来我暂停了那件事，在95年创办了一家互联网公司。当时并不是出于赚很多钱的考虑，因为95年还没有任何人在互联网上赚到钱。但在我看来，互联网会创造出一种实际上类似于人类神经系统的东西。所以在此之前，如果你想获取信息，就得去图书馆。而且你知道，即便你去了很多图书馆，仍然无法获取太多信息。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 240.37,
+      "textEn": "But if everything got connected, then anyone, anywhere, if you were in sort of a jungle in middle of Amazon jungle in South America or something, and you had an Internet connection, you'd have access to all the world's information. In fact, you'd have access to more information than the US president did in, let's say, 1980.",
+      "textZh": "但如果一切都连接起来，那么任何地方的任何人，比如说，如果你身处南美洲亚马孙雨林中央之类的地方，只要有互联网连接，就能获取全世界的信息。事实上，你能获取的信息会比，比如说，1980年的美国总统还多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 261.1,
+      "textEn": "So it'd be pretty incredible and transformative. So I thought, well, I wanted to be part of helping make that happen. And so I decided to put my studies at Stanford on hold and started an Internet company initially to help the media companies get online. And so we had as investors and customers, New York Times company, Post Niter and so forth. And that ended up working out. So we sold that company and then created PayPal.",
+      "textZh": "所以这会非常不可思议，并带来变革。所以我想，好吧，我希望能参与其中，帮助促成这件事。因此，我决定暂停在斯坦福的学业，创办了一家互联网公司，最初是为了帮助媒体公司上线。我们的投资者和客户包括《纽约时报》公司、波斯特·奈特等。最后进展很顺利。于是我们卖掉了那家公司，然后创立了PayPal。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 293.59,
+      "textEn": "And the idea behind PayPal was simply to facilitate payments on the Internet, because at the time, if you bought something from someone, you'd have to mail them a check and it would take weeks to conduct the transfer. We figured out how to make it really fast and easy to transfer funds from one person to another. And that actually grew super fast. It grew virally. And the key to that was figuring out how to make the friction of signing up for an account very, very low and make it easy for one person to refer another.",
+      "textZh": "PayPal背后的想法很简单，就是促进互联网上的支付，因为当时如果你从某人那里买东西，就得给对方邮寄一张支票，完成转账需要几周时间。我们找出了让资金从一个人转给另一个人变得真正快速而简便的方法。它实际上增长得极快。它呈病毒式增长。而关键在于找出如何把注册账户的阻力降得非常、非常低，并让一个人能够轻松推荐另一个人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 335.19,
+      "textEn": "And so as our customer base grew, the actual rate of growth grew. And this resulted in some initial challenges in scaling because we started off with five people in customer service. And after two months we had 100,000 customers.",
+      "textZh": "所以随着我们的客户群增长，实际增长速度也在提高。这在扩展规模方面带来了一些初期挑战，因为我们的客户服务团队一开始只有5个人。2个月后，我们就有了100,000名客户。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 355.03,
+      "textEn": "So our phone lines exploded, basically. But we're able to overcome those issues.",
+      "textZh": "所以我们的电话线路基本上被打爆了。但我们得以克服那些问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 364.19,
+      "textEn": "And then ebay bought the company in 2002, and it's sort of growing from there.",
+      "textZh": "然后eBay在2002年收购了这家公司，此后它算是一直发展至今。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 374.75,
+      "textEn": "So what that did though, was gave me the capital to try to do some things that are fairly high capital. And there were two things. There are two areas that I really wanted to get into. One was sustainable energy production and consumption of energy in a sustainable manner. And the other was space exploration. And I started off initially with the idea of doing something in the space exploration arena.",
+      "textZh": "不过，这件事带来的结果是，它给了我资本去尝试做一些相当需要资本的事情。有两件事。有两个领域是我真正想进入的。一个是可持续能源生产，以及以可持续方式消耗能源。另一个是太空探索。我最初是从在太空探索领域做些事情的想法开始的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 405.44,
+      "textEn": "In fact, it wasn't actually with the idea of creating a company. It was initially with the thought of spurring interest in sending people to Mars. So I put together this idea of called Mars Oasis, which was to send a small greenhouse to the surface of Mars and get people excited about the idea of going there and thus increase NASA's budget in order to make it happen. As I got more and more into that, I discovered that the real issue was that the cost of space transportation was really high, in fact and it was getting worse.",
+      "textZh": "事实上，当时其实并没有创办一家公司的想法。最初的念头是激发人们对把人送上火星的兴趣。于是我构想了一个叫作“火星绿洲”的方案，就是把一座小型温室送到火星表面，让人们对前往那里这个想法感到兴奋，从而增加NASA的预算，以实现这件事。随着我越来越深入地参与其中，我发现真正的问题在于太空运输成本非常高，事实上还在变得更糟。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 441.88,
+      "textEn": "So we're used to technology getting better every year, but in some arenas it actually does not. It goes gets worse. Particularly when you consider that in 1969 we were able to go to the moon and then we're unable to go beyond low Earth orbit. And now with the space shuttle retired, we're not even able to go to Earth orbit at all, even with people. So that's, you know, that was not the right trajectory.",
+      "textZh": "所以我们习惯了技术每年都会进步，但在某些领域，实际上并非如此。它会变得更糟。尤其是考虑到1969年我们还能登上月球，之后却无法飞越近地轨道。而现在随着航天飞机退役，我们甚至根本无法进入地球轨道，即使载人也不行。所以那，你知道，那并不是正确的发展轨迹。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 472.12,
+      "textEn": "So I actually went to Russia three times to look at buying an ICBM to launch this mission.",
+      "textZh": "所以我实际上去了俄罗斯3次，考虑购买一枚洲际弹道导弹来发射这项任务。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 479.64,
+      "textEn": "Just very crazy,",
+      "textZh": "就是非常疯狂，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Moderator",
+      "startSec": 483.8,
+      "textEn": "very cool.",
+      "textZh": "非常酷。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 489.32,
+      "textEn": "So after my third trip of trying to negotiate with the Russians to buy an ICBM and I did actually get a deal so figured out what it would cost and everything. But I concluded that my initial assumption had been wrong, that it was not a question of trying to generate more world to explore. Because I think the United States in particular is distillation of the human spirit of exploration people, it's face exploration is fundamental to the American psyche.",
+      "textZh": "所以在我第3次前往俄罗斯、试图就购买一枚洲际弹道导弹进行谈判之后，我实际上确实谈成了一笔交易，也弄清楚了它的成本以及一切。但我得出结论，我最初的假设是错的，问题并不在于试图创造更多可供探索的世界。因为我认为，尤其是美国，是探索人们的人类探索精神的凝练，它的面部探索是美国心理的根本组成部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 521.47,
+      "textEn": "But people really need to believe that it can be done and it's not going to break the bank if it does. So that's when I decided to start a rocket company.",
+      "textZh": "但人们确实需要相信这件事能够做到，而且即便去做，也不会花到倾家荡产。所以就是在那时，我决定创办一家火箭公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 533.23,
+      "textEn": "And I actually didn't think it would succeed and it almost didn't. So we started off developing a small rocket which was kind of a scale model version. It was about £100,000 of thrust. So big, you know, big by normal standards, but small for a rocket. And developed the engine and the airframe and the electronics and the guidance control system and then proceeded to have three failed launches in a row.",
+      "textZh": "而且我其实不认为它会成功，它也差一点就没成功。所以我们一开始研发的是一枚小型火箭，算是一种按比例缩小的模型版本。它的推力约为£100,000。所以很大，你知道，按通常标准来说很大，但对火箭来说很小。我们研发了发动机、机身、电子设备和制导控制系统，随后连续进行了3次失败的发射。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 572.36,
+      "textEn": "And so for various technical reasons, the first three launches did not succeed in reaching orbit. Launches two and three did get to space, but they didn't achieve enough speed to reach orbital velocity.",
+      "textZh": "所以由于各种技术原因，前3次发射都没能成功进入轨道。第2次和第3次发射确实进入了太空，但没有达到足以实现轨道速度的速度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 585.98,
+      "textEn": "And so this is 2008 and so we're heading into the recession and we had one rocket left.",
+      "textZh": "所以当时是2008年，我们正步入经济衰退，而我们只剩下1枚火箭。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 595.98,
+      "textEn": "And unfortunately in late 2008 that fourth launch did work and we made it to orbit and then we won an asset contract after that. And so fortunately things worked out. But if that fourth launch had not worked, then SpaceX wouldn't be around. So it was very close call. In fact, when I started I thought, okay, I've got enough money, I think I've got enough money for three launches.",
+      "textZh": "而不幸的是，在2008年末，第4次发射确实成功了，我们进入了轨道，之后又赢得了一份资产合同。所以幸运的是，事情最终进展顺利。但如果第4次发射没有成功，SpaceX就不会存在了。所以那真是千钧一发。事实上，我刚开始时想，好吧，我有足够的钱，我想我的钱足够进行3次发射。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 623.48,
+      "textEn": "Unfortunately, it was just enough to make that fourth one.",
+      "textZh": "不幸的是，钱刚好足够完成第4次发射。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 628.12,
+      "textEn": "So in parallel there was, it was Tesla and the, the emphasis for Tesla was, was really to, to create a compelling electric car. And at first I thought there would, there would not really be a need for such a thing because I don't know if people are aware of this, but GM at the time had created the EV1 or Electric Vehicle 1 and Toyota done the electric RAV4. It been primarily as a result of regulations from the zero emission mandate states, particularly California.",
+      "textZh": "所以与此同时，还有，Tesla，而Tesla的重点，确实是打造一款有吸引力的电动汽车。起初我以为并不会，实际上并不需要这样的东西，因为我不知道大家是否知道，但通用汽车当时已经制造了EV1，也就是电动汽车1，而丰田也制造了电动版RAV4。这主要是零排放强制规定州的法规所促成的，尤其是加利福尼亚州。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 663.74,
+      "textEn": "So they created these electric vehicles and I thought, okay, this is great. Well, GMs obviously can go from the EV1 to the EV2 and EV3 and everything will be fine. But when California changed its regulations, they actually GM recalled all the EV1s and then crushed them so that they could never be returned. So it was clear that if a startup company did not create an electric vehicle and show that it's possible to have an electric car that looks good, goes fast, has long range, and that if you created such a thing that people would buy it, then it would be a very long time before the large incumbents did so.",
+      "textZh": "所以他们制造了这些电动汽车，而我当时想，好吧，这很棒。嗯，通用汽车显然可以从EV1发展到EV2和EV3，一切都会顺利。但加利福尼亚州修改法规后，通用汽车实际上召回了所有EV1，然后将它们压毁，使它们永远无法再被归还。因此很明显，如果一家初创公司不制造电动汽车，不证明电动汽车可以外形美观、速度快、续航里程长，也不证明如果你造出这样的东西，人们就会购买，那么大型现有企业要这样做还会需要非常长的时间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 703.24,
+      "textEn": "And so that was the, I felt was important that we create Tesla for that reason.",
+      "textZh": "所以那就是，我觉得出于那个原因，我们创立Tesla很重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 710.62,
+      "textEn": "And Tesla also almost died in 2008.",
+      "textZh": "而Tesla在2008年也差一点倒闭。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 715.26,
+      "textEn": "And as you recall, the recession was particularly difficult for car companies. And right as in the summer of 2008, we had to raise a big funding round. But because of the collapse in the financial system, that funding round didn't happen. And we had to piece together the money to keep the company going from myself and existing investors. And we were able to just complete a financing round that was just barely enough to keep the company going.",
+      "textZh": "你们应该还记得，那次经济衰退对汽车公司来说尤其艰难。就在2008年夏天，我们必须进行一轮大规模融资。但由于金融体系崩溃，那轮融资没有实现。我们不得不从我本人和现有投资者那里拼凑资金，让公司继续运营。我们勉强完成了一轮融资，金额刚刚够维持公司运转。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 749.02,
+      "textEn": "And we closed it on the last hour of the last day that it was possible to do so.",
+      "textZh": "而且，我们是在仍有可能完成此事的最后一天的最后一个小时完成交割的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 755.02,
+      "textEn": "It was Christmas Eve 2008, 6pm and after that the investors would have had, they were going on vacation, wouldn't have been possible to bring them back to the table, and we would have run out of money a few days after Christmas. So that was also a close call. So while things are going really well these days, I think it's always important to remember that when you're creating a company there are very dark times and it's about getting through those dark times.",
+      "textZh": "当时是2008年平安夜下午6点，之后投资者本来就会，他们要去度假，不可能再把他们请回谈判桌，而我们会在圣诞节后几天耗尽资金。所以那次也是险象环生。因此，虽然这些日子事情进展得非常顺利，但我认为始终要记住，当你创办一家公司时，会有非常黑暗的时期，关键在于熬过那些黑暗时期。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 789.28,
+      "textEn": "That's the difference between success and failure.",
+      "textZh": "这就是成功与失败的区别。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 794.4,
+      "textEn": "So of course now things are actually going pretty well for Tesla. May they stay that way. And also for SpaceX, we've got the Model S which is in production and it's the, it was like Consumer Reports gave it a 99 out of 100, which is actually the highest score that Consumer Reports has ever given a car of any kind was given to the Model S.",
+      "textZh": "所以当然，现在Tesla的情况实际上相当不错。愿它们继续如此。SpaceX也是如此，我们有已经投产的Model S，而且它是，它就像《消费者报告》给了它99分（满分100分），这实际上是《消费者报告》有史以来给任何类型汽车打出的最高分，而这个分数给了Model S。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 824.81,
+      "textEn": "And then when the federal government did the safety tests, it actually also got the highest safety rating of any car ever, including many vans and SUVs, so for a sedan.",
+      "textZh": "然后，联邦政府进行安全测试时，它实际上也获得了有史以来所有汽车中的最高安全评级，其中包括许多厢式车和SUV，所以对于一辆轿车而言。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 842.6,
+      "textEn": "And anyway, so that's going pretty well. And we're actually exporting a lot of the cars to Europe currently, and then we start exporting to Asia. And it's funny because I was wondering, we got these incredibly good rates for shipping goods to China because all these container ships come in full and they go back empty.",
+      "textZh": "总之，这方面进展得相当顺利。我们目前实际上正向欧洲出口大量汽车，接下来会开始向亚洲出口。这很有意思，因为我当时在想，我们把货物运往中国的运费低得令人难以置信，因为所有这些集装箱船都是满载而来、空载返回。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 865.24,
+      "textEn": "So it's real cheap to ship things to China.",
+      "textZh": "所以把东西运到中国真的很便宜。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 869.31,
+      "textEn": "So we'll start doing that in first quarter. And then with SpaceX, we've got a launch coming up which is our next generation rocket. Because the key thing for rocketry, the key breakthrough that's needed, is to create a fully reusable rocket. Because I think what SpaceX has done thus far is evolutionary but not revolutionary. In order for that to occur, you have to bring the rocket back to the launch pad and be able to relaunch it again.",
+      "textZh": "所以我们将在第一季度开始这样做。然后在SpaceX这边，我们即将进行一次发射，使用的是我们的下一代火箭。因为对火箭技术来说，关键所在、所需的关键突破，是造出完全可重复使用的火箭。因为我认为SpaceX迄今所做的是渐进式的，而不是革命性的。要做到这一点，你必须让火箭返回发射台，并且能够再次发射。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 900.2,
+      "textEn": "It has to be reusable, much in the way that an airplane or a car or any other mode of transport is reusable. So that's kind of the holy grail goal of spaceflight, which we're hoping to make progress towards, but it's very risky. So there's a good chance that the upcoming launch could go wrong. It's currently slated for the end of this month and hopefully that goes well. It's a tricky thing with rocket business because you can't issue a recall or, you know, send a software patch or anything after the rocket lifts off.",
+      "textZh": "它必须能够重复使用，就像飞机、汽车或任何其他交通工具都能重复使用一样。所以，这算是太空飞行的圣杯目标，我们希望能在这方面取得进展，但风险非常高。因此，即将进行的发射很有可能出问题。目前计划在本月底进行，希望一切顺利。火箭业务有一个棘手之处，因为火箭升空后，你无法发布召回通知，或者，你知道，发送软件补丁之类的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 936.09,
+      "textEn": "Nine minutes later, it's either in orbit or it's exploded. So, yeah, it's nervous. Nine minutes.",
+      "textZh": "9分钟后，它要么进入轨道，要么已经爆炸。所以，是的，这让人紧张。9分钟。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 948.2,
+      "textEn": "All right, so with those introductory remarks, let's just go to Q and A and I'm happy to answer any questions you have.",
+      "textZh": "好了，开场白就说到这里，我们直接进入问答环节吧，我很乐意回答你们提出的任何问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Moderator",
+      "startSec": 954.6,
+      "textEn": "Yeah, I think that one question lined up. Student Vice president of University of Montana, Zane. Somehow, magically, Zane's going to appear on the screen, ask a question. Okay, thanks, Zane.",
+      "textZh": "好的，我想有一个问题已经排好了。蒙大拿大学学生副主席赞恩。不知怎么，赞恩会神奇地出现在屏幕上，提一个问题。好的，谢谢你，赞恩。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Moderator",
+      "startSec": 971.65,
+      "textEn": "It.",
+      "textZh": "它。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 996.05,
+      "textEn": "Well, in terms of influencing public policy, I'm not sure we've been particularly successful in influencing public policy, but we've been able to go with the flow of what other people are doing to influence public policy, I think.",
+      "textZh": "嗯，就影响公共政策而言，我不确定我们在影响公共政策方面取得了特别大的成功，但我认为，我们一直能够顺应其他人为影响公共政策所做之事的潮流。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 1017.46,
+      "textEn": "So in the case of electric vehicles, GM was a big proponent of electric vehicle tax credits to help with the EV1, or not the EV1, I mean, the Volt and then Nissan was also a big proponent of that. So they have a lot more influence than Tesla did, certainly. But we were able to kind of go with them in that direction, maybe add a little bit to the influence on that front.",
+      "textZh": "所以在电动汽车方面，通用汽车大力支持电动汽车税收抵免，以帮助EV1，或者不是EV1，我是说Volt，日产也大力支持这一点。所以他们的影响力当然比Tesla大得多。但我们得以在这个方向上大致跟随他们，也许为这方面的影响力增添了一点力量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 1048.619,
+      "textEn": "And then on the space side, we've been arguing for a greater share of that. More of space should be commercial. And I think that's, there's been some success in that direction. Although it's still a very small part of the NASA budget. It's, it's Maybe, I think, 7 or 8% of the NASA budget. So it's still still probably fairly small. So I wouldn't, I wouldn't say we've been particularly successful in influencing, you know, policy, but, but we have taken note of where policy, what general policy directions are happening and then trying to go along with those.",
+      "textZh": "然后在太空领域，我们一直主张提高商业航天在其中所占的份额。更多太空活动应该商业化。我认为，在这个方向上已经取得了一些成功。尽管它仍然只占NASA预算中很小的一部分。它，它也许，我想，占NASA预算的7%或8%。所以它仍然，仍然可能相当小。因此，我不会说我们在影响，你知道，政策方面取得了特别大的成功，但是，但是我们确实留意了政策的发展方向、正在出现哪些总体政策方向，然后努力顺应这些方向。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Moderator",
+      "startSec": 1090.22,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 1090.62,
+      "textEn": "On the truth, I'll ask the first",
+      "textZh": "关于真相，我来问第一个",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Moderator",
+      "startSec": 1094.78,
+      "textEn": "question, then we can open it up.",
+      "textZh": "问题，然后我们可以开放提问。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Moderator",
+      "startSec": 1097.58,
+      "textEn": "It said something which is very interesting and true. That is every business started up reaches a point where the clouds are dark. Yes. And it's leaving yourself and going through with the Tesla and also with SpaceX, a couple of times you almost lost it.",
+      "textZh": "其中说了一件非常有意思而且真实的事。那就是，每一家初创企业都会走到乌云密布的时刻。是的。而这是离开你自己并继续挺过Tesla，还有SpaceX，你有几次差点失去它。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Moderator",
+      "startSec": 1121.9,
+      "textEn": "Most companies all over the country and also clear in our state face issues like that. Could you just tell us a little bit more about how you dealt with those dark moments?",
+      "textZh": "全国各地的大多数公司，显然也包括我们州内的公司，都面临这类问题。您能否再多跟我们讲一点，您是如何应对那些黑暗时刻的？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 1132.15,
+      "textEn": "Yeah, sure.",
+      "textZh": "好的，当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Moderator",
+      "startSec": 1132.87,
+      "textEn": "Because I think that's pretty key to succeeding.",
+      "textZh": "因为我认为，那是取得成功的关键所在。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 1135.59,
+      "textEn": "Absolutely.",
+      "textZh": "当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 1138.15,
+      "textEn": "So I think. So when you create a company, I mean, if you think, well, what is a company really? A company is a group of people gathered together to create a product or service and that's really all a company is. And so you have to really believe in what you're doing, creating and know in your heart and mind that this is something that matters and that the world ought to have.",
+      "textZh": "所以我认为。所以当你创办一家公司时，我是说，如果你想，好吧，公司究竟是什么？公司就是一群人聚在一起创造一种产品或服务，而公司实际上就只是这样。所以你必须真正相信自己正在做、正在创造的事情，并且从内心和头脑中确信，这是一件重要的事，是这个世界应该拥有的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 1167.6,
+      "textEn": "And I think it's important to investors to show that you're all in. And I think, for example, with Tesla, the fact that I invested all the money I had, literally I had to borrow money from friends to pay the rent in 2008.",
+      "textZh": "而且我认为，向投资者表明你已全身心投入非常重要。比如就 Tesla 而言，我投入了自己所有的钱，实际上在 2008 年，我不得不向朋友借钱付房租。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 1190.42,
+      "textEn": "So the fact that I was all in, I think was hugely made a huge difference to investors to convince them to invest in Tesla at the same time that, say, GM and Chrysler were going bankrupt.",
+      "textZh": "所以我全身心投入这一事实，我认为极大地、产生了巨大的影响，让投资者相信应该投资 Tesla，而当时，比如说，通用汽车和克莱斯勒正在破产。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 1208.26,
+      "textEn": "And yeah, I think you have to show that you really care. Like, it's like you've got skin in the game, that you've given it everything that you've got. And then the other people at the company will follow suit, as will investors. I think that's really important.",
+      "textZh": "而且，是的，我认为你必须表明自己真的在乎。就像，就像你自己也押上了切身利益，已经倾尽了自己所拥有的一切。然后公司的其他人会照着做，投资者也会如此。我认为这一点非常重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Moderator",
+      "startSec": 1233.4,
+      "textEn": "And",
+      "textZh": "而且",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 1235.88,
+      "textEn": "yeah, I did that at both SpaceX and Tesla. That's really. And then when you hire people, or really what you're trying to, when you Hire people. That just means you're convincing people to join you in the endeavor.",
+      "textZh": "是的，我在 SpaceX 和 Tesla 都是这么做的。确实如此。然后当你雇人时，或者其实你试图做的，当你雇人的时候。那只是意味着你要说服人们加入你，一起投身这项事业。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 1251.56,
+      "textEn": "You should hire people that are also passionate about what you're doing. So it's not just that they're not just there for the salary. They really need to care about what they're doing and then they will stay during the dog times.",
+      "textZh": "你应该雇用那些同样热爱你所做之事的人。所以他们并不只是、并不只是为了薪水待在那里。他们确实需要在乎自己正在做的事，这样他们才会在狗一般的时期留下来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Moderator",
+      "startSec": 1268.85,
+      "textEn": "Thank you. Thank you very much. Thank you. Elon, while we're waiting, next question. I just seen your five sons in the front row. Reminds me I went to see your dad about five or six, seven months ago. I saw your photographs on the wall. Elon has five boys, three triplets and two twins. And I want you to know your dad is really proud, really proud of all you talked about you on his",
+      "textZh": "谢谢。非常感谢。谢谢。埃隆，在我们等待的时候，下一个问题。我刚刚看到你的5个儿子坐在第一排。这让我想起，大约5、6、7个月前，我去见了你父亲。我在墙上看到了你的照片。埃隆有5个男孩，3个三胞胎和2个双胞胎。我想让你知道，你父亲真的很骄傲，真的为你们所有人感到骄傲，谈到你，在他的",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Audience Member",
+      "startSec": 1292.07,
+      "textEn": "under the law of Earth.",
+      "textZh": "在地球的法律之下。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Moderator",
+      "startSec": 1293.07,
+      "textEn": "Okay, first question.",
+      "textZh": "好的，第一个问题。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1295.27,
+      "textEn": "Yes, sure. Well, I mean, I think the reason it's important to develop sustainable energy production consumption is that even if one ignores the environmental consequences and says, okay, well, it's simply a scarce resource, well, unless we move towards something that is sustainable that will be there in the long term, then leaving aside any questions of environmental impact, we'll face economic collapse if we run out of fuel to burn and put in vehicles.",
+      "textZh": "是的，当然。嗯，我是说，我认为发展可持续能源的生产和消费之所以重要，是因为即便忽略环境后果，并且说，好吧，它只不过是一种稀缺资源，那么除非我们转向某种可持续、能够长期存在的东西，否则即使撇开任何环境影响问题，如果我们耗尽了可供燃烧并装入交通工具的燃料，也会面临经济崩溃。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1331.29,
+      "textEn": "So my initial interest in sustainable energy production and consumption was actually not driven from an environmental standpoint, although I do think there are environmental consequences, but rather from the importance of the continuance of human civilization, which we would face a disaster if we did not find some alternate means to power society and travel.",
+      "textZh": "所以，我最初对可持续能源生产和消费的兴趣，实际上并非出于环境角度，尽管我确实认为这会产生环境后果，而是源于人类文明延续的重要性，因为如果我们找不到某种替代方式来为社会和出行提供动力，就会面临一场灾难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1360.02,
+      "textEn": "And although the scarcity issue will only become really serious maybe towards the end of the century, because of the enormous industrial base of power generation and transportation, it will take decades to transform that to a sustainable system. So we must take action now in order to avoid a calamity towards the end of the century. I think sustainable production, consumption of energy is the most important terrestrial problem that we face in the 21st century.",
+      "textZh": "而且，尽管资源稀缺问题可能要到本世纪末才会真正变得严重，但由于发电和交通运输拥有庞大的工业基础，将其转变为可持续系统需要数十年。因此，我们现在就必须采取行动，以避免本世纪末发生灾难。我认为，能源的可持续生产、消费是我们在21世纪面临的最重要的地球问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Moderator",
+      "startSec": 1398.01,
+      "textEn": "Yeah, right here.",
+      "textZh": "对，就在这里。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1400.48,
+      "textEn": "Well, the overarching goal of SpaceX is to develop technologies that will enable the establishment of a permanent city on Mars, a self sustaining base on Mars, and we'll try to get as far in that direction as possible. Because I think the future of humanity is fundamentally different. If we are a space faring civilization and a multi planet species compared to one where we are not.",
+      "textZh": "嗯，SpaceX 的总体目标是开发能够实现在火星上建立永久城市、一个自给自足的火星基地的技术，而我们会尽可能朝那个方向走得更远。因为我认为，与我们不是航天文明和多行星物种的情况相比，如果我们是，​​人类的未来将从根本上有所不同。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 1425.53,
+      "textEn": "And I think both for defensive reasons, essentially to have life insurance for life itself on another planet and for frankly the adventure of it, I think we ought to do that sort of thing.",
+      "textZh": "而且我认为，既是出于防御方面的原因，本质上是在另一个星球上为生命本身准备一份人寿保险，也是坦率地说出于其中的冒险意味，我认为我们应该做这种事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1441.45,
+      "textEn": "And I actually personally am sort of more motivated by the fact that it would just be the greatest adventure.",
+      "textZh": "而且事实上，就我个人而言，更激励我的是，这将会是最伟大的冒险。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Moderator",
+      "startSec": 1455.05,
+      "textEn": "If Any of us would like to join you. I realized I was a tan. A card. I should have been addressing people, the questioners at the microphones. That's why they lined up over there. Okay. Yes, over there.",
+      "textZh": "如果我们中有任何人愿意加入你。我意识到我是晒黑的。一张卡片。我本应该对着麦克风前的提问者讲话。那就是他们在那边排队的原因。好的。对，那边。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Audience Member",
+      "startSec": 1466.95,
+      "textEn": "Mr. Musk, welcome to Montana. And I have to tell you that you've been one of my great heroes ever since Jeremy Clarkson on Top Gear fell in love with an electric car. Thank you very much for that. My question for you is, how do you balance your capacity for risk, your risk tolerance, against your desire to continue to innovate? How do you manage to weigh the two? Because with Tesla, you went all in, right? So how do you reconcile that risk with yourself, knowing that this last project could very well be, you know, the end versus your desire to keep innovating with the hyperloop or whatever innovations you have down the pike?",
+      "textZh": "马斯克先生，欢迎来到蒙大拿州。我得告诉您，自从《Top Gear》上的杰里米·克拉克森爱上一辆电动汽车以来，您就一直是我最伟大的英雄之一。非常感谢您。我的问题是，您如何在自己的风险承担能力、风险承受度与继续创新的愿望之间取得平衡？您如何权衡这两者？因为在 Tesla 上，您孤注一掷了，对吧？那么，明知最近这个项目很可能会是，您知道，终点，您如何让自己调和这种风险与继续通过超级高铁或您正在筹划的任何创新来进行创新的愿望？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 1515.1,
+      "textEn": "Sure. Well, I mean, at the end of the day, I think that.",
+      "textZh": "当然。嗯，我是说，归根结底，我认为。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 1523.66,
+      "textEn": "I mean, I was certainly facing the loss of all assets. I mean, technically I would have been negative because I would have been owing people money.",
+      "textZh": "我是说，我当时肯定面临着失去所有资产的局面。我是说，严格来说，我本来会变成负资产，因为我会欠别人钱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 1532.14,
+      "textEn": "But I figured I could always make enough to, you know, or at least borrow enough to pay the rent and, you know, and that kind of thing. So I didn't think we would starve or lack for shelter, although it would have been sad to not have lost all the assets gained from prior companies.",
+      "textZh": "但我觉得自己总能赚到足够的钱，您知道，或者至少借到足够的钱来付房租，还有，您知道，诸如此类的事情。所以我不认为我们会挨饿或无处栖身，尽管没有失去从先前公司获得的全部资产本来会令人难过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1556.88,
+      "textEn": "But really, the toughest decision was not whether to invest the money into Tesla. It was really that had Tesla and SpaceX. And the tough decision was if I split the money between the two companies, then it's possible that both may still have died.",
+      "textZh": "但实际上，最艰难的决定并不是要不要把钱投进 Tesla。真正是有 Tesla 和 SpaceX。艰难的决定是，如果我把钱分给这两家公司，那么两家公司可能仍然都会死掉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 1580.25,
+      "textEn": "And so I had to decide, would I dedicate funds to just one company and let the other one die for sure, or split the funds between two companies? And that's. That was a really. That was the really difficult decision.",
+      "textZh": "所以我必须决定，是不是把资金只投入一家公司，让另一家公司必死无疑，还是把资金分给两家公司？而那是。那真是一个。那才是真正艰难的决定。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Moderator",
+      "startSec": 1597.65,
+      "textEn": "Okay, a couple more questions. Keep them very short, please, and we'll have short answers.",
+      "textZh": "好的，再问几个问题。请尽量简短，我们也会简短回答。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Audience Member",
+      "startSec": 1606.61,
+      "textEn": "Yeah. Dustin DeYoung, Montana Department of Commerce. Thank you for your time. Mr. Musk, my question relates to EVs and electrical storage on the grid and what your thoughts are on that and what your company is doing to move that forward.",
+      "textZh": "好的。我是蒙大拿州商务部的达斯汀·德扬。感谢您抽出时间。马斯克先生，我的问题与电动汽车和电网储电有关，我想知道您对此有何看法，以及您的公司正在采取什么行动来推动这件事。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 1619.56,
+      "textEn": "Sure. I do think that we'll need to pair solar power with grid storage with battery storage. And I don't think actually using the car is going to be ideal solution, because people usually want to use their car and their house. So I think.",
+      "textZh": "当然。我确实认为，我们需要把太阳能、电网储能与电池储能结合起来。而且我实际上不认为使用汽车会是理想的解决方案，因为人们通常想使用自己的汽车和房子。所以我认为。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 1639.56,
+      "textEn": "But this is often suggested, and it is true that the car has a big battery, and so one could use it, perhaps in an emergency. But I think what we'll need to do is Have a moderate amount of stationary pack storage combined with solar and then an electric car. And I think that works over here.",
+      "textZh": "但这种做法经常被提出来，而且汽车确实有一块大电池，所以人们可以使用它，也许可以在紧急情况下使用。但我认为，我们需要做的是配置适量的固定式电池组储能，将其与太阳能结合起来，然后再加上一辆电动汽车。而我认为这在这边行得通。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Moderator",
+      "startSec": 1657.94,
+      "textEn": "Yes, sure.",
+      "textZh": "好的，当然。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Audience Member",
+      "startSec": 1661.3,
+      "textEn": "Thank you for your presentation today. And my question to you really is as a young man who's out there searching for himself and as many in my generation are, we have, have jobs, not really careers, and we're searching, we're continuously facing unemployment. How do we convert the ideology of space, future and energy and how do we personalize it so that we ourselves can convert this energy into something meaningful?",
+      "textZh": "感谢您今天的演讲。我的问题其实是，作为一个正在外面寻找自我的年轻人，也像我这一代的许多人一样，我们有，有工作，却不是真正的事业，而且我们在寻找，我们不断面临失业。我们如何转化太空、未来和能源的理念，又如何将其个人化，以便我们自己能把这种能量转化成有意义的东西？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Audience Member",
+      "startSec": 1683.14,
+      "textEn": "How do we get involved?",
+      "textZh": "我们如何参与其中？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 1685.3,
+      "textEn": "Okay, well, I think you can either work at a company in those arenas or say, okay, what's some important piece of the puzzle in rockets or cars or something? And then put together a group of people and figure out how to make that piece of the puzzle super good.",
+      "textZh": "好的，嗯，我认为你可以选择在这些领域的一家公司工作，或者说，好吧，火箭或汽车或其他东西中，有什么重要的一块拼图？然后召集一群人，想办法把那块拼图做得超级好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 1706.1,
+      "textEn": "And that's, that's, I think that that's the way to do it over here.",
+      "textZh": "而那就是，那就是，我认为那就是在这边做这件事的方式。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Audience Member",
+      "startSec": 1712.66,
+      "textEn": "Good morning. Matt Sargent from Headframe Spirits here in Butte. I'm wondering how a rural state like Montana can increase its technology economy. You know, what lessons have you learned from Silicon Valley that could apply here in small town America?",
+      "textZh": "早上好。我是来自比尤特 Headframe Spirits 的马特·萨金特。我想知道，像蒙大拿州这样的乡村州如何能够扩大其科技经济。您知道，您从硅谷学到了哪些可以应用于美国小城镇的经验？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 1727.96,
+      "textEn": "Well, I mean, the most important thing is people. So you need to gather together a group of engineers essentially to create technology. And that's what engineers do, they create technology.",
+      "textZh": "嗯，我是说，最重要的是人。所以基本上你需要召集一群工程师来创造技术。而这就是工程师所做的事，他们创造技术。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 1742.92,
+      "textEn": "But you have to have a critical mass of such people that's equal to the task that you attempt to complete. So that's the most important thing. Critical mass of people.",
+      "textZh": "但这样的人必须达到与试图完成的任务相匹配的临界规模。所以那是最重要的事情。达到临界规模的人才。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Moderator",
+      "startSec": 1756.37,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1756.93,
+      "textEn": "Over here.",
+      "textZh": "这边。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Audience Member",
+      "startSec": 1758.53,
+      "textEn": "Hey, Max. Elon. Right on, John. Right on, John. Innovations. Elon, it's pleased, pleasure to talk to you here. You're like myself here, except you with innovation. But you have more money.",
+      "textZh": "嘿，马克斯。埃隆。没错，约翰。没错，约翰。创新。埃隆，很高，很荣幸能在这里和你交谈。你在这里就像我一样，只不过你搞创新。但你更有钱。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1773.65,
+      "textEn": "I started out with zero, though.",
+      "textZh": "不过，我起步时是0。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Audience Member",
+      "startSec": 1775.25,
+      "textEn": "Yes. I met that spot point right at this point.",
+      "textZh": "是的。我正是在这一点上遇到了那个位置点。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Audience Member",
+      "startSec": 1780.9,
+      "textEn": "I have innovations that could actually move SpaceX, the tunnel, even Tesla car. What would be the easiest way to be in contact with you to bring these ideas forward?",
+      "textZh": "我有一些创新，实际上可以推动 SpaceX、隧道，甚至 Tesla 汽车。要联系到你并提出这些想法，最简单的方式是什么？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1798.34,
+      "textEn": "Well, you can send an email to Elon muskofficepacex.com if you'd like.",
+      "textZh": "嗯，如果你愿意，可以发电子邮件到 Elon muskofficepacex.com。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Audience Member",
+      "startSec": 1802.99,
+      "textEn": "That's okay.",
+      "textZh": "好的。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 1803.95,
+      "textEn": "All right.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Audience Member",
+      "startSec": 1804.51,
+      "textEn": "And can I, I do have a sheet right here with my, with my info.",
+      "textZh": "还有，我可以，我这里确实有一张写着我的、我的信息的纸。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Audience Member",
+      "startSec": 1809.95,
+      "textEn": "If I could leave it with somebody that you would.",
+      "textZh": "如果我能把它留给某个你会……的人。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1812.59,
+      "textEn": "All right, thank you very much.",
+      "textZh": "好的，非常感谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Moderator",
+      "startSec": 1813.95,
+      "textEn": "We'll get it to him. Okay.",
+      "textZh": "我们会把它交给他。好的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Audience Member",
+      "startSec": 1815.11,
+      "textEn": "Yes, hello, my name is Jackson.",
+      "textZh": "是的，你好，我叫杰克逊。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Elon Musk",
+      "startSec": 1818.19,
+      "textEn": "I'm a Sentinel high schooler from Missoula, Montana. Thank you for coming. And I want to know what is",
+      "textZh": "我是蒙大拿州米苏拉市哨兵高中的一名学生。感谢您的到来。我想知道，什么是",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Audience Member",
+      "startSec": 1823.95,
+      "textEn": "the one thing that has surprised you about your life?",
+      "textZh": "您人生中让您感到意外的一件事？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 1827.87,
+      "textEn": "Oh, one thing. Wow. Well, I certainly, I'm surprised by the whole thing, honestly.",
+      "textZh": "哦，一件事。哇。嗯，老实说，我当然对这一切都感到意外。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 1833.55,
+      "textEn": "I certainly didn't expect to for any of these things to happen. Honestly, Yeah, I just knew. I knew I wanted to be involved in technology.",
+      "textZh": "我当然没料到这些事情中的任何一件会发生。老实说，是的，我只是知道。我知道我想参与科技。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 1847.13,
+      "textEn": "And in fact, the only reason I started a company back in 95, an Internet company, was because I couldn't get it. There were only a few Internet companies, and I couldn't get a job at any of them.",
+      "textZh": "事实上，我之所以在95年创办一家公司，一家互联网公司，只是因为我没能如愿。当时只有几家互联网公司，而我在其中任何一家都找不到工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 1858.73,
+      "textEn": "I tried to get a job at Netscape and sent my resume in and tried hanging out in the lobby, but I was too shy to talk to anyone. And then I was like, okay, well, I guess I'll have to start a company because I can't get a job anywhere.",
+      "textZh": "我试着去网景找工作，投了简历，还试着待在大堂里，但我太害羞了，不敢和任何人说话。然后我就想，好吧，看来我只好创办一家公司了，因为我到哪里都找不到工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 1873.3,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Audience Member",
+      "startSec": 1880.5,
+      "textEn": "My name is Toby McAdam. I have a company called Rising Sun Health. I deal with government regulations. What do you think of them? I actually. Dealing with the FDA, and after talking to Senator DeBauch, I've had 15, 15 attorneys, and they spent three and a half million dollars. We're in the middle of a consent.",
+      "textZh": "我叫托比·麦克亚当。我有一家名为旭日健康的公司。我和政府监管打交道。您怎么看它们？我其实。和FDA打交道，而且在与德博参议员交谈后，我有过15名、15名律师，他们花了350万美元。我们正处于一项同意的中间。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Audience Member",
+      "startSec": 1900.05,
+      "textEn": "They have 15 attorneys. After I've talked to Senator Baucus and Senator Tester, we ended up with 15 attorneys on the FDA, and they've signed a consent decree. But government regulation, what do you think of those? Are they too strict? Because with the fda, they haven't had a reg. They haven't had a. I guess since 1995, but they keep changing the rules. And right now, in the last three years, more fatalities have been in the previous 50.",
+      "textZh": "他们有15名律师。在我与鲍卡斯参议员和泰斯特参议员交谈后，我们最后有15名律师对付FDA，他们签署了一项同意令。但政府监管，您怎么看那些监管？它们是不是太严格了？因为就FDA而言，他们一直没有一项规。他们一直没有一项。我猜是自1995年以来，但他们不断改变规则。而现在，在过去3年里，更多的死亡事件发生在此前50个……",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Elon Musk",
+      "startSec": 1927.37,
+      "textEn": "Yeah, I mean, I think we probably are getting a bit too regulated, you know, how would you recommend going about it?",
+      "textZh": "是的，我是说，我觉得我们受到的监管可能确实有点过多了，你知道，您建议怎么处理？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Audience Member",
+      "startSec": 1935.93,
+      "textEn": "Because I tried Senator Debauch and Senator Tester, and I just keep getting attorneys.",
+      "textZh": "因为我找过德博参议员和泰斯特参议员，可我得到的总是律师。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Audience Member",
+      "startSec": 1942.29,
+      "textEn": "I actually had to file papers against the FDA myself.",
+      "textZh": "我实际上不得不亲自提交针对FDA的文件。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1945.09,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 1947.41,
+      "textEn": "Well, I don't know. I think generally with laws and regulations, I think they should all come with some sort of a sunset clause, you know, because otherwise they have infinite life.",
+      "textZh": "嗯，我不知道。我觉得一般来说，对于法律和法规，我认为它们都应该附带某种日落条款，你知道，因为否则它们的寿命就是无限的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Audience Member",
+      "startSec": 1958.53,
+      "textEn": "Right. Do you think they should set standards where all companies follow?",
+      "textZh": "对。您认为他们应该制定所有公司都遵循的标准吗？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 1963.17,
+      "textEn": "Well, I do think. I mean, I do think that there ought to be standards bodies. I'm not. I'm not completely libertarian in the sense of, like, I don't think there should be regulations at all. I just think that the natural bias of regulations is to last forever unless they're actively. I mean, you have to actively delete a regulation or a law, you know, the way things are set up in most laws. Some laws have sunset provisions.",
+      "textZh": "嗯，我确实认为。我是说，我确实认为应该有标准机构。我并不。我并不是完全的自由意志主义者，也就是说，我并不认为完全不应该有监管。我只是认为，监管天然的倾向就是永远持续下去，除非有人主动。我是说，你必须主动删除一项法规或一部法律，你知道，大多数法律的设置方式就是这样。有些法律有日落条款。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 1988.83,
+      "textEn": "And the problem with that is you get vested interests who like that law, and there's an inertia around it. And so over time, the body of law and regulations grows and grows and grows. And I mean, it is something that I think is not ultimately good for society. So, in fact, I think it would generally be a good idea to have it such that it's hard to establish a rule and easy to remove one.",
+      "textZh": "而问题在于，你会遇到喜欢那部法律的既得利益者，并且它周围存在一种惯性。因此随着时间推移，法律和法规的体量不断增长、不断增长、不断增长。而且我是说，我认为这件事最终对社会并无益处。所以事实上，我认为一般来说，让规则难以确立、易于废除会是个好主意。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Audience Member",
+      "startSec": 2016.54,
+      "textEn": "What you're saying is the rules should be consistently used to all, all companies?",
+      "textZh": "您的意思是，规则应该一致地适用于所有、所有公司？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 2020.12,
+      "textEn": "Well, sure, of course, absolutely. That's. That's fair.",
+      "textZh": "嗯，当然，当然，完全可以。这。这样很公平。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Audience Member",
+      "startSec": 2027.48,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Moderator",
+      "startSec": 2028.12,
+      "textEn": "You're very welcome. One couple more, very quick. We're, we're already over the end.",
+      "textZh": "非常不客气。再来一两个，很快。我们、我们已经超过结束时间了。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 2033.88,
+      "textEn": "There's a big sign here that says the end, by the way. It's just Craig Sundberg.",
+      "textZh": "顺便说一句，这里有一块大牌子，上面写着“结束”。只是克雷格·桑德伯格。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Moderator",
+      "startSec": 2039.4,
+      "textEn": "It's not the end.",
+      "textZh": "还没结束。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Audience Member",
+      "startSec": 2040.12,
+      "textEn": "You know, I'm just. I'm just always been there.",
+      "textZh": "你知道，我只是。我只是一直都在那里。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Moderator",
+      "startSec": 2041.96,
+      "textEn": "Go ahead. Right here.",
+      "textZh": "请说。就在这里。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Audience Member",
+      "startSec": 2042.84,
+      "textEn": "I just. I've been interested in space travel. I know one of the problems where they've had was the lack of gravity and effects of that on the human body. I was wondering how your company has made progress in that area so that, you know, colonization of Mars at some point can be possible.",
+      "textZh": "我只是。我一直对太空旅行感兴趣。我知道他们遇到的一个问题是缺乏重力，以及这对人体的影响。我想知道贵公司在这方面取得了怎样的进展，从而让，你知道，在未来某个时候殖民火星成为可能。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 2058.1,
+      "textEn": "Sure. Well, the zero gravity on the way to Mars is not too much of a problem because people have actually shown that they can live for over a year in zero gravity. And, you know, your bones do get a little thinner, but they come back and they're walking around, they're doing fine. So I think the zero gravity trend, you know, spending three to six months in zero gravity is not a problem.",
+      "textZh": "当然。嗯，前往火星途中处于零重力状态并不算太大的问题，因为人们实际上已经证明，他们可以在零重力环境中生活超过1年。而且，你知道，你的骨骼确实会变薄一点，但他们回来后也能四处走动，情况很好。所以我认为零重力这个趋势，你知道，在零重力环境中度过3到6个月不是问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 2084.05,
+      "textEn": "And then one can deal with the solar radiation, solar storms, essentially, by having a column of water between you and the sun. So on your spaceship, you orient the spaceship so that there's a column of water between you and the sun. That'll take care of the solar storms. Thank you.",
+      "textZh": "然后，基本上，可以通过让你和太阳之间隔着一道水柱来应对太阳辐射、太阳风暴。所以在飞船上，你要调整飞船的朝向，让你和太阳之间隔着一道水柱。这样就能应对太阳风暴。谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Moderator",
+      "startSec": 2100.69,
+      "textEn": "We're going to have to wrap up here. I'm really very Elon will tell you this sign. The end has been up for about 10 minutes.",
+      "textZh": "我们得在这里结束了。我真的非常，埃隆会告诉你这块牌子。“结束”已经举了大约10分钟。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 2109.21,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T21:37:16.833Z",
+    "reviewedAt": "2026-09-12T22:23:54.886Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:16.747Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "1748929d0cdeaf7415a4839021fc17683a992c36fccdf568406862b255b2ad2f"
+}

@@ -1,0 +1,886 @@
+{
+  "id": "tesla-model-x-reveal-2015-09-29",
+  "slug": "tesla-model-x-reveal-2015-09-29",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2015-09-29",
+  "titleEn": "Tesla Model X Reveal",
+  "titleZh": "Tesla Model X 发布会",
+  "summaryEn": "Official Tesla unveiling of the Model X SUV with falcon-wing doors, presented by Musk who hands keys to the first owners.",
+  "summaryZh": "Tesla 官方发布配备鹰翼门的 Model X SUV，由马斯克担任主讲并向首批车主交付钥匙。",
+  "sourceUrl": "https://www.youtube.com/watch?v=mURbzh9t0_0",
+  "sourceLabel": "Tesla",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-model-x-reveal-2015-09-29",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/mURbzh9t0_0",
+  "thumbnailUrl": "https://i.ytimg.com/vi/mURbzh9t0_0/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 1528,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Host",
+      "startSec": 1.36,
+      "textEn": "What I'd like to do is I'd like to welcome you to our Los Angeles design and engineering studio. This is one of the buildings at Tesla where incredible things happen every day, innovative, creative things. And we're going to share one with you tonight that we're actually very, very excited about, and we think you will be, too.",
+      "textZh": "我想欢迎各位来到我们位于洛杉矶的设计与工程工作室。这里是 Tesla 的建筑之一，每天都有不可思议的事情在这里发生，都是创新、有创意的事情。今晚我们要与各位分享其中一件，我们对此真的非常、非常兴奋，而且我们认为你们也会如此。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Host",
+      "startSec": 23.12,
+      "textEn": "It's really quite awesome, actually. I'm so excited because we've been going through rehearsals today and I've actually got to see. And it's actually extraordinary. And we. There's. It's not a coincidence that we are here in California. What I mean by that is we love California. We. We have our design and engineering studio here. Our corporate headquarters are in Palo Alto, and we are going to build our cars at the Tesla factory in Fremont, California.",
+      "textZh": "其实，它真的相当了不起。我太兴奋了，因为我们今天一直在进行彩排，而我实际上已经看到了。而且它确实非同寻常。而我们。这里。有一点并非巧合，那就是我们身处加利福尼亚州。我的意思是，我们热爱加利福尼亚州。我们。我们的设计与工程工作室设在这里。我们的公司总部位于帕洛阿尔托，而且我们将在加利福尼亚州弗里蒙特的 Tesla 工厂制造我们的汽车。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Host",
+      "startSec": 52.32,
+      "textEn": "We are very, very closely connected to California, and we have a very special guest here tonight. Very, very special guest who's been very supportive throughout the years. And it is my pleasure to introduce tonight the governor of the great state of California. Ladies and gentlemen, Governor Jerry Brown.",
+      "textZh": "我们与加利福尼亚州有着非常、非常紧密的联系，今晚我们还有一位非常特别的嘉宾。一位非常、非常特别的嘉宾，多年来一直给予我们大力支持。今晚，我很荣幸地向大家介绍伟大的加利福尼亚州州长。女士们、先生们，有请杰里·布朗州长。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Host",
+      "startSec": 76.32,
+      "textEn": "Jerry, thank you for being here. All right, all yours.",
+      "textZh": "杰里，感谢你来到这里。好了，交给你了。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Jerry Brown (Governor)",
+      "startSec": 79.76,
+      "textEn": "Okay, well, great to be here. You know, you got a rocket ship next door and, you know, as Governor Moonbeam, I love rocket ships, but I also like electric cars. And California has set the tone, set the goal for the whole nation. And isn't it great that California has a manufacturing plant of today, which is also a plant of the future? We're setting the roll, we're setting the pace. And you all here tonight are here to celebrate that and give evidence to the fact that California is on the move.",
+      "textZh": "好的，嗯，很高兴来到这里。你们知道，隔壁有一艘火箭飞船，而且，你们知道，作为“月光州长”，我喜欢火箭飞船，但我也喜欢电动汽车。加利福尼亚州为全美国定下了基调，设定了目标。加利福尼亚州拥有一座属于今天、同时也属于未来的制造工厂，这不是很棒吗？我们正在设定进程，我们正在确立步调。今晚在场的各位都是来庆祝这一点的，并证明加利福尼亚州正在向前迈进。",
+      "speakerZh": "杰里·布朗（州长）"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Jerry Brown (Governor)",
+      "startSec": 115.54,
+      "textEn": "Now, we got our problems. We got our problem characters, some of them in politics, some in business, some in other places, but we got a lot of tremendous creativity. And being in a design center really makes the point that it's about design. Instead of fighting all the old battles, we need to imagine how we can change the design because we can work our way out of our mess with creativity and openness and the kind of spirit that is willing to take risks and not get bogged down with all the garbage that we talk about most of the time.",
+      "textZh": "现在，我们有自己的问题。我们有那些问题人物，有些在政界，有些在商界，还有些在其他地方，但我们拥有大量非凡的创造力。而身处一个设计中心，确实凸显了重点在于设计。与其继续打那些陈旧的仗，我们需要设想如何改变设计，因为凭借创造力、开放态度，以及那种愿意承担风险、不被我们大多数时候谈论的所有那些垃圾拖住脚步的精神，我们能够找到摆脱困境的办法。",
+      "speakerZh": "杰里·布朗（州长）"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Jerry Brown (Governor)",
+      "startSec": 154.71,
+      "textEn": "So I'm glad to be here. And I don't know what else is next, but that's all I got to say.",
+      "textZh": "所以我很高兴来到这里。我不知道接下来还有什么，但我要说的就这些。",
+      "speakerZh": "杰里·布朗（州长）"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Host",
+      "startSec": 163.86,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 164.66,
+      "textEn": "Step over here.",
+      "textZh": "请到这边来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Host",
+      "startSec": 167.62,
+      "textEn": "Thank you. That was great. Always happy to have a VIP in the crowd. It's great. I now have the honor of introducing the person who, on a daily basis. Daily basis at our company, pushes the ideal that nothing is impossible. Nothing. And he also reminds Us every day of two things. One is that everything we do is going to make a difference. And two, everything we do, we do for you. Ladies and gentlemen, Mr. Elon Musk.",
+      "textZh": "谢谢。讲得太棒了。人群中有一位贵宾总是令人高兴。太棒了。现在我很荣幸地介绍一个人，他每天。在我们公司每天，都在推动“一切皆有可能”这一理念。没有什么是不可能的。他每天还提醒我们2件事。第一，我们所做的一切都会带来改变。第二，我们所做的一切，都是为你们而做。女士们、先生们，有请埃隆·马斯克先生。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Jerry Brown (Governor)",
+      "startSec": 235.26,
+      "textEn": "That's a good looking car.",
+      "textZh": "这车真好看。",
+      "speakerZh": "杰里·布朗（州长）"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 236.46,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 239.66,
+      "textEn": "So do you want to take a photo?",
+      "textZh": "那么，你想拍张照片吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Jerry Brown (Governor)",
+      "startSec": 241.34,
+      "textEn": "Yeah.",
+      "textZh": "好。",
+      "speakerZh": "杰里·布朗（州长）"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 241.98,
+      "textEn": "All right.",
+      "textZh": "好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 245.67,
+      "textEn": "Voila.",
+      "textZh": "瞧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Jerry Brown (Governor)",
+      "startSec": 248.31,
+      "textEn": "That's what the state bar should look like.",
+      "textZh": "州律师协会就应该是这个样子。",
+      "speakerZh": "杰里·布朗（州长）"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Host",
+      "startSec": 251.19,
+      "textEn": "Excellent.",
+      "textZh": "太棒了。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 251.83,
+      "textEn": "All right,",
+      "textZh": "好，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Host",
+      "startSec": 255.43,
+      "textEn": "sure.",
+      "textZh": "当然。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Jerry Brown (Governor)",
+      "startSec": 255.79,
+      "textEn": "I'm going to buy three.",
+      "textZh": "我要买3辆。",
+      "speakerZh": "杰里·布朗（州长）"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Host",
+      "startSec": 258.55,
+      "textEn": "Thanks a lot.",
+      "textZh": "非常感谢。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 268.31,
+      "textEn": "All right, well, welcome everyone. I want to start off by just explaining a bit about Tesla. Why did we create Tesla? What was the purpose of the company?",
+      "textZh": "好，欢迎大家。我想先简单介绍一下 Tesla。我们为什么创立 Tesla？这家公司的目的是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 282.72,
+      "textEn": "We created Tesla to make a difference in the world. The world desperately needs sustainable transport.",
+      "textZh": "我们创立 Tesla，是为了改变世界。世界迫切需要可持续交通。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 290.96,
+      "textEn": "If we don't solve this problem this century, we are fracked.",
+      "textZh": "如果我们不能在本世纪解决这个问题，我们就完蛋了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 300.9,
+      "textEn": "So the thing is, if you don't make compelling electric cars, if you don't make electric cars that are not, not almost as good as gasoline cars, not as good as electric cars, but if you don't make electric cars that are better, then it's not going to happen. So that's really the mission of Tesla, is to apply creativity and innovation to create the most compelling cars in the world, bar none.",
+      "textZh": "所以问题是，如果你造不出有吸引力的电动汽车，如果你造出的电动汽车不是，不是几乎和汽油车一样好，不是和电动汽车一样好，而是如果你造不出更好的电动汽车，那么这件事就不会发生。所以，这确实就是 Tesla 的使命：运用创造力和创新，打造世界上最具吸引力的汽车，没有之一。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 329.29,
+      "textEn": "We want to show that electric cars are in fact better than gasoline.",
+      "textZh": "我们想证明，电动汽车实际上比汽油车更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 335.93,
+      "textEn": "I'd like to just touch on one point before getting to talk more about cars, which is just to show if you have an electric car in California, you use only a quarter, as you create only a quarter as much as CO2 as an equivalent gasoline car. This is important because sometimes people will say, well, sure, it's an electric car, but haven't you just moved the problem of CO2 production from the car to the power plant? So even if you have, if you're just taking electricity directly from the meter in California, you're only using, you're only creating about quarter as much CO2 as you would with a gasoline car.",
+      "textZh": "在进一步谈论汽车之前，我想简单提一点，就是为了说明，如果你在加利福尼亚州拥有一辆电动汽车，你只使用四分之一，因为你产生的 CO2 只有同等汽油车的四分之一。这一点很重要，因为有时人们会说，好吧，当然，它是一辆电动汽车，但你难道不是仅仅把产生 CO2 的问题从汽车转移到了发电厂吗？所以，即使你有，如果你只是在加利福尼亚州直接从电表取电，你使用的，你产生的 CO2 也只有汽油车的大约四分之一。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 374.8,
+      "textEn": "So yeah, And even if you're in the worst case situation, which is West Virginia, you're still, you're still producing less CO2 per mile with an electric car than with a gasoline car. So you're still ahead of the game. And then if you happen to be in Vermont, you're, if you have in Vermont, you're producing almost no CO2 per mile. And then there's a situation which is even better, which is if you install solar power, I know a company that's pretty good at that.",
+      "textZh": "所以，是的。而且，即使你处于最糟糕的情况，也就是西弗吉尼亚州，你仍然，你的电动汽车每英里产生的 CO2 仍然比汽油车少。所以你仍然占有优势。然后，如果你碰巧在佛蒙特州，你，如果你在佛蒙特州，你每英里几乎不产生 CO2。还有一种甚至更好的情况，那就是如果你安装太阳能发电设备，我知道有一家公司很擅长这个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 424.77,
+      "textEn": "And if you install solar power, you can easily produce more electricity at your house than you consume in your car. So that's an incredibly sustainable solution that's addressing both the production and the consumption of energy.",
+      "textZh": "如果你安装太阳能发电设备，你的住宅可以轻松产生比汽车消耗量更多的电力。所以，这是一个极其可持续的解决方案，同时解决了能源的生产和消耗问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 441.56,
+      "textEn": "So our goal at Tesla has always been to create cars that no one thought was possible.",
+      "textZh": "所以，Tesla 的目标一直是创造人们认为不可能存在的汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 447.48,
+      "textEn": "We started with the Roadster.",
+      "textZh": "我们从 Roadster 开始。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 456.21,
+      "textEn": "I think some people drove the Roadster here today.",
+      "textZh": "我想，今天有些人开着 Roadster 来到了这里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 464.69,
+      "textEn": "So for the longest time, people said a car like the Roadster was impossible. It was like some fictional creature. So we had to show that you could create an electric car, an electric sports car. That totally changed the paradigm of what people thought about an electric car, because people used to think electric cars were slow and they were kind of ugly and they had low range and they sort of looked like a golf cart.",
+      "textZh": "所以，在很长一段时间里，人们都说 Roadster 这样的汽车是不可能存在的。它就像某种虚构的生物。因此，我们必须证明，你可以制造出电动汽车，制造出电动跑车。这彻底改变了人们对电动汽车的看法，因为人们过去认为电动汽车速度慢、有点难看、续航里程短，而且看起来有点像高尔夫球车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 489.52,
+      "textEn": "Well, the Tesla Roadster is one hell of a golf cart.",
+      "textZh": "嗯，Tesla Roadster 可真是一辆厉害得不得了的高尔夫球车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 494.64,
+      "textEn": "So we created a car that is actually faster than most gasoline sports cars, that has a long range, and that looks pretty good.",
+      "textZh": "所以，我们造出了一辆实际上比大多数汽油跑车更快、续航里程很长，而且相当好看的汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 504.32,
+      "textEn": "And that car was really what got the electric car revolution started.",
+      "textZh": "而真正开启电动汽车革命的，正是这辆车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 509.21,
+      "textEn": "And no less a person than Bob Lutz. Bob Lutz, who is vice chairman of gm, when he saw us unveil the Tesla Roadster, he took our press release down to his team and said, look, if a little company in California can do this, then so can General Motors.",
+      "textZh": "而且，这个人不是别人，正是鲍勃·卢茨。鲍勃·卢茨当时是通用汽车的副董事长，当他看到我们发布 Tesla Roadster 时，他把我们的新闻稿拿给自己的团队，说，你们看，如果加利福尼亚州的一家小公司能做到，那么通用汽车也能做到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 531.13,
+      "textEn": "And that's what really got the ball rolling. And then there came the Nissan Leaf and many other electric vehicle programs. And then in partnership with our awesome partners, Toyota and Daimler, with Daimler, we did the electric Smart Car. We did the Mercedes A Class, all electric. And with Toyota, we've created the electric RAV4 that's going to come out later this year. So our goal is not. Tesla's really a hardcore technology and design company.",
+      "textZh": "而这才真正让事情开始推进。随后出现了日产聆风，以及许多其他电动汽车项目。然后，通过与我们出色的合作伙伴丰田和戴姆勒合作，我们与戴姆勒共同打造了电动 Smart 汽车。我们打造了纯电动的梅赛德斯 A 级。我们还与丰田共同打造了电动 RAV4，它将在今年晚些时候推出。所以，我们的目标并不是。Tesla 确实是一家硬核的技术和设计公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 567.12,
+      "textEn": "The way that we don't really want to keep technology close to our best. And that's why we've really done our best to bring that technology to mass market by working with companies like Toyota and Daimler and perhaps others in the future.",
+      "textZh": "我们的做法是，我们并不真的想把技术紧紧留在我们最好的地方。这就是为什么我们确实竭尽全力，通过与丰田和戴姆勒等公司合作，也许未来还会与其他公司合作，把这项技术带入大众市场。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 584.08,
+      "textEn": "So we went from the Roadster to the Model S, And we took everything we learned from the Roadster, which is now 31 countries.",
+      "textZh": "所以，我们从 Roadster 发展到了 Model S，并吸收了从 Roadster 上学到的一切，而它现在是 31 个国家。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 602.5,
+      "textEn": "And with the help of our partners Daimler and Toyota, who have been great mentors to us, we've tried to create the best car in the world and the most advanced car in the world. And I think we've done that with the Model S.",
+      "textZh": "在我们的合作伙伴戴姆勒和丰田的帮助下，他们一直是我们非常出色的导师，我们努力打造世界上最好的汽车和世界上最先进的汽车。我认为，我们已经通过 Model S 做到了这一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 622.27,
+      "textEn": "In fact, the Model S, despite being a much larger car than the Roadster, actually has more range. We pushed the range up to 300 miles.",
+      "textZh": "事实上，尽管 Model S 比 Roadster 大得多，它的续航里程实际上却更长。我们把续航里程提升到了 300 英里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 633.63,
+      "textEn": "So it's really something, I think, pretty special. And we're going to be starting deliveries no later than July of this year.",
+      "textZh": "所以，我认为它确实相当特别。我们将最迟于今年 7 月开始交付。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 648.92,
+      "textEn": "So the Model S has a lot of cool things. I won't dwell too much on the Model S. It's going to go off stage now.",
+      "textZh": "所以，Model S 有很多很酷的东西。我不会在 Model S 上花太多时间。它现在要驶离舞台了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 658.76,
+      "textEn": "But it's got great things like the 17 inch touchscreen display. And I should mention that we really believe in having electronics in the car that are as good or better than consumer electronics, because people are used to take going from having their cell phone, you know, the iPhone, iPad or Android phone. And when they go to the car, the electronics are worse. Well, we said, well, you know, why does that have to be the case?",
+      "textZh": "但它拥有一些很棒的东西，比如 17 英寸触摸屏。我还应该提到，我们确实认为，车内的电子设备应该与消费电子产品一样好，或者比它们更好，因为人们已经习惯于从使用自己的手机，你知道，iPhone、iPad 或安卓手机。可当他们进入汽车时，电子设备却更差。于是我们说，嗯，你知道，为什么非得如此呢？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 679.81,
+      "textEn": "So let's have a screen that's actually better than your MacBook Pro. So we tapped the Apple supply chain and said, well, let's take away the constraints that make a laptop screen worse because the laptops have to conserve energy. So we increase the contrast level, we increase the light lumen level. And so you actually, when you go to the screen on a Model S, it's going, you're going from a screen on your laptop is actually better than your laptop.",
+      "textZh": "所以，我们要做一块实际上比你的 MacBook Pro 更好的屏幕。于是我们利用了 Apple 的供应链，并说，嗯，让我们去掉那些导致笔记本电脑屏幕更差的限制，因为笔记本电脑必须节省能量。所以我们提高了对比度，提高了光通量水平。因此实际上，当你看到 Model S 上的屏幕时，它会——你从笔记本电脑上的一块屏幕转过去，实际上比你的笔记本电脑更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 707.94,
+      "textEn": "So there's a lot of things like that. And the Model S also has five plus two seating. So it's seating for five adults plus two kids, which I need personally.",
+      "textZh": "所以有很多这样的东西。Model S 也有 5+2 座椅配置。也就是可以坐 5名成人加 2个孩子，我个人需要这个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 721.11,
+      "textEn": "But when we designed the Model S, we created a platform so it's not just a single car. We created something on which we could build many cars.",
+      "textZh": "但当我们设计 Model S 时，我们打造了一个平台，所以它不只是一款车。我们创造了一个可以在其基础上打造多款汽车的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 734.55,
+      "textEn": "And we're able to leverage that and bring another car to market fast. And that's really what the Model X is, is all about.",
+      "textZh": "而且我们能够利用这一点，迅速将另一款车推向市场。而这确实就是 Model X 的意义所在。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 750.89,
+      "textEn": "So with the Model X, what's the problem that we're trying to solve? Well, minivans have lots of room, but not much style.",
+      "textZh": "那么，对于 Model X，我们试图解决什么问题？嗯，厢式旅行车空间很大，但没什么风格。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 763.05,
+      "textEn": "SUVs are big on the outside, but they tend to be small on the inside.",
+      "textZh": "SUV 外面很大，但里面往往很小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 768.75,
+      "textEn": "Many vans and SUVs have been trying for years to overcome these problems.",
+      "textZh": "许多厢式车和 SUV 多年来一直在努力克服这些问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 773.47,
+      "textEn": "Here we see the first attempt at that.",
+      "textZh": "这里我们看到了解决这一问题的首次尝试。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 777.39,
+      "textEn": "Not bad, not bad.",
+      "textZh": "不差，不差。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 780.19,
+      "textEn": "People kept iterating over the decades. It's not clear it got better.",
+      "textZh": "几十年来，人们不断迭代。并不清楚它有没有变得更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 792.6,
+      "textEn": "And then we've got things like, say, the Audi Q7, which is, it's not bad. We have one here, so you can take a look at it and compare it to the Model X.",
+      "textZh": "然后我们还有比如奥迪 Q7 这样的车，它，它不差。我们这里有一辆，所以你们可以看看，并把它和 Model X 比较一下。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 803.8,
+      "textEn": "And I actually have an Audi Q7 personally.",
+      "textZh": "而且我个人其实就有一辆奥迪 Q7。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 808.44,
+      "textEn": "And then you can also have things like, say, the Honda Odyssey minivan. I don't have one of those.",
+      "textZh": "然后你也可以有比如本田奥德赛厢式旅行车这样的车。我没有那种车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 818.13,
+      "textEn": "So you've got functionality with the minivan, you've got style with the suv.",
+      "textZh": "所以，厢式旅行车有功能性，SUV 有风格。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 828.05,
+      "textEn": "And then what's the third missing element? Well, how about performance? So what if, what if you could have a car that has more functionality than a minivan, more style than an SUV, and more performance than a sports car?",
+      "textZh": "那么缺少的第3个要素是什么？嗯，性能怎么样？所以，如果，如果你能拥有一辆功能性胜过厢式旅行车、风格胜过 SUV、性能胜过跑车的汽车，会怎么样？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 845.66,
+      "textEn": "That's the Model X.",
+      "textZh": "那就是 Model X。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 895.08,
+      "textEn": "So one of the main inventions of the Model X is something we call the Falcon Wing doors.",
+      "textZh": "所以，Model X 的主要发明之一，是我们称为鹰翼门的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 914.45,
+      "textEn": "And driving the car is Franz von Holzhausen, our head of design.",
+      "textZh": "驾驶这辆车的是我们的设计负责人弗朗茨·冯·霍尔茨豪森。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 923.65,
+      "textEn": "And then we've also got six of the key engineers and designers behind the Model X.",
+      "textZh": "然后，我们这里还有 Model X 背后的6位核心工程师和设计师。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 937.88,
+      "textEn": "You'll notice these are not small people.",
+      "textZh": "你们会注意到，这些人个头都不小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 942.2,
+      "textEn": "So with the Model X, we wanted to create something. We really wanted to create a door that was better than any other door. This is something that's very important for each. You know, something like a minivan. You have that sliding door. Well, how do you create something that's better than a sliding door? We went through many iterations. This was not an easy thing to figure out. And the thing that makes this unique is it's a split goal.",
+      "textZh": "所以，对于 Model X，我们想创造某种东西。我们真的想创造一扇比任何其他车门都更好的门。这对每一个来说都非常重要。你知道，比如厢式旅行车。它有那种滑动门。那么，如何创造出比滑动门更好的东西？我们经历了多次迭代。这并不是一件容易弄明白的事。而让它与众不同的是，它是一个分体式目标。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 963.89,
+      "textEn": "It's like a gullwing, but it's a split gull wing. So we call it the Falcon Wing. That's really important because with the split gull wing, with the second hinge, we're able to make it such that the door opens out very, very slightly. And it being so tall, you can do things like stand up inside the car.",
+      "textZh": "它就像鸥翼门，但它是分体式鸥翼门。所以我们称它为鹰翼门。这一点确实很重要，因为借助分体式鸥翼门和第2个铰链，我们能够让车门向外打开得非常、非常少。而且因为它这么高，你可以做一些事情，比如站在车内。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 989.1,
+      "textEn": "You can't do that in any other vehicle. So it also has the only sort of only roof opening. So even if you're in the rain, it's protecting you from the rain.",
+      "textZh": "在任何其他车辆里你都做不到这一点。所以它还有唯一一种、唯一的车顶开口。所以即使你身处雨中，它也能为你挡雨。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 1000.7,
+      "textEn": "And one of the things that's nice about this is like, let's say you've got a child seat here. If you put a child seat here, normally what you'd have to do is you'd have to cantilever yourself over the car and try to. Try to put your kid in. In this case, you can actually just step into the car, put your kid down.",
+      "textZh": "而它的一个好处是，比如说这里有一个儿童座椅。如果你在这里放一个儿童座椅，通常你要做的是把身体悬伸到车上方，然后试着。试着把你的孩子放进去。在这种情况下，你实际上只要迈进车里，把孩子放下。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1024.39,
+      "textEn": "So it truly has seating for seven adults, like seven real adults.",
+      "textZh": "所以它确实能坐下7名成年人，就是真正的7名成年人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1031.1,
+      "textEn": "And you can also do things, you can step directly into the third row.",
+      "textZh": "而且你还可以做一些事情，你可以直接迈进第3排。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1037.98,
+      "textEn": "So little unwieldy.",
+      "textZh": "所以有点笨拙。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1042.46,
+      "textEn": "So ordinarily I'd move the seat, but I don't want to wait for that. So the thing about this is that normally if you have an SUV and you have a child seat in the second row, it's extremely difficult to use. Use the third row. It's almost impossible. So with the Model X, you can actually do that.",
+      "textZh": "所以通常我会移动座椅，但我不想等那个。所以关键在于，通常如果你有一辆 SUV，并且第2排有一个儿童座椅，使用起来就极其困难。使用第3排。几乎不可能。所以有了 Model X，你实际上可以做到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1062.54,
+      "textEn": "And it really fits perfectly every everywhere you go.",
+      "textZh": "而且无论你去任何任何地方，它确实都完美适用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 1066.86,
+      "textEn": "So this is a roadster in a garage. It's actually in my garage.",
+      "textZh": "所以这是一辆车库里的 Roadster。它实际上就在我的车库里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1074.78,
+      "textEn": "And this is the Model X.",
+      "textZh": "而这是 Model X。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1078.62,
+      "textEn": "So the doors don't go any higher than a normal SUV rear hatchback would go. So. So if you can open the hatch on an suv, you can open the Falcon Wing doors.",
+      "textZh": "所以这些车门不会升得比普通 SUV 的后掀门更高。所以。所以，如果你能打开 SUV 的后掀门，就能打开鹰翼门。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Elon Musk",
+      "startSec": 1093.98,
+      "textEn": "Want to show an illustration?",
+      "textZh": "想展示一张图示吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 1107.1,
+      "textEn": "So we're designed the Falco windows such that if you can physically fit between your car and another car, you can enter the door. It actually has more accessibility than any minivan sliding door. Because normally you'd have the sliding door in the way when you're trying to get in. So, I mean, I'm sure we've all been in a parking lot where somebody's parked really close to us and we can't get in. You won't have a problem with felt ruined doors.",
+      "textZh": "所以我们设计 Falco 车窗时，让它做到只要你身体上能挤进自己的车和另一辆车之间，你就能进入车门。它实际上比任何厢式旅行车滑动门都更容易进出。因为通常当你试图进去时，滑动门会挡路。所以，我是说，我相信我们都遇到过这种停车场，有人把车停得离我们非常近，我们进不去。有了毛毡毁坏车门，你就不会遇到问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 1140.8,
+      "textEn": "We've really tried to create something which is perfect for everything you do.",
+      "textZh": "我们确实努力创造一种完美适合你所做一切事情的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 1149.04,
+      "textEn": "So what can I do in my Q7?",
+      "textZh": "那么我能在我的 Q7 里做什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1154.8,
+      "textEn": "Well, when you actually have the third row up, you've got basically no cargo space. You can fit a couple of sleeping bags, a backpack and a rope.",
+      "textZh": "嗯，当你真的把第3排立起来时，基本上就没有载物空间了。你可以放下2个睡袋、一个背包和一根绳子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 1166.01,
+      "textEn": "With the Model X, we've got a third row seat, plus tons of space for baggage.",
+      "textZh": "Model X 有第3排座椅，外加大量行李空间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Elon Musk",
+      "startSec": 1211.56,
+      "textEn": "And all the seats fold. I mean, you can practically fit a queen size bed in there. So just think of all the things you could do with this space. I mean, this car can do anything you want. It's crazy.",
+      "textZh": "而且所有座椅都能折叠。我的意思是，你几乎可以在里面放下一张大号双人床。所以想想看，你能用这个空间做多少事情。我的意思是，这辆车能做你想让它做的任何事。太疯狂了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 1223.51,
+      "textEn": "Fit a bike in there, you can travel, practically move house.",
+      "textZh": "可以把自行车放进去，可以去旅行，几乎可以用来搬家。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 1235.03,
+      "textEn": "What an EV architecture really, really allows is that all this stuff that is normally there, that would normally be in the front of a car. So you'd ordinarily have this huge engine and you might have a big transmission. In the back, you would have. You'd have a fuel tank and a catalytic converter and an exhaust, all sorts of stuff that just takes up room. We give all of that room back to you.",
+      "textZh": "电动汽车架构真正、真正实现的是，所有这些通常会在那里、通常会位于汽车前部的东西。所以通常会有这么一台巨大的发动机，可能还有一个大型变速箱。在后部，你会有。你会有油箱、催化转化器和排气系统，各种只会占用空间的东西。我们把所有这些空间都还给你。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 1258.91,
+      "textEn": "There's something in the front you didn't expect.",
+      "textZh": "前面有个你没想到的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 1263.15,
+      "textEn": "I didn't expect it either.",
+      "textZh": "我也没想到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 1267.16,
+      "textEn": "So the other major invention associated with the Model X is dual motor all wheel drive. So we actually have a motor in the front and a motor in the rear.",
+      "textZh": "所以，与 Model X 相关的另一项重大发明是双电机全轮驱动。所以我们实际上在前部有一台电机，在后部也有一台电机。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 1291.33,
+      "textEn": "So despite having a motor in the front, you actually have this enormous trunk.",
+      "textZh": "所以尽管前部有一台电机，实际上你仍然拥有这个巨大的行李厢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 1307.33,
+      "textEn": "What dual motor all wheel drive gives you is the best all wheel drive experience of any car, period. Because you can dynamically shift power from front to rear depending upon what has got the most traction. So thousands of times a second the car is figuring out where the most traction is and shifting power front to rear. This is something you can't do in a regular all wheel drive where it's just a dumb mechanical linkage.",
+      "textZh": "双电机全轮驱动带给你的，是所有汽车中最出色的全轮驱动体验，就这么简单。因为你可以根据哪里拥有最大的抓地力，在前后之间动态转移动力。所以汽车每秒会判断数千次哪里抓地力最大，并在前后之间转移动力。这是普通全轮驱动无法做到的，因为它只是一套愚笨的机械联动装置。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 1331.17,
+      "textEn": "So this has incredible road holding and traction. And we've also designed it such that we're able to shift power according to how you want to turn. So it actually has an incredible turning radius. We think it may actually have a turning radius that's better than a MINI in an suv. So this is really a very powerful thing and also does something with respect to performance.",
+      "textZh": "所以它拥有难以置信的贴地性和抓地力。我们还对它进行了这样的设计，使我们能够根据你想怎么转弯来转移动力。所以它实际上拥有难以置信的转弯半径。我们认为，作为一辆 SUV，它的转弯半径实际上可能比 MINI 还要好。所以这确实是一项非常强大的能力，而且在性能方面也有所作为。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Elon Musk",
+      "startSec": 1357.62,
+      "textEn": "So let's say a car you're probably familiar with, the Porsche 911 Carrera, does 0 to 60 in 4.6 seconds.",
+      "textZh": "比如说一款你可能很熟悉的汽车，Porsche 911 Carrera，0 到 60 英里/小时加速需要 4.6 秒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 1365.94,
+      "textEn": "Model X, 4.4 seconds.",
+      "textZh": "Model X，4.4 秒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 1374.3,
+      "textEn": "So you've got something that's the size of an suv, it's faster than a Porsche Model S. Model X gives you functionality, style and performance. There's no other car like this.",
+      "textZh": "所以你得到的是一辆 SUV 尺寸的车，它比 Porsche Model S 更快。Model X 为你带来功能性、风格和性能。没有任何其他汽车能与之相比。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 1390.86,
+      "textEn": "So just going over that again, what was the problem? Well, there are 77 years of cars that. Well, it didn't really quite do it.",
+      "textZh": "所以再回顾一下，问题是什么？嗯，有 77 年的汽车。嗯，它确实没有完全做到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1399.89,
+      "textEn": "With the Model X, we've got the Falcon Wing design, we've got mountains of storage, seating for seven adults. Incredible performance.",
+      "textZh": "有了 Model X，我们拥有鹰翼门设计，拥有海量储物空间，可以容纳 7 名成年人。难以置信的性能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 1413.97,
+      "textEn": "So the Model X, this is a product you're going to love.",
+      "textZh": "所以 Model X，这是一款你会爱上的产品。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1429.67,
+      "textEn": "So you may be wondering, how do you get one?",
+      "textZh": "所以你可能想知道，怎样才能得到一辆？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1434.87,
+      "textEn": "Reservations will be done the same way as the Model S. We'll have the signature series and then general production. We'll start production towards the end of next year, probably deliver a few units and then bulk production will start in 2014.",
+      "textZh": "预订方式将与 Model S 相同。我们会先推出签名版系列，然后进行常规生产。我们会在明年年底前后开始生产，可能会交付几辆，然后在 2014 年开始大批量生产。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1450.66,
+      "textEn": "So when can I sign up?",
+      "textZh": "那么我什么时候可以报名？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1453.38,
+      "textEn": "Tomorrow at noon. Reservations go live@tesla motives.com.",
+      "textZh": "明天中午。预订将在 live@tesla motives.com 上线。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Jerry Brown (Governor)",
+      "startSec": 1462.26,
+      "textEn": "But",
+      "textZh": "但是",
+      "speakerZh": "杰里·布朗（州长）"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 1464.9,
+      "textEn": "you can reserve one tonight.",
+      "textZh": "你今晚就可以预订 1 辆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1472.42,
+      "textEn": "All right, so Model X. Absolutely. So come up on stage. You're welcome to come on stage and check the car out and have a great party.",
+      "textZh": "好了，那么 Model X。绝对是。请上台来。欢迎你们上台看看这辆车，好好参加派对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 1502.04,
+      "textEn": "Sam.",
+      "textZh": "萨姆。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T00:55:47.504Z",
+    "reviewedAt": "2026-09-13T02:16:43.429Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:38.971Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "4a216794f6e0110e3400d0550dc0abd2100578a581c7ce2e616c35e0721e6c5b"
+}

@@ -1,0 +1,720 @@
+{
+  "id": "tesla-q4-2019-earnings-call-2020-01-29",
+  "slug": "tesla-q4-2019-earnings-call-2020-01-29",
+  "snapshotId": "2026-09-12",
+  "type": "earnings",
+  "date": "2020-01-29",
+  "titleEn": "Tesla Q4 2019 Earnings Call",
+  "titleZh": "Tesla 2019年第四季度财报电话会议",
+  "summaryEn": "Musk and CFO Zachary Kirkhorn discuss Tesla's record Q4 2019 results, the Cybertruck and the 2020 outlook on the quarterly investor call.",
+  "summaryZh": "马斯克和首席财务官扎卡里·柯克霍恩在季度投资者电话会议上讨论Tesla创纪录的2019年第四季度业绩、Cybertruck以及2020年前景。",
+  "sourceUrl": "https://www.youtube.com/watch?v=LTOetiSVJnc",
+  "sourceLabel": "Solving The Money Problem",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-q4-2019-earnings-call-2020-01-29",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/LTOetiSVJnc",
+  "thumbnailUrl": "https://i.ytimg.com/vi/LTOetiSVJnc/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 3595,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Ladies and gentlemen, thank you for standing by and welcome to Tesla's Q4 2019 financial results and Q&A webcast. At this time, all participants are on a listenon mode. After the speaker presentation, there will be a question and answer session. To ask a question during the session, you will need to press star one on your telephone. Please be advised that today's conference is being recorded.",
+      "textZh": "女士们、先生们，感谢各位在线等候，欢迎参加Tesla 2019年第四季度财务业绩及问答网络直播。目前，所有参与者均处于仅收听模式。发言人陈述结束后，将进入问答环节。如需在该环节提问，您需要在电话上按星号键加1。请注意，今天的会议正在录音。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "If you require any further assistance, please press star zero. I would now like to hand the conference over to your speaker, Mr. Martin Viea, senior director of investor relations. Please go ahead, sir. Thank you, Sheree, and good afternoon, everyone, and welcome to Tesla's fourth quarter 2019 Q&A webcast. I'm joined today by Elon Musk, Zachary Kirkorn, and a number of other executives. Our Q4 results were announced at about 1:00 p. m.",
+      "textZh": "如果您需要任何进一步协助，请按星号键加0。现在，我想把会议交给发言人、投资者关系高级总监马丁·维亚先生。先生，请开始。谢谢你，谢里，大家下午好，欢迎参加Tesla 2019年第四季度问答网络直播。今天和我一起出席的有埃隆·马斯克、扎卡里·柯克恩以及多位其他高管。我们的第四季度业绩已于下午大约1:00公布。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Pacific time in the update deck we published at the same link as this webcast. During the call, we will discuss our business outlook and make forward-looking statements. These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.",
+      "textZh": "太平洋时间，在我们通过与本次网络直播相同的链接发布的更新资料中。会议期间，我们将讨论业务前景并作出前瞻性陈述。这些评论基于我们截至今天的预测和预期。由于多项风险和不确定性，包括我们最近向美国证券交易委员会提交的文件中提到的风险和不确定性，实际事件或结果可能存在重大差异。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "During the question and answer portion of today's call, please limit yourself to one question and one follow-up. Please press star one now if you'd like to join the question queue. But before we jump into Q&A, Elon has some opening remarks. Elon. Uh, thanks Martin. So, Q4 was another strong quarter for the company. Uh, deliveries reached uh, over 112,000 vehicles in a single quarter.",
+      "textZh": "在今天电话会议的问答部分，请将提问限制为1个问题和1个追问。如果您想加入提问队列，请现在按星号键加1。但在进入问答之前，埃隆有一些开场发言。埃隆。呃，谢谢马丁。那么，第四季度对公司来说又是一个强劲的季度。呃，单季度交付量达到呃，超过112,000辆。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "It's hard to think of a similar product with such strong demand that it can generate more than $20 billion in revenue with zero advertising spend.",
+      "textZh": "很难想到有类似产品能拥有如此强劲的需求，可以在广告支出为零的情况下创造超过200亿美元的收入。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "I think that's I think we do say that from time to time and I think it's it's often um overlooked but to have uh the highest demand electric vehicle in the world with no advertising spend is I think quite remarkable and speaks to the the the nature of the product and the fact that the product itself is compelling enough to generate that demand without uh without a bunch of advertising at our Fremont factory.",
+      "textZh": "我认为那是，我认为我们确实时不时会说到这一点，我认为它经常嗯被忽视，但在没有广告支出的情况下，拥有世界上需求最高的电动汽车，我认为相当了不起，也说明了这这这个产品的性质，以及产品本身足够有吸引力，无需呃，无需在我们的弗里蒙特工厂投放大量广告就能产生这种需求这一事实。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "We were producing at a rate roughly the same as uh the Numi factory did in its record year of 2006 and uh obviously we expect to to exceed that um significantly this year. Uh this rate of production was achieved before we even started to produce the Model Y out of Fremont. So there's a lot of potential uh to go beyond that number. for the Shanghai factory.",
+      "textZh": "我们的生产速率与呃NUMI工厂在其创纪录的2006年所达到的水平大致相同，而且呃显然，我们预计今年会大幅超过那个水平。呃，这一生产速率是在我们甚至还未开始从弗里蒙特生产Model Y之前实现的。所以还有很大潜力呃超过那个数字。对于上海工厂。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "I'd like to say congratulations again to the team in Shanghai on launching Model 3 last quarter and achieving the first deliveries earlier this year. Um I'm really excited and optimistic about the potential for the the Shanghai factory. I think it's it's going to be an incredible asset uh to to the company. Um and we also uh broke ground on the uh Model Y uh factory in in Shanghai. So there a lot of good progress there.",
+      "textZh": "我想再次祝贺上海团队，他们在上个季度启动了Model 3生产，并于今年早些时候完成了首批交付。嗯，我对这这座上海工厂的潜力感到非常兴奋和乐观。我认为它它将成为公司一项不可思议的资产。嗯，而且我们也呃为上海的呃Model Y呃工厂破土动工了。所以那里取得了很多良好进展。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "Um, regarding Model Y, uh, it was only 10 months ago that we revealed a Model Y prototype and now in January this year, we started producing Model Y in limited volumes already. This is thanks to a great effort of our engineering team and we managed to achieve by far the highest energy efficiency of any electric SUV ever produced at 4. 1 m per kowatt hour. Um, which means [clears throat] Model Y all-wheel drive got an EPA rating of 315 miles.",
+      "textZh": "嗯，关于Model Y，呃，我们仅在10个月前才发布了一辆Model Y原型车，而现在到了今年1月，我们已经开始小批量生产Model Y。这要归功于我们工程团队的巨大努力，而且我们成功实现了迄今所有量产电动SUV中最高的能源效率，达到每千瓦时4. 1英里。嗯，这意味着[清嗓子]Model Y全轮驱动版获得了美国环保署315英里的评级。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "And this improvement is reflected on the configurator as of today. This [clears throat] is this is above um what we previously stated by pretty significant margin. Um and and just with great acceleration, top speed, it's really just incredible specs all around. Uh for the Cybert truck, uh a few months ago, we revealed the obviously revealed the Cyber Truck um that was that went viral.",
+      "textZh": "而且从今天起，这项改进已经反映在配置器上。这[清嗓子]是，这比嗯我们此前所说的高出了相当大的幅度。嗯，而且而且，加速性能出色，最高速度也很高，实际上各方面的规格都令人难以置信。呃，关于Cybert truck，呃，几个月前，我们发布了，显然发布了Cyber Truck，嗯，它当时，它火遍了网络。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Um and we we try to build a product that a product that is superior in every way without any preconceptions of how such a product should look. So it really just from the standpoint of what's the most badass futuristic armored personnel carrier that you know kicks the ass of any pickup truck. Basically that's the goal. Um and uh the you know we wanted to look like something that just came out of a sci-fi movie set from the future.",
+      "textZh": "嗯，而且我们，我们努力打造一款产品，一款在各方面都更出色的产品，不对这种产品应该是什么样子抱有任何先入之见。所以实际上就是从这个角度出发：什么才是最强悍的未来主义装甲运兵车，你知道，能把任何皮卡都打得落花流水。基本上这就是目标。嗯，而且呃，你知道，我们希望它看起来就像是刚从未来的科幻电影片场里开出来的东西。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "And uh the demand has been incredible. We've never seen actually such a level of demand at this. We've never seen anything like it basically. Um I think we will make as about as many as we can sell for many years. Um so as many Yeah, we'll sell as many as we can make. It's going to be pretty nuts.",
+      "textZh": "而且呃，需求一直令人难以置信。实际上，我们以前从未见过这种程度的需求。我们基本上从未见过这样的情况。嗯，我认为未来很多年里，我们能卖多少就会生产大约多少。嗯，所以，能生产多少，是的，我们就会卖多少。这会相当疯狂。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Um, so, um, and I think actually the the product is better than people realize even they they don't even have enough information to realize just the awesomeness of it. It's just great. So, um, and then, um, stepping back in 2018, uh, from a financial standpoint, we were free cash flow rate was break even.",
+      "textZh": "嗯，所以，嗯，而且我实际上认为，这这款产品比人们意识到的还要好，甚至他们，他们都没有足够的信息来认识到它究竟有多棒。它就是很棒。所以，嗯，然后，嗯，回头看2018年，呃，从财务角度来看，我们的自由现金流速率处于盈亏平衡。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Um but in 2019 we managed to generate more than a billion dollars free cash flow while building a factory in Shanghai in record time and while building parts of Model Y production.",
+      "textZh": "嗯，但在2019年，我们在以创纪录速度建设上海工厂以及建设部分Model Y生产设施的同时，成功产生了超过10亿美元的自由现金流。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "So I think to for us to have this level of free cash flow while making massive investments in capacity while developing new products while improving the core engineering is a testament to the I think incredible performance of the Tesla team and I'm just so proud to work with such a great team.",
+      "textZh": "所以我认为，我们在大规模投资产能、开发新产品并改进核心工程的同时，还能拥有这种水平的自由现金流，这证明了，我认为，Tesla团队令人难以置信的表现，而且我为能与这样一支出色的团队共事感到无比自豪。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "I'd like to thank the whole test team for their ongoing work on on uh cost control um is what what has has allowed us to get to uh these compelling financial numbers while at the same time growing the company at an incredible pace.",
+      "textZh": "我要感谢整个测试团队持续开展呃成本控制工作，嗯，正是这这让让我们得以取得呃这些有吸引力的财务数字，同时还以令人难以置信的速度发展公司。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "And in [clears throat] conclusion, when I think of what we have in front of us the next couple of years, we got Model Y, we got Gigab Berlin, uh Tesla Semi, Solar Glass Roof, Cybertruck, um some very exciting improvements in back factory technology, uh full self-driving, um got the nextG Roadster, and probably, you know, a bunch of other products.",
+      "textZh": "最后[清嗓子]，当我想到未来几年摆在我们面前的事情时，我们有Model Y，有柏林Gigab，呃Tesla Semi、太阳能玻璃屋顶、Cybertruck，嗯，后台工厂技术方面一些非常令人兴奋的改进，呃，完全自动驾驶，嗯，还有下一代G Roadster，以及大概，你知道，一大批其他产品。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "We'll we'll come up with special numbers while at the same time growing the company at an incredible pace.",
+      "textZh": "我们会，我们会想出特别的数字，同时以令人难以置信的速度发展公司。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "And in [clears throat] conclusion, when I think of what we have in front of us the next couple of years, we got Model Y, we got Gigab Berlin, uh Tesla Semi, Solar Glass Roof, Cybertruck, um some very exciting improvements in backtory technology, uh full self-driving, um got the nextG Roadster and probably, you know, a bunch of other products we'll we'll come up with, too.",
+      "textZh": "最后[清嗓子]，当我想到未来几年摆在我们面前的事情时，我们有Model Y，有柏林Gigab，呃Tesla Semi、太阳能玻璃屋顶、Cybertruck，嗯，后台工厂技术方面一些非常令人兴奋的改进，呃，完全自动驾驶，嗯，还有下一代G Roadster，以及大概，你知道，一大批我们也会，我们会想出来的其他产品。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "Uh it's hard to think of another company that has more exciting product and technology roadmap. So super fired up about where Tesla will be you know in the next uh you know 10 years. Um you know if if you look back 10 years from today to 2010 um we will produce approximately a thousand times more cars in 2020 than we produced in 2010. A thousand.",
+      "textZh": "呃，很难想到还有哪家公司拥有更令人兴奋的产品和技术路线图。所以对于 Tesla 在接下来，呃，你知道，10年里将发展到什么程度，我感到无比振奋。嗯，你知道，如果从今天回看10年前，也就是2010年，嗯，我们在2020年生产的汽车数量将大约是2010年的1000倍。1000倍。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "Um and we have also solar glass and and solar retrofit and uh power wall power pack you know all those other things too. So where will we be in 10 years? Very exciting to consider the prospect. Thank you very much Elon and Zach some opening remarks as well. Yeah thanks Martin. Um this past year was truly trans transformational for Tesla and I want to thank everyone who's been a part of making this happen. on 2019.",
+      "textZh": "嗯，而且我们还有太阳能玻璃，还有太阳能改造，以及，呃，Powerwall、Powerpack，你知道，还有所有那些其他东西。那么10年后我们会发展到什么程度？想想这种前景就非常令人兴奋。非常感谢你，Elon，也请 Zach 说几句开场白。好的，谢谢 Martin。嗯，过去这一年对 Tesla 来说确实是转、转型性的一年，我想感谢所有参与促成这一切的人。在2019年。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "A few key points I'd like to highlight on demand. While we've mentioned this a few times, it's worth highlighting once again. Over the course of the year, we've transitioned entirely from generating Model 3 orders from a reservation backlog to generating new and organic demand. We've also seen a stabilization of Model 3 ASPs, even increasing slightly in Q4.",
+      "textZh": "关于需求，我想强调几个要点。虽然我们已经提过几次，但值得再次强调。在这一年中，我们已经完全从依靠预订积压订单产生 Model 3 订单，转变为产生新的自然需求。我们还看到 Model 3 的平均售价趋于稳定，甚至在第四季度略有上升。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "And we've seen an increase in ASPs of SNX after the launch of the longer range versions in Q2. With respect to capacity expansion, we've greatly learned from the development and launch of Model 3 in Fremont and Reno. As a result, we've been able to bring new production capacity on board faster and with less cost.",
+      "textZh": "而且，在第二季度推出续航里程更长的版本后，我们看到 SNX 的平均售价有所上升。在产能扩张方面，我们从弗里蒙特和里诺的 Model 3 开发与投产中学到了很多。因此，我们得以更快、以更低成本启用新的产能。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "This is evidenced by the launch of Model 3 in Shanghai as well as Model Y in Fremont, programs that were both launched in under one year. Financially, we have demonstrated multiple quarters of strong cash generation enabled through higher volumes, improvements to capital efficiency, progress on working capital management, and continued improvement in our product and operational costs.",
+      "textZh": "上海的 Model 3 以及弗里蒙特的 Model Y 投产证明了这一点，这两个项目都在不到1年内投产。从财务角度看，我们已经连续多个季度实现强劲的现金创造，这得益于更高的产量、资本效率的提升、营运资金管理的进展，以及产品和运营成本的持续改善。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "And we are able to achieve positive gap net income in both Q3 and Q4 for many of the same reasons that enabled strong cash generation. We've also made progress on recurring and softwarebased revenue with the implementation of premium connectivity and the beginning of upgrades available for purchase via the Tesla mobile app.",
+      "textZh": "而且，出于许多同样促成强劲现金创造的原因，我们在第三季度和第四季度都实现了正的 gap 净利润。随着高级连接服务的实施，以及开始提供可通过 Tesla 手机应用购买的升级，我们在经常性收入和基于软件的收入方面也取得了进展。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "Finally, on stock-based compensation, it increased sequentially by 82 million driven almost entirely by an expense related to the next trunch of the CEO grant. This is a result of our improved expected financial performance of the company which the CEO stock grant is tied to. As we look ahead to 2020, this again will be an important year for the company.",
+      "textZh": "最后，在基于股票的薪酬方面，它环比增加了8200万，几乎完全由与 CEO 授予计划的下一批次相关的一项费用所推动。这是公司预期财务表现改善的结果，而 CEO 股票授予计划与此挂钩。展望2020年，这对公司来说又将是重要的一年。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Our task ahead is to execute on the the next phase of growth while managing cash flows to support that growth. On Model Y, we expect first deliveries and limited quantities later this quarter and will ramp over subsequent quarters. As mentioned previously, we are forecasting higher gross margins on Model Y compared to the Model 3. This year for the Shanghai built Model 3, we expect to achieve run rate production and delivery rates.",
+      "textZh": "我们面前的任务是执行下一阶段的增长，同时管理现金流以支持这种增长。关于 Model Y，我们预计将在本季度晚些时候开始少量交付，并在随后几个季度提升产量。正如之前提到的，我们预计 Model Y 的毛利率将高于 Model 3。今年，对于上海制造的 Model 3，我们预计将达到相应的生产和交付速率。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "In addition, we expect to have completed the majority of planned supply chain localization at the factory or in the region. This is one of the most important components to achieve lower production costs for the site. We are also seeing strong order rates for the locally built model 3 and remain focused on continuing the production ramp and managing costs.",
+      "textZh": "此外，我们预计将完成工厂内或该地区大部分计划中的供应链本地化。这是该生产基地实现更低生产成本最重要的组成部分之一。我们还看到本地制造的 Model 3 订单速率强劲，并继续专注于持续提升产量和管理成本。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "We also anticipate significant progress on factory construction of the Shanghai and Berlin built Model Y, which will result in continued increases in capital spending. On operating expenses, I expect an increase over the course of the year to support our growing product pipeline and international footprint. However, OPEX growth should increase at a lower rate than topline revenue.",
+      "textZh": "我们还预计，上海和柏林制造的 Model Y 的工厂建设将取得重大进展，这将导致资本支出继续增加。在运营费用方面，我预计其将在全年有所增加，以支持我们不断扩大的产品管线和国际布局。不过，运营费用的增速应低于营收增速。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Overall, we believe this will set us up for our strongest annual financial performance yet with sufficient forecasted cash flows to support investments related to our growth and further strengthening of our balance sheet. For Q1, please keep in mind that the industry is always impacted by seasonality.",
+      "textZh": "总体而言，我们相信，这将使我们实现迄今最强劲的年度财务表现，并拥有充足的预测现金流，以支持与增长相关的投资及进一步强化我们的资产负债表。关于第一季度，请注意，该行业始终会受到季节性因素影响。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "Additionally, we are in the process of ramping two major products, Model 3 in Shanghai and Model Y in Fremont, which I expect will temporarily weigh on our margins. We are also in the early stages of understanding if and to what extent we may be temporarily impacted by the Corona virus. At this point, we're expecting a 1 to 1 and 1/2 week delay in the ramp of Shanghai built Model 3 due to a government required factory shutdown.",
+      "textZh": "此外，我们正在推进两款主要产品的产能爬坡，即上海的 Model 3 和弗里蒙特的 Model Y，我预计这将暂时拖累我们的利润率。我们也处于了解冠状病毒是否以及在多大程度上可能会暂时影响我们的早期阶段。目前，由于政府要求工厂停工，我们预计上海制造的 Model 3 的产能爬坡将延迟 1 到 1 又 1/2 周。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "This may slightly impact profitability for the quarter, but is limited as the profit contribution from Model 3 Shanghai remains in the early stages. We are also closely monitoring whether there will be interruptions in the supply chain for cars built in Fremont. So far, we're not aware of anything material, but it's important to caveat that this is an evolving story.",
+      "textZh": "这可能会略微影响本季度的盈利能力，但影响有限，因为上海 Model 3 的利润贡献仍处于早期阶段。我们也在密切监测弗里蒙特制造的汽车的供应链是否会出现中断。到目前为止，我们尚未发现任何重大问题，但需要特别说明的是，情况仍在不断变化。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "However, we have more than sufficient cash to continue our expansion plans while further strengthening the balance sheet. Thank you again for your support and we will turn to questions. Thank you. Uh we are going to take the first questions from um uh retail investors compiled by say technologies.",
+      "textZh": "不过，我们拥有绰绰有余的现金，可以继续推进扩张计划，同时进一步强化资产负债表。再次感谢你们的支持，接下来我们将进入提问环节。谢谢。呃，我们将首先回答由 Say Technologies 汇总的，嗯，呃，散户投资者的问题。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "So the first retail uh investor question is uh since solar is required for all new home constructions in California, do you have any substantial orders for solar glass roofs from any of the large California home builders that you can share? What's the 2020 target for the number of solar glass roof installations in California?",
+      "textZh": "那么，第1个散户，呃，投资者的问题是，呃，鉴于加州所有新建住宅都被要求安装太阳能，你们是否从任何一家加州大型住宅建筑商那里获得了可以分享的大量太阳能玻璃屋顶订单？2020 年在加州安装太阳能玻璃屋顶的数量目标是多少？"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Well, I think we we do we are seeing um fromly from a from a small base exponential uh growth in demand and uh output for solar for the solar glass roof. Um so it's difficult to predict what the number will be this year except that the demand is very strong. Um and we are we are working also not just through through Tesla installers but also through new home builders and through um just uh the roofing industry in general.",
+      "textZh": "嗯，我想我们，我们确实，我们看到，嗯，从地，从一个，从一个很小的基数开始，太阳能，太阳能玻璃屋顶的需求和，呃，产量正在呈指数级增长。嗯，所以除了需求非常强劲之外，很难预测今年的数量会是多少。嗯，而且我们，我们不仅通过，通过 Tesla 安装人员开展工作，也在与新住宅建筑商以及，嗯，就是，呃，整个屋顶行业合作。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "Uh where there's you know in North America on the order of 4 million uh new uh roofs per year. So we see uh a lot of interest um and um so it's it's just a question of uh refining the uh the installation process uh getting um lots of crews trained to do the installation. But uh over time I would expect a significant percentage of of new roofs to beat um something to to use solar glass in one form or another.",
+      "textZh": "呃，你知道，北美每年大约有 400 万个，呃，新，呃，屋顶。所以我们看到了，呃，很多兴趣，嗯，而且，嗯，所以这只是一个，呃，完善，呃，安装流程的问题，呃，让，嗯，大量施工队接受安装培训。不过，呃，随着时间推移，我预计新屋顶中会有相当大的比例是，嗯，某种东西以这样或那样的形式使用太阳能玻璃。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Uh it's really going to be a choice of do you want a roof that is uh alive with power or or dead without. And I think people will want a live roof uh that that generates power uh and looks good and lasts a long time and it's uh it's the future we want.",
+      "textZh": "呃，这实际上会成为一个选择：你是想要一个，呃，因电力而有生命的屋顶，还是一个没有电力的死屋顶。而且我认为人们会想要一个有生命的屋顶，呃，它，它能发电，呃，看起来美观、经久耐用，而且这，呃，这就是我们想要的未来。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "So it will be a significant product but because it is a new and quite revolutionary product and there's a lot of you know challenges to overcome um but they will be overcome and this will be a a major product line of of Tesla and the Buffalo factories doing great. So yeah thank you.",
+      "textZh": "所以它会成为一款重要产品，但因为它是一款全新且颇具革命性的产品，而且有很多，你知道，需要克服的挑战，嗯，但这些挑战都会被克服，这将成为 Tesla 的，一条主要产品线，而且布法罗工厂表现很棒。所以，是的，谢谢。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "Uh second question from retail shareholders is will you release the Tesla wilding network app before full autonomy and change the terms of Tesla insurance to allow owners to be drivers on the network? If so, when will this happen? Might this one to uh might want to target California airports first? Also a good place to add superchargers. Sorry, that sounds like one question in one. Yeah, it's a bit of a bundle. Yeah.",
+      "textZh": "呃，来自散户股东的第2个问题是，你们会在实现完全自动驾驶之前发布 Tesla wilding network 应用，并修改 Tesla 保险的条款，允许车主成为该网络上的司机吗？如果会，这将在什么时候发生？也许这个要，呃，也许可以先以加州的机场为目标？那里也是增设超级充电站的好地方。抱歉，这听起来像是一个问题里有一个问题。是的，是有点捆绑在一起。是的。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Um, well, I think that it's it probably will make sense to have the to enable car sharing in advance of the kind of sort of giant robo taxi fleet. Um, because the car sharing can be done before uh full self-driving is approved by regulators. Um, so it's it's probably something that we would enable before uh the the full sort of robo taxi fleet is enabled. Um and um I saw like there were some other questions bundled in there.",
+      "textZh": "嗯，好吧，我认为，在那种某种意义上的庞大机器人出租车车队之前，让，让汽车共享成为可能，或许是合理的。嗯，因为汽车共享可以在，呃，完全自动驾驶获得监管机构批准之前开展。嗯，所以这，这可能是我们会在，呃，那种完整的机器人出租车车队启用之前开放的功能。嗯，而且，嗯，我看到那里好像还捆绑了其他一些问题。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Uh superchargers at airports. Oh, sure. Um yeah. Yeah, probably we'll have superchargers at airports. We'll have supercharges wherever we see that there is a need for superchargers. And then on the insurance part of the question, it is our intent to allow people to put their cars into ride sharing or the FSD network using Tesla insurance.",
+      "textZh": "呃，机场的超级充电站。哦，当然。嗯，对。对，我们可能会在机场设置超级充电站。凡是我们发现有超级充电站需求的地方，我们都会设置超级充电设施。然后，关于问题中的保险部分，我们打算允许人们使用 Tesla 保险，把自己的车投入共享出行或 FSD 网络。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "Yeah, that's not currently the case, but by the time that this is available, it's our intent to get that ready. Okay, thank you. Uh the next question from retail investors is how many California owners are currently insured with Tesla insurance? What's the target for Tesla insurance in 2020? When will you start significant uh to significantly leverage the data you have from the fleet to lower the cost of your coverage?",
+      "textZh": "对，目前还不是这样，但等到这项服务推出时，我们打算把它准备好。好的，谢谢。呃，散户投资者的下一个问题是，目前有多少加州车主投保了 Tesla 保险？Tesla 保险在 2020 年的目标是什么？你们什么时候会开始显著地，呃，显著利用从车队获得的数据来降低你们保险保障的成本？"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "Uh will we get premium discount of certain percent? Yeah, I mean go ahead. Yeah. Um so Tesla insurance is currently available in California. Uh a couple things that we're working on on this front. Uh the first is to expand it to other locations and uh we're preparing the regulatory processes preparing our processes to go through the regulatory processes in those locations.",
+      "textZh": "呃，我们会获得某个百分比的保费折扣吗？对，我是说，请讲。对。嗯，所以 Tesla 保险目前在加州提供。呃，我们正在这方面推进几件事。呃，第一是把它扩展到其他地区，而且，呃，我们正在准备监管流程，准备好我们的流程，以便在那些地区完成监管流程。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "Uh we're also working on um the processes to continue to adjust our rates in California which also have to go through regulatory processes as insurance is quite heavily regulated and and that's where we're spending our time focusing on Tesla insurance right now.",
+      "textZh": "呃，我们也在推进，嗯，持续调整加州费率的相关流程，这些调整同样必须经过监管流程，因为保险受到相当严格的监管，而这正是我们目前在 Tesla 保险方面投入时间、集中精力的地方。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "There's a significant amount of innovation as we've discussed before in this space exactly getting to the intent of what the question here is using our technology to reduce rates and this will be rolled in over time. It was the last part of the question was, \"Will there be a discount for using autopilot with our cars?\" Oh, yeah. Yeah. Yeah. There won't be. Yeah.",
+      "textZh": "正如我们此前讨论过的，这一领域有大量创新，恰好切中了这里这个问题的意图，也就是利用我们的技术降低费率，而这会随着时间推移逐步纳入。问题的最后一部分是：“使用我们车辆的自动辅助驾驶会有折扣吗？”哦，会的。会。会。不会有。会。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "The the rate card for California Tesla insurance already considers the safety features associated with autopilot, right? But I think I think it would make sense for us to um close the loop on, you know, higher use of autopilot probably reduces the um insurance costs. Um it lowers the probability of of injury. So, I think the insurance is is going to be, I think, quite a major product of Tesla over time.",
+      "textZh": "加州 Tesla 保险的费率表已经考虑了与自动辅助驾驶相关的安全功能，对吧？但我认为，我认为我们应该，嗯，形成闭环，你知道，更多地使用自动辅助驾驶可能会降低，嗯，保险成本。嗯，它会降低受伤的概率。所以，我认为保险会，我认为，随着时间推移成为 Tesla 相当重要的一项产品。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "Um, the amount of money that people spend on car insurance is is like a remarkably big percentage of the cost of a car. Um, like you you can lease a Model 3 uh right now for $400 a month. Um, but a typical uh uh owner in California will be paying, you know, somewhere between a hundred and $200 a month in insurance. So, we're talking about something which is maybe a quarter to half of the cost of the lease of the car is insurance.",
+      "textZh": "嗯，人们花在汽车保险上的钱，是，是汽车成本中高得惊人的一个比例。嗯，比如，你，你现在可以每月支付 400 美元租赁一辆 Model 3。嗯，但加州一位典型的，呃，呃，车主每月会支付，你知道，大约 100 到 200 美元的保险费。所以，我们谈的是，保险费用可能相当于车辆租赁成本的四分之一到一半。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "Um, and um, a lot of that insurance cost is just because the insurance companies don't have good information about the drivers. um and that that there's no good way to provide feedback where you know it's it's it's a very poor feedback mechanism uh in terms of the insurance rates versus the actual uh way that the car is being driven whereas we can do that in real time. It's a fundamental information advantage that insurance companies don't have.",
+      "textZh": "嗯，而且，嗯，很大一部分保险成本只是因为保险公司没有关于驾驶员的良好信息。嗯，而且没有好的方式来提供反馈，你知道，在保险费率与车辆实际的，呃，驾驶方式之间，这是，这是，这是一个非常糟糕的反馈机制，而我们可以实时做到这一点。这是一项保险公司不具备的根本性信息优势。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Thank you. Uh the next question is you set expectations that you would be feature complete on FSD by the end of 2019. Can you please provide an update on when will we see this with end users? Uh uh where are you in retrofitting the FSD computer to older models? Well, I mean to be precise I I said I was hoping we'd be future complete with both FSD by the end of last year. Um we we got pretty close.",
+      "textZh": "谢谢。呃，下一个问题是，你曾设定预期，称你们会在 2019 年年底前实现 FSD 功能完备。能否请你介绍一下最新情况，我们什么时候会在终端用户那里看到它？呃，呃，你们为旧款车型改装 FSD 计算机的进展如何？嗯，我是说，准确地说，我，我说的是我希望我们能在去年年底前让 FSD 同时达到未来完备。嗯，我们，我们已经相当接近了。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "Um, you know, it's looking like we might be future complete um in a few months. Um, but future complete just means like it it has some chance of of going from your home to work, let's say, with with with no interventions. Um, so that's it doesn't mean the features are working well. Um, but it means it has some, you know, above zero chance. Um, so I think that's looking like maybe it's going to be a couple months from now.",
+      "textZh": "嗯，你知道，看起来我们可能会在几个月内实现未来完备。嗯，但未来完备只是意味着，比如说，它有一定机会在完全不干预的情况下，从你家开到工作地点。嗯，所以这并不意味着这些功能运行良好。嗯，但这意味着它有一定的，你知道，高于零的机会。嗯，所以我认为，看起来可能会是在几个月以后。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "Um and uh the the what what isn't obvious regarding autopilot and full self-driving is just how much uh work has been going into improving the the foundational elements of autonomy. Uh the the core autopilot and Tesla autopilot software and and AI team is just is I think very very strong and making great progress. Um and um we're we're really only for beginning to take full advantage of the autopilot hardware, the FSD hardware.",
+      "textZh": "嗯，还有，关于 Autopilot 和完全自动驾驶，不明显的一点是，在改进自动驾驶的基础要素方面，究竟已经投入了多少工作。呃，核心的 Autopilot 团队以及 Tesla 的 Autopilot 软件和 AI 团队，我认为确实非常、非常强大，并且正在取得巨大进展。嗯，而且，我们其实才刚刚开始充分利用 Autopilot 硬件，也就是 FSD 硬件。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Um so I I think it's the the the the apparent progress as seen by uh consumers will seem to be extremely rapid. But um but actually um what what's really gone on my head seems like I said is just is having the foundational uh software be very strong having a really strong foundation. Um and then a really fundamental thing is moving to video training.",
+      "textZh": "嗯，所以我、我认为，消费者看到的表面进展会显得极其迅速。但，嗯，但实际上，嗯，在我脑海中真正发生的事情，似乎就像我说的，是让基础软件变得非常强大，打下一个非常坚实的基础。嗯，然后，一个真正根本性的事情是转向视频训练。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "Uh so in terms of labeling uh labeling uh with video um and all all eight cameras simultaneously uh uh this is a really I mean in terms of labeling efficiency arguably like a three order of magnitude improvement in labeling efficiency. Uh for those who know about this it's extremely fundamental. Um so that that's uh made great progress on that. Thank you. And the last retail investor question comes from Kendall.",
+      "textZh": "呃，所以在标注方面，呃，用视频进行标注，嗯，并且同时使用全部 8 个摄像头，呃、呃，这确实，我是说，就标注效率而言，可以说标注效率提升了 3 个数量级。呃，对于了解这件事的人来说，这是极其根本性的。嗯，所以这方面，呃，已经取得了巨大进展。谢谢。最后一个散户投资者的问题来自 Kendall。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "Uh since most retail investors seem to understand Tesla better than analysts and are uh uh risking a larger part of their own personal wealth on Tesla, doesn't it make sense to take mostly questions on these earnings calls uh from us via SE? Uh do you even have to take questions um answer questions from analysts? Well well I guess we we don't have to.",
+      "textZh": "呃，既然大多数散户投资者似乎比分析师更了解 Tesla，而且正将自己个人财富中更大的一部分押在 Tesla 上，那么在这些财报电话会议中，主要通过 SE 接受我们的问题，难道不是更合理吗？呃，你们是否甚至必须接受问题，嗯，回答分析师的问题？好吧，好吧，我想我们不是必须这么做。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "I I do think that a lot of the retail investors actually have uh deeper and more accurate insights than um many of the the big institutional investors and uh and certainly better insights than many of the analysts.",
+      "textZh": "我、我确实认为，很多散户投资者实际上比许多大型机构投资者有着，呃，更深入、更准确的洞见，而且，呃，当然也比许多分析师有更好的洞见。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "I you know it's it seems like if people really looked at some of the smart retail investor uh analysts or and you know what what some of the smart smaller retail investors predicted about the future of the of Tesla that would you' probably get the highest accuracy and remarkable insight from some of those predictions. Okay. Um so now let's switch to institutional shareholder questions.",
+      "textZh": "我，你知道，这，这似乎是，如果人们真的研究了一些聪明的散户投资者，呃，分析师，或者，你知道，一些聪明的小型散户投资者对 Tesla 未来的预测，那你可能会发现，其中一些预测具有最高的准确度和非凡的洞察力。好的。嗯，那么现在我们转到机构股东的问题。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "Uh the number one question is uh you have spoken previously about Shanghai giga being 65% lower capex per unit of capacity. Have you learned to do anything better or differently from an oper O opex perspective? And if yes uh what kind of impact might we expect on the long-term gross margin? Sure. Go ahead. Yeah. Um the Shanghai factory has been a quite remarkable uh cost experience across all line items of cogs for the Model 3.",
+      "textZh": "呃，第 1 个问题是，呃，你们之前说过，上海超级工厂每单位产能的资本支出低 65%。从运营、O、运营支出的角度看，你们有没有学会以更好或不同的方式做任何事情？如果有，呃，我们预计这可能会对长期毛利率产生什么样的影响？当然。请讲。好的。嗯，就 Model 3 的所有销货成本项目而言，上海工厂是一次相当非凡的，呃，成本体验。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "There we have talked a lot about the capex per unit of capacity being lower. But I mean you can basically run down the entire list of cogs between labor cost material cost due to localization. So it's opening up suppliers that would not have made economic sense from the states. localizing the supply chain flows into um inbound logistics and outbound logistics costs as well. So we're not shipping cars from California over to China.",
+      "textZh": "我们已经多次谈到，那里的每单位产能资本支出更低。但我的意思是，你基本上可以逐项看完整份销货成本清单，包括劳动力成本，以及本地化带来的材料成本。所以，这启用了那些如果从美国供应便不具备经济合理性的供应商。供应链本地化也会传导到，嗯，入厂物流和出厂物流成本。因此，我们不再从加利福尼亚把汽车运到中国。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "Uh and then that has a corresponding savings on our lower in import related costs. And uh there's a slide in the shareholder letter that shows a layout comparison between our Fremont facility here in California and also the Model 3 factory in China. And the simplification in terms of the flow is is pretty evident from that layout. And that cascades itself into all sorts of savings to the operations of the facility.",
+      "textZh": "呃，这也相应节省了我们较低的进口相关成本。而且，呃，股东信中有一张幻灯片，对比了我们位于加利福尼亚州弗里蒙特的设施与中国 Model 3 工厂的布局。从布局来看，流程方面的简化非常明显。而这又层层传导，为设施运营带来了各种各样的成本节省。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "Um, and so, you know, if you add all of this up, our internal estimates are a pretty significant reduction in in the cost of Model 3 in China relative to Fremont. But I think it's also important to keep in mind that the cost of the standard plus in uh that we're selling out of Shanghai is also lower than that of the similar car coming out of Fremont.",
+      "textZh": "嗯，所以，你知道，如果把所有这些加在一起，我们的内部估算是，中国生产 Model 3 的成本相较弗里蒙特显著降低。但我认为，同样需要牢记的是，我们在上海销售的标准续航升级版的成本，也低于弗里蒙特生产的同类汽车。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "Right from price perspective and so uh and I've said this on previous earnings calls, I think it's fair to expect the margin coming out of the Shanghai facility to match the same margin for the vehicle in 3 months. Yeah, there's I think there's there's a pretty big um fundamental efficiency gain that Tesla has uh by just making cars, especially the affordable cars um three and the Y um at least on the continent where the customers are.",
+      "textZh": "对，从价格角度来看，所以，呃，而且我在之前的财报电话会议上说过，我认为可以合理预计，上海工厂的利润率将在 3 个月后达到该车型同样的利润率。是的，我认为 Tesla 只需至少在客户所在的大陆生产汽车，尤其是价格亲民的汽车，嗯，Model 3 和 Model Y，就能获得相当大的，嗯，根本性效率提升。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Um you know, it kind of makes sense. It's like what we're doing or have been doing in the past was really pretty silly in in making cars in uh in California and then shipping them halfway around the world to uh Asia and and Europe. And uh this created uh a lot of cost cuz you got to ship those cars. So you got a lot lot of finished goods sitting on on the water or waiting at the port or going through customs. You got tariffs.",
+      "textZh": "嗯，你知道，这其实说得通。就像我们正在做的、或者过去一直在做的事情，实际上相当愚蠢：在，呃，加利福尼亚生产汽车，然后跨越半个地球，把它们运到，呃，亚洲和欧洲。而且，呃，这产生了大量成本，因为你必须运输这些汽车。所以会有大量、大量制成品滞留在海上、在港口等待或办理海关手续。还要缴纳关税。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "Um transport it's it's uh and then the factory complexity in in California is very high because you've got different regulatory requirements in in China, uh North America and Europe. So we got three different types of cars that are being built. Uh it's it's very complex. Um and and uh and just having a factory uh in China, a factory in in California, um a factory in China, factory in North America, a factory in in Europe.",
+      "textZh": "嗯，运输，它，它，呃，而且加利福尼亚工厂的复杂度非常高，因为中国、呃，北美和欧洲有不同的监管要求。所以我们要生产 3 种不同类型的汽车。呃，这，这非常复杂。嗯，而且，而且，呃，只要在中国有一家工厂、在加利福尼亚有一家工厂，嗯，在中国有一家工厂、在北美有一家工厂、在欧洲有一家工厂。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Uh what um just that alone is a massive improvement in our fundamental operating efficiency that I think is may not be fully appreciated and also on working capital. Yeah, absolutely. We're reducing OPEX here too. So it's not only China. Okay, the next question from institutional investors is given the recent run in the share price, why not raise capital now and substantially accelerate the growth in production, i. e.",
+      "textZh": "呃，什么，嗯，仅这一点就会极大提升我们的基础运营效率，我认为这一点可能还没有得到充分认识，此外对营运资金也是如此。是的，完全正确。我们也在这里降低运营支出。所以不只是中国。好的，机构投资者的下一个问题是：鉴于近期股价上涨，为什么不现在融资，并大幅加快产量增长，也就是"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "build a gigafactories investment in supercharger and customer service. Well, we we're actually spending money as quickly as we can spend it uh sensibly. So, if there's any sensible way to spend money, we are spending it. there's no artificial uh hold back on on expenditures. Um anything that I see that is a looks like a it's it's got good value for money, the answer is yes immediately.",
+      "textZh": "建设超级工厂、投资超级充电站和客户服务。嗯，我们实际上正以我们能够合理支出的最快速度花钱。所以，只要有任何合理的花钱方式，我们就在花。支出方面不存在人为的，呃，限制。嗯，只要我看到任何东西，看起来，像是，具有良好的投入价值，答案立刻就是肯定的。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "And so um that we're we're spending money I think efficiently and and we're not artificially limiting our pro progress. Um and then despite all that we are still generating positive uh cash. So um you know in light of that it it doesn't make sense to we you know to raise money because we expect to the back of it. No I completely agree with that.",
+      "textZh": "所以，嗯，我们，我们在高效地花钱，我认为，而且我们没有人为限制我们的进、进展。嗯，尽管如此，我们仍在产生正的，呃，现金流。所以，嗯，你知道，鉴于这一点，我们，你知道，进行融资没有意义，因为我们预计会到它的后面。不，我完全同意这一点。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "Uh I think some of our learnings um during the model 3 launch period where we grew too quickly and with too much complexity. Yeah. And it held back our ability to continue to scale. And part of the journey that we've been on in 2019 is to unwind a series of unint unintentional bad processes that kind of accumulated in the company over time. And so that's kind of what contributes to the reduction in OPEX over the year as we get smarter about that.",
+      "textZh": "呃，我认为我们在 Model 3 发布期间获得的一些经验是，当时我们增长得太快，复杂度也太高。是的。这阻碍了我们继续扩大规模的能力。而我们在 2019 年所经历的部分历程，就是撤销一系列无意、无意间形成的不良流程，它们随着时间推移在公司中逐渐积累。所以，随着我们在这方面变得更聪明，这在一定程度上促成了全年运营支出的下降。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "And um and now we've laid a a good foundation I think uh and I agree with Elon that we're not holding back on the growth. I mean, we have two products, two vehicle products launching right now and uh and that will consume much of the bandwidth of the company to stabilize those over the course of the year. And then looking into next year, we have even more products launching, more factories. Yeah.",
+      "textZh": "而且，嗯，而且现在我们已经打下了一个良好的基础，我认为，呃，而且我同意埃隆的看法，我们并没有限制增长。我的意思是，我们现在有 2 款产品、2 款汽车产品正在推出，而且，呃，而且在今年之内让它们稳定下来会占用公司大量的带宽。然后展望明年，我们会推出更多产品、建设更多工厂。是的。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "Uh and so we want to be smart about how we spend money and grow in a way that's sustainable so we don't uh um uh fall victim to the mistakes I think we made a year and a half or so ago. Yeah, absolutely. Okay, the next question we've already answered regarding autopilot timelines. Uh so the following question would be um can we please talk about cost control and OPEX sustainability in terms of growth versus gross profit growth?",
+      "textZh": "呃，因此我们希望明智地花钱，并以可持续的方式增长，这样我们就不会，呃，嗯，呃，重蹈我认为我们大约 1 年半前犯下的错误。是的，完全正确。好的，下一个有关 Autopilot 时间表的问题，我们已经回答过了。呃，那么接下来的问题是，嗯，能否请我们谈谈成本控制，以及从增长与毛利润增长的角度来看运营支出的可持续性？"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "How did we achieve the recent OPEX trends and how should we think about OPEX needs as we grow both vehicles and geographic workloads? Yeah, I commented briefly on this in my opening remarks. Uh we did see an increase in operating expenses from Q3 to Q4, even excluding the portion of that attributed to stockbased compensation.",
+      "textZh": "我们是如何实现最近的运营支出趋势的？随着汽车业务和地域工作负荷双双增长，我们应如何看待运营支出需求？好的，我在开场发言中简要谈过这一点。呃，我们确实看到运营费用从第三季度到第四季度有所增加，即使剔除其中归因于股票薪酬的部分也是如此。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "And when you double click into that growth, it it's supporting the the Model Y program and also uh Shanghai program as well. And so, uh, I I think we as a company are now at the point where we've learned a lot on the cost efficiency, as I've just mentioned, and we've unwwindound a number of the processes that were not in the right place, including automating the things that need to be automated.",
+      "textZh": "而当你深入审视这种增长时，它、它是在支持 Model Y 项目，也在支持，呃，上海项目。所以，呃，我、我认为我们公司现在已经到了这样一个阶段：正如我刚才提到的，我们在成本效率方面学到了很多，而且我们已经取消了许多不恰当的流程，包括把需要自动化的事情自动化。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "And we'll continue on that journey, but I think we're at a point now where OPEX will uh start to tick up, at least if you look annually, from 2019 to 2020 to support our international footprint and then the growth of the company. it uh you know our job is to grow that significantly slower than the pace of growth of revenue to improve the operating leverage which we're very very focused on. Okay.",
+      "textZh": "我们将继续这一历程，但我认为我们现在已经到了这样一个阶段：运营支出将，呃，开始小幅上升，至少如果按年度来看，从2019年到2020年会如此，以支持我们的国际布局以及公司的增长。它，呃，你知道，我们的任务是让它的增长速度远远慢于营收的增长速度，从而提高经营杠杆，这是我们非常、非常关注的。好的。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "And the last question from investors is the sales of model SMX have stayed flat for several quarters. The main reason is that they still use 18650 batteries. Uh when will SMX use 2170 batteries? Manufacturing capacity of 18650 may be used for battery storage systems instead. Sure. Well, actually the the the core chemistry inside the 18650 cell has improved um many times over the years.",
+      "textZh": "投资者提出的最后一个问题是，Model SMX 的销量已经连续几个季度持平。主要原因是它们仍然使用18650电池。呃，SMX 什么时候会使用2170电池？18650的制造产能或许可以转而用于电池储能系统。好的。嗯，实际上，多年来，18650电芯内部的、的、的核心化学体系已经改进了很多次。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "So, it's really just a form factor as opposed to a core technology. Um so, it's you know, I think we're we're pretty happy with where the, you know, where the energy content of the cell and the the the improvements um in uh efficiency of of the vehicle. Um the you know we're we're rapidly approaching a 400 mile range for the Model S for example. Um so this is uh it won't be long before Model S is 400 has 400 mile range.",
+      "textZh": "所以，它其实只是一种外形规格，而不是核心技术。嗯，所以，它，你知道，我认为我们、我们对电芯的，你知道，能量含量所处的水平，以及车辆在、在、在效率方面的，嗯，改进都相当满意。嗯，你知道，比如说，我们、我们正在迅速接近 Model S 400英里的续航里程。嗯，所以这，呃，用不了多久，Model S 就会是400，就会拥有400英里的续航里程。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "Um Drew is anything you want to add there? No, other than to say that um uh the 18650 lines, you know, have been running smoothly for a really long time and um in a world where cell supply is is is fueling growth like or part of the the the the fuel of growth, I don't see a reason to turn the cell supply off. So, yeah. Um and actually the the the Model S and X uh actually have more range than we are currently stating on the website.",
+      "textZh": "嗯，Drew，你有什么想补充的吗？没有，只想说，嗯，呃，18650生产线，你知道，已经非常顺畅地运行了很长时间，而且，嗯，在一个电芯供应正在、正在、正在推动增长，或者说是增长的、的、的、的部分燃料的世界里，我看不出有什么理由停止电芯供应。所以，是的。嗯，而且实际上，Model S 和 X，呃，实际拥有的续航里程比我们目前在网站上标示的还要长。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "Um, we just haven't gotten around to updating the the I guess the EPA certified number. Um, but the actual uh range of the Model S next or above what the website says there are. That's true. Yeah. Sorry. Yeah. The existing cars that that are Yeah. They're being made. It's actually been that way for Yeah. Yeah. I think we're Yeah, it must be somewhere in the 380s or something like that. um approach. Yeah. Thank you very much.",
+      "textZh": "嗯，我们只是还没顾得上更新那个、那个，我想是 EPA 认证的数字。嗯，但 Model S next 的实际，呃，续航里程或者高于网站上说它们拥有的续航里程。那是真的。对。抱歉。对。现有车辆，那些、那些正在，对。正在生产的。实际上一直都是这样，对。对。我想我们，对，它肯定大约在380多英里之类的。嗯，接近。对。非常感谢。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "And Sheree, let's go to the Q&A on the phone. Thank you again, ladies and gentlemen. To ask a question, please press star one. And we ask that you please limit yourself to one question and one followup. Our first question comes from Adam Jonas with Morgan Stanley. Um hi everybody and actually agree that I think the retail questions were were excellent actually.",
+      "textZh": "Sheree，让我们进入电话问答环节。女士们、先生们，再次感谢各位。若要提问，请按星号键和1。我们请求各位将问题限制为1个问题和1个后续问题。第1个问题来自摩根士丹利的 Adam Jonas。嗯，大家好，而且实际上我同意，我认为那些散户投资者的问题其实非常出色。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "Um, [clears throat] so Elon, do you see potential for Tesla vehicles to be fitted with user terminals that are compatible with the Starlink constellation in the near or medium-term future? Um, well, it's um it's certainly something that could be happen in coming years. There's no plans through it this year.",
+      "textZh": "嗯，[清嗓子] 所以，埃隆，你认为在近期或中期未来，Tesla 车辆有没有可能配备与星链星座兼容的用户终端？嗯，呃，这当然是未来几年可能发生的事情。今年没有实施它的计划。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "Uh the focus of Starlink is really for um high bandwidth, low latency connectivity uh for you know homes and businesses and you know I guess aircraft and boats and that kind of thing. Uh but the antenna for that high bandwidth low latency thing is sort of about the size of meat and pizza which you could put on a car but I think uh is more bandwidth than you would really need. I mean technically you could buy one and just stick it on the car.",
+      "textZh": "呃，星链的重点其实是为，嗯，你知道，家庭和企业，以及，你知道，我想还有飞机和船只之类的东西提供高带宽、低延迟的连接。呃，但用于那种高带宽、低延迟连接的天线，大概有肉和披萨那么大，你可以把它装到汽车上，但我认为，呃，它提供的带宽超过了你真正需要的带宽。我的意思是，从技术上讲，你可以买一个，然后直接把它粘在车上。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "Uh yeah, it'll it'll work phase ray antenna. Maybe just as a followup um for my followup, how would assuming that we get the antenna form factor and cost down to a point where that that could be integrated into the roof of a car, for example, you know, cost effectively and aerodynamically, etc. How would compatibility with a Starlink um uh architecture theoretically improve the Tesla customer experience or the capability of the network?",
+      "textZh": "呃，是的，它会、它会工作的，相控射线天线。也许只是再追问一下，嗯，作为我的后续问题，假设我们能把天线的外形尺寸和成本降到可以把它集成进汽车车顶的程度，比如说，你知道，在成本和空气动力学等方面都切实可行，那么与星链，嗯，呃，架构的兼容性在理论上会如何改善 Tesla 客户体验或网络能力？"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "Well, I think it actually most parts of the world would just use uh the cell connectivity. Just use 5G would be the recommendation certainly in like any cities or something like that, you know. But if if you're out in the countryside and there's not good cell connectivity, then then you could connect with a stallink antenna and you wouldn't need, you know, you don't need to like have like gigabit level or level connectivity.",
+      "textZh": "嗯，我认为实际上世界上大多数地区只会使用，呃，蜂窝网络连接。建议就是使用 5G，当然，比如在任何城市或类似的地方，你知道。但如果，如果你在乡村，那里没有良好的蜂窝网络连接，那么，那么你可以连接 stallink 天线，而且你不需要，你知道，你不需要有那种千兆级别或级别的连接。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "You could probably like, you know, 20 30 megabits is probably fine. Um, and you can have a much smaller antenna. So yeah, I guess it could be good for, you know, making sure there's connectivity and outside of major cities and that kind of thing. But I mean that's a yeah sort of I'd say relatively obtuse. Uh it's not you know I'm not thinking about it very much to be honest. Thank you. Let's go to the next question. Thank you.",
+      "textZh": "你大概，比如，你知道，20 30 兆比特可能就够了。嗯，而且你可以使用小得多的天线。所以，是的，我想它可能有助于，你知道，确保主要城市以外的地方有连接，以及诸如此类的事情。但我的意思是，那是一个，是的，算是，我会说，相对晦涩的问题。呃，你知道，老实说，我没有过多考虑它。谢谢。我们来回答下一个问题。谢谢。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "Our next question comes from Dan Gals with Wolf Research. Hey, good afternoon. Thanks. Um, so hoping you could uh give us some guidance on what capex is going to be this year and and kind of as I look to model out the business long term, is there a rule of thumb that we can use for capital expenditures per per unit of production capacity? Uh, or some some sort of rule of thumb like that? Yeah.",
+      "textZh": "我们的下一个问题来自 Wolf Research 的 Dan Gals。嘿，下午好。谢谢。嗯，希望你们能，呃，就今年的资本支出会是多少给我们一些指引，而且，而且当我着眼于对这项业务进行长期建模时，有没有一个经验法则，让我们可以用来估算每，每单位产能的资本支出？呃，或者某种，某种类似的经验法则？是的。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "Um uh I don't think we want to tell you I don't think we want to say what our capex is going to be this year necessarily except say that like as I said earlier we're we're uh we're spending money as fast as we can spend money um in sensible ways. So we're not it's definitely not artificially limited um and you know we will spend you know well a lot of money this year for sure.",
+      "textZh": "嗯，呃，我认为我们不想告诉你，我认为我们未必想说今年的资本支出会是多少，只能说，就像我之前说的，我们，我们，呃，正在以我们能够以合理方式花钱的最快速度花钱。嗯，所以我们没有，这肯定没有受到人为限制，嗯，而且，你知道，我们今年肯定会花，你知道，嗯，很多钱。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "Um it it's the challenge comes in like finding efficient ways to actually deploy the capital. Um but that's the harder part than than sort of deciding on a capex number really. Yeah. And I think we always find ways to become more capex efficient per unit of of capacity. Yes. So we challenge the teams to always become more efficient and so we see a reduction per cap per unit in terms of capex. Um Absolutely. Um it's definitely the right metric.",
+      "textZh": "嗯，挑战在于，比如，找到真正高效地部署资本的方式。嗯，但比起算是决定一个资本支出数字，这其实才是更难的部分。是的。而且我认为，就每单位产能而言，我们总能找到提高资本支出效率的方法。是的。所以我们要求团队始终提高效率，因此就资本支出而言，我们看到每个 cap 每单位有所下降。嗯，绝对如此。嗯，这绝对是正确的指标。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "Yeah, it's it's a good Yeah, I think the there there's so much Tesla where that the core technology is improving radically um that uh maybe you wouldn't necessarily notice as an end customer um or some some of them you'd notice, some you wouldn't, but it's just there are these things that you have a big effect on the efficiency of the company. um like our internal applications team that that kind of builds the Tesla internal operating system.",
+      "textZh": "是的，这是，这是一个很好的，是的，我认为 Tesla 有非常多这样的地方，其核心技术正在发生根本性的改进，嗯，而，呃，作为终端客户，你可能未必会注意到，嗯，或者其中有些你会注意到，有些不会，但就是有这些事情会对公司的效率产生重大影响。嗯，比如我们的内部应用团队，他们，他们算是在构建 Tesla 的内部操作系统。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Um and uh improves the sort of core automation of the company. Uh that makes a big difference to our productivity. Um but you wouldn't necessarily you would see it uh effectively in in healthier financials, but you wouldn't necessarily notice it as an end customer. Okay. Got it. Maybe [clears throat] I could follow up. Um I mean your your kind of operating cash flow IBIDA is is annualizing at 4. 5 billion right now.",
+      "textZh": "嗯，而且，呃，改进公司某种核心自动化。呃，这对我们的生产力有很大影响。嗯，但你未必会，你实际上会在更健康的财务数据中看到它，但作为终端客户，你未必会注意到。好的。明白了。也许[清嗓子]我可以追问一下。嗯，我的意思是，你们的，你们的某种经营现金流 IBIDA 目前按年计算为 45 亿。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "Um you know as I look out to the future um you know I'm I'm kind of guessing that that could fund somewhere around you know 200 to 250,000 units of capacity a year which would be maybe a 30% keer over 5 years. I mean I mean is that is that something that's feasible for you guys to um to execute on on a consistent basis? Uh you know a level of capacity building that large I yeah I think we're having for more than 30%. Yeah. Yeah.",
+      "textZh": "嗯，你知道，当我展望未来时，嗯，你知道，我，我大致猜测，这每年可以为大约，你知道，200,000 到 250,000 辆的产能提供资金，这可能会是 5 年内 30% 的 keer。我的意思是，我的意思是，对你们来说，持续，嗯，持续执行这样的计划是否可行？呃，你知道，如此大规模的产能建设水平，我，是的，我认为我们的目标是超过 30%。是的。是的。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "I think the math uh I'm not sure the math that you've done but I think our internal plans are for faster and um just back on your first question we will have additional detail on capex in the 10k um but back to the growth rate I mean one thing to keep in mind is that uh the Shanghai facility we do have a loan facility uh in place to support that growth so that helps and then as our production volumes increase that generates more cash from the businesses as well that allows us to to continue to fund additional factories.",
+      "textZh": "我认为这个计算，呃，我不确定你做了怎样的计算，但我认为我们的内部计划速度更快，而且，嗯，回到你的第一个问题，我们会在 10-K 中提供更多资本支出细节，嗯，但回到增长率，我的意思是，需要记住的一点是，呃，对于上海工厂，我们确实已经安排了一项贷款额度，呃，用以支持这种增长，所以这会有所帮助，然后随着我们的产量增加，业务也会产生更多现金，使我们能够，能够继续为更多工厂提供资金。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "So I I wouldn't necessarily view it as limited as you described it. Yeah, I think um a few years ago I said I Yeah, I think I don't know when it was but few years ago I I said my estimate was is that Tesla would um grow at an average confidential rate of average rate of in excess of 50%. I I saw Holtz I believe. Thank you. Let's go to the next question. Our next question comes from Jean Monster with Loop Ventures.",
+      "textZh": "所以我，我未必会认为它像你所描述的那样受到限制。是的，我想，嗯，几年前我说过，我，是的，我想我不知道是什么时候，但几年前我，我说过，我的估计是 Tesla 将，嗯，以平均机密速度，即超过 50% 的平均速度增长。我，我看到 Holtz，我相信。谢谢。我们来回答下一个问题。我们的下一个问题来自 Loop Ventures 的 Jean Monster。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "Good afternoon and congratulations on the progress. Uh first question related to Cybertruck. You mentioned you'll sell as many as you can make. Can you remind me how many you think you can make and any thoughts on the cost of production um for making those Cybert trucks?",
+      "textZh": "下午好，祝贺你们取得的进展。呃，第一个问题与 Cybertruck 有关。你提到能生产多少就会卖多少。能否提醒我一下，你认为你们能生产多少，以及对于生产那些 Cybert 卡车的生产成本有什么看法？"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "I I [clears throat] yeah I think we we don't comment on on those detailed numbers except uh the demand is just far more than we could reasonably make in the space of you know I don't know 3 or four years or something like that.",
+      "textZh": "我，我，[清嗓子] 是的，我想我们，我们不会评论那些详细数字，只能说，呃，需求远远超过了我们在，你知道，我不知道，3 年或 4 年之类的时间里能够合理生产的数量。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "So, um the the the thing we're going to be really focused on is uh increasing uh battery uh production capacity because that's very fundamental cuz you know if you don't improve battery production capacity then you end up just shifting uh unit volume from one product to another and you haven't actually produced more electric vehicles.",
+      "textZh": "所以，嗯，我们真正要专注的事情是，呃，提高，呃，电池，呃，产能，因为这是非常根本的，因为你知道，如果你不提高电池产能，那么最终你只是把，呃，产品数量从一种产品转移到另一种产品，而实际上并没有生产更多电动汽车。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "So um you know that's that's part of the reason why we uh have not for example really accelerated uh production of the Tesla Semi because it does use a lot of cells and and unless we've got a uh lot of battery cells available then then say like um accelerating production of the Tesla Semi would would then necessarily mean making pure Model 3 or Model Y cars.",
+      "textZh": "所以，嗯，你知道，这就是为什么我们，呃，比如说，没有真正加快，呃，Tesla Semi 生产的部分原因，因为它确实会使用大量电芯，而，而除非我们有，呃，大量可用的电池电芯，否则，那么比如说，嗯，加快 Tesla Semi 的生产就必然意味着生产纯 Model 3 或 Model Y 汽车。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Um, so we we got to really make sure we we we get a very steep ramp in battery production um and continue to improve the cost per kilowatt hour of the batteries. This is this is very fundamental um and extremely difficult. Um so that you know I said we're going to do like kind of a battery day um just to kind of explain more about this and what our plans are.",
+      "textZh": "嗯，所以我们，我们必须切实确保电池生产能够非常迅速地爬坡，嗯，并继续降低电池的每千瓦时成本。这，这非常根本，嗯，而且极其困难。嗯，所以，你知道，我说过我们会举办一个类似电池日的活动，嗯，就是为了进一步解释这件事以及我们的计划。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "Um I think probably it's going to make sense to do that after the end of this quarter because I think it's going to be at kind of an intense end of quarter as it was last quarter. Um so you know tenatively sort of in the April time frame we'll do do a battery day uh and and kind of go through what the um challenges are. Um you know how do you how do you get from here to I don't know couple thousand gawatt hours a year or something. Great.",
+      "textZh": "嗯，我想在本季度结束后举办可能比较合理，因为我认为季末会有点紧张，就像上个季度一样。嗯，所以，你知道，暂定大概在 4 月这个时间段，我们会举办，举办一个电池日，呃，并大致讲解一下，嗯，挑战是什么。嗯，你知道，你要如何，你要如何从这里发展到，我不知道，每年几千嘎瓦时之类的规模。很好。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "I'll look forward to that battery day. Elan, you also mentioned in your prepared comments about other projects that may come up and the only vehicle not announced for master plan part two is a high passenger density vehicle. Any light that you can give us uh regarding that project? Yeah. Um you know going back to what I just said the the we got to improve the total battery capacity.",
+      "textZh": "我期待着那个电池日。埃兰，你在准备好的发言中还提到了其他可能出现的项目，而总体规划第二部分中唯一尚未公布的车辆是一种高乘客密度车辆。关于那个项目，你能否向我们透露一些信息，呃？可以。嗯，你知道，回到我刚才所说的，我们必须提高电池总产能。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "Um otherwise we add complexity but we do not improve the number of vehicles on the road. So, uh, will we do, you know, some sort of high-capacity vehicle at some point? Probably. Um, but we we need to make sure we got the batteries to, you know, make cars that we already that are already in our plate. Um, and and and it's it's just generally true.",
+      "textZh": "嗯，否则我们增加了复杂性，却没有增加道路上的车辆数量。那么，呃，我们是否会在某个时候制造，你知道，某种高载客量车辆？可能会。嗯，但我们，我们需要确保拥有足够的电池来，你知道，生产我们已经，我们盘子里已经有的汽车。嗯，而且，而且，而且这通常都是事实。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "And I've seen some some uh I think uh sort of sensible comments by Arch Invest, you know, where they um pointing out that really people do prefer to drive in their cars mostly by themselves. Um and the average Yeah, I mean the the average number of occupants in a car I think is like 1. 2 and maybe with autonomy maybe it'll go to 1. 4 maybe. Um, but I'm not sure if that even it even goes there.",
+      "textZh": "而且我看到 Arch Invest 有一些，一些，呃，我认为，呃，算是合理的评论，你知道，他们，嗯，指出人们其实确实更喜欢大多数时候独自驾驶自己的汽车。嗯，而平均，是的，我是说，我认为一辆车的平均乘员人数大概是 1. 2，也许随着自动驾驶技术的发展，可能会达到 1. 4，也许吧。嗯，但我不确定它是否真的，真的会达到那里。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "So, um, you know, will it make sense for us to do sort of a minivan or, you know, sort of sprinter like man at some point? Probably. But like I said, we got to solve this battery. We got to scale battery production to crazy levels that people cannot even fathom today. That's the real problem. Thank you. Let's go to the next question, please. Our next question comes from John Sager with Evercore ISI. Hey guys, thanks for taking my call.",
+      "textZh": "所以，嗯，你知道，在某个时候，我们推出某种小型厢式车，或者，你知道，某种像短跑运动员那样的人，是否合理？可能吧。但就像我说的，我们必须解决这个电池问题。我们必须把电池产量扩大到如今人们甚至无法想象的疯狂水平。这才是真正的问题。谢谢。请进入下一个问题。我们的下一个问题来自 Evercore ISI 的 John Sager。嗨，各位，感谢接听我的电话。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "Um, I want to talk about the uh the differences between the Model 3 and the Model Y beyond the uh the sort of 10% rule of thumb just around uh cargo and size. Are there other features that that are going to differentiate the two models? And then um as a as a follow on to that, you've talked in the past about how Model S sales grew uh with the introduction of Model X.",
+      "textZh": "嗯，我想谈谈 Model 3 和 Model Y 之间的差异，除了呃，仅就载货空间和尺寸而言那种 10% 的经验法则之外。还有其他会让这两款车型有所区别的功能吗？然后，嗯，作为对此的一个后续问题，你们过去谈到过，随着 Model X 的推出，Model S 的销量如何增长。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "So, are you planning on setting up your production facilities to align with that thesis that essentially Model 3 sales will expand alongside the uh the introduction of Model Y? You know, we're not we're not quite sure what's going to happen with but but it is true that Model X the introduction Model X actually increased Model S sales.",
+      "textZh": "那么，你们是否计划按照这一论点来配置生产设施，也就是 Model 3 的销量基本上会随着呃 Model Y 的推出而扩大？你知道，我们并不，我们不太确定会发生什么，但但确实，Model X，Model X 的推出实际上提高了 Model S 的销量。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "Um cuz people would come in, they'd look at the Model X and they like decide, okay, you know, I'd prefer the sedan. And and uh we're worried that that X sales would cause S sales to drop, but they actually cause it to increase. Um so, you know, from from our standpoint, I we're not too worried about demand. We're worried about production.",
+      "textZh": "嗯，因为人们会进来，他们会看看 Model X，然后他们会像是决定，好吧，你知道，我更喜欢轿车。而且而且呃，我们曾担心 X 的销量会导致 S 的销量下降，但它实际上使其增加了。嗯，所以，你知道，从从我们的角度来看，我，我们不太担心需求。我们担心的是生产。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "You know, it's make sure we get that production ramp going and and reach volume production as soon as possible with the Model Y. Um and uh it's hard to it's always hard to predict what that miss that that S the the you know the exponential part of the S-curve of of production. Um but production pretty much always follows this S-curve or it's kind of like a hokey jerky S-curve.",
+      "textZh": "你知道，就是要确保我们推动产量爬坡，并让 Model Y 尽快实现批量生产。嗯，而且呃，很难，这总是很难预测，那个错，那个 S，这个，你知道，生产 S 曲线的指数增长部分。嗯，但生产基本上总是遵循这条 S 曲线，或者它有点像一条忽走忽停的 S 曲线。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "Um and you know you can it's easy to predict what it's going to be like in the beginning cuz it's flow and it's easy to predict what it's going to be like at the end but that intermediate portion of the S curve is very difficult to predict. So that's and it involves a massive amount of hard work and um and and just reacting fast to issues that arise.",
+      "textZh": "嗯，而且你知道，你可以，很容易预测一开始会是什么样，因为它是流动的，也很容易预测最后会是什么样，但 S 曲线的中间部分非常难以预测。所以就是这样，而且这涉及大量的艰苦工作，以及嗯，而且而且就是要快速应对出现的问题。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "Um so you know I think we're just you know going to go as fast we can with the Model Y and make sure it's a great product. I think there are some things that will differentiate it but not um not something we want to talk about on this call. Um, and I think so, you know, when they do when people do a tear down of the Model Y, I think they'll be impressed about some of the things they see.",
+      "textZh": "嗯，所以你知道，我认为我们只是，你知道，会尽我们所能尽快推进 Model Y，并确保它是一款很棒的产品。我认为确实有一些东西会让它有所区别，但不是，嗯，不是我们想在这次电话会议上谈论的内容。嗯，而且我想，所以，你知道，当他们，当人们拆解 Model Y 时，我认为他们会对所看到的一些东西印象深刻。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "And just to add to that, uh, I think it's important to keep the Model Y launch in context of the next 18 to 24 months that what we're working on here between Berlin and Shanghai and Fremont is to have 3 and Y locally produced in all locations. Yeah. And so, um, Model 3 is expanding. As Model Y is expanding, there may be ups and downs various factories as we get to the journey of having these products on all on the major continents. Yeah.",
+      "textZh": "再补充一点，呃，我认为重要的是，要把 Model Y 的发布放在未来 18 至 24 个月的背景下来看，我们目前在柏林、上海和弗里蒙特之间推进的工作，是让 Model 3 和 Model Y 在所有地点实现本地生产。对。所以，嗯，Model 3 正在扩张。随着 Model Y 的扩张，在我们迈向让这些产品遍布所有主要大洲的过程中，各家工厂可能会有起有落。对。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "Also, the rule of thumb of 10%, I think you need to see it. When you see the car, you'll realize that it's not just a 10% different car. It's it's it's it's not just that there's more change happening like to the customer's perspective as well. Thank you. Let's go to the next question, please. Thank you. Our next question comes from Colin Rush with Oenheimer. Um, thanks so much, guys.",
+      "textZh": "另外，关于 10% 这条经验法则，我觉得你得亲眼看看。当你看到这辆车时，你会意识到，它并不只是一辆有 10% 差异的车。它、它、它、它不只是有更多变化发生，从客户的角度来看也是如此。谢谢。请进入下一个问题。谢谢。我们的下一个问题来自 Oenheimer 的 Colin Rush。嗯，非常感谢，各位。"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "Can you speak to the pricing strategy in light of the China price reductions as well as the mission to increase EV adoption? Is there a target for gross profit or operate profit on a per vehicle basis that we should be thinking about or or how should we really frame that for ourselves? Um, yeah, I mean, we're trying to make the cars as affordable as possible, as fast as possible.",
+      "textZh": "考虑到中国的降价以及提高电动汽车普及率的使命，你们能谈谈定价策略吗？我们是否应该考虑一个单车毛利润或营业利润目标，或者、或者我们究竟应该如何为自己构建这个分析框架？嗯，对，我是说，我们正努力尽可能快地让汽车变得尽可能负担得起。"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "[clears throat] um while maintaining reasonable while while while still being at least a little bit profitable and growing the company like crazy and having good free cash flow and accumulating a a cash balance. Um Beck, anything you want to No, I think that's very fair. Yeah, I mean uh our order rate supports the pricing that we have right now.",
+      "textZh": "[清嗓子] 嗯，同时保持合理的、同时、同时、同时仍然至少有一点盈利，并让公司疯狂增长，拥有良好的自由现金流，并积累一、一笔现金余额。嗯，Beck，你有什么想……没有，我认为这非常公允。对，我是说，呃，我们的订单速度支持我们目前的定价。"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "We're working very hard to reduce cost uh and expand production because it I mean we feel from the data it's pretty clear that there's a lot of interest in our products and so as what we're working on is to increase production increase availab availability of the products with time and the price reduction in China kind of the first step towards this global localization more accessible price and we'll continue to work on cost reductions in China as we do in Fremont and grow production.",
+      "textZh": "我们正非常努力地降低成本，呃，并扩大生产，因为，我是说，从数据来看，我们觉得很明显，人们对我们的产品非常感兴趣，所以我们正在做的是提高产量，随着时间推移提高产品的可、可获得性，而中国的降价可以说是迈向这种全球本地化、更易负担价格的第一步，我们会继续在中国推进降本，就像我们在弗里蒙特所做的那样，并扩大生产。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "Yeah. Yeah, I mean the thing that's really going to I think probably just have a profound effect on our financials is like is high volume and high margin obviously uh and that high margin part comes from autonomy. So do people buy the the full self driving package or not and do they buy it worldwide or only in certain places? Um for example our autonomy is not as good in China as it is in the US.",
+      "textZh": "对。对，我是说，我认为真正将会、可能会对我们的财务产生深远影响的事情，显然就是高销量和高利润率，呃，而高利润率那部分来自自动驾驶。所以，人们是否购买全自动驾驶套件，以及他们是在全球各地购买，还是只在某些地方购买？嗯，例如，我们的自动驾驶在中国不如在美国好。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "So fewer people a very small percentage of people buy the FSD package in China. But as we as we fix that, then we'll see a much higher people percentage of people buy it. Um, and as we get close to full self-driving, um, that's just going to become more and more compelling. So that that's from a financial standpoint, that's the real mind-blowing situation is high volume, high margin because of autonomy. Okay.",
+      "textZh": "所以在中国，购买 FSD 套件的人更少，比例非常小。但随着我们、随着我们解决这个问题，我们就会看到高得多比例的人购买它。嗯，而随着我们接近全自动驾驶，嗯，它只会变得越来越有吸引力。所以，从财务角度来看，那、那才是真正令人震撼的局面：由于自动驾驶而实现高销量、高利润率。好的。"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "And then just shorter term, you know, there's significant discussion in the industry around moving to higher voltage on the powertrain and then, you know, some challenges around the supply chain's preparedness to support that. You know, separate from the battery pack since we'll we'll talk about that in a couple of months.",
+      "textZh": "然后再谈谈较短期的情况，你知道，业内有大量讨论涉及动力总成转向更高电压，以及，你知道，供应链是否准备好为此提供支持所面临的一些挑战。你知道，先不谈电池包，因为我们、我们会在几个月后讨论它。"
+    },
+    {
+      "id": "p-0115",
+      "textEn": "Can you speak to the areas of focus on powertrain uh technology uh driven cost reduction over the next 12 to 24 months that we should be thinking about? Well, powertrain is pretty damn good. I mean, it's way better than anything else out there by Country Mile. You know, it's worth noting, for example, that the uh the Model S has like 100 kilowatt hour pack. The tan has 100, you know, what like 95 kWh pack.",
+      "textZh": "你们能谈谈未来 12 至 24 个月内，通过动力总成，呃，技术来，呃，推动成本降低有哪些我们应该关注的领域吗？嗯，动力总成相当他妈的好。我是说，它远远好过市面上的任何其他产品。你知道，值得指出的是，例如，呃，Model S 配的好像是 100 千瓦时电池包。tan 配的是 100，你知道，什么，大概 95 千瓦时的电池包。"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "The Model S uh is steadily approaching 400 m range. The tan has 200 m of range. So, we must be using that energy pretty efficiently. And the powertrain is a big part of that. Um I I would just say the focus is on cost on the powertrain. Um when we're thinking about technology innovations, it's how do we how do we continue to drive the cost down. Yeah.",
+      "textZh": "Model S，呃，正在稳步接近 400 英里续航。tan 的续航为 200 英里。所以，我们肯定是在相当高效地使用这些能量。而动力总成是其中很重要的一部分。嗯，我、我只想说，重点在于动力总成的成本。嗯，当我们思考技术创新时，考虑的是我们如何、我们如何继续推动成本下降。对。"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "And and you know that's through voltage is maybe one angle, but there are certainly others that just enable more power density and lower cost. Applied power train is like mind-blowing. I think um yeah, coming out later this year, end of the year probably. That's our goal. get the fly power train app into end of the year and then it's going to be like this is like alien technology. It's insane. It's all about power.",
+      "textZh": "而、而且你知道，这可以通过电压，这也许是一个角度，但肯定还有其他角度，它们只是能够实现更高的功率密度和更低的成本。应用型动力总成简直令人震撼。我想，嗯，对，会在今年晚些时候推出，可能是年底。那是我们的目标。让 fly 动力总成应用在年底前完成，然后它会让人觉得，这就像外星科技。太疯狂了。这一切都关乎动力。"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "I I didn't even think we could do Yeah. I mean honestly I thought it was no way. Um this kickass engineering team Tesla Tesla is all about hardcore engineering. Great. Let's go to the next question please. Our next question comes from Emmanuel Rosner with Deutsche Bank. Hi, good evening everybody. Uh so in in your slide deck uh you had a comment around um average selling price being uh stable uh or thereabouts in 2020.",
+      "textZh": "我、我甚至都没想到我们能做……对。我是说，老实说，我原以为根本没可能。嗯，这支牛逼的工程团队，Tesla、Tesla 的一切都围绕着硬核工程。很好。请进入下一个问题。我们的下一个问题来自德意志银行的 Emmanuel Rosner。嗨，各位晚上好。呃，所以在、在你们的演示文稿中，呃，你们提到，嗯，平均售价在 2020 年将，呃，保持稳定，呃，或大致稳定。"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "Can you maybe walk through some of the puts and take how you see sort of like that uh metric evolve? Obviously you have the Model Y which probably would have initial you know higher pricing and then the China Model 3 is at a lower price. So I guess what are the puts and takes for what you would see as sort of like stable ASP in 2020? Yeah. Make the products better and better. Yeah. Increase the value. I know. Yeah.",
+      "textZh": "你们能否大致讲讲其中的一些增减因素，以及你们认为这项，呃，指标大概会如何演变？显然，你们有 Model Y，它最初的定价可能会，你知道，更高，然后中国 Model 3 的价格更低。所以我想，对于你们所说的 2020 年 ASP 大致稳定，其中有哪些增减因素？对。让产品变得越来越好。对。提高价值。我知道。对。"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "We don't want to really comment on like prices and stuff. I think, you know, we'll adjust according to what the demand looks like. I mean, like right now it looks pretty good. Um maybe that'll change. Who knows? Um yeah, but but I think the way you described it is fair. So, I mean, relative to the current Model 3, uh, China Model 3 pricing is slightly lower. Uh, and our Model Y pricing is public on the website.",
+      "textZh": "我们其实不想对价格之类的事情发表评论。我认为，你知道，我们会根据需求情况进行调整。我是说，就目前而言，看起来相当不错。嗯，也许这会改变。谁知道呢？嗯，对，但、但我认为你描述的方式是公允的。所以，我是说，相对于目前的 Model 3，呃，中国 Model 3 的定价略低。呃，而我们的 Model Y 定价已经在网站上公开。"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "So, you can see that it's clearly slightly higher than than what Model 3 is out of Fremont. How the mix of those three products nets out over the course of the year, we'll see. But, I I think it's probably fair at the moment to assume the mix of those stays fairly stable in terms of ASB when you average them together. Yeah.",
+      "textZh": "所以，你可以看到，它显然略高于、略高于弗里蒙特生产的 Model 3。随着这一年推进，这 3 款产品的组合最终会呈现什么结果，我们拭目以待。但我、我认为目前或许可以合理地假设，把它们平均到一起时，就 ASB 而言，这一组合会保持相当稳定。对。"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "Yeah, I mean the affordability of our car in China improved radically because of you know not you know very you know tariffs mostly going away purchase tax exemption uh local pot supply not having to spend a bunch of money to transport it over the ocean um so the the affordability is night and day for a car in China. Thank you. Let's go to the next question please. Thank you. Our next question comes from Dan Lady with Credit Swiss. Hi.",
+      "textZh": "对，我是说，我们的汽车在中国的可负担性得到了彻底改善，因为，你知道，不，你知道，非常，你知道，关税基本上取消了、免征购置税，呃，本地锅具供应，不必花一大笔钱把车运过海，嗯，所以、所以一辆车在中国的可负担性有天壤之别。谢谢。请进入下一个问题。谢谢。我们的下一个问题来自 Credit Swiss 的 Dan Lady。嗨。"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "Uh, good evening. Thank you for for taking the questions. Just want to follow up on the question on capital raise. So, given the cheaper cost of of capital and this is a real competitive advantage for others, why wouldn't it make sense to raise capital to either pay down debt or to pursue acquisitions, especially bolt-ons that could help you accelerate capabilities in autonomous or battery technology?",
+      "textZh": "呃，晚上好。谢谢你们、谢谢你们接受提问。只是想跟进一下融资的问题。那么，鉴于资本成本更低，而且这对其他人而言是一项真正的竞争优势，为什么通过融资来偿还债务或进行收购没有意义，尤其是那些可以帮助你们加快自动驾驶或电池技术能力的补强型收购？"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "I mean, if you know of any acquisitions, we'd love to hear about them. Yeah, sure. Sounds great. Who should we acquire? Well, I I given the uh importance of autonomous, I imagine that this is an area that you would want to accelerate if you view it as a as a crucial competitive advantage. We're not a aware of any one that we'd want to acquire and debt debt payown. um polluting the company to pay down debt doesn't sound like a wise move.",
+      "textZh": "我是说，如果你知道有什么收购标的，我们很乐意听听。对，当然。听起来很棒。我们应该收购谁？嗯，我、我考虑到，呃，自动驾驶的重要性，我想如果你们把它视为一项、一项关键竞争优势，这会是你们希望加速推进的领域。我们不、不知道有任何我们想收购的对象，而债务、债务偿清，嗯，通过污染公司来偿还债务听起来并不是明智之举。"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "I mean I think yeah I think the broader there's been a couple of versions of this question over the course of the call. I think what we're saying more broadly is that as we look forward on the cash generation from the business relative to what our plans are. Um we are not constrained. Yeah. We're going to pay down the debt just, you know, as time goes by. And we paid down half half a million dollars worth of debt last quarter.",
+      "textZh": "我是说，我认为，对，我认为从更广的层面来说，在本次电话会议过程中，这个问题已经出现了几个版本。我认为我们更广泛表达的是，当我们展望业务产生的现金，并将其与我们的计划相比较时，嗯，我们不受制约。对。随着时间推移，我们会偿还债务，就是，你知道。而且上个季度我们偿还了半、半百万美元的债务。"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "Um, so we'll just keep steadily paying it down. Um, and yeah, I so yeah, yeah, I don't think we have anything more to say on that part really. Okay, thank you. Let's go to the next question, please. Thank you. Our next question comes from Pierre Farrau with New Street Research. Hey, thank you sir taking my question.",
+      "textZh": "嗯，所以我们只会继续稳步偿还。嗯，还有，是的，我，所以是的，是的，我觉得关于那部分我们确实没什么更多可说的了。好的，谢谢。请进入下一个问题。谢谢。我们的下一个问题来自 New Street Research 的 Pierre Farrau。嘿，谢谢您，先生，接受我的提问。"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "Ian, I I wanted to come back on on open batteries and if I look at the end of this year, you should have 800,000 units in production capacity for car. So that's if you add to that model X and model S and then the energy storage business, it means you need only north of 60 gawatt of battery production capacity. So where do you stand now? You know, how do you get there?",
+      "textZh": "Ian，我我想回到开放电池这个问题上，如果我看今年年底，你们的汽车产能应该会达到 800,000 辆。所以，如果再加上 Model X 和 Model S，然后还有储能业务，这意味着你们只需要超过 60 吉瓦的电池产能。那么你们现在进展到哪里了？你知道，你们要如何达到那里？"
+    },
+    {
+      "id": "p-0128",
+      "textEn": "[clears throat] And then it looks like your competitors or those who would like to compete with you seem to be struggling to to to to grow uh battery capacity. Uh so so if you can just take us through what you're doing differently, why you're confident you can do that and it looks like nobody else can.",
+      "textZh": "[清嗓子] 然后，看起来你们的竞争对手，或者那些想与你们竞争的人，似乎都难以扩大扩大扩大扩大，呃，电池产能。呃，所以所以，如果你们能给我们讲讲你们采取了哪些不同的做法，为什么你们有信心能做到，而看起来其他人都做不到。"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "Well, you know, I guess, you know, a lot of people sort of made fun of us for for not like, you know, being able to grow, you know, build cars and bulk capacity. And it's like now that it turns out actually even the pros have trouble with it, you know, it's pretty hard. Um, so you know, but the fact is we've already demonstrated massive growth in cell production capacity at our Gigafactory Nevada.",
+      "textZh": "嗯，你知道，我想，你知道，很多人有点嘲笑我们，因为因为我们不太，怎么说，你知道，能够实现增长，你知道，制造汽车和大批量产能。而现在事实证明，实际上连专业人士都难以做到，你知道，这非常困难。嗯，所以你知道，但事实是，我们已经在内华达超级工厂证明了电芯产能的大幅增长。"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "Um, and you know, you have to go from the cells to the modules to the pack. So, not just cell capacity, but also module and and pack capacity. Um, so we we've just gotten pretty good at that. Um and we've worked well with key partners like Panasonic Panasonic relationship has been been excellent. Uh they've been a great partner with us for for many years.",
+      "textZh": "嗯，而且你知道，你必须从电芯到模组，再到电池包。所以，不只是电芯产能，还包括模组和和电池包产能。嗯，所以我们我们只是已经变得相当擅长这件事了。嗯，而且我们与 Panasonic 等关键合作伙伴合作得很好，Panasonic 的合作关系一直一直非常好。呃，多年来，他们一直是我们的优秀合作伙伴。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "Um we've added some some additional uh partners at a at a smaller scale um you know with LG and CL. Um and uh you know um and we'll have more to talk about uh this in detail in battery day. Like I said, probably, you know, probably April and we've got a very compelling strategy. Uh, I mean, we are super deep on cell, super deep and sell cell through battery. It's a cell module battery. I mean, Drew, anything you want to add to that? Thanks.",
+      "textZh": "嗯，我们增加了一些一些额外的，呃，规模较小的合作伙伴，嗯，你知道，包括 LG 和 CL。嗯，还有，呃，你知道，嗯，我们会在电池日更详细地讨论这件事。就像我说的，大概，你知道，大概在 4 月，而且我们有一个非常有吸引力的战略。呃，我的意思是，我们在电芯方面钻研得极深，极深，还有销售从电芯到电池。这是一个电芯模组电池。我的意思是，Drew，你还有什么想补充的吗？谢谢。"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "I think you said it said it all. We are super deep. I mean, it's a it's a rabbit hole. That rabbit hole goes down pretty far. Seven days a week. Yeah, we're doing seven days a week. Yeah. battery production. Um, man, do we know a lot about batteries? Geez. I think I can see that. The only thing I would add is go ahead.",
+      "textZh": "我觉得你已经全都说了说了。我们钻研得极深。我的意思是，这是一个这是一个兔子洞。那个兔子洞非常深。每周 7 天。是的，我们每周工作 7 天。是的。电池生产。嗯，天啊，我们真的非常了解电池。老天。我想我看得出来。我唯一想补充的是，请讲。"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "The only thing that I would add is, you know, we we do have more a decade plus of experience of not just like what a cell should be, but how to integrate it into the product. And that's really helpful. Yeah, absolutely. And how to manage the the cell and the module and the battery and through different weather conditions and different environmental and different charge regimes. And wow, we we really know a lot about batteries. Um, yeah. Mhm.",
+      "textZh": "我唯一想补充的是，你知道，我们确实拥有超过10年的经验，不只是了解电芯应该是什么样，还包括如何将它集成到产品中。而这真的很有帮助。对，绝对如此。还有如何管理电芯、模组和电池，以及应对不同的天气条件、不同的环境和不同的充电模式。哇，我们真的非常了解电池。嗯，对。嗯哼。"
+    },
+    {
+      "id": "p-0134",
+      "textEn": "It's next level. Okay. Thanks. And Zach, maybe a quick mundane followup for you if that's all right. Can you give us a sense of the impact of the ramp of Shanghai on your in Q4? Yeah, it we were negative gross margin on the products that we built in Q4. Um, but the team in China, I think, did a great job managing costs during the launch. And so there was a slight drag associated with it, but not terribly significant. Okay.",
+      "textZh": "这是更高的层次。好的。谢谢。Zach，如果可以的话，也许再问你一个简短而普通的后续问题。你能否让我们了解上海产能爬坡对你们第四季度的影响？是的，我们第四季度生产的产品毛利率为负。嗯，但我认为中国团队在投产期间的成本管理方面做得非常出色。因此，这带来了一点拖累，但并不是特别显著。好的。"
+    },
+    {
+      "id": "p-0135",
+      "textEn": "And let's go to the last question, please. Thank you. Our last question will come from Joseph OSHA with JMP Securities. Um, further to the conversation around cell technology, I'm just wondering if you can comment on uh what the plans are for the Maxwell technology that that you acquired either as a capacitor or dry cell or what have you. Thanks. Well, like I said, we're going to talk about this in battery day, which is probably April.",
+      "textZh": "请让我们进入最后一个问题。谢谢。我们的最后一个问题来自JMP Securities的Joseph OSHA。嗯，接着刚才有关电芯技术的讨论，我想知道你们能否谈谈对所收购的Maxwell技术有什么计划，无论是将其用作电容器、干电芯还是其他用途。谢谢。嗯，就像我说的，我们会在电池日讨论这个问题，时间可能是4月。"
+    },
+    {
+      "id": "p-0136",
+      "textEn": "Um, and then a lot of these questions will be answered. I think it's going to be a very compelling story that we have to present. Uh, I think it's going to actually blow people's minds. Blows my mind and I am clo, you know, I know it. Uh, so I think it's going to be pretty cool. Um, the Maxwell Maxwell that that Ultra Cap technology is kind of part of the part of the plan. It's a it's it's an important piece of the puzzle. Yes.",
+      "textZh": "嗯，到时很多这类问题都会得到解答。我认为，我们要介绍的会是一个非常有说服力的故事。呃，我认为它真的会让人们大吃一惊。也让我大吃一惊，而我很接，你知道，我了解它。呃，所以我认为它会非常酷。嗯，Maxwell Maxwell的那个那个超级电容技术算是计划的一部分。它是，它是它是这幅拼图中重要的一块。是的。"
+    },
+    {
+      "id": "p-0137",
+      "textEn": "Um, I think like some of this this the sort of retail investors have managed to put together several pieces of the puzzle. They seem to have the most insight. I shall have to read the blogs more. Thank you. All right. You're welcome. Thank you very much for everyone for all of your good questions and uh we will speak to you in another 3 months. Thank you. Thank you. Ladies and gentlemen, this concludes today's conference call.",
+      "textZh": "嗯，我认为，像是其中一些这些这类散户投资者已经设法拼起了这幅拼图的好几块。他们似乎拥有最深刻的洞见。我得多读读博客了。谢谢。好的。不客气。非常感谢各位提出的所有好问题，呃，我们将在另一个3个月后与大家交流。谢谢。谢谢。女士们、先生们，今天的电话会议到此结束。"
+    },
+    {
+      "id": "p-0138",
+      "textEn": "Thank you for your participation. You may now disconnect. [music]",
+      "textZh": "感谢您的参与。您现在可以断开连接了。[音乐]"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T07:36:04.091Z",
+    "reviewedAt": "2026-09-13T08:03:14.176Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:19.463Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=LTOetiSVJnc",
+  "sourceHash": "f5dd0cee4762c01df37a30260be389883fe115897535312abe6865fae8ec2c00"
+}

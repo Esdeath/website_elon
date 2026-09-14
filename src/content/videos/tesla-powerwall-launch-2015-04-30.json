@@ -1,0 +1,454 @@
+{
+  "id": "tesla-powerwall-launch-2015-04-30",
+  "slug": "tesla-powerwall-launch-2015-04-30",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2015-04-30",
+  "titleEn": "Tesla Powerwall Launch",
+  "titleZh": "Tesla Powerwall 发布会",
+  "summaryEn": "Musk unveils the Tesla Powerwall home battery and Tesla Energy at the keynote in Hawthorne, California.",
+  "summaryZh": "马斯克在加利福尼亚州霍桑的主题演讲中发布 Tesla Powerwall 家用电池和 Tesla Energy。",
+  "sourceUrl": "https://www.youtube.com/watch?v=IqsaMZq2VEQ",
+  "sourceLabel": "Elon Musk best videos",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-powerwall-launch-2015-04-30",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/IqsaMZq2VEQ",
+  "thumbnailUrl": "https://i.ytimg.com/vi/IqsaMZq2VEQ/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 1083,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 15.36,
+      "textEn": "All right, welcome everyone to basically the announcement of Tesla Energy. All right, So what I'm going to talk about tonight is about a fundamental transformation of how the world works, about how energy is delivered across Earth. This is how it is today. It's pretty bad.",
+      "textZh": "好了，欢迎各位来到可以说是 Tesla Energy 的发布会。好了，那么今晚我要讲的是世界运转方式的一场根本性变革，讲能源如何输送到地球各地。现在就是这样的。相当糟糕。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 41.44,
+      "textEn": "That sucks. Exactly. I just want to be clear because sometimes some people are confused about this. This is real, okay? This is actually how most, most power in the world is generated with fossil fuels. And if you look at the curve, that's a famous curve of the Keeling curve, which shows the growth in CO2 concentration in the atmosphere. And every year it ratchets up, it gets higher and higher and if we do nothing, that's where it's headed to levels that we don't even see in the fossil record.",
+      "textZh": "这糟透了。没错。我只是想说清楚，因为有时有些人对此感到困惑。这是真的，好吗？世界上绝大部分、绝大部分电力实际上就是这样用化石燃料生产出来的。如果你看这条曲线，那就是著名的基林曲线，它显示了大气中二氧化碳浓度的增长。它每年都逐级上升，越来越高，而如果我们什么都不做，它就会朝着化石记录中甚至都不曾见过的水平发展。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 76.49,
+      "textEn": "So this is.",
+      "textZh": "所以这就是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 80.57,
+      "textEn": "Well, I think we collectively should do something about this.",
+      "textZh": "嗯，我认为我们所有人都应该为此做点什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 88.47,
+      "textEn": "And not try to win the Darwin Award for us and a lot of other creatures too.",
+      "textZh": "而不是努力让我们自己以及许多其他生物也赢得达尔文奖。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 96.95,
+      "textEn": "So the way the grid works today is you've got coal, you've got natural gas, nuclear, hydro and wind and solar, but not enough wind and solar, obviously.",
+      "textZh": "所以，今天电网的运作方式是，你有煤炭，有天然气、核能、水力、风能和太阳能，但显然风能和太阳能还不够。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 108.07,
+      "textEn": "So that's sort of the, the grid typically in most countries. And then you'll, you'll notice something which is that the, there's a quite a big difference in peak to trough usage. So the, the peak usage is typically at least twice the, the trough usage. So please bear that in mind. I'm going to reference that again later in the presentation. That, that's an important point. So what we're here to talk about is the solution.",
+      "textZh": "所以这大致就是大多数国家的电网。然后你会、你会注意到一点，那就是用电量的峰值与谷值之间存在相当大的差距。所以峰值用电量通常至少是谷值用电量的2倍。所以请记住这一点。我稍后会在演讲中再次提到它。那、那是很重要的一点。所以我们来这里要谈的是解决方案。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 132.73,
+      "textEn": "I actually think it's really a fairly obvious solution, but it's something that we need to do. And the solution is in two parts. Part one, the sun.",
+      "textZh": "事实上，我认为这是一个相当显而易见的解决方案，但这是我们需要做的事。这个解决方案分为两个部分。第一部分，太阳。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 146.35,
+      "textEn": "We have this handy fusion reactor in the sky called the sun.",
+      "textZh": "天空中有一个方便好用、叫作太阳的聚变反应堆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 152.11,
+      "textEn": "You don't have to do anything, it just works, shows up every day and produces ridiculous amounts of power. Okay, the. Now a lot of people aren't clear on how much surface area is needed to generate enough power to completely get the United States off of fossil fuels.",
+      "textZh": "你什么都不必做，它自己就能运转，每天都会出现并产生多得惊人的能量。好了，这个。现在，很多人并不清楚需要多大的表面积，才能产生足够的电力，让美国彻底摆脱化石燃料。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 176.36,
+      "textEn": "Most people have no idea. They think that it must be some huge amount of area. Like maybe you need these satellites in space and like space solar power. If anyone should be in favor of space solar power, it should be me.",
+      "textZh": "大多数人完全不知道。他们认为那一定需要极其庞大的面积。比如也许需要把这些卫星送入太空，搞太空太阳能之类的东西。如果有人应该支持太空太阳能，那应该是我。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 190.31,
+      "textEn": "But this is completely unnecessary because actually very little land is needed to get rid of all fossil fuel electricity generation in the United States. That blue square there is the land area that's needed to transition the United States to a zero carbon electricity situation. It's really not much. And most of that area is going to be in rooftops, so you won't need to disturb land. You won't need to find new areas.",
+      "textZh": "但这完全没有必要，因为要在美国淘汰所有使用化石燃料的发电方式，实际上只需要很少的土地。那里的蓝色方块就是让美国转向零碳电力状态所需要的土地面积。真的不大。而且其中大部分面积都会在屋顶上，所以你不需要扰动土地。你不需要寻找新的区域。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 222.71,
+      "textEn": "It's mostly just going to be on existing. The roofs of existing homes and buildings. So I really think that image is an important one to bear in mind when people are thinking about solar power. Like, how much will it take? Is it going to take some enormous amount? No, it's just that blue square. Okay. Blue spark.",
+      "textZh": "它基本上只会装在现有的。现有住宅和建筑物的屋顶上。所以我真的认为，当人们思考太阳能时，那张图很重要，应当牢记。比如，需要多少？会不会需要极其庞大的面积？不会，就只是那个蓝色方块。好了。蓝色火花。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 243.06,
+      "textEn": "Now, the obvious problem with solar power is that the sun does not shine at night.",
+      "textZh": "现在，太阳能显而易见的问题是，太阳在夜间不会照耀。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 250.82,
+      "textEn": "I think most people are aware of this.",
+      "textZh": "我想大多数人都知道这一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 254.74,
+      "textEn": "So this problem needs to be solved. We need to store the energy that is generated during the day so that you can use it at night. And also, even during the day, the energy generation varies. There's a lot more energy generated in the middle of the day than at dawn or dusk. So it's very important to smooth out that energy generation and retain enough so that you can use it at night.",
+      "textZh": "所以这个问题需要解决。我们需要把白天产生的能量储存起来，以便你在夜间使用。而且，即使在白天，能量的产生也会变化。一天正午产生的能量远多于黎明或黄昏时产生的能量。所以，让能量输出平稳下来并保留足够的能量供夜间使用非常重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 281.709,
+      "textEn": "Now, what you may not have noticed in that earlier slide where I showed the blue square was that there was one red pixel. In the blue square was a red pixel. Now it's zoomed in so you can see that red pixel. That is the size of the batteries needed to transition all of the United States to being solar with batteries. Okay? It is a very tiny amount.",
+      "textZh": "现在，你们可能没有注意到，在我之前展示蓝色方块的那张幻灯片中，有一个红色像素。蓝色方块里有一个红色像素。现在它被放大了，所以你们可以看到那个红色像素。那就是让整个美国转向使用配有电池的太阳能所需电池的规模。好吗？这是非常微小的规模。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 307.27,
+      "textEn": "Okay? One pixel. Just remember that one pixel is the size of the batteries needed to. For the United States to have no fossil fuel generated electricity. This is no room at all.",
+      "textZh": "好吗？一个像素。只要记住，那一个像素就是所需电池的规模，以便。让美国不再有使用化石燃料生产的电力。这根本不占什么空间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 323.29,
+      "textEn": "So not a problem for solar or batteries. Now, the issue with existing batteries is that they suck. Okay? They're really horrible.",
+      "textZh": "所以这对太阳能或电池来说不是问题。现在，现有电池的问题是它们糟透了。好吗？它们真的非常糟糕。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 336.17,
+      "textEn": "They look like that.",
+      "textZh": "它们看起来就是那样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 340.33,
+      "textEn": "They're expensive, they're unreliable. They're sort of stinky, ugly, bad in every way. Very expensive. You have to get some sort of. You know, you need to combine multiple systems. There's not one integrated place you can go and buy a battery that just works, which is what people really want to buy. So we have to. We have to come up with a solution. That's the missing piece. That's the thing that's needed to have a proper transition to a sustainable energy world.",
+      "textZh": "它们价格昂贵，不可靠。它们有点臭、难看，各方面都很糟糕。非常昂贵。你必须弄到某种。你知道，你需要组合多个系统。没有一个整合完备的地方，可以让你去买一块拿来就能用的电池，而这才是人们真正想买的东西。所以我们必须。我们必须想出一个解决方案。这就是缺失的一环。这就是实现向可持续能源世界妥善转型所需要的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 374.82,
+      "textEn": "So the missing piece is what we're going to show you tonight, Sam.",
+      "textZh": "所以，缺失的这一环就是我们今晚要展示给你们的东西，萨姆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 445.97,
+      "textEn": "All right, So this is. This is a product we call the Tesla powerwall. And if you look back against that wall, you'll see a whole bunch of them as well, in different colors.",
+      "textZh": "好了，那么这就是。这是一款我们称为 Tesla Powerwall 的产品。如果你回头看看那面墙，也会看到一大批不同颜色的 Powerwall。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 463.15,
+      "textEn": "So you can pick your favorite color. And it looks like a beautiful sculpture on the wall. So it's very important. I want to point out a few things that are very important about this the fact that it's wall mounted is vital because it means you don't need to have a battery room. You don't have to have some room filled with nasty batteries. It means that a normal household can mount this on their garage or on the outside wall of their house.",
+      "textZh": "所以你可以挑选自己最喜欢的颜色。它挂在墙上，就像一件美丽的雕塑。所以这一点非常重要。我想指出与此有关的几个非常重要的方面，它采用壁挂式安装至关重要，因为这意味着你不需要专门设置电池房。你不必弄一个塞满糟糕电池的房间。这意味着普通家庭可以把它安装在车库墙上或房屋外墙上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 494.3,
+      "textEn": "And it doesn't take up any room. I mean, it's flat against the wall. It has all of the integrated safety systems, the thermal controls, the DC to DC converter. It's designed to work very well with solar systems right out of the box. And it's. So it addresses all the needs. And if you're thinking about sort of buying a battery, what does this provide you? Well, it gives you peace of mind. So if there's a cut in the utilities, you're always going to have power.",
+      "textZh": "而且它不占用任何空间。我的意思是，它是贴墙安装的。它配备了全部集成式安全系统、热控制系统、直流转直流转换器。它经过专门设计，开箱即可与太阳能系统很好地配合使用。而且它。所以它满足了所有需求。如果你正考虑购买某种电池，它能为你提供什么？嗯，它会让你安心。所以，如果公用事业供电中断，你始终都会有电可用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 525.34,
+      "textEn": "Particularly if you're in a place that's very cold now. You don't have to worry about being out of power if there's an ice storm. You can actually go, if you want, completely off grid. You can take your solar panels, charge the battery packs, and that's all you use.",
+      "textZh": "尤其是如果你现在身处一个非常寒冷的地方。即使发生冰暴，你也不必担心断电。事实上，如果你愿意，你可以完全脱离电网。你可以用太阳能电池板给电池组充电，并且只使用这些电力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 543.59,
+      "textEn": "So it gives you safety, security, and it gives you a complete and affordable solution. And the cost of this is $3,500.",
+      "textZh": "所以，它能给你带来安全和保障，也能为你提供一套完整且负担得起的解决方案。而它的价格是3,500美元。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 564.08,
+      "textEn": "And it's, and it's designed so you can stack them on the wall. So if you look at the wall in the back, you'll see that there, there are, you can, there are some that are paired up. So you can have two. You can actually stack up to nine of the power walls.",
+      "textZh": "而且它，它的设计让你可以把它们叠装在墙上。所以，如果你看看后面的墙，就会看到那里，那里有，你可以看到，有一些是两两配对的。所以你可以装2台。事实上，你最多可以叠装9台Powerwall。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 578,
+      "textEn": "So you have. I mean, even if you've got a pretty big thing going on, you can have 90 kilowatt hours. That's a lot.",
+      "textZh": "所以你有。我的意思是，即便你这边的规模相当大，也可以有90千瓦时。那可不少。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 584.96,
+      "textEn": "And very importantly, this is going to be a great solution for people in remote parts of the world where there's no electricity wires or where the electricity is extremely intermittent or extremely expensive. So you can take the Tesla powerwall and it can scale globally. And in fact, I think what we'll see is something similar to what happened with the cell phones versus landlines, where the cell phones actually leapfrogged the landlines, and there wasn't a need to put landlines in a lot of countries or in remote locations.",
+      "textZh": "而且非常重要的是，对于世界上没有电线，或者供电极其不稳定、或电费极其昂贵的偏远地区的人们来说，这将是一套很棒的解决方案。所以，你可以使用Tesla Powerwall，并在全球范围内扩展应用。事实上，我认为我们将会看到类似手机与固定电话之间曾经发生过的情况：手机实际上跨越式地取代了固定电话，许多国家或偏远地区根本不再需要铺设固定电话线路。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 617.95,
+      "textEn": "So people, people in a remote village or an island somewhere can take solar panels, combine it with the Tesla powerwall, and never have to worry about having electricity lines. I think this is going to be great.",
+      "textZh": "所以，住在偏远村庄或某个岛屿上的人们，可以使用太阳能电池板，将其与Tesla Powerwall结合起来，从此不必操心架设电力线路。我认为这会非常棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 631.47,
+      "textEn": "Having electricity lines is not the most pretty thing in the world. So being able to just have this solution that just works wherever you are, I think is going to be Incredibly helpful to, to people that don't have electricity today.",
+      "textZh": "架设电力线路并不是世界上最美观的事。所以，只需拥有这样一套无论你身处何处都能直接使用的解决方案，我认为这对那些如今还没有电力的人来说将会极其有帮助。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 646.91,
+      "textEn": "So, So you can order the powerwall right now on the Tesla website. Actually go to teslaenergy.com and you can order the powerwall right now.",
+      "textZh": "所以，所以你现在就可以在Tesla网站上订购Powerwall。实际上，访问teslaenergy.com，你现在就可以订购Powerwall。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 668.42,
+      "textEn": "And we're gonna start, we're gonna start shipping in approximately three or four months. And initially the ramp will be, will be slow because these, these packs will be made in our Fremont factory. And then next year the ramp will go much, much higher as we transition to the gigafactory in Nevada.",
+      "textZh": "而且我们将会开始，我们大约会在3或4个月后开始发货。最初的产量爬坡会，会比较慢，因为这些，这些电池组将在我们的弗里蒙特工厂生产。然后到明年，随着我们转向内华达州的超级工厂，产量会大幅、大幅提高。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 691.78,
+      "textEn": "So this is a good solution for homes and perhaps for some small commercial applications. But what about something that scales much to much, much larger levels? So for that we have something else. So we have the power pack.",
+      "textZh": "所以，这对家庭以及或许某些小型商业应用来说是一套很好的解决方案。但如果需要扩展到大得多、大得多的规模呢？为此，我们还有另一种产品。我们有Powerpack。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 714.19,
+      "textEn": "So the Tesla power pack is designed to scale infinitely. So you literally make this into a gigawatt hour class solution.",
+      "textZh": "所以，Tesla Powerpack的设计可以无限扩展。你完全可以把它扩展成吉瓦时级的解决方案。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 725.77,
+      "textEn": "You could go gigawatt class or higher. And in fact we already have one utility that wants to do a 250 megawatt hour installation just using the power pack.",
+      "textZh": "你可以达到吉瓦级，甚至更高。事实上，我们已经有一家公用事业公司希望仅使用Powerpack建设一个250兆瓦时的储能项目。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 740.41,
+      "textEn": "And now I think it would be a good idea, this would be a good time to transition the power that we're using in the building to being battery powered. Of course. So let's go to the camera feed to. Let's go, let's go check out the power meter.",
+      "textZh": "现在我觉得可以这么做，这正是把这栋楼所用的电力切换为电池供电的好时机。当然。所以让我们切换到摄像机画面。让我们去，让我们去看看电表。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 764.43,
+      "textEn": "Oh wow. The grid, it's actually zero.",
+      "textZh": "哦，哇。电网，实际上是零。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 768.35,
+      "textEn": "This entire night has been powered by batteries.",
+      "textZh": "今晚整场活动一直由电池供电。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 782.09,
+      "textEn": "Not only that, the batteries were charged by the solar panels on the roof of this building.",
+      "textZh": "不仅如此，电池还是由这栋建筑屋顶上的太阳能电池板充电的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 789.29,
+      "textEn": "So this entire night, everything you're experiencing is stored sunlight.",
+      "textZh": "所以整个今晚，你们所体验的一切都是储存起来的阳光。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 801.45,
+      "textEn": "So when I say scalable, I really mean scalable. So we can do gigawatt class installations with the power pack. It's, the whole system is designed, literally designed for infinite scalability. So we could power a small city like Boulder with a gigawatt hour class pack. And we can, we can keep going here. So let's, let's. What I want to do is explore what is needed, what's really needed. So to transition the world to sustainable energy, is this actually possible?",
+      "textZh": "所以当我说可扩展时，我的意思真的是可扩展。所以我们可以用 Powerpack 建造吉瓦级设施。它，整个系统在设计上，确确实实就是为无限扩展而设计的。所以我们可以用一个吉瓦时级电池组为像博尔德这样的小城市供电。而且我们可以，我们可以继续下去。所以让我们，让我们。我想做的是探究需要什么，真正需要什么。那么，要让世界转向可持续能源，这真的可能吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 833.95,
+      "textEn": "Is it something that is within the ability of humanity to actually do, or is it some insurmountable, super difficult, impossible thing? It's not. So with 160 million power packs, you can transition the United states.",
+      "textZh": "这是人类确实有能力做到的事情吗，还是某种无法克服、超级困难、不可能的事情？不是。用 1.6 亿个 Powerpack，你就能让美国完成转型。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 849.95,
+      "textEn": "Okay. With 900 million, you can transition the world. You can basically make all electricity generation in the world renewable. So. And primarily solar. It will be so. And then going a little further, if you want to transition all transport and all electricity generation and all, all heating to renewable, you need approximately 2 billion power packs. Now that may seem like an insane number and I'm very tempted to do the, you know, the, the billion thing, but restrain my hand.",
+      "textZh": "好的。用 9 亿个，你就能让全世界完成转型。你基本上可以让全世界所有的电力生产都变成可再生的。所以。而且主要是太阳能。会是这样的。然后再进一步，如果你想让所有交通运输、所有电力生产以及所有、所有供暖都转向可再生能源，你大约需要 20 亿个 Powerpack。这个数字现在可能看起来很疯狂，我非常想做那个，你知道，那个、那个“十亿”的手势，但我忍住了手。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 891.81,
+      "textEn": "But in, in order to, to. It's like 2 billion power packs. Is that, is that a crazy number? Is that an impossible number? It is not. In fact, the number of cars and trucks that we have on the road is approximately 2 billion. And every, every 20 years, approximately, that gets refreshed. There's 100 million new cars and trucks made every year. So the point I want to make is that this is actually within the power of humanity to do.",
+      "textZh": "但为了，为了。就像是 20 亿个 Powerpack。这是，这是一个疯狂的数字吗？这是一个不可能的数字吗？不是。事实上，我们道路上的汽车和卡车数量大约就是 20 亿辆。而且大约每、每 20 年，它们就会更新一轮。每年生产 1 亿辆新汽车和卡车。所以我想表达的重点是，这其实在人类的能力范围之内。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 919.23,
+      "textEn": "We have done things like this before and so it's not impossible. It is really something that we can do and in fact it's something that obviously we're starting to do with, with Gigafactory1.",
+      "textZh": "我们以前做过这样的事情，所以这并非不可能。这确实是我们能够做到的事情，事实上，这显然也是我们正在通过、通过 Gigafactory 1 开始做的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 938.43,
+      "textEn": "So yeah, so the way we're approaching the Gigafactory is really like it's a product. So we're not really thinking of it in the traditional way that people think of as a factory, like a building with a bunch of sort of off the shelf equipment in it. What we're really designing in the Gigafactory is a giant machine. It's actually, it's a really think of like, it's like a product of Tesla. We're making this really big product that doesn't happen to move, but it's really big.",
+      "textZh": "所以，是的，我们对待 Gigafactory 的方式，实际上就是把它当作一款产品。因此，我们并没有真正按照人们看待工厂的传统方式来思考它，比如一栋里面放着一堆某种现成设备的建筑。我们真正在 Gigafactory 中设计的是一台巨型机器。它实际上，它真的可以想成，就像，它就像是 Tesla 的一款产品。我们正在制造这款非常大的产品，它恰好不会移动，但它真的很大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 972.05,
+      "textEn": "And, and that's what we're doing is Gigafactory version one. And we're building that in Nevada right now. And there will need to be many gigafactories in the future. And with, you know, this, I don't, I do want to emphasize that this is not something that we think Tesla's going to do alone. We think there's going to need to be many other companies building sort of gigafactory class operations of their own, and we hope they do.",
+      "textZh": "而，而我们正在做的就是 Gigafactory 第 1 版。我们现在正在内华达州建造它。未来还需要很多座 Gigafactory。而且对于，你知道，这一点，我不，我确实想强调，这不是我们认为 Tesla 将独自完成的事情。我们认为还需要许多其他公司建造属于自己的、某种 Gigafactory 级别的业务设施，我们希望它们这样做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 997.3,
+      "textEn": "And the Tesla policy of open sourcing patents will continue for the Gigafactory and for the power pack and all these other things.",
+      "textZh": "而且，Tesla 的专利开源政策将继续适用于 Gigafactory、Powerpack 以及所有这些其他事物。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 1010.34,
+      "textEn": "So we want to show people the most importantly that this, this is possible. That if you look at that, that's the future we could have. Where the curve slowly rolls over and goes to zero, no incremental CO2.",
+      "textZh": "所以我们最重要的是想向人们展示，这，这件事是可能的。如果你看看那个，那就是我们可以拥有的未来。曲线缓慢地转折并降至零，不再新增 CO2。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 1028.05,
+      "textEn": "That's the future we need to have. And that's something that, and the path that I've talked about, the solar panels and the batteries, it's the only path that I know that can do this. And I think it's something that we must do and we can do and that we will do.",
+      "textZh": "那是我们必须拥有的未来。而那是某种，而且我谈到的这条路径，太阳能电池板和电池，是我所知道的唯一能够做到这一点的路径。我认为这是我们必须做、能够做并且将会做的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 1061.05,
+      "textEn": "So thank you all for coming tonight and I hope you had a great time. Thanks, Sam.",
+      "textZh": "所以感谢大家今晚前来，希望你们度过了一段美好时光。谢谢，萨姆。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T05:56:46.383Z",
+    "reviewedAt": "2026-09-13T06:04:30.155Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:44.164Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "82034d63b6c2a1ada929d164d28ecd238dbbd39640a7867d08d12ab0ad5aa4d7"
+}

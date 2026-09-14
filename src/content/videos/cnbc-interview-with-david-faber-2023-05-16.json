@@ -1,0 +1,460 @@
+{
+  "id": "cnbc-interview-with-david-faber-2023-05-16",
+  "slug": "cnbc-interview-with-david-faber-2023-05-16",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2023-05-16",
+  "titleEn": "CNBC Interview with David Faber",
+  "titleZh": "CNBC 对大卫·费伯的采访",
+  "summaryEn": "Musk's wide-ranging CNBC interview on running Twitter, advertising, Tesla and AI advances.",
+  "summaryZh": "马斯克在CNBC的访谈内容广泛，涉及运营Twitter、广告、Tesla以及AI进展。",
+  "sourceUrl": "https://www.youtube.com/watch?v=vizKY0kj01U",
+  "sourceLabel": "Elon Musk Editor",
+  "archiveUrl": "https://elonmuskarchive.org/video/cnbc-interview-with-david-faber-2023-05-16",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/vizKY0kj01U",
+  "thumbnailUrl": "https://i.ytimg.com/vi/vizKY0kj01U/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 1696,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Are you going to have full autonomous on the roads of Austin at the end by the end of June? Yes, you are. What gives you that confidence? We have cars driving 24/7 with drivers in the cars and we see essentially no interventions. So now we want to be very careful with the first introduction of unsupervised self-driving meaning that there's the car driving around with no one in it. Um so we're no one buying but drivers. Well, yes.",
+      "textZh": "你们会在结束时、在6月底之前让完全自动驾驶上路，在奥斯汀的道路上吗？是的，会。是什么给了你这种信心？我们有车辆全天候24/7行驶，车里有驾驶员，而我们基本上看不到任何接管。所以现在，我们希望非常谨慎地首次引入无监督自动驾驶，也就是说，车辆在四处行驶，里面没有任何人。嗯，所以我们没有人购买，只有驾驶员。嗯，是的。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "And sometimes no one in it at all. It's going to pick someone up. The cars seems to be incredibly safe. So, we have thousands of cars that are being tested, which is creating some strange situations where we just drive. There's just a bizarre number of Teslas driving past people's houses. They're like, \"What's going on?\" We even saw one last night coming from the airport driving at night alone. Looked very lonely.",
+      "textZh": "而且有时里面完全没人。它要去接某个人。这些车似乎安全得令人难以置信。所以，我们有数千辆车正在接受测试，这造成了一些奇怪的情况，我们就这样开着。有数量多得离谱的Tesla驶过人们的房子。他们会说：“这是怎么回事？”我们甚至昨晚还看到一辆从机场过来的车，在夜里独自行驶。看起来非常孤独。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Yeah, it's looking good for us next month. Yeah. You know, some estimates have been that you're only going to have 10 to 12 of them on the road initially. I mean, it's going to be a very small amount. Is that correct? Yeah. Yeah. How do you see it ramping up?",
+      "textZh": "是的，下个月对我们来说看起来不错。是的。你知道，有些估计认为，你们最初只会有10到12辆上路。我的意思是，数量会非常少。是这样吗？是的。是的。你认为它会如何扩大规模？"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "Well, we'll have to see how well it it does, but you know, I think it's prudent for us to start with a small number, confirm that thing's going well, and then scale it up proportionate to how well we say it's doing, right? And what's going to be a judge of how well it's doing? Are there any incidents? Are there any interventions?",
+      "textZh": "嗯，我们得看看它、它的表现如何，但你知道，我认为谨慎的做法是先从少量开始，确认事情进展顺利，然后根据我们所说的它表现有多好来按比例扩大规模，对吧？那么，要用什么来判断它表现得有多好？有没有任何事故？有没有任何接管？"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "But we want to deliberately take it slow and we start with a,000 or 10,000 on day one, but I don't think that would be prudent. So, we'll start with probably 10 for a week, then increase it to 20, 30, 40. And I think by say, you know, we'll probably be at a thousand within a few months and then we'll expand to other cities. So expand to San Francisco, California, Los Angeles. Is that a real possibility in the not too distant future?",
+      "textZh": "但我们想有意放慢速度，我们第一天就从a,000辆或10,000辆开始，但我认为那并不谨慎。所以，我们可能会先用10辆运行一周，然后增加到20、30、40辆。而且我认为到，比如说，你知道，几个月内我们可能会达到1,000辆，然后我们会扩展到其他城市。所以扩展到旧金山、加利福尼亚州、洛杉矶。这在不太遥远的未来真的有可能吗？"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "I mean, Texas is very different in California when it comes to regulation. They don't really have much here in terms of dealing with autonomous, but it's a different story in California. California has already approved. Way has been doing autonomous driving for a while. Right now, the approval process is very haphazard and sort of state by state and sometimes city by city.",
+      "textZh": "我的意思是，说到监管，得克萨斯州与加利福尼亚州非常不同。他们这里在处理自动驾驶方面实际上没有太多规定，但加利福尼亚州的情况不同。加利福尼亚州已经批准了。Way开展自动驾驶已经有一段时间了。目前，审批流程非常随意，算是各州各自为政，有时甚至各城市各自为政。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "We were talking to the Secretary of Transportation about that very fact a moment ago. It's going to be important to have a unified set of national regulations for self-driving cars. Otherwise, you're going to get into this weird situation where if you're driving from Maine to New York, you're going to go through tens of different sets of regulations. Cars going to be behave differently. It's not going to make any sense. No.",
+      "textZh": "片刻前，我们还在与交通部长谈论这一事实。为自动驾驶汽车制定一套统一的全国性法规将会非常重要。否则，你会陷入这种奇怪的情况：如果你从缅因州开车去纽约，就要经过数十套不同的法规。汽车的表现会有所不同。这完全说不通。不。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "So, so one one set of regulations that just like there is for highway driving that's what I think makes sense for the country as a whole. My prediction is that probably by the end of next year we'll have probably hundreds of thousands if not over a million Teslas doing self-driving in the US.",
+      "textZh": "所以，所以，一、一套法规，就像公路驾驶已有的法规一样，我认为这对整个国家来说是合理的。我的预测是，可能到明年年底，在美国进行自动驾驶的Tesla即便没有超过100万辆，也可能会有数十万辆。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "What percentage of those are going to be well not the cyber cab you're just talking about on full self-driving level four unsupervised full self-driving you do not need to pay attention right for me if I own a Tesla and I have the software and the capability of doing it. Yes. Right. We'll have a model which is kind of like some combination of Uber and Airbnb. So, if you're a Tesla owner, you'll be able to add or subtract your car to the fleet.",
+      "textZh": "其中多大比例会是，嗯，不是你刚才说的Cybercab，而是完全自动驾驶、L4级无监督完全自动驾驶，你不需要留意路况，对吧？对我而言，如果我拥有一辆Tesla，而且我有相应的软件和能力来做到这一点。是的。对。我们会采用一种有点像Uber和Airbnb结合体的模式。所以，如果你是Tesla车主，你将能够把自己的车加入车队或从车队中移除。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "Just like an Airbnb, you could rent out your spare bedroom or rent out your house when you're not using it. And the same thing will be available for Tesla owners. So, it's a way for Tesla owners to earn revenue. Instead of having your car sit in the parking lot, your car could be earning money. We talked, you and I talked about that a couple of years ago. Somewhat ambitious target.",
+      "textZh": "就像Airbnb一样，你可以把空余卧室租出去，或者在不用房子时把房子租出去。同样的选择也会提供给Tesla车主。所以，这是Tesla车主赚取收入的一种方式。你的车不必停在停车场里，而是可以为你赚钱。我们谈过，你和我几年前谈过这件事。一个颇为雄心勃勃的目标。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Why do you have the confidence now that in a year there'll be a million available? Well, in by the end of so 18 months 26. Okay. Yeah. Once you have a proof point, once you have it working, then scaling up is just a matter of time. But once it's working well in Austin, then we'll make sure it works well in other cities. Then there obviously some unique cases like downtown New York, but that's a highly unusual situation.",
+      "textZh": "为什么你现在有信心，认为一年后会有100万辆可用？嗯，到……年底，所以是18个月，26。好的。是的。一旦你有了一个验证点，一旦它能够运行，那么扩大规模就只是时间问题。但一旦它在奥斯汀运行良好，我们就会确保它在其他城市也运行良好。然后显然还会有一些独特情况，比如纽约市中心，但那是一种非常不寻常的情况。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Most cities in America are like Austin. Although you can go on full self-driving right now in New York. I mean, you can obviously you have to sit there behind the wheel, but and it'll do it. Oh, yeah. No, it'll navigate the traffic. I've seen it. Yeah. Even a Tesla that you buy right now and the self-driving just cost $9 a month will give you autonomous driving anywhere in the country right now.",
+      "textZh": "美国的大多数城市都像奥斯汀。尽管你现在可以在纽约使用完全自动驾驶。我的意思是，你显然可以，你必须坐在方向盘后面，但，而且它能做到。哦，是的。不，它会在车流中行驶。我见过。是的。即使是你现在购买的一辆Tesla，而自动驾驶每月只需9美元，也能让你现在在全国任何地方进行自动驾驶。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "The question is when is it unsupervised where you're sitting in the back so to speak. Yes. Where you're like asleep and the car you wake up at your destination. In order for that to be the case, we want the autonomous car to be much safer than a car driven by a person. Right. But you know, again, I'll come to Whimo because even though they only have about 700 cars, they obviously are on the market.",
+      "textZh": "问题在于，什么时候能实现无监督，也就是可以说你坐在后排。是的。你就像睡着了一样，而汽车……你在目的地醒来。为了实现这一点，我们希望自动驾驶汽车比人驾驶的汽车安全得多。对。但你知道，我还是要谈到Whimo，因为尽管他们只有大约700辆车，但他们显然已经进入市场。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "They're in Beverly Hills all over the place right now. It's proof of a concept. They've got 28 cameras. They've got LAR and radar. You've had a different approach. The 8 to9 cameras and the neural network. Why do you feel that that is going to be the equivalent in terms of safety profile? Oh, I think it'll be better. Why? Because the way that the road system is designed is for intelligence, biological neural net and eyes.",
+      "textZh": "它们现在在比佛利山庄到处都是。这是对一个概念的验证。他们有28个摄像头。他们有LAR和雷达。你采用了不同的方法。8到9个摄像头和神经网络。为什么你觉得这在安全性表现方面会达到同等水平？哦，我认为它会更好。为什么？因为道路系统的设计方式，就是为智能、生物神经网络和眼睛设计的。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "That's how the whole road system is designed. So, what will actually work best for the road system is artificial intelligence, digital neural nets, and cameras. And we also have the microphones that hear emergency vehicles and that kind of thing. You need to hear a fire engine or a police car. Yes. Exactly. Right. But that's how the whole road system is designed. It's not designed for shooting lasers out of your eyes.",
+      "textZh": "整个道路系统就是这样设计的。所以，真正最适合道路系统的是人工智能、数字神经网络和摄像头。而且我们还有麦克风，可以听到应急车辆之类的声音。你需要听到消防车或警车。是的。完全正确。对。但整个道路系统就是这样设计的。它并不是为从你的眼睛里射出激光而设计的。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "And what we found is that when you have multiple sensors, they tend to get confused. So do you believe the camera or do you believe LAR? They get confused. That's what can lead to accidents. So we used to have, for example, radar in the car, but we found that the radar and the camera would sometimes disagree and then you don't know which one to believe. So it wasn't about expense. Are you seeing the data? Right.",
+      "textZh": "而且我们发现，当你有多个传感器时，它们往往会产生混淆。那么你是相信摄像头，还是相信LAR？它们会产生混淆。那可能会导致事故。所以，例如，我们过去在车里装有雷达，但我们发现雷达和摄像头有时会出现分歧，然后你就不知道该相信哪一个。所以这不是成本问题。你看到这些数据了吗？对。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "In fact, we turned off the radars in the cars. You turned off the radar. So if I were to say to you, \"All right, let's go.\" You think that you're there in terms of the safety profile you're seeing right now? Yeah, we could take a ride today if you want. Sure. Yeah. Well, I'm happy to take a ride with you anytime you want, wherever you want.",
+      "textZh": "事实上，我们关闭了车里的雷达。你们关闭了雷达。所以，如果我对你说：“好吧，我们走吧。”就你现在看到的安全表现而言，你认为已经达到那个程度了吗？是的，如果你愿意，我们今天就可以去坐一趟。当然。是的。嗯，无论你何时想、想去哪里，我都很乐意和你一起坐一趟。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Logistics capability to operate sort of a ride hailing fleet at scale cuz you mentioned obviously let's call it the end of 26. Are you going to have an app? Are you there? Do you have that ability? I think we could figure out an app. Somebody tells me you're not worried about it. But already has an app. Yeah, I know. X AI can probably do it for you in like an hour just fine. Do you ever consider licensing the technology at some point?",
+      "textZh": "大规模运营某种网约车车队的后勤能力，因为你显然提到了，我们姑且称之为26年年底。你们会有一个应用吗？你们已经准备好了吗？你们有这种能力吗？我觉得我们可以想办法做出一个应用。有人告诉我，你并不担心这件事。但已经有一个应用了。是的，我知道。xAI大概可以在差不多1小时内帮你把它做好。你有没有考虑过在某个时候授权这项技术？"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "Yes, I there are a number of major automakers that have talked to us about licensing self-driving and we're very much open to that. I think the more we demonstrate the capability of self-driving, the more that they will want to license it and we're happy to help. You know, back to the safety profile cuz it's going to obviously be something key focus. I saw this over the weekend. They did a test between Whimo and Tesla.",
+      "textZh": "是的，我，有多家大型汽车制造商和我们谈过授权自动驾驶技术，我们对此非常开放。我认为，我们越能展示自动驾驶的能力，他们就会越想获得授权，而我们很乐意提供帮助。你知道，回到安全表现这个问题，因为它显然会是一个重点。我周末看到了这个。他们在Whimo和Tesla之间做了一项测试。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "It's not a real publication. Regardless of whether we want to have a debate about their journalistic integrity, the test itself, let me just share it with you and get your reaction, which was the Whimo ultimately they said proved better in part only because it avoided with its geo fencing one very difficult intersection that the Tesla chose to go through. It stopped at a red light, but then it went through the red light. What's your reaction?",
+      "textZh": "那不是真正的出版物。不管我们是否想就他们的新闻操守展开辩论，就测试本身而言，让我直接和你分享一下，并听听你的反应。他们最终说，Whimo被证明表现更好，部分原因仅仅是它借助地理围栏避开了一个非常难通过的十字路口，而Tesla选择穿过那个路口。它在红灯前停了下来，但随后又闯过了红灯。你对此有什么反应？"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "Look, I'm not going to comment on some business entire article, but is that a concern at all? because in a way there's no geo fencing. So it's like it's happy to go on the highways in a way that perhaps a Whimo is not. I guess my question is is that a concern at all for you in terms of it encountering things that are still sort of a crucial test and perhaps it fails.",
+      "textZh": "听着，我不会评论某篇商业整篇文章，但这会让你有任何担忧吗？因为从某种意义上说，它没有地理围栏。所以它似乎很乐意上高速公路，而Whimo或许不会这样做。我想我的问题是，就它会遇到一些仍然算是关键考验、而它或许会失败的情况而言，这会让你有任何担忧吗？"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "No, first of all that actually should have been a test of supervised self-driving and not unsupervised self-driving. So the assumption there is that you have a person who is going to take over. So their test made no sense. Okay. But when we deploy the cars in Austin, we are actually going to deploy it not to the entire Austin region, but only the parts of Austin that we consider to be the safest. So we will geoffence it. Yeah, of course. Yeah.",
+      "textZh": "不，首先，那实际上应该是一项受监督自动驾驶测试，而不是无人监督自动驾驶测试。所以那里的假设是会有一个人接管。因此，他们的测试毫无意义。好吧。但当我们在奥斯汀部署这些车辆时，我们实际上不会把它们部署到整个奥斯汀地区，而只会部署在我们认为最安全的区域。所以我们会设置地理围栏。是的，当然。是的。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "It's not going to take intersections unless we are highly confident it'll just take a route around that intersection, but there won't be a safety driver in the car. Correct. Right. The car it won't there's not going to be somebody sitting there. But you did have ads for vehicle operator autopilots. What was that about then? Are there going to be people who are remotely sort of monitoring the performance of the fleet? Yeah. And what will they do?",
+      "textZh": "除非我们有高度信心，否则它不会走那些十字路口，它只会选择一条绕开那个十字路口的路线，但车里不会有安全驾驶员。没错。对。车里不会，不会有人坐在那里。但你们确实发布过招聘车辆操作员自动驾驶员的广告。那么那是做什么的？会不会有人以远程方式监控车队的表现？会。他们会做什么？"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "So, there'll be We're going to be extremely paranoid about the deployment as we should be. It would be foolish not to be. We'll be watching what the cars are doing very carefully. As confidence grows, you know, less that will be needed.",
+      "textZh": "所以，会有……我们将对部署保持极度谨慎，这是我们应该做的。不这样做才是愚蠢的。我们会非常仔细地观察车辆的表现。随着信心增强，你知道，需要的关注就会减少。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "You know, again, you spoke about it and we spoke about it a couple of years ago and obviously your investor base, many of whom are watching right now, are interested in the revenue and profitability of this ride hailing, autopilot, and autonomous driving opportunity. EYD, I believe at this point in China is now offering levels of autonomy for free.",
+      "textZh": "你知道，再说一次，你谈过这件事，我们几年前也谈过，而且很明显，你的投资者群体，其中很多人现在正在观看，都对网约车、自动驾驶和无人驾驶这个机会所带来的收入和盈利能力感兴趣。我认为，EYD目前在中国已经开始免费提供不同级别的自动驾驶。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "I mean, are you confident you're going to be in a position to continue to get a premium for that particular level? Well, interestingly in China, we're not allowed to train on videos in China. So, when we released full self driving, it was actually just trained on the rest of the world, but not in China.",
+      "textZh": "我是说，您有信心继续处于能够凭借那个特定水平获得溢价的位置吗？嗯，有意思的是，在中国，我们不获准使用中国的视频进行训练。所以，当我们发布完全自动驾驶时，它实际上只使用了世界其他地区的数据进行训练，而没有使用中国的数据。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "And the tests by local Chinese publications, I think, concluded that even without training on local Chinese roads, the Tesla self-driving was the best. It was the best. Yes. But again, I mean, is the technology some pretty wild videos where people are like doing self-driving, which we don't recommend obviously on like narrow mountain roads, including one where it's there's a sharp precipice on either side and no barriers.",
+      "textZh": "而且我认为，中国当地出版物的测试得出的结论是，即使没有在中国当地道路上进行训练，Tesla的自动驾驶仍然是最好的。它是最好的。是的。但话说回来，我是说，这项技术……有一些相当疯狂的视频，人们像是在使用自动驾驶，我们显然不建议在，比如狭窄的山路上这样做，其中有一个视频里，道路两侧都是陡峭的悬崖，而且没有护栏。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "Are you uh regulated to have full Where are you in China right now in terms of your ability to offer that product though? Understood. Unsupervised. We have supervised post for self-driving where there's a person in the car.",
+      "textZh": "你们是否受到，呃，监管，可以拥有完整的……不过，就你们目前在中国提供该产品的能力而言，进展到哪里了？明白了。无人监督。我们为自动驾驶提供受监督的岗位，车里会有一个人。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "He has approval in China but whenever we release a new version we have to get an incremental approval and at times we do have to battle other car companies in China who are trying to stop us from it's incredibly competitive market. China is the most competitive market and the extent BYD which is neck and neck with you I think in the EV race I think it's fair to say worldwide correct I don't really follow that. Well, they're willing.",
+      "textZh": "他在中国已获得批准，但每当我们发布新版本时，都必须获得增量批准，而且有时我们确实不得不与中国其他试图阻止我们的汽车公司交锋，这是一个竞争极其激烈的市场。中国是竞争最激烈的市场，而在电动汽车竞赛中，BYD与你们不相上下，我认为可以说是在全球范围内，对吗？我其实不太关注那个。嗯，他们愿意。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Again, my question is they're willing to seemingly offer different levels of autonomy for I don't want to call it free, but it I don't really think about competitors. I just think about making the product as perfect as possible. You don't think about competitors at all? No, I just think about making what we want to achieve is the platonic ideal of the perfect product. And as long as you focus on that, you will have a compelling product obviously.",
+      "textZh": "再说一次，我的问题是，他们似乎愿意提供不同程度的自主性，因为我不想称之为免费，但我其实不太考虑竞争对手。我只想着尽可能把产品做到完美。你完全不考虑竞争对手吗？不，我只想着，我们想实现的是完美产品的柏拉图式理想。只要你专注于此，显然就会拥有一款有吸引力的产品。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "All right. Well, there's a potentially compelling product right behind you, which is a robo taxi. So when are we, you know, is in 5 years are they going to be all over the place? Yes, they will. You're confident in that? Yeah. Talking about Tesla obviously, you know, takes me to a certain extent to what some would say is the brand damage done by your government service. I don't know if you would agree with that.",
+      "textZh": "好吧。你身后就有一款可能很有吸引力的产品，也就是自动驾驶出租车。那么我们什么时候会，你知道，5年后它们会遍布各地吗？是的，会的。你对此有信心？是的。谈到Tesla，显然，你知道，这在一定程度上让我想到，有些人会说，你的政府服务对品牌造成了损害。我不知道你是否同意这种说法。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "There have been some pros and cons. You know, we sat here 2 years ago upstairs and you famously said when I asked you about this very subject, I don't care. I'm going to say what I want to say and so be it. Do you regret that? No. Why not? I believe that we want to live in a free society where people are allowed to say what they want to say within reasonable bounds.",
+      "textZh": "这有利有弊。你知道，2年前我们坐在这里楼上，我问你这个话题时，你曾有一句名言：我不在乎。我想说什么就说什么，后果就这样。你后悔吗？不后悔。为什么不？我相信我们希望生活在一个自由社会里，人们可以在合理界限内说自己想说的话。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Like, you know, you can't advocate for the murder of somebody, but free speech is the bedrock of a functioning democracy. That's why it's the first amendment. Without a doubt. But I guess my question is more about your work at Doge, for example. Was that worth it? You know, to the extent you are now, Elon, you were a somewhat divisive figure two years ago, but now you really are.",
+      "textZh": "比如，你知道，你不能鼓吹谋杀某个人，但言论自由是正常运转的民主制度的基石。这就是为什么它是第一修正案。毫无疑问。但我想我的问题更多是关于你在Doge所做的工作，比如说。值得吗？你知道，就你现在的情况而言，埃隆，2年前你还是一个多少有些引发分歧的人物，但现在你确实是了。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "I mean, there are people who love you, but there are a lot of people who dislike you, some of whom were your customers. And I wonder, was it worth the undertaking at Doge and everything else that you've done and how outspoken you've been in terms of the things you believe in to antagonize so many potential buyers andor users of things like a root.",
+      "textZh": "我的意思是，有些人爱你，但也有很多人不喜欢你，其中一些人曾是你的客户。我想知道，在Doge承担的工作以及你所做的其他一切，还有你如此直言不讳地表达自己相信的事情，以至于激怒如此多潜在买家和/或像一根这样的东西的用户，这值得吗？"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Unfortunately, what I've learned is that legacy media propaganda is very effective at making people believe things that aren't true. An example of that being that I'm a Nazi and how many legacy media publications, talk shows, whatever, try to claim that I was a Nazi because of some random hand gesture at a rally where all I said was that my heart goes out to you and I was talking about space travel.",
+      "textZh": "不幸的是，我了解到，传统媒体的宣传在让人们相信不真实的事情方面非常有效。一个例子就是，说我是纳粹，以及有多少传统媒体出版物、脱口秀节目或其他什么，试图宣称我是纳粹，原因是我在一场集会上做了某个随意的手势，而我说的全部内容只是我的心与你们同在，并且我当时谈的是太空旅行。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "And yet the legacy media promoted that as though that was a deliberate Nazi gesture when in fact every politician, any public speaker who's spoken for any length of time has made the exact same gesture. And yet there's still people out there and I've never harmed a single person. You know what, Elon? I was you asked for an example.",
+      "textZh": "然而传统媒体却把它宣传成一个刻意的纳粹手势，而事实上，每一位政治人物、任何讲过一段时间话的公共演说者，都做过完全相同的手势。然而外面仍然有人这样认为，而且我从未伤害过任何一个人。你知道吗，埃隆？我是——你要求举个例子。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "I wasn't even going to talk to you about it cuz in fact I number of people who are close to you and I called them afterwards and all of them to a person were like no way no way of course not but that isn't necessarily the perception the work you've done for Doge has also come obviously into the spotlight in a great deal and you know people are upset about USA ID being put into the wood chipper people are upset about America disappearing people are upset about and this isn't even on your side the NIH and so many other areas that they feel rightly or wrongly are being cut as a result of your efforts and I just I guess I wonder as you start to transition now back to Tesla in a more significant way.",
+      "textZh": "我本来甚至不打算和你谈这件事，因为事实上，我认识一些和你关系密切的人，事后我给他们打了电话，他们每个人都说，绝不可能，绝不可能，当然不是，但这未必就是人们的看法。你为Doge所做的工作显然也受到了极大关注，而且，你知道，人们对于USA ID被扔进碎木机感到不满，人们对于美国正在消失感到不满，人们还对——这甚至不是站在你这一边——NIH以及许多其他领域感到不满，他们觉得，无论对错，这些领域都因你的努力而遭到削减，而我只是，我想我想知道，随着你现在开始以更大程度转回Tesla。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Any program in US ID that had any semblance of merit was retained and folded into the State Department. So, and if there's some exception to that, we're all ears and we'd love to look at it. We just want to see the evidence that the program was actually doing good and not just funding grafted DC and warlords in in some country. Over and over again, we saw not sympathetic sounding programs, right?",
+      "textZh": "US ID中任何稍有价值的项目都得到了保留，并被并入国务院。所以，如果其中存在某些例外，我们愿意听取，也很愿意查看。我们只是想看到证据，证明该项目确实在做好事，而不只是在资助被嫁接的华盛顿特区和某个国家的军阀。我们一再看到那些听起来并不令人同情的项目，对吧？"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "But when we actually said, \"Well, please show us show us pictures of of the recipients of of the aid. We just or let us get into contact with them.\" No pictures were forthcoming. They didn't give us any contact information. And we're like, \"Look, we're not going to send money to DC crafters and warlords. That's not a good use of money.\" So, that's not what we're going to do.",
+      "textZh": "但当我们真的说：“那么，请给我们看看，给我们看看援助接收者的照片。我们只是——或者让我们与他们取得联系。”没有任何照片被提供。他们也没有给我们任何联系信息。然后我们就说：“听着，我们不会把钱寄给华盛顿特区的工匠和军阀。那不是对资金的良好使用。”所以，那不是我们要做的事。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Now, invariably, when you stop waste and fraud, it's not like the fraudsters admit their guilt. They don't say like, \"Oh, isn't it so great that the money we were getting, fortunately, has been stopped.\" They will obviously come up with a sympathetic sounding claim. That claim has no merit.",
+      "textZh": "那么，无一例外，当你制止浪费和欺诈时，欺诈者并不会承认自己的罪责。他们不会说：“哦，我们拿到的钱幸好被停止了，这不是太棒了吗。”他们显然会提出一种听起来令人同情的说法。那种说法毫无根据。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "I guess what I would come back to, cuz I talk about economics all day long, is, you know, we, to your point you've been making, we have a deficit that's running at about 6. 7% of GDP, right? We have interest costs that are going to be above a trillion. It's not going down next year. You entered this thinking you could cut as much as a trillion dollars. You're nowhere near that. It's not really making the dent.",
+      "textZh": "我想我要回到这一点，因为我整天都在谈经济，也就是，你知道，正如你一直指出的，我们的赤字约为GDP的6. 7%，对吧？我们的利息成本将超过1万亿。明年不会下降。你开始做这件事时，以为自己最多可以削减1万亿美元。你远未达到这个数字。这并没有真正产生显著影响。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "I think you may have thought you might have been able to achieve in terms of a true problem. Would you agree? Well, first of all, it would obviously be ridiculous to assume that we'd achieve that on day one. So, it's only been what, 4 months? Yeah. And we've done by our calculations improved the deficit by $160 billion. That's our, you know, that's your number that's out there.",
+      "textZh": "我认为，就一个真正的问题而言，你可能曾以为自己或许能够实现。你同意吗？嗯，首先，如果认为我们能在第一天就实现这一点，显然会很荒谬。所以，才过了多久，4个月？是的。根据我们的计算，我们已经让赤字改善了1600亿美元。这是我们的，你知道，那是你们公开的数字。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "A lot of people take issue with it and say, well, you know, taxpayers expenses such as paid leave, that's 135 billion. That's got to come back. IRS collection may go down as a result of cuts. There we ask rock. It said between five and 32 billion is what you've actually said. You need to ask the right question to ask is what is the the bet for the actions of Doge, right? What would the incremental expenditures be in FY26? Yep.",
+      "textZh": "很多人对此提出异议，说，嗯，你知道，纳税人的开支，比如带薪休假，那是1350亿。那笔钱必须恢复。由于削减，IRS的征收额可能会下降。我们在那里问了石头。它说，你们实际所说的数字在50亿至320亿之间。你需要问的正确问题是，Doge行动的押注是什么，对吧？2026财年的增量支出会是多少？对。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "Because for example offered early we offered severance and early retirement to a lot of government employees. Many of them took us up on that. That severance went all the way through to September. Yeah. Uh so there's not going to be any savings until October, right? Because the severance goes through September. So the the delta really is what is the spending difference FY25 versus FY26 as a function of DOA's actions.",
+      "textZh": "因为比如说，我们之前提供了——我们向许多政府雇员提供了遣散方案和提前退休。很多人接受了我们的提议。遣散待遇一直持续到9月。是的。呃，所以要到10月才会产生任何节省，对吧？因为遣散待遇会持续到9月。所以真正的差值是，作为DOA行动的函数，2025财年与2026财年的支出差异是多少。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "That's how we calculate the number. And we'll see if that turns out to be true or not. I mean by changing the retirement age or really going after some other parts of the budget. We try to go after every part of the budget. Some parts more boring than others. You're about efficiency. I mean that would take an act of Congress obviously to really make change.",
+      "textZh": "我们就是这样计算这个数字的。至于结果是否确实如此，我们拭目以待。我的意思是，通过改变退休年龄，或者真正着手处理预算的其他一些部分。我们努力处理预算的每一个部分。有些部分比其他部分更无聊。你关心的是效率。我的意思是，显然，要真正做出改变，需要国会通过法案。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "We first of all so I think in our opinion we've created $160 billion delta FY25 to FY26 very significant that's 16% of the way towards a trillion in 5 months and in order to make progress we need the consent obviously of not just the executive branch but also the legislative branch and the judicial branch. So if we you know and we are advisers we are not we're not kings here. I get it.",
+      "textZh": "我们首先，所以我认为，在我们看来，我们已经在2025财年至2026财年之间创造了1600亿美元的差值，非常可观，那是在5个月内朝着1万亿目标走完了16%，而为了取得进展，显然，我们不仅需要行政部门的同意，也需要立法部门和司法部门的同意。所以，如果我们，你知道，而且我们是顾问，我们不是——我们在这里不是国王。我明白。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "So why are you attacking this given that we've made so much progress? You mean the wheat, not me? I'm not attacking. I'm just asking questions. In fact, I want to ask a lot more about Tesla. I do want to talk about Tesla. I mean, I was talking about brand damage and what you're seeing in the market. You did an interview earlier this morning where you seem to indicate you're starting to see a rebound. Yes.",
+      "textZh": "既然我们取得了这么大进展，你为什么还要抨击这件事？你是说“小麦”，不是我？我不是在抨击。我只是在提问。事实上，我还想问很多关于Tesla的问题。我确实想谈谈Tesla。我的意思是，我当时谈的是品牌损害，以及你在市场中看到的情况。你今天早些时候接受了一次采访，当时你似乎表示，你开始看到反弹。是的。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "You know, automotive revenue was down 20% last quarter. I think 50,000 fewer units were sold in the Q1 versus Q1 a year ago. What is giving you confidence in the automotive business or is it all about robo taxis as you've been saying and people can't quite see them behind me the robots as well? Really the only things that matter in the long term are autonomy and optimism.",
+      "textZh": "你知道，上个季度汽车业务收入下降了20%。我想，与一年前的第一季度相比，第一季度少卖了50,000辆。是什么让你对汽车业务有信心，还是说一切都关乎你一直在说的机器人出租车，以及人们在我身后不太看得见的那些机器人？从长期来看，真正重要的只有自动驾驶和乐观主义。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Those overwhelmingly dominate the future of financial success of the company. As for Q1, we had a global factory changeover for the Model Y. So there's a new version of the Model Y that came out which required factory shutdown across the world. Model Y is the number one selling car of any kind on earth. I watched your presentation during your last right here. I think it's number one selling car in the world.",
+      "textZh": "它们将压倒性地主导公司未来的财务成功。至于第一季度，我们在全球范围内进行了Model Y工厂换型。因此，推出了一个新版本的Model Y，这需要关闭世界各地的工厂。Model Y是地球上所有类型汽车中销量第一的车型。我就在这里看了你上次的演示。我想它是全球销量第一的汽车。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "So, you know, we we can't we haven't made cars if the factories are retooling. So, the right time to retool is the first quarter since generally that's when the least demand occurs. But we've seen us a major rebound in demand at this point. I feel comfortable. Major rebound in demand. Really believe you have seen that. Yeah, absolutely.",
+      "textZh": "所以，你知道，如果工厂正在进行设备改造，我们就没法，我们就没有生产汽车。因此，第一季度是进行设备改造的合适时间，因为通常那是需求最低的时候。但目前我们已经看到需求大幅反弹。我觉得可以放心了。需求大幅反弹。你真的相信你已经看到了。是的，绝对如此。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "I mean look the for most people when you buy a product how much do you care about the political views of the CEO or do even know what they are your goal you've also said is to produce a million robots I think by 2030 that's what I had you on the record as saying I think that's a reasonable target and then start towards sustainable abundance which you can get into but you know I wonder we've been talking about autonomous and how long it takes to train the automobile to be able to exceed human capabilities but what about these robots to the extent that how much training are they going to need to actually be able to do various different types of tasks.",
+      "textZh": "我的意思是，你看，对大多数人来说，当你购买一种产品时，你有多在意首席执行官的政治观点，或者你甚至知道他们的观点是什么吗？你的目标——你也说过——是到2030年生产100万个机器人，我想我记录中你是这么说的。我认为这是一个合理的目标，然后开始迈向可持续的富足，这一点你可以展开说说。但你知道，我想知道，我们一直在讨论自动驾驶，以及要训练汽车具备超越人类的能力需要多长时间，可这些机器人呢？它们究竟需要多少训练，才能真正执行各种不同类型的任务？"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Is that long time? Uh yeah, it's it's going to take a lot of compute resources. Um and it'll take time.",
+      "textZh": "那需要很长时间吗？呃，是的，这将需要大量计算资源。嗯，也需要时间。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "I think there there's certain uh threshold breakthroughs that we think we can achieve uh where if um if optimists can can watch videos uh you know YouTube videos or how-to videos or whatever and based on that video just like a human can uh learn how to do that thing then you you really have uh task extensibility that is dramatic cuz then it it can learn anything very quickly. Um so I think we'll get there in the next we're not there yet.",
+      "textZh": "我认为，有一些我们认为能够实现的、呃、门槛式突破。比如，如果，嗯，如果乐观主义者能够观看视频，呃，你知道，YouTube视频、教学视频或其他任何视频，并且像人类一样，仅根据那段视频，呃，学会如何做那件事，那么你就真正拥有了显著的任务扩展能力，因为这样它就可以非常迅速地学会任何事情。嗯，所以我认为我们会在接下来达到那一步，我们目前还没达到。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "relying on a significant uptick in terms of learning and training. Yeah. I know that's why I'm calling it a very significant threshold would be the ability to learn from watching a video just so right. Uh but at the point as opposed to watching a human, right, which is or having a human sort of train it right now.",
+      "textZh": "依赖于学习和训练方面的大幅提升。是的。我知道，所以我才把它称为一个非常重要的门槛，也就是仅通过观看视频来学习的能力，就这样，对吧。呃，但在那一点上，与观看人类相比，对吧，也就是或者让人类像现在这样以某种方式训练它。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "I mean, right now we're training optimists to do like primitive tasks where a human in a kind of a what's called a mocap suit uh and and sort of cameras on the head is moving in the way that the robot would move to say pick up an object or open a door the basic tasks throw a ball dance and uh I think that's needed to sort of bootstrap the intelligence so you can have the basic functions.",
+      "textZh": "我的意思是，现在我们正在训练乐观主义者执行一些初级任务：一个人穿着一种所谓的动作捕捉服，呃，头上也有摄像头，以机器人会采用的方式移动，比如拿起一个物体或打开一扇门这些基本任务、扔球、跳舞，而，呃，我认为这是以某种方式启动智能所必需的，这样你才能具备基本功能。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "Then where I think it gets very interesting and very much like humans is that you want the robot to selfplay. So you say how does a child learn? Well, a child has toys and a child plays with the toys, plays with the blocks, you know, at some point figures how to put the triangle in the triangle hole and the circle in the circle hole by doing it over and over again.",
+      "textZh": "然后，我认为事情变得非常有趣、也非常像人类的地方在于，你希望机器人进行自我博弈。所以你会说，孩子是怎么学习的？嗯，孩子有玩具，孩子会玩这些玩具、玩积木，你知道，到某个时候，通过一遍又一遍地尝试，弄明白如何把三角形放进三角形的孔里，把圆形放进圆形的孔里。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "And this selfplay, once you have a lot of robots, you can do this selfplay, which is that you just put the robot in a room with toys and have the robot play with toys and it will learn. Yeah.",
+      "textZh": "而这种自我博弈，一旦你拥有很多机器人，就可以进行这种自我博弈，也就是你只要把机器人和玩具放进一个房间，让机器人玩玩具，它就会学习。是的。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "And we have a reward function say like okay the goal of the robot is to put you know that classic child to you put the circle in the circle hole the square square or triangle triangle hole and keep doing it until it works and the reward function is succeeding and there are no advances needed to accomplish that. No advances in AI or compute and things of that nature that can happen.",
+      "textZh": "而且我们有一个奖励函数，比如说，好吧，机器人的目标就是把，你知道，那种经典的儿童玩具，你把圆形放进圆形孔里、正方形放进正方形孔里，或者三角形放进三角形孔里，并且不断尝试，直到成功，而奖励函数就是成功；要做到这一点不需要任何进步。不需要人工智能或计算方面以及类似性质事物的任何进步，这可以实现。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "Uh there are some advances needed but I don't think these are insurmountable. I think we can solve these things in the next few years. Okay. So, at that time when millions of these things are coming off of a line like we just, you know, saw with cars, they're going to be fully autonomous.",
+      "textZh": "呃，确实需要一些进步，但我认为这些并非不可克服。我认为我们可以在未来几年内解决这些问题。好的。那么，到那时，当数百万个这样的东西像我们刚才，你知道，在汽车那里看到的那样从生产线上下来时，它们将是完全自主的。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "They're going to come off and they're I mean, the way you've described it, they're going to be able to come in my house and I'm going to be able to say, \"All right, do the dishes. Now, I need you to walk the dog.\" Absolutely. Hold the baby. In fact, you really won't even need to. It'll figure out what you probably want and do what you probably want without you even having to ask. Um, how many GPUs are you going to need for that?",
+      "textZh": "它们会从生产线上下来，而且它们——我的意思是，按照你的描述，它们将能够进入我家，而我可以说：“好吧，把碗洗了。现在，我需要你去遛狗。”当然。抱着婴儿。事实上，你真的甚至不需要这么做。它会弄清楚你可能想要什么，并且在你甚至不必开口要求的情况下，做你可能想让它做的事。嗯，为此你需要多少个GPU？"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "Well, quite a few GPUs. Uh we do have our own program called dojo for training uh which I think will be helpful. It's contributing about 5% towards self-driving right. Yeah. Is that the one in New York? In New York State. Yeah. Yeah. It's in New York. So uh but we expect to still buy a lot of GPUs from Nvidia. Um some from AMD and maybe from others. And uh as long as Nvidia is better than what we make, we'll keep buying from Nvidia.",
+      "textZh": "嗯，相当多的GPU。呃，我们确实有自己的一个名为Dojo的训练项目，呃，我认为这会有所帮助。它目前为自动驾驶贡献了大约5%，对吧。是的。是在纽约的那个吗？纽约州。是的。是的。它在纽约。所以，呃，但我们预计仍会从Nvidia购买大量GPU。嗯，也会从AMD购买一些，或许还会从其他公司购买。而且，呃，只要Nvidia的产品比我们自己制造的更好，我们就会继续从Nvidia购买。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Is that the case right now? It is. Yeah. I mean you're obviously buying for XAI the Memphis big time, right? Yeah.",
+      "textZh": "目前是这样吗？是的。是的。我的意思是，你显然在为xAI大举采购，用于孟菲斯，对吧？是的。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "X XAI is building the most powerful well I think we have the most powerful training cluster in the world right now uh which is over 200,000 GPUs uh training coherently you're at 200,000 already now there in Memphis that facility that Okay yes where are you going and um the uh will be at the million GPU level uh in um the location just near Memphis a million GPUs for a new location or 800,000 additional GPUs a million of the next generation GPUs So the blackwell uh well yeah wait are you building that now?",
+      "textZh": "X XAI正在建设最强大的——嗯，我认为我们现在拥有世界上最强大的训练集群，呃，其中有超过200,000个GPU，呃，协同进行训练。你们现在已经达到200,000个了，就在孟菲斯的那个设施，那个——好的，是的，你们接下来要去哪里？而且，嗯，呃，在靠近孟菲斯的地点将达到100万个GPU的规模。100万个GPU，是用于一个新地点，还是另外增加800,000个GPU？100万个下一代GPU。所以是Blackwell，呃，是的，等等，你们现在正在建吗？"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Yeah. How are you powering? It's it's a gigawatt class uh system. Yeah you do naturally. It is a hard problem which is the hard problem finding the power getting a gigawatt online. Yeah. Um and actually having the gigawatt of power be reliable cuz you get like power fluctuations in the grid and that what whatnot.",
+      "textZh": "是的。你们怎么供电？这是一个吉瓦级系统。是的，你自然会这么做。这是一个难题，难题在于寻找电力，让1吉瓦电力接入。是的。嗯，而且还要让这1吉瓦的电力保持可靠，因为电网中会出现电力波动之类的情况。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "Um so we're using actually I just posted something online today which is uh a whole bunch of Tesla mega packs batteries that are important for power conditioning the grid. Um, so the GPUs do not like power fluctuations. Um, they're like they like a power steady. Um, so and and then if there sometimes there's slight brown outs or if there's a blackout, you want to have be able to carry through that like an uninterruptible power supply.",
+      "textZh": "嗯，所以我们正在使用——实际上我今天刚在网上发布了一些东西——也就是一大批Tesla Megapack电池，它们对于调节电网电力非常重要。嗯，GPU不喜欢电力波动。嗯，它们喜欢——它们喜欢稳定的电力。嗯，所以，然后如果有时出现轻微的电压不足，或者发生停电，你希望能够像不间断电源那样维持运行、挺过那段时间。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "So we got a lot of mega packs there to support that. It'll be the first gigawatt class training cluster in the world. Uh, and the most powerful training. When's that going to be done? Hopefully in about 6 months, maybe 9 months. Mhm. And that's largely powering Grock. Yes. Yeah. It's just power and drive, right? Which continues to advance. I mean, I use it frequently. Yeah.",
+      "textZh": "所以我们在那里部署了很多Megapack来提供支持。它将成为世界上首个吉瓦级训练集群。呃，也是最强大的训练。什么时候能完工？希望大约6个月，也许9个月。嗯哼。而那主要是为Grock提供算力。是的。是的。就是动力和驱动，对吧？它还在继续进步。我的意思是，我经常使用它。是的。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "Um I saw you using that on the Joe, was it with Rogan when you were using that mode? What is that mode where it's all sassy and curses all the time? Well, this I mean, if you want to have fun at parties, uh Gro unhinged mode is pretty funny. Yeah, it's next level. Is power going to be the gaining issue for our ability to continue to advance in AI?",
+      "textZh": "嗯，我看到你在Joe那个节目上使用它了，是和Rogan一起时使用了那个模式吗？那个一直很毒舌、一直说脏话的模式叫什么？嗯，这个，我的意思是，如果你想在聚会上找乐子，呃，Gro的失控模式非常有趣。是的，那更上一层楼。电力会成为我们继续推进人工智能能力的日益严重的问题吗？"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "Yeah, I think we're I mean a few years ago I made a very obvious prediction which is that the limitation on AI will be chips um and it's still chips kind of chips today. Uh then it will be electrical equipment uh for the because you need to take power at that might be at 300,000 volts all the way down to 400 volts for the for the computer.",
+      "textZh": "是的，我认为我们——我的意思是，几年前我做过一个非常显而易见的预测，那就是人工智能的限制因素将是芯片，嗯，而如今在某种程度上仍然是芯片。呃，然后会是电气设备，呃，因为你需要把可能处于300,000伏的电力一路降到供计算机使用的400伏。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "Um so it needs you need step down transformers and uh a lot of them and a lot of you know cabling and wiring and fuses and really uh you know it's a it's a lot a lot of transformers essentially and the the the electrical transformer industry is not used to big changes in demand. No there's a shortage of transformer literally shortage of transformers and then funny enough the AI algorithm is called a transformer.",
+      "textZh": "嗯，所以它需要——你需要降压变压器，而且需要很多台，还需要大量的，你知道，电缆、布线和保险丝，实际上，呃，你知道，这就是——本质上需要很多很多变压器，而电力变压器行业不习惯需求发生巨大变化。不，变压器存在短缺，确确实实缺少变压器，而有趣的是，人工智能算法也叫Transformer。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "Um and then our Optimus robot is named after Octopus Prime that's a transformer robot. It's a lot. So we have transformers for transformers. Right. Right. But it's the one transformer is the one in shortage that the others need. And then as we solve the transformer shortage, there will be the fundamental electricity generation shortage. And are we there yet or are we going to be there soon? We're getting there soon.",
+      "textZh": "嗯，然后我们的Optimus机器人是以Octopus Prime命名的，那是一个Transformer机器人。太多了。所以我们有供Transformer使用的变压器。对。对。但短缺的是其中一种变压器，而其他的需要它。然后，当我们解决变压器短缺问题后，就会出现根本性的发电量短缺。我们已经到那一步了吗，还是很快就会到？我们很快就会到。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "My guess is people will start hitting challenges with power generation maybe by middle of next year, end of next year, even with deregulation and effort being made to perhaps move permits along more quickly. So like how many power plants are getting built and how fast can you build a power plant? Right. Right. China seems to be building them pretty quickly. Oh, China has so many power plants uh that have been built and are being built.",
+      "textZh": "我猜，人们可能会在明年年中或明年年底开始遇到发电方面的挑战，即使放松监管，并努力推动许可流程加快，也还是如此。那么，比如说，有多少座发电厂正在建设，建一座发电厂能有多快？对。对。中国似乎建得相当快。哦，中国有非常多已经建成和正在建设的发电厂，呃。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "I don't think people quite realize this. I posted on my X account just the graph of US power generation versus China power generation. China power generation is like a rocket going orbit and US power generation is flat, right? Um, so I think by the end of this year, China will have about two and a half times the power output of the United States and it's headed towards uh maybe three or four times the power of the United States.",
+      "textZh": "我觉得人们并没有完全意识到这一点。我在自己的 X 账号上发了一张美国发电量与中国发电量对比的图。中国的发电量就像火箭进入轨道一样，而美国的发电量是平的，对吧？嗯，所以我认为，到今年年底，中国的电力产出将约为美国的2.5倍，而且正朝着，呃，也许是美国的3倍或4倍发展。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "It's funny when I think about China. I mean EVs, autonomous, we talked about batteries, solar, power generation, by the way, even biotechnology recently. I don't know if you saw Fizer's licensing cancer drugs. Are they ahead of us in certain areas that are important? Um, the United States still has an advantage in uh breakthrough innovation.",
+      "textZh": "我想到中国时觉得很有意思。我的意思是，电动汽车、自动驾驶，我们谈过的电池、太阳能、发电，顺便说一句，甚至还有最近的生物技术。我不知道你有没有看到 Fizer 正在授权癌症药物。他们是否在某些重要领域领先于我们？嗯，美国在，呃，突破性创新方面仍然具有优势。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "uh but uh and I think it's somewhat of a cultural thing um which is that to have breakthrough innovation you have to question authority um that fundamentally your breakthrough you're you're questioning the conventional wisdom um when you do a breakthrough innovation right um in China that they don't generally like to question the authority or that's not as encouraged as it is in the US so you seem to be good at finding something and then making it better yeah I do want to emphasize that the sheer number of smart talented people in China who work very hard is amazing.",
+      "textZh": "呃，但是，呃，我认为这在某种程度上是文化问题，嗯，也就是说，要实现突破性创新，你必须质疑权威，嗯，从根本上说，你的突破就是，你是在质疑传统观念，嗯，当你进行突破性创新时，对吧，嗯，在中国，他们通常不喜欢质疑权威，或者说这不像在美国那样受到鼓励，所以你们似乎很擅长找到某样东西，然后把它做得更好。是的，我确实想强调，中国那些非常努力工作的聪明、有才华的人，其庞大数量令人惊叹。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "The amount of talent I mean I'm an admirer of of China's capabilities. I think most people outside of China do not understand the power of China. It really is something special. Yeah. Um you know in the time we have left I would like to sort of keep the focus on XAI. First of all, you know, you spoke earlier about wanting more control at Tesla. Would you ever consider merging XAI into Tesla?",
+      "textZh": "人才的数量，我的意思是，我很钦佩中国的能力。我认为中国以外的大多数人并不了解中国的力量。这确实很特别。是的。嗯，你知道，在我们剩下的时间里，我想把重点继续放在 xAI 上。首先，你知道，你之前谈到希望在 Tesla 拥有更多控制权。你会不会考虑把 xAI 并入 Tesla？"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "would be a way obviously they could issue shares to you and conceivably would increase your overall economics. Is that a possibility? Well, I guess anything's possible, but it would be difficult to speculate about something. You know, Tesla's a publicly traded stock. I would think to get a majority of the minority vote or whatever you might need might be not easy. Um, yeah.",
+      "textZh": "显然，这会是一种他们可以向你发行股票的方式，并且可以想见会增加你的整体经济利益。这有可能吗？嗯，我想任何事都有可能，但很难对某件事进行推测。你知道，Tesla 是一家上市公司。我想，要获得少数股东多数票，或者不管你可能需要什么，可能并不容易。嗯，是的。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "Um, it's not out of the question, but that would have to be something that the Tesla shareholders would want to vote for. Understood. So, but it's not something you're thinking about doing. It's not currently there. There are no plans to do so, right? It's not out of the question, but obviously would require Tesla shareholder support for that. Another way you could obviously increase your control would be to get that comp plan passed in Delaware.",
+      "textZh": "嗯，这并非不可能，但那必须是Tesla股东愿意投票支持的事情。明白。所以，但这不是你正在考虑做的事情。目前没有这回事。没有这样做的计划，对吧？这并非不可能，但显然需要Tesla股东对此予以支持。另一个显然能让你增强控制权的办法，就是让那项薪酬方案在特拉华州获得通过。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "Um or through the Delaware Supreme Court or a new one. You haven't been paid, I believe, since 2018. Yeah. Where are you? Where are you on? 7 years with zero faith. You know, although to be fair, if it goes through, you're going to have an enormous payday. It'll be fine. It'll be more money than anybody's ever made. I Yeah, I suppose so.",
+      "textZh": "嗯，或者通过特拉华州最高法院，或者制定一项新方案。我相信你自2018年以来一直没有拿到薪酬。是的。你到哪一步了？你在这件事上到哪一步了？7年零信念。你知道，不过公平地说，如果它通过，你将拿到一笔巨额报酬。会没事的。那会比任何人有史以来赚到的钱都多。我，是的，我想是吧。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "But I mean, let's just say that if any CEO of the Fortune 500 were to agree to a plan like the one that I agreed to, you should buy the stock of that company immediately. Um, no, I remembered at the time to be fair, the targets were so far above where the stock was and obviously they were met. Yes.",
+      "textZh": "但我的意思是，这么说吧，如果《财富》500强中任何一家公司的CEO愿意接受一项像我所接受的那种方案，你都应该立即买入那家公司的股票。嗯，不，公平地说，我记得当时那些目标远远高于当时的股价，而显然它们都实现了。是的。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "Is the board working to your knowledge on another potential plan if in fact the one never gets out of Delaware, the Supreme Court rules against the chancellor's ruling? I mean, I don't want to speak on behalf of the board, but you know, I'm sure it's on their mind, but you know, this I can't comment on terms of board deliberations. Um, you said earlier, I mean, you want to stay as CEO.",
+      "textZh": "据你所知，董事会是否正在研究另一项潜在方案，以防那项方案实际上始终无法走出特拉华州，最高法院裁定反对那位衡平法院法官的判决？我的意思是，我不想代表董事会发言，但你知道，我确信他们心里正在考虑这件事，但你知道，就董事会审议的内容而言，我无法置评。嗯，你之前说过，我的意思是，你想继续担任CEO。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "Why not, you know, I've wondered, Eli, given all the heat you've gotten in a lot of ways. Why not sort of become like an Ellisonlike figure at Tesla? Obviously, you're a lot younger, but still, he's very influential at Oracle, but, you know, he's not CEO and he doesn't get the attention, at least not entitled. I think maybe a better term for I'm a huge fan of Larry Elsa, good friend of mine. Um, owner.",
+      "textZh": "为什么不呢，你知道，伊莱，考虑到你以很多方式承受的所有抨击，我一直在想。为什么不在Tesla成为某种像埃里森那样的人物？显然，你年轻得多，但尽管如此，他在甲骨文仍然很有影响力，可是，你知道，他不是CEO，也没有受到那种关注，至少没有被冠以头衔。我觉得也许更恰当的说法是，我是拉里·埃尔莎的超级粉丝，他是我的好朋友。嗯，所有者。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Owner, I think, would be he's the owner of Oracle. Yes, he is. And he has a lot of it. Finally, I want to So, the CEO, he's just the owner. Owner. Yeah. It's a big percentage, a lot higher than yours actually at Tesla. Yes. An impressive percentage at Oracle. Um, finally, I want to I mean, so many things we haven't gotten to, but we're trying to keep to your time. Are we ready for the changes that AI is going to bring to this society?",
+      "textZh": "所有者，我想应该这么说，他是甲骨文的所有者。是的，他是。而且他持有很多。最后，我想要，所以，CEO，他只是所有者。所有者。是的。占比很大，实际上比你在Tesla的占比高很多。是的。在甲骨文的持股比例令人印象深刻。嗯，最后，我想要，我的意思是，还有很多事情我们没谈到，但我们正努力不超出你的时间。我们准备好迎接AI将给这个社会带来的变化了吗？"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "Uh, you know, I try and my job every day to sort of follow them. Obviously, they've been pushed aside to a certain extent by issues of the day. Yeah, it's coming fast. And it's coming very fast. I mean, I feel like we're, you know, we're in the big bang of the intelligence explosion. Like, we're in we're watching, we're have courtside seats to the big bang of intelligence explosion. Um, one thing's for sure, it won't be boring. No.",
+      "textZh": "呃，你知道，我努力，而我每天的工作就是某种程度上跟进它们。显然，它们在一定程度上被当下的问题挤到了一边。是的，它来得很快。而且来得非常快。我的意思是，我觉得我们，你知道，我们正处于智能爆炸的大爆炸之中。就像，我们正在，我们正在观看，我们拥有智能爆炸大爆炸的场边座位。嗯，有一件事是肯定的，它不会无聊。不。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "So, let's not be saying there's a 20% chance of annihilation as often anymore. I think we should always consider that there's some chance of a bad outcome to try to protect against the bad outcome. We don't want to be complacent and say that everything's just going to be fine. There's no chance of a bad outcome.",
+      "textZh": "所以，我们别再那么频繁地说有20%的毁灭概率了。我认为，我们始终应该考虑到存在某种出现糟糕结果的可能性，以努力防范这种糟糕结果。我们不希望自满地说，一切都会没事，不可能出现糟糕结果。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "I sort of think of them as maybe in movie terms as like are we in a Star Trek movie or are we in a Gene Rodenberry movie or a James Cameron movie? Which movie are we in here? And you could either have a Rodenberry or a Cameron outcome. I think in this case we want the Rodenberry outcome. Yeah. And the abundance that may come with it. You going to miss the White House at all or not?",
+      "textZh": "如果用电影来打比方，我有点把它们想成：我们是在一部《星际迷航》电影里，还是在一部吉恩·罗登贝瑞电影里，或者一部詹姆斯·卡梅隆电影里？我们现在究竟身处哪部电影？而结果可能是罗登贝瑞式的，也可能是卡梅隆式的。我认为在这种情况下，我们想要罗登贝瑞式的结果。是的。以及可能随之而来的富足。你会想念白宫吗，还是不会？"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "Uh my rough plan on the White House is to be there uh for a couple days every every few weeks. Um and uh to be helpful where I can be helpful.",
+      "textZh": "呃，我对白宫的大致计划是，呃，每隔几周去那里待几天。嗯，并且，呃，在我能提供帮助的地方提供帮助。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T22:07:47.858Z",
+    "reviewedAt": "2026-09-12T22:51:44.283Z"
+  },
+  "fetchedAt": "2026-09-12T07:12:31.935Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=vizKY0kj01U",
+  "sourceHash": "7a38f5bad9645b1323412aeca1a619add3a0fed8954926c3943a71a3df5e5c24"
+}

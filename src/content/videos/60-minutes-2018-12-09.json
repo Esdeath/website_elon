@@ -1,0 +1,40 @@
+{
+  "id": "60-minutes-2018-12-09",
+  "slug": "60-minutes-2018-12-09",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2018-12-09",
+  "titleEn": "60 Minutes",
+  "titleZh": "《60分钟》",
+  "summaryEn": "From his 60 Minutes interview with Lesley Stahl, Musk discusses his Twitter use, the SEC and Tesla's hardest year.",
+  "summaryZh": "在接受莱斯莉·斯塔尔的《60分钟》采访时，马斯克谈到了自己使用Twitter的情况、美国证券交易委员会以及Tesla最艰难的一年。",
+  "sourceUrl": "https://www.youtube.com/watch?v=kM9kwFFhdf8",
+  "sourceLabel": "60 Minutes",
+  "archiveUrl": "https://elonmuskarchive.org/video/60-minutes-2018-12-09",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/kM9kwFFhdf8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/kM9kwFFhdf8/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 106,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "you tweet a lot i i use my tweets to express myself some people use their hair i use twitter well but you use your tweeting to to kind of get back at critics rarely you kind of have little wars with the press twitter is a war zone if somebody's gonna jump in the war zone it's like okay you're in the arena let's go his war zone tweeting drew fire when out of the blue in august he tweeted quote am considering taking tesla private at 4 20 funding secured the sec disputed that claim and charged him with securities fraud the case was settled with musk agreeing that his communications relating to the company including twitter would be overseen by his board have you had any of your tweets censored since the settlement no none does someone have to read them before",
+      "textZh": "你经常发推文。我，我用我的推文表达自己。有些人用他们的头发，我用Twitter。好吧，但你会利用发推文来、来算是反击批评者。很少。你算是会跟媒体打一些小规模的战争。Twitter是战区。如果有人要跳进战区，那就像是，好吧，你进竞技场了，那就来吧。他这种战区式的发推招致了抨击，因为8月时，他突然发推文，原话是：“正考虑以4 20将Tesla私有化。资金已有保障。”美国证券交易委员会对这一说法提出异议，并以证券欺诈罪名起诉他。此案最终和解，马斯克同意，他与公司有关的通信，包括Twitter上的内容，将由董事会监督。和解后，你有任何推文遭到审查吗？没有，一条也没有。有人必须在推文发出前阅读吗？"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "they go out no so your tweets are not supervised the the only tweets that would have to be say um reviewed would be if fh wheat had a probability of uh causing a movement in the stock and that's it yeah i mean otherwise it's uh hello first amendment like premium speech is fundamental but but how do they know if it's going to move the market if they're not reading all of them before you send them so i guess we might make some mistakes who knows are you serious you know he's perfect look at you i i i i want to be clear i do not respect the sec i do not respect them but but you're abiding by the settlement aren't you because i respect the justice system",
+      "textZh": "在它们发出去之前吗？不会。所以你的推文没有受到监督？唯一必须接受，比如说，嗯，审查的推文，是如果 fh wheat 有，呃，引起股价波动的可能性。仅此而已。是的，我的意思是，除此之外就是，呃，你好，《第一修正案》。比如，优质言论是根本性的。但是、但是，如果他们没有在你发送前阅读所有推文，他们怎么知道推文会不会影响市场？所以我想，我们可能会犯一些错误。谁知道呢。你是认真的吗？你知道，他是完美的。看看你。我，我，我，我想说清楚，我不尊重美国证券交易委员会。我不尊重他们。但是、但是，你会遵守和解协议，对吧？因为我尊重司法体系。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T08:56:01.825Z",
+    "reviewedAt": "2026-09-12T17:32:02.130Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:30.443Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=kM9kwFFhdf8",
+  "sourceHash": "bab942308dc4d3ff08aaefd81f3fdcbe308a034038d9ee0f83df64eafa2b79a1"
+}

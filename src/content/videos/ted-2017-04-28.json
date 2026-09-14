@@ -1,0 +1,470 @@
+{
+  "id": "ted-2017-04-28",
+  "slug": "ted-2017-04-28",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2017-04-28",
+  "titleEn": "TED",
+  "titleZh": "TED",
+  "summaryEn": "Conversation with Chris Anderson about the Boring Company tunnels, Tesla, autonomy and Mars.",
+  "summaryZh": "与克里斯·安德森就无聊公司隧道、Tesla、自动驾驶和火星展开对话。",
+  "sourceUrl": "https://www.youtube.com/watch?v=DJOefM3yB_8",
+  "sourceLabel": "Jake Roosenbloom",
+  "archiveUrl": "https://elonmuskarchive.org/video/ted-2017-04-28",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/DJOefM3yB_8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/DJOefM3yB_8/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 2455,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Chris Anderson: Elon, hey, welcome back to TED. It's great to have you here. 0:15 Elon Musk: Thanks for having me. CA: So, in the next half hour or so, we're going to spend some time exploring your vision for what an exciting future might look like, which I guess makes the first question a little ironic: Why are you boring? EM: Yeah. I ask myself that frequently.",
+      "textZh": "克里斯·安德森：埃隆，嗨，欢迎回到TED。很高兴你能来。0:15 埃隆·马斯克：谢谢你邀请我。CA：那么，在接下来的半小时左右，我们将花些时间探讨你对一个激动人心的未来可能是什么样子的构想，我想这让第1个问题显得有点讽刺：你为什么这么无聊？EM：是啊。我经常这样问自己。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "We're trying to dig a hole under LA, and this is to create the beginning of what will hopefully be a 3D network of tunnels to alleviate congestion. So right now, one of the most soul-destroying things is traffic. It affects people in every part of the world. It takes away so much of your life. It's horrible. It's particularly horrible in LA. (Laughter) CA: I think you've brought with you the first visualization that's been shown of this.",
+      "textZh": "我们正试图在洛杉矶地下挖一个洞，这是为了开创一个有望缓解拥堵的3D隧道网络。所以眼下，最摧残心灵的事情之一就是交通。它影响着世界各地的人们。它夺走了你生命中太多的时间。太糟糕了。在洛杉矶尤其糟糕。（笑声）CA：我想你带来了第1个公开展示这一构想的可视化演示。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Can I show this? EM: Yeah, absolutely. So this is the first time — Just to show what we're talking about. So a couple of key things that are important in having a 3D tunnel network. First of all, you have to be able to integrate the entrance and exit of the tunnel seamlessly into the fabric of the city.",
+      "textZh": "我可以播放吗？EM：可以，当然可以。所以这是第1次——只是为了展示我们在谈论什么。因此，建设3D隧道网络有几个重要的关键点。首先，你必须能够将隧道的入口和出口无缝融入城市结构之中。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "So by having an elevator, sort of a car skate, that's on an elevator, you can integrate the entrance and exits to the tunnel network just by using two parking spaces. And then the car gets on a skate. There's no speed limit here, so we're designing this to be able to operate at 200 kilometers an hour. CA: How much? EM: 200 kilometers an hour, or about 130 miles per hour.",
+      "textZh": "所以，借助一部电梯，也就是一种装在电梯上的汽车滑板，你只需占用2个停车位，就能将隧道网络的入口和出口融入城市。然后汽车开到滑板上。这里没有限速，所以我们正把它设计成能够以每小时200公里的速度运行。CA：多少？EM：每小时200公里，约合每小时130英里。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "So you should be able to get from, say, Westwood to LAX in six minutes — five, six minutes. (Applause) CA: So possibly, initially done, it's like on a sort of toll road-type basis. EM: Yeah. CA: Which, I guess, alleviates some traffic from the surface streets as well. EM: So, I don't know if people noticed it in the video, but there's no real limit to how many levels of tunnel you can have. You can go much further deep than you can go up.",
+      "textZh": "所以，从比如韦斯特伍德到洛杉矶国际机场应该只需要6分钟——5、6分钟。（掌声）CA：所以，可能在初步建成时，它有点像是按收费公路那种模式运营。EM：是的。CA：我想，这也能缓解地面街道上的一部分交通压力。EM：所以，我不知道大家是否注意到了视频中的这一点，但你能建多少层隧道其实没有真正的限制。你向下延伸的距离可以远远超过向上延伸的距离。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "The deepest mines are much deeper than the tallest buildings are tall, so you can alleviate any arbitrary level of urban congestion with a 3D tunnel network. This is a very important point. So a key rebuttal to the tunnels is that if you add one layer of tunnels, that will simply alleviate congestion, it will get used up, and then you'll be back where you started, back with congestion.",
+      "textZh": "最深的矿井比最高建筑的高度深得多，所以用3D隧道网络可以缓解任何程度的城市拥堵。这一点非常重要。因此，反对隧道的一个关键论点是，如果你增加1层隧道，那只会暂时缓解拥堵，新增容量会被用尽，然后你又会回到起点，再度陷入拥堵。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "But you can go to any arbitrary number of tunnels, any number of levels. CA: But people — seen traditionally, it's incredibly expensive to dig, and that would block this idea. EM: Yeah. Well, they're right. To give you an example, the LA subway extension, which is — I think it's a two-and-a-half mile extension that was just completed for two billion dollars. So it's roughly a billion dollars a mile to do the subway extension in LA.",
+      "textZh": "但你可以建任意数量的隧道、任意数量的层级。CA：但是人们——从传统情况来看，挖掘成本高得惊人，而这会阻碍这个构想。EM：是的。嗯，他们说得对。举个例子，洛杉矶地铁延长线——我想那是一段刚刚完工的2.5英里延长线，耗资20亿美元。所以，在洛杉矶修建地铁延长线，每英里的成本大约是10亿美元。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "And this is not the highest utility subway in the world. So yeah, it's quite difficult to dig tunnels normally. I think we need to have at least a tenfold improvement in the cost per mile of tunneling. CA: And how could you achieve that? 3:47 EM: Actually, if you just do two things, you can get to approximately an order of magnitude improvement, and I think you can go beyond that.",
+      "textZh": "而这还不是世界上效用最高的地铁。所以没错，通常来说，挖隧道相当困难。我认为，我们需要把每英里隧道的挖掘成本至少改善10倍。CA：那你要怎样才能做到？3:47 EM：事实上，只要做2件事，就可以实现大约1个数量级的改善，而且我认为还可以超越这个水平。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "So the first thing to do is to cut the tunnel diameter by a factor of two or more. So a single road lane tunnel according to regulations has to be 26 feet, maybe 28 feet in diameter to allow for crashes and emergency vehicles and sufficient ventilation for combustion engine cars.",
+      "textZh": "所以第1件要做的事，就是将隧道直径缩小2倍或更多。根据法规，单车道公路隧道的直径必须达到26英尺，或许是28英尺，以便为事故、应急车辆以及内燃机汽车所需的充分通风留出空间。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "But if you shrink that diameter to what we're attempting, which is 12 feet, which is plenty to get an electric skate through, you drop the diameter by a factor of two and the cross-sectional area by a factor of four, and the tunneling cost scales with the cross-sectional area. So that's roughly a half-order of magnitude improvement right there.",
+      "textZh": "但如果你把直径缩小到我们正尝试实现的尺寸，也就是12英尺，这个尺寸完全足以让电动滑板通过，那么直径会缩小到二分之一，横截面积会缩小到四分之一，而隧道开挖成本与横截面积成比例。因此，仅这一项就大致能带来半个数量级的改进。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Then tunneling machines currently tunnel for half the time, then they stop, and then the rest of the time is putting in reinforcements for the tunnel wall. So if you design the machine instead to do continuous tunneling and reinforcing, that will give you a factor of two improvement. Combine that and that's a factor of eight.",
+      "textZh": "然后，目前隧道掘进机有一半时间在挖掘，接着停下来，其余时间用于给隧道壁加装支护。因此，如果你转而把机器设计成能够连续挖掘和加固，就能带来2倍的改进。把这两项结合起来，就是8倍。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Also these machines are far from being at their power or thermal limits, so you can jack up the power to the machine substantially. I think you can get at least a factor of two, maybe a factor of four or five improvement on top of that.",
+      "textZh": "此外，这些机器还远未达到其功率或热极限，所以你可以大幅提高机器的功率。我认为在此基础上，至少还能获得2倍，也许是4倍或5倍的改进。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "So I think there's a fairly straightforward series of steps to get somewhere in excess of an order of magnitude improvement in the cost per mile, and our target actually is — we've got a pet snail called Gary, this is from Gary the snail from \"South Park,\" I mean, sorry, \"SpongeBob SquarePants.\" 5:28 (Laughter) 5:30 So Gary is capable of — currently he's capable of going 14 times faster than a tunnel-boring machine.",
+      "textZh": "所以我认为，通过一系列相当直接的步骤，每英里成本可以实现超过1个数量级的改进，而我们的目标实际上是——我们养了一只宠物蜗牛，叫加里，这个名字来自《南方公园》里的蜗牛加里，我是说，抱歉，是《海绵宝宝》。5:28（笑声）5:30 所以加里能够——目前它的速度能比隧道掘进机快14倍。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "5:40 (Laughter) 5:43 CA: You want to beat Gary. 5:45 EM: We want to beat Gary. 5:46 (Laughter) 5:48 He's not a patient little fellow, and that will be victory. Victory is beating the snail. 5:56 CA: But a lot of people imagining, dreaming about future cities, they imagine that actually the solution is flying cars, drones, etc. You go aboveground. Why isn't that a better solution? You save all that tunneling cost. 6:09 EM: Right.",
+      "textZh": "5:40（笑声）5:43 CA：你想打败加里。5:45 EM：我们想打败加里。5:46（笑声）5:48 它可不是个有耐心的小家伙，而那将会是胜利。胜利就是打败蜗牛。5:56 CA：但很多人在设想、憧憬未来城市时，会认为真正的解决方案是飞行汽车、无人机等等。你可以到地面上方去。为什么那不是更好的解决方案？你可以省下所有那些挖隧道的成本。6:09 EM：对。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "I'm in favor of flying things. Obviously, I do rockets, so I like things that fly. This is not some inherent bias against flying things, but there is a challenge with flying cars in that they'll be quite noisy, the wind force generated will be very high. Let's just say that if something's flying over your head, a whole bunch of flying cars going all over the place, that is not an anxiety-reducing situation.",
+      "textZh": "我支持会飞的东西。显然，我造火箭，所以我喜欢会飞的东西。这并不是对会飞的东西存在某种固有偏见，但飞行汽车面临的一个挑战是，它们会非常吵，产生的风力会非常大。我们就这么说吧，如果有东西从你头顶飞过，一大群飞行汽车到处飞，那可不是一种能减轻焦虑的情形。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "6:42 (Laughter) 6:44 You don't think to yourself, \"Well, I feel better about today.\" You're thinking, \"Did they service their hubcap, or is it going to come off and guillotine me?\" Things like that. 6:59 CA: So you've got this vision of future cities with these rich, 3D networks of tunnels underneath. Is there a tie-in here with Hyperloop? Could you apply these tunnels to use for this Hyperloop idea you released a few years ago.",
+      "textZh": "6:42（笑声）6:44 你不会心想：“嗯，我今天感觉好多了。”你会想：“他们维护过轮毂盖吗，还是它会掉下来，把我像上断头台一样斩首？”诸如此类。6:59 CA：所以你对未来城市的设想是，地下有这些丰富的3D隧道网络。这与超级高铁有关联吗？你能否利用这些隧道，实现你几年前发布的超级高铁构想？"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "7:13 EM: Yeah, so we've been sort of puttering around with the Hyperloop stuff for a while. We built a Hyperloop test track adjacent to SpaceX, just for a student competition, to encourage innovative ideas in transport. And it actually ends up being the biggest vacuum chamber in the world after the Large Hadron Collider, by volume.",
+      "textZh": "7:13 EM：是的，所以我们摆弄超级高铁这件事已经有一阵子了。我们在SpaceX旁边建了一条超级高铁测试轨道，只是为了举办学生竞赛，鼓励交通运输领域的创新想法。而按容积计算，它实际上最终成了继大型强子对撞机之后世界上最大的真空室。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "So it was quite fun to do that, but it was kind of a hobby thing, and then we think we might — so we've built a little pusher car to push the student pods, but we're going to try seeing how fast we can make the pusher go if it's not pushing something. So we're cautiously optimistic we'll be able to be faster than the world's fastest bullet train even in a . 8-mile stretch. 8:11 CA: Whoa. Good brakes. 8:13 EM: Yeah, I mean, it's — yeah.",
+      "textZh": "所以做这件事很有趣，但它算是一项业余爱好，然后我们想，也许我们可以——所以我们造了一辆小型推进车，用来推动学生们的舱体，但我们打算看看，如果它不推动任何东西，能让这辆推进车跑多快。所以我们谨慎地乐观认为，即使只有. 8英里的路段，我们也能比世界上最快的子弹头列车更快。8:11 CA：哇。得有好刹车。8:13 EM：是啊，我是说，它——是啊。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "It's either going to smash into tiny pieces or go quite fast. 8:20 CA: But you can picture, then, a Hyperloop in a tunnel running quite long distances. 8:26 EM: Exactly. And looking at tunneling technology, it turns out that in order to make a tunnel, you have to — In order to seal against the water table, you've got to typically design a tunnel wall to be good to about five or six atmospheres.",
+      "textZh": "它要么会撞得粉碎，要么会跑得相当快。8:20 CA：但这样一来，你可以设想超级高铁在隧道中运行相当长的距离。8:26 EM：没错。而且观察隧道技术后会发现，为了修建隧道，你必须——为了抵御地下水位的水压进行密封，通常必须把隧道壁设计成能够承受大约5个或6个大气压。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "So to go to vacuum is only one atmosphere, or near-vacuum. So actually, it sort of turns out that automatically, if you build a tunnel that is good enough to resist the water table, it is automatically capable of holding vacuum. 9:01 CA: Huh. 9:03 EM: So, yeah. 9:04 CA: And so you could actually picture, what kind of length tunnel is in Elon's future to running Hyperloop? 9:12 EM: I think there's no real length limit.",
+      "textZh": "所以要达到真空，只相差1个大气压，或者说接近真空。因此实际上，结果算是，如果你建造的隧道足以抵御地下水位的水压，它自然就有能力维持真空。9:01 CA：哦。9:03 EM：所以，是的。9:04 CA：那么你实际上可以设想，在埃隆的未来里，用于运行超级高铁的隧道会有多长？9:12 EM：我认为没有真正的长度限制。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "You could dig as much as you want. I think if you were to do something like a DC-to-New York Hyperloop, I think you'd probably want to go underground the entire way because it's a high-density area. You're going under a lot of buildings and houses, and if you go deep enough, you cannot detect the tunnel. Sometimes people think, well, it's going to be pretty annoying to have a tunnel dug under my house.",
+      "textZh": "你想挖多长都可以。我认为，如果要建造类似从华盛顿特区到纽约的超级高铁，你可能会希望全程都走地下，因为那是一个高密度地区。你会从许多建筑物和房屋下面穿过，而且如果挖得足够深，你就无法探测到隧道。有时人们会想，嗯，在我家下面挖隧道会相当烦人。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "Like, if that tunnel is dug more than about three or four tunnel diameters beneath your house, you will not be able to detect it being dug at all. In fact, if you're able to detect the tunnel being dug, whatever device you are using, you can get a lot of money for that device from the Israeli military, who is trying to detect tunnels from Hamas, and from the US Customs and Border patrol that try and detect drug tunnels.",
+      "textZh": "比如，如果那条隧道位于你房屋下方超过大约3个或4个隧道直径的深度，你根本无法探测到它正在被挖掘。事实上，如果你能探测到隧道正在被挖掘，无论你使用的是什么设备，都可以靠那台设备从以色列军方那里赚很多钱，他们正试图探测哈马斯的隧道；也可以从试图探测毒品隧道的美国海关与边境巡逻队那里赚很多钱。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "So the reality is that earth is incredibly good at absorbing vibrations, and once the tunnel depth is below a certain level, it is undetectable. Maybe if you have a very sensitive seismic instrument, you might be able to detect it. 10:28 CA: So you've started a new company to do this called The Boring Company. Very nice. Very funny. 10:34 (Laughter) 10:35 EM: What's funny about that? 10:37 (Laughter) 10:39 CA: How much of your time is this?",
+      "textZh": "所以实际情况是，大地吸收振动的能力好得不可思议，一旦隧道位于某一深度以下，就无法探测到了。也许如果你有非常灵敏的地震仪器，可能能够探测到它。10:28 CA：所以你创办了一家新公司来做这件事，名叫 The Boring Company。非常妙。非常好笑。10:34（笑声）10:35 EM：这有什么好笑的？10:37（笑声）10:39 CA：这占用你多少时间？"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "10:42 EM: It's maybe ... two or three percent. 10:48 CA: You've bought a hobby. This is what an Elon Musk hobby looks like. 10:52 (Laughter) 10:53 EM: I mean, it really is, like — This is basically interns and people doing it part time. We bought some second-hand machinery.",
+      "textZh": "10:42 EM：大概是……2%或3%。10:48 CA：你买了一项爱好。埃隆·马斯克的爱好就是这个样子。10:52（笑声）10:53 EM：我是说，确实就是这样，就像——这基本上是实习生和兼职做这件事的人。我们买了一些二手机械。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "It's kind of puttering along, but it's making good progress, so — 11:11 CA: So an even bigger part of your time is being spent on electrifying cars and transport through Tesla. Is one of the motivations for the tunneling project the realization that actually, in a world where cars are electric and where they're self-driving, there may end up being more cars on the roads on any given hour than there are now? 11:33 EM: Yeah, exactly.",
+      "textZh": "它算是在慢慢推进，但进展不错，所以——11:11 CA：所以，你更多的时间都花在通过Tesla推动汽车和交通运输电动化上。隧道项目的动机之一，是否是意识到，事实上，在一个汽车实现电动化和自动驾驶的世界里，任何一个小时内道路上的汽车最终可能会比现在更多？11:33 EM：是的，没错。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "A lot of people think that when you make cars autonomous, they'll be able to go faster and that will alleviate congestion. And to some degree that will be true, but once you have shared autonomy where it's much cheaper to go by car and you can go point to point, the affordability of going in a car will be better than that of a bus. Like, it will cost less than a bus ticket.",
+      "textZh": "很多人认为，当汽车实现自动驾驶后，它们就能开得更快，从而缓解拥堵。这在某种程度上确实会发生，但一旦实现共享自动驾驶，坐汽车出行会便宜得多，而且你可以点对点出行，那么乘坐汽车在价格上会比乘坐公交车更有优势。比如，它的费用会低于一张公交车票。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "So the amount of driving that will occur will be much greater with shared autonomy, and actually traffic will get far worse. 12:11 CA: You started Tesla with the goal of persuading the world that electrification was the future of cars, and a few years ago, people were laughing at you. Now, not so much. 12:23 EM: OK. 12:24 (Laughter) 12:26 I don't know.",
+      "textZh": "所以，共享自动驾驶带来的驾驶量会大得多，而交通状况实际上会变得糟糕得多。12:11 CA：你创办Tesla的目标是让世界相信电动化是汽车的未来，几年前，人们还在嘲笑你。现在就没那么多人笑了。12:23 EM：好吧。12:24（笑声）12:26 我不知道。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "12:29 CA: But isn't it true that pretty much every auto manufacturer has announced serious electrification plans for the short- to medium-term future? 12:39 EM: Yeah. Yeah. I think almost every automaker has some electric vehicle program. They vary in seriousness. Some are very serious about transitioning entirely to electric, and some are just dabbling in it.",
+      "textZh": "12:29 CA：但几乎每一家汽车制造商都已经宣布了面向中短期未来的重大电动化计划，不是吗？12:39 EM：是的。是的。我想几乎每家汽车制造商都有某种电动汽车项目。它们的认真程度不一。有些非常认真地想要全面转向电动汽车，有些则只是浅尝辄止。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "And some, amazingly, are still pursuing fuel cells, but I think that won't last much longer. 13:00 CA: But isn't there a sense, though, Elon, where you can now just declare victory and say, you know, \"We did it.\" Let the world electrify, and you go on and focus on other stuff? 13:12 EM: Yeah. I intend to stay with Tesla as far into the future as I can imagine, and there are a lot of exciting things that we have coming.",
+      "textZh": "而有些公司居然还在发展燃料电池，但我认为这不会持续太久。13:00 CA：但埃隆，你现在难道不是在某种意义上已经可以直接宣布胜利，然后说，你知道，“我们做到了。”让全世界去实现电动化，而你继续去专注于其他事情？13:12 EM：是的。在我能想象到的未来，我都打算一直留在Tesla，而且我们还有许多令人兴奋的事情即将推出。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Obviously the Model 3 is coming soon. We'll be unveiling the Tesla Semi truck. 13:31 CA: OK, we're going to come to this. So Model 3, it's supposed to be coming in July-ish. 13:38 EM: Yeah, it's looking quite good for starting production in July. 13:42 CA: Wow. One of the things that people are so excited about is the fact that it's got autopilot. And you put out this video a while back showing what that technology would look like.",
+      "textZh": "显然，Model 3很快就要来了。我们将发布Tesla Semi卡车。13:31 CA：好的，我们会谈到这个。那么Model 3，预计大概会在7月推出。13:38 EM：是的，目前看来7月开始生产的前景相当不错。13:42 CA：哇。让人们如此兴奋的事情之一，就是它配备了自动驾驶系统。而你前段时间发布了这段视频，展示了这项技术会是什么样子。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "13:57 EM: Yeah. There's obviously autopilot in Model S right now. What are we seeing here? 14:02 EM: Yeah, so this is using only cameras and GPS. So there's no LIDAR or radar being used here. This is just using passive optical, which is essentially what a person uses. The whole road system is meant to be navigated with passive optical, or cameras, and so once you solve cameras or vision, then autonomy is solved.",
+      "textZh": "13:57 EM：是的。显然，现在Model S已经配备了自动驾驶系统。我们在这里看到的是什么？14:02 EM：是的，所以这只使用摄像头和GPS。这里没有使用激光雷达或雷达。这只使用被动光学手段，基本上也就是人类使用的方式。整个道路系统本来就是设计成可以通过被动光学手段，也就是摄像头来导航的，所以一旦你解决了摄像头或视觉问题，自动驾驶问题也就解决了。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "If you don't solve vision, it's not solved. So that's why our focus is so heavily on having a vision neural net that's very effective for road conditions. 14:42 CA: Right. Many other people are going the LIDAR route. You want cameras plus radar is most of it. 14:47 EM: You can absolutely be superhuman with just cameras. Like, you can probably do it ten times better than humans would, just cameras.",
+      "textZh": "如果你没有解决视觉问题，那这个问题就没有解决。所以我们才如此着重于拥有一个对道路状况非常有效的视觉神经网络。14:42 CA：对。许多其他人正在走激光雷达这条路线。你想要的主要是摄像头加雷达。14:47 EM：只用摄像头绝对可以做到超越人类。比如，只用摄像头，你大概可以做到比人类好10倍。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "14:55 CA: So the new cars being sold right now have eight cameras in them. They can't yet do what that showed. When will they be able to? 15:07 EM: I think we're still on track for being able to go cross-country from LA to New York by the end of the year, fully autonomous. 15:17 CA: OK, so by the end of the year, you're saying, someone's going to sit in a Tesla without touching the steering wheel, tap in \"New York,\" off it goes. 15:27 EM: Yeah.",
+      "textZh": "14:55 CA：所以现在销售的新车装有8个摄像头。它们还做不到刚才展示的那些。什么时候能够做到？15:07 EM：我认为，我们仍在按计划推进，能够在今年年底前从洛杉矶横跨全国到达纽约，全程完全自动驾驶。15:17 CA：好，所以你是说，到今年年底，会有人坐进一辆Tesla，不碰方向盘，输入“纽约”，然后车就出发了。15:27 EM：是的。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "15:28 CA: Won't ever have to touch the wheel — by the end of 2017. 15:33 EM: Yeah. Essentially, November or December of this year, we should be able to go all the way from a parking lot in California to a parking lot in New York, no controls touched at any point during the entire journey. 15:47 (Applause) 15:49 CA: Amazing. But part of that is possible because you've already got a fleet of Teslas driving all these roads.",
+      "textZh": "15:28 CA：永远都不必碰方向盘——到2017年年底。15:33 EM：是的。基本上，到今年11月或12月，我们应该能够从加利福尼亚州的一个停车场一路开到纽约的一个停车场，整个行程中任何时候都不触碰任何控制装置。15:47（掌声）15:49 CA：太不可思议了。但这之所以能实现，部分原因是你已经有一支Tesla车队在所有这些道路上行驶。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "You're accumulating a huge amount of data of that national road system. 16:02 EM: Yes, but the thing that will be interesting is that I'm actually fairly confident it will be able to do that route even if you change the route dynamically.",
+      "textZh": "你正在积累这个全国道路系统的海量数据。16:02 EM：是的，但有意思的是，我其实相当有信心，即使你动态改变路线，它也能完成那段行程。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "So, it's fairly easy — If you say I'm going to be really good at one specific route, that's one thing, but it should be able to go, really be very good, certainly once you enter a highway, to go anywhere on the highway system in a given country. So it's not sort of limited to LA to New York. We could change it and make it Seattle-Florida, that day, in real time. So you were going from LA to New York. Now go from LA to Toronto.",
+      "textZh": "所以，这相当容易——如果你说我要非常擅长一条特定路线，那是一回事，但它应该能够行驶，真正做到非常出色，当然，一旦你驶入高速公路，它就能前往一个特定国家高速公路系统上的任何地方。所以它并不是仅限于从洛杉矶到纽约。我们可以改变路线，当天实时改成西雅图到佛罗里达。所以你原本要从洛杉矶去纽约。现在改成从洛杉矶去多伦多。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "16:49 CA: So leaving aside regulation for a second, in terms of the technology alone, the time when someone will be able to buy one of your cars and literally just take the hands off the wheel and go to sleep and wake up and find that they've arrived, how far away is that, to do that safely? 17:06 EM: I think that's about two years. So the real trick of it is not how do you make it work say 99.",
+      "textZh": "16:49 CA：所以先暂时把监管问题放在一边，单从技术角度来说，一个人能够买下你们的一辆车，然后真的把手从方向盘上拿开，睡上一觉，醒来发现已经到达目的地，要安全地做到这一点还需要多久？17:06 EM：我认为大约还要2年。所以真正的诀窍并不在于怎样让它比如在99。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "9 percent of the time, because, like, if a car crashes one in a thousand times, then you're probably still not going to be comfortable falling asleep. You shouldn't be, certainly. 17:28 (Laughter) 17:31 It's never going to be perfect.",
+      "textZh": "9%的时间里正常工作，因为，比如说，如果一辆车每1000次中就有1次撞车，那么你大概还是不敢放心地睡觉。你当然不该放心。17:28（笑声）17:31 它永远不会完美。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "No system is going to be perfect, but if you say it's perhaps — the car is unlikely to crash in a hundred lifetimes, or a thousand lifetimes, then people are like, OK, wow, if I were to live a thousand lives, I would still most likely never experience a crash, then that's probably OK. 17:53 CA: To sleep.",
+      "textZh": "任何系统都不会完美，但如果你说，也许——这辆车在100辈子或1000辈子里都不太可能撞车，那么人们就会想，好吧，哇，如果我活上1000辈子，我很可能仍然永远不会遇到撞车事故，那大概就可以了。17:53 CA：可以睡觉了。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "I guess the big concern of yours is that people may actually get seduced too early to think that this is safe, and that you'll have some horrible incident happen that puts things back. 18:04 EM: Well, I think that the autonomy system is likely to at least mitigate the crash, except in rare circumstances. The thing to appreciate about vehicle safety is this is probabilistic.",
+      "textZh": "我猜，你最担心的是，人们实际上可能过早地受到诱惑，以为这是安全的，然后发生某种可怕的事故，导致事情倒退。18:04 EM：嗯，我认为自动驾驶系统至少很可能会减轻碰撞的严重程度，极少数情况除外。关于车辆安全，需要理解的是，它是概率性的。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "I mean, there's some chance that any time a human driver gets in a car, that they will have an accident that is their fault. It's never zero. So really the key threshold for autonomy is how much better does autonomy need to be than a person before you can rely on it?",
+      "textZh": "我的意思是，每当人类驾驶员坐进一辆车时，都有一定概率会发生由他们负责的事故。这个概率永远不会是0。所以对于自动驾驶来说，真正关键的门槛是：自动驾驶需要比人类好多少，你才能依赖它？"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "18:38 CA: But once you get literally safe hands-off driving, the power to disrupt the whole industry seems massive, because at that point you've spoken of people being able to buy a car, drops you off at work, and then you let it go and provide a sort of Uber-like service to other people, earn you money, maybe even cover the cost of your lease of that car, so you can kind of get a car for free. Is that really likely? 19:02 EM: Yeah.",
+      "textZh": "18:38 CA：但一旦你实现了真正安全的、完全放手的驾驶，颠覆整个行业的力量似乎会非常巨大，因为到那时，按照你所说，人们可以买一辆车，让它送你去上班，然后你让它出去，为其他人提供一种类似 Uber 的服务，替你赚钱，甚至可能覆盖你租赁这辆车的费用，这样你就有点像免费得到了一辆车。这真的有可能吗？19:02 EM：是的。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "Absolutely this is what will happen. So there will be a shared autonomy fleet where you buy your car and you can choose to use that car exclusively, you could choose to have it be used only by friends and family, only by other drivers who are rated five star, you can choose to share it sometimes but not other times. That's 100 percent what will occur. It's just a question of when. 19:32 CA: Wow.",
+      "textZh": "这绝对会发生。所以会有一个共享自动驾驶车队，你购买自己的汽车，并且可以选择只供自己使用，也可以选择只让亲朋好友使用，或只让其他获得五星评级的驾驶员使用；你可以选择有时共享、其他时候不共享。这是 100% 会发生的事。问题只在于何时发生。19:32 CA：哇。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "So you mentioned the Semi and I think you're planning to announce this in September, but I'm curious whether there's anything you could show us today? 19:42 EM: I will show you a teaser shot of the truck. 19:46 (Laughter) 19:48 It's alive. 19:50 CA: OK. 19:51 EM: That's definitely a case where we want to be cautious about the autonomy features. Yeah.",
+      "textZh": "所以你提到了 Semi，我想你计划在 9 月发布它，但我很好奇，今天有没有什么可以给我们看的？19:42 EM：我会给你们看一张这辆卡车的预告图。19:46（笑声）19:48 它是活的。19:50 CA：好的。19:51 EM：在这件事上，我们肯定希望谨慎对待自动驾驶功能。是的。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "19:58 (Laughter) 20:00 CA: We can't see that much of it, but it doesn't look like just a little friendly neighborhood truck. It looks kind of badass. What sort of semi is this? 20:10 EM: So this is a heavy duty, long-range semitruck. So it's the highest weight capability and with long range. So essentially it's meant to alleviate the heavy-duty trucking loads. And this is something which people do not today think is possible.",
+      "textZh": "19:58（笑声）20:00 CA：我们看不到它太多的部分，但它看起来可不只是一辆友好的社区小卡车。它看起来有点彪悍。这是什么样的半挂卡车？20:10 EM：这是一辆重型长途半挂卡车。所以它拥有最高的载重能力，而且续航里程很长。因此，它本质上是为了减轻重型卡车运输负担。而如今人们认为这是不可能做到的。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "They think the truck doesn't have enough power or it doesn't have enough range, and then with the Tesla Semi we want to show that no, an electric truck actually can out-torque any diesel semi. And if you had a tug-of-war competition, the Tesla Semi will tug the diesel semi uphill. 20:57 (Laughter) 21:00 (Applause) 21:02 CA: That's pretty cool. And short term, these aren't driverless. These are going to be trucks that truck drivers want to drive.",
+      "textZh": "他们认为卡车的动力不够，或者续航里程不够，而我们想通过 Tesla Semi 证明，不，电动卡车实际上可以在扭矩上胜过任何柴油半挂卡车。如果举行拔河比赛，Tesla Semi 会拖着柴油半挂卡车上坡。20:57（笑声）21:00（掌声）21:02 CA：这太酷了。而短期来看，这些车并不是无人驾驶的。它们会成为卡车司机想要驾驶的卡车。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "21:09 EM: Yes. So what will be really fun about this is you have a flat torque RPM curve with an electric motor, whereas with a diesel motor or any kind of internal combustion engine car, you've got a torque RPM curve that looks like a hill. So this will be a very spry truck. You can drive this around like a sports car. There's no gears. It's, like, single speed. 21:33 CA: There's a great movie to be made here somewhere.",
+      "textZh": "21:09 EM：是的。所以这件事真正有趣之处在于，电动机的扭矩转速曲线是平坦的，而柴油发动机或任何类型的内燃机汽车，其扭矩转速曲线看起来像一座山。所以这会是一辆非常灵活的卡车。你可以像开跑车一样驾驶它。它没有挡位。它就像是单速的。21:33 CA：这里面肯定能拍出一部很棒的电影。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "I don't know what it is and I don't know that it ends well, but it's a great movie. 21:39 (Laughter) 21:40 EM: It's quite bizarre test-driving. When I was driving the test prototype for the first truck. It's really weird, because you're driving around and you're just so nimble, and you're in this giant truck. 21:52 CA: Wait, you've already driven a prototype? 21:56 EM: Yeah, I drove it around the parking lot, and I was like, this is crazy.",
+      "textZh": "我不知道会是什么样的电影，也不知道结局是否美好，但它会是一部很棒的电影。21:39（笑声）21:40 EM：试驾的感觉相当怪异。当时我驾驶的是第一辆卡车的测试原型车。真的很奇怪，因为你开着它四处行驶，动作却如此灵活，而你身处的是这样一辆巨型卡车。21:52 CA：等等，你已经开过原型车了？21:56 EM：是的，我开着它在停车场里转了转，当时我就想，这太疯狂了。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "21:59 CA: Wow. This is no vaporware. 22:02 EM: It's just like, driving this giant truck and making these mad maneuvers. 22:06 CA: This is cool. OK, from a really badass picture to a kind of less badass picture. This is just a cute house from \"Desperate Housewives\" or something. What on earth is going on here? 22:17 EM: Well, this illustrates the picture of the future that I think is how things will evolve.",
+      "textZh": "21:59 CA：哇。这可不是画饼。22:02 EM：就是，开着这辆巨型卡车，做出这些疯狂的动作。22:06 CA：这太酷了。好，从一张非常彪悍的图片转到一张没那么彪悍的图片。这只是一栋出自《绝望主妇》之类作品的可爱房子。这里究竟是怎么回事？22:17 EM：嗯，这展示了我所设想的未来图景，也就是事物将如何发展。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "You've got an electric car in the driveway. If you look in between the electric car and the house, there are actually three Powerwalls stacked up against the side of the house, and then that house roof is a solar roof. So that's an actual solar glass roof. 22:38 CA: OK. 22:39 EM: That's a picture of a real — well, admittedly, it's a real fake house. That's a real fake house.",
+      "textZh": "车道上有一辆电动汽车。如果你看电动汽车与房子之间的位置，实际上有 3 台 Powerwall 叠放在房子侧面，而那栋房子的屋顶是太阳能屋顶。所以那是一个真正的太阳能玻璃屋顶。22:38 CA：好的。22:39 EM：那是一张真实的——好吧，无可否认，它是一栋真实的假房子。那是一栋真实的假房子。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "22:45 (Laughter) 22:48 CA: So these roof tiles, some of them have in them basically solar power, the ability to — 22:56 EM: Yeah. Solar glass tiles where you can adjust the texture and the color to a very fine-grained level, and then there's sort of microlouvers in the glass, such that when you're looking at the roof from street level or close to street level, all the tiles look the same whether there is a solar cell behind it or not.",
+      "textZh": "22:45（笑声）22:48 CA：所以这些屋顶瓦片，其中一些基本上带有太阳能发电功能，能够——22:56 EM：是的。太阳能玻璃瓦片的纹理和颜色都可以进行非常精细的调整，而玻璃中还有某种微型百叶结构，因此当你从街面高度或接近街面高度观察屋顶时，无论后面有没有太阳能电池，所有瓦片看起来都一样。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "So you have an even color from the ground level. If you were to look at it from a helicopter, you would be actually able to look through and see that some of the glass tiles have a solar cell behind them and some do not. You can't tell from street level. 23:42 CA: You put them in the ones that are likely to see a lot of sun, and that makes these roofs super affordable, right? They're not that much more expensive than just tiling the roof.",
+      "textZh": "所以从地面看，颜色是均匀一致的。如果从直升机上观察，你实际上就能透过玻璃看到，一些玻璃瓦片后面有太阳能电池，另一些则没有。从街面高度看不出来。23:42 CA：你把它们安装在可能照到大量阳光的位置，这就让这些屋顶非常实惠，对吧？它们并不比普通的屋顶铺瓦贵多少。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "23:50 EM: Yeah. We're very confident that the cost of the roof plus the cost of electricity — A solar glass roof will be less than the cost of a normal roof plus the cost of electricity.",
+      "textZh": "23:50 埃隆·马斯克：是的。我们非常确信，屋顶的成本加上电费成本——太阳能玻璃屋顶的成本会低于普通屋顶的成本加上电费成本。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "So in other words, this will be economically a no-brainer, we think it will look great, and it will last — We thought about having the warranty be infinity, but then people thought, well, that might sound like were just talking rubbish, but actually this is toughened glass. Well after the house has collapsed and there's nothing there, the glass tiles will still be there. 24:35 (Applause) 24:37 CA: I mean, this is cool.",
+      "textZh": "所以换句话说，我们认为这在经济上将是一个根本无须考虑的选择，它会看起来很棒，而且会经久耐用——我们曾考虑把保修期定为无限期，但后来人们觉得，嗯，那听起来可能像是我们只是在胡说八道，可实际上这是钢化玻璃。即使房子已经倒塌，那里什么都没有了，这些玻璃瓦片仍然会在那里。24:35（掌声）24:37 克里斯·安德森：我的意思是，这太酷了。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "So you're rolling this out in a couple week's time, I think, with four different roofing types. 24:44 EM: Yeah, we're starting off with two, two initially, and the second two will be introduced early next year. 24:50 CA: And what's the scale of ambition here? How many houses do you believe could end up having this type of roofing? 24:58 EM: I think eventually almost all houses will have a solar roof.",
+      "textZh": "所以我想，你们会在2周后推出这款产品，提供4种不同的屋顶类型。24:44 埃隆·马斯克：是的，我们会先从2种开始，最初是2种，另外2种将在明年年初推出。24:50 克里斯·安德森：那么这里的目标规模有多大？你认为最终会有多少房屋采用这种屋顶？24:58 埃隆·马斯克：我认为最终几乎所有房屋都会采用太阳能屋顶。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "The thing is to consider the time scale here to be probably on the order of 40 or 50 years. So on average, a roof is replaced every 20 to 25 years. But you don't start replacing all roofs immediately. But eventually, if you say were to fast-forward to say 15 years from now, it will be unusual to have a roof that does not have solar.",
+      "textZh": "这里要考虑的是，时间尺度大概是40年或50年左右。平均而言，屋顶每20到25年更换一次。但你不会立即开始更换所有屋顶。不过最终，假如你把时间快进到比如从现在起15年后，没有太阳能的屋顶将会很少见。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "25:36 CA: Is there a mental model thing that people don't get here that because of the shift in the cost, the economics of solar power, most houses actually have enough sunlight on their roof pretty much to power all of their needs. If you could capture the power, it could pretty much power all their needs. You could go off-grid, kind of.",
+      "textZh": "25:36 CA：这里是不是有一种人们没有理解的思维模型：由于成本的变化，也就是太阳能发电经济性的变化，大多数房屋的屋顶实际上几乎都有足够的阳光来满足其全部需求。如果能把这种能量捕获下来，它几乎可以满足所有需求。可以说，你甚至能够脱离电网。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "25:55 EM: It depends on where you are and what the house size is relative to the roof area, but it's a fair statement to say that most houses in the US have enough roof area to power all the needs of the house. 26:10 CA: So the key to the economics of the cars, the Semi, of these houses is the falling price of lithium-ion batteries, which you've made a huge bet on as Tesla. In many ways, that's almost the core competency.",
+      "textZh": "25:55 EM：这取决于你在哪里，以及房屋面积相对于屋顶面积的大小，但可以合理地说，美国大多数房屋都有足够的屋顶面积来满足房屋的全部用电需求。26:10 CA：所以，这些汽车、Semi 卡车和房屋在经济性方面的关键，是锂离子电池价格不断下降，而 Tesla 对此下了巨大的赌注。从很多方面来说，这几乎就是核心能力。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "And you've decided that to really, like, own that competency, you just have to build the world's largest manufacturing plant to double the world's supply of lithium-ion batteries, with this guy. What is this? 26:43 EM: Yeah, so that's the Gigafactory, progress so far on the Gigafactory.",
+      "textZh": "而且你已经决定，要真正地，可以说，掌握这种能力，就必须建造世界上最大的制造工厂，让全球锂离子电池供应量翻倍，就是这个。这是什么？26:43 EM：对，这就是超级工厂，这是超级工厂目前的建设进展。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "Eventually, you can sort of roughly see that there's sort of a diamond shape overall, and when it's fully done, it'll look like a giant diamond, or that's the idea behind it, and it's aligned on true north. It's a small detail. 27:04 CA: And capable of producing, eventually, like a hundred gigawatt hours of batteries a year. 27:11 EM: A hundred gigawatt hours. We think probably more, but yeah.",
+      "textZh": "最终，你大致可以看出，它整体上有点像一个菱形，完全建成后，它看起来会像一颗巨大的钻石，或者说这就是背后的构想，而且它以真北方向对齐。这是个小细节。27:04 CA：而且最终每年能够生产大约100吉瓦时的电池。27:11 EM：100吉瓦时。我们认为可能会更多，不过，是的。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "27:14 CA: And they're actually being produced right now. 27:17 EM: They're in production already. CA: You guys put out this video. I mean, is that speeded up? 27:21 EM: That's the slowed down version. 27:23 (Laughter) 27:25 CA: How fast does it actually go? 27:27 EM: Well, when it's running at full speed, you can't actually see the cells without a strobe light. It's just blur.",
+      "textZh": "27:14 CA：而且现在实际上已经在生产了。27:17 EM：已经投产了。CA：你们发布了这段视频。我是说，这是加速播放的吗？27:21 EM：这是减速后的版本。27:23（笑声）27:25 CA：它实际上有多快？27:27 EM：嗯，当它全速运行时，如果没有频闪灯，你实际上看不清电芯。看到的只是一片模糊。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "27:35 (Laughter) 27:39 CA: One of your core ideas, Elon, about what makes an exciting future is a future where we no longer feel guilty about energy. Help us picture this. How many Gigafactories, if you like, does it take to get us there? 27:52 EM: It's about a hundred, roughly. It's not 10, it's not a thousand. Most likely a hundred. 27:59 CA: See, I find this amazing.",
+      "textZh": "27:35（笑声）27:39 CA：埃隆，你关于什么样的未来才令人兴奋，有一个核心理念，那就是在未来，我们不再因使用能源而感到内疚。请帮我们描绘一下。要实现这一点，需要多少座超级工厂，如果你愿意这样称呼的话？27:52 EM：大约100座。不是10座，也不是1000座。最有可能是100座。27:59 CA：你看，我觉得这太惊人了。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "You can picture what it would take to move the world off this vast fossil fuel thing. It's like you're building one, it costs five billion dollars, or whatever, five to 10 billion dollars. Like, it's kind of cool that you can picture that project. And you're planning to do, at Tesla — announce another two this year. 28:24 EM: I think we'll announce locations for somewhere between two and four Gigafactories later this year. Yeah, probably four.",
+      "textZh": "你可以想象，要让世界摆脱如此庞大的化石燃料体系，需要做些什么。就像你正在建造其中一座，成本是50亿美元，或者差不多，50亿到100亿美元。能够想象出这个项目，确实挺酷的。而且你们计划在 Tesla——今年再宣布2座。28:24 EM：我想今年晚些时候，我们会宣布2到4座超级工厂的选址。是的，可能是4座。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "28:33 CA: Whoa. 28:34 (Applause) No more teasing from you for here? Like — where, continent? You can say no. 28:48 EM: We need to address a global market. 28:52 CA: OK. 28:53 (Laughter) 28:54 This is cool. I think we should talk for — Actually, double mark it. I'm going to ask you one question about politics, only one. I'm kind of sick of politics, but I do want to ask you this. You're on a body now giving advice to a guy — 29:18 EM: Who?",
+      "textZh": "28:33 CA：哇。28:34（掌声）在这里就不能再透露一点了吗？比如——在哪个大洲？你可以说不。28:48 EM：我们需要面向全球市场。28:52 CA：好吧。28:53（笑声）28:54 这很酷。我想我们应该谈谈——实际上，做个双重标记。我要问你1个关于政治的问题，只问1个。我有点厌倦政治了，但我确实想问你这个。你现在是一个机构的成员，正在为一个人提供建议——29:18 EM：谁？"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "29:20 CA: Who has said he doesn't really believe in climate change, and there's a lot of people out there who think you shouldn't be doing that. They'd like you to walk away from that. What would you say to them? 29:31 EM: Well, I think that first of all, I'm just on two advisory councils where the format consists of going around the room and asking people's opinion on things, and so there's like a meeting every month or two.",
+      "textZh": "29:20 CA：这个人说过，他并不真正相信气候变化，而且有很多人认为你不应该这样做。他们希望你退出。你会对他们说什么？29:31 EM：嗯，我想首先，我只是参加了2个顾问委员会，其形式就是依次询问房间里每个人对一些事情的看法，所以大约每1个月或2个月开1次会。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "That's the sum total of my contribution. But I think to the degree that there are people in the room who are arguing in favor of doing something about climate change, or social issues, I've used the meetings I've had thus far to argue in favor of immigration and in favor of climate change. 30:13 (Applause) 30:15 And if I hadn't done that, that wasn't on the agenda before. So maybe nothing will happen, but at least the words were said.",
+      "textZh": "这就是我贡献的全部。但我认为，只要房间里有人主张应该针对气候变化或社会问题采取一些行动，我就在迄今参加的会议上支持移民，也支持气候变化。30:13（掌声）30:15 而如果我没有这样做，那些事情原本并不在议程上。所以也许什么都不会发生，但至少这些话被说出来了。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "30:25 CA: OK. 30:26 (Applause) 30:30 So let's talk SpaceX and Mars. Last time you were here, you spoke about what seemed like a kind of incredibly ambitious dream to develop rockets that were actually reusable. And you've only gone and done it. 30:46 EM: Finally. It took a long time. 30:47 CA: Talk us through this. What are we looking at here? 30:50 EM: So this is one of our rocket boosters coming back from very high and fast in space.",
+      "textZh": "30:25 CA：好的。30:26（掌声）30:30 那我们来谈谈 SpaceX 和火星。上次你来这里时，你谈到一个看起来雄心勃勃得令人难以置信的梦想，要开发真正可以重复使用的火箭。而你竟然真的做到了。30:46 EM：终于。花了很长时间。30:47 CA：给我们讲讲这个。我们在这里看到的是什么？30:50 EM：这是我们的一个火箭助推器，正从太空中的极高处高速返回。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "So just delivered the upper stage at high velocity. I think this might have been at sort of Mach 7 or so, delivery of the upper stage. 31:09 (Applause) 31:12 CA: So that was a sped-up — 31:14 EM: That was the slowed down version. 31:16 (Laughter) 31:17 CA: I thought that was the sped-up version. But I mean, that's amazing, and several of these failed before you finally figured out how to do it, but now you've done this, what, five or six times?",
+      "textZh": "所以刚刚以高速送出了上面级。我想送出上面级时，这可能大约是 7 马赫左右。31:09（掌声）31:12 CA：所以那是加速播放的——31:14 EM：那是减速播放的版本。31:16（笑声）31:17 CA：我还以为那是加速播放的版本。不过我是说，这太不可思议了，在你最终弄清楚怎么做之前，有好几次都失败了，但现在你已经做了多少次，5 次还是 6 次？"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "31:28 EM: We're at eight or nine. 31:31 CA: And for the first time, you've actually reflown one of the rockets that landed. 31:35 EM: Yeah, so we landed the rocket booster and then prepped it for flight again and flew it again, so it's the first reflight of an orbital booster where that reflight is relevant. So it's important to appreciate that reusability is only relevant if it is rapid and complete.",
+      "textZh": "31:28 EM：我们已经做了 8 次或 9 次。31:31 CA：而且你们第一次真正让一枚已经着陆的火箭再次飞行了。31:35 EM：是的，我们让火箭助推器着陆，然后为再次飞行做好准备，又让它飞了一次，所以这是轨道助推器第一次具有实际意义的复飞。因此，需要认识到，只有在快速且完全的情况下，重复使用才有意义。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "So like an aircraft or a car, the reusability is rapid and complete. You do not send your aircraft to Boeing in-between flights. 32:07 CA: Right. So this is allowing you to dream of this really ambitious idea of sending many, many, many people to Mars in, what, 10 or 20 years time, I guess. 32:17 EM: Yeah. 32:19 CA: And you've designed this outrageous rocket to do it. Help us understand the scale of this thing.",
+      "textZh": "所以就像飞机或汽车一样，重复使用是快速且完全的。你不会在每次飞行之间把飞机送回波音。32:07 CA：对。所以这让你能够梦想这个真正雄心勃勃的想法，也就是在，我猜，未来 10 年或 20 年内，把很多、很多、很多人送上火星。32:17 EM：是的。32:19 CA：而且你设计了这枚惊人的火箭来实现它。帮我们理解一下这东西的规模。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "32:24 EM: Well, visually you can see that's a person. Yeah, and that's the vehicle. 32:33 (Laughter) 32:35 CA: So if that was a skyscraper, that's like, did I read that, a 40-story skyscraper? 32:40 EM: Probably a little more, yeah. The thrust level of this is really — This configuration is about four times the thrust of the Saturn V moon rocket. 32:55 CA: Four times the thrust of the biggest rocket humanity ever created before. 33:00 EM: Yeah.",
+      "textZh": "32:24 EM：嗯，从视觉上你可以看到，那是一个人。对，而那是飞行器。32:33（笑声）32:35 CA：所以如果那是一座摩天大楼，它就像是，我没看错吧，一座 40 层的摩天大楼？32:40 EM：可能还要再高一点，对。它的推力水平确实——这种构型的推力大约是土星 5 号登月火箭的 4 倍。32:55 CA：是人类此前制造过的最大火箭推力的 4 倍。33:00 EM：对。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "Yeah. 33:03 CA: As one does. EM: Yeah. 33:05 (Laughter) 33:08 In units of 747, a 747 is only about a quarter of a million pounds of thrust, so for every 10 million pounds of thrust, there's 40 747s. So this would be the thrust equivalent of 120 747s, with all engines blazing.",
+      "textZh": "对。33:03 CA：这很平常。EM：对。33:05（笑声）33:08 以 747 为单位，一架 747 的推力只有大约 25 万磅，所以每 1000 万磅推力相当于 40 架 747。因此它的推力相当于 120 架 747 的全部发动机全力运转。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "33:25 CA: And so even with a machine designed to escape Earth's gravity, I think you told me last time this thing could actually take a fully loaded 747, people, cargo, everything, into orbit. 33:37 EM: Exactly. This can take a fully loaded 747 with maximum fuel, maximum passengers, maximum cargo on the 747 — this can take it as cargo.",
+      "textZh": "33:25 CA：所以即便是这样一台为了摆脱地球引力而设计的机器，我想你上次告诉过我，这东西实际上可以把一架满载的 747 连同人员、货物和一切都送入轨道。33:37 EM：没错。它可以把一架燃油加到最大量、乘客达到最大数量、货物达到最大载重量的满载 747——它可以把这架 747 当作货物运载。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "33:51 CA: So based on this, you presented recently this Interplanetary Transport System which is visualized this way. This is a scene you picture in, what, 30 years time? 20 years time? People walking into this rocket. 34:08 EM: I'm hopeful it's sort of an eight- to 10-year time frame. Aspirationally, that's our target. Our internal targets are more aggressive, but I think — 34:18 (Laughter) 34:22 CA: OK.",
+      "textZh": "33:51 CA：所以在此基础上，你最近发布了这个星际运输系统，这里以这种方式进行了可视化。这是你设想会在多久以后出现的场景，30 年后？20 年后？人们正走进这枚火箭。34:08 EM：我希望时间框架大概是 8 到 10 年。从愿景上说，那是我们的目标。我们的内部目标更激进，但我认为——34:18（笑声）34:22 CA：好的。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "34:23 EM: While vehicle seems quite large and is large by comparison with other rockets, I think the future spacecraft will make this look like a rowboat. The future spaceships will be truly enormous. 34:42 CA: Why, Elon? Why do we need to build a city on Mars with a million people on it in your lifetime, which I think is kind of what you've said you'd love to do? 34:55 EM: I think it's important to have a future that is inspiring and appealing.",
+      "textZh": "34:23 EM：虽然这艘飞行器看起来相当大，而且与其他火箭相比确实很大，但我认为未来的航天器会让它看起来像一艘划艇。未来的宇宙飞船将真正无比庞大。34:42 CA：为什么，埃隆？为什么我们需要在你的有生之年在火星上建造一座拥有 100 万人口的城市？我想这差不多就是你说过自己很想做的事。34:55 EM：我认为，拥有一个鼓舞人心且富有吸引力的未来很重要。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "I just think there have to be reasons that you get up in the morning and you want to live. Like, why do you want to live? What's the point? What inspires you? What do you love about the future? And if we're not out there, if the future does not include being out there among the stars and being a multiplanet species, I find that it's incredibly depressing if that's not the future that we're going to have.",
+      "textZh": "我只是觉得，人们早晨起床并想要活下去，必须有一些理由。比如，你为什么想活着？意义是什么？什么能激励你？你喜欢未来的什么？如果我们不走出去，如果未来不包括走出去置身群星之间并成为一个多行星物种，那么如果那不是我们将拥有的未来，我会觉得这令人无比沮丧。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "35:26 (Applause) 35:31 CA: People want to position this as an either or, that there are so many desperate things happening on the planet now from climate to poverty to, you know, you pick your issue. And this feels like a distraction. You shouldn't be thinking about this. You should be solving what's here and now. And to be fair, you've done a fair old bit to actually do that with your work on sustainable energy. But why not just do that?",
+      "textZh": "35:26（掌声）35:31 CA：人们想把这说成一个非此即彼的问题，说地球上现在正发生着这么多令人绝望的事情，从气候到贫困，再到，你知道，随便选一个你关心的问题。而这感觉像是在分散注意力。你不应该想着这个。你应该解决此时此地的问题。公平地说，你通过在可持续能源方面的工作，确实已经为此做了相当多的事情。但为什么不就只做那个呢？"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "35:58 EM: I think there's — I look at the future from the standpoint of probabilities. It's like a branching stream of probabilities, and there are actions that we can take that affect those probabilities or that accelerate one thing or slow down another thing. I may introduce something new to the probability stream. Sustainable energy will happen no matter what.",
+      "textZh": "35:58 EM：我认为这里有——我是从概率的角度看待未来的。它就像一条不断分叉的概率之流，而我们可以采取一些行动，去影响那些概率，或者加速一件事、减缓另一件事。我也许会把某种新东西引入概率之流。无论如何，可持续能源都会实现。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "If there was no Tesla, if Tesla never existed, it would have to happen out of necessity. It's tautological. If you don't have sustainable energy, it means you have unsustainable energy. Eventually you will run out, and the laws of economics will drive civilization towards sustainable energy, inevitably.",
+      "textZh": "如果没有 Tesla，如果 Tesla 从未存在过，那么出于必要性，这件事也必然会发生。这是同义反复。如果你没有可持续能源，就意味着你拥有的是不可持续能源。最终它会耗尽，而经济规律将不可避免地推动文明走向可持续能源。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "The fundamental value of a company like Tesla is the degree to which it accelerates the advent of sustainable energy, faster than it would otherwise occur. 37:04 So when I think, like, what is the fundamental good of a company like Tesla, I would say, hopefully, if it accelerated that by a decade, potentially more than a decade, that would be quite a good thing to occur. That's what I consider to be the fundamental aspirational good of Tesla.",
+      "textZh": "像 Tesla 这样的公司的根本价值，在于它将可持续能源时代的到来加速到何种程度，使其比原本发生得更快。37:04 所以当我思考，比如，像 Tesla 这样的公司的根本益处是什么时，我会说，希望如果它将这件事加速了10年，甚至可能超过10年，那将是一件相当好的事情。这就是我所认为的 Tesla 根本性的理想益处。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "37:24 Then there's becoming a multiplanet species and space-faring civilization. This is not inevitable. It's very important to appreciate this is not inevitable. The sustainable energy future I think is largely inevitable, but being a space-faring civilization is definitely not inevitable. If you look at the progress in space, in 1969 you were able to send somebody to the moon. 1969. Then we had the Space Shuttle.",
+      "textZh": "37:24 接下来是成为一个多行星物种和太空文明。这并非必然。认识到这并非必然非常重要。我认为可持续能源的未来在很大程度上是必然的，但成为太空文明绝对不是必然的。如果你看看航天领域的进展，1969年，你能够把人送上月球。1969年。之后我们有了航天飞机。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "The Space Shuttle could only take people to low Earth orbit. Then the Space Shuttle retired, and the United States could take no one to orbit. So that's the trend. The trend is like down to nothing. People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.",
+      "textZh": "航天飞机只能把人送到近地轨道。后来航天飞机退役了，美国就无法把任何人送入轨道了。所以这就是趋势。这个趋势就像是一路下降到什么都没有。人们认为技术会自动进步，这是错误的。它不会自动进步。只有很多人非常努力地工作，让它变得更好，它才会进步，而且实际上，我认为，它自己反而会退化，确实如此。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "You look at great civilizations like Ancient Egypt, and they were able to make the pyramids, and they forgot how to do that. And then the Romans, they built these incredible aqueducts. They forgot how to do it. 38:39 CA: Elon, it almost seems, listening to you and looking at the different things you've done, that you've got this unique double motivation on everything that I find so interesting.",
+      "textZh": "你看看像古埃及这样的伟大文明，他们曾经能够建造金字塔，后来却忘了怎么建。然后是罗马人，他们建造了这些不可思议的水道桥。他们也忘了怎么建。38:39 CA：埃隆，听你说这些，再看看你做过的各种事情，几乎让人觉得，你做每件事都有这样一种独特的双重动机，这一点让我觉得非常有意思。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "One is this desire to work for humanity's long-term good. The other is the desire to do something exciting. And often it feels like you feel like you need the one to drive the other. With Tesla, you want to have sustainable energy, so you made these super sexy, exciting cars to do it. Solar energy, we need to get there, so we need to make these beautiful roofs.",
+      "textZh": "一个是这种为人类长远福祉而努力的愿望。另一个是做一些令人兴奋之事的愿望。而且常常让人觉得，你似乎认为需要用其中一个来驱动另一个。对于 Tesla，你希望实现可持续能源，所以你为此造出了这些超级性感、令人兴奋的汽车。太阳能，我们需要走到那一步，所以我们需要造出这些漂亮的屋顶。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "We haven't even spoken about your newest thing, which we don't have time to do, but you want to save humanity from bad AI, and so you're going to create this really cool brain-machine interface to give us all infinite memory and telepathy and so forth. And on Mars, it feels like what you're saying is, yeah, we need to save humanity and have a backup plan, but also we need to inspire humanity, and this is a way to inspire.",
+      "textZh": "我们甚至还没谈到你最新在做的事情，我们也没有时间谈了，但你想从有害的人工智能手中拯救人类，所以你要创造这种非常酷的脑机接口，让我们所有人都拥有无限的记忆力和心灵感应等等。而关于火星，感觉你想说的是，是的，我们需要拯救人类并制定一个后备计划，但我们也需要激励人类，而这是一种激励方式。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "39:44 EM: I think the value of beauty and inspiration is very much underrated, no question. But I want to be clear. I'm not trying to be anyone's savior. That is not the — I'm just trying to think about the future and not be sad. 40:03 (Applause) 40:05 CA: Beautiful statement. I think everyone here would agree that it is not — None of this is going to happen inevitably.",
+      "textZh": "39:44 EM：我认为，美和灵感的价值被大大低估了，这一点毫无疑问。但我想说清楚。我并不是想成为任何人的救世主。那不是——我只是想思考未来，并且不要感到悲伤。40:03（掌声）40:05 CA：说得很美。我想在场的每个人都会同意，这并不是——这一切都不会必然发生。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "The fact that in your mind, you dream this stuff, you dream stuff that no one else would dare dream, or no one else would be capable of dreaming at the level of complexity that you do. The fact that you do that, Elon Musk, is a really remarkable thing. Thank you for helping us all to dream a bit bigger. 40:33 EM: But you'll tell me if it ever starts getting genuinely insane, right? 40:36 (Laughter) 40:39 CA: Thank you, Elon Musk.",
+      "textZh": "你在脑海中构想这些东西，你梦想着别人都不敢梦想的事情，或者别人无法以你所达到的复杂程度去梦想的事情。埃隆·马斯克，你能做到这一点，真的非常了不起。感谢你帮助我们所有人把梦想放大一点。40:33 EM：但如果这有一天开始变得真的疯狂，你会告诉我的，对吧？40:36（笑声）40:39 CA：谢谢你，埃隆·马斯克。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "That was really, really fantastic. That was really fantastic. 40:44 (Applause)",
+      "textZh": "那真的、真的非常棒。那真的非常棒。40:44（掌声）"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T00:51:21.935Z",
+    "reviewedAt": "2026-09-13T02:24:38.163Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:05.127Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=DJOefM3yB_8",
+  "sourceHash": "07224fc76250e9534cf66c764bcbf1a05255248bd6e36b657814fc13e76b3093"
+}

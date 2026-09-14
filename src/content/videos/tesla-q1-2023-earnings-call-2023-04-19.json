@@ -1,0 +1,880 @@
+{
+  "id": "tesla-q1-2023-earnings-call-2023-04-19",
+  "slug": "tesla-q1-2023-earnings-call-2023-04-19",
+  "snapshotId": "2026-09-12",
+  "type": "earnings",
+  "date": "2023-04-19",
+  "titleEn": "Tesla Q1 2023 Earnings Call",
+  "titleZh": "Tesla 2023年第一季度财报电话会议",
+  "summaryEn": "Musk discusses Tesla's first-quarter 2023 results, price cuts, margins and the Cybertruck timeline during the official investor Q&A.",
+  "summaryZh": "在正式的投资者问答环节中，马斯克讨论了Tesla 2023年第一季度业绩、降价、利润率和Cybertruck时间表。",
+  "sourceUrl": "https://www.youtube.com/watch?v=3MVIWeU36ZY",
+  "sourceLabel": "Tesla",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-q1-2023-earnings-call-2023-04-19",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/3MVIWeU36ZY",
+  "thumbnailUrl": "https://i.ytimg.com/vi/3MVIWeU36ZY/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 4066,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Sam. Sa. Sam.",
+      "textZh": "萨姆。萨。萨姆。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "Sa.",
+      "textZh": "萨。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Sa.",
+      "textZh": "萨。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "It.",
+      "textZh": "它。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Sa.",
+      "textZh": "萨。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "Good afternoon everyone and welcome to Tesla's first quarter 2023 Q&A webcast. My name is Martin Vieja, VP of Industry Relations and I'm joined today by Elon Musk, Zachary Kirkhorn and a number of other executives. Our Q1 results were announced at about 3pm Central Time in the update deck we published at the same link as this webcast. During this call we will discuss our business outlook and make forward looking statements. These comments are based on our predictions and expectations. As of today, actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the sec. During the question and answer portion of today's call, please limit yourself to one question and one follow up. Please use the raise hand button to join the question queue. But before we jump into Q and A, Elon has some opening remarks.",
+      "textZh": "大家下午好，欢迎参加Tesla 2023年第一季度问答网络直播。我叫马丁·维耶哈，是行业关系副总裁，今天与我一同出席的有埃隆·马斯克、扎卡里·柯克霍恩以及其他多位高管。我们已于美国中部时间下午3点左右，在与本次网络直播相同的链接发布的更新演示文稿中公布了第一季度业绩。在本次电话会议中，我们将讨论业务展望并作出前瞻性陈述。这些评论基于我们的预测和预期。截至今天，实际事件或结果可能会因多种风险和不确定性而存在重大差异，其中包括我们最近向美国证券交易委员会提交的文件中提及的风险和不确定性。在今天电话会议的问答环节，请将提问限制为1个问题和1个追问。请使用举手按钮加入提问队列。但在进入问答环节之前，埃隆有一些开场发言。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "Elon?",
+      "textZh": "埃隆？"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Thank you, Martin. So, just a Q1 recap. Model Y became the best selling vehicle of any kind in Europe and the best selling non pickup vehicle in the United States. And this is in spite of a lot of challenges in production and delivery. So it's a huge credit to the Tesla team for delivering achieving these great results. It is worth pointing out that the current macro environment remains uncertain. I don't think I'm telling anyone anything people don't already know, especially with large purchases such as cars. And while we reduced prices considerably in early Q1, it's worth noting that our operating margin remains among the best in the industry. We've taken a view that pushing for higher volumes and a larger fleet is the right choice here versus a lower volume and higher margin. However, we expect our vehicles over time will be able to generate significant profit through autonomy. So we do believe we're like laying the groundwork here. And then it's better to ship a large number of cars at a lower margin and subsequently harvest that margin in the future as we perfect autonomy. Autonomy. This, this is an extremely important point. Let's see. Regarding the Cybertruck, we continue to build alpha versions of the Cybertruck on our pilot line for testing purposes. It's a great product and we're completing the installation of the volume production line at Giga, Texas and we're anticipating having a delivery event, a great delivery event, probably in Q3. As with all new products, it'll follow an S curve of, you know, so production starts out slow and then accelerates. So the cybertruck is no different. So it's, it's you know, there's tremendous amount of demand for the product. Obviously it is my view, a fantastic product, a hall of famer. But as with, as with all new products, it takes time to get the manufacturing line going and this is really a very radical product. It's not, it's not made in the way that other cars are made. So let's see, with regards to Megapack, we're making great progress. Our energy storage deployment reached nearly 4 gigawatt hours in Q1, so by far the strongest quarter ever. And this growth was achieved thanks to the ongoing ramp at our mega factory in Lathrop, California. There's still some way to go to reach the full run rate of 40 gigawatt hours per year. And then we additionally announced the start of a new mega factory in Shanghai. So we're, as we've expected, the stationary storage growth actually will significantly exceed the vehicle growth. Regarding autopilot and full self driving, we've now crossed over 150 million miles driven by full self driving beta and this number is growing exponentially. We're, this is a data advantage that really no one else has. Those who understand AI will understand the importance of data, of training data and how fundamental that is to achieving an incredible outcome. So yeah, so we're also very focused on improving our neural net training capabilities, as is one of the main limiting factors of achieving full autonomy. So we're continuing to, to simultaneously make significant purchases of Nvidia GPUs and also putting a lot of effort into Dojo, which we believe has the potential for an order of magnitude improvement in the cost of training. And it also, Dojo also has the potential to become a sellable service that would offer to other companies in the same way that Amazon Web Services, you know, offers more web services, even though it started out as, as a bookstore. So I really think that, yeah, the Dojo potential is very significant. In conclusion, we're taking a view that we want to keep making and selling as many cars as we can, despite this being an uncertain macro environment. This is a good time to increase our lead further and we'll continue to invest in growth as fast as possible. Once again, I'd like to give a huge thanks to Altez employees worldwide for doing an incredible job again and yeah, super appreciated.",
+      "textZh": "谢谢你，马丁。那么，简单回顾一下第一季度。Model Y成为欧洲所有类型车辆中最畅销的车型，也是美国最畅销的非皮卡车型。而这是在生产和交付面临诸多挑战的情况下实现的。因此，Tesla团队通过交付取得这些出色成绩，功劳巨大。值得指出的是，当前的宏观环境仍然充满不确定性。我想我说的并不是什么大家还不知道的事情，尤其是汽车这类大额消费品。尽管我们在第一季度初大幅降价，但值得注意的是，我们的营业利润率仍位居行业前列。我们认为，与较低销量和较高利润率相比，争取更高销量和更庞大的车队是此处的正确选择。不过，我们预计，随着时间推移，我们的车辆将能够通过自动驾驶产生可观利润。所以我们确实认为，我们是在这里打下基础。而且，先以较低利润率交付大量汽车，然后在未来随着我们完善自动驾驶而收获这部分利润，会更好。自动驾驶。这个，这一点极其重要。让我看看。关于Cybertruck，我们继续在试验生产线上制造Cybertruck的阿尔法版本，用于测试。这是一款很棒的产品，我们正在完成得克萨斯超级工厂量产线的安装，并预计举行一场交付活动，一场盛大的交付活动，可能在第三季度。与所有新产品一样，它将遵循S曲线，你知道，所以生产一开始很慢，然后加速。因此Cybertruck也不例外。所以它，它，你知道，市场对这款产品的需求极其旺盛。显然，在我看来，这是一款绝佳的产品，足以载入名人堂。但与，与所有新产品一样，让生产线运转起来需要时间，而这确实是一款非常激进的产品。它并不，它并不是以其他汽车的制造方式来制造的。那么让我看看，关于Megapack，我们正在取得巨大进展。我们的储能部署量在第一季度达到近4吉瓦时，是迄今为止表现最强劲的季度。而这一增长得益于我们位于加利福尼亚州莱思罗普的Megafactory持续提升产能。距离达到每年40吉瓦时的满负荷生产速率仍有一段路要走。然后，我们还宣布在上海启动建设一座新的Megafactory。所以，正如我们预期的那样，固定式储能的增长实际上将大幅超过车辆增长。关于Autopilot和完全自动驾驶，现在使用完全自动驾驶测试版行驶的里程已经超过1.5亿英里，而且这一数字正在以指数级增长。我们，这是一项确实无人能及的数据优势。理解AI的人会明白数据、训练数据的重要性，以及它对于取得令人难以置信的成果有多么根本。所以，是的，我们也非常专注于提升神经网络训练能力，因为这是实现完全自动驾驶的主要限制因素之一。因此，我们继续，继续同时大量采购Nvidia GPU，并且还在Dojo上投入大量精力；我们认为Dojo有潜力将训练成本改善一个数量级。而且，Dojo也有潜力成为一种可销售的服务，提供给其他公司，就像Amazon Web Services，你知道，提供更多网络服务一样，尽管它最初是，是一家书店。所以我确实认为，是的，Dojo的潜力非常巨大。总而言之，我们的看法是，尽管宏观环境充满不确定性，我们仍希望继续尽可能多地生产和销售汽车。现在是进一步扩大领先优势的好时机，我们将继续以尽可能快的速度投资于增长。我想再次衷心感谢全球所有Altez员工再次完成了令人难以置信的工作，而且，是的，非常感谢。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "Thank you very much. And Zach has some remarks as well.",
+      "textZh": "非常感谢。扎克也有一些发言。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "Yeah, thanks Martin. I want to start by congratulating the Tesla team for record vehicle production and deliveries. And I also want to congratulate our energy storage team for record volumes as well. There's three main points I want to make first automotive gross margin and operating margin reduced sequentially, but as Elon mentioned, these remain at healthy levels. In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain autopilot features as we transition technologies. Progress on vehicle cost reduction continued in Q1 with meaningful improvements on logistics and the beginnings of some commodity cost reductions starting to be realized. Per unit costs for Austin and Berlin improved as well, driven by record volumes. However, these factories still provide a margin headwind and will likely continue to do so until after we reach and stabilize at our intended volumes. Note that Q1 was our third quarter in our multi quarter plan to move to a more regionally balanced mix of build and deliveries. As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter ending free cash flows. This was particularly prevalent in Q1 for S& X as we began exporting cars for international deliveries. Second, our storage business is starting to take shape and this is exciting to see. After many years of investment and focus, this business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1 driven by an increasing rate of deliveries for our megapack products. We are also making progress on storage profitability, generating our highest gross profit yet in the quarter. Third, I want to reiterate the philosophy by which we are operating the business this year. Our approach is to grow volumes as quickly as possible in both our vehicle and energy businesses. We plan to continue to invest heavily into our future plans which include the cybertruck next generation platform in house cell production, energy storage business and our autonomy and AI enabled products and we plan to do this while keeping the business financially healthy and industry leading. To accomplish this we need to remain focused on cost efficiency and working capital and in particular unwinding the strategic inventory buildup left over from the pandemic. I want to conclude by thanking the Tesla team again as well as thanking our suppliers and our customers.",
+      "textZh": "是的，谢谢马丁。首先，我要祝贺Tesla团队创下车辆产量和交付量纪录。我也要祝贺我们的储能团队同样创下数量纪录。我首先想讲3个要点：汽车业务毛利率和营业利润率环比下降，但正如埃隆所说，它们仍处于健康水平。具体来说，自上次财报电话会议讨论以来，汽车业务毛利率受到了几个因素影响，其中包括为改善车辆定价而在本季度后半段采取的额外行动，以及1次性项目，最值得注意的是对较旧款S和X车辆的保修调整，还有随着我们进行技术过渡，某些Autopilot功能的递延收入有所增加。车辆成本削减工作在第一季度继续取得进展，物流方面有显著改善，一些大宗商品成本的下降也开始得到体现。奥斯汀和柏林的单位成本也有所改善，这得益于创纪录的产量。不过，这些工厂仍对利润率造成拖累，而且在我们达到目标产量并稳定下来之前，很可能会继续如此。请注意，第一季度是我们在跨多个季度推进的计划中的第3个季度，该计划旨在使生产和交付组合在地区间更加均衡。正如我之前提到的，由于季度末运输途中的汽车数量较多，这会导致季度内交付量和产量下降，并对季度末自由现金流产生相应影响。第一季度S和X的这种情况尤其普遍，因为我们开始出口汽车进行国际交付。第2，我们的储能业务开始成形，看到这一点令人振奋。经过多年的投资和专注，这项业务在公司营收中的占比不断增长，并在第一季度达到迄今最高水平，这得益于我们Megapack产品交付速度不断加快。我们在储能盈利能力方面也取得了进展，本季度创造了迄今最高的毛利润。第3，我想重申我们今年经营业务所遵循的理念。我们的方针是在车辆和能源业务中尽可能快地扩大数量。我们计划继续大力投资于未来计划，其中包括Cybertruck、下一代平台、内部电芯生产、储能业务以及由自动驾驶和AI赋能的产品；我们计划在保持公司财务健康和行业领先地位的同时做到这一点。为了实现这一目标，我们需要继续专注于成本效率和营运资本，尤其是消化疫情遗留下来的战略性库存积压。最后，我想再次感谢Tesla团队，同时也感谢我们的供应商和客户。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Thank you very much and let's go to Investor questions on sei.com the first one is what is the process to make auto pricing adjustments? What variables do you consider? How frequently do you review pricing?",
+      "textZh": "非常感谢，接下来进入sei.com上的投资者提问。第1个问题是：进行汽车定价调整的流程是什么？你们会考虑哪些变量？你们多久审查1次定价？"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Do you want to take that Elon or do you Want me to take it?",
+      "textZh": "埃隆，你想回答这个问题，还是想让我来回答？"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "My apologies. Sorry, I was on mute. Yeah, I think this is not something that we. We can really talk about. It's just we do our best to evaluate the, you know, the production output, macroeconomic conditions, and we make a decision, but it's. Yeah. Unless it's something you'd like to add, Zach.",
+      "textZh": "抱歉。对不起，我刚才静音了。是的，我认为这不是我们能。我们真正谈论的事情。只是我们会尽力评估，你知道，生产产出、宏观经济状况，然后作出决定，但这。是的。除非你有什么想补充的，扎克。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "I think that's right. I mean, as a team, we review where we stand globally on a weekly basis and certainly can't get into the details of the reasons why certain decisions are made. But it is something that's very actively managed by a subset of the leadership team. Thank you.",
+      "textZh": "我认为是这样。我的意思是，作为一个团队，我们每周都会审视我们在全球的状况，当然不能深入讨论作出某些决定的原因。但这是领导团队中的一部分人在非常积极地管理的事情。谢谢。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "The second question is, do you still believe Tesla Energy will be bigger than Auto? And when will you provide more formal guidance on megapack and overall Tesla Energy?",
+      "textZh": "第2个问题是，你是否仍然认为 Tesla 能源业务会比汽车业务更大？你们什么时候会就 Megapack 和 Tesla 整体能源业务提供更正式的指引？"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Yeah, I should just clarify, like, bigger than auto from the standpoint of like",
+      "textZh": "是的，我应该澄清一下，比如说，从类似于这样的角度看，比汽车业务更大"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "total",
+      "textZh": "总"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "gigawatt hours deployed. So it's possible automotive revenue may be higher, but gigawatt hours I think will be probably higher. With stationary storage, if you just look at the. What's needed to transition the world to a sustainable energy economy, there is more stationary energy storage needed than there is mobile energy storage.",
+      "textZh": "已部署的吉瓦时。所以汽车业务的营收可能会更高，但我认为吉瓦时数可能会更高。对于固定式储能，如果你只是看看。世界向可持续能源经济转型需要什么，那么所需的固定式储能要多于移动式储能。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "So.",
+      "textZh": "所以。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "And we are seeing growth of our stationary storage while in excess of automotive. So that is in line with expectations.",
+      "textZh": "而且我们看到固定式储能业务的增长远超汽车业务。所以这符合预期。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "Yeah.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "And on the guidance part of the question, and maybe, Martin, we can combine this with the next question, which is on guidance for margins. Just have a single comment there. You know, I think we are. We will get to the point where we as a company provide guidance on the storage business. I say storage is a combination of both the megapack business and the powerwall business. Relative to total revenues of the company, it's still fairly small. And the business has a lot of volatility currently, both in terms of volumes as well as financials, just given the small volumes and kind of diversification of the customer. A pool there. But as this business grows and smooths out, I don't think we're that far away from it. You know, I think including these volumes on our day two production and deliveries release is something that we'll start doing and then we can talk more formally as a business about our expectations over the coming year. I think it'll be a few more quarters before we get there.",
+      "textZh": "关于问题中的指引部分，也许，Martin，我们可以把它和下一个问题合并起来，也就是关于利润率指引的问题。这里只作一条评论。你知道，我认为我们正在。我们会走到公司为储能业务提供指引的阶段。我所说的储能是 Megapack 业务和 Powerwall 业务的结合。相对于公司的总营收，它仍然相当小。而且该业务目前存在很大的波动，无论是在数量方面还是财务方面，原因就在于数量较小以及客户某种程度的多元化。那里有一个池子。但随着这项业务增长并趋于平稳，我认为我们距离那一步并不太远。你知道，我认为在我们第 2 天发布的产量与交付量报告中纳入这些数量，是我们将开始做的事情，然后作为一家企业，我们可以更正式地谈论对未来一年的预期。我认为还需要几个季度才能走到那一步。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Thank you.",
+      "textZh": "谢谢。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "The next question, as you said, was already answered, so let's go to the battery question.",
+      "textZh": "正如你所说，下一个问题已经回答过了，所以我们来看电池问题。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Just one other thing I wanted to mention on margin, you know, while we're not providing specific guidance there, I mean, just to set expectations of where we think this business will go in terms of margins you know, probably generally in the ballpark of what we've seen historically on the vehicle business. You know, we generally look to mid 20% gross margins for any program that we launch. And so we're not there yet on this business, but that's what we're working towards.",
+      "textZh": "关于利润率，我还想提一件事，你知道，虽然我们没有就此提供具体指引，但我的意思是，只是为了设定一下我们认为这项业务在利润率方面会走向何处的预期，你知道，可能总体上与我们过去在汽车业务上看到的水平大致相当。你知道，对于我们推出的任何项目，我们通常以 20% 中段的毛利率为目标。所以这项业务尚未达到这一水平，但这正是我们努力实现的目标。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "We're hopeful to get there later this year, but that's not a promise. That's, that's an aspiration.",
+      "textZh": "我们希望今年晚些时候能达到，但这不是承诺。这是，这是一个愿景。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Thank you. The next question is how well are 4,680 cells meeting the expectations described on the battery day? How long will it be until the cells meet those goals?",
+      "textZh": "谢谢。下一个问题是，4,680 电芯在多大程度上达到了电池日所描述的预期？还需要多长时间，这些电芯才能达到那些目标？"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "Drew?",
+      "textZh": "Drew？"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Yeah. So on battery day, we established a cost down roadmap through 2026 across five areas of effort. There was the cell design we discussed anode cathode materials, the structural pack concept, and the cell factory itself. We've been making progress across all these aspects since then. For the cell factory, the, the Texas 4680 factory, we, you know, are partway through building and commissioning and installing and operating will be 70% lower capex per gigawatt hour than typical cell factories when fully ramped in line with what we described on battery day. And we're continuing to further pursue densification and investment reduction opportunities in future factory buildouts like in Nevada. On the cell design, we're in production with not only the first generation tablet cell we unveiled on battery day, but a second more manufactured version in Texas today. On the cathode material side, we have a number of activities underway per the battery day roadmap for lithium. Our Corpus Christi lithium refinery breaks ground this May. Our goal is to start commissioning portions of the facility for the end of the year. The refinery uses the sulfate free spodumene refining process with reduced process costs. No acid or caustic reagents, lower embodied energy and actually produces a beneficial byproduct that can be repurposed in construction materials. We discussed all of these concepts on battery day. Same with cathode precursor. We've successfully demonstrated a lower process cost, zero wastewater precursor process that we described on battery day at both lab and pilot scale and are on the detailed design phase for incorporating this technology into the front end of our Austin cathode facility. On cathode production, we are 50% equipment and 75% utilities installed at our new cathode building in Austin with our goal to begin dry and wet commissioning this quarter and next quarter with a target to produce first material before the end of the year.",
+      "textZh": "是的。所以在电池日上，我们制定了一份到2026年在5个工作领域实现成本下降的路线图。包括我们讨论过的电芯设计、阳极和阴极材料、结构电池包概念，以及电芯工厂本身。从那以后，我们在所有这些方面都取得了进展。就电芯工厂而言，得州4680工厂，我们，你知道，已完成了部分建设、调试、安装和运营；在全面达产后，其每吉瓦时资本支出将比典型电芯工厂低70%，与我们在电池日所描述的一致。我们还在继续寻求进一步提高密度并减少未来工厂建设投资的机会，比如内华达州的工厂。在电芯设计方面，我们如今在得州投产的不仅有我们在电池日发布的第一代平板电芯，还有第2个更便于制造的版本。在阴极材料方面，我们正按照电池日路线图开展多项锂相关工作。我们的科珀斯克里斯蒂锂精炼厂将于今年5月破土动工。我们的目标是在年底前开始调试该设施的部分区域。这座精炼厂采用无硫酸盐的锂辉石精炼工艺，降低了工艺成本。不使用酸或苛性试剂，隐含能源消耗更低，而且实际上会产生一种有益的副产品，可重新用于建筑材料。我们在电池日讨论过所有这些概念。阴极前驱体也是如此。我们已在实验室和中试规模上成功验证了我们在电池日描述的低工艺成本、零废水前驱体工艺，目前正处于详细设计阶段，准备将这项技术整合到我们奥斯汀阴极设施的前端。在阴极生产方面，我们奥斯汀的新阴极厂房已完成50%的设备安装和75%的公用设施安装，目标是在本季度和下季度开始干式和湿式调试，并计划在年底前生产出首批材料。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Structural pack.",
+      "textZh": "结构电池包。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "We saw big improvements with pack manufacturing with the 4680 cell and the structural pack concept, 50% lower capex and 66% smaller factory for the same output in gigawatt hours per year. You know, we do believe structural is as a concept is a good one.",
+      "textZh": "我们看到，采用 4680 电芯和结构电池包概念后，电池包制造有了大幅改进：在每年吉瓦时产量相同的情况下，资本支出降低 50%，工厂面积缩小 66%。你知道，我们确实认为，结构电池包这一概念是不错的。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "It's simpler.",
+      "textZh": "它更简单。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "We'll continue to structurally load the cells and use the pack as the floor of the vehicle while iterating the design to closer to B level. Execution of this A level architecture in future programs and zooming out for the 4680 team, Q1 was all about cost and quality. We made significant improvements in both areas. In Texas, production increased 50% quarter over quarter, through yields increased 12% and Cato peak rate increased by 20% and through yields improved by 20%. Altogether, the team accomplished a 25% reduction in COGS over the quarter. And we are on track to achieve steady state cost targets over the next 12 months and going forward the rest of the year. The priority one is yielding cost for the 4680 program as we steadily ramp production ahead of cybertruck next year.",
+      "textZh": "我们将继续让电芯承担结构载荷，并将电池包用作车辆底板，同时迭代设计，使其更接近B级。在未来项目中执行这一A级架构；再从更宏观的角度看4680团队，第一季度的重点完全是成本和质量。我们在这两个方面都取得了显著改善。在得州，产量环比增长50%，直通良率提高12%，Cato峰值速率提高20%，直通良率提高20%。总体而言，该团队在本季度将销货成本降低了25%。我们有望在未来12个月内实现稳态成本目标，并推进今年余下时间的工作。首要任务是4680项目的良率成本，因为我们将在明年Cybertruck之前稳步提高产量。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "Thank you very much. The next question is, what do you anticipate 2023 automotive gross margins X credits will be at the company's current pricing levels?",
+      "textZh": "非常感谢。下一个问题是，按公司当前的定价水平，你们预计 2023 年汽车业务剔除积分后的毛利率会是多少？"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Yeah, I can start off on this one. You know, this is a difficult environment to make a projection like this. You know, there's a lot of macro uncertainty. There's also headwinds and tailwinds. And you know, this is basically a question I think that's asking about our viewpoint on where costs will go. And within costs, there's a set of costs in which we do control the set of costs in which we're kind of subject to what's going on in the macro world within the bucket of things we control. You know, most of the cost down that we're working on is around ramping our Austin factory, stabilizing that and then doing the cost optimization work once we get to our intended volumes there. And a part of the cost journey in the Austin factory is, as Drew mentioned, the 4680 cell, which is an input into our Austin cogs. And so, you know, as the 4680 program improves over the course of the year on cost, as Drew mentioned, and then the non cell portion of the factory improves, we see a pretty good trajectory in the Austin facility. A similar story exists in the Berlin factory. It does not have 4680 as an input. But for that factory, the journey to complete localization is still ongoing. And so over the course of this year, as volume increases, more localization occurs. We do see a good path to cost reduction in the Berlin factory as well in existing factories, too. We talk about this on every call, so I don't need to rehash it. But the expectation is that every existing factory improves all of their key metrics, and we continue to see the progress there. There's also a handful of other costs in which we have influence. But the philosophy here is that we're aggressively going across every cost bucket that we can within the world, that we don't control. The two major costs there being logistics, which fortunately is moving in our favor. And I think our supply chain team has done a great job both on logistics optimization and taking advantage of reduced spot rates where they can. So thank you to our supply chain team. And then there's the commodities world, which has been a huge page point in our cost structure over the last, say, two years or so. And we're still kind of at the maximum of paying for commodities in our cost structure. Kind of maximize it maxed out in the second half of last year. We did start to see in Q1 a little bit of improvement. We think there'll be a little bit more improvement in Q2, but lithium has dropped a lot.",
+      "textZh": "是的，这个问题我可以先来回答。你知道，在这样的环境下很难做出这种预测。你知道，宏观层面存在很多不确定性。也有不利因素和有利因素。而且，你知道，我认为这基本上是在询问我们对成本走向的看法。在成本中，有一部分成本是我们能够控制的，也有一部分成本会受到宏观环境中正在发生之事的影响。在我们能够控制的事项范畴内，你知道，我们正在推进的大部分降本工作都围绕提升奥斯汀工厂的产量、使其稳定下来，然后在达到预期产量后开展成本优化工作。奥斯汀工厂成本进程的一部分，正如Drew提到的，是4680电芯，它是奥斯汀销货成本的一项投入。因此，你知道，随着4680项目在今年期间像Drew提到的那样改善成本，以及工厂的非电芯部分得到改善，我们看到奥斯汀设施有一个相当不错的发展轨迹。柏林工厂的情况类似。它没有4680这项投入。但对那座工厂而言，实现完全本地化的进程仍在继续。因此，在今年期间，随着产量增加，更多本地化得以实现。我们也确实看到柏林工厂有一条良好的降本路径，现有工厂同样如此。我们每次电话会议都会谈到这一点，所以不需要再重复。但我们的预期是，每座现有工厂都会改善其所有关键指标，而我们也继续看到这方面的进展。还有少数其他成本是我们能够影响的。但这里的理念是，我们要积极审视我们能够影响的每一个成本类别；在我们无法控制的领域中，两项主要成本分别是物流和大宗商品。幸运的是，物流的走势对我们有利。我认为我们的供应链团队在物流优化和尽可能利用现货费率下降方面都做得非常出色。因此，感谢我们的供应链团队。然后是大宗商品领域，它在过去，比如说，大约2年里一直是我们成本结构中的一个巨大页面点。而我们在成本结构中为大宗商品支付的成本仍大致处于最高水平。它大概在去年下半年达到最高点。我们确实在第一季度开始看到了一点改善。我们认为第二季度会有更多一点改善，但锂价已经大幅下跌。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "It's worth mentioning that the price of lithium has dropped significantly.",
+      "textZh": "值得一提的是，锂的价格已经大幅下降。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Yeah. And that's the piece that we expect to see more impact from in Q2. And generally, as a company, we do expect commodity prices to come down and have a more meaningful impact in the second half of the year.",
+      "textZh": "是的。而那正是我们预计会在第二季度看到更大影响的部分。总体而言，作为一家公司，我们确实预计大宗商品价格会下降，并在今年下半年产生更显著的影响。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Yeah.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "So, you know, this is our approach, how that nets out. I mean, there's just a lot of risk, and we'll have to see how the year progresses.",
+      "textZh": "所以，你知道，这就是我们的方法，以及最终的净结果。我的意思是，确实存在很多风险，我们必须看看今年会如何发展。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Thank you. The next question is how has global order intake tracked since the most recent round of price cuts?",
+      "textZh": "谢谢。下一个问题是，自最近一轮降价以来，全球订单流入情况如何？"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "I think the overall thing we can say is that orders are in excess of production.",
+      "textZh": "我认为，我们总体上可以说的是，订单量超过了产量。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "Thank you. And maybe the last question from investors. Can you give updated specs and pricing for Cybertruck and any new features that will make it to production?",
+      "textZh": "谢谢。也许这是投资者提出的最后一个问题。你们能否提供Cybertruck最新的规格和定价，以及将投入量产的任何新功能？"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "Well, I think we'll save that for",
+      "textZh": "嗯，我想我们会把这个留到"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "the",
+      "textZh": "该"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "cybertruck handover, which will hopefully be around the end of Q3 this year. And one thing I am confident of saying is that it's an incredible product. It's a Hall of Famer, I think. And a product like this only comes along once in a long while, so people will not be disappointed at all. It's amazing.",
+      "textZh": "Cybertruck交付活动上再说，希望能在今年第三季度末前后举行。我可以很有把握地说的一件事是，这是一款不可思议的产品。我认为，它足以名留青史。像这样的产品很久才会出现一次，所以人们绝对不会失望。它太棒了。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Great.",
+      "textZh": "很好。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "Thank you very much. And let's go to analyst questions. We'll start with Alex Potter from Piper Sandler. Alex, go ahead and unmute.",
+      "textZh": "非常感谢。接下来进入分析师提问环节。我们先从Piper Sandler的Alex Potter开始。Alex，请取消静音。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "Can you hear me?",
+      "textZh": "你们能听见我吗？"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Yep.",
+      "textZh": "能。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "Yes, okay, perfect.",
+      "textZh": "能，好的，很好。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "So first question was on Lathrop, obviously, that's, it's great to see the growth there. Just wondering when you think that facility might be closer to full utilization. Are you just sort of deliberately working your way up the S curve there? Demand obviously isn't the limitation.",
+      "textZh": "第一个问题是关于Lathrop的，显然，看到那里的增长非常好。我只是想知道，你们认为那座设施什么时候可能更接近满负荷利用。你们只是在有意地沿着那里的S曲线逐步推进吗？需求显然不是限制因素。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "So what are you, what are the",
+      "textZh": "那么你们要采取什么，你们要采取哪些"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "steps, I guess, to unlocking full utilization there?",
+      "textZh": "步骤，我想，才能让那里实现满负荷运转？"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "Sure, there are some classic factory ramp aspects of what's going on in Lathrop. We actually have two phases of the CAPEX there. We faced some of the general assembly parts of the facility. But in addition, we also have ramps with our suppliers that we are following. So both on the, on the cell side and on the power electronic side. And we will see that unlock in the latter half of this year with both those inputs. So the overall facility was phased with the second phase of CAPEX coming online towards the end of this year.",
+      "textZh": "当然，Lathrop 正在发生的情况中，有一些典型的工厂产能爬坡因素。实际上，我们在那里有两个阶段的资本支出。我们面对了该设施的一些总装部分。但除此之外，我们也在跟进供应商的产能爬坡。因此，电芯方面和电力电子方面都是如此。随着这两项投入到位，我们将在今年下半年看到产能得到释放。因此，整个设施是分阶段推进的，第二阶段资本支出将于今年年底前后上线。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "Okay, great. And then I guess my second question is on your ability to serve other markets out of Shanghai. Obviously the facility in Berlin should be opening up your ability to, I guess, allocate more vehicles to Southeast Asia, Australia, other areas. I'm just wondering what other regions you think you're maybe not yet serving effectively. What are your timelines for addressing some of those gaps in your regional exposure? Thanks.",
+      "textZh": "好的，很好。那么我想我的第2个问题是关于你们利用上海向其他市场供货的能力。显然，柏林的工厂应该会提升你们的能力，让你们可以，我想，向东南亚、澳大利亚和其他地区分配更多车辆。我只是想知道，你认为还有哪些地区是你们也许尚未有效服务的。对于填补你们地区覆盖中的部分空白，你们的时间表是什么？谢谢。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "Yeah, that's a good question because there are still many parts of the world that we do not yet serve with respect to vehicles especially. So we do expect to open up new markets around the world. And while those markets are not necessarily individually gigantic, they do add up to, you know, if you add up a whole bunch of markets, they do collectively sum up to something significant. So it's high time that Tesla offered its cars to the rest of the world. And that is something that we intend to do.",
+      "textZh": "是的，这是个好问题，因为世界上仍有许多地方是我们尚未提供服务的，特别是在汽车方面。所以，我们确实预计将在世界各地开拓新市场。虽然这些市场单独来看未必规模巨大，但它们累加起来，你知道，如果把一大批市场加在一起，它们合计起来确实会形成相当可观的规模。所以，Tesla早该向世界其他地区提供汽车了。而这正是我们打算做的事情。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "Thank you very much. Let's go to the next analyst, George from Kenacourt. Go ahead and unmute.",
+      "textZh": "非常感谢。我们请下一位分析师，来自Kenacourt的George。请取消静音。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "Hi, thanks for taking my question. I was wondering first if you could discuss your FSD take rates and whether you've seen any significant positive or negative change there. And also, given that you've reduced the prices for your vehicles, do you think you need to do that for FSD as well?",
+      "textZh": "你好，感谢回答我的问题。首先，我想知道你能否谈谈FSD的选购率，以及你们是否看到它出现任何显著的正面或负面变化。另外，鉴于你们已经下调了车辆价格，你认为FSD也需要这样做吗？"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "Thanks.",
+      "textZh": "谢谢。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "I'll be kind to answer the details on the FSD take rate. But the. It's a tricky pricing question because the value of a car that is autonomous is enormous. So in a way, the price right now is an option value on an autonomous vehicle and that value will ultimately be very significant. And, you know, it's really, really. Yeah. I mean, for those that are Using the FSD beta. I think you can see the improvements are really quite dramatic. You know, there'll be a little bit of two steps forward, one step back between releases and for those trying the beta, but the, the trend is very clearly towards full self driving towards full autonomy. And you know, I hesitate to say this, but I think we'll do it this year. So that's what it looks like.",
+      "textZh": "我会好心回答FSD选购率的细节。但这个。这是一个棘手的定价问题，因为一辆能够自动驾驶的汽车价值巨大。所以从某种意义上说，目前的价格是自动驾驶汽车的一种期权价值，而这一价值最终会非常可观。而且，你知道，它真的、真的。对。我的意思是，对于那些正在使用FSD测试版的人。我想你可以看到，其改进确实相当显著。你知道，在不同版本之间以及对那些试用测试版的人来说，会有一点前进2步、后退1步的情况，但这个、这个趋势非常明确地指向完全自动驾驶、指向完全自主驾驶。而且，你知道，我不太敢这么说，但我认为我们今年会做到。所以目前看起来就是这样。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "Yeah.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Thank you. Maybe on the dramatic change we've seen in EV related commodity prices, do you think it's a reflection of any recent overcapacity in mining and refining or is that sort of a coincident indicator on global EV demand and how do you expect those prices to kind of track",
+      "textZh": "谢谢。也许可以谈谈我们看到的电动汽车相关大宗商品价格的剧烈变化，您认为这反映了近期采矿和精炼领域的某种产能过剩，还是说这算是全球电动汽车需求的一个同步指标？您预计这些价格会如何变化"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "over the next several quarters?",
+      "textZh": "在接下来的几个季度里？"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Thank you.",
+      "textZh": "谢谢。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "And I wish I had a crystal ball to answer your question. I, I don't know if we can provide a question that would, with, with that would have any value really. It's, I think we're in uncertain times and if somebody's got a crystal ball they can lend me, I'd really like to borrow it. But you know, these are, these are uncertain times. You know, my guess is this, it's you know, economic stormy weather for about a year or so and then roughly 12 months. And then this is my guess, it's just pure speculation stormy weather for about 12 months and then provided there are no major geopolitical wild cards that show",
+      "textZh": "我也希望自己有一个水晶球来回答你的问题。我，我不知道我们能否提供一个真正会有、会有任何价值的问题。我认为我们正处于不确定的时期，如果谁有水晶球可以借给我，我真的很想借来用用。但是，你知道，这是，这是不确定的时期。你知道，我的猜测是，大概会有1年左右的经济风雨期，然后大约12个月。然后，这是我的猜测，纯粹只是推测，会有大约12个月的风雨期，之后，只要没有重大的地缘政治意外因素出"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "up,",
+      "textZh": "现，"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "things start getting sunny around spring next year.",
+      "textZh": "到明年春季前后，情况会开始转晴。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "The only thing I would say on",
+      "textZh": "我唯一想说的是，关于"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "the",
+      "textZh": "这个"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "EV materials markets, they're not all super liquid. And some of them, for example, less than single digit percentage of the market is actually traded on the spot market. And not only are they not super liquid, there's not like storage isn't particularly facile for all of the materials. So like small mismatches in supply and demand drive like large price swings. Not, not really real price swings, but just like temporarily large price swings. So it's hard to read into those price swings. I don't know Karna, if you want",
+      "textZh": "电动汽车材料市场，它们并非全都具有很强的流动性。其中一些市场，例如，实际在现货市场交易的份额不到个位数百分比。它们不仅流动性不是很强，而且并非所有材料都特别便于储存。所以，供需之间的小幅错配会引发大幅价格波动。并，并不是真正的价格大幅波动，只是暂时出现大幅价格波动。因此，很难从这些价格波动中解读出什么。我不知道，Karna，你是否想"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "this Karl, by the way, we are seeing, you know, as Elon mentioned, quite a bit of softening in the lithium carbonate market. This was, you know, six months ago we were trading at like $85,000 a ton and today's spot price is about 26. So there's been a dramatic decrease in that. Of course we were able to take advantage of low lithium pricing earlier on with fixed price contracts. And we find that this is going to be another opportunity, opportune moment, basically extend that into the later half of the decade. But you know the quantities we're procuring. We're not as impacted by the spot market because we have those contracts in place and we're just going to be going and doing more of that. The other thing that's happening is because of the price spike, a lot of the companies that are in this business are becoming more ambitious about finding more upstream resources and exploring locations in Africa as well as South America. So that's also helping the macro situation with pricing.",
+      "textZh": "顺便说一下，这是Karl。我们看到，你知道，正如埃隆所提到的，碳酸锂市场出现了相当明显的疲软。你知道，6个月前，我们的交易价格大约是每吨85,000美元，而今天的现货价格约为26。所以价格出现了剧烈下降。当然，我们此前已经通过固定价格合同利用了较低的锂价。我们认为，这将是另一个机会，一个合适的时机，基本上可以把这延续到本10年的后半段。不过，你知道，就我们采购的数量而言，我们受现货市场的影响没有那么大，因为我们已经签订了这些合同，而我们接下来只会继续做更多这样的事。另一件正在发生的事情是，由于价格飙升，许多从事这一业务的公司在寻找更多上游资源以及勘探非洲和南美洲的地点方面变得更有雄心。因此，这也在帮助改善价格方面的宏观形势。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "Yeah, but just on the lithium front to reemphasize, the choke point is much more on refining capacity than it is on mining. Lithium is actually very common throughout the world, including in the US and really it's just a very common element on Earth is lithium. So it's much more a question of where's the refining capacity and can the refining capacity keep up. That's really what matters more than where is the lithium ore. It's everywhere, basically. I think that same question also extends to refining of the cathode and to some degree, refining of the anode. And this is why we've, at Tesla, we're building our, you know, lithium refinery capability at Corpus Christi and our cathode refinery outside Austin. It's worth noting, like, I hope other companies do the same thing. We'll have by far the most lithium refining capability and the most cathode refining capability in North America. I think probably more than everyone else combined by a lot. So can other people please do this work? That would be great. We're begging you. We don't want to do it. Can someone please, instead of making a picture sharing app, please refine lithium mining and refining heavy industry? Come on.",
+      "textZh": "是的，不过只谈锂这一方面，再强调一次，瓶颈更多在于精炼产能，而不是采矿。实际上，锂在全球各地都非常常见，包括美国，而且锂确实就是地球上一种非常常见的元素。因此，问题更多在于精炼产能在哪里，以及精炼产能能否跟得上。与锂矿石在哪里相比，这才是真正更重要的事情。基本上到处都有。我认为，同样的问题也延伸到正极材料的精炼，并在一定程度上延伸到负极材料的精炼。这就是为什么我们Tesla正在得克萨斯州科珀斯克里斯蒂建设自己的锂精炼能力，并在奥斯汀郊外建设正极材料精炼厂。值得指出的是，我希望其他公司也做同样的事情。我们将拥有北美遥遥领先的最大锂精炼能力和最大正极材料精炼能力。我认为，很可能比其他所有公司加起来还要多出很多。所以，其他人能不能也请来做这项工作？那就太好了。我们求你们了。我们不想做这件事。能不能请某个人别再做图片分享应用了，而是请去精炼锂，去做采矿和精炼重工业？来吧。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "It's fun. It's actually fun.",
+      "textZh": "这很有趣。其实真的很有趣。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "Yeah, yeah, exactly. It's real.",
+      "textZh": "是的，是的，没错。这是真实的。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "You have a customer. We're here, ready to buy.",
+      "textZh": "你已经有一个客户了。我们就在这里，准备购买。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "Yeah, that's right.",
+      "textZh": "是的，没错。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "I just want to emphasize Tesla's not doing this because we want to do it. We have a lot of, we have a lot of fish to fry, obviously, but we're doing it because others aren't doing it and we wish others would do it.",
+      "textZh": "我只想强调，Tesla做这件事并不是因为我们想做。我们有很多，我们显然有很多事情要处理，但我们之所以这样做，是因为其他人没有做，而我们希望其他人去做。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "Awesome. Thank you very much. Let's go to Emmanuel Rosner from Deutsche Bank.",
+      "textZh": "太好了。非常感谢。接下来请德意志银行的Emmanuel Rosner提问。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "Hey, Emmanuel, can you hear me?",
+      "textZh": "嘿，Emmanuel，你能听到我吗？"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "Yeah, we can.",
+      "textZh": "是的，我们能听到。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "Yep.",
+      "textZh": "嗯。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Perfect.",
+      "textZh": "很好。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "Thank you so much for taking my questions. Maybe your first question for Elon on your pricing strategy. So if I understand your message, you're saying, you know, Tesla feels it's worth maximizing the volume, increasing the size of the fleet as fast as you can because you'll be able to monetize this over the, the life cycle of the vehicle. Could you be a little bit more specific around ways you would be able to monetize sort of like this existing fleet in the future? Obviously, I think autonomous seems to be a big piece of it by my understanding was that robotaxi would probably be for the next generation vehicle, not the existing one. So I guess in which ways would you monetize it?",
+      "textZh": "非常感谢你们回答我的问题。也许第1个问题是问埃隆，关于你们的定价策略。所以，如果我正确理解了你的意思，你是说，你知道，Tesla认为尽可能扩大销量、尽快增加车队规模是值得的，因为你们将能够在车辆的整个生命周期内从中变现。你能否更具体地说明一下，未来你们可以通过哪些方式从这支现有车队中变现？显然，我认为自动驾驶似乎是其中很大的一部分，但我的理解是，无人驾驶出租车可能会用于下一代车型，而不是现有车型。所以我想问，你们会通过哪些方式将其变现？"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "Sorry, the robotaxi terminology can be a bit confusing because that's sort of like a generic term for our next generation vehicle. And we obviously are working on next generation vehicle. That's going to be very compelling. This is just not the time to talk about it in detail as product. So we internally call it robo taxi. But really all of the vehicles that have hardware three, which is the vast majority of our fleet, we believe will achieve full autonomy. So they will be robo, they will be a rope like a Model 3 or Model Y would be a robo taxi, a robotic taxi. So yeah, that's the best of our knowledge that we believe the current hardware can achieve full autonomy. Understood.",
+      "textZh": "抱歉，无人驾驶出租车这个术语可能有点令人困惑，因为它有点像是我们下一代车型的一个通用称呼。我们显然正在开发下一代车型。它将非常有吸引力。现在还不是把它作为产品进行详细讨论的时候。所以，我们内部称它为无人驾驶出租车。但实际上，所有配备硬件3的车辆，也就是我们车队中的绝大多数车辆，我们认为都将实现完全自动驾驶。所以它们会成为无人驾，它们会是一根绳子，比如Model 3或Model Y会成为无人驾驶出租车，一辆机器人出租车。所以，是的，据我们所知，我们认为当前的硬件能够实现完全自动驾驶。明白了。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "And then maybe a question for Zach. Back on the automotive gross margins, I think, I guess a few months ago, even after major price cuts, you felt pretty strongly that 20% automotive gross margin was still probably a reasonable floor. Obviously the macro has gone worse and additional price cuts have happened. Is there anything else that has changed in terms of the outlook? Is it just the macro deteriorating? Is it the competitive landscape? Anything else that's makes you think differently around the full year? And is there a way therefore to frame a floor?",
+      "textZh": "然后，也许有一个问题想问Zach。回到汽车业务毛利率，我认为，我想几个月前，即使在大幅降价之后，你仍然相当坚定地认为，20%的汽车业务毛利率可能仍然是一个合理的下限。显然，宏观环境已经恶化，而且又进行了额外的降价。在前景方面，还有其他任何变化吗？只是宏观环境在恶化吗？是竞争格局吗？还有其他任何因素让你对全年情况产生了不同看法吗？因此，有没有办法界定一个下限？"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "Yeah, about half of the myths against that previous conversation last quarter is attributed to adjustments we made in pricing in the second half of the quarter. I guess you could argue that that that lowers the floor in a sense. We've also made pricing adjustments so far this quarter, you know, so that brings it down further. About the other half of the myth in Q1 was attributed to things that are non recurring. So I mentioned these in my opening remarks. The warranty adjustment for cars that were previously produced, but not part of the pedigree of cars we're building now. And some autopilot related deferrals as we make some technology changes here that those deferrals should get recognized once some of the software catches up. So those two things are non repeating. So hopefully that helps answer your question.",
+      "textZh": "是的，相对于上季度的那次谈话而言，大约一半的神话归因于我们在该季度后半段所做的定价调整。我想你可以说，从某种意义上讲，那降低了下限。本季度到目前为止，我们也做了定价调整，你知道，所以这让它进一步下降。第一季度神话中的另外大约一半归因于非经常性事项。所以我在开场发言中提到了这些。对之前生产的汽车所做的保修调整，但那些车不属于我们现在所造汽车的谱系。还有一些与 Autopilot 相关的递延，因为我们在这里进行一些技术变更；一旦部分软件跟上，这些递延就应该得到确认。所以这两件事不会重复发生。希望这有助于回答你的问题。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Yeah, I mean there's really two macro factors that are tricky, the biggest being the interest rate. So if there's a very high Fed rate or interest rates are very high, every time the Fed raises interest Rates that's equivalent to increasing the price of a car. It makes the cars less affordable because people are able to buy cars as a function of what they can afford on a monthly basis. So, so it's just almost directly equivalent to a price increase is any kind of interest rate increase. Then the other factor is whenever there's uncertainty in the economy, people will generally postpone. Big new capital purchases like a new car. So there's a natural human reaction. So if people are reading about layoffs and whatnot in the press, they're like, well they might be worried about, they might be laid off, so then they'll be naturally a little more hesitant than they would otherwise be to buy a new car. Now this, this is just the nature of the auto industry. You know it, but, but there is, there will be tremendous amount of pent up demand for new cars.",
+      "textZh": "是的，我是说，确实有2个棘手的宏观因素，最大的一个是利率。所以，如果美联储利率非常高，或者利率非常高，那么每次美联储加息，都相当于提高汽车的价格。这会让汽车变得不那么买得起，因为人们能买什么车取决于他们每个月负担得起多少。所以，所以任何形式的加息几乎都直接等同于涨价。然后另一个因素是，每当经济存在不确定性时，人们通常会推迟。像新车这样的大额新增资本支出。所以，这是一种自然的人类反应。所以，如果人们在媒体上读到裁员之类的消息，他们就会想，嗯，他们可能会担心，自己可能会被裁员，因此自然而然地会比其他情况下更犹豫是否购买新车。现在，这，这就是汽车行业的本质。你知道的，但，但是，对新车将会存在极其庞大的被压抑需求。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "So.",
+      "textZh": "所以。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "But it goes through cycles.",
+      "textZh": "但它会经历周期。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "Thank you. Let's go to Ben Kalo from Baird. Ben, go ahead and unmute.",
+      "textZh": "谢谢。下面请 Baird 的 Ben Kalo。Ben，请继续并取消静音。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "Hey guys. You know Elon, when you talk about many fish to fry, you talked about dojo being a product that you could sell outside of Tesla. How do we, how do we rank all the things you have going on and then in the economic environment, I mean like heat pumps and everything else you have going on versus you know, investing in the vehicle business, there's not that, not the right way to look at it.",
+      "textZh": "嗨，各位。埃隆，你知道，当你谈到有很多事情要处理时，你提到 dojo 可以成为一种在 Tesla 之外销售的产品。我们该如何，我们该如何对你们正在推进的所有事情进行排序？然后在当前的经济环境下，我是说，比如热泵和你们正在推进的其他一切，与投资汽车业务相比，你知道，这不是，不是正确的看待方式吗？"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "I'm not sure I fully understand your question. But the, the, you know, I look at dojo as like kind of a long shot bet. But if it's a long shot bet that pays off, it'll pay off in",
+      "textZh": "我不确定自己是否完全理解你的问题。但，那个，你知道，我把 dojo 看作一种胜算很低的押注。但如果这项胜算很低的押注成功了，它将会以"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "a very, very big way.",
+      "textZh": "非常、非常大的方式获得回报。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "But potentially, you know. Yeah, potentially in a very, very big way.",
+      "textZh": "但有可能，你知道。是的，有可能以一种非常、非常大的方式。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Like",
+      "textZh": "比如"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "you know, in the multi hundred billion dollar level. But it, but the thing with like, you know, still put it in the long shot category, but long shot with a multi hundred billion dollar, you know, potential outcome. And so it's a bet worth making but not one you can take. You can sort of say like, you know, take it to the bank type of thing. Although these days take it to the bank, it's maybe not as secure as it used to be. So, and obviously we're big believes in heat pumps, you know, and that is on our list that, you know, over time is to do a really good heat pump for homes and you know, commercial offices and stuff. And we have the technology, it's really good. But it's, it's still, it's, it's a back burner item, you know, focuses very much on, on vehicles Autonomy, stationary storage, basically as solving sustainable energy and solving autonomy, which would be, you know, like I said, solving autonomy. If we're able to have a fleet of several million vehicles that with a software update can, can be potentially worth several times their original value. That's. That, that will be. If that happens. That will be the. And I think it will happen. That'll be the biggest asset value increase in history, I think.",
+      "textZh": "你知道，达到数千亿美元的级别。但它，但对于这件事，你知道，仍然要把它归入胜算很低的押注这一类，但它是一项可能带来数千亿美元成果的低胜算押注，你知道。所以这是一项值得进行的押注，但不是一种你能拿走的。你可以把它说成是那种，你知道，可以拿去银行兑现的事情。不过现在，拿去银行也许不像过去那么稳妥了。所以，而且显然我们非常相信热泵，你知道，这也在我们的清单上，也就是说，你知道，随着时间推移，要为住宅以及，你知道，商业办公楼之类的地方制造一款真正优秀的热泵。而且我们拥有这项技术，它确实很好。但它，它仍然，它，它是一项暂时搁置的事项，你知道，重点非常明确地放在，放在汽车、自动驾驶、固定式储能上，基本上就是解决可持续能源和解决自动驾驶，而这会是，你知道，正如我所说，解决自动驾驶。如果我们能够拥有一个由数百万辆汽车组成的车队，通过一次软件更新，它们的潜在价值可以达到原始价值的数倍。那是。那，那将会是。如果那发生的话。那将会是。而且我认为它会发生。我认为，那将是历史上最大的资产价值增长。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "Thank you. Just on pricing, a lot of pundits talk about pie and losing share or gaining share and. But how do you guys look at pricing versus EVs or ICE vehicles or does that not come into the equation? Sorry to ask about price again. Thank you.",
+      "textZh": "谢谢。只谈一下定价，很多评论人士会谈论蛋糕、失去份额或获得份额，以及。但是你们如何看待相对于电动车或内燃机汽车的定价，还是说这根本不在考量之中？抱歉再次询问价格。谢谢。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "No, it's really just like, you know, we're. Every day we get a daily real time update of how many cars were ordered yesterday. How many cars were produced yesterday. We must have.",
+      "textZh": "不，其实就是，你知道，我们。每天，我们都会收到每日实时更新，显示昨天订购了多少辆汽车。昨天生产了多少辆汽车。我们肯定有。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "I.",
+      "textZh": "我。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "If there's a company that's got more real time data than Tesla, you know, I'm not sure, I'm not sure there's any company on earth that has better real time data than Tesla. Except maybe SpaceX, Starlink, you know, so, because, because like we don't have to, you know, for the other car companies, they will make the cars, send them to the dealers, then the dealers will sell the cars and you know, and then it takes quite a long time for them to get the data back to actually figure out how many cars are sold. Whereas we know how many cars were ordered yesterday throughout the world. So, so our fingers on the pulse is real time and does not have latency. Whereas the other car companies have a lot of latency in their data, as does the government. The government has a lot of latency in their data. So we're just looking at and saying,",
+      "textZh": "如果有哪家公司拥有比 Tesla 更多的实时数据，你知道，我不确定，我不确定地球上是否有任何公司拥有比 Tesla 更好的实时数据。或许 SpaceX、星链除外，你知道，所以，因为，因为就像我们不必，你知道，对于其他汽车公司来说，他们会生产汽车，把汽车送到经销商那里，然后经销商会把汽车卖掉，而且，你知道，然后要过相当长的时间，他们才能收到数据，真正弄清楚卖出了多少辆汽车。而我们知道昨天全世界订购了多少辆汽车。所以，所以我们是实时把握脉搏的，不存在延迟。而其他汽车公司的数据有很大的延迟，政府也一样。政府的数据有很大的延迟。所以我们只是在观察并说，"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "okay,",
+      "textZh": "好吧，"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "you know, what does it take to achieve a clearing price for our vehicle production? And then we make a pricing change and we see what happens immediately and adjust course. So we're adjusting course and we're thinking about it literally every day, seven days a week. Seven days a week. I look at that email and so does the rest of the team and we try to make the least dumb decision that we can. You know, on balance, I think our decisions are pretty good. You know, sometimes they'll be, you know, dumb, but on average they're, I think, better than the rest of industry.",
+      "textZh": "你知道，要怎样才能为我们的汽车产量实现出清价格？然后我们会调整价格，并立即观察会发生什么，再调整方向。所以我们一直在调整方向，实际上每一天都会思考这件事，每周7天。每周7天。我会查看那封电子邮件，团队其他成员也是如此，我们会努力做出我们所能做出的最不愚蠢的决定。你知道，总体而言，我认为我们的决定相当不错。你知道，有时它们会很，你知道，愚蠢，但平均而言，我认为它们比业内其他公司的决定更好。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "Just to add on the question about EV market share or ice, this comes up a lot. I think a lot of the public debate is around this concept of EV market share. We don't look at it that way. We look at it as",
+      "textZh": "再补充一下关于电动车市场份额或内燃机的问题，这经常被提到。我认为很多公共讨论都围绕着电动车市场份额这个概念。我们不是这样看待它的。我们把它看作"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "it's the",
+      "textZh": "它是"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "car market, not the EV market. And actually the mission of the company requires internal combustion engine cars to be switched over to electric vehicles. So that's what we pay attention to.",
+      "textZh": "汽车市场，而不是电动车市场。而且事实上，公司的使命要求将内燃机汽车转换为电动车。所以这才是我们关注的事情。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "Yeah, I've said that last time too. We got to, you guys got to stop looking at it as the EV market. It's how many cars are we selling? Just start looking at it that way. All cause will be EVs. It's, you know, it's going to, you know, I've said this for a long time, but we'll look back. I don't know, assuming civilization still around in 20 years, we'll look back on internal combustion engine vehicles the same way we look back on external combustion engine vehicles, which, like a steam engine. A steam engine is an external combustion engine vehicle. And, you know, there's still a few around. They're kind of quirky and, you know, kind of cool collectors items. That's how gasoline cars will be in the future.",
+      "textZh": "是的，我上次也说过。我们必须，你们必须停止把它看作电动车市场。关键是我们卖出了多少辆汽车？就开始这样看待它。所有原因都会是电动车。它，你知道，它将会，你知道，我说这个已经很久了，但我们会回头看。我不知道，假设文明在20年后仍然存在，我们回看内燃机汽车的方式，将与我们回看外燃机汽车的方式相同，比如蒸汽机。蒸汽机是一种外燃机汽车。而且，你知道，现在仍然有少数这种车。它们有点古怪，而且，你知道，是有点酷的收藏品。未来汽油车也会是这样。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "Thank you. Let's go to Colin Rush from Oppenheimer. Colin, go ahead. Go ahead and unmute, please.",
+      "textZh": "谢谢。下面请 Oppenheimer 的 Colin Rush。Colin，请继续。请继续并取消静音。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "Thanks so much.",
+      "textZh": "非常感谢。"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "Guys, can you talk a little bit",
+      "textZh": "各位，你们能否稍微谈谈"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "about how much of the actual cost structure is variable, you know, on these vehicles? And if you could give us a range on plus or minus the lithium cost within those contracted volumes that you're seeing?",
+      "textZh": "这些汽车的实际成本结构中有多少是可变的，你知道？另外，在你们看到的那些合同约定数量范围内，能否给我们一个锂成本上下浮动的区间？"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "Well, I think",
+      "textZh": "嗯，我认为"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "we'd really love to have a crystal ball here, but we don't have it. Depending on what timescale you're looking at, most of the car is variable. So most like most car costs variable. So. And probably, if I were to guess, I think we will see improved costs from suppliers,",
+      "textZh": "我们确实很希望这里能有一个水晶球，但我们没有。取决于你看的是哪个时间尺度，汽车的大部分成本都是可变的。所以，大多数，比如大多数汽车成本都是可变的。所以。而且如果让我猜，我认为我们会看到供应商方面的成本有所改善，"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "you know.",
+      "textZh": "你知道。"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "Yeah, I think we will. That is our expectation, and we're already",
+      "textZh": "是的，我认为会的。这是我们的预期，而且我们已经"
+    },
+    {
+      "id": "p-0115",
+      "textEn": "starting to see that. Elon, I think you mentioned before we anticipated a crash in the lithium prices, and some of that has flowed through by way of lithium carbonate reductions into battery cost. And the same thing will happen with lithium hydroxide. The length of the supply chain matters also, because what we're talking about is very far upstream. So by the time it makes it into the battery that ends up in a car, it'll be several months. But, you know, beyond just commodity pricing, as Zach mentioned earlier, we're also very focused on other metrics that make production very efficient. So, for example, detention and demurrage, air expedites, I think our air Expedites are down 90%. Detention and demerge is down 93% from the peaks.",
+      "textZh": "开始看到这一点。埃隆，我想你之前提到过，我们预计锂价会暴跌，其中一部分已经通过碳酸锂价格下降传导到了电池成本中。氢氧化锂也会出现同样的情况。供应链的长度也很重要，因为我们谈论的是非常上游的环节。所以等它进入最终装进汽车的电池时，将需要几个月。但你知道，除了大宗商品定价之外，正如 Zach 之前提到的，我们也非常关注其他能让生产变得非常高效的指标。例如，滞留费和滞期费、空运加急，我想我们的空运加急已经下降了 90%。滞留费和分拆费较峰值下降了 93%。"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "That's.",
+      "textZh": "那是。"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "That can be hundreds of thousands of dollars per vehicle. So we're sort of attacking all vectors and becoming very efficient. Okay.",
+      "textZh": "那可能是每辆车数十万美元。所以我们算是在从各个方向着手，并且变得非常高效。好的。"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "And then my follow up is really around stationary storage demand on the utility scale. I mean, obviously there's a gigantic queue for, you know, interconnection in the US and can you talk about, you know, the volume of quotation you're seeing at this point around stationary storage for that renewables queue on a global basis and how much of that is converted into actual sales?",
+      "textZh": "然后我的后续问题实际上是关于公用事业规模的固定式储能需求。我的意思是，显然美国有一个巨大的，你知道，并网排队，你能否谈谈，你知道，目前在全球范围内，围绕可再生能源排队项目的固定式储能，你们看到的询价规模有多大，其中有多少转化成了实际销售？"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "Drew, you want to take that?",
+      "textZh": "Drew，你想回答这个问题吗？"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "I mean, yeah, that's also not exactly how we look at it, really. We're not like. Yeah, we're not engaged in the interconnection queue. Like, we're focused on ramping megapack as quickly and efficiently as we can. And we have visibility into the pipelines of a variety of different renewable energy and just pure stationary storage developers. And we also develop our own projects, and we're mostly just going. We're being selective and trying to pick the products that projects that best fit our mission and our objectives.",
+      "textZh": "我的意思是，是的，其实我们看待这件事的方式也不完全是这样。我们并不是说。是的，我们没有参与并网排队。我们专注于尽可能快速、高效地提升 Megapack 的产量。我们能够了解各种不同的可再生能源开发商和纯固定式储能开发商的项目储备。我们也开发自己的项目，而我们大体上只是在推进。我们会有所选择，努力挑选最符合我们使命和目标的产品，那些项目。"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "Yeah, this is not a product call, but we'll have something. I mean, we're making improvements on many fronts, including make pack. So I think some of those improvements will improve the speed at which you can connect the megapacks to the grid.",
+      "textZh": "是的，这不是一场产品电话会议，但我们会有一些东西。我的意思是，我们正在许多方面进行改进，包括制作包。所以我认为，其中一些改进将提高你把 Megapack 接入电网的速度。"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "Thank you. The next question is from Mark Delaney from Goldman Sachs.",
+      "textZh": "谢谢。下一个问题来自高盛的 Mark Delaney。"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "Yes, good afternoon.",
+      "textZh": "好的，下午好。"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "Thank you for taking the question. Do you still see 2 million units as an upside case for volume this year? And is the gating factor for reaching 1.8 million or 2 million units in 2023 still supply chain, as was mentioned on your last conference call, or is it more about demand at this point?",
+      "textZh": "感谢接受提问。你们是否仍然认为今年的销量在乐观情况下可达 200 万辆？而且，2023 年达到 180 万辆或 200 万辆的制约因素是否仍然是供应链，就像你们上次电话会议上提到的那样，还是目前更多是需求方面的问题？"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "Well, you know, if you have a crystal ball, you can lend me back to the Crystal bowl situation. These are volatile times from a production standpoint. If things go well, we've got a shot at 2 million vehicles this year. But that is an upside case, and we feel comfortable with 1.8. And we'll have to see how this year unfolds.",
+      "textZh": "嗯，你知道，如果你有水晶球，可以借给我，回到水晶碗那个情况。从生产角度来看，现在是动荡时期。如果一切顺利，我们今年有机会达到 200 万辆汽车。但那是乐观情形，而我们对 180 万辆感到有把握。我们还得看看今年会如何发展。"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "That's helpful. Thanks. And then the company has spoken at the investor day and in some of the past conference calls about opening up its vehicle charging network. Can you speak to some of the feedback you've been getting from both Tesla owners and non Tesla owners and how the ramp of the charging network may progress from here?",
+      "textZh": "这很有帮助。谢谢。然后，公司在投资者日和过去的一些电话会议上谈到开放其车辆充电网络。您能否谈谈从 Tesla 车主和非 Tesla 车主那里收到的一些反馈，以及充电网络从现在起可能会如何扩大？"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "Thanks, Drew. You want to take that?",
+      "textZh": "谢谢，Drew。你想回答吗？"
+    },
+    {
+      "id": "p-0128",
+      "textEn": "Yeah.",
+      "textZh": "好的。"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "So, as you may have seen, we opened our first V4 post in Europe and our MagicDoc post in North America in Q1, and that is indicative of the direction we're heading with universal compatibility for all vehicles. No matter where the charge, Ford is, et cetera, in all major markets. And we're going to continue to roll out those sort of improved offerings as we build new stations. You know, we're always balancing like our ability to serve our own customers with our ability to serve new customers. When doing that, I think we've been able to balance it rather well. For example, in Europe, 50% of all of our of our supercharging stations are open to all EVs. And we've been able to do that without any increase in wait times at all for anybody. So we're going to continue to take a similar approach as we do this in North America and China over the coming quarters.",
+      "textZh": "所以，正如你们可能已经看到的，我们在第一季度于欧洲开放了首个 V4 充电桩，并在北美开放了首个 MagicDoc 充电桩，这表明了我们正在朝所有车辆普遍兼容的方向前进。无论充电在哪里、Ford 是什么等等，在所有主要市场都是如此。随着我们建设新站点，我们将继续推出这类改进后的服务。你知道，我们始终在服务现有客户的能力与服务新客户的能力之间寻求平衡。在这样做时，我认为我们一直能够很好地保持平衡。例如，在欧洲，我们所有超级充电站中的 50% 都向所有电动汽车开放。而且我们在做到这一点的同时，没有让任何人的等待时间出现任何增加。因此，未来几个季度我们在北美和中国推进这项工作时，将继续采取类似的方法。"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "Okay, thank you very much. Let's go to Rod Lash from Wolf Research.",
+      "textZh": "好的，非常感谢。下面请 Wolf Research 的 Rod Lash 提问。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "Hi everybody. I just wanted to first just follow up on your comments in your letter about leveraging your cost position as others struggle with unit economics and also taking into account the lifetime revenue actually in a way that most other automakers will never see. Just given your service network and supercharging and other attributes, can you just maybe give us a sense of how far you'd be willing to take this? Are there brackets around the range of initial margin that you'd be comfortable with and again, any color that you might provide on the updated range of margins that you'd expect in the auto business?",
+      "textZh": "大家好。我首先只想跟进一下你们在信中所说的内容，也就是在其他公司为单车经济性苦苦挣扎时，利用你们的成本地位，同时还以一种大多数其他汽车制造商永远无法做到的方式，将全生命周期收入考虑在内。考虑到你们的服务网络、超级充电以及其他属性，能否大致说明一下你们愿意把这件事推进到什么程度？对于你们能够接受的初始利润率范围，是否设有上下限？另外，能否再提供一些信息，说明你们预计汽车业务更新后的利润率范围？"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "I think we may have answered this question or tried to answer this question a few times, but it's difficult to say what the margin will be. It depends on what the macroeconomic environment is like. You know, for example, if the Fed were to lower the rates, that would be super helpful for demand. If they keep, if they raise them, that's, that's, you know, that just raises the interest costs that buyers have to pay for to buy a car. So it reduces affordability and therefore reduces demand. So it's, but if, you know, like if we look past say this year or like go, you know, sometime next year, middle next year. So I think things are looking really, I think, you know, like I said, well, you know, we'll best rough if there's some, you know, major geopolitical wild card that that turns up. But in the absence of that, I think I would be very optimistic about your middle of next year, end of next year.",
+      "textZh": "我想我们可能已经回答过这个问题，或者曾几次尝试回答这个问题，但很难说利润率会是多少。这取决于宏观经济环境如何。你知道，例如，如果美联储降低利率，那会对需求极有帮助。如果他们维持，如果他们加息，那就，那就会，你知道，那只会提高买家为了买车而必须支付的利息成本。因此，这会降低可负担性，进而减少需求。所以这，但是如果，你知道，比如说我们越过今年，或者说到了，你知道，明年的某个时候，明年年中。那么我认为情况看起来真的，我认为，你知道，就像我说的，嗯，你知道，如果出现某个，你知道，重大的地缘政治意外因素，我们就会受到最大冲击。但如果没有这种情况，我认为我会对明年年中、明年年底非常乐观。"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "So just to add to Elon's comments, just two other points. You know, what's really important for us this year in addition to just managing the day to day of the business, but is also investing in, as Elon mentioned, what 20, 24 and 2025 will look like. And so, you know, using the cash generated from the sale of products today and reinvesting that, this is very important for us. I think that what happens to margins over the next couple of quarters only matters in the context of what that means for our ability to reinvest into 2024 and 2025. And we have a lot of space before that becomes something that we have to revisit our investment plans. And so, you know, we're, we're planning to keep the business healthy. But I just want to caution folks about reading too much into what happens over the near term here because we're very focused as a company on making sure that when we exit this macroeconomic situation, this company is positioned in the best possible way.",
+      "textZh": "所以，只是补充一下埃隆的评论，还有另外 2 点。你知道，今年对我们真正重要的，除了管理业务的日常运营之外，也包括投资于埃隆所提到的 20、24 和 2025 年将会是什么样子。因此，你知道，利用当前销售产品所产生的现金并将其再投资，这对我们非常重要。我认为，未来几个季度利润率如何变化，只有放在这对我们再投资于 2024 年和 2025 年的能力意味着什么这一背景下才有意义。而且在这件事发展到迫使我们重新审视投资计划之前，我们还有很大的空间。所以，你知道，我们，我们计划保持业务健康。但我只想提醒大家，不要对这里短期内发生的事情解读过度，因为作为一家公司，我们非常专注于确保当我们走出这一宏观经济局面时，公司能够处于尽可能有利的位置。"
+    },
+    {
+      "id": "p-0134",
+      "textEn": "Yeah, exactly.",
+      "textZh": "对，完全正确。"
+    },
+    {
+      "id": "p-0135",
+      "textEn": "Just to elaborate on that point though, the long term lifetime revenue that you're targeting from each vehicle is massive. So if you took that to the extreme, it would seem that you'd be comfortable with a relatively low initial margin. Am I correct misinterpreting that or is that. That exactly right? And, and that is exactly right. Okay. And the, normally in, in, in a recession when consumers feel less financially secure, actually price elasticity deteriorates. Just based on your pulse taking of the consumer. Do you have a view on elasticity of demand?",
+      "textZh": "不过，就这一点再展开说一下，你们希望从每辆车获得的长期全生命周期收入非常庞大。因此，如果把这一点推到极致，看起来你们会接受相对较低的初始利润率。是我正确地误解了这一点，还是说。那完全正确？而且，而且那完全正确。好的。通常在，在，在经济衰退期间，当消费者在财务上感到更不安全时，价格弹性实际上会恶化。仅根据你们对消费者情况的感知，你们对需求弹性有什么看法吗？"
+    },
+    {
+      "id": "p-0136",
+      "textEn": "Well,",
+      "textZh": "嗯，"
+    },
+    {
+      "id": "p-0137",
+      "textEn": "I can't emphasize enough the whole, just fundamental question of affordability. For most people, their ability to buy a car is a function of can they make monthly payment or not. And you know, so like I said, if interest rates are really high like they are right now, then in some cases people can't get a loan at all. You know, so it's, it's. And I think probably banks are pretty not leaning forward in providing loans, I expect these days. So, you know, so that's, but like there is quite a powerful story here when you, you know, going back to something that was alluded to a moment ago, I mentioned a moment ago that Tesla is in a uniquely strong strategic position because we're the only ones making cars that technically we could sell for zero profit for now and then yield actually tremendous economics in the future. But through autonomy, no one else can do that. I'm not sure how many of you will appreciate the profundity of what I've just said, but it is extremely significant.",
+      "textZh": "无论怎么强调可负担性这个整体性的、最根本的问题都不为过。对大多数人来说，他们买车的能力取决于他们是否付得起月供。而且你知道，所以就像我说的，如果利率像现在这样非常高，那么在某些情况下，人们根本无法获得贷款。你知道，所以这，这。而且我认为，现在银行在发放贷款方面可能很不积极，我猜是这样。所以，你知道，所以那是，但是就像，当你，你知道，回到刚才暗示过的一点时，这里有一个相当有力的逻辑，我刚才提到，Tesla 处于一个独特而强大的战略位置，因为只有我们制造的汽车在技术上可以目前以零利润出售，然后实际上在未来产生极其可观的经济效益。但通过自动驾驶，其他任何人都做不到。我不确定你们当中有多少人能理解我刚才所说内容的深刻性，但这极其重要。"
+    },
+    {
+      "id": "p-0138",
+      "textEn": "Thank you. Let's go to Adam Jonas from Morgan Stanley.",
+      "textZh": "谢谢。下面请摩根士丹利的 Adam Jonas 提问。"
+    },
+    {
+      "id": "p-0139",
+      "textEn": "Hi everybody. So first, Elon, good luck with tomorrow's launch of Boca Chica. Break a leg.",
+      "textZh": "大家好。那么首先，埃隆，祝明天 Boca Chica 的发射顺利。祝你好运。"
+    },
+    {
+      "id": "p-0140",
+      "textEn": "We definitely can't have too much luck in the rocket business. That's for sure.",
+      "textZh": "在火箭业务中，我们的好运肯定不会嫌多。这是肯定的。"
+    },
+    {
+      "id": "p-0141",
+      "textEn": "Incredible. So now that you've gotten to know the Twitter architecture kind of intimately well over the past six months, what can you tell Tesla stakeholders about how an X.com or super app could be potentially accelerative to Tesla's business model?",
+      "textZh": "令人难以置信。那么，过去 6 个月里，你已经对 Twitter 的架构有了相当深入的了解，你能告诉 Tesla 的利益相关者，X.com 或超级应用可能会如何加速 Tesla 的商业模式吗？"
+    },
+    {
+      "id": "p-0142",
+      "textEn": "Well,",
+      "textZh": "嗯，"
+    },
+    {
+      "id": "p-0143",
+      "textEn": "I don't know. I guess it could make it potentially make it easier to buy cars. So. But we are straying somewhat off topic here because this is.",
+      "textZh": "我不知道。我想它可能会让买车变得更容易。所以。不过我们在这里有点偏离主题了，因为这是。"
+    },
+    {
+      "id": "p-0144",
+      "textEn": "Okay, all right.",
+      "textZh": "好的，好吧。"
+    },
+    {
+      "id": "p-0145",
+      "textEn": "I think there's some benefit. I think probably there's some benefit.",
+      "textZh": "我认为会有一些好处。我认为可能会有一些好处。"
+    },
+    {
+      "id": "p-0146",
+      "textEn": "Yeah, let's. I get it, Elon. So just as a follow up on manufacturing, you're a student of history and you'll know that back in 1913, Henry Ford introduced the roving assembly line in Highland Park, Michigan, and the price of a Model T, which had already, you know, been undercutting cars around the time, fell another 70 or 80%. And hundreds of rival car companies went bustling. Yeah, I'm wondering if history is repeating itself here, Elon, and that the recent pattern of cuts with you is way ahead of the cost curve compared to competition is this. It seems like it's a calculated strategy, not just in reaction to competition or changing supply demand in the market, but could we catalyze some Darwinian forces in the EV market?",
+      "textZh": "是的，我们来吧。我明白了，埃隆。所以，作为关于制造问题的跟进，你研究历史，你会知道，早在1913年，亨利·福特就在密歇根州高地公园引入了移动装配线，而Model T的价格——它当时本来就已经，你知道，比其他汽车便宜——又下降了70或80%。数百家竞争对手汽车公司变得忙碌起来。是的，我想知道历史是否正在这里重演，埃隆，而最近你们的降价模式远远领先于竞争对手的成本曲线，是这样。看起来这是一项经过计算的策略，不只是为了应对竞争或市场供需变化，但我们是否可能会在电动汽车市场催化某些达尔文式力量？"
+    },
+    {
+      "id": "p-0147",
+      "textEn": "Well, I mean, we're not trying to say, take pricing actions in order to be deliberately, to deliberately undermine competitors or anything like that. We really don't think about competitors that much. We just look at, you know, do people like our cars? How can we make the product better? Can they afford our cars? And you know, the sort of the things like improving service and, and whatnot. But, but like I said, we do have this unique strategic advantage that, that we haven't. We're making a car that if we're autonomy pans out and we think it will. Where that that asset is actually will be worth a hell of a lot more in the future than it is now. So it is technically possible to sell it at zero profit, but still have the net present value of future cash flows associated with that asset. Visa gain. Very significant.",
+      "textZh": "嗯，我的意思是，我们并不是说，为了故意、为了故意削弱竞争对手或诸如此类的事情而采取定价行动。我们真的没有太多考虑竞争对手。我们只是关注，你知道，人们喜欢我们的汽车吗？我们怎样才能把产品做得更好？他们买得起我们的汽车吗？还有，你知道，诸如改善服务以及，以及诸如此类的事情。但、但正如我所说，我们确实拥有这种独特的战略优势，而我们还没有。我们正在制造一辆汽车，如果我们的自动驾驶取得成果，而我们认为它会。届时这项资产实际上在未来的价值将远远高于现在。因此，从技术上讲，可以以零利润出售它，但仍然拥有与该资产相关的未来现金流的净现值。Visa收益。非常显著。"
+    },
+    {
+      "id": "p-0148",
+      "textEn": "Yeah.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0149",
+      "textEn": "And service and charging and insurance and all of these other ongoing revenue streams that other companies don't have.",
+      "textZh": "还有服务、充电、保险，以及其他公司所没有的所有这些持续性收入来源。"
+    },
+    {
+      "id": "p-0150",
+      "textEn": "Yeah, certainly we want all EVs to succeed too. We just want to say that we're not in like some malicious attack to try to discourage everybody. Definitely not. We're like opening up superchargers. We've made our patents available for free. So it's like. But we're trying to be helpful here, you know, so we're not trying to, we're not out to just destroy competitors or anything like that. We're trying to help competitors, frankly, in any way that we can.",
+      "textZh": "是的，我们当然也希望所有电动汽车都取得成功。我们只是想说，我们并不是在进行某种恶意攻击，试图劝退所有人。绝对不是。我们正在开放超级充电站。我们已经免费开放了我们的专利。所以就像。但我们是在努力提供帮助，你知道，所以我们并不是试图，我们并不是一心只想摧毁竞争对手或诸如此类的事情。坦率地说，我们正努力以任何力所能及的方式帮助竞争对手。"
+    },
+    {
+      "id": "p-0151",
+      "textEn": "Thank you. Let's go to Dan Levi from Barclays.",
+      "textZh": "谢谢。下面请巴克莱的 Dan Levi 提问。"
+    },
+    {
+      "id": "p-0152",
+      "textEn": "Hi, good evening. Thank you. First question, you're ramping supply at at Austin and Berlin. So I wanted to understand just how critical it is to further increase volume at those plants just to get the vertical integration benefits in the face of the sort of market with some demand questions. And just broadly, should we generally, I mean historically you've been operating at the pace at which your supply allows you to produce as opposed to gauging to demand. Should we generally expect that you're going to continue to produce at your whatever the max capacity that you're allowed within your supply constraints, regardless of what the broader economic environment is, just to continue to get that volume out there?",
+      "textZh": "你好，晚上好。谢谢。第一个问题，你们正在提高奥斯汀和柏林的供应。所以我想了解，面对这种存在一些需求疑问的市场，进一步提高这些工厂的产量对于获得垂直整合效益究竟有多关键。再宽泛地说，我们一般是否应该，我的意思是，从历史上看，你们一直按照供应允许的速度进行生产，而不是根据需求来调整。我们通常是否应该预期，你们将继续以供应限制条件下所允许的任何最大产能进行生产，而不考虑更广泛的经济环境如何，只为继续把这些产量推向市场？"
+    },
+    {
+      "id": "p-0153",
+      "textEn": "That, that is.",
+      "textZh": "那、那是。"
+    },
+    {
+      "id": "p-0154",
+      "textEn": "Yes.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0155",
+      "textEn": "I mean there could be like obviously a macro shock that is so severe that you know, people just stop buying cars for some reason. But in the absence of that, we will continue to grow output at a rapid clip.",
+      "textZh": "我的意思是，显然可能会出现一次极其严重的宏观冲击，以至于，你知道，人们出于某种原因就是不再买车。但如果没有这种情况，我们将继续快速提高产量。"
+    },
+    {
+      "id": "p-0156",
+      "textEn": "Great, thank you.",
+      "textZh": "很好，谢谢。"
+    },
+    {
+      "id": "p-0157",
+      "textEn": "And then just on the margins associated with Austin and Berlin, you mentioned Austin and Berlin have a margin drag until you reach intended volumes. I don't know if you can disclose what those volumes are, then maybe you could just remind us of what the margin profile of Austin and Berlin will look like versus Shanghai once you get the vertical integration benefits in place.",
+      "textZh": "然后再问一下与奥斯汀和柏林相关的利润率。你提到，在达到预期产量之前，奥斯汀和柏林会拖累利润率。我不知道你们能否披露这些产量是多少；然后，或许你可以再提醒我们，一旦垂直整合的效益落实到位，奥斯汀和柏林的利润率状况与上海相比会是什么样子。"
+    },
+    {
+      "id": "p-0158",
+      "textEn": "Well, probably won't have be quite as good as Shanghai is hard, you know, has a very efficient cost structures, obviously our lowest cost structure in the world. But we do expect to be make significant improvements in Austin and Berlin and continue to make improvements in Fremont as well. So yeah, we've increased, this is Roshan by the way.",
+      "textZh": "嗯，可能不会像上海那么好。上海很难，你知道，拥有非常高效的成本结构，显然是我们在全球成本最低的结构。但我们确实预计会在奥斯汀和柏林取得显著改善，也会继续改善弗里蒙特。所以，是的，我们已经提高了，顺便说一下，我是 Roshan。"
+    },
+    {
+      "id": "p-0159",
+      "textEn": "We increased our localization efforts.",
+      "textZh": "我们加强了本地化工作。"
+    },
+    {
+      "id": "p-0160",
+      "textEn": "So that will then drive down days on hand requirements.",
+      "textZh": "所以，这将降低库存天数要求。"
+    },
+    {
+      "id": "p-0161",
+      "textEn": "We've made 10% quarter on quarter, you",
+      "textZh": "我们实现了环比 10%，你"
+    },
+    {
+      "id": "p-0162",
+      "textEn": "know, improvement in days on hand.",
+      "textZh": "知道，库存天数方面的改善。"
+    },
+    {
+      "id": "p-0163",
+      "textEn": "So we'll continue that path as the localization improves. Okay, thank you very much. And our final question comes from Philippe Pushois from Jefferies.",
+      "textZh": "所以，随着本地化程度提高，我们会继续沿着这条道路前进。好的，非常感谢。最后一个问题来自 Jefferies 的 Philippe Pushois。"
+    },
+    {
+      "id": "p-0164",
+      "textEn": "Yes, good evening. Thanks for taking the question. It's slightly longer term. I completely agree with your comments that we should look at Tesla in terms of auto market share, not EV market share. But I'm just wondering, as you build up the market share globally, is there a limit to the direct selling business model as you practice it and should we think about going forward? You need to look into the agency or using importers to basically develop market share more smoothly, I guess. Globally. And so in other words, is there kind of fell by date for the direct business model as you, as you practice it today",
+      "textZh": "好的，晚上好。感谢接受提问。这个问题稍微偏长期一些。我完全同意你的说法，我们应该从汽车市场份额而非电动汽车市场份额的角度看待 Tesla。但我只是想知道，随着你们在全球扩大市场份额，你们目前采用的直销商业模式是否存在上限，以及我们今后应该如何看待？我想，你们是否需要考虑代理模式，或者利用进口商，基本上更顺畅地扩大市场份额。在全球范围内。换句话说，就你们、就你们目前采用它的方式而言，直销商业模式是否存在某种下跌日期"
+    },
+    {
+      "id": "p-0165",
+      "textEn": "seems to be working well so far.",
+      "textZh": "到目前为止似乎运作良好。"
+    },
+    {
+      "id": "p-0166",
+      "textEn": "We hear different feedback from customers who miss the human interaction or unhappy with the service. And I'm just wondering if you're seeing some growth pains in there that would lead you to change. You're not seeing that?",
+      "textZh": "我们从客户那里听到了不同的反馈，有些客户怀念人与人之间的互动，或者对服务不满意。我只是想知道，你们是否从中看到了一些会促使你们作出改变的成长阵痛。你们没有看到吗？"
+    },
+    {
+      "id": "p-0167",
+      "textEn": "Well, I mean there are since we're always going to have some growing pains where at times, and it depends on which geography we're talking about where sometimes service is behind sales, sometimes it's ahead of sales. This is, I mean Tesla is growing, I believe faster than any company in history that has, that has, that makes a large complex manufactured object. So you know, there's these are, if you're trying to max, it's always difficult to match exponentials. So but, but I think it is helpful to have the feedback loop with that service because that means we feel the pain of service and then we can adjust the design to make the car need less service. And I think that gives us the right incentive structure because the best service is no service. The car doesn't break. And you know, whereas if you have say a dealer network that is reliant upon services revenue, then you arguably have misalignment of incentives where they're making money on service. But actually we want to the best thing for the consumer is the car doesn't need servicing.",
+      "textZh": "嗯，我的意思是，确实存在，因为我们总会不时经历一些成长阵痛，而且这取决于我们谈论的是哪个地区；有时服务落后于销售，有时又领先于销售。这是，我的意思是，Tesla 正在增长，我相信其增长速度超过了历史上任何一家已经、已经、制造大型复杂物件的公司。所以，你知道，有这些是，如果你试图最大化，要跟上指数增长总是很困难。所以，但、但我认为，建立这种与服务之间的反馈闭环是有帮助的，因为这意味着我们能够感受到服务带来的痛点，然后可以调整设计，让汽车需要更少的服务。我认为，这为我们提供了正确的激励结构，因为最好的服务就是不需要服务。汽车不会坏。你知道，反之，如果你拥有一个依赖服务收入的经销商网络，那么可以说激励机制会出现错位，因为他们通过服务赚钱。但实际上，我们想要的是，对消费者而言最好的情况就是汽车不需要维修保养。"
+    },
+    {
+      "id": "p-0168",
+      "textEn": "If I can follow up. Have you worked out for many of your traditional competitors a fair amount of profits for them comes from selling spare parts and servicing. And you don't have that in your, in your profit structure. And have you, have you worked out how much of a deficit you have compared to your peers?",
+      "textZh": "如果我可以追问一下。你是否计算过，对你们许多传统竞争对手而言，相当一部分利润来自销售备件和维修保养。而你们的、你们的利润结构中没有这一部分。你是否，你是否计算过，与同行相比，你们存在多大的缺口？"
+    },
+    {
+      "id": "p-0169",
+      "textEn": "Yeah, actually this one's something I could wax on about for a while because really people didn't understand that the best short selling argument against Tesla for the longest time was the fact that Tesla does not have an existing fleet and that the auto industry, the reason incumbents succeed and newcomers fail, the biggest reason is that the incumbents have a large fleet and they're able to sell new cars at close to zero margin and then sell spare parts at a very high margin, sort of, you know, razors and blades type thing. And so the only way to actually succeed for newcomer to succeed is to have a product that is so compelling that people are willing to pay a premium over the incumbent product. And in the absence of electrification and autonomy, I don't think a newcomer can succeed.",
+      "textZh": "是的，实际上，这个话题我可以长篇大论一阵子，因为人们确实一直不明白，长期以来做空 Tesla 的最佳论点，是 Tesla 没有现有的在用车队；而汽车行业，老牌企业成功、新进入者失败的原因，最大的原因，就是老牌企业拥有庞大的在用车队，他们能够以接近零利润率的价格销售新车，然后以非常高的利润率销售备件，有点像，你知道，剃刀和刀片的模式。因此，真正取得成功的唯一途径，让新进入者取得成功，就是拥有一款极具吸引力的产品，让人们愿意支付比老牌企业产品更高的溢价。如果没有电动化和自动驾驶，我认为新进入者不可能成功。"
+    },
+    {
+      "id": "p-0170",
+      "textEn": "Thank you very much everyone. Unfortunately, that's all the time we have for this quarter. We'll see you again in three months from now. Thank you.",
+      "textZh": "非常感谢大家。遗憾的是，我们本季度的时间就这么多。我们将在 3 个月后再次与大家见面。谢谢。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T06:22:06.764Z",
+    "reviewedAt": "2026-09-13T06:49:39.601Z"
+  },
+  "fetchedAt": "2026-09-12T07:12:40.703Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=3MVIWeU36ZY",
+  "sourceHash": "249f129bb0042b884501f4066b998f47f0ec83dd149a1de447264fadc3d746f2"
+}

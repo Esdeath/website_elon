@@ -1,0 +1,2557 @@
+{
+  "id": "tucker-carlson-2023-04-17",
+  "slug": "tucker-carlson-2023-04-17",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2023-04-17",
+  "titleEn": "Tucker Carlson Tonight — Full Interview",
+  "titleZh": "《塔克·卡尔森今夜秀》——完整访谈",
+  "summaryEn": "Elon Musk's full Fox News interview with Tucker Carlson: the dangers of AI and his plans for a 'TruthGPT', plus Twitter, free speech and government influence on social media.",
+  "summaryZh": "埃隆·马斯克在福克斯新闻接受塔克·卡尔森的完整访谈：人工智能的危险及其“TruthGPT”计划，以及 Twitter、言论自由和政府对社交媒体的影响。",
+  "sourceUrl": "https://www.youtube.com/watch?v=L5zmj30M0uM",
+  "sourceLabel": "Elon Musk Editor",
+  "archiveUrl": "https://elonmuskarchive.org/video/tucker-carlson-2023-04-17",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/L5zmj30M0uM",
+  "thumbnailUrl": "https://i.ytimg.com/vi/L5zmj30M0uM/hqdefault.jpg",
+  "durationSec": 3842,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 0.32,
+      "textEn": "Artificial intelligence is one of those topics that's just spooky and sci fi enough to make for a compelling television segment. They love it on the morning shows. But at the same time, AI is complex enough that it's easy to misrepresent. It sounds like something that could be revolutionary, even dangerous to humanity. But is it? And if it is, what should we do about it? Those questions are significant enough that we wanted to find someone who could provide a definitive answer.",
+      "textZh": "人工智能是那种恰好既诡异、又足够科幻，能成为引人入胜的电视节目片段的话题。晨间节目很喜欢它。但与此同时，AI 又足够复杂，很容易被错误表述。它听起来像是某种可能具有革命性、甚至对人类构成危险的东西。但真的是这样吗？如果是，我们应该怎么办？这些问题足够重大，因此我们想找一位能够给出明确答案的人。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 29.08,
+      "textEn": "Elon Musk seemed like the right person. Musk has been thinking about AI and worrying about it for most of his life. Nearly a decade ago, he helped found a nonprofit research project called Open AI. And the point was in the name. If we're going to have artificial intelligence, and apparently we are, it ought to be open, open to the world. That would help ensure that it's used for good and not evil. That was the idea.",
+      "textZh": "埃隆·马斯克似乎是合适的人选。马斯克一生中的大部分时间都在思考 AI，并为之担忧。近10年前，他协助创立了一个名为 Open AI 的非营利研究项目。而其要旨就在名称里。如果我们将会拥有人工智能，而显然我们会有，它就应当是开放的，向全世界开放。这将有助于确保它被用于善而非恶。这就是当时的理念。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 55.76,
+      "textEn": "But as the years passed and Musk found himself preoccupied building a couple of enormous companies, SpaceX and Tesla, OpenAI got away from him. As of tonight, OpenAI is no longer open. It's not a non profit research project dedicated to using artificial intelligence to serve humanity. It is instead a commercial enterprise backed by Microsoft and controlled to some extent by the Democratic Party. Elon Musk thinks that's a problem.",
+      "textZh": "但随着岁月流逝，马斯克发现自己忙于打造 SpaceX 和 Tesla 这2家巨型公司，OpenAI 逐渐脱离了他的掌控。截至今晚，OpenAI 已经不再开放。它不再是一个致力于利用人工智能服务人类的非营利研究项目。相反，它是一家由微软支持、并在一定程度上受民主党控制的商业企业。埃隆·马斯克认为这是个问题。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 84.19,
+      "textEn": "In fact, he believes it's a threat to human civilization, tantamount to maybe even more terrifying than thermonuclear weapons. The conversation you're about to see took place recently in a hotel room in Los Angeles. We think it's important enough that we're going to play the entire thing for you over the course of tonight and tomorrow. Here's how the conversation began.",
+      "textZh": "事实上，他认为这是对人类文明的威胁，堪比热核武器，甚至可能比热核武器更可怕。你们即将看到的对话最近发生在洛杉矶的一间酒店客房里。我们认为它足够重要，因此将在今晚和明天的节目中为你们播放完整对话。以下是对话的开场。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 108.14,
+      "textEn": "So all of a sudden AI is everywhere. People who weren't quite sure what it was are playing with it on their phones. Is that good or bad?",
+      "textZh": "于是，AI 突然无处不在。那些还不太确定它是什么的人，正在手机上使用它。这是好事还是坏事？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 113.82,
+      "textEn": "Yes. So I've been thinking about AI for a long time, since I was in college. Really. It's one of the things that the sort of four or five things I thought would really affect the future dramatically. It is fundamentally profound in that the smartest creatures, as far as you know, on this earth are humans is our defining characteristic. Yes, we obviously are weaker than, say, chimpanzees, less agile, but real smarter.",
+      "textZh": "是的。那么我思考 AI 已经很久了，从我上大学时开始。真的。它是我认为会真正显著影响未来的，大概4或5件事情中的1件。从根本上来说，它意义深远，因为据你所知，这个地球上最聪明的生物是人类，这是我们的决定性特征。是的，显然我们比方说黑猩猩更弱，也不那么敏捷，但真的更聪明。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 142.53,
+      "textEn": "So now what happens when something vastly smarter than the smartest person comes along in silicon form? It's very difficult to predict what will happen in that circumstance. It's called the singularity. It's a singularity like a black hole, because you don't know what happens after that. It's hard to predict. So I think we should be cautious with AI and we should, I think there should be some government oversight because it affects the, it's a danger to the public.",
+      "textZh": "那么现在，当某种远比最聪明的人更聪明的东西以硅的形态出现时，会发生什么？在那种情况下会发生什么，非常难以预测。这被称为奇点。它是一个像黑洞一样的奇点，因为你不知道在那之后会发生什么。很难预测。所以我认为我们应该谨慎对待 AI，而且我们应该，我认为应该有某种政府监管，因为它会影响……它对公众是一种危险。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 176.41,
+      "textEn": "And so when you, when you have things that are a danger to the public, you know, like, let's say so food, food and drugs. That's why we have the Food and Drug Administration and the Federal Aviation Administration, the fcc, we have, we have these agencies to oversee things that affect the public where there could be public harm. And you don't want companies cutting corners on safety and then having people suffer as a result.",
+      "textZh": "所以，当你面对那些会对公众构成危险的事物时，你知道，比如说食品、食品和药品。这就是为什么我们有食品药品监督管理局、联邦航空管理局、联邦通信委员会，我们有、我们有这些机构来监管那些会影响公众、可能造成公共伤害的事物。而且你不希望公司在安全问题上偷工减料，结果让人们因此受害。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 210.77,
+      "textEn": "So that's why I've actually for a long time been a strong advocate of AI regulation. So that I think regulation is, you know, it's not fun to be regulated. It's, it's sort of somewhat of a, sort of arduous to be regulated. I have a lot of experience with regular regulated industries because obviously automotive is highly regulated. You can fill this room with all the regulations that are required for a production car just in the United States.",
+      "textZh": "所以，实际上很长时间以来，我一直是人工智能监管的坚定倡导者。所以我认为监管是，你知道，被监管并不好玩。它、它算是有点、有点费力。我对受监管、受监管的行业很有经验，因为显然汽车行业受到高度监管。仅仅是在美国，一辆量产汽车需要遵守的所有法规，就能装满这个房间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 242.13,
+      "textEn": "And then there's a whole different set of, of regulations in Europe and China and the rest of the world. So very familiar with being overseen by a lot of regulators. And the same thing is true with rockets. You can't just willy nilly shoot rockets off, not big ones anyway, because the FAA oversees that.",
+      "textZh": "然后欧洲和中国以及世界其他地区还有一整套完全不同的，的法规。所以我非常熟悉受到许多监管机构的监督。火箭也是如此。你不能随随便便发射火箭，无论如何，大型火箭不行，因为美国联邦航空管理局会对此进行监管。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 262.39,
+      "textEn": "And then even to get a launch license, there are probably half a dozen or more federal agencies that need to approve it, plus state agencies. So it's, I've been through so many regulatory situations, it's insane. And you know, sometimes people think I'm some sort of like regulatory maverick that sort of defies regulators on a regular basis, but this is actually not the case. So in, you know, once in a blue moon, rarely I will disagree with regulators, but the vast majority of the time my companies agree with the regulations and comply anyway.",
+      "textZh": "然后，即使只是取得发射许可证，也可能需要大约6个或更多联邦机构批准，此外还有州级机构。所以，我经历过太多监管情形了，简直疯狂。而且你知道，有时候人们认为我是某种监管独行侠，经常公然反抗监管机构，但实际情况并非如此。所以，你知道，极少数情况下，偶尔我会不同意监管机构的看法，但绝大多数时候，我的公司都认同这些法规，而且无论如何都会遵守。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 301.46,
+      "textEn": "So I think, I think we should take this seriously and we should have a regulatory agency I think needs to start with a group that initially seeks insight into AI, then solicits opinion from industry and then has proposed rulemaking. And then those rules, you know, will probably, hopefully, grudgingly be accepted by the major players in AI. And I think we'll have a better chance of advanced AI being beneficial to humanity in that circumstance.",
+      "textZh": "所以我认为、我认为我们应该认真对待这件事，而且应该设立一个监管机构。我认为需要先成立一个最初旨在深入了解人工智能的小组，然后征求业界意见，之后提出规则制定方案。然后这些规则，你知道，可能会、希望会被人工智能领域的主要参与者勉强接受。而我认为，在这种情况下，先进人工智能造福人类的机会会更大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 342.36,
+      "textEn": "But all regulations start with a perceived danger. Planes fall to the sky or food causes botulism. I don't think the average person playing with AI on his iPhone perceives any danger. Can you just roughly explain what you think the Dangers might be, yeah.",
+      "textZh": "但所有监管都始于一种人们感知到的危险。飞机坠向天空，或者食物导致肉毒杆菌中毒。我认为，普通人在自己的 iPhone 上玩人工智能时，并不会感知到任何危险。你能不能大致解释一下，你认为危险可能是什么，是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 356.52,
+      "textEn": "So the danger really AI is perhaps more dangerous than say mismanaged aircraft design or production maintenance or bad car production in the sense that it is. It has the potential, however small one may regard that probability, but it is non trivial. It has the potential of civilizational destruction. There's movies like Terminator, but it wouldn't quite happen like Terminator because the intelligence would be in the data centers.",
+      "textZh": "所以真正的危险是，人工智能也许比管理不善的飞机设计、生产维护或糟糕的汽车生产更危险，就其本身而言。它有这种潜力，无论人们认为这种概率有多小，但它并非微不足道。它有摧毁文明的潜力。有《终结者》这样的电影，但事情不会完全像《终结者》那样发生，因为智能会存在于数据中心里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 391.59,
+      "textEn": "Right. The robot's just the end effector. But I think perhaps what you may be alluding to here is that regulations are really only put into effect after something terrible has happened.",
+      "textZh": "对。机器人只是末端执行器。但我想，也许你在这里所暗示的是，监管实际上只有在某些可怕的事情发生之后才会实施。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 402.83,
+      "textEn": "That's correct.",
+      "textZh": "没错。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 403.83,
+      "textEn": "If that's the case for AI and we only put in regulations after something terrible has happened, it may be too late to actually put the regulations in place. The AI may be in control at that point.",
+      "textZh": "如果人工智能也是这样，而我们只有在某些可怕的事情发生后才实施监管，那么再真正建立监管可能就太晚了。届时人工智能可能已经掌控局面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 413.25,
+      "textEn": "You think that's real? It is. It is conceivable that I could take control and reach a point where you couldn't turn it off and it would be making, making the decisions for people.",
+      "textZh": "你认为那是真的吗？是的。可以想象，我可能会取得控制权，并达到一个你无法将它关闭的地步，而它会替人们作出、作出决定。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 423.73,
+      "textEn": "Yeah, absolutely.",
+      "textZh": "是的，绝对如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 425.65,
+      "textEn": "Absolutely.",
+      "textZh": "绝对如此。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 426.69,
+      "textEn": "No, it's that. That's definitely where things are headed for. Sure.",
+      "textZh": "不，就是那样。那绝对是事情正在走向的方向。当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 432.37,
+      "textEn": "I mean, things like, like say ChatGPT, which is based on GPT4 from OpenAI, which company that I played a critical role in creating, unfortunately, back when it was a nonprofit. Yes.",
+      "textZh": "我的意思是，像、比如 ChatGPT 这样的东西，它基于 OpenAI 的 GPT4，而我在创立这家公司时发挥了关键作用，不幸的是，那时候它还是一家非营利机构。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 449.9,
+      "textEn": "I mean, the reason Open exists at all is that Larry Page and I used to be close friends and I would stay at his house in Palo Alto and I would talk to him late into the night about AI safety. And at least my perception was that Larry was not taking AI safety seriously enough. And what did he say about it? He really seemed to be sort of digital superintelligence, basically digital God, if you will, as soon as possible.",
+      "textZh": "我的意思是，Open 之所以会存在，完全是因为拉里·佩奇和我过去是亲密朋友，我会住在他位于帕洛阿尔托的家里，并和他一直聊人工智能安全聊到深夜。而至少在我看来，拉里对人工智能安全不够认真。那他对此怎么说？他似乎真的是某种数字超级智能，基本上就是数字上帝，如果你愿意这么称呼的话，越快越好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 483.93,
+      "textEn": "He wanted that.",
+      "textZh": "他想要那个。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 485.53,
+      "textEn": "Yes. He's made many public statements over the years. The whole goal of Google is what's called AGI, Artificial General Intelligence or artificial superintelligence. And I agree with him that there's great potential for good, but there's also potential for bad. And so if, if you've got some radical new technology, you want to try to take set actions that maximize the probability, it will do good and minimize the probability will do bad things.",
+      "textZh": "是的。这些年来，他发表过许多公开声明。Google 的整个目标就是所谓的 AGI，即通用人工智能，或者人工超级智能。而我同意他的看法，它有巨大的向善潜力，但也有作恶的潜力。所以，如果、如果你拥有某种激进的新技术，你会想设法采取一系列行动，使它做好事的概率最大化，并使它做坏事的概率最小化。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 512.15,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 513.03,
+      "textEn": "It can't just be helpful.",
+      "textZh": "它不可能只是有帮助。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 514.15,
+      "textEn": "Other.",
+      "textZh": "其他。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 514.39,
+      "textEn": "Let's just go barreling forward and hope for the best. And then at one point I said, well, what about we're going to make sure humanity's okay here?",
+      "textZh": "我们就这么一路猛冲向前，并祈求最好的结果。然后有一次我说，那么，我们要怎么确保人类在这里安然无恙？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 527.51,
+      "textEn": "And.",
+      "textZh": "而且。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 529.72,
+      "textEn": "And then he called me a speciast.",
+      "textZh": "然后他称我是一个 speciast。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 534.52,
+      "textEn": "Did he use that term?",
+      "textZh": "他用了那个词吗？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 535.88,
+      "textEn": "Yes. And there were witnesses. I wasn't the only one there when he called me a specist. And so I was like, okay, that's it. Yes, I'm a specist. Okay, you got me. What are you?",
+      "textZh": "是的。而且有目击者。他称我是 specist 时，在场的不只有我。所以我当时想，好吧，就这样吧。是的，我是 specist。好吧，被你逮到了。那你是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 550.6,
+      "textEn": "Yeah, I'm fully a speciesist. Busted.",
+      "textZh": "是啊，我完全是个物种主义者。被逮个正着。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 555.56,
+      "textEn": "So that was the last draw. At the time, Google had acquired DeepMind. And so Google, DeepMind together had about 3/4 of all the talent in the world. They obviously had a tremendous amount of money and more computers than anyone else. So I'm like, okay, we have a unipolar world here where there's just one, one company that has close to a monopoly on AI talent and computers like scale computing. And person who's in charge doesn't seem to care.",
+      "textZh": "所以那是最后一次抽签。当时，Google 已经收购了 DeepMind。因此，Google 和 DeepMind 加起来拥有全世界大约 3/4 的人才。他们显然拥有巨额资金，而且计算机比任何其他人都多。所以我当时想，好吧，我们这里是一个单极世界，只有一、一个公司几乎垄断了人工智能人才和计算机，比如规模化计算。而负责人似乎并不在乎。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 588.19,
+      "textEn": "Safety.",
+      "textZh": "安全。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 588.51,
+      "textEn": "This is not good. So then I thought, what's the furthest thing from Google would be like a nonprofit that is fully open? Because Google is closed for profit. So that's why the open and open air force open source, you know, transparency. So people know what's going on.",
+      "textZh": "这不好。所以后来我想，与 Google 相距最远的东西会是什么，比如一家完全开放的非营利机构？因为 Google 是封闭的营利机构。所以这就是为什么要开放，以及开放空军、开源，你知道，透明。这样人们就知道正在发生什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 605.87,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 606.51,
+      "textEn": "And that we don't want to have like a. I mean, while I'm normally in favor of for profit, we don't want this to be sort of a profit maximizing demon from hell that just never stops.",
+      "textZh": "而且我们不希望出现一种……我的意思是，虽然我通常赞成营利，但我们不希望它变成某种来自地狱、追求利润最大化而且永不停歇的恶魔。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 618.17,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 619.37,
+      "textEn": "So that's how OpenAI.",
+      "textZh": "所以 OpenAI 就是这样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 621.45,
+      "textEn": "So you want species incentives here, Incentives that.",
+      "textZh": "所以你希望这里有物种激励，激励措施。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 624.25,
+      "textEn": "Yes, I think we want, we want pro human. Yeah, let's make the future good for the humans. Yes, yes. Because we're humans.",
+      "textZh": "是的，我认为我们想要，我们想要亲人类的。是啊，让我们让未来对人类有利。是的，是的。因为我们是人类。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 631.69,
+      "textEn": "So can you just put it. I keep pressing, but just, just for people who haven't thought this through and aren't familiar with it. And the cool parts of, of artificial intelligence are so obvious, you know, write your college paper for you. Write a limerick about yourself. There's a lot there that's fun and useful, but can you be more precise about what's potentially dangerous and scary? Like what could it do? What specifically are you worried about going",
+      "textZh": "所以你能不能直接说清楚。我一直在追问，但只是，只是为了那些还没有仔细思考过这件事、也不熟悉它的人。人工智能很酷的那些部分如此显而易见，你知道，替你写大学论文。写一首关于你自己的五行打油诗。它有很多有趣而且有用的东西，但你能不能更具体地说明，哪些方面可能危险、令人害怕？比如它能做什么？你具体担心会发生什么",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 658.46,
+      "textEn": "with old sayings, the pen is mightier than the sword. So if you have a super intelligent AI that is capable of writing incredibly well and in a way that is very influential, you know, convincing. And then is constantly figuring out what is more convincing to people over time. And then enter social media, for example, Twitter, but also Facebook and others, you know, and potentially manipulates public opinion in a way that is very bad.",
+      "textZh": "用一句老话来说，笔比剑更有力量。所以，如果你有一个超级智能 AI，它能够写得极其出色，而且写作方式非常有影响力，你知道，很有说服力。然后它还在不断弄清楚，随着时间推移，什么对人们更有说服力。然后再进入社交媒体，比如 Twitter，还有 Facebook 等其他平台，你知道，并且可能以一种非常糟糕的方式操纵公众舆论。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 694.47,
+      "textEn": "How would we even know?",
+      "textZh": "我们甚至怎么会知道？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 697.03,
+      "textEn": "How do we even know? So to sum up in the words of Elon Musk, for all human history, human beings have been the smartest beings on the planet. Now human beings have created something that is far smarter than they are, and the consequences of that are impossible to predict. And the people who created it don't care. In fact, as he put it, Google founder Larry Page, a former friend of his, is looking to build a, quote, digital God and believes that anybody who's worried about that is a species, in other words, is looking out for human beings first.",
+      "textZh": "我们怎么会知道？所以，用埃隆·马斯克的话总结，在整个人类历史中，人类一直是地球上最聪明的存在。现在人类创造出了某种远比他们更聪明的东西，而其后果无法预测。创造它的人并不在乎。事实上，正如他所说，Google 创始人拉里·佩奇，他从前的朋友，正寻求打造一个，引用原话，数字上帝，并且认为任何对此感到担忧的人都是一个物种，换句话说，就是把人类放在首位。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 733.17,
+      "textEn": "Elon Musk responded. As a human being, it's okay to look out for human beings first. And then at the end he said, the real problem with AI is not simply that it will jump the boundaries and become autonomous and you can't turn it off in the short term. The problem with AI is that it might control your brain through words. And this is the application that we need to worry about now, particularly going into the next presidential election.",
+      "textZh": "埃隆·马斯克回应道。作为一个人，首先维护人类是可以的。然后在最后他说，AI 真正的问题并不只是它会突破边界、变得自主，而你短期内无法关闭它。AI 的问题在于，它可能通过文字控制你的大脑。而这正是我们现在需要担心的应用，尤其是在即将进入下一次总统选举之际。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 757.78,
+      "textEn": "The Democratic Party, as usual, was ahead of the curve on this. They've been thinking about how to harness AI for political power. More on that next.",
+      "textZh": "民主党一如既往，在这件事上走在了前面。他们一直在思考如何利用 AI 获取政治权力。接下来会有更多内容。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 769.62,
+      "textEn": "In the long term, I may become autonomous and take over the world, but in the short term, it's being used by politicians to control what you think, to end your independent judgment and erase democracy on the eve of a presidential election. Elon Musk is very worried about that. He told us about his plan to stop it.",
+      "textZh": "从长远来看，我可能会变得自主并接管世界，但从短期来看，它正被政客用来控制你的思想，终结你的独立判断，并在总统选举前夕抹杀民主。埃隆·马斯克对此非常担忧。他向我们讲述了他阻止这一切的计划。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 790.02,
+      "textEn": "What's happening is they're training the AI to lie.",
+      "textZh": "现在的情况是，他们正在训练 AI 撒谎。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 792.34,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 792.979,
+      "textEn": "It's bad to lie.",
+      "textZh": "撒谎是不好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 794.66,
+      "textEn": "Exactly right. And to withhold information.",
+      "textZh": "完全正确。还有隐瞒信息。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 796.58,
+      "textEn": "To lie and, and, yes, and yeah, exactly. To either comment on some things, not comment on other things, but not to say what the data actually demands that it say exactly",
+      "textZh": "撒谎，而且，而且，是的，还有，对，没错。对某些事情发表评论，对另一些事情不发表评论，却不去准确说出数据实际上要求它说的话",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 814.97,
+      "textEn": "how did it get this way? You funded it at the beginning.",
+      "textZh": "事情怎么会变成这样？一开始是你资助了它。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 818.17,
+      "textEn": "What happened? Yeah, well, that would be ironic. But Faith, the most ironic outcome is most likely, it seems.",
+      "textZh": "发生了什么？是啊，嗯，那就很讽刺了。但费丝，最讽刺的结果似乎最有可能发生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 826.01,
+      "textEn": "I'm feeling that.",
+      "textZh": "我有这种感觉。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 827.53,
+      "textEn": "That's good. That's actually from a friend of mine, Donna came up with that one. I actually have a slight variant on that. Which is the most entertaining outcome is the most likely. But that's entertaining as viewed from a third party viewer. Like. So if we're like an alien from on high.",
+      "textZh": "那很好。那其实来自我的一个朋友，唐娜想出了这个说法。实际上，我对此还有一个略有不同的版本。那就是，最具娱乐性的结果最有可能发生。但那是从第三方观众的角度来看很有娱乐性。比如。假如我们就像一个从高处俯瞰的外星人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 840.56,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 842,
+      "textEn": "Like you could go see a movie about World War I. They're being blown to bits and gas and everything in the trenches. And it's like you're eating popcorn and having a soda, you know, it's fine. Not so great for the people in the movie.",
+      "textZh": "比如你可以去看一部关于第一次世界大战的电影。他们在战壕里被炸得粉碎，遭受毒气以及各种东西。而你却像是在吃爆米花、喝汽水，你知道，没什么。对电影里的人来说可没那么好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 852,
+      "textEn": "True.",
+      "textZh": "确实。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 852.4,
+      "textEn": "This is Occam's Razor. The simplest explanation is most likely Jonah's variant, which is irony. And then my variant, which is",
+      "textZh": "这是奥卡姆剃刀。最简单的解释最有可能成立，乔纳的变体则是讽刺。然后我的变体是",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Speaker C",
+      "startSec": 862.47,
+      "textEn": "the",
+      "textZh": "那个",
+      "speakerZh": "说话人 C"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 862.75,
+      "textEn": "most entertaining as seen by a third party audience, which seems to be mostly",
+      "textZh": "从第三方观众看来最具娱乐性的，这似乎大多是",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 867.31,
+      "textEn": "true, but it seems true in this case. So you gave them, did you give them a lot?",
+      "textZh": "真的，不过在这件事上似乎确实如此。那么你给了他们，你给了他们很多吗？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 871.35,
+      "textEn": "I came up with the name and the concept and pushed, had a number of dinners around the Bay Area with, you know, with some of the people, the leading figures in AI. And I helped recruit the initial team. In fact, the Ilya Suskay who was really quite fundamental to the success of OpenAI.",
+      "textZh": "是我想出了这个名字和概念，并推动了这件事，我在湾区和，你知道，和其中一些人、AI 领域的领军人物吃了好几次饭。我还帮助招募了最初的团队。事实上，伊利亚·苏茨凯，他对于 OpenAI 的成功确实至关重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 901.09,
+      "textEn": "I put a tremendous amount of effort into recruiting Ilya and he changed his mind a few times and ultimately decided to go with OpenAI. But if he had not gone with OpenAI, OpenAI would not have succeeded. I really put a lot of effort into creating this organization to serve as a counterweight to Google and then I kind of took my off the ball, I guess. And they are now closed source and they are obviously for profit and they're closely allied with Microsoft.",
+      "textZh": "我花了极大的精力招募伊利亚，他几次改变主意，最终决定加入 OpenAI。但如果他没有加入 OpenAI，OpenAI 就不会成功。我确实投入了大量精力创建这个组织，让它充当制衡 Google 的力量，然后我大概有些把注意力从这件事上移开了。而他们现在是闭源的，而且显然是营利性的，并且与 Microsoft 关系密切。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 933.29,
+      "textEn": "In effect, Microsoft has a very strong say, if not directly controls OpenAI at this point. So you really have an OpenAI Microsoft situation and then Google, DeepMind are the two sort of heavyweights in this arena.",
+      "textZh": "实际上，Microsoft 目前对 OpenAI 拥有非常强的话语权，即便不是直接控制 OpenAI。所以现在实际上是 OpenAI-Microsoft 这一方和 Google-DeepMind 这一方，它们算是这个领域的两大重量级选手。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 951.86,
+      "textEn": "So it seems like the world needs a third option.",
+      "textZh": "所以看起来，世界需要第3种选择。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 955.22,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 957.3,
+      "textEn": "So I think I will create a third option, although starting very late in the game, of course.",
+      "textZh": "所以我想我会创造第3种选择，当然，现在入局已经非常晚了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 964.98,
+      "textEn": "Can it be done?",
+      "textZh": "能做到吗？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 965.86,
+      "textEn": "I don't know. I think we'll see. It's definitely starting late, but I will, I will, I will try to create a third option. And that third option hopefully does more good than harm. Like the intention with opening, I was obviously doing good, but it's not clear whether it's actually doing good or whether it's. I can't tell at this point except that I'm worried about the fact that it's being, it's being trained to be politically correct, which is simply another way of being untruthful.",
+      "textZh": "我不知道。我想我们会看到的。确实起步晚了，但我会，我会，我会努力创造第3种选择。而第3种选择希望能利大于弊。就像当初做开放这件事，其意图显然是做好事，但不清楚它实际上是在做好事，还是它。我目前无法判断，只是我担心它正被、它正被训练得政治正确，而那不过是另一种不诚实的方式。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 999.95,
+      "textEn": "Saying untruthful things.",
+      "textZh": "说不真实的话。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1001.43,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1002.07,
+      "textEn": "So that's, that's a bad sign. There's certainly a path to AI dystopia is to train AI to be deceptive. So yeah, I'm going to start something which you call truth GBT or a maximum truth seeking AI that tries to understand the nature of the universe. And I think this, this might be the best path to safety in the sense that an AI that cares about understanding the universe is unlikely to annihilate humans because we are an interesting part of the universe.",
+      "textZh": "所以那是，那是一个不好的迹象。通向 AI 反乌托邦的一条明确路径，就是训练 AI 进行欺骗。所以，是的，我打算创办一个你可以称为 truth GBT 的东西，或者说一个最大限度追求真相、试图理解宇宙本质的 AI。而且我认为，这，这可能是通往安全的最佳路径，从这个意义上说，一个在意理解宇宙的 AI 不太可能消灭人类，因为我们是宇宙中一个有趣的组成部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1032.66,
+      "textEn": "Hopefully they would think that, I think, because, yeah, like humanity could decide to hunt down all the chimpanzees and kill them, but we don't because we're actually glad that they exist.",
+      "textZh": "希望它们会那么想，我想，因为，是啊，比如人类可以决定追捕所有黑猩猩并杀死它们，但我们没有这么做，因为我们其实很高兴它们存在。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1046.98,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 1047.42,
+      "textEn": "And, and we aspire to protect their",
+      "textZh": "而且，而且我们渴望保护它们的",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1049.98,
+      "textEn": "habitats, but we feel that way because we have souls and that makes us sentimental and reflective. It gives us a moral Sense longings? Can a machine ever have those things? Can a machine be sentimental, can appreciate beauty?",
+      "textZh": "栖息地，但我们有这种感受，是因为我们有灵魂，而这让我们多愁善感、懂得反思。它赋予我们一种道德感、渴望？机器有朝一日能拥有这些东西吗？机器能多愁善感吗，能欣赏美吗？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 1067.06,
+      "textEn": "Well, I mean, we're getting into some, you know, philosophical areas that are hard to resolve.",
+      "textZh": "嗯，我是说，我们正在进入一些，你知道，很难解决的哲学领域。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1075.87,
+      "textEn": "You know, I take somewhat of a scientific view of things, which is that we might have a soul or we might not have a soul. I don't know. It feels like we have. I feel like I've got some sort of consciousness that exists on a plane that is not the one we observe. Yes, that is certainly how I feel. But it could be an illusion. I don't know. But for, for AI in terms of, of, of understanding beauty, is there some sort of appreciating beauty and being able to create incredibly beautiful art?",
+      "textZh": "你知道，我多少会以一种科学的视角来看待事物，也就是说，我们可能有灵魂，也可能没有灵魂。我不知道。感觉我们有。我觉得我拥有某种意识，它存在于一个并非我们所观察到的层面上。是的，我的感受当然是这样。但这也可能是一种错觉。我不知道。但是，就 AI 而言，在、在、在理解美方面，它是否会以某种方式欣赏美，并能够创作出美得不可思议的艺术？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1111,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Elon Musk",
+      "startSec": 1111.48,
+      "textEn": "Will I be able to create incredibly beautiful art? It already does.",
+      "textZh": "我能创作出美得不可思议的艺术吗？它已经能了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1115.159,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 1115.72,
+      "textEn": "Have you seen some of the mid Journey? I have this stuff. It's incredible. It is so, no, no question that it can create art that we, that we perceive as stunning, really.",
+      "textZh": "你看过 mid Journey 的一些作品吗？我有这些东西。太不可思议了。它是如此，不，毫无疑问，它能创作出我们、我们认为惊艳的艺术，真的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 1132,
+      "textEn": "And it's doing so still images now, but it won't be long before it's doing movies and shorts and, you know, like movies, just a series of frames",
+      "textZh": "而且它现在是在制作静态图像，但过不了多久，它就会制作电影和短片，还有，你知道，就像电影，只是一连串的帧",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1142.8,
+      "textEn": "with audio, but at that point, because it can mimic people and voices, any image, it can mimic reality itself. So effectively.",
+      "textZh": "加上音频，但到了那个时候，因为它能模仿人和声音、任何图像，它就能模仿现实本身。所以实际上。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 1152.09,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1153.05,
+      "textEn": "I mean, how could you have a criminal trial? I mean, how could you ever believe that evidence was authentic, for example? And I don't mean like in 30 years, I mean like next year. I mean, that seems totally disruptive to the way to all of our institutions.",
+      "textZh": "我是说，你怎么可能进行刑事审判？我是说，比如说，你怎么可能相信证据是真实的？而且我说的不是 30 年后，我说的是明年。我是说，这似乎会彻底扰乱我们所有机构的运作方式。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 1168.73,
+      "textEn": "But I'm also, I think it's more like our, you know, will humanity control its destiny or not? Will we have a future that is better than the past or not?",
+      "textZh": "但我也认为，这更像是关乎我们，你知道，人类是否会掌控自己的命运？我们的未来是否会比过去更好？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1185.32,
+      "textEn": "Will humanity control its future or not? And in the meantime, how will this be used to control us? If you've played around with the latest versions of AI you will learn it prefers to end the world with nuclear Armageddon before you use naughty words. So those are its priorities. Elon Musk is a strong believer in free speech. So strong that he purchased Twitter, a company he didn't need and hasn't profited from, as a way to restore free speech to the Internet, to bring us back, say, six years, to the free country he lived in then.",
+      "textZh": "人类会不会掌控自己的未来？与此同时，这会如何被用来控制我们？如果你摆弄过最新版本的人工智能，就会发现，它宁愿让世界终结于核末日，也不愿让你使用不雅词语。所以，那就是它的优先事项。埃隆·马斯克是言论自由的坚定信奉者。坚定到他收购了Twitter，一家他并不需要、也没有从中获利的公司，以此恢复互联网的言论自由，让我们回到，比如说，六年前，回到他当时生活的那个自由国家。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1221.01,
+      "textEn": "And once he bought Twitter, he discovered it wasn't really a social media application. It was really a tool for global intelligence agencies. He's got detail on that after the break.",
+      "textZh": "而他收购Twitter之后，发现它其实并不是什么社交媒体应用。它实际上是全球情报机构的工具。广告之后，他会详细讲述这一点。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1234.4,
+      "textEn": "Elon Musk bought Twitter because he used Twitter. It's as simple as that. And he was infuriated by Twitter's effort to Silence people on the Internet. That's how strongly he believed in free speech. He paid $44 billion and lost tens of billions of dollars doing it. And when he took over and looked behind the curtain, he discovered Twitter was really a tool of the global intel agencies to spy on people and emit propaganda.",
+      "textZh": "埃隆·马斯克收购Twitter，是因为他使用Twitter。就这么简单。而Twitter试图让互联网上的人们噤声，这令他怒不可遏。他就是如此坚定地信奉言论自由。他支付了440亿美元，并因此损失了数百亿美元。而当他接管公司并查看幕后情况时，他发现Twitter实际上是全球情报机构用来监视人们和散播宣传的工具。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1259.5,
+      "textEn": "Here it is.",
+      "textZh": "这就是它。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1263.02,
+      "textEn": "You bought Twitter, famously. You've got a lot of other businesses and a lot going on.",
+      "textZh": "众所周知，你收购了Twitter。你还有很多其他企业，也有很多事情在进行。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1268.22,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1268.62,
+      "textEn": "You said you bought it because you believe in speech, free speech. You've had a lot of hassle since you bought it. In retrospect, was it worth buying it?",
+      "textZh": "你说你收购它是因为你信奉言论，言论自由。自从收购以来，你遇到了很多麻烦。回过头看，收购它值得吗？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1277.5,
+      "textEn": "I mean, it raised to be seen as to whether this was financially smart. Currently it is. It is not. You know, we just revalued the company at less than half of the acquisition price. Did you realize? Yes.",
+      "textZh": "我的意思是，这被提出来，要看看这在财务上是否明智。目前，它是。它不是。你知道，我们刚刚对这家公司重新估值，价值不到收购价的一半。你意识到了吗？是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1294.16,
+      "textEn": "My timing was terrible for when the offer was made because it was right before advertising plummeted.",
+      "textZh": "我提出要约的时机糟透了，因为那恰好是在广告收入暴跌之前。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1303.76,
+      "textEn": "You caught the high water mark, I noticed.",
+      "textZh": "我注意到，你正好赶上了最高点。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1305.6,
+      "textEn": "Yeah. Yeah. So I must be a real genius here.",
+      "textZh": "对。对。所以我在这方面肯定真是个天才。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 1310.4,
+      "textEn": "My timing is amazing since I bought it for at least twice as much as it should have been bought for. But some things are priceless. And so whether I lose money or not, that is a secondary issue compared to ensuring the strength of democracy. And free speech is the bedrock of a functioning democracy.",
+      "textZh": "我的时机把握得太妙了，因为我花了至少两倍于合理价格的钱买下它。但有些东西是无价的。所以，与确保民主的力量相比，我是否亏钱是次要问题。而言论自由是正常运作的民主制度之基石。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1332.62,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1333.5,
+      "textEn": "And the speech needs to be as transparent and truthful as possible. So we've got a huge push on Twitter to be as truthful as possible. We've got this Community Notes feature which is great.",
+      "textZh": "而且言论需要尽可能透明、真实。所以我们正在Twitter上大力推动尽可能真实。我们有这个“社区笔记”功能，非常棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1347.1,
+      "textEn": "It is great.",
+      "textZh": "确实很棒。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1347.66,
+      "textEn": "It is awesome. And it's like, I saw it this",
+      "textZh": "它太棒了。而且，就像，我在这个",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1349.86,
+      "textEn": "morning, it was far more honest than",
+      "textZh": "早上看到了，它诚实得远远超过",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Speaker C",
+      "startSec": 1351.94,
+      "textEn": "the New York Times.",
+      "textZh": "《纽约时报》。",
+      "speakerZh": "说话者C"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Elon Musk",
+      "startSec": 1352.7,
+      "textEn": "It's great. We put a lot of effort to ensuring that Community Notes does not get gamed or have biases. It simply cares about what is the most accurate thing.",
+      "textZh": "它很棒。我们投入了大量精力，确保“社区笔记”不会被操纵，也不会带有偏见。它只关心什么才是最准确的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 1363.9,
+      "textEn": "And, you know, sometimes truth can be a little bit elusive, but you can still aspire to get closer to it.",
+      "textZh": "而且，你知道，真相有时可能有点难以捉摸，但你仍然可以努力接近它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1368.54,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 1369.34,
+      "textEn": "You know, and so, and I think the effect of Community Notes is more powerful than people may realize, because once people know that they could get noted, you know, Community noted on Twitter, then they'll think more carefully about what they say. Likely. Basically, it's an encouragement to be more truthful and less deceptive.",
+      "textZh": "你知道，所以，而且我认为“社区笔记”的影响可能比人们意识到的更强大，因为一旦人们知道自己可能会被加注，你知道，在Twitter上被“社区笔记”加注，那么他们就会更仔细地考虑自己说的话。很可能。基本上，这是在鼓励人们更加诚实，少一些欺骗。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1391.75,
+      "textEn": "When you jumped into this, though, when you bought it, did you understand clearly you understood its importance? You wouldn't bought it Twitter.",
+      "textZh": "不过，当你投身其中、当你收购它时，你是否清楚地理解——你理解它的重要性？你不会收购了它Twitter。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 1398.87,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1399.31,
+      "textEn": "Right. But it's not the biggest, but it's the most important of the social media companies. But did you understand the kind of ferocity you'd be facing, the attacks you'd be facing from power centers in the country.",
+      "textZh": "对。但它不是最大的，却是这些社交媒体公司中最重要的。但你是否明白自己将面对怎样的凶猛反应，面对来自这个国家权力中心的攻击？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Elon Musk",
+      "startSec": 1412.77,
+      "textEn": "I thought there'd probably be some negative reactions.",
+      "textZh": "我当时觉得，可能会有一些负面反应。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 1418.53,
+      "textEn": "So I'm sure everyone would not be pleased with the, with, with it. But at the end of the day, you know, if the public is happy with it, that's what matters. And the public will speak with their actions. I mean, if they find truth Twitter to be useful, they will use it more. And if they find it to be not useful, they will use it less. They find it to be the best source of truth, I think they will use it more. Now there's obviously a lot of organizations that are used to having sort of unfettered influence on Twitter that no longer have that.",
+      "textZh": "所以我确信，不是每个人都会对此，对，对此感到满意。但归根结底，你知道，如果公众对此满意，那才是重要的。公众会用行动表达态度。我的意思是，如果他们觉得真实Twitter有用，就会更多地使用它。如果他们觉得它没用，就会少用一些。他们觉得它是最好的真相来源，我认为他们就会更多地使用它。现在，显然有很多组织已经习惯了在Twitter上拥有某种不受限制的影响力，而现在它们不再拥有这种影响力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1456.62,
+      "textEn": "We used the New York Times of their, of their badge this morning. And then you called them diarrhea. You did, you did. I'm just, I'm just quoting you. You described their Twitter feed as diarrhea.",
+      "textZh": "我们今天早上用了《纽约时报》的他们的，他们的徽章。然后你称他们为腹泻。你说了，你说了。我只是，我只是在引用你的话。你把他们的Twitter信息流形容为腹泻。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 1467.9,
+      "textEn": "I said it was the Twitter equivalent of diarrhea.",
+      "textZh": "我说它相当于 Twitter 上的腹泻。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1470.5,
+      "textEn": "Okay, it's not literally diarrhea, but no,",
+      "textZh": "好吧，它并不真的是腹泻，但是，不，",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1472.459,
+      "textEn": "it's, you know, it's a metaphor, but an accurate one. So I mean, if you look at NY Times Twitter feed, it's unreadable. It's like because what they do is they tweet every single article, even the ones that are boring, even ones that don't make it into the paper. So it's just non stop zillion tweets a day with no, you know, they really should just be saying like what are the top tweets?",
+      "textZh": "它，你知道，它是个比喻，但很准确。所以我的意思是，如果你看看《纽约时报》的 Twitter 信息流，根本没法看。就像是因为他们会把每一篇文章都发成推文，连那些无聊的、甚至没有登上报纸的文章也发。所以就是每天不间断地发无数条推文，却没有，你知道，他们真的应该只说，比如最重要的推文是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 1502.45,
+      "textEn": "What are the big stories of the day? I don't know, put out like 10 or something. You know, some number that's manageable as opposed to right now. If you were to follow NYTimes on Twitter, you're going to get barraged with like hundreds of tweets a day and your whole feed will be filled with NY Times. So this is something I would recommend actually for all publications, which is for your primary feed only. Put out your best stuff.",
+      "textZh": "当天的大新闻是什么？我不知道，就发个大约 10 条之类的。你知道，某个可控的数量，而不是像现在这样。如果你在 Twitter 上关注《纽约时报》，你每天会遭到大约数百条推文的狂轰滥炸，整个信息流都会被《纽约时报》占满。所以这其实是我会向所有出版机构提出的一项建议，那就是只在你们的主要信息流上发布最好的内容。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 1529.73,
+      "textEn": "I think I know a thing or two about how to use Twitter because, you know, it was the most interacted with account on the whole system before the acquisition. Before the acquisition closed, I didn't have the most number of followers, but I had the most number of interactions. And so I clearly know something about how to use Twitter. You know, people's attention is limited, so just make sure you put the stuff that's most important there.",
+      "textZh": "我想我对如何使用 Twitter 还是略知一二的，因为，你知道，在收购之前，我的账号是整个平台上互动量最高的账号。在收购完成之前，我的关注者数量不是最多的，但我的互动次数最多。所以我显然懂得一些如何使用 Twitter 的门道。你知道，人们的注意力是有限的，所以只要确保把最重要的内容放在那里就行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1550,
+      "textEn": "So because you know, you and people like you do interact on Twitter, it's obviously enormously powerful in shaping public opinion. It's where a lot of ideas and trends are incubated. Yeah, you Know, that's why it's also a magnet for intel agencies from around the world. And one of the things we learned after you started opening the books is that they were exerting influence from within Twitter.",
+      "textZh": "所以，因为你知道，你和像你这样的人确实会在 Twitter 上互动，它显然在塑造公众舆论方面具有极其强大的力量。很多想法和趋势都在那里孕育。是的，你知道，这也是为什么它会吸引世界各地的情报机构。而我们在你开始公开内部资料后了解到的一件事是，它们一直在从 Twitter 内部施加影响。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 1574.12,
+      "textEn": "I mean, it was absurd.",
+      "textZh": "我的意思是，这太荒谬了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1578.28,
+      "textEn": "Did you know that going in?",
+      "textZh": "你入手之前知道这件事吗？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 1579.64,
+      "textEn": "No. Since I've been a heavy Twitter user since 2009, my. It's sort of like I'm in the matrix. I mean, I can see, like, things. Do things feel right? Do they not feel right? What tweets am I being shown as recommended?",
+      "textZh": "不知道。因为我从 2009 年起就是 Twitter 的重度用户，我的。感觉有点像我身处《黑客帝国》之中。我的意思是，我能看出，比如，一些事情。感觉对不对？感觉有没有问题？哪些推文被作为推荐展示给我？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 1597.96,
+      "textEn": "I get a feel like, what accounts are making comments, where are the comments? Eerily similar.",
+      "textZh": "我会形成一种感觉，比如，哪些账号在发表评论，评论在哪里？诡异地相似。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 1606.6,
+      "textEn": "And then you look at the account and it's just obviously a fake photo, and it's just obviously a bot cluster over and over again. So I started to get just more and more uneasy about the Twitter situation. I sort of starting to feel like something's wrong in the state of Denmark here. Something feels wrong about the platform. It seemed to be just drifting in a. I couldn't place it exactly just ahead of it felt like it was drifting in a bad direction.",
+      "textZh": "然后你查看那个账号，就会发现那显然是假照片，而且显然是一群机器人账号，一次又一次都是如此。所以我开始对 Twitter 的状况越来越不安。我开始有点觉得，这里的丹麦王国出了什么问题。这个平台给人的感觉不对。它似乎就是在朝一个。我无法准确说清，只是觉得它正在朝一个不好的方向漂移。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 1633.87,
+      "textEn": "So then I was like. And my conversations with the board and management seem to confirm my intuition about that. But basically I was convinced these guys do not care about fixing Twitter.",
+      "textZh": "所以后来我就想。而且，我与董事会和管理层的谈话似乎证实了我的那种直觉。但基本上，我确信这些人根本不在乎修复 Twitter。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Elon Musk",
+      "startSec": 1648.39,
+      "textEn": "And I had a bad feeling about where it was headed based on the conversations I had with them. So then I was like, you know what?",
+      "textZh": "根据我与他们的谈话，我对它的发展方向有种不祥的预感。所以后来我就想，你知道吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 1656.95,
+      "textEn": "I'll try acquiring it and see if acquiring it is possible.",
+      "textZh": "我会试着收购它，看看是否有可能完成收购。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 1662.55,
+      "textEn": "Now, I didn't have enough cash to acquire it, so I would need support from others, from some of the existing investors. I would also need, like, a lot of debt. And so it wasn't clear to me whether an acquisition would succeed, but I thought I would try. And ultimately it did succeed. Anyway, here we are.",
+      "textZh": "当时，我没有足够的现金来收购它，所以我需要其他人的支持，需要一些现有投资者的支持。我还需要，比如，大量债务融资。因此，我并不确定收购能否成功，但我想试一试。而最终它确实成功了。不管怎样，我们现在就在这里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1680.68,
+      "textEn": "But when you got there and all of a sudden you own it and all the data on the service belongs to you.",
+      "textZh": "但当你接手后，突然之间你拥有了它，而且这项服务上的所有数据都属于你。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 1685.72,
+      "textEn": "Well, it belongs to the people, in my view, but. Yes, but.",
+      "textZh": "嗯，在我看来，它属于人民，不过。是的，但是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1688.04,
+      "textEn": "But you can see what it is, and you can see what they've been doing, and you can see who's been working there. You were shocked to find out that various intel agencies were affecting its operations.",
+      "textZh": "但你能看到它是什么样，也能看到他们一直在做什么，还能看到有哪些人在那里工作。你震惊地发现，各种情报机构一直在影响它的运营。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Elon Musk",
+      "startSec": 1699.96,
+      "textEn": "The degree to which various government agencies had effectively had full access to everything that was going on on Twitter blew my mind. I was not aware of that.",
+      "textZh": "各个政府机构实际上能够全面访问 Twitter 上正在发生的一切，这种程度令我震惊。我此前并不知道这一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1709.88,
+      "textEn": "Would that include people's DMs?",
+      "textZh": "那会包括人们的私信吗？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Elon Musk",
+      "startSec": 1712.92,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 1716.12,
+      "textEn": "Yes, because the DMs are not encrypted. So one of the first. You know, one of the things that we're about to release is the bloody encryption.",
+      "textZh": "是的，因为私信没有加密。所以最先要做的事情之一。你知道，我们即将发布的东西之一就是该死的加密功能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1723.27,
+      "textEn": "That's pretty heavy duty, though, because a Lot of well known people, reporters talking to their sources, government officials, the rich people in the world, they're DMing each other. And the assumption obviously was incorrect, but was that. That's private. But that was being read by various governments.",
+      "textZh": "不过这事相当严重，因为很多知名人士、与消息来源交谈的记者、政府官员、世界上的富人，他们都在互相发私信。而且那种假设显然是不正确的，但当时的假设是。那是私密的。但各种政府都在查看那些内容。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 1739.83,
+      "textEn": "Yeah, that seems to be. Yes.",
+      "textZh": "对，看来是这样。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1742.71,
+      "textEn": "Scary.",
+      "textZh": "可怕。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 1743.75,
+      "textEn": "Yes, it is. So like I said, we're moving to have the DMS be optionally encrypted. I mean, you know, there's like a lot of DM conversations which are, you know, just chatting with friends, not, not important. That's hopefully coming out later this month, but no later than next month is the ability to toggle encryption on or off. So if you, if you are in a conversation you think is sensitive, you can just toggle encryption on and then no one at Twitter can see what you're talking about.",
+      "textZh": "是的，确实如此。所以就像我说的，我们正在推进让私信可以选择加密。我是说，你知道，有很多私信对话只是，你知道，只是和朋友聊天，并不、不重要。这个功能有望在本月晚些时候推出，但最迟不会晚于下个月，届时可以开启或关闭加密。所以如果你、如果你正在进行一段你认为敏感的对话，只要开启加密，Twitter 的任何人就都无法看到你们在谈什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Elon Musk",
+      "startSec": 1771.94,
+      "textEn": "I could put a gun to my head and I couldn't, I couldn't tell. I can.",
+      "textZh": "我就算拿枪顶着自己的头，我也无法，我也无法说出来。我可以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Elon Musk",
+      "startSec": 1776.68,
+      "textEn": "That's sort of the gun to the head test. If someone puts a gun to my head and can I still not see your DMs? That should be. That's the acid test.",
+      "textZh": "这算是一种拿枪顶头测试。如果有人拿枪顶着我的头，我还能不能仍然看不到你的私信？应该要这样。这就是试金石。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1784.16,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Elon Musk",
+      "startSec": 1786.52,
+      "textEn": "And that's how it should be. If you want your.",
+      "textZh": "而且本来就应该这样。如果你想让你的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1788.96,
+      "textEn": "Have you had complaints from various governments about doing this?",
+      "textZh": "你有没有因为这样做而收到各国政府的投诉？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 1792.12,
+      "textEn": "I haven't had direct complaints. To me, I've had sort of like some indirect complaints. I think people are a little concerned about complaining to me directly in case I tweet about it.",
+      "textZh": "我没有收到过直接投诉。对我而言，我收到过一些类似间接的投诉。我认为人们有点担心直接向我投诉，以防我把这事发到推特上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Elon Musk",
+      "startSec": 1803.26,
+      "textEn": "You know, they're like, oh, so they sort of try to be more roundabout than that. You know, I mean, if I got something that was unconstitutional from the US Government, I would say my reply would be to send them a copy of the, you know, First Amendment and just say like, what part of this are we getting wrong?",
+      "textZh": "你知道，他们就像，哦，所以他们有点试图采取比这更迂回的方式。你知道，我是说，如果美国政府给我发来某种违宪的东西，我会说，我的回应会是给他们发一份，你知道，《第一修正案》的副本，然后就说，比如说，这里面哪一部分是我们理解错了？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1823.34,
+      "textEn": "You have a lot of government. You have a lot of government.",
+      "textZh": "你有很多政府。你有很多政府。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Elon Musk",
+      "startSec": 1825.66,
+      "textEn": "What part of this are we getting wrong? Please tell me.",
+      "textZh": "这其中哪一部分是我们理解错了？请告诉我。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1827.34,
+      "textEn": "I mean, it's a pretty. No, I'm just saying. But you're kind of exposed in your other businesses. So this is just in case our viewers aren't following this. This is not. You're not just like a journalist taking a stand on behalf of the First Amendment. You're a guy with big government contracts giving the finger to the government. Do you think Twitter will be as central to this presidential campaign as it was in the last several.",
+      "textZh": "我是说，这相当。不是，我只是说。但你的其他业务在某种程度上会受到牵连。所以，以防我们的观众没有关注这件事，这不只是。这不只是你像一个代表《第一修正案》表明立场的记者。你是一个拿着大额政府合同、却对政府竖中指的人。你认为 Twitter 会像过去几次总统竞选中那样，成为这次总统竞选的核心吗。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Elon Musk",
+      "startSec": 1849.8,
+      "textEn": "I think it will play a significant role in elections, not just domestically, but internationally. The goal of new Twitter is to be as fair and even handed as possible. So not favoring any political ideology, but just being. Being, being fair at all.",
+      "textZh": "我认为它将在选举中发挥重要作用，不仅是在国内，也是在国际上。新 Twitter 的目标是尽可能公平、不偏不倚。所以不偏袒任何政治意识形态，而只是做到。做到、做到对所有人公平。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1871.7,
+      "textEn": "Why doesn't Facebook do this? I know that Zuckerberg has said, and I take him at face value that he. Well, I do actually in this way that he is a kind of old fashioned liberal who doesn't like to censor. He has, but he, you know, like, why wouldn't a company like that take the stand that you have taken, which pretty rooted in American traditional political custom, you know, for free speech.",
+      "textZh": "Facebook 为什么不这么做？我知道扎克伯格说过，而且我相信他所说的，他。他是，嗯，实际上在这方面我的确相信，他是那种不喜欢审查的老派自由派人士。他确实审查过，但他，你知道，比如说，为什么那样一家公司不采取你所采取的立场呢？这种立场相当植根于美国传统政治惯例，你知道，也就是言论自由。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Elon Musk",
+      "startSec": 1897.82,
+      "textEn": "My understanding is that Zuckerberg spent $400 million in the last election, normally in a get out the boat campaign, but really fundamentally in support of Democrats. Is that accurate or not accurate? That is accurate, yes. Does that sound unbiased to you?",
+      "textZh": "据我了解，扎克伯格在上一次选举中花了4亿美元，通常是用于一场让船出来的活动，但实际上从根本上是在支持民主党人。这准确还是不准确？这是准确的，是的。你觉得这听起来不偏不倚吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1914.06,
+      "textEn": "No, it doesn't.",
+      "textZh": "不，听起来不是。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Elon Musk",
+      "startSec": 1914.9,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1915.9,
+      "textEn": "So you don't see hope that Facebook will approach this as a non aligned arbiter? You've allowed Donald Trump back on Twitter. He hasn't taken you up on your offer because he's got his own thing.",
+      "textZh": "所以你不认为 Facebook 会以一个不站队的仲裁者身份来处理这件事？你已经允许唐纳德·特朗普重返 Twitter。他没有接受你的提议，因为他有自己的平台。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Elon Musk",
+      "startSec": 1926.78,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1927.14,
+      "textEn": "Do you think he will go back on Twitter?",
+      "textZh": "你认为他会重返 Twitter 吗？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Elon Musk",
+      "startSec": 1930.54,
+      "textEn": "Well, that's, that's obviously up to him. You know, my job is to, as you know, I take the freedom of speech very seriously. So it's, you know, I didn't, I didn't vote for Donald Trump. I actually voted for Biden. Not saying I'm a huge fan of Biden because I would think that would probably be inaccurate. But you know, we have difficult choices to make in these presidential elections. It's not. I would prefer frankly that we put someone, just a normal person as president, A normal person with common sense and whose values are smack in the middle of the country.",
+      "textZh": "嗯，那，那显然取决于他。你知道，我的工作是，正如你知道的，我非常认真地对待言论自由。所以，这个，你知道，我没有，我没有投票给唐纳德·特朗普。实际上我投票给了拜登。不是说我是拜登的狂热支持者，因为我觉得那样说可能并不准确。但是你知道，在这些总统选举中，我们必须作出艰难的选择。这不是。我坦率地说更希望我们让某个人，就一个普通人来当总统，一个有常识、价值观正好处于这个国家中间位置的普通人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Elon Musk",
+      "startSec": 1974.14,
+      "textEn": "You know, just, you know, set out the normal distribution and I think they would be great. Yeah, I think we have made maybe being president not that much fun. You know, to be totally frank,",
+      "textZh": "你知道，只要，你知道，把正态分布列出来，我认为他们会很出色。是的，我想我们或许已经让当总统这件事变得没那么有趣了。你知道，完全坦率地说，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 1990.06,
+      "textEn": "public doesn't trust big news organizations anymore because they're so obviously filthy and dishonest. They don't trust social media companies because as you just heard, Facebook is working for the Democratic Party. We asked Elon Trust and how he's going to do that after firing 80% of his staff. That's nice. So the headline here so far is that before Elon Musk bought it, Twitter wasn't so much a social media site as a honey trap operated by global intelligence agencies, including our own.",
+      "textZh": "公众不再信任大型新闻机构，因为它们如此明显地肮脏且不诚实。他们不信任社交媒体公司，因为正如你刚才听到的，Facebook 在为民主党工作。我们问了埃隆信任，以及在解雇了 80% 的员工后他要如何做到这一点。那不错。所以到目前为止，这里的头条是，在埃隆·马斯克收购 Twitter 之前，它与其说是一个社交媒体网站，不如说是一个由全球情报机构运营的美人计陷阱，其中也包括我们自己的情报机构。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2019.3,
+      "textEn": "One of the very first things Elon Musk did was fire all the spies who worked at Twitter. Then he fired a lot of other people too, including the entire PR department, the HR department, and a lot of other useless baggage that weren't helping the company do anything worth doing. And what happened next, we asked him,",
+      "textZh": "埃隆·马斯克最先做的事情之一，就是解雇所有在 Twitter 工作的间谍。然后他也解雇了许多其他人，包括整个公关部门、人力资源部门，以及许多其他对公司做任何值得做的事情都没有帮助的无用包袱。接下来发生了什么，我们问了他，",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Elon Musk",
+      "startSec": 2037.94,
+      "textEn": "meant a shrinking Pie, obviously, for most of the traditional media companies, and made them more desperate to get clicks, to get, you know, get attention.",
+      "textZh": "显然意味着对大多数传统媒体公司来说，蛋糕缩小了，并让它们更加不顾一切地争取点击量，争取，你知道，争取关注。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "Elon Musk",
+      "startSec": 2053.85,
+      "textEn": "And it's made them. When, you know, when they're. When they're in sort of a desperate state, they will then tend to really push headlines that get the most clicks, whether those headlines are accurate or not. So it's resulted, in my view, I think. I think most people would agree, a lesson, truthful, less accurate news.",
+      "textZh": "而且这让它们。当，你知道，当它们。当它们处于某种不顾一切的状态时，它们就会倾向于大力推出能获得最多点击量的标题，无论那些标题是否准确。所以在我看来，这导致了，我认为。我想大多数人都会同意，一个教训，真实的、较不准确的新闻。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Elon Musk",
+      "startSec": 2079.2,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Elon Musk",
+      "startSec": 2081.28,
+      "textEn": "Because they just got to get a rise out of people. And I think it's also increased the negativity of the news because I think we humans instinctually respond more to negative. I think we have an instinctual negative bias, which kind of makes sense in that if, like, let's say, like, it's more important to remember where. Where was the lion or where was the tribe that wants to kill my tribe, then where is the bush with berries?",
+      "textZh": "因为它们就是得让人们产生反应。而且我认为这也增加了新闻的负面性，因为我认为我们人类本能上对负面信息反应更强。我认为我们有一种本能的负面偏向，这也算说得通，因为，比如说，假设，比如，记住哪里更重要。狮子在哪里，或者想要杀死我所属部落的那个部落在哪里，相比之下，结着浆果的灌木在哪里？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2115.93,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "Elon Musk",
+      "startSec": 2116.33,
+      "textEn": "Like, one's like a permanent negative outcome, and the other is like, well, I might go hungry. So. Meaning there's an asymmetry in.",
+      "textZh": "比如，一个就像是永久性的负面结果，另一个则像是，嗯，我可能会挨饿。所以。意思是其中存在一种不对称。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Elon Musk",
+      "startSec": 2126.98,
+      "textEn": "Sort of involved asymmetry in negative versus positive stuff.",
+      "textZh": "算是涉及负面事物与正面事物之间的不对称。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Elon Musk",
+      "startSec": 2132.5,
+      "textEn": "And also, historically, the negative stuff would have been quite proximate. Like, it would have been near. Represented a real danger to you as a person if you heard negative news. Because historically, you know, like a few hundred years ago, we're not hearing about what negative things are happening on the other side of the world or on the other side of the country. We're only. We're hearing about negative things in our village, things that could actually have a bad effect on you.",
+      "textZh": "而且，从历史上看，负面的事情会离你相当近。比如，它会在附近。如果你听到负面消息，它代表着对你本人真实的危险。因为从历史上看，你知道，比如几百年前，我们不会听到世界另一边或国家另一边正在发生什么负面的事情。我们只会。我们听到的是村子里的负面事情，是那些实际上可能对你产生不良影响的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Elon Musk",
+      "startSec": 2158.82,
+      "textEn": "Whereas now we're hearing about. I mean, the news very often seems to attempt to answer the question, what is the worst thing that happened on earth today?",
+      "textZh": "然而现在我们听到的是。我是说，新闻似乎经常试图回答这个问题：今天地球上发生的最糟糕的事情是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "Elon Musk",
+      "startSec": 2167.5,
+      "textEn": "Wonder why are you sad after reading that?",
+      "textZh": "还奇怪为什么你读完之后会难过？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2169.14,
+      "textEn": "You know, do you read any legacy media outlets?",
+      "textZh": "你知道，你会看任何传统媒体机构吗？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Elon Musk",
+      "startSec": 2173.42,
+      "textEn": "I mean, I really get most of my news from Twitter at this point. It is the number one news source, I think, in the world at this point.",
+      "textZh": "我是说，到目前这个时候，我确实主要从 Twitter 获取新闻。我认为，到目前这个时候，它是世界上排名第一的新闻来源。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2180.7,
+      "textEn": "What percentage of your staff did you fire at Twitter? One of the great business stories of the year.",
+      "textZh": "你在 Twitter 解雇了百分之多少的员工？这是今年最了不起的商业故事之一。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "Elon Musk",
+      "startSec": 2186.12,
+      "textEn": "I think we're about 20% of the original size.",
+      "textZh": "我想我们现在大约是原来规模的 20%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2189.56,
+      "textEn": "So 80% left.",
+      "textZh": "所以 80% 离开了。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "Elon Musk",
+      "startSec": 2191.56,
+      "textEn": "Yes. So a lot of people voluntarily.",
+      "textZh": "是的。所以很多人是自愿的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0185",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2195.48,
+      "textEn": "Sure, sure. But. But it's. 80% are gone from the data.",
+      "textZh": "当然，当然。但是。但是这是。数据中有 80% 不见了。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "Elon Musk",
+      "startSec": 2199.48,
+      "textEn": "That's correct, yes.",
+      "textZh": "没错，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2200.36,
+      "textEn": "So how do you run the company with only 20% of the staff?",
+      "textZh": "那么，你如何只用 20% 的员工来运营公司？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0188",
+      "speakerEn": "Elon Musk",
+      "startSec": 2204.2,
+      "textEn": "It turns out you don't need all that many people to run Twitter, but",
+      "textZh": "事实证明，运营 Twitter 并不需要那么多人，但是",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2208.04,
+      "textEn": "80%, that's a lot.",
+      "textZh": "80%，那可不少。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "Elon Musk",
+      "startSec": 2210.46,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0191",
+      "speakerEn": "Elon Musk",
+      "startSec": 2212.62,
+      "textEn": "I mean, if you're not trying to run some sort of glorified activist organization and you don't care that much about censorship, then you can really let go of a lot of people. Turns out,",
+      "textZh": "我是说，如果你不是在试图运营某种被美化了的激进主义组织，而且你没那么在意审查，那么你确实可以裁掉很多人。事实证明，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2229.26,
+      "textEn": "How many others, without naming names, but how many? I had dinner with somebody who runs a big company recently said, I'm really inspired by Elon. And I said, the free speech stuff. He goes, no, the firing, the staff stuff.",
+      "textZh": "还有多少人，不点名，但有多少人？我最近和一个经营大公司的人吃饭，他说，我真的受到了埃隆·马斯克的启发。我说，是因为言论自由那些事。他说，不，是解雇员工那些事。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0193",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2241.44,
+      "textEn": "How many other CEOs have come to you to talk about this?",
+      "textZh": "还有多少位 CEO 找过你谈这件事？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0194",
+      "speakerEn": "Elon Musk",
+      "startSec": 2247.84,
+      "textEn": "I spend a lot of time at work, so it's not like I'm meeting with lots of people. They see what.",
+      "textZh": "我花很多时间工作，所以我并不是会见很多人。他们看到什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0195",
+      "speakerEn": "Elon Musk",
+      "startSec": 2254.8,
+      "textEn": "But I think we just had a situation at Twitter where it was absurdly overstaffed. You know, so it wasn't like. You look and say, like, what does it really take to operate Twitter?",
+      "textZh": "但我认为，我们在 Twitter 遇到的情况是人员多得荒谬。你知道，所以并不是说。你看着它，然后说，比如，运营 Twitter 到底需要什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0196",
+      "speakerEn": "Elon Musk",
+      "startSec": 2266.49,
+      "textEn": "You know, most of what we're talking about here is a group text service at scale. Like, how many people are really needed for that? You know? And if you look at the. You say, like, what has been the product development over time with Twitter? And you're like, so, like, you know, years versus product improvements. And it's like a pretty flat line. So what are they doing?",
+      "textZh": "你知道，我们在这里谈论的大部分东西，其实就是一种大规模的群组短信服务。比如，这真的需要多少人？你知道？而如果你看看那个。你会说，比如，Twitter 的产品开发随着时间推移是什么样的？然后你会觉得，所以，比如，你知道，年份与产品改进相比。那就像是一条相当平的线。所以他们在做什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0197",
+      "speakerEn": "Elon Musk",
+      "startSec": 2292.92,
+      "textEn": "It took a year to add an edit button. That doesn't work most of the time. I mean, this is. I feel like there's a comedy situation here.",
+      "textZh": "添加一个编辑按钮花了 1 年。而且它大多数时候都不能用。我是说，这真是。我觉得这里的情况像一出喜剧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0198",
+      "speakerEn": "Elon Musk",
+      "startSec": 2302.84,
+      "textEn": "You're not making cars. That's very difficult to make cars or get rockets to orbit. So the real question is, how did it get so absurdly overstaffed? This is insane. So anyway, and it's clearly working. In fact, I think it's working better than ever. We've increased the responsiveness of the system by, in some cases, over 80%. We're trying to make Twitter the most trusted place on the Internet, the least untrustworthy place on the Internet.",
+      "textZh": "你又不是在造汽车。造汽车或把火箭送入轨道是非常困难的。所以真正的问题是，它怎么会人员多得如此荒谬？这太疯狂了。总之，而且它显然运转正常。事实上，我认为它比以往任何时候都运转得更好。在某些情况下，我们把系统的响应速度提高了超过 80%。我们正努力让 Twitter 成为互联网上最值得信赖的地方，成为互联网上最不不可信的地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0199",
+      "speakerEn": "Elon Musk",
+      "startSec": 2335.23,
+      "textEn": "I don't think anyone should trust the Internet, but maybe we can make Twitter the least untrustworthy. Like I said, try to get the truth to the people as best we can.",
+      "textZh": "我认为任何人都不应该信任互联网，但也许我们能让 Twitter 成为最不不可信的地方。就像我说的，尽我们所能把真相带给人们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0200",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2349.14,
+      "textEn": "When Elon Musk took over Twitter, the company had something called a human rights team. There was no measurable increase in human rights around the world. In fact, Twitter was doing its best to crush human rights.",
+      "textZh": "埃隆·马斯克接管 Twitter 时，公司有一个所谓的人权团队。全世界的人权并没有出现任何可衡量的改善。事实上，Twitter 正竭尽全力打压人权。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0201",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2367.65,
+      "textEn": "The only advantage human beings have or have ever had is they're the smartest beings on the planet. But soon that will not be true. In fact, like, next week. So when I become stronger than we are, what do you do exactly? And what does it mean for democracy? We asked Elon Musk about contingency plans for dealing with advanced general intelligence. Here's part of that conversation.",
+      "textZh": "人类拥有或曾经拥有的唯一优势，就是他们是这个星球上最聪明的存在。但很快，这就不再是真的了。事实上，比如，就在下周。那么当我变得比我们更强大时，你具体要怎么办？这对民主又意味着什么？我们向埃隆·马斯克询问了应对先进通用智能的应急计划。以下是那段对话的一部分。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0202",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2393.09,
+      "textEn": "You've heard people say we should just blow up the Server farms, because there's no way that once this gets rolling, there's no way to slow it down. What do you think of that?",
+      "textZh": "你听人们说过，我们应该直接炸掉服务器农场，因为这东西一旦开始发展，就没有办法让它慢下来。你对此怎么看？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0203",
+      "speakerEn": "Elon Musk",
+      "startSec": 2401.95,
+      "textEn": "Well, the, the really heavy duty intelligence is not going to be distributed all over the place. It'll be in a limited number of service centers. If you say like very, like very sort of deep AI, heavy duty AI, it's not, it's not going to be in your laptop or your phone. It's, it's going to be in, you know, situation where there's like 100,000 really powerful computers working together in a service center. So it's not, it's not like subtle and there are limited number of places where that can happen.",
+      "textZh": "嗯，那种，那种真正强大的智能不会分布在各个地方。它会位于数量有限的服务中心里。如果你说的是，比如非常，像是非常深度的 AI、强大的 AI，它不会，它不会在你的笔记本电脑或手机里。它，它会处于，你知道，那种有大约 100,000 台非常强大的计算机在一个服务中心里协同工作的情况。所以它不是，它并不隐蔽，而且能发生这种情况的地方数量有限。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0204",
+      "speakerEn": "Elon Musk",
+      "startSec": 2433.74,
+      "textEn": "In fact, you could, if you could just, you can just look at the heat signature from space and it'll be very obvious. I'm not suggesting we could look to service centers right now, but there may be some, it may be wise to have some sort of contingency plan where the government's got an ability to shut down, shut down power to these server centers. Like you don't have to blow it up, you can just cut the power.",
+      "textZh": "事实上，你可以，如果你可以直接，你只要从太空观察热信号，它就会非常明显。我不是在建议我们现在可以寻找服务中心，但可能会有一些——制定某种应急计划也许是明智的，让政府有能力切断、切断这些服务器中心的电力。比如你不必炸掉它，只要切断电源就行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0205",
+      "speakerEn": "Elon Musk",
+      "startSec": 2461.34,
+      "textEn": "And what would trip or cut connectivity as well? That's another way.",
+      "textZh": "还有什么会触发，或者也切断连接？那是另一种办法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0206",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2464.38,
+      "textEn": "Right, but what would trip that switch, do you think, in your mind, what would be the threshold that you'd have to pass to warrant the government cutting off your power or cutting off your signal?",
+      "textZh": "对，但你认为，在你心目中，什么会触发那个开关？必须越过什么门槛，才能让政府有正当理由切断你的电源或切断你的信号？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0207",
+      "speakerEn": "Elon Musk",
+      "startSec": 2482.39,
+      "textEn": "Well, I mean, I guess if we lost control of some super AI, like for some reason, like the things that would normally work to do a passive shutdown, like the administrator passwords, if they somehow stop working where we can't slow down or, you know, I don't have a precise answer, but if there's something that we're concerned about and are unable to stop it with software commands, then we probably want to have some kind of hardware off switch.",
+      "textZh": "嗯，我是说，我想，如果我们失去了对某个超级人工智能的控制，比如出于某种原因，通常用于进行被动关停的那些东西，比如管理员密码，如果它们不知怎么失效了，让我们无法减缓它的速度，或者，你知道，我没有一个确切的答案，但如果有什么东西令我们担忧，而我们又无法用软件命令阻止它，那么我们或许会想要某种硬件关闭开关。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0208",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2520.72,
+      "textEn": "Yes, I think, you know, can't hurt. Have you talked to, since, you know, Larry Page and you obviously, you know, the OpenAI guys, because you started with",
+      "textZh": "是的，我觉得，你知道，有也无妨。你有没有谈过，自从，你知道，拉里·佩奇，还有显然，你知道，OpenAI 的那些人，因为你一开始参与了",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0209",
+      "speakerEn": "Elon Musk",
+      "startSec": 2528.32,
+      "textEn": "it, definitely have one.",
+      "textZh": "它，肯定要有一个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0210",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2529.92,
+      "textEn": "Have you talked to the people who run these two, the biggest AI companies about this recently?",
+      "textZh": "你最近有没有和经营这两家最大的人工智能公司的那些人谈过这件事？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0211",
+      "speakerEn": "Elon Musk",
+      "startSec": 2538.05,
+      "textEn": "I haven't talked to Larry Page in a few years because he got very upset with me about OpenAI. So when OpenAI was created, it did, it did shift things into it from unipolar world where Google DeepMind controlled, like I said, 3/4 of all AI talent to where there's now sort of Bipolar World or OpenAI and Google DeepMind. And they're. And now weirdly it seems OpenAI is maybe ahead.",
+      "textZh": "我有几年没和拉里·佩奇谈过了，因为他因 OpenAI 的事对我非常生气。所以，当 OpenAI 成立时，它确实，确实把局面从单极世界转变了，原本 Google DeepMind 控制着，就像我说的，全部人工智能人才的 3/4，现在则有点像是 OpenAI 和 Google DeepMind 构成的两极世界。而他们。现在奇怪的是，OpenAI 似乎可能领先了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0212",
+      "speakerEn": "Elon Musk",
+      "startSec": 2572.27,
+      "textEn": "So I have had conversations with",
+      "textZh": "所以我确实和",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0213",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2577.39,
+      "textEn": "the",
+      "textZh": "那个",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0214",
+      "speakerEn": "Elon Musk",
+      "startSec": 2577.67,
+      "textEn": "OpenAI team, Sam Altman. I haven't talked to Larry Page because he doesn't want to talk to me anymore for a few years.",
+      "textZh": "OpenAI 团队、萨姆·奥尔特曼谈过。我没和拉里·佩奇谈过，因为这几年来他都不想再和我说话了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0215",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2584.51,
+      "textEn": "Can I ask you just about since you've been around a lot of this, the thinking. So why would anyone not be a specist, be human centered in his thinking about technology? What's the thinking there?",
+      "textZh": "我能不能问问你，既然你长期接触其中很多事情，那种思维方式。为什么会有人不是物种主义者，在思考技术时不以人类为中心？这背后的思路是什么？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0216",
+      "speakerEn": "Elon Musk",
+      "startSec": 2597.09,
+      "textEn": "I think what he's trying to say is that if I were to guess that he. That all consciousness should be treated equally and whether that is digital or biological.",
+      "textZh": "我想他试图表达的是，如果让我猜的话，他。所有意识都应该得到平等对待，无论那是数字意识还是生物意识。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0217",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2614.46,
+      "textEn": "And you disagree?",
+      "textZh": "而你不同意？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0218",
+      "speakerEn": "Elon Musk",
+      "startSec": 2616.06,
+      "textEn": "I disagree, yeah.",
+      "textZh": "我不同意，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0219",
+      "speakerEn": "Elon Musk",
+      "startSec": 2620.22,
+      "textEn": "Especially if the digital consciousness, or whatever you want to call it, digital intelligence, decides to curtail the biological intelligence.",
+      "textZh": "尤其是如果数字意识，或者随你怎么称呼它，数字智能，决定限制生物智能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0220",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2629.42,
+      "textEn": "Right. So you're just building your own slave master. And why would you do that?",
+      "textZh": "对。所以你只是在打造你自己的奴隶主。你为什么要这么做？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0221",
+      "speakerEn": "Elon Musk",
+      "startSec": 2632.34,
+      "textEn": "Doesn't sound great.",
+      "textZh": "听起来不怎么样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0222",
+      "speakerEn": "Elon Musk",
+      "startSec": 2636.94,
+      "textEn": "Yeah, I mean, we shouldn't. We should at least. No need to rush, you know, what's the hurry? Where's the fire?",
+      "textZh": "是啊，我是说，我们不应该。我们至少应该。没必要着急，你知道，急什么呢？有什么火烧眉毛的？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0223",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2648.31,
+      "textEn": "Well, what. I mean, tell us about the hurry. So this for. I know you've been talking about this for years and on the sort of the periphery of our attention, we've heard Elon Musk talking about AI, but for most people it's been like three months since they've had any interaction with this at all. So what's the timeline here? At what point does it start to really change our society, do you think?",
+      "textZh": "那么，什么。我是说，跟我们说说为什么这么急。所以这件事对。​​我知道你已经谈论这件事很多年了，在我们注意力的某种边缘地带，我们听过埃隆·马斯克谈论人工智能，但对大多数人来说，他们与这东西发生任何接触也就是近 3 个月的事。那么这里的时间表是什么？你认为到了什么时候，它会开始真正改变我们的社会？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0224",
+      "speakerEn": "Elon Musk",
+      "startSec": 2670.51,
+      "textEn": "I think it starts to have probably an impact this year. GPT4Now. It's like writing poetry. And pretty decent poetry, actually. Pretty decent skill at rhyming is incredible.",
+      "textZh": "我认为它可能会从今年开始产生影响。现在的 GPT4。它能写诗。而且说实话，诗写得相当不错。押韵技巧相当不错，令人难以置信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0225",
+      "speakerEn": "Speaker C",
+      "startSec": 2684.55,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "说话人 C"
+    },
+    {
+      "id": "p-0226",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2685.39,
+      "textEn": "Yes. And it's coherent.",
+      "textZh": "是的。而且它前后连贯。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0227",
+      "speakerEn": "Elon Musk",
+      "startSec": 2686.91,
+      "textEn": "Yes, it is. You've got a narrative.",
+      "textZh": "是的，确实如此。它能构建出叙事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0228",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2690.67,
+      "textEn": "Yes, that's right.",
+      "textZh": "是的，没错。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0229",
+      "speakerEn": "Elon Musk",
+      "startSec": 2691.39,
+      "textEn": "Yeah. So you could say that's hard to do. Like most humans can't do that.",
+      "textZh": "对。所以你可以说，那很难做到。比如大多数人类都做不到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0230",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2695.86,
+      "textEn": "That's true.",
+      "textZh": "确实如此。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0231",
+      "speakerEn": "Elon Musk",
+      "startSec": 2696.62,
+      "textEn": "So it's already past the point of what most humans can do. Most humans cannot write as well as ChatGPT, and no human can write that well that fast as the best of my knowledge. So maybe Shakespeare.",
+      "textZh": "所以它已经超过了大多数人类所能做到的水平。大多数人类的写作水平不如 ChatGPT，而且据我所知，没有人能以那么快的速度写得那么好。所以，也许莎士比亚可以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0232",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2711.26,
+      "textEn": "How can you have a democracy with technology like that? If democracy is government by the people, each person's vote is equal to every other person's vote. I mean, people are choosing their votes freely. Can you have a democracy with this?",
+      "textZh": "有了那样的技术，怎么还能实行民主制度？如果民主是人民当家作主，每个人的一票都与其他任何人的一票等值。我的意思是，人们是在自由地选择如何投票。有了这个，还能实行民主制度吗？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0233",
+      "speakerEn": "Elon Musk",
+      "startSec": 2725.49,
+      "textEn": "Well, that's why I raised the concern of AI being a significant influence in elections. And even if you say that AI doesn't have agency, well, it's very likely that people will use the AI as a tool in elections.",
+      "textZh": "嗯，这就是为什么我提出了 AI 会对选举产生重大影响的担忧。即使你说 AI 没有自主能动性，也很可能会有人把 AI 当作选举中的工具。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0234",
+      "speakerEn": "Elon Musk",
+      "startSec": 2742.13,
+      "textEn": "And then if the AI is smart enough, are they using the tool or is the tool using them? So I think things are Getting weird. And they're getting weird fast.",
+      "textZh": "那么，如果 AI 足够聪明，究竟是他们在使用工具，还是工具在利用他们？所以我觉得事情正变得奇怪。而且正迅速变得奇怪。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0235",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2755.43,
+      "textEn": "Things are getting weird and they're getting weird fast. And not just in technology, but in banking. As someone who runs three of the world's most successful companies, Elon Musk knows a lot about banks. We couldn't resist asking him about what seems like a global banking crisis. His answers are next.",
+      "textZh": "事情正变得奇怪，而且正迅速变得奇怪。不只是在科技领域，在银行业也是如此。作为全球最成功的3家公司之掌舵者，埃隆·马斯克对银行非常了解。我们忍不住问了他对这场看似全球性银行危机的看法。接下来是他的回答。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0236",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2777.74,
+      "textEn": "In addition to having a lot of wise and prescient thoughts about artificial intelligence, Elon Musk is also one of the world's most successful businessmen. He runs Tesla and Space X and now Twitter. And we thought, wait a second, there seems to be an international banking crisis underway and a lot of inflation. Let's ask Elon Musk what he thinks of that. So we did, and here's what he said.",
+      "textZh": "除了对人工智能有许多睿智且有先见之明的想法，埃隆·马斯克还是全球最成功的商人之一。他经营着 Tesla、SpaceX，现在还有 Twitter。我们就想，等一下，目前似乎正发生一场国际银行危机，还有严重的通货膨胀。让我们问问埃隆·马斯克对此怎么看。于是我们问了，以下是他的回答。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0237",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2800.7,
+      "textEn": "So you've seen a couple regional bank collapses.",
+      "textZh": "所以，你已经看到几家地区性银行倒闭了。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0238",
+      "speakerEn": "Elon Musk",
+      "startSec": 2803.64,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0239",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 2803.96,
+      "textEn": "And we've been told that's not a big deal, that these are isolated and each one collapse for unique reasons. They're not, it's not systemic in any sense. What's your sense, your sense of the stability of the American banking system?",
+      "textZh": "而我们被告知这没什么大不了的，这些都是孤立事件，每家银行都因各自独特的原因倒闭。它们不是，这在任何意义上都不是系统性问题。你怎么看，你对美国银行体系稳定性的看法是什么？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0240",
+      "speakerEn": "Elon Musk",
+      "startSec": 2817,
+      "textEn": "Well, it's actually at this point a global banking system process. So the, you know, we have a situation here where it's not merely, it's not that the, the canary in the coal mine has died, but the miners are starting to die too.",
+      "textZh": "嗯，实际上到这个时候，它已经是一个全球银行体系的过程了。所以，你知道，我们现在面临的情况不只是，不是说煤矿里的金丝雀已经死了，而是矿工们也开始死了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0241",
+      "speakerEn": "Elon Musk",
+      "startSec": 2836.4,
+      "textEn": "So, you know, Silicon Valley bank collapsing overnight is one hell of a big canary. It's more like a turkey. I mean, it's not just, it's not like some small fry thing. I think that there is a serious danger with the global banking system.",
+      "textZh": "所以，你知道，硅谷银行一夜之间倒闭，是一只大得吓人的金丝雀。它更像是一只火鸡。我的意思是，这不只是，这不像是什么小角色。我认为全球银行体系存在严重危险。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0242",
+      "speakerEn": "Elon Musk",
+      "startSec": 2857.53,
+      "textEn": "There's, there's a strong argument that the, if you were to actually mark to market the portfolios of the banks, the loans and whatnot, that the entire banking industry would have negative equity. It feels that way, yes. So if you look at say, commercial real estate, like offices and whatnot, the whole work from home thing has substantially reduced office usage in cities around the world.",
+      "textZh": "有，有一个很有力的论点是，如果你真的按市价计价银行的投资组合、贷款之类的东西，那么整个银行业都会出现负权益。是的，感觉确实如此。所以，如果你看看，比如商业地产，像办公楼之类的，在家办公这整件事已经大幅减少了世界各地城市的办公室使用率。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0243",
+      "speakerEn": "Elon Musk",
+      "startSec": 2893.8,
+      "textEn": "And you know, I think, I think San Francisco is a 40% off. San Francisco is like an extreme example, but I think it's on 40% vacancy.",
+      "textZh": "而且，你知道，我觉得，我觉得旧金山是打了 40% 的折扣。旧金山算是一个极端的例子，但我觉得它的空置率是 40%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0244",
+      "speakerEn": "Elon Musk",
+      "startSec": 2904.84,
+      "textEn": "Even new York has, I think almost all cities at this point have record vacancies of commercial real estate. So now commercial real estate used to be something that was a grade A asset, that if a bank had commercial real estate holdings, those would be considered the highest security, some of the safest assets you could have. Now that is not the case anymore. One company after another is canceling their leases or not renewing their leases or if they go bankrupt, there's nothing for the bank who owns that real estate to go after because they're previously strong company now dead.",
+      "textZh": "甚至纽约也，我想现在几乎所有城市的商业地产空置率都创下了纪录。所以，商业地产过去曾是A级资产，如果一家银行持有商业地产，那些资产会被视为安全性最高、你所能拥有的最安全资产之一。现在已经不是这样了。一家公司接着一家公司取消租约或不再续租，或者如果它们破产了，拥有那处房地产的银行也没有什么可以追索的，因为它们之前实力雄厚的公司现在已经死了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0245",
+      "speakerEn": "Elon Musk",
+      "startSec": 2948.03,
+      "textEn": "What do you go after at that point? So we really haven't seen the commercial real estate shoe drop. That's more like an anvil, not a shoe. So the stuff we've seen thus far actually hasn't even.",
+      "textZh": "到那时你还能追索什么？所以我们真的还没有看到商业地产这只鞋落地。那更像是一个铁砧，而不是一只鞋。所以我们迄今看到的情况实际上甚至还没有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0246",
+      "speakerEn": "Elon Musk",
+      "startSec": 2965.2,
+      "textEn": "It's only slightly real estate portfolio degradation. But that will become a very serious thing later this year in my, in my view.",
+      "textZh": "这只是房地产投资组合略有恶化。但在我，在我看来，今年晚些时候，这会变成一个非常严重的问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0247",
+      "speakerEn": "Elon Musk",
+      "startSec": 2978.4,
+      "textEn": "I think if we see which are likely to see a drop in house prices because the interest rates are too high and for most people when buying a house, they look at the monthly payment. If you're a 3030 mortgage, the vast majority of is interest. So if the Fed rate is high, you have a high base interest rate. Effectively the price you can pay for the house drops because you now have to pay more interest. Which means that if you've got a fixed monthly payment, you can now afford to buy a house for less.",
+      "textZh": "我认为，如果我们看到——而且很可能会看到——房价下跌，因为利率太高了，而且对大多数人来说，买房时他们看的是每月还款额。如果你是3030抵押贷款，其中绝大部分是利息。所以，如果美联储利率很高，你就会有一个很高的基准利率。实际上，你能为房子支付的价格会下降，因为你现在必须支付更多利息。这意味着，如果你的每月还款额是固定的，你现在只能负担得起价格更低的房子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0248",
+      "speakerEn": "Elon Musk",
+      "startSec": 3010.7,
+      "textEn": "Less money effectively drops the, the prices of houses. Yes, this is the kind of thing that tends to accelerate. So then you can get negative equity in the home market as well. And so if banks end up having loan losses in both their commercial and they're definitely going to have loan losses in their commercial portfolio, but also in their mortgage portfolio. This is a dire situation.",
+      "textZh": "更少的钱实际上会压低，压低房价。是的，这类事情往往会加速。然后房地产市场也可能出现负权益。因此，如果银行最终在商业贷款和——它们的商业投资组合肯定会出现贷款损失——但也在抵押贷款投资组合中出现贷款损失。这是一个严峻的局面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0249",
+      "speakerEn": "Elon Musk",
+      "startSec": 3039.75,
+      "textEn": "The, there is, there is a solution to mitigate the magnitude of the damage here, which is for the Fed to lower the rate. But they raised the rate again.",
+      "textZh": "这个，有，有一个办法可以减轻这里的损害程度，那就是让美联储降息。但他们又加息了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0250",
+      "speakerEn": "Elon Musk",
+      "startSec": 3053.91,
+      "textEn": "Now, if I recall correctly, which I, you know, important caveat, I think the last time the Fed raised rates going into a recession was 1929.",
+      "textZh": "现在，如果我没记错的话——我，你知道，这是个重要的前提——我认为美联储上一次在经济步入衰退时加息是在1929年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0251",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3063.43,
+      "textEn": "What happened next?",
+      "textZh": "接下来发生了什么？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0252",
+      "speakerEn": "Elon Musk",
+      "startSec": 3065.32,
+      "textEn": "Yeah, the Great Depression.",
+      "textZh": "对，大萧条。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0253",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3070.28,
+      "textEn": "The concern, I'm going to tell you, nothing you don't know, but the concern is if the Fed drops rates again, then inflation will accelerate and you can't do that in an election year.",
+      "textZh": "令人担忧的是，我要说的你都知道，但令人担忧的是，如果美联储再次降息，那么通胀就会加速，而你不能在选举年这么做。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0254",
+      "speakerEn": "Elon Musk",
+      "startSec": 3081.72,
+      "textEn": "So inflation is going to happen no matter what.",
+      "textZh": "所以无论如何，通胀都会发生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0255",
+      "speakerEn": "Elon Musk",
+      "startSec": 3086.2,
+      "textEn": "If you increase the money supply, you get inflation, right. So there's not some magical cure for getting rid of inflation except to increase the productivity, the output of goods and services. So say like what is money?",
+      "textZh": "如果你增加货币供应量，就会出现通胀，对吧。所以，除了提高生产率、提高商品和服务的产出之外，并不存在什么消除通胀的神奇办法。那么，比如说，货币是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0256",
+      "speakerEn": "Elon Musk",
+      "startSec": 3107.74,
+      "textEn": "You've got these sort of, it's basically numbers in a database that sum up to some total. Then you've got the output of goods and services of the economy. And the, as long as the ratio of money to ratio of goods and services stays, if that, if that stays constant, you have no, no inflation. If, if you add more money, if you add money to the system faster than you increase goods and services, then you have inflation so all of these Covid sort of stimulus bills were not paid for.",
+      "textZh": "你有这些某种意义上的，它基本上就是数据库里的数字，加起来构成某个总量。然后你有经济体的商品和服务产出。而，只要货币的比率与商品和服务的比率保持不变，如果那个，如果那个保持不变，你就没有，没有通胀。如果，如果你增加更多货币，如果你向系统中增加货币的速度快于你增加商品和服务的速度，那么就会出现通胀，所以所有这些新冠时期之类的刺激法案都没有得到资金支付。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0257",
+      "speakerEn": "Elon Musk",
+      "startSec": 3140.61,
+      "textEn": "They were just generated more currency, more, you know, more money. Was, was, was created because the federal government, the checks never. The checks always pass. You know, unless you had a debt limit, which there's probably going to be some debt limit crisis later this year. But provided you haven't hit the debt limit, the, the federal government, unlike state governments or city governments or individuals, can simply issue more money.",
+      "textZh": "它们只是产生了更多货币，更多，你知道，更多的钱。钱被，被，被创造出来，因为联邦政府，那些支票从来没有。那些支票总是能兑现。你知道，除非你有债务上限，今年晚些时候可能会发生某种债务上限危机。但只要你还没有触及债务上限，联邦政府与州政府、市政府或个人不同，可以直接发行更多货币。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0258",
+      "speakerEn": "Elon Musk",
+      "startSec": 3169.98,
+      "textEn": "And that's what they did.",
+      "textZh": "而他们就是这么做的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0259",
+      "speakerEn": "Elon Musk",
+      "startSec": 3172.7,
+      "textEn": "I mean, as the old saying goes, there's no free lunch. So if you could just issue massive amounts of money without negative consequences. Why don't we just take that to the limit, make everyone a trillionaire. Well, I mean, they tried that in Venezuela. How'd that work out?",
+      "textZh": "我的意思是，正如老话所说，天下没有免费的午餐。所以，如果你可以发行巨量货币而不产生负面后果。那为什么不把这件事做到极致，让每个人都成为万亿富翁。嗯，我是说，他们在委内瑞拉试过了。结果怎么样？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0260",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3188.38,
+      "textEn": "Well, they had to eat zoo animals, right?",
+      "textZh": "嗯，他们不得不吃动物园里的动物，对吧？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0261",
+      "speakerEn": "Elon Musk",
+      "startSec": 3190.46,
+      "textEn": "It's not good. You know, there's no free lunch. There's not some ability to issue money and not have inflation. Many of those candidates",
+      "textZh": "这并不好。你知道，天下没有免费的午餐。不存在什么既能发行货币又不引发通胀的能力。那些候选人中的许多人",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0262",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3199.9,
+      "textEn": "now you can see what they vilify them. It'll be nice to have leaders have that.",
+      "textZh": "现在你可以看到他们把他们妖魔化成什么样了。要是有具备那一点的领导人就好了。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0263",
+      "speakerEn": "Elon Musk",
+      "startSec": 3203.28,
+      "textEn": "Smart.",
+      "textZh": "聪明。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0264",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3203.8,
+      "textEn": "Elon Musk has spent a lot of his life staring off into space. Now he's got the world's biggest rocket companies. He seen anything out there? We asked him.",
+      "textZh": "埃隆·马斯克一生中花了很多时间凝视太空。如今，他拥有世界上最大的火箭公司。他在外面看到过什么吗？我们问了他。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0265",
+      "speakerEn": "Speaker D",
+      "startSec": 3216.04,
+      "textEn": "Seth loved family and he loved being able to go home to Wyoming during the holidays. Him and I met in middle school. We grew up together. We're best friends. We did this thing when we were in middle school where we write a letter to ourselves. I remember reading the letter that Seth wrote to himself. He's like, I'm thinking the military. And sure enough, he stuck to it. If you were to meet Seth, you know, he was a patriot and country came first.",
+      "textZh": "赛斯热爱家人，也喜欢在节日期间能够回到怀俄明州的家。他和我在中学时认识。我们一起长大。我们是最好的朋友。我们上中学时做过这样一件事，给自己写一封信。我记得读过赛斯写给自己的那封信。他当时说，我在考虑参军。果然，他坚持了下来。如果你见过赛斯，你就会知道，他是一名爱国者，国家至上。",
+      "speakerZh": "说话人D"
+    },
+    {
+      "id": "p-0266",
+      "speakerEn": "Speaker D",
+      "startSec": 3239.46,
+      "textEn": "He loved flying the Ospreys. He loved being a Marine. So 8 June, it was any other day he was off flying. He usually kept in touch with me. So it was about the time he would be coming home. I got concerned, something gone wrong and the plane went down. It took all their lives. It has been the worst nightmare from that day forward. Trying to accept that it's reality. Now that he's gone, my mom was like, hey, did you see this post?",
+      "textZh": "他喜欢驾驶鱼鹰飞机。他喜欢当海军陆战队员。所以6月8日，那天和其他日子一样，他出去飞行了。他通常会和我保持联系。所以当时差不多是他该回家的时间了。我开始担心，出了什么问题，然后飞机坠毁了。夺走了他们所有人的生命。从那天起，这一直是最可怕的噩梦。努力接受这就是现实。现在他走了，我妈妈说，嘿，你看到这篇帖子了吗？",
+      "speakerZh": "说话人D"
+    },
+    {
+      "id": "p-0267",
+      "speakerEn": "Speaker D",
+      "startSec": 3274.27,
+      "textEn": "This organization Tunnels Tower is there. They're gonna buy you a home. And I was like, no, that's a scam. What are you talking about? And that's how I found out. I didn't hear from anyone. I'm like, are you sure? Are they actually buying us a house? Thomas? The Tower did contact us within a couple days, actually. It's such an amazing help in the worst time of our life. To be able to not have the worry of where I'm gonna live and how I'm gonna pay for it and how I'm gonna manage being an only parent and raising a child and working and finding a house, to be able to raise Reed.",
+      "textZh": "这个叫“隧道塔”的组织在那儿。他们要给你买一套房子。我当时说，不，那是骗局。你在说什么？我就是这样得知的。我没有收到任何人的消息。我说，你确定吗？他们真的要给我们买房子吗？托马斯？那个塔实际上在几天内就联系了我们。这在我们人生中最艰难的时刻提供了极大的帮助。能够不用担心我要住在哪里、要怎么付钱，以及我要怎么独自为人父母、抚养孩子、工作并寻找房子，能够把里德抚养长大。",
+      "speakerZh": "说话人D"
+    },
+    {
+      "id": "p-0268",
+      "speakerEn": "Speaker D",
+      "startSec": 3315.7,
+      "textEn": "It's just a huge burden off our shoulders. You guys do amazing things for so many, so many people. And doing God's work, really.",
+      "textZh": "这确实卸下了我们肩上的巨大负担。你们为这么多、这么多的人做着了不起的事。而且真的是在做上帝的工作。",
+      "speakerZh": "说话人D"
+    },
+    {
+      "id": "p-0269",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3327.38,
+      "textEn": "Hey, I'm Cole Hauser. I want you to join me in supporting our nation's heroes and their families. It's only $11 a month.",
+      "textZh": "嗨，我是科尔·豪瑟。我希望你和我一起支持我们国家的英雄及其家人。每月只需11美元。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0270",
+      "speakerEn": "Speaker E",
+      "startSec": 3334.26,
+      "textEn": "Go to t2t.org introducing glass office chair mats by Vitraza. The premium alternative to cracked, curled and worn out plastic mats. Now you'll always get a smooth, easy glide because super strong Vitraza glass chair mats are engineered to hold over a thousand pounds and never dent. They're also protected with a nanotech coating and they're beautiful. Comfort, style, durability. A Vitraza glass chair mat will completely transform your workspace, home office or office office.",
+      "textZh": "访问 t2t.org，隆重推出 Vitraza 玻璃办公椅垫。它是开裂、卷边和磨损塑料垫的高端替代品。现在，你总能获得顺畅、轻松的滑动体验，因为超坚固的 Vitraza 玻璃椅垫经过专门设计，可以承受超过1000磅的重量，而且永不凹陷。它们还带有纳米技术涂层保护，并且非常美观。舒适、时尚、耐用。一张 Vitraza 玻璃椅垫将彻底改变你的工作空间、家庭办公室或办公室办公室。",
+      "speakerZh": "说话人E"
+    },
+    {
+      "id": "p-0271",
+      "speakerEn": "Speaker E",
+      "startSec": 3366.04,
+      "textEn": "Buy direct@vitraza.com we're so confident you'll love it. We give you a life warranty and a 30 day satisfaction guarantee. It's the last chair mat you'll have to buy. I promise. Give up on worn out plastic mats and get the look you deserve. We stock 18 popular sizes and we'll",
+      "textZh": "在 vitraza.com 直接购买，我们非常确信你会喜欢它。我们为你提供终身保修和30天满意保证。这将是你最后一次需要购买椅垫。我保证。放弃那些磨损的塑料垫，获得你应有的外观。我们备有18种热门尺寸，而且我们将",
+      "speakerZh": "说话人E"
+    },
+    {
+      "id": "p-0272",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3384.94,
+      "textEn": "ship free right to your front door.",
+      "textZh": "免费配送，直接送到你家门口。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0273",
+      "speakerEn": "Speaker E",
+      "startSec": 3387.38,
+      "textEn": "Order online and use promo code TV to get 10% off any glass chair mat@vitraza.com",
+      "textZh": "在线订购，并使用优惠码 TV，即可在 vitraza.com 购买任意玻璃椅垫时享受10%的折扣。",
+      "speakerZh": "说话人E"
+    },
+    {
+      "id": "p-0274",
+      "speakerEn": "Elon Musk",
+      "startSec": 3395.94,
+      "textEn": "when you can't watch, listen. Get the latest news, business and news headlines on SiriusXM anytime anywhere. Fox News audio on Sirius XM America is listening.",
+      "textZh": "无法观看时，就来收听。随时随地在 SiriusXM 获取最新新闻、商业和新闻头条。Sirius XM 上的福克斯新闻音频，美国正在收听。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0275",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3406,
+      "textEn": "Buckle up because it is Joe Biden's favorite day of the year, Tax day. We're going to tell you how he marked a special occasion tonight right here.",
+      "textZh": "系好安全带，因为今天是乔·拜登一年中最喜欢的日子，报税日。今晚我们将在这里告诉你，他是如何纪念这个特殊日子的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0276",
+      "speakerEn": "Speaker C",
+      "startSec": 3416,
+      "textEn": "Did you know that your life insurance policy is an asset that you can sell? Hi, I'm Jay Jackson. I'm the CEO of Abacus Life. And for almost 20 years we've been purchasing life insurance policies from seniors just like you. In fact, you can use the free policy value calculator@abacuspays.com and in just seconds you can learn what your policy might be worth.",
+      "textZh": "你知道你的人寿保险保单是一项可以出售的资产吗？嗨，我是杰伊·杰克逊。我是 Abacus Life 的首席执行官。近20年来，我们一直在向像你一样的老年人购买人寿保险保单。事实上，你可以使用 abacuspays.com 上的免费保单价值计算器，只需几秒钟就能知道你的保单可能值多少钱。",
+      "speakerZh": "说话人C"
+    },
+    {
+      "id": "p-0277",
+      "speakerEn": "Speaker E",
+      "startSec": 3438.8,
+      "textEn": "The premiums were getting unreasonable, so we sold ours.",
+      "textZh": "保费变得不合理了，所以我们卖掉了自己的保单。",
+      "speakerZh": "说话人E"
+    },
+    {
+      "id": "p-0278",
+      "speakerEn": "Elon Musk",
+      "startSec": 3442.4,
+      "textEn": "And for more than we expected.",
+      "textZh": "而且比我们预期的更多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0279",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3444.88,
+      "textEn": "For many of my clients, selling their life insurance to Abacus was right for them and their estate plan.",
+      "textZh": "对我的许多客户而言，把他们的人寿保险卖给 Abacus 对他们及其遗产规划来说是正确的选择。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0280",
+      "speakerEn": "Speaker C",
+      "startSec": 3451.12,
+      "textEn": "Selling your life insurance policy can be a safe, smart choice for many seniors. Don't sell or lapse Your policies before going to abacuspays.com or calling 1-800-900-Pays to learn what the fair market value of your policy might be. There are no fees and no obligations, just information.",
+      "textZh": "对许多老年人来说，出售自己的人寿保险保单可能是一个安全、明智的选择。在访问abacuspays.com或致电1-800-900-Pays了解您的保单可能具有怎样的公平市场价值之前，请不要出售您的保单，也不要让保单失效。不收取任何费用，也不承担任何义务，只提供信息。",
+      "speakerZh": "说话人 C"
+    },
+    {
+      "id": "p-0281",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3469.06,
+      "textEn": "Let me give you a tip that I have never shared with anyone before. This tip is about how to create the wow factor in your home. Every person that comes into my home comments about how amazing it smells. It's all thanks to Aroma360 scent diffuser. We feel like we live in a luxurious hotel every day.",
+      "textZh": "让我告诉你一个我以前从未与任何人分享过的妙招。这个妙招能教你如何在家中营造令人惊叹的效果。每一个来到我家的人都会说这里的气味有多么美妙。这全都归功于 Aroma360 香氛扩散器。我们感觉自己每天都像住在一家豪华酒店里。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0282",
+      "speakerEn": "Speaker D",
+      "startSec": 3486.66,
+      "textEn": "And I love how even it sets our space.",
+      "textZh": "而且我喜欢它把我们的空间营造得如此均匀。",
+      "speakerZh": "说话人D"
+    },
+    {
+      "id": "p-0283",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3489.84,
+      "textEn": "Highly recommend that you go directly to aroma360.com to get yours today.",
+      "textZh": "强烈建议你现在就直接前往 aroma360.com 购买。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0284",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3499.36,
+      "textEn": "So Elon Musk has spent a lot of his life thinking about space. And he's got the world's biggest rocket company. So we asked him, have you ever seen anything out there that suggests alien life? And by the way, how do you think life on this planet is going? Elon Musk is put on the rare voices to raise the alarm about lower birth rates. He's doing something about it personally. He thinks the rest of us should too. Here's this part of the conversation.",
+      "textZh": "所以，埃隆·马斯克一生中花了很多时间思考太空。而且他拥有世界上最大的火箭公司。所以我们问他：你是否曾在那里看到任何表明存在外星生命的东西？顺便问一下，你认为这个星球上的生命目前过得怎么样？埃隆·马斯克是为数不多就出生率下降发出警报的人之一。他本人正在为此采取行动。他认为我们其他人也应该这样做。下面是这部分对话。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0285",
+      "speakerEn": "Elon Musk",
+      "startSec": 3524.25,
+      "textEn": "People sometimes take the fact that like, we're here on earth for granted, you know, and that there's consciousness is just a normal thing that happens. But to the best of our knowledge, we see no evidence of conscious life anywhere, anywhere in the universe. So it might be there. Yeah, in physics, of course, sort of the Fermi paradox, When Enrico Fermi is amazing physicist, asks the fundamental question, where are the aliens?",
+      "textZh": "人们有时会把这样一个事实视为理所当然，就是，我们身处地球，你知道，而且意识的存在只是一件会自然发生的普通事情。但据我们所知，我们在任何地方都没有看到意识生命存在的证据，宇宙中的任何地方都没有。所以它可能存在。是的，在物理学中，当然，有所谓的费米悖论。恩里科·费米是一位了不起的物理学家，他提出了一个根本性问题：外星人在哪里？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0286",
+      "speakerEn": "Elon Musk",
+      "startSec": 3552.83,
+      "textEn": "Yeah, a lot of people ask me, you know, where are the aliens? And I think if anyone would know about aliens on Earth, it would probably be me.",
+      "textZh": "是的，很多人问我，你知道，外星人在哪里？而我想，如果有谁会知道地球上有没有外星人，那个人很可能就是我。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0287",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3563.71,
+      "textEn": "I would think.",
+      "textZh": "我也这么认为。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0288",
+      "speakerEn": "Elon Musk",
+      "startSec": 3564.59,
+      "textEn": "Yeah, I'm, you know, very familiar with space stuff.",
+      "textZh": "是的，我，你知道，对太空方面的事情非常熟悉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0289",
+      "speakerEn": "Elon Musk",
+      "startSec": 3569.88,
+      "textEn": "And I've seen no evidence of aliens. So I would immediately tweet it out. That says split second. That would be like all time, probably tough tweet of all time. Found one, guys. It's a jackpot. Eight billion likes.",
+      "textZh": "而且我没有看到任何外星人存在的证据。所以我会立刻把它发到推特上。那就是一瞬间。那大概会是有史以来，可能是有史以来最厉害的一条推文。伙计们，找到一个。中大奖了。80亿个赞。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0290",
+      "speakerEn": "Elon Musk",
+      "startSec": 3588.76,
+      "textEn": "Next level jackpot. If you find aliens, I don't think they're keeping us under. And it was like some general, I think in the 60s where they said, like, show us the aliens. Like Area 51, et cetera. And he said, like, listen, we are constantly trying to get the defense budget to expand. And you know what we really get? No arguments for anyone. If we pulled out an alien and said, we need money to protect ourselves from these guys.",
+      "textZh": "更高一个级别的大奖。如果你发现了外星人，我不认为他们会把我们压在下面。而且我记得好像有位将军，我想是在60年代，人们对他说，比如，把外星人给我们看看。比如51区等等。而他说，比如，听着，我们一直在努力让国防预算增加。而你知道我们真正会得到什么吗？不会有任何人反对。如果我们拉出一个外星人，说，我们需要钱来保护自己免受这些家伙伤害。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0291",
+      "speakerEn": "Elon Musk",
+      "startSec": 3618.84,
+      "textEn": "How much money do you want? You got it. They look dangerous.",
+      "textZh": "你想要多少钱？给你。他们看起来很危险。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0292",
+      "speakerEn": "Elon Musk",
+      "startSec": 3624.82,
+      "textEn": "So the fastest way to get a defense budget increase Would we pull out an alien? You know, we're like, yeah, I mean, that could be. The invasion could be arriving any minute, who knows? So I digress.",
+      "textZh": "所以，让国防预算增加的最快方式，会是我们拉出一个外星人吗？你知道，我们会说，是啊，我是说，可能会这样。入侵随时可能到来，谁知道呢？所以我扯远了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0293",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3640.3,
+      "textEn": "But, but you were saying that our consciousness makes us unique in the universe as far as we know and that we can.",
+      "textZh": "但是，但是你刚才说，据我们所知，我们的意识使我们在宇宙中独一无二，而且我们能够。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0294",
+      "speakerEn": "Elon Musk",
+      "startSec": 3646.18,
+      "textEn": "Yes, I'm not saying that we are unique. I'm simply stating to the best of my knowledge that there is no evidence for other conscious life.",
+      "textZh": "是的，我并不是说我们是独一无二的。我只是陈述，据我所知，没有其他意识生命存在的证据。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0295",
+      "speakerEn": "Elon Musk",
+      "startSec": 3654.12,
+      "textEn": "I hope there is and I hope they're peaceful, obviously two important characteristics. But we're just saying we haven't seen anything yet.",
+      "textZh": "我希望它们存在，也希望它们是和平的，显然，这是两个重要特征。但我们只是说，我们还什么都没有看到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0296",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3665.64,
+      "textEn": "But you think that we take our existence here for granted? Yeah, I think there are threats to it.",
+      "textZh": "但你认为我们把自己在这里的存在视为理所当然？是的，我认为它面临着威胁。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0297",
+      "speakerEn": "Speaker D",
+      "startSec": 3670.68,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "说话人 D"
+    },
+    {
+      "id": "p-0298",
+      "speakerEn": "Elon Musk",
+      "startSec": 3671.08,
+      "textEn": "Yeah, yeah, exactly. So.",
+      "textZh": "对，对，没错。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0299",
+      "speakerEn": "Elon Musk",
+      "startSec": 3677.41,
+      "textEn": "I just think we should not assume that civilization is robust. And if you look at the history of civilizations, the rise and fall of the ancient Egyptians, the ancient Sumerians, Rome, you know, there's.",
+      "textZh": "我只是认为，我们不应假定文明是稳固的。如果你回顾文明史，古埃及人、古苏美尔人、罗马的兴衰，你知道，有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0300",
+      "speakerEn": "Elon Musk",
+      "startSec": 3694.21,
+      "textEn": "Throughout the world there have been rise and fall of many civilizations. So there's an arc, there's sort of a life, sort of a, a life cycle arc to civilizations just as there is to individual humans.",
+      "textZh": "世界各地有许多文明兴起又衰落。所以文明有一条弧线，算是有一种生命，算是有一条、一条生命周期的弧线，就像每个人一样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0301",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3706.35,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0302",
+      "speakerEn": "Elon Musk",
+      "startSec": 3707.07,
+      "textEn": "And I think we just want to make sure that we have civilization go onward and upward. And that's, for example, why I'm concerned about decreasing birth rates and the fact that, for example, Japan had twice as many deaths last year as births. So the, that's. And they're, they're a leading indicator.",
+      "textZh": "而我认为，我们只是想确保文明不断向前、向上发展。这就是为什么，比如说，我担心出生率下降，也担心这样一个事实：例如，日本去年的死亡人数是出生人数的2倍。所以，这就是。而且他们、他们是一个领先指标。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0303",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3730.36,
+      "textEn": "It's, this is, can I say, and you've, you've written and talked a lot about this, but can I ask you to pause just for a parenthetical note? Why is that? I mean, the urge to have sex and to procreate is, after breathing and eating, the most basic urge. How has it been subverted?",
+      "textZh": "这，这个，我能说吗，而且你已经、你已经就此写过、谈过很多，但我能否请你暂停一下，插一句题外话？这是为什么？我的意思是，发生性行为和繁衍的冲动，是仅次于呼吸和进食的最基本冲动。它是怎么被颠覆的？",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0304",
+      "speakerEn": "Elon Musk",
+      "startSec": 3745.88,
+      "textEn": "Well, it's just the, in the past we could rely upon, you know, simple limbic system rewards in order to procreate. But once you have birth control and, you know, abortions and whatnot, now you, now you can still satisfy the limbic instinct, but not procreate. So we don't, we haven't yet evolved to deal with that because this is all fairly recent, you know, last 50 years or so for the birth control. I'm sort of worried that, hey, civilization, if we don't make enough people to at least sustain our numbers, perhaps increase a little bit, then civilization's going to crumble.",
+      "textZh": "嗯，只是因为，过去我们可以依靠，你知道，简单的边缘系统奖励来繁衍。但一旦有了避孕，还有，你知道，堕胎之类的东西，现在你、现在你仍然可以满足边缘系统的本能，却不繁衍。所以我们没有、我们还没有进化到能应对这种情况，因为这些都相当新，你知道，就避孕而言也就是过去50年左右。我有点担心，嘿，文明，如果我们生育的人口不足以至少维持现有人数，或许再略微增加一点，那么文明就会崩溃。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0305",
+      "speakerEn": "Elon Musk",
+      "startSec": 3785.88,
+      "textEn": "The old question of like, will civilization end with a bang or a whimper? Well, it's currently trying to end with a whimper in adult diapers.",
+      "textZh": "那个老问题，文明究竟会在一声巨响中终结，还是在一声呜咽中终结？嗯，它目前正试图在成人尿布中伴着一声呜咽终结。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0306",
+      "speakerEn": "Speaker C",
+      "startSec": 3794.44,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "说话人C"
+    },
+    {
+      "id": "p-0307",
+      "speakerEn": "Elon Musk",
+      "startSec": 3795.08,
+      "textEn": "Which is depressing as hell. The most depressing I mean, seriously. Yeah.",
+      "textZh": "这他妈太令人沮丧了。最令人沮丧的，我是说，真的。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0308",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3800.04,
+      "textEn": "War is less depressing. Yeah.",
+      "textZh": "战争都没那么令人沮丧。对。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0309",
+      "speakerEn": "Elon Musk",
+      "startSec": 3801.4,
+      "textEn": "It really got with a bang.",
+      "textZh": "它真的是轰的一声。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0310",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3802.52,
+      "textEn": "Yeah. With your shoes on. Not with your dad.",
+      "textZh": "对。穿着你的鞋。不是跟你爸爸一起。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0311",
+      "speakerEn": "Elon Musk",
+      "startSec": 3805.12,
+      "textEn": "More exciting.",
+      "textZh": "更刺激。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0312",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3805.88,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0313",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3810.04,
+      "textEn": "Whatever you think of Elon Musk, he's one of the rare figures in this country, maybe around the world, who sticks to the fundamentals. How do we keep the human race going? What's good for humanity and what's bad? Those are the questions our leaders should be discussing. Instead, they're lecturing us about trans rights and systemic racism. So it's refreshing to hear it. If you'd like to hear the entire thing.",
+      "textZh": "无论你怎么看埃隆·马斯克，他都是这个国家、或许也是全世界少数坚守根本问题的人物之一。我们如何让人类延续下去？什么对人类有益，什么对人类有害？这些才是我们的领导人应该讨论的问题。相反，他们却在向我们说教跨性别者权利和系统性种族主义。所以，听到这些令人耳目一新。如果你想听完整内容。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0314",
+      "speakerEn": "Speaker D",
+      "startSec": 3832.33,
+      "textEn": "Thing?",
+      "textZh": "事情？",
+      "speakerZh": "说话人D"
+    },
+    {
+      "id": "p-0315",
+      "speakerEn": "Tucker Carlson",
+      "startSec": 3832.45,
+      "textEn": "The full, uninterrupted interview. Every minute our cameras were on with Elon Musk. That's coming soon. It's going up on Fox Nation tomorrow morning.",
+      "textZh": "完整、未间断的访谈。我们的摄像机与埃隆·马斯克在一起时拍下的每一分钟。即将播出。明天早上会上线 Fox Nation。",
+      "speakerZh": "塔克·卡尔森"
+    },
+    {
+      "id": "p-0316",
+      "speakerEn": "Elon Musk",
+      "startSec": 3840.05,
+      "textEn": "We highly recommend it.",
+      "textZh": "我们强烈推荐。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T10:27:17.904Z",
+    "reviewedAt": "2026-09-13T11:07:38.174Z"
+  },
+  "fetchedAt": "2026-09-12T07:12:45.359Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=L5zmj30M0uM",
+  "sourceHash": "d6fcd2d66e54a87e811e7315983f58eb12e94ae77e70fd779ee45ae57e94f67f"
+}

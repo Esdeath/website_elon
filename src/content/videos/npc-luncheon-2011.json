@@ -1,0 +1,28 @@
+{
+  "id": "npc-luncheon-2011",
+  "slug": "npc-luncheon-2011",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2011-09-29",
+  "titleEn": "National Press Club Luncheon",
+  "titleZh": "美国国家新闻俱乐部午餐会",
+  "summaryEn": "Elon Musk addresses the National Press Club in Washington, D.C., then takes journalists' questions: the future of human spaceflight after the Space Shuttle, SpaceX's plan to fly NASA astronauts, reusable rockets, and getting people to Mars.",
+  "summaryZh": "埃隆·马斯克在华盛顿特区的美国国家新闻俱乐部发表讲话，随后回答记者提问：航天飞机退役后人类太空飞行的未来、SpaceX运送NASA宇航员的计划、可重复使用火箭，以及将人类送上火星。",
+  "sourceUrl": "https://www.youtube.com/watch?v=xrVD3tcVWTY",
+  "sourceLabel": "The National Press Club",
+  "archiveUrl": "https://elonmuskarchive.org/video/npc-luncheon-2011",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/xrVD3tcVWTY",
+  "thumbnailUrl": "https://i.ytimg.com/vi/xrVD3tcVWTY/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 3636,
+  "contentKind": "none",
+  "segments": [],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T19:59:35.753Z",
+    "reviewedAt": "2026-09-12T20:04:51.046Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:24.917Z",
+  "sourceHash": "ac0f6b4d510bc8a02e60e5994ff4def6a683cb35e62b32c94a219fdf1ad6cd83"
+}

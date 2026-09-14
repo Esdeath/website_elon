@@ -1,0 +1,530 @@
+{
+  "id": "a-conversation-about-starship-2019-10-01",
+  "slug": "a-conversation-about-starship-2019-10-01",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2019-10-01",
+  "titleEn": "A Conversation about Starship",
+  "titleZh": "关于星舰的一场对话",
+  "summaryEn": "Tim Dodd interviews Musk one-on-one at Boca Chica about Starship's design, Raptor engines and Mars plans.",
+  "summaryZh": "蒂姆·多德在博卡奇卡与马斯克进行一对一访谈，讨论星舰的设计、猛禽发动机和火星计划。",
+  "sourceUrl": "https://www.youtube.com/watch?v=cIQ36Kt7UVg",
+  "sourceLabel": "Everyday Astronaut",
+  "archiveUrl": "https://elonmuskarchive.org/video/a-conversation-about-starship-2019-10-01",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/cIQ36Kt7UVg",
+  "thumbnailUrl": "https://i.ytimg.com/vi/cIQ36Kt7UVg/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 1026,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Hi, it's me Tim Dodd, the Everyday Astronaut. Last night, Elon Musk updated the world on SpaceX's Starship development. Let me tell ya, the event was amazing. We learned a lot of really cool details. But, I'm still a little baffled by the pace of this program, it's unheard of. If only there was someone that could answer a few more of my questions about this program and about Starship.",
+      "textZh": "嗨，是我，蒂姆·多德，也就是“日常宇航员”。昨晚，埃隆·马斯克向全世界介绍了SpaceX星舰研发的最新进展。我跟你们说，那场活动太精彩了。我们了解到很多非常酷的细节。不过，我还是有点难以理解这个项目推进的速度，这简直前所未闻。要是有人能再回答我几个关于这个项目和星舰的问题就好了。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "That's a nice shirt.",
+      "textZh": "这件衬衫不错。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "How's it going? Thank-you, you know full flow staged conduction not a bad idea Mind mic-ing yourself up there? [Tim Voiceover] After Elon complimented my shirt, we mic-ed him up and let the cameras roll. Now, for those of you new to my channel, we're gonna get into some fairly in-depth rocket science and if it's over your head don't worry.",
+      "textZh": "最近怎么样？谢谢，你知道，全流量分级传导，不是个坏主意。介意给自己戴上麦克风吗？[蒂姆旁白] 埃隆夸完我的衬衫后，我们给他戴上麦克风，让摄像机开始拍摄。现在，对于刚来到我频道的观众，我们接下来会深入探讨一些相当专业的火箭科学；如果你听不懂，也不用担心。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "Stick around my channel, and I promise I'll make sense of all the stuff we talk about, like full flow staged combustion cycle and aerospike engines. There were parts of this interview that I wasn't really planning to release at first but, actually think the best thing I can do is just show you the entire thing, un-cut, from a single camera, so you can feel like you're right there with us.",
+      "textZh": "继续关注我的频道，我保证会把我们谈到的所有东西都讲明白，比如全流量分级燃烧循环和气塞式发动机。这次访谈中有些部分，我起初其实没打算发布，但后来觉得，我能做的最好选择其实就是把整个访谈原原本本地放出来，不作剪辑，只用一台摄像机拍摄，这样你就能感觉自己当时就在我们身边。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Yeah, first off, thank-you so much for, you know, talking to me, I mean, we're underneath your beautiful beast.",
+      "textZh": "对，首先，非常感谢你愿意和我聊，你知道，我是说，我们现在就在你这头美丽巨兽的下面。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "Yeah it's crazy, can you believe this is even here?",
+      "textZh": "对，太疯狂了，你能相信它居然已经出现在这里了吗？"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "I was here a month ago, literally standing right here, well not, just over the fence, and you know you got a tube and a pointy tube, and now you've got this! I mean, how do you, how do you do that? Is it just sheer will? Is everyone that driven about the goal?",
+      "textZh": "我一个月前来过，当时就站在这里，确切地说也不是，就在围栏另一边。你知道，那时你们有一根管子和一根尖头管子，而现在你们已经造出了这个！我是说，你们是怎么，你们是怎么做到的？纯靠意志力吗？每个人都如此坚定地奔着这个目标去吗？"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "I don't, I think I've learned a lot of lessons about how to make things go fast. And then I've... propagated those lessons to the SpaceX team and there's just like an incredibly talented, hard working team at SpaceX, in fact at times I think, maybe there's too many talented people at SpaceX. We have like... you know, too many talented people, that we're cornering the market, or something.",
+      "textZh": "我不知道，我觉得自己学到了很多关于如何加快进度的经验。然后我把这些经验……传递给了SpaceX团队，而SpaceX有一支才华横溢、工作极其努力的团队。事实上，我有时会想，也许SpaceX才华出众的人太多了。我们好像……你知道，人才太多了，简直像是在垄断人才市场之类的。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "You know, but there's like this very talented group that works super hard and... The, and just have taking the general approach of, if a design is taking too long, the design is wrong and therefore, the design must be modified to accelerate progress. And one of the most fundamental errors made in advanced developments is to stick to a design even when it is very complicated, and to not strive to delete parts and processes.",
+      "textZh": "你知道，这是一群才华横溢、工作极其努力的人，而且……总的来说，我们采取的思路就是，如果一项设计耗时太久，那这个设计就是错的，因此必须修改设计，以加快进展。高级研发中最根本的错误之一，就是即便某个设计非常复杂，仍然坚持采用它，而不努力删减零件和流程。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "It's incredibly important. So, this is why the switch to steel was because the advanced carbon fiber was taking too long.",
+      "textZh": "这一点极其重要。所以，我们改用钢材，就是因为先进碳纤维方案耗时太久。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Right, right, well and you're not, you're definitely not a sunk cost fallacist, you're like Mister, \"This is clearly the new path forward, let's hop on it\"",
+      "textZh": "对，对，而且你绝对不会掉进沉没成本谬误的陷阱。你简直就是“这显然是未来的新方向，那我们马上转过去”先生。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Yeah, is it in the future or not? If it's not in the future, who cares?",
+      "textZh": "对，它属于未来吗？如果它不属于未来，谁在乎呢？"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Yeah, yeah, and you did that, I mean look at last year, DearMoon, you guys were kind of in that like, awkward stage of probably figuring this out right here. You know, you had the carbon fiber mandrel...",
+      "textZh": "对，对，而且你们确实这么做了。我是说，看看去年的DearMoon，当时你们大概正处在研究如何实现眼前这个东西的那种尴尬阶段。你知道，你们当时还有碳纤维芯模……"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "I think we didn't even have the steel, I think we were still on the path, when was the DearMoon thing?",
+      "textZh": "我觉得当时我们甚至还没采用钢材，我想我们仍在走原来的路线。DearMoon那件事是什么时候？"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "Almost exactly a year ago.",
+      "textZh": "差不多正好一年前。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "That was before the change to steel.",
+      "textZh": "那是在改用钢材之前。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Yeah, you guys, I mean you showed the carbon mandrel and everything and you're, you know, excited about that, but then all of the sudden we see you switch- - I canceled the carbon fiber design in October last year.",
+      "textZh": "对，你们，我是说，你们展示了碳纤维芯模和其他所有东西，而且你们，你知道，对此很兴奋，但突然间我们看到你们转向了——我去年10月取消了碳纤维设计。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Yeah, so just after that.",
+      "textZh": "对，所以就是在那之后不久。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "Yeah...",
+      "textZh": "对……"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "You know, what people don't understand is that you're the lead engineer, you're literally sit- - Literally, this is, I was actually at dinner with some, with a friend and he was like, \"Well, who's the chief engineer at SpaceX?\" Oh I go, \"It's me\", \"No, no\" he's like, \"It's not you, who is it?\"",
+      "textZh": "你知道，人们不明白的是，你就是首席工程师，你真的是坐——真的，是这样。我其实曾和一个朋友吃晚饭，他问：“那么，SpaceX的总工程师是谁？”我说：“是我。”“不，不，”他说，“不是你，到底是谁？”"
+    },
+    {
+      "id": "p-0021",
+      "textEn": ", like okay it's either someone with a very low ego, or, I don't know, you know, but, you know that said, you know the, like, you know what I actually used to tell the team, I was like, \"Everyone is a chief engineer\", this is extremely important, and that everyone must understand how, the, broadly speaking, all the systems in the vehicle work.",
+      "textZh": "，好吧，要么这个人极其没有架子，要么，我也不知道，你知道。不过话虽如此，你知道，我以前其实常对团队说：“每个人都是总工程师。”这一点极其重要，每个人都必须从整体上了解飞行器内所有系统的工作原理。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "And so that, so you don't have self-system optimization, cause this is naturally what happens, you can see the organizational errors, The product errors reflect the organizational errors. So like essentially, you'll see that there's an interface at this particular, like, whatever departments you've got, that will be where your interfaces are.",
+      "textZh": "这样你就不会进行系统自身优化，因为这种情况会自然发生。你可以看到组织上的错误，产品错误反映了组织错误。所以，本质上你会发现，无论你设置了哪些部门，部门所在的位置就会成为系统接口所在的位置。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Right.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "Instead of like, getting rid of something, or questioning the constraints, the one department will design to the constraints that the other department has given them without calling into question those constraints and saying, \"Those constraints are wrong\", and you should actually take the approach that the constraints that you are given are guaranteed to be some degree wrong, guaranteed to be some degree wrong, because the counterpoint would be that they are perfect.",
+      "textZh": "一个部门不会考虑去掉某个东西，也不会质疑约束条件，而是会按照另一个部门给出的约束条件来设计，却不对那些约束提出质疑，不会说：“那些约束是错的。”而你实际上应该采取这样的思路：别人交给你的约束条件，必然在某种程度上是错的，必然在某种程度上是错的，因为与之相反的情况就是它们完美无缺。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Right, which is never.",
+      "textZh": "对，而那永远不可能。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "As you were saying like, what's the probability that this is a platonic ideal of a perfect part? Zero, okay, basically, so, question your constraints. It does not matter if the person handing you those constraints won a Nobel Prize, they are, even our own standards are wrong some of the time. So, question your constraints, this is extremely important, and, another thing that like, if you say like, \"What are the mistakes that smart engineers make?\", like, one of the most, one of the biggest traps for smart engineers is optimizing a thing that shouldn't exist.",
+      "textZh": "就像你刚才说的，这个零件成为柏拉图式完美理想形态的概率是多少？零。好吧，基本就是这样。所以，要质疑你的约束条件。把这些约束交给你的人是否获得过诺贝尔奖并不重要，他们给出的约束也会错，甚至我们自己的标准有时也是错的。所以，要质疑你的约束条件，这一点极其重要。还有一件事，比如你问：“聪明的工程师会犯哪些错误？”聪明工程师最常掉入、也最严重的陷阱之一，就是去优化一个根本不该存在的东西。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Yeah, so they'll just sit there and spin on that thing that's just like, \"Why do we even have this is the first place?\"",
+      "textZh": "对，所以他们就会一直坐在那里，围着那个东西反复打转，却不问：“我们最初为什么要有这个东西？”"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "Absolutely, so, When you go through college, and you're like, studying physics or engineering, I studied physics, the, you have to answer the question that the professor gives you, you don't get to say, \"This is the wrong question\".",
+      "textZh": "完全正确。所以，当你上大学学习物理或工程时——我学的是物理——你必须回答教授交给你的问题，你不能说：“这个问题是错的。”"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Right, right, right, yeah.",
+      "textZh": "对，对，对，是的。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "But, in reality, we have far more degrees, when you're in reality, you have all the degrees of freedom of reality, and so the first thing you should say is, \"This question is wrong\".",
+      "textZh": "但在现实中，我们拥有多得多的自由度。当你身处现实之中，你就拥有现实的全部自由度，所以你首先应该说的是：“这个问题是错的。”"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "Yeah, and that's what you said last year, I mean, you kinda said like, \"It took us a long time to frame the question even, because we didn't necessarily know what it was\".",
+      "textZh": "对，而且你去年就是这么说的。我是说，你当时大概说过：“光是界定问题就花了我们很长时间，因为我们未必知道问题究竟是什么。”"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "It took ages to frame the question, I mean, it's just like The Hitchhiker's Guide to the Galaxy, Douglas Adams, best philosopher ever, maybe, I think, best book in philosophy ever, Hitchhiker's Guide to the Galaxy, but his book is so deep, people don't even understand. But like, in The Hitchhiker's Guide to the Galaxy, the Earth is a giant computer, and the Earth, it comes up with the answer- 42.",
+      "textZh": "界定问题花了很久。我是说，这就像《银河系漫游指南》。道格拉斯·亚当斯，也许是有史以来最伟大的哲学家，我觉得《银河系漫游指南》是有史以来最好的哲学著作。但他的书太深刻了，人们甚至理解不了。就像在《银河系漫游指南》中，地球是一台巨型计算机，而地球最终得出了答案——42。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Right, yep.",
+      "textZh": "对，没错。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "And, to the question, so what's life, the answer to life, the universe and everything? The answer's 42, and they're like, \"What the hell, that doesn't make any sense\". The really, the hard part is the question, the answer is the easy part, you need a much more powerful computer to tell you what the question is, and this is true, at the point in which you can properly frame the question, the answer is comparatively easy.",
+      "textZh": "而且，关于这个问题，所以生命是什么，生命、宇宙以及一切的答案是什么？答案是42。然后他们就说：“搞什么鬼，这完全说不通。”真正困难的其实是问题，答案反而简单。你需要一台强大得多的计算机来告诉你问题是什么。事实确实如此，当你能够正确界定问题时，答案相对来说就很容易了。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Right, right. I have one more question for you, I'm working on a video about aerospikes, it's gonna be about an hour long video on aerospikes and, you know, they're like the rotary engine of rocket, you know, rockets, like the rotary was, it's been advantageous in some ways, you know, like your- - Yeah, aerospikes, man, I tell you - They're cool but, what's the biggest, what's your biggest beef on them? 'Cause I'm trying to get as much insight on like, why do you think they, you know, aren't used, and obviously, I assume, you're not ever going to an aerospike for a lot of reasons...",
+      "textZh": "对，对。我还有一个问题想问你。我正在制作一个关于气塞式发动机的视频，会是一段大约1小时长的气塞式发动机视频，而且，你知道，它们就像火箭发动机里的转子发动机，你知道，就像转子发动机那样，它在某些方面有优势，你知道，比如你的——是啊，气塞式发动机，老兄，我跟你说——它们很酷，但你对它们最大的不满是什么？因为我正努力尽可能深入地了解，比如你为什么觉得它们，你知道，没有得到应用；而且很显然，我猜出于很多原因，你永远不会改用气塞式发动机……"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "You know, I've internally asked this question so many times, like, \"Guys, don't we, shouldn't we maybe do an aerospike?\", the... The challenge, so... And you're going to explain to the audience what an aerospike is?",
+      "textZh": "你知道，我在内部问过这个问题很多次，比如：“各位，我们是不是，也许应该做气塞式发动机？”……挑战在于，所以……你会向观众解释什么是气塞式发动机吧？"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Oh yeah, you're gonna be like the end of this thing, I've already set it all up, yeah yeah.",
+      "textZh": "哦，会的，你会出现在这段内容的结尾，我已经把前面全都铺垫好了，对，对。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Otherwise you know, \"What the hell are you talking about?\" you know?",
+      "textZh": "不然大家会想，你知道，“你到底在说什么？”对吧？"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "You gotta get your combustion efficiency, so, you know like, there's really two parts to, like, when you have a rocket engine, what're you trying to do? You're trying to shoot things out, as fast as possible, in a straight line.",
+      "textZh": "你必须提高燃烧效率，所以，你知道，比如，一台火箭发动机其实涉及两个部分，你想让它做什么？你想让物质尽可能快地沿直线喷射出去。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Yes, yep, converting as much thermal and pressure into kinetic energy.",
+      "textZh": "是的，没错，把尽可能多的热能和压力能转化为动能。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Yes, exactly, so you have your combustion efficiency, and so what percentage of max theoretical combustion efficiency are you, and then what's your nozzle efficiency, which is really you know, are you straightening the flow, and shooting the molecules out in a straight line, so that you go in the other direction, Newton's Third Law.",
+      "textZh": "是的，完全正确，所以首先是燃烧效率，也就是你达到了理论最高燃烧效率的百分之多少；然后是喷管效率，这实际上就是，你知道，你是否把流动拉直，让分子沿直线喷射出去，从而使你朝相反方向运动，也就是牛顿第三定律。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "Yep.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "With a traditional combustion chamber, you can get to a very high combustion efficiency, cause the molecules are all sort of bouncing around in there, they've got a time to combine and do their thing, and then when you sort of choke it through the throat, you know, it, that gives them sort of more opportunity to combine, so you can Like, we think we can probably get to 90, certainly 98.",
+      "textZh": "使用传统燃烧室，你可以达到非常高的燃烧效率，因为分子都在里面四处碰撞，它们有时间结合并完成反应；然后当你让它们受阻通过喉部时，你知道，这会给它们更多结合的机会，所以你可以……比如，我们认为我们大概能达到90，肯定能达到98。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "5, hopefully 99 percent of theoretical combustion efficiency. This is so if, God himself came and knitted together the molecules, you're one percent better, okay maybe one and a half percent better, that's so, that's very high efficiency.",
+      "textZh": "5，希望能达到理论燃烧效率的99%。这意味着，即使上帝亲自降临，把这些分子编织在一起，也只能比你高1%，好吧，也许高1.5%，所以，这已经是非常高的效率了。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "Because of full flow staged combustion.",
+      "textZh": "因为采用了全流量分级燃烧。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Full flow staged combustion, exactly, you've got a gas-gas interaction, so you've got two hot gases combining - Yeah.",
+      "textZh": "全流量分级燃烧，完全正确，你进行的是气体与气体之间的相互作用，也就是让两股高温气体结合——对。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "And with a relatively simply reaction, the only thing that would be simpler would be hydrogen. But you've got CH4 and O2, that's pretty simple, you don't have any long chain hydrocarbons, you know, with kerosene you've got the long chains, they've gotta break down, they've gotta recombine, it's a total soup, you know. Yeah, it's a part like dinner situation.",
+      "textZh": "而且反应相对简单，唯一更简单的只有氢。但这里是CH4和O2，这相当简单，没有任何长链碳氢化合物；你知道，煤油里有长链，它们必须分解，再重新结合，完全就是一锅汤，你知道。对，这有点像晚餐的情形。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "It's very hard to get high combustion efficiency with kerosene, so when you look at the, say like, \"What's the theoretical value of, say a Lox kerosene engine, as compared to a methane engine?\" The kerosene actually looks more compelling than it really is because you can't achieve the high combustion efficiency with kerosene that you can with methane.",
+      "textZh": "使用煤油很难达到高燃烧效率，所以当你比较，比如说，“液氧煤油发动机的理论值与甲烷发动机相比是多少？”煤油看起来其实比它实际的吸引力更大，因为使用煤油无法达到使用甲烷所能达到的高燃烧效率。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "So, you actually want to say, \"What is the actual achievable combustion efficiency times the theoretical chemical energy?\" , that's the real number, and this is where methane starts to look really good.",
+      "textZh": "所以，你真正应该问的是：“实际可达到的燃烧效率乘以理论化学能是多少？”这才是真正的数值，而这正是甲烷开始显得非常出色的地方。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "Yeah, yeah.",
+      "textZh": "对，对。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "It's like, very hard to get to like 96 percent combustion efficiency, or even 95 percent combustion efficiency with kerosene, but with methane you can get 98 easy, 99 with a little bit of difficulty.",
+      "textZh": "比如，使用煤油很难达到96%的燃烧效率，甚至95%的燃烧效率也很难达到；但使用甲烷可以轻松达到98%，稍费些力就能达到99%。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "And, so you don't think, you're just telling me now, spoiler alert, you're probably never gonna see a full flow staged combustion cycle aerospike engine produced by SpaceX?",
+      "textZh": "那么，所以你并不认为——你现在等于直接给我剧透了——我们可能永远都看不到SpaceX制造出全流量分级燃烧循环气塞式发动机？"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "You know, if somebody can show that we're wrong, that would be great. If somebody can explain, \"Wow, you've got a, there is a way to make your design better\", this is a gift.",
+      "textZh": "你知道，如果有人能证明我们错了，那会非常好。如果有人能解释说：“哇，你们的设计有一种办法可以做得更好”，这就是一份礼物。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "Right, right, right.",
+      "textZh": "对，对，对。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "\"Thank you for this great gift, wow, this is awesome\". It's definitely like, the worst thing would be like, \"We wanted to do this dumb design, and stick with our dumb design\", that would be insane.",
+      "textZh": "“谢谢你送来这份大礼，哇，这太棒了。”最糟糕的做法肯定是：“我们原本就想采用这个愚蠢的设计，而且要坚持这个愚蠢的设计”，那就太疯狂了。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "Right.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "I would love it if somebody could show how an aerospike is the smart move, in which case, we'll just do an aerospike.",
+      "textZh": "如果有人能证明采用气塞式发动机才是明智之举，我会非常高兴；如果是这样，我们就直接做气塞式发动机。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "Yeah, then just do an aerospike; there's a reason they haven't been used. (chuckles) Period.",
+      "textZh": "对，那就直接做气塞式发动机；它们一直没被采用是有原因的。（轻笑）就是这样。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "But maybe, that reason is not valid, you know? 'Cause there's also, there hasn't been a methane orbital engine.",
+      "textZh": "但也许那个原因并不成立，你知道吗？因为此前也没有用于轨道飞行的甲烷发动机。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "Right? Or a flying full flow staged combustion, yeah.",
+      "textZh": "对吧？也没有飞行过的全流量分级燃烧发动机，对。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "So, there's been neither a full flow staged combustion engine that's seen flight, nor has there been a methane engine that's seen flight, certainly in a rocket scenario, I think there may have been some like, little test things or whatever, but no actual rockets. So, but I'm very confident that CH4 is the right fuel. Maybe aerospike is, is right, even though it's not been done before, but you just have to show that your combustion efficiency is not affected, and that you're, and that you're straightening the flow sufficiently.",
+      "textZh": "所以，既没有全流量分级燃烧发动机进行过飞行，也没有甲烷发动机进行过飞行，至少在火箭领域肯定如此。我想可能有过一些小型测试装置之类的东西，但没有真正的火箭。所以，不过我非常确信CH4是正确的燃料。也许气塞式发动机也是正确的，尽管以前没人这样做过；但你必须证明它不会影响燃烧效率，而且你还要证明，你要充分地把流动拉直。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "To get your expansion ratio - Yeah - Yep, awesome.",
+      "textZh": "以获得所需的膨胀比——对——没错，太棒了。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "Also, if you've got a two-stage rocket, like I think like, this is the other thing like, you've got two-stage rockets where your boost stage is primarily in atmosphere, and your upper stage is primarily in vacuum, then you can specialize the, for a vacuum nozzle and a sea level nozzle, and then you're like, \"Why need the aerospike?\" It's only if you do want, if you want to try to do single stage, reusable, then that's when you start like having to reach for the aerospike.",
+      "textZh": "另外，如果你有一枚两级火箭，比如，我认为另一个问题是，你有一枚两级火箭，它的助推级主要在大气层内工作，而上面级主要在真空中工作，那么你就可以分别针对真空喷管和海平面喷管进行专门优化，然后你就会想：“为什么还需要气塞式发动机？”只有当你确实想要，想尝试实现单级、可重复使用时，你才会开始不得不求助于气塞式发动机。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Right, yep, that's awesome. Aerospikes, with Elon Musk! Thank you so much.",
+      "textZh": "对，没错，太棒了。与埃隆·马斯克聊气塞式发动机！非常感谢。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "I would love it if somebody could show it like, \"Hey, you're missing the mark, you could do this different thing, and this would be a better move\", that would be, thank you, please.",
+      "textZh": "如果有人能这样指出来，我会非常高兴：“嘿，你没找准方向，你可以采用这种不同的方案，这会是更好的选择。”那将会是……谢谢，拜托了。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "Right, yeah of course, absolutely. Hey ,thanks for your time again, see you soon, pleasure meeting you. (voices in background) Oh yeah, we might need to steal your mic, I mean, I don't know, I can bill you later. Thanks again for this - Absolutely.",
+      "textZh": "对，当然，绝对如此。嘿，再次感谢你抽出时间，回头见，很高兴认识你。（背景人声）哦，对，我们可能得拿走你的麦克风，我是说，我不知道，我之后可以给你开账单。再次为此感谢你——当然。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "I have to say, I've been to IEC 2016, seeing, that was like, it was almost like awkward back then cause it was like, - \"You're insane\", and now it's like, \"Hey look, I'm not insane.\" (laughs) - Well, you know obviously I'm sane, but you know, I mean... (background chatter) Even when I am exposed to this all day, it's so like \"Holy Smith!\" you know, it's so mad, you know, to see it actually there, and I was up in the nose, and I mean I'm gonna post this later but...",
+      "textZh": "我得说，我去过IEC 2016，亲眼看到过，当时甚至有点尴尬，因为大家就像是——“你疯了”，而现在则像是，“嘿，看，我没疯。”（笑）——嗯，你知道，显然我是理智的，不过你知道，我是说……（背景交谈声）即使我整天都接触这些，还是会觉得“圣史密斯！”你知道，实在太疯狂了，你知道，竟然真的看到它在那里；而且我还上到了鼻锥里，我是说，我之后会发布这个，不过……"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "Jack Buyer's photo, Beyer he got a photo of you like, I think like peeking out of it.",
+      "textZh": "Jack Buyer的照片，Beyer拍到了一张你的照片，好像是你从里面探出头来的样子。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "Well, like this is the, when I was inside there - Oh, shoot, no way! Aw and those are the header tanks?",
+      "textZh": "嗯，就像这是……我当时在里面的时候——哦，天哪，不会吧！啊，那些是头部储箱吗？"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "Yeah.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "And all the batteries got, what six...",
+      "textZh": "所有电池都有，什么，6……"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "They've got four Tesla 100 kilowatt hour batteries.",
+      "textZh": "它们配有4块Tesla 100千瓦时电池。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "Yes!",
+      "textZh": "对！"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "And we just like, basically welded it on to the header tanks.",
+      "textZh": "然后我们基本上就直接把它焊到了头部储箱上。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "Right.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "Oh we didn't even talk about that, you're doing model three motors basically, is that?",
+      "textZh": "哦，我们甚至都没谈到那个，你们基本上用的是Model 3电机，是吗？"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "Yeah, for that, I mean, I don't love the, I think we should, we should just have electro-mechanically I think we are going to, probably with Mach three, move to a purely electro-mechanical actuators for the valves. Currently, it's electric motors powered, it's like Tesla motors and batteries that essentially pump hydraulic fluid into the accumulator and then the hydraulic piston moves the valve. But it would be simpler to just have the motors directly- - Just do it - Kind of worm drive the valve.",
+      "textZh": "对，用在那上面。我的意思是，我不太喜欢这个……我觉得我们应该，我们应该直接采用机电式方案。我想我们大概会在3马赫时改用纯机电式阀门执行器。目前是由电动机提供动力，就像Tesla的电机和电池，本质上是把液压油泵入蓄能器，然后液压活塞带动阀门。但如果直接让电机——直接这么做——用类似蜗杆传动的方式驱动阀门，会更简单。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "That's awesome.",
+      "textZh": "太棒了。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "And also the way the header tanks are done right now is crazy, we shouldn't be carrying the header tanks like cargo, I mean, we want the header tanks to be integral to the tip, so seriously, like just take the tip, use the tip of the rocket as the half of the header tank, and essentially mirror the main tanks, but in small form, in the nose. So, just have two domes - Yeah.",
+      "textZh": "而且现在头部储箱的做法也很荒唐，我们不该像装载货物一样携带头部储箱。我的意思是，我们希望头部储箱与尖端融为一体，所以说真的，直接利用尖端，把火箭尖端用作头部储箱的一半，并且本质上照着主储箱的结构，在鼻锥里做一个缩小版。所以，只要做两个穹顶——对。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "And have the oxygen and fuel in the tip of the rocket, not as, not carrying the tanks like cargo, but having the tanks- - Just integrated, right?",
+      "textZh": "然后把氧和燃料放在火箭尖端，不是，不是像装货物一样带着储箱，而是让储箱——直接集成进去，对吧？"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "Yeah, just a mini version of the big tanks - Right, oh, and then you don't have an extra wall and everything too, it's just integrated into, yeah, yeah, yeah, gotcha.",
+      "textZh": "对，就是大型储箱的迷你版——对，哦，这样你也不需要额外的舱壁之类的东西了，它就是直接集成到……对，对，对，明白了。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Like in the early days of rocketry, like V2 or whatever you know, like the fuel and oxygen tanks were carried like cargo in the aeroshell.",
+      "textZh": "就像早期的火箭，比如V2之类的，你知道，燃料箱和氧储箱就像货物一样装在气动外壳里。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "Oh really?",
+      "textZh": "哦，真的吗？"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "Yeah. In the early days of aircraft and rockets, the propellant tanks were carried like cargo - Right.",
+      "textZh": "对。在飞机和火箭发展的早期，推进剂储箱就像货物一样被装载——对。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "now modern rockets, modern rockets and airplanes, like the wing is just a fuel tank in, in wing shape.",
+      "textZh": "现在的现代火箭、现代飞机，比如机翼本身就是一个做成机翼形状的燃料箱。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "Yeah, yeah, yeah.",
+      "textZh": "对，对，对。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Yeah, we should do the same for the header tanks.",
+      "textZh": "对，头部储箱也应该这么做。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "I love it, thanks again .",
+      "textZh": "我太喜欢了，再次感谢。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "Thank you.",
+      "textZh": "谢谢。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "Thank you guys. (laughs) Sorry, I didn't mean to keep him so long I guess.",
+      "textZh": "谢谢大家。（笑）抱歉，我想我不是故意耽搁他这么久的。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "[Man] Why're you looking at me? (laughs) - [Man] Was, was I rushing you out?",
+      "textZh": "[男士] 你为什么看着我？（笑）——[男士] 我是不是在催你结束？"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "(laughs) No, not at all.",
+      "textZh": "（笑）没有，完全没有。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "[Man] With everything at the end, \"Come on!\"",
+      "textZh": "[男士] 最后每件事都来一句：“快点！”"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "I'm just trying to kick him outta here, you know? Wasting all my time tonight, just kidding. Uh, so that was awesome!",
+      "textZh": "我只是想把他赶出去，你知道吗？今晚一直在浪费我的时间，开玩笑的。呃，所以这太棒了！"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Actually, we've still got a lot more questions to get answered, and stick around 'cause I'll have a lot of content explaining some of the topics we talk about, and sorry about the whole like, thing on aerospikes, I wasn't planning to release all that 'cause that's for a video I've been working on, but whatever, I guess you get an aerospike video spoiler today, my bad.",
+      "textZh": "实际上，我们还有很多问题需要得到解答，记得继续关注，因为我还会发布很多内容，解释我们谈到的一些话题。还有，抱歉讲了那么多关于气塞式喷管的内容，我本来没打算把那些全都放出来，因为那是我一直在制作的一期视频，不过无所谓了，我想你们今天算是提前看到气塞式喷管视频的剧透了，是我的错。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "Sorry in the interview I didn't really get much time to talk about like heat shields, or the super heavy booster, or what the interior of Starship might look like, but, maybe if we're lucky Elon will continue to update us on Twitter, or, Elon, you can always come talk to me any time about all the nerdy stuff you want, I love it, I think you did too.",
+      "textZh": "抱歉，在采访中我确实没多少时间谈热防护罩、超重型助推器，或者星舰内部可能是什么样子。不过，如果我们运气好的话，埃隆也许会继续在Twitter上向我们提供最新消息。或者，埃隆，你随时都可以来找我聊任何你想聊的极客话题，我很喜欢，我觉得你也很喜欢。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "I owe the biggest thank you to my Patreon supporters, you guys have helped take this little passion and hobby, into a career, it wouldn't be a career without you guys, so thank you so much for your support. If you want access to more behind-the-scenes things and exclusive content and access, please consider becoming a Patreon at www. patreon. com/everydayastronaut Thank you guys.",
+      "textZh": "我最应该感谢的是我的Patreon支持者，你们帮助我把这份小小的热情和爱好变成了一项事业，没有你们，这就不会成为一项事业，所以非常感谢你们的支持。如果你想接触更多幕后内容、独家内容并获得访问权限，请考虑在www. patreon. com/everydayastronaut上成为Patreon支持者。谢谢大家。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "And if you want your own full flow staged combustion cycle shirt or other really cool, nerdy, aerospace stuff, I've got you covered, go over to www. everydayastronaut.",
+      "textZh": "如果你想要一件属于自己的全流量分级燃烧循环衬衫，或其他非常酷、很极客的航空航天用品，我这里都能满足你，前往 www. everydayastronaut."
+    },
+    {
+      "id": "p-0099",
+      "textEn": "com/shop, and if you work in the aerospace industry, click on the link below in the description of the apparel that you want, click on that, you can get 25 percent off as my thank you to you for inspiring me to do what I do, I wouldn't be doing any of this stuff if you weren't doing crazy things to get humans off this planet, so thank you guys. It's www. everydayastronaut. com/shop.",
+      "textZh": "com/shop；如果你在航空航天行业工作，请点击你想要的服装说明下方的链接，点击之后可以享受25%的折扣，以此感谢你激励我从事现在所做的事情。如果不是你们在做那些疯狂的事情、努力让人类离开这个星球，我根本不会做这一切，所以谢谢大家。网址是 www. everydayastronaut. com/shop。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "Thanks everybody, that's gonna do it for me, I'm Tim Dodd, the Everyday Astronaut, bringing space down to Earth for everyday people. (upbeat music)",
+      "textZh": "谢谢大家，我这边就到这里。我是“日常宇航员”蒂姆·多德，为普通人把太空带回地球。（欢快的音乐）"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T09:36:42.147Z",
+    "reviewedAt": "2026-09-12T17:15:25.020Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:19.539Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=cIQ36Kt7UVg",
+  "sourceHash": "67ad562986975a722d39efef5f5a94f42edd4c5baa96c968a5f84e0234649d0e"
+}

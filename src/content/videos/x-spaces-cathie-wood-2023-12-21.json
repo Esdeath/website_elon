@@ -1,0 +1,2925 @@
+{
+  "id": "x-spaces-cathie-wood-2023-12-21",
+  "slug": "x-spaces-cathie-wood-2023-12-21",
+  "snapshotId": "2026-09-12",
+  "type": "space",
+  "date": "2023-12-21",
+  "titleEn": "X Spaces: Cathie Wood & Elon Musk",
+  "titleZh": "X Spaces：凯茜·伍德与埃隆·马斯克",
+  "summaryEn": "ARK Invest's Cathie Wood and Musk held an X Space covering AI, autonomy, regulation, going public versus private, crypto and the broader economy.",
+  "summaryZh": "ARK Invest 的凯茜·伍德与马斯克举行了一场 X Space，内容涵盖人工智能、自动驾驶、监管、上市与保持私有、加密货币以及更广泛的经济形势。",
+  "sourceUrl": "https://www.youtube.com/watch?v=BAvg_1pAATE",
+  "sourceLabel": "Leon Guo",
+  "archiveUrl": "https://elonmuskarchive.org/video/x-spaces-cathie-wood-2023-12-21",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/BAvg_1pAATE",
+  "thumbnailUrl": "https://i.ytimg.com/vi/BAvg_1pAATE/hqdefault.jpg",
+  "durationSec": 6044,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 1.52,
+      "textEn": "Welcome everyone. I'm Brett Winton. I am the chief futurist at ARK Invest here. I have with me Cathy Wood and I believe Elon Musk has joined. I'm going to quickly read a disclosure. The information provided in today's conversation is for informational purposes only. It does not constitute an offer, solicitation or recommendation regarding any investment, product or service. Any reference to a particular company or digital asset, be it Bitcoin or whatever, is not an endorsement by ark nor a recommendation by ARK to buy, sell or hold any security.",
+      "textZh": "欢迎各位。我是布雷特·温顿。我是 ARK Invest 的首席未来学家。凯茜·伍德和我在一起，我想埃隆·马斯克也已经加入了。我来快速宣读一份免责声明。今天对话中提供的信息仅供参考。不构成对任何投资、产品或服务的要约、招揽或建议。对任何特定公司或数字资产的任何提及，无论是比特币还是什么，都不代表 ark 的认可，也不代表 ARK 建议买入、卖出或持有任何证券。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 31.14,
+      "textEn": "AHRQ and its clients as well as its related persons may but do not necessarily have financial interests in any of the things we may discuss. Historical results may be discussed or not indications of future results. And we can't discuss private or non public material of any kind. And you should determine for yourself whether a particular service or product is suitable for their investment needs. Certain statements made today may be forward looking statements.",
+      "textZh": "AHRQ 及其客户以及相关人士可能在我们可能讨论的任何事项中拥有经济利益，但并非必然如此。历史结果可能会被讨论，或不代表未来结果。并且我们不能讨论任何形式的私密材料或非公开材料。你们应该自行判断某项特定服务或产品是否适合他们的投资需求。今天作出的某些陈述可能是前瞻性陈述。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 53.94,
+      "textEn": "This could be about robots or kind of the future of X. Could be anything. And we reserve the right to change our mind about those forward looking statements. And they've involve all kinds of known and unknown risks and uncertainties. Actual results could differ materially. In addition, some information referred to here may be third party information. We can't, you know, vouch for the accuracy or completeness of that third party information.",
+      "textZh": "这可能与机器人有关，也可能与 X 的未来之类的事情有关。可能是任何事情。我们保留改变对这些前瞻性陈述看法的权利。而且它们涉及各种已知和未知的风险与不确定性。实际结果可能存在重大差异。此外，这里提及的某些信息可能是第三方信息。我们无法，你知道，保证这些第三方信息的准确性或完整性。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 83.04,
+      "textEn": "Hi Kathy, how are you?",
+      "textZh": "嗨，凯茜，你好吗？",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Cathie Wood",
+      "startSec": 84.72,
+      "textEn": "Hi Brett. We're trying to get Charlie Roberts in here as well. So. Yeah, Brett is our chief futurist and Charlie Roberts, who just joined us is our chief investment strategist and he and Elon know one another. Hoping we can get him in here. Maybe Brett, you can, you can try.",
+      "textZh": "嗨，布雷特。我们也在设法让查理·罗伯茨进来。所以。对，布雷特是我们的首席未来学家，刚刚加入我们的查理·罗伯茨是我们的首席投资策略师，他和埃隆彼此认识。希望我们能让他进来。也许布雷特，你可以，你可以试试。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 108.46,
+      "textEn": "Elon should be on. Hi Elon, how are you?",
+      "textZh": "埃隆应该在线。嗨，埃隆，你好吗？",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Cathie Wood",
+      "startSec": 111.02,
+      "textEn": "Elon?",
+      "textZh": "埃隆？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 112.22,
+      "textEn": "Hey guys, I'm here.",
+      "textZh": "嘿，各位，我在这里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Cathie Wood",
+      "startSec": 113.98,
+      "textEn": "All right. So happy that you could join us and that you agreed to do this, Ilan.",
+      "textZh": "好的。很高兴你能加入我们，也很高兴你答应参加这次活动，伊兰。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Cathie Wood",
+      "startSec": 121.8,
+      "textEn": "This is taking me back to early 2019. We were at Fremont doing a podcast with you when, remember when Tesla was in production? Hell with a Model 3 and I think you were sleeping under your desk at that time and you gave us a lot of time to really help us understand this story and what was going to happen and the rest is history. So just wanted to, to recount that. You know, Milan, you're so often, you know, the media is focused on controversy and you know, that's how they get their clicks and, and hits and all of that stuff.",
+      "textZh": "这让我回想起2019年初。我们当时在弗里蒙特和你一起录播客，那时，还记得吗，Tesla正处于生产阶段？见鬼，和一辆Model 3一起。我想那时你就睡在办公桌下面，而你给了我们很多时间，真正帮助我们理解这个故事以及将会发生什么，之后的事大家都知道了。所以只是想，想回顾一下。你知道，米兰，你经常，你知道，媒体专注于争议，而你知道，他们就是这样获得点击量和，和访问量以及所有那些东西的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 172.74,
+      "textEn": "But yeah, yeah, I think they sort of actually don't really have much of a choice in that. Any media that isn't focused on controversy and is not maximizing the clicks is going to get out competed by media that does maximize the clicks. So, you know, you also can't entirely blame them in that they're trying to survive in what is clearly a declining legacy media market. And it's a shrinking pie and shrinking pie. Desperate times leads to desperate measures.",
+      "textZh": "不过，是啊，是啊，我觉得他们其实在某种程度上真的没有太多选择。任何不专注于争议、不把点击量最大化的媒体，都会被那些把点击量最大化的媒体竞争出局。所以，你知道，也不能完全责怪他们，因为他们正试图在一个显然正在衰退的传统媒体市场中生存。而且蛋糕正在缩小，蛋糕正在缩小。非常时期会导致非常手段。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 206.8,
+      "textEn": "You know, it's somewhat frankly predictable.",
+      "textZh": "你知道，坦率地说，这在某种程度上是可以预料的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Cathie Wood",
+      "startSec": 208.88,
+      "textEn": "Yes, yes. Well, that's not what we're about. As you know, at ahrq, we're all about the future, trying to figure out the way the world's going to work and. Well, I'd love to give you an opportunity right now to, you know, address what you think mainstream media does not understand because there's such a big story here. There are so many big stories that, you know, offer all kinds of hope and, you know, really transformation in the future and you're leading the charge.",
+      "textZh": "是的，是的。嗯，那不是我们所做的事。如你所知，在AHRQ，我们关注的全是未来，试图弄清楚这个世界将如何运转以及。嗯，我很想现在给你一个机会，让你，你知道，谈谈你认为主流媒体不理解的东西，因为这里有一个如此重大的故事。这里有如此多重大的故事，你知道，它们带来了各种各样的希望，而且，你知道，未来确实会发生转型，而你正在带头推动这一切。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Cathie Wood",
+      "startSec": 244.33,
+      "textEn": "So what, what don't they get, do you think? And what would you like to, what would you like them to understand?",
+      "textZh": "所以你觉得，他们到底有什么，有什么没搞懂？你又希望，你希望他们理解什么？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 253.29,
+      "textEn": "Well, I think that's quite a long list of things they don't, don't understand or where they simply don't wish to focus on because it doesn't quite lead to clicks and traffic, whatnot. So I guess I could go over at a high level what SpaceX and Tesla are accomplishing or have accomplished this year.",
+      "textZh": "嗯，我认为他们不，不理解的事情，或者他们根本不愿关注的事情，清单相当长，因为那些事情并不能真正带来点击量和流量之类的。所以，我想我可以从宏观层面谈谈SpaceX和Tesla今年正在取得或已经取得的成就。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 280.96,
+      "textEn": "You just said that media is a dwindling pie and you own a big kind of media platform franchise. How do you think about the future of X within that context and how it should evolve?",
+      "textZh": "你刚才说媒体这块蛋糕正在缩小，而你拥有一个大型的、某种媒体平台业务。在这种背景下，你如何看待X的未来，以及它应该如何演变？",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 294.16,
+      "textEn": "Well, I mean, X is actually growing in traffic. So I mean, again, one doesn't know quite what to believe. But the, you know, when you look at the traffic numbers, the traditional media is down, but X is up. So I think that's, you know, cause for optimism. But of course, the traditional media would never actually write a story about that. I'm not going to write a story that says, hey, we're losing and X is winning is a very unlikely headline.",
+      "textZh": "嗯，我是说，X的流量实际上正在增长。所以我是说，再说一次，人们并不太清楚该相信什么。但是，那个，你知道，当你查看流量数据时，传统媒体在下降，而X在上升。所以我认为，这个，你知道，是乐观的理由。但当然，传统媒体绝不会真的报道这件事。“我不会写一篇报道说，嘿，我们正在输，而X正在赢”，是一个非常不可能出现的标题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 328.7,
+      "textEn": "In fact, you see the opposite headlines, which are quite misleading, that XFK Twitter is dying or dead or whatever. I mean, how many times have we seen that headline? It's getting a little tedious. I mean, you could just press repost the same thing every month is what it seems like. So, you know, I, that's, you know, so I think I feel quite optimistic about the sort of X platform and where it's going and we're adding a ton of functionality that I think people will find useful.",
+      "textZh": "事实上，你看到的标题恰恰相反，而且相当具有误导性，说XFK Twitter正在消亡，或者已经死了，或者随便怎样。我是说，我们看到这种标题多少次了？这开始变得有点乏味了。我是说，感觉你每个月只要对同样的东西按一下转发就行了。所以，你知道，我，那个，你知道，所以我想，我对X这类平台及其发展方向感到相当乐观，而且我们正在增加大量我认为人们会觉得有用的功能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 361.68,
+      "textEn": "There's been immense progress in just the course of a year. We've accomplished more advancements in a year than I think Twitter had done in the prior, at least five years. So,",
+      "textZh": "仅仅在1年时间里就取得了巨大进展。我认为，我们在1年里取得的进展，比Twitter此前至少5年里取得的还要多。所以，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Cathie Wood",
+      "startSec": 374.97,
+      "textEn": "yeah, one of the. We've been talking a lot about X. We know we own it in our venture fund and we've been talking about, you know, the, the democratization that you are enabling in many ways. We just going back to Tesla, you'll remember that, you know, when Tesla, when you were thinking about taking it private, I implored you, you know, no, you know, we've been supporting, we, the retail investor and others have been supporting Tesla.",
+      "textZh": "是啊，其中一个。我们一直在大量谈论X。我们知道，我们的风险基金持有它，而且我们一直在谈论，你知道，你正以多种方式促成的，那个，那个民主化。我们回到Tesla，你会记得，你知道，当Tesla，当你考虑将其私有化时，我恳求你，你知道，不要，你知道，我们一直在支持，我们，散户投资者和其他人一直在支持Tesla。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Cathie Wood",
+      "startSec": 414.74,
+      "textEn": "Don't take it private. You'll take away this incredible growth opportunity. And so thank you for that. That was a democratization move. But Twitter.",
+      "textZh": "不要把它私有化。你会夺走这个不可思议的增长机会。所以为此谢谢你。那是一次民主化举措。但是Twitter。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 423.61,
+      "textEn": "Yeah, and I should say that, you know, your level was influential. You know, it played as a significant role in the decision ultimately not to take the company private. We could have taken the company private. The, the downside was that it would have been quite a big distraction.",
+      "textZh": "是啊，而且我应该说，你知道，你的程度产生了影响。你知道，它对最终决定不将公司私有化发挥了重要作用。我们本来可以将公司私有化。那个，那个缺点是，这会造成相当大的干扰。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 443.05,
+      "textEn": "So. And of course it would have made it difficult for many investors to remain invested.",
+      "textZh": "所以。而且当然，这会让许多投资者难以继续持有投资。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 449.54,
+      "textEn": "And I mean, the combination of factors, of complexity, having to leave behind so many investors, really, that was the, those are the two factors that, you know, why we decided not to take company private. We absolutely could have. Yeah, I want to be just absolutely super clear.",
+      "textZh": "而且我是说，复杂性这些因素的组合，以及不得不把如此多的投资者抛在身后，真的，那就是，那些是，你知道，我们决定不将公司私有化的2个因素。我们绝对有能力这么做。是啊，我只是想把这一点说得绝对无比清楚。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Cathie Wood",
+      "startSec": 466.9,
+      "textEn": "No, no, I know that.",
+      "textZh": "不，不，我知道。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 469.22,
+      "textEn": "And we did have funding secured, so, you know, it was six. More than enough funding.",
+      "textZh": "而且我们的资金确实已经落实了，所以，你知道，是6。资金绰绰有余。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Cathie Wood",
+      "startSec": 476.59,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 477.31,
+      "textEn": "You know, it's worth bearing in mind that, you know, I was sued in a San Francisco court which was jury shopped by a class action plaintiff law firm. It's always, it's important to bear in mind in these class action lawsuit lawsuits, the media will actually write as though it is actually an aggrieved shareholder. But in fact, it is not. The true plaintiff is the class action law firm and the plaintiff is simply a puppet.",
+      "textZh": "你知道，值得牢记的是，你知道，我在旧金山的一家法院遭到起诉，这家法院是由一家集体诉讼原告律师事务所通过挑选有利陪审团而选定的。始终，在这些集体诉讼诉讼中，有一点很重要，需要牢记，媒体实际上会写得好像那真的是一名受委屈的股东。但事实上，并不是。真正的原告是那家集体诉讼律师事务所，而原告只是一个傀儡。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Cathie Wood",
+      "startSec": 503.33,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 504.29,
+      "textEn": "Yeah, so, but the media never, never mentions this.",
+      "textZh": "是啊，所以，但是媒体从来，从来不提这一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Cathie Wood",
+      "startSec": 507.57,
+      "textEn": "You took Twitter private was, you know, to, to, to really enable free speech. And again, the whole democratization, this democratization concept, you know, we're, we're all about that as well. We give our research away. We want people to understand how much the world's changing, how technologically enabled innovation is going to transform, could transform everyone's lives for the better if they get on the right side of change.",
+      "textZh": "你将Twitter私有化是，你知道，为了，为了，为了真正促成言论自由。而且再说一次，整个民主化，这个民主化概念，你知道，我们，我们也完全支持。我们免费提供研究成果。我们希望人们理解这个世界正在发生多么巨大的变化，技术赋能的创新将如何转变，可能会让每个人的生活变得更好，只要他们站在变革正确的一边。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 543.76,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Cathie Wood",
+      "startSec": 544.8,
+      "textEn": "Yeah, thank you.",
+      "textZh": "是啊，谢谢你。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 546.4,
+      "textEn": "Well, absolutely. So there's kind of like maybe an argument that sounds kind of esoteric, but it is the way I actually think about it that you can think of the X platform or social media in general as kind of a collective Consciousness or group mind and you want to have as much signal and as little noise as possible. Obviously we've got a lot of work to do on that front, but you want your information be coming at you from people who are experts in the field or who are in the case of, let's say, a war zone, literally in the field.",
+      "textZh": "嗯，当然。所以，有一种听起来可能有点深奥的论点，但这确实是我实际思考这件事的方式：你可以把X平台或一般意义上的社交媒体看作某种集体意识或群体心智，而你希望信号尽可能多、噪声尽可能少。显然，我们在这方面还有很多工作要做，但你希望信息来自该领域的专家，或者，比如说在战区的情况下，来自真正在现场的人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 593.25,
+      "textEn": "And as opposed to filtered through journalists who are not experts in the field and who most of the time, probably 99% of time are literally not at the scene. There's only a few, a reporter, sometimes only one reporter at the scene. So now in the past that it was the only way to have things work. That's why, you know, sort of the legacy structure in the past was you had to have information filter to media organizations and then to, and then they would decide what to publish and they'd publish it and then people would read really a small subset of what was actually going on in the world and obviously a subset that was chosen by a handful of editors.",
+      "textZh": "而不是经过那些并非该领域专家的记者过滤，而且大多数时候，可能99%的时候，他们实际上根本不在现场。现场只有少数几个，一名记者，有时现场只有一名记者。所以在过去，那是让事情运转起来的唯一方式。这就是为什么，你知道，过去那种传统结构是，你必须让信息经过媒体机构过滤，然后再到，然后他们会决定发布什么，并将其发布，接着人们读到的其实只是世界上实际正在发生之事的一小部分，而且显然是由少数几位编辑挑选出来的那一部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Cathie Wood",
+      "startSec": 644.78,
+      "textEn": "Curated.",
+      "textZh": "经过筛选的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 646.54,
+      "textEn": "Yeah, curated. So it's sort of if the editors weren't that interested in the subject, you simply didn't care about it. So now that's in the past, especially in a non Internet world. That's kind of how things. There wasn't really another way to do it.",
+      "textZh": "对，经过筛选。所以有点像是，如果编辑们对这个主题没那么感兴趣，你就根本不会在意它。所以现在那已经成为过去，尤其是在一个非互联网世界里。事情大致就是这样。当时其实没有别的办法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 665.79,
+      "textEn": "You didn't really have a mechanism for connecting all of the humans. But now with the Internet and a fast moving social media or what. Social media is a terrible word, but fast moving sort of platform like the X platform, you can actually get, have all of the, you can get all the people out there that are on the platform reporting information, distilling it down, have people who are the, who are world class experts in their field tell you exactly what's going on.",
+      "textZh": "你当时其实没有一种把所有人类连接起来的机制。但现在有了互联网，以及一个快速运转的社交媒体，或者什么。社交媒体是个糟糕的词，但有了像X平台这样快速运转的平台，你实际上可以让，让所有的，你可以让平台上的所有人都来报告信息，把信息提炼出来，让那些，让那些在各自领域属于世界级专家的人准确地告诉你正在发生什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 700.9,
+      "textEn": "I mean if you see, for example, the AI discussions on X are by far the best.",
+      "textZh": "我的意思是，比如你看，X上的AI讨论远远是最好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Cathie Wood",
+      "startSec": 705.86,
+      "textEn": "Absolutely, absolutely. Absolutely. You know Elon, we. When I conceived of this open source research ecosystem that we've evolved in 2012, I never dreamed that Twitter at the time it was for tweens and teens and celebrities and there's still some of those on, but I never dreamed that it would become our primary platform for giving away our research and having dialogue with the people in the field out there who are innovating.",
+      "textZh": "完全正确，完全正确。完全正确。你知道，埃隆，我们。当我在2012年构想出这个后来不断演进的开源研究生态系统时，我从未梦想过，当时供青春期前儿童、青少年和名人使用的Twitter——现在上面仍然有一些这样的人——会成为我们免费分享研究成果，以及与这个领域里那些正在创新的人对话的主要平台。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Cathie Wood",
+      "startSec": 740.95,
+      "textEn": "You know, we're getting information that no one else in the financial world doing it the traditional way is getting just because we are engaging with these, you know, with the innovators. So it's, it's a marvelous platform and I think it's the knowledge workers platform.",
+      "textZh": "你知道，我们正在获得一些金融界其他人用传统方式根本得不到的信息，就因为我们正在与这些，你知道，与这些创新者互动。所以，这是，这是一个了不起的平台，而且我认为它是知识工作者的平台。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "ARK Panelist",
+      "startSec": 761.62,
+      "textEn": "Yeah. Hi Elon, this is Jolie.",
+      "textZh": "是的。你好，埃隆，我是朱莉。",
+      "speakerZh": "ARK 嘉宾"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 764.58,
+      "textEn": "Hey, Tommy.",
+      "textZh": "嘿，汤米。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "ARK Panelist",
+      "startSec": 765.54,
+      "textEn": "Hey, how's it going? It'd be great to learn more about how you're thinking actually about the roadmap to you see it becoming and risks, challenges and also opportunities of that, including AI and how you see that transition.",
+      "textZh": "嘿，最近怎么样？如果能进一步了解你实际上如何思考它的发展路线图，以及你认为它会变成什么，还有其中的风险、挑战和机遇，包括 AI，以及你如何看待这种转变，那就太好了。",
+      "speakerZh": "ARK 嘉宾"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 781.24,
+      "textEn": "Well along the lines of what I was saying earlier, it's really kind of create a group mind or collective consciousness where every person is essentially",
+      "textZh": "嗯，沿着我之前所说的思路，实际上就是创造一种群体心智或集体意识，其中每个人本质上都是",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "ARK Panelist",
+      "startSec": 801.13,
+      "textEn": "part of",
+      "textZh": "其中一部分",
+      "speakerZh": "ARK 嘉宾"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 801.41,
+      "textEn": "that group minor collective consciousness and is kind of reporting information to the system, consuming information, giving their opinion on it. And you can just think of it like a giant brain, basically. And you know, I posted, I think a few years ago that a neuron doesn't feel like it's. It doesn't know it's a neuron. So individuals on the system obviously feel like an individual, but actually you are actually part of a collective sort of group mind and then say, well, what makes it a better or worse collective consciousness?",
+      "textZh": "那个群体次要集体意识的一部分，并且有点像是在向系统报告信息、获取信息、对其发表自己的看法。你基本上可以把它想象成一个巨型大脑。而且你知道，我想我几年前发过一条帖子，说一个神经元并不觉得自己是。它不知道自己是一个神经元。所以，系统中的个人显然觉得自己是一个个体，但实际上你确实是某种集体群体心智的一部分。然后可以问，嗯，是什么让集体意识变得更好或更差？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 851.15,
+      "textEn": "Obviously speed is very important. How fast is information being transmitted? How is that information? Is the most interesting information being propagated to the right other people as quickly as possible?",
+      "textZh": "显然，速度非常重要。信息传输得有多快？这些信息怎么样？最有趣的信息是否正被尽快传播给其他合适的人？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 868.99,
+      "textEn": "How much noise is in the system? Noise would be information that is either not interesting, obviously spam scams, actual misinformation.",
+      "textZh": "系统中有多少噪声？噪声就是那些要么无趣的信息，显然还有垃圾信息、骗局、实际的错误信息。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 882.99,
+      "textEn": "Well, you know, that term is overused. But just say, like, just say information that deviates from the truth meaningfully because there's always this question of what is the truth? You know, and like there's an old sort of police saying, you know, for any given crime there are at least three stories. The victim, the perpetrator, perpetrator and the truth. Right. You know, or you know, the.",
+      "textZh": "嗯，你知道，那个术语被用滥了。但就说，比如，就说是明显偏离真相的信息，因为始终存在这样一个问题：真相是什么？你知道，就像有句老警察说法，你知道，对于任何一桩犯罪，至少都有3种说法。受害者、作案者、作案者和真相。对吧。你知道，或者你知道，那个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 913.88,
+      "textEn": "Was that Kurosawa movie Rashomon, where they. The same event happens and you see that perceived completely differently by four different people.",
+      "textZh": "那是黑泽明的电影《罗生门》吗，他们。同一件事发生后，你会看到4个不同的人对它的感知完全不同。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 925.4,
+      "textEn": "So but nonetheless, one can still aspire to the truth and have the least. Aspire to have the least amount of error.",
+      "textZh": "所以，但尽管如此，人们仍然可以追求真相，并拥有最少的。力求拥有最少的错误。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 933.7,
+      "textEn": "So that's really, that's the main thing is like, how do we get as many people as possible participating in providing information that's accurate, correcting information that is not accurate. And just if you think of it sort of like from an information theory standpoint, this is like, I think the right way to think about it. Think about it from an information theory standpoint. You want to have what would make for the most effective group mind or collective consciousness?",
+      "textZh": "所以，这确实是，最主要的事情就是，我们怎样让尽可能多的人参与进来，提供准确的信息，纠正不准确的信息。而且，如果你从信息论的角度来思考这件事，这就像是，我认为，这是正确的思考方式。从信息论的角度思考它。你想要的是，怎样才能形成最高效的群体心智或集体意识？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 966.77,
+      "textEn": "And it's, it's like, are the neurons all communicating as quickly as possible with the lowest signals noise? And yeah, and. Oh God, sorry.",
+      "textZh": "而这，这就像是，所有神经元是否都在以尽可能快的速度、以最低的信号噪声进行交流？还有，是的，还有。天啊，抱歉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 978.29,
+      "textEn": "Do you think you need to enable users to put like skin in the game behind Their messages in a more frictionless way. As in, if I'm like within capital markets, I can bet I can put capital to work. Right. And I stand to lose it if I'm wrong. And the information space in X is. It's kind of like a survival of the fittest, but kind of like the marginal energy needed to put in for an individual tweet. I can't really change that or an individual post.",
+      "textZh": "你认为你们是否需要让用户能够以一种摩擦更小的方式，为他们的消息投入某种切身利益。也就是说，如果我身处资本市场，我可以下注，我可以投入资本。对吧。如果我错了，我就可能失去这些资本。而 X 上的信息空间是。它有点像适者生存，但对于一条单独的推文，需要投入的边际能量有点像。我实际上无法改变这一点，或者一篇单独的帖子。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 1006.35,
+      "textEn": "Is that like a direction to go?",
+      "textZh": "这是一个可以发展的方向吗？",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 1013.08,
+      "textEn": "You mean like when you post something, assign sort of some amount of your credit effectively?",
+      "textZh": "你的意思是，比如当你发布某些内容时，实际上为它分配你的一定额度的信用？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 1022.12,
+      "textEn": "Yeah, I mean within prediction markets work because people are able to bet on one thing versus another. Like conceptually, if I'm right about something, if the truth, if I get some kind of like, you know, more than just reputational accrual, but capital accrual for being corrected up something on X, is that a way to kind of increase essentially effective signal to noise within the network?",
+      "textZh": "是的，我是说，预测市场之所以有效，是因为人们能够押注一件事还是另一件事。比如从概念上说，如果我对某件事的判断是正确的，如果真相，如果我因为在 X 上被纠正了某件事，而获得某种，你知道，不只是声誉积累，而是资本积累，那这是否是一种能从本质上提高网络内有效信噪比的方式？",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 1049.719,
+      "textEn": "Do you have a suggestion for how that might be implemented?",
+      "textZh": "你对如何实施这件事有什么建议吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 1053.799,
+      "textEn": "I mean, conceptually, the fact that I can advertise on X like I can promote a tweet, you know, is in some ways an instantiation of that. But there's no mechanism by which I effectively lose for being wrong. Or maybe within the distribution algorithm there is, but it just seems very kind of like a loose kind of connection between whether or not I'm contributing positively to the network and whether or not the network actually rewards me in some way, either financially or otherwise for contributing positively.",
+      "textZh": "我是说，从概念上讲，我可以在 X 上投放广告，比如我可以推广一条推文，你知道，这在某些方面就是它的一种实例。但并不存在一种机制，让我实际上因为出错而遭受损失。或者也许分发算法中存在这种机制，但我是否在为网络作出积极贡献，与网络是否真的以某种方式奖励我的积极贡献——无论是经济上还是其他方面——这两者之间的联系似乎非常、怎么说呢、松散。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 1086.07,
+      "textEn": "Well, I mean, we are paying creators for, you know, for people who are posting on the system and where that post is interesting and gets a lot of views. So that's one way in which people are accruing value. If you post something that's boring or uninteresting, then just or wrong, whatever, you perhaps will get less views and thus earn less.",
+      "textZh": "嗯，我是说，我们确实会向创作者付费，也就是，你知道，向那些在系统上发帖的人付费，而那篇帖子很有趣并且获得了大量浏览量。所以，这是人们积累价值的一种方式。如果你发布的内容很无聊或无趣，那么只是，或者是错的，随便吧，你的浏览量可能会更少，因此赚得也更少。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 1118.01,
+      "textEn": "You know, there's, there is this like very challenging problem of bots and trolls, which is, I think, I mean, just tackling that. And I think we've made great strides, but there's a long way to go. That is the biggest source of noise.",
+      "textZh": "你知道，机器人账号和网络喷子这个问题非常棘手，我认为，我是说，光是处理这个问题。而且我认为我们已经取得了长足进展，但还有很长的路要走。这是最大的噪声来源。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 1140.25,
+      "textEn": "Because the fundamental problem you have right now is that it's quite easy to pass the are you a human tests. You know, even if, I mean basically open source AI at this point can pass are you a human test? I think better than most humans.",
+      "textZh": "因为你现在面临的根本问题是，通过“你是人类吗”测试相当容易。你知道，即使，我是说，基本上现阶段的开源 AI 已经能够通过“你是人类吗”测试了？我认为比大多数人类都要好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 1164.01,
+      "textEn": "So. And that's only going to become more widely available. So you have to, I think, bias the network to have basically raise the cost of manipulation and raise the cost of bots and trolls. You cannot completely get Rid of them. This is not possible. But you can make it much harder and much more expensive. Like I mean having say a drug enforcement agency like or any kind of making drugs legal, it doesn't make the drugs disappear, it just makes them more expensive.",
+      "textZh": "所以。而且它只会变得更加普及。所以我认为，你必须让网络有所倾向，基本上提高操纵的成本，提高机器人账号和网络喷子的成本。你无法彻底摆脱它们。这是不可能的。但你可以让这变得困难得多、昂贵得多。比如，我是说，设立一个缉毒机构，或者任何一种把毒品合法化的做法，都不会让毒品消失，只会让它们变得更加昂贵。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 1205.61,
+      "textEn": "So you know, sometimes there's this false dichotomy of like well, it's all or nothing. No, you just, you have to do things that dramatically increase the cost of noise in the system so that somebody can't spool up 100,000 or a million bots in a day and then manipulate the system. So this is why we've moved to sort of a subscription where there's at least a small monthly payment.",
+      "textZh": "所以你知道，有时会出现这种虚假的二分法，好像要么全有，要么全无。不是，你只是，你必须采取一些措施，大幅提高系统中噪声的成本，这样某个人就无法在一天内启动100,000或100万个机器人账号，然后操纵系统。所以这就是为什么我们转向了某种订阅模式，至少需要支付一小笔月费。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 1239.62,
+      "textEn": "Even a small amount like $3 a month. Ish. Or some small amount is still several orders of magnitude. It raises the cost of bots by several orders of magnitude, maybe by 1,000 or 10,000.",
+      "textZh": "即使是每月3美元这样的小额。左右。或者某个小额数目，仍然相差几个数量级。它把机器人账号的成本提高了几个数量级，也许提高了1,000倍或10,000倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 1255.75,
+      "textEn": "So and then it's not just the cost, it's not just the dollar amount. But then you effectively piggyback on the payment system, the payment authentication. So it's just hard to find more credit cards to misuse. There's natural cost in the black market for credit cards that work. So just biasing things to where the subscribers effectively or premium users content is elevated above that of bot amplified content is I think a very big deal.",
+      "textZh": "所以，然后这不只是成本，不只是美元金额。而是你实际上搭载了支付系统、支付身份验证。所以想找到更多信用卡来滥用就是很难。能用的信用卡在黑市上存在自然成本。所以，只要让订阅者实际上，或者说高级用户的内容，排在由机器人账号放大的内容之上，我认为就是一件非常重要的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "ARK Panelist",
+      "startSec": 1299.69,
+      "textEn": "Sorry.",
+      "textZh": "抱歉。",
+      "speakerZh": "ARK 嘉宾"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 1300.49,
+      "textEn": "And my prediction actually is that any given social network that does not move in this direction will be swarmed with bots and will simply be overwhelmed.",
+      "textZh": "而且我实际上预测，任何不朝这个方向发展的社交网络都会被机器人账号蜂拥占据，并且干脆被淹没。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1314.96,
+      "textEn": "You know, I have an experience with that. All of a sudden I guess bots were taking over and this was not on Twitter but on or on X, but on Instagram and Facebook. I mean it was just all over the place. So we've already experienced attacks like that. Can we stay on the X platform as a topic? Ilan. But maybe take us a little bit more into the future about this super app opportunity. Will you become a financial platform identification?",
+      "textZh": "你知道，我对此有过一次经历。突然之间，我猜机器人账号开始接管了，而这不是发生在Twitter上，而是在，或者是在X上，而是在Instagram和Facebook上。我的意思是，那简直无处不在。所以我们已经经历过那样的攻击了。我们可以继续以X平台为话题吗？伊兰。不过，也许可以带我们再深入一点，谈谈这款超级应用在未来的机会。你们会成为一个金融平台身份识别吗？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1355.74,
+      "textEn": "Is we're already seeing you're still tipping I think on X, but are you going to turn into a financial platform which is where you started your entrepreneurial journey many years ago? Is this still, is this still on the drawing board?",
+      "textZh": "我们已经看到，你们仍然在X上打赏，我想是这样，但你们会转变成一个金融平台吗？那正是你许多年前开启创业旅程的地方。这仍然，这仍然在规划之中吗？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1380.2,
+      "textEn": "Yeah, absolutely. We're just waiting for the final approvals to come through for the money transmitter licenses. It's just taken longer than expected to get the money transmitter licenses.",
+      "textZh": "是的，当然。我们只是在等待汇款业务许可证的最终批准下来。获得汇款业务许可证所花的时间就是比预期更长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1389.88,
+      "textEn": "Yes, I did see you have 15 or so now or is it more?",
+      "textZh": "是的，我确实看到你们现在有大约15个了，还是更多？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1395.99,
+      "textEn": "I think we actually have a majority of the states but it's irrelevant until California and New York brewers.",
+      "textZh": "我想我们实际上已经覆盖了大多数州，但在加利福尼亚州和纽约州的酿酒商之前，这都无关紧要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1404.71,
+      "textEn": "I see, I see. And are there any showstoppers or it's just bureaucracy.",
+      "textZh": "我明白了，我明白了。那么有没有什么会彻底阻碍进展的问题，还是说只是官僚主义？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 1411.83,
+      "textEn": "It's just, I mean really just I guess, bureaucracy. You know, things were obviously quite chaotic, especially for the first few months. So this, it's not entirely their fault. We were late in submitting our money transmitter licenses and I essentially thought, I thought we had done it but we had not done it until around the middle of this year. So I think we'll probably get our approvals early next year. And so I would expect payments to roll out.",
+      "textZh": "这只是，我的意思是，真的只是，我想，官僚程序。你知道，事情显然相当混乱，尤其是在最初几个月。所以这，不完全是他们的错。我们提交汇款业务许可证申请晚了，而我基本上以为，我以为我们已经办了，但直到今年年中左右我们才办。所以我认为我们大概会在明年年初获得批准。因此，我预计支付功能将会推出。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1447.83,
+      "textEn": "I would be surprised if we aren't if it takes us longer than the middle of next year to roll out payments. So I'm not aware of any showstoppers. Just kind of working through the system.",
+      "textZh": "如果我们没有……如果我们要花到明年年中以后才推出支付功能，我会感到意外。所以我不知道有什么会彻底阻碍这件事。只是在逐步走完这个系统的流程。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1459.68,
+      "textEn": "That'll be exciting. If you don't mind, Elon, I'd like to actually make an announcement on X since we learned in the market that once you say something on exit it actually becomes public information from the SEC's point of view. We've seen that tested a few times and so I just wanted to announce that we're pretty excited that for the first time beginning in January, our venture fund will be available on SoFi. Right now, if you want to buy our venture fund, the Titan app is the way to go.",
+      "textZh": "那会令人兴奋。如果你不介意，埃隆，我想在 X 上正式发布一则消息，因为我们从市场上了解到，一旦你在退出时说了什么，从美国证券交易委员会的角度看，它实际上就成了公开信息。我们已经看到这一点经受过几次检验，所以我只想宣布，我们非常兴奋的是，从1月开始，我们的风险投资基金将首次可以在 SoFi 上购买。目前，如果你想购买我们的风险投资基金，Titan 应用是购买途径。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1504.35,
+      "textEn": "That's an Andreessen Horowitz funded company and they've been great but we are expanding and you know we'd love again in this movement towards democratization of VC if any other platforms want to participate in this movement, you know we're not exclusive so. And we're very excited about the possibilities. So thank you for letting me do that.",
+      "textZh": "那是一家由Andreessen Horowitz资助的公司，他们一直非常出色，但我们正在扩大渠道，而且，你知道，在这场推动风险投资民主化的运动中，我们再次非常欢迎任何其他平台参与；你知道，我们不是独家合作。所以。我们对这些可能性感到非常兴奋。谢谢你让我宣布这件事。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "ARK Panelist",
+      "startSec": 1531.2,
+      "textEn": "And it's also a big part of bringing the broader base of huge number of non accredited investors who would love to enter companies like Eurozone. Of course and we are already with the ARC venture fund in SpaceX and X and we'd love to do others and really allowing, you know, obviously your companies are extremely well funded but for many companies they don't have access to capital necessarily at the scale you've built without going public.",
+      "textZh": "这也是让更广泛群体中数量庞大的非合格投资者参与进来的重要部分，他们会非常想投资像欧元区这样的公司。当然，我们已经通过 ARC 风险投资基金投资了 SpaceX 和 X，我们也很愿意投资其他公司，并真正让，你知道，显然你的公司资金极其充足，但对许多公司来说，它们未必能在不上市的情况下获得你所建立的这种规模的资本。",
+      "speakerZh": "ARK嘉宾"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "ARK Panelist",
+      "startSec": 1557.31,
+      "textEn": "So we think that's a really exciting potential for companies to stay private for longer and really that sounds great.",
+      "textZh": "所以我们认为，这为公司保持更长时间的私有状态提供了一种非常令人兴奋的潜力，而且确实，这听起来很棒。",
+      "speakerZh": "ARK嘉宾"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 1563.15,
+      "textEn": "Yeah, yeah, that sounds really, really cool. I mean the burden of being a public company really has increased over time such that it has somewhat dissuaded a lot of companies from being public. And I really frankly would recommend companies don't go public unless they absolutely have to.",
+      "textZh": "是的，是的，那听起来真的、真的很酷。我的意思是，成为一家上市公司的负担确实随着时间推移而增加，以至于在某种程度上让许多公司不愿上市。而且坦率地说，我确实会建议公司不要上市，除非它们绝对不得不这么做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1586.12,
+      "textEn": "So yeah.",
+      "textZh": "所以，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 1588.92,
+      "textEn": "Do you think that going back to like the Model 3 ramp, when you had customers and shareholders going out and facilitating delivery of vehicles do you think that could have happened without people having like, skin in the game in the same way?",
+      "textZh": "你认为，回到比如Model 3产能爬坡的时候，当时有客户和股东走出去协助车辆交付，你认为如果人们没有以同样的方式，比如说，利益攸关，这种事还能发生吗？",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Elon Musk",
+      "startSec": 1604.43,
+      "textEn": "Yeah, absolutely. Most, most of the people who helped were not shareholders.",
+      "textZh": "是的，完全是这样。大多数、大多数提供帮助的人都不是股东。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1610.27,
+      "textEn": "That's interesting.",
+      "textZh": "这很有意思。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1613.39,
+      "textEn": "I don't know. You know, Elon, so many people have come up to me and all of us over the years because we were out there, you know, pounding the table for Tesla against, you know, against the traditional financial world. And they, they read our research on Tesla and, and bought into it. And so many people have come up and said thank you for doing that research, alerting us to the opportunities. What's happened to the public markets, Elon, is, I think, is, I think they're kind of broken.",
+      "textZh": "我不知道。你知道，埃隆，这些年来有很多人走到我和我们所有人面前，因为我们当时站出来，你知道，为Tesla大声疾呼，对抗，你知道，对抗传统金融界。而他们，他们读了我们对Tesla的研究，并且接受了其中的观点。很多人走过来说，谢谢你们做了那些研究，让我们注意到这些机会。埃隆，我认为，公开市场发生的情况是，我认为，是，我认为它们有点失灵了。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1654.22,
+      "textEn": "I agree with you. I think part of it is regulatory, but part of it is the way the traditional financial world works. And I saw, I've seen this time and again is if a company is not in a broad based benchmark, then financial analysts and portfolio managers very often say, not in an index. I'm not competing against it. That's how broken it is. Instead of focusing on the future and you know, which companies are going to be transformative and are going to scale brilliantly, they're very nicely situated in the past, you know, in stocks that are where they are in benchmarks because of past performance.",
+      "textZh": "我同意你的看法。我认为一部分原因是监管，但另一部分原因是传统金融界的运作方式。而且我看到，我一次又一次地看到，如果一家公司不在一个广泛覆盖的基准指数中，那么金融分析师和投资组合经理常常会说，不在指数里。我不是在和它竞争。它就是失灵到了这种程度。他们没有把重点放在未来，以及，你知道，哪些公司会带来变革、会出色地扩大规模，而是非常安逸地停留在过去，你知道，持有那些之所以处于基准指数中，是因为过去表现的股票。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1698.64,
+      "textEn": "That's the other thing that's happened here.",
+      "textZh": "这是这里发生的另一件事。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 1702.32,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1702.8,
+      "textEn": "But it's important we change that, Elon, and Tesla has been a change maker in that regard. Sure. You didn't get into an index because of the way they construct them until Tesla was $500 billion. So a lot of it was pretty crazy. How many more, how many companies are bigger than that? You know, it's just crazy. But you did, you, you made it and you opened people's eyes. And we're trying to change this shift away from passive back to active so that there is an efficient allocation of capital.",
+      "textZh": "但重要的是我们要改变这一点，埃隆，而Tesla在这方面一直是变革推动者。当然。由于指数的编制方式，你们直到Tesla市值达到5000亿美元才被纳入指数。所以其中很多事情都相当疯狂。有多少更多，还有多少家公司比这更大？你知道，这简直太疯狂了。但你确实做到了，你，你成功了，也让人们开了眼界。而我们正努力改变这种从主动投资转向被动投资的趋势，让它重新回到主动投资，从而实现资本的有效配置。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 1739.83,
+      "textEn": "Yeah, you're touching on a very important point, which is that I think the percentage of the market that is passive is simply, it's too great at this point. So at the end of the day, somebody actually has to make an active decision. The passive investors are riding on the decisions of the active investors. And so passive investments like index funds, whatnot, are, they're like, they're an amplifier. It's like that, like an electric guitar amp or something.",
+      "textZh": "是的，你谈到了一个非常重要的问题，那就是我认为市场中被动投资所占的比例简直是，它目前太高了。所以归根结底，总得有人真正做出主动决策。被动投资者依赖主动投资者的决策。因此，像指数基金之类的被动投资，它们，它们就像一个放大器。就像那个，就像电吉他音箱之类的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 1772.16,
+      "textEn": "But you don't want that amplifier gain to be too high or you get essentially massive movements of the stock based on the decisions of maybe four or five active major stock pickers.",
+      "textZh": "但你不会希望那个放大器的增益过高，否则股票基本上会因为可能4或5位主要主动选股者的决策而出现巨幅波动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1788.16,
+      "textEn": "Well, you know, actually it's, it's it's a, a little more complicated. So if you, if you, well yeah, if you, if you look, if you were in a risk off market, a bear market like we were in 22, what actually happens is these managers are very fearful and they just get closer and closer to their benchmarks and they sell the stocks that, the kind of stocks that we're in where we're benchmark agnostic, we just don't even look at them.",
+      "textZh": "嗯，你知道，实际上这，这这是一个，一个稍微复杂些的问题。所以如果你，如果你，嗯，是的，如果你，如果你看，如果你身处一个风险规避市场，一个像我们在22年经历的那样的熊市，实际发生的情况是，这些经理非常恐惧，他们只会越来越贴近自己的基准指数，并卖掉那些股票，那种我们所持有的股票，而我们不受基准限制，我们甚至根本不看它们。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1818.82,
+      "textEn": "We're all about the future. So that's in a risk off market. It punishes stocks that are not in indexes more than otherwise would be the case. And then to your point, it rewards stocks that you know in a risk on period that are growing very quickly like yours. And as you say, yes, there's a pile on effect if they get into a benchmark. Now everybody has to consider them. So it's really, it's, it's a really distorted way of that.",
+      "textZh": "我们关注的全是未来。所以在风险规避市场中，它对未被纳入指数的股票的惩罚会比正常情况下更重。然后正如你所说，在风险偏好期，它会奖励那些，你知道，增长非常迅速的股票，比如你们的股票。而且就像你说的，是的，如果它们进入某个基准，就会出现扎堆效应。现在所有人都必须考虑它们。所以这确实是，这，这是那件事的一种非常扭曲的方式。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1852.56,
+      "textEn": "The public equity markets have evolved.",
+      "textZh": "公开股票市场已经发生了演变。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 1856.48,
+      "textEn": "Yeah. I mean essentially getting into any kind of index or passive fund will I think increase the volatility significantly because you know, just now it's amplified. That stock's not amplified by that, by the passives.",
+      "textZh": "是的。我的意思是，从本质上讲，进入任何一种指数或被动型基金，我认为都会显著增加波动性，因为你知道，现在它被放大了。那只股票没有被那个，被被动型基金放大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1873.12,
+      "textEn": "So you know, and I think Bogle was, was, it was a good idea to, to create, you know, vanguard and, and passives, but it's gone, it's just gone too far.",
+      "textZh": "所以你知道，我认为博格尔当时，当时，创建，你知道，先锋集团和被动型基金是个好主意，但它已经，实在是走得太远了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1882.52,
+      "textEn": "It has.",
+      "textZh": "确实如此。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1884.24,
+      "textEn": "So you just don't want to have the amp. The amp sort of. The amp. The amp is turned up too high is way to think of it.",
+      "textZh": "所以你只是不希望放大器。放大器有点。放大器。可以把它理解成放大器调得太高了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1893.36,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1893.8,
+      "textEn": "So there should be more, more active and that's less passive.",
+      "textZh": "所以应该有更多，更多主动型投资，也就是更少被动型投资。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1898.41,
+      "textEn": "Totally agree. And absolutely. And the other thing that's happening. I didn't know we were going to go here, Elon. But the other thing that really is gripping the markets is, you know, 75% plus of trading every day is algorithmic. And we see they're very simple algorithms. You know, in a bear market, okay, do they have cash? Are they burning cash? And those two variables will dominate the stock action. So yeah, we've watched this over the last three years.",
+      "textZh": "完全同意。绝对同意。还有另一件正在发生的事。我不知道我们会谈到这里，埃隆。但另一件真正攫住市场的事是，你知道，每天超过75%的交易都是算法交易。而我们看到，它们是非常简单的算法。你知道，在熊市中，好吧，它们有现金吗？它们在烧钱吗？这2个变量会主导股价走势。所以，是的，过去3年里我们一直在观察这种情况。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1934.06,
+      "textEn": "It's a very simplistic way of managing money.",
+      "textZh": "这是一种非常简单化的资金管理方式。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1939.58,
+      "textEn": "And I really do think it has led to the most massive misallocation of capital in history. A lot more private companies should be public, but we understand why they don't go public because of the kind of behavior you're subjected to. And now you know all about it, right?",
+      "textZh": "而且我确实认为，这已经导致了历史上最严重的资本错配。更多私营公司本应成为上市公司，但我们理解它们为何不上市，因为你会遭受这种行为。而现在你对此全都了解了，对吧？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "ARK Panelist",
+      "startSec": 1957.77,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "ARK 小组成员"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 1958.13,
+      "textEn": "I mean the regulatory burden of being public is way too high and then the legal burden of being public is also way too high. So if you're public, you're just going to be sued nonstop by these class action law firms with their fake plaintiffs, as is the case with Tesla. We're just, you know, constantly being sued by, you know, as I said, what the media will portray as a member of the class, but in fact we're just being sued by class action law firms with puppets like that.",
+      "textZh": "我的意思是，上市公司的监管负担实在太重了，而且上市公司的法律负担也实在太重了。所以如果你上市了，这些集体诉讼律师事务所就会用他们的虚假原告不停地起诉你，Tesla 的情况就是如此。我们只是，你知道，不断遭到，你知道，正如我所说，被媒体描述为集体成员的人起诉，但事实上，我们只是被集体诉讼律师事务所利用那样的傀儡起诉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1987.97,
+      "textEn": "Drives me crazy. It happens. It's, you know, it's constantly happening.",
+      "textZh": "这让我抓狂。这种事一直发生。它，你知道，它不断发生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Cathie Wood",
+      "startSec": 1993.09,
+      "textEn": "But the problem that we're talking about here is non accredited investors have not been invited to the venture capital party because they don't make enough money or they're not wealthy enough, which we think is quite a regressive tax.",
+      "textZh": "但我们在这里谈论的问题是，非合格投资者没有获邀参加风险投资这场盛宴，因为他们赚的钱不够多，或者不够富有，而我们认为这是一种相当具有累退性的税。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 2012.67,
+      "textEn": "Yes, it is, absolutely. I fully agree.",
+      "textZh": "是的，确实如此，绝对是。我完全同意。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2015.23,
+      "textEn": "That's why we're democratizing venture capital by not taking a carry ourselves so that we can offer our fund for as little as $500 to anyone. Anyone.",
+      "textZh": "这就是为什么我们不自行收取业绩报酬，以此推动风险投资民主化，这样我们就能以低至500美元的门槛向任何人提供我们的基金。任何人。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 2029.95,
+      "textEn": "That sounds great. Well, I think more people should take you up on that.",
+      "textZh": "听起来很棒。嗯，我认为应该有更多人接受你们的这个提议。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2033.27,
+      "textEn": "Yeah,",
+      "textZh": "是的，",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 2035.87,
+      "textEn": "there is, I mean most, most of the, the vast majority of companies are obviously private. They're not public.",
+      "textZh": "确实，我的意思是，大多数，大多数，绝大多数公司显然都是非上市公司。它们不是上市公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2043.69,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 2045.21,
+      "textEn": "And, and you're right that, that it is somewhat of a regressive tax that makes it difficult for the, the average citizen to participate in the upside of those companies. Because once you go, I think above 2,500 shareholders, non employee shareholders, then you're forced to go public. So the reason that SpaceX cannot simply offer stock to anyone who wants to own it is because of that 2500 direct shareholder limit.",
+      "textZh": "而且，而且你说得对，那，那在某种程度上是一种累退税，使得，使得普通公民难以分享那些公司的上涨收益。因为一旦，我想，非雇员股东超过2,500名，你就会被迫上市。所以SpaceX不能简单地向任何想持有其股份的人提供股票，原因就是那项2500名直接股东的限制。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2074.62,
+      "textEn": "Right. So, and do you think, do you",
+      "textZh": "对。那么，而且你认为，你是否",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 2076.86,
+      "textEn": "think that within SpaceX are just thinking about Tesla versus SpaceX? Do you think you've been able, enabled to take more appropriate risks within SpaceX than you have within Tesla because of the public versus private?",
+      "textZh": "认为在SpaceX内部只是考虑Tesla与SpaceX的对比？你认为，与Tesla相比，因为上市公司与私营公司的区别，你在SpaceX内部得以、被允许承担更适当的风险吗？",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 2090.74,
+      "textEn": "Absolutely. I mean at SpaceX we never think about the quarter, we never think about it and we don't think about the stock price. So you know, there's a lot of pressure, like immense pressure on a public company to not have a bad quarter. So this can actually result in a less efficient operation where you're going to great lengths at the end of a quarter to not disappoint people.",
+      "textZh": "当然。我的意思是，在SpaceX，我们从不考虑季度，我们从不考虑它，而且我们不考虑股价。所以你知道，上市公司承受着很大压力，比如巨大的压力，不能出现表现糟糕的季度。所以这实际上可能导致运营效率降低，因为你会在季度末竭尽全力，以免让人们失望。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Elon Musk",
+      "startSec": 2120.98,
+      "textEn": "And you know, that's just, that's just how it goes. So, and then, you know, you've also got a lot, sort of a long term challenge with public markets where a lot of the analysts following companies have a time horizon that is maybe only a year or two. It's, you know, rarely more than a few years.",
+      "textZh": "而且你知道，事情就是这样，就是这样。所以，然后，你知道，公开市场也存在一种长期挑战，许多跟踪公司的分析师所考虑的时间跨度可能只有1年或2年。你知道，很少会超过几年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 2145.5,
+      "textEn": "And so they literally don't care because they don't care about what your long term outcome will be because their career is dependent on how you do in the short term.",
+      "textZh": "所以他们真的不在乎，因为他们不在乎你的长期结果会怎样，因为他们的职业生涯取决于你的短期表现。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2153.82,
+      "textEn": "Elon, you have been great at, I think, standing up to short term oriented shareholders. That's one of the scores in our scoring system as we're evaluating companies. Is this a visionary management? And will they stand up to short term shareholders who want their profits now, their dividends, their share repurchases, will they invest aggressively enough in the future? And I think you've done a great job.",
+      "textZh": "埃隆，我认为，你一直非常善于顶住那些着眼短期的股东。这是我们评估公司时评分体系中的一个评分项。这是不是一个有远见的管理层？他们会不会顶住那些现在就想要利润、股息和股票回购的短期股东，他们会不会为未来进行足够积极的投资？我认为你做得非常出色。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 2183.11,
+      "textEn": "Well, thank you. And credit to the Tesla team as well. So, but that, that said, we at Tesla, we do go to great lengths to ensure that our quarter is, is good as that. We don't disappoint because it's not so much about the, it's just that we feel like we have a sort of, you know, moral obligation to, you know, I don't know that it's, to not have a bad quarter and disappoint people. So we, you know, the number of New Year's Eves that I've spent in delivery centers is like, I don't know, of six, I don't know, seven.",
+      "textZh": "嗯，谢谢。也要归功于Tesla团队。所以，不过话虽如此，我们Tesla确实会竭尽全力确保我们的季度表现是，是像那样好的。我们不会让人失望，因为这与其说是关于……只是因为我们觉得自己有一种，你知道，道德义务，要，你知道，我不知道这算不算，就是不要有一个糟糕的季度，让大家失望。所以，我们，你知道，我在交付中心度过了多少个新年前夜，我不知道，6个，我不知道，7个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 2221.79,
+      "textEn": "I don't know. I've lost count how many times I was in, I was delivering cars until like basically midnight on New Year's Eve, personally. So, you know,",
+      "textZh": "我不知道。我已经数不清有多少次，我在，我亲自在新年前夜一直交付汽车，基本上直到午夜。所以，你知道，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2235.11,
+      "textEn": "has it done any. Let me just ask the question the other way. At SpaceX, you, you feel like you have more degrees of freedom being public. Has it done anything positive for you?",
+      "textZh": "它有做过任何……让我换个方式问这个问题。在SpaceX，你，你觉得上市能让你拥有更多自由度。它有没有给你带来任何积极影响？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2249.07,
+      "textEn": "For Tesla, I mean.",
+      "textZh": "我是说对Tesla而言。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 2254.99,
+      "textEn": "Well, it did allow us to clean up our capital structure, which was overly complex as a private company and have a single class of common. So we really getting, things were getting quite unwieldy with the private company capital structure. There was obviously the capital availability in the public markets, which is a lot more than in private markets. And a car company is capital intensive. So I guess access to large amounts of capital and cleaning up what had become an extremely complex private company share structure were two major things.",
+      "textZh": "嗯，这确实让我们得以清理资本结构。作为一家私营公司，我们的资本结构过于复杂，并且得以只保留单一类别的普通股。所以我们确实……事情变得相当难以驾驭，因为私营公司的资本结构。显然，公开市场能提供的资本要比私募市场多得多。而汽车公司是资本密集型企业。所以我想，获得大量资本的渠道，以及清理已经变得极其复杂的私营公司股权结构，是两件主要的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Elon Musk",
+      "startSec": 2297.41,
+      "textEn": "Certainly it was also good to give access to the company stock to small shareholders, you know, so those are, those are good things. But you know, I think it's also been a tremendous distraction as well on the downside. So, and you know, there's just a lot of overheads, there's more time that's required to manage a public company than a private company.",
+      "textZh": "当然，让小股东能够买到公司股票也是件好事，你知道，所以这些，这些都是好事。但你知道，我认为不利的一面是，它也造成了巨大的干扰。所以，而且你知道，会有很多额外负担，管理上市公司比管理私营公司需要投入更多时间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 2325.74,
+      "textEn": "So in the past you've talked about potentially, I guess listing Starlink or doing something on the SpaceX within the public capital markets, but do you think that that's actually not something that you need to do or anticipate doing across all of your companies outside.",
+      "textZh": "所以你过去谈到过可能，我想，是让星链上市，或者让SpaceX在公开资本市场上做些什么，但你是不是认为，那其实并不是你需要做的事，或者你预计不会在你所有其他公司中这么做。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 2343.65,
+      "textEn": "I don't think it's worth going public until you have maybe an extremely stable and predictable revenue stream. So if your cash flows are extremely stable and predictable, at that point going public is less of an issue because you're just not going to have these big gyrations.",
+      "textZh": "我认为，在你拥有可能极其稳定且可预测的收入来源之前，上市并不值得。所以，如果你的现金流极其稳定且可预测，那么上市造成的问题就会小一些，因为你根本不会出现这些大幅波动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 2368.3,
+      "textEn": "So, you know, isn't that ironic?",
+      "textZh": "所以，你知道，这不是很讽刺吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 2371.46,
+      "textEn": "Like the point of the equity markets is to, is to provide like perpetual capital for capital intensive businesses. Right. And what you're describing is a business that actually doesn't really need equity capital necessarily. You could debt fund it to some degree if you have very stable cash flows.",
+      "textZh": "比如，股票市场的意义是，是为资本密集型企业提供某种永久性资本。对吧。而你描述的却是一家实际上未必真正需要股权资本的企业。如果你有非常稳定的现金流，你在一定程度上可以通过债务为它融资。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Elon Musk",
+      "startSec": 2386.27,
+      "textEn": "Right?",
+      "textZh": "对吧？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 2388.95,
+      "textEn": "I mean, I can equity or debt fund just about anything at this point.",
+      "textZh": "我是说，到这个时候，我几乎可以通过股权或债务为任何事情融资。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 2396.71,
+      "textEn": "It's worth noting that in all the companies across all the years, I've never lost money for an investor even once. And this is now over 100 financing rounds. Now of course I cannot stop people from selling when they should not sell, but I have never driven them to a bad outcome.",
+      "textZh": "值得指出的是，在所有这些公司、这么多年以来，我甚至从未有过一次让投资者亏钱的情况。而现在已经有超过100轮融资了。当然，我无法阻止人们在不该卖出的时候卖出，但我从未把他们带向糟糕的结果。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 2418.17,
+      "textEn": "So that's a pretty good batting average. And obviously when you've treated capital well, then capital treats you well in turn. And so it's almost any amount of capital, frankly. So now of course I need to make sure that traffic stays intact and not get complacent or entitled. But you know, obviously I do not have a need to raise capital. And in fact a lot of, in most cases I don't really need even for say like boring company or neuralink.",
+      "textZh": "所以这个成功率相当不错。而且显然，当你善待资本时，资本反过来也会善待你。所以坦率地说，几乎任何数额的资本都可以。所以现在，我当然需要确保流量保持完好，不能自满，也不能觉得理所当然。但你知道，显然我没有筹集资本的需求。事实上，很多时候，在大多数情况下，即使是比如无聊公司或Neuralink，我其实也不需要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 2461.39,
+      "textEn": "I mean I could just fund it myself entirely.",
+      "textZh": "我是说，我完全可以自己为它提供资金。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 2465.43,
+      "textEn": "But I think it is good to have other investors.",
+      "textZh": "但我认为有其他投资者是件好事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 2469.27,
+      "textEn": "Why even bother with outside shareholders at all? It'd be simpler to. You could take whatever risk you want without having to answer to anybody.",
+      "textZh": "那又何必找外部股东呢？要是……会更简单。你可以承担任何你想承担的风险，而不必向任何人交代。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 2480.15,
+      "textEn": "Well, I do take a lot of risks away.",
+      "textZh": "嗯，我确实消除了很多风险。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Elon Musk",
+      "startSec": 2484.39,
+      "textEn": "I don't know, I think it's good to have, I don't know, I think it's good to have other investors.",
+      "textZh": "我不知道，我认为有……是件好事，我不知道，我认为有其他投资者是件好事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 2495.15,
+      "textEn": "I mean, I think each investor you add is an ally and so it's good to have more allies.",
+      "textZh": "我是说，我认为你增加的每一位投资者都是一位盟友，所以拥有更多盟友是件好事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Elon Musk",
+      "startSec": 2506.51,
+      "textEn": "I think it also establishes that I'm not delusional in the valuation of the companies.",
+      "textZh": "我认为这也证明了，我对于这些公司的估值并不是在妄想。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 2517.24,
+      "textEn": "So if others are prepared to invest at a particular value, then.",
+      "textZh": "所以，如果其他人愿意按某个特定估值投资，那么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Elon Musk",
+      "startSec": 2524.68,
+      "textEn": "I'm not the sole decider of what the value of the company is. Others are deciding what the value of the companies are. It's sort of an outside assessment of the value of the company.",
+      "textZh": "我不是公司价值多少的唯一决定者。其他人也在决定这些公司的价值。这算是对公司价值的一种外部评估。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 2538.36,
+      "textEn": "And there is also a need to, You know, provide liquidity. So to people at the company. So I believe in providing stock to the people at the company, the employees and creators of the company. It's important to provide them stock to have the incentive be aligned with the company outcome. And then, you know, you, they various points want to gain liquidity so that you, you want to then establish an outside valuation and you know, so there's not, it's not just me deciding it and enable liquidity.",
+      "textZh": "而且也有必要，你知道，提供流动性。也就是给公司里的人。所以我相信应该给公司里的人、公司的员工和创造者提供股票。给他们股票很重要，这样他们的激励就能与公司的结果保持一致。然后，你知道，你，他们会在不同时间点想要获得流动性，因此你，你会想要确立一个外部估值，而且你知道，这样就不是，不只是由我来决定，并且能够提供流动性。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Elon Musk",
+      "startSec": 2587.12,
+      "textEn": "For those who've been awarded stock and options at the companies and generally been my approach to award everyone at the company staff, you know, at Tesla, we've awarded, we awarded everyone stock no matter how junior they were. So that actually obviously made a lot of people millionaires. I think Tesla may have created more employee millionaires than any company in history.",
+      "textZh": "给那些在这些公司获得股票和期权的人，而且我的做法通常是给公司的每个人授予，你知道，在Tesla，我们给过，我们给每个人都授予股票，无论他们的职位多么初级。所以这显然确实让很多人成了百万富翁。我认为Tesla创造的员工百万富翁可能比历史上任何公司都多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Elon Musk",
+      "startSec": 2621.1,
+      "textEn": "So I would say, like, if there's a company that's done, that's created more employee millionaires than Tesla, you know, it's, maybe there's, maybe it's, there's one or two others, but really the shared Tesla's around 140,000 people. And you know, I think we might be number one.",
+      "textZh": "所以我想说，比如，如果有哪家公司创造的员工百万富翁比 Tesla 更多，你知道，可能有，也许是，也许有1家或2家，但实际上，共享的 Tesla 大约有140,000人。而且你知道，我认为我们可能是第一名。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2642.09,
+      "textEn": "I think you are. So I'm conscious of time here and thank you so much, Elon. Frank Downing, our director of research on next generation Internet, asked Grok what questions do people want Cathie Wood to ask Elon Musk to faces? And we would be remiss if we didn't, if we didn't summarize this first and then let you take it where you'd like. And it basically said, it seems that this is Grok talking. Seems that people are eager to hear about the latest developments in AIs.",
+      "textZh": "我认为你们是。所以我很留意这里的时间，非常感谢你，埃隆。我们的下一代互联网研究主管弗兰克·唐宁问 Grok，人们希望凯茜·伍德当面问埃隆·马斯克什么问题？如果我们不，如果我们不先总结一下这些问题，然后让你按自己希望的方向展开，那就是我们的疏忽了。它基本上说，看来——这是 Grok 在说话——看来人们迫切想听到 AI 领域的最新进展。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2675.84,
+      "textEn": "I mean, in Tesla's AI technologies. We definitely are, such as FSD 12 and the next generation platform for Robo Taxi. They're also interested in learning more about the company's plans for the Optimus project. Additionally, there is a lot of curiosity surrounding Elon Musk's thought on the AI space, as well as his take on the future of Bitcoin. I guess that was a little repetitive AI there, but these topics are sure to spark some engaging discussions.",
+      "textZh": "我是说，Tesla 的 AI 技术。我们当然很想听，比如 FSD 12 和用于 Robo Taxi 的下一代平台。他们也有兴趣进一步了解公司对 Optimus 项目的计划。此外，人们也对埃隆·马斯克关于 AI 领域的看法，以及他对比特币未来的观点充满好奇。我想这里关于 AI 的内容有点重复了，但这些话题肯定会引发一些引人入胜的讨论。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2705.07,
+      "textEn": "That's Grok for you.",
+      "textZh": "这就是 Grok。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 2707.23,
+      "textEn": "Okay, well, Croc, that's pretty good.",
+      "textZh": "好吧，Croc，这相当不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2709.23,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Elon Musk",
+      "startSec": 2712.66,
+      "textEn": "So AI and I do have more time than, you know, if you would like to go longer than 15 minutes, we can go longer than 15 minutes. Great.",
+      "textZh": "所以，AI，而且我的时间确实比，你知道，如果你想聊得比15分钟更久，我们可以聊得比15分钟更久。太好了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Elon Musk",
+      "startSec": 2730.42,
+      "textEn": "I mean, I try to distill my thoughts here on AI because I could really talk four hours on AI.",
+      "textZh": "我是说，我试着在这里提炼一下我对 AI 的想法，因为关于 AI，我真的可以讲4个小时。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2734.98,
+      "textEn": "You know, both Charlie and Brett are steeped in it, so is Frank and of course Tasha. She's done our work on autonomous. But one of the things we've been very curious about is open source versus closed AI. And I don't know if you've seen the chart that Frank and Joseph did on our team, but they, they drew a line.",
+      "textZh": "你知道，查理和布雷特都深耕其中，弗兰克当然也是，还有塔莎。她负责了我们在自动驾驶方面的研究。但我们一直非常好奇的一件事，是开源 AI 与闭源 AI 之间的对比。我不知道你是否看过我们团队中弗兰克和约瑟夫制作的图表，但他们，他们画了一条线。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Cathie Wood",
+      "startSec": 2769.19,
+      "textEn": "They basically calculated performance improvements in both the closed or private AI companies and models, large language models, and then the open ones. And open is behind closed. But the steep, the performance is improving at a steeper rate than closed. Do you have any thoughts about that and about open versus closed generally when it comes to AI?",
+      "textZh": "他们基本上计算了封闭或私营AI公司和模型、大语言模型，以及那些开放模型的性能提升。开放模型落后于封闭模型。但它的，性能提升速度比封闭模型更快。关于这一点，以及就AI而言开放与封闭这两者的一般情况，你有什么看法吗？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Elon Musk",
+      "startSec": 2802.08,
+      "textEn": "Sure. Well, I mean, I think a lot of people know that, you know, I was instrumental in the creation of OpenAI and in fact I came up with the Name the opening. OpenAI means open source. Yes, and started as an open source nonprofit. And the reason I wanted to create it was to establish a counterweight to Google DeepMind because it was a unipolar world at that point Google DeepMind had probably 2/3 or more of the top AI talent and of course fast computing and financial resources.",
+      "textZh": "当然。嗯，我是说，我想很多人都知道，你知道，我在OpenAI的创立过程中发挥了关键作用，事实上，是我想出了“开端”这个名字。OpenAI意味着开源。对，而且它最初是一家开源非营利机构。我想创建它的原因，是为了建立一个抗衡Google DeepMind的力量，因为当时那是一个单极世界，Google DeepMind可能拥有2/3或更多的顶尖AI人才，当然还有高速计算能力和财务资源。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Elon Musk",
+      "startSec": 2838.54,
+      "textEn": "And at the time I was close friends with Larry Page and it did not seem to me that he was taking AI safety seriously.",
+      "textZh": "当时我和拉里·佩奇是亲密朋友，而在我看来，他似乎没有认真对待AI安全。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Elon Musk",
+      "startSec": 2847.1,
+      "textEn": "So I felt there needed to be some, like I said, some counterweight, some competitor to sort of the Google DeepMind. And frankly, instrumental in creating the company was recruiting Ilya sutzkever, which was a back and forth thing where actually Ilya changed his mind a few times and ultimately decided to come to OpenAI.",
+      "textZh": "所以我觉得需要有某种，就像我说的，某种抗衡力量，某个Google DeepMind之类的竞争对手。坦率地说，招募伊利亚·苏茨克维是创建这家公司过程中的关键，那是一个来来回回的过程，实际上伊利亚几次改变主意，最终决定加入OpenAI。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Elon Musk",
+      "startSec": 2872.95,
+      "textEn": "And so I won that recruiting battle and that is actually what caused Larry Page to stop being friends with me, frankly.",
+      "textZh": "所以我赢得了那场人才争夺战，而坦率地说，那实际上正是导致拉里·佩奇不再和我做朋友的原因。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Elon Musk",
+      "startSec": 2884.63,
+      "textEn": "But now, ironically, because Fate loves irony, OpenAI is super closed source and for maximum profit it should be renamed Closed for maximum profit. AI be more accurate. So, because that's, you know, it's literally the polar opposite of what, of how it was started.",
+      "textZh": "但现在，讽刺的是，因为命运偏爱讽刺，OpenAI是超级闭源的，而且追求利润最大化，它应该改名为“为利润最大化而封闭”。AI，这样更准确。所以，因为那，你知道，实际上与它创立时的方式完全相反。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Elon Musk",
+      "startSec": 2908.98,
+      "textEn": "I guess I generally have a bias in favor of open source and you can see that certainly with the X platform where we've open sourced the algorithm and for example, for community notes, we open source not just the algorithm, but all the data as well. So you can see exactly how a node was created. It can be audited by third parties. There's no mystery, nothing hidden at all.",
+      "textZh": "我想，总体而言我偏向于支持开源，你当然可以从X平台上看出这一点，我们已经把算法开源了，例如，对于社区笔记，我们不仅把算法开源，还把所有数据也开源了。所以你可以确切地看到一条笔记是如何创建的。它可以由第三方审计。没有任何谜团，也完全没有任何隐藏。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "ARK Panelist",
+      "startSec": 2937.71,
+      "textEn": "That's one of it seems to be one of the confusing things about open source as pertains to large language models is it's not as simple. And I think this has been lost in some of the debate as just open sourcing the code. It's open source is the shapes of gray here, of course, with parameter weights, data, there's all of that spectrum and I think that's been Maybe lost from some of the debate. So it's great to hear.",
+      "textZh": "这似乎是开源应用于大型语言模型时令人困惑的事情之一，它并没有那么简单。而且我认为，在一些争论中，这一点被忽略了，只被当作将代码开源。这里的开源存在各种灰色的形状，当然还涉及参数权重、数据等一整个范围，我认为这一点可能在一些争论中被忽略了。所以很高兴听到这些。",
+      "speakerZh": "ARK小组成员"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Elon Musk",
+      "startSec": 2957.95,
+      "textEn": "Yeah, there's actually very little code, very little actual traditional lines of software. Certainly at the inference level there's very little. It's a remarkably tiny number of lines of code. So it's just these giant, you know, weights files and you know, what your hyper parameter, you know, numbers are. And it's basically a giant comma separated value file.",
+      "textZh": "是的，实际上代码非常少，真正传统的软件代码行非常少。当然，在推理层面，代码非常少。代码行数少得惊人。所以它就只是这些巨大的，你知道，权重文件，以及你知道，你的超参数，你知道，那些数值。它基本上就是一个巨大的逗号分隔值文件。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Elon Musk",
+      "startSec": 2987.72,
+      "textEn": "So I always find it amusing to contemplate that perhaps our digital guard will be a CSV file, you know, like, and then you make a new CSV file that has maybe more weights and the weights are better and then you pretty much delete the old one. So just the AI is evolving and deleting its prior self constantly.",
+      "textZh": "所以我总觉得，设想我们的数字守卫也许会是一个CSV文件这件事很有趣，你知道，就像，然后你制作一个新的CSV文件，它可能有更多权重，而且权重更好，接着你基本上会删除旧文件。所以AI就是在不断进化，并不断删除过去的自己。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "ARK Panelist",
+      "startSec": 3018.41,
+      "textEn": "So we're going to worship a giant Excel file, essentially, kind of.",
+      "textZh": "所以从本质上说，我们将崇拜一个巨大的Excel文件，算是吧。",
+      "speakerZh": "ARK小组成员"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "Elon Musk",
+      "startSec": 3022.57,
+      "textEn": "I mean you need a very big. Yeah, it's a lot of cells, but it's really just a bunch of numbers. And then those numbers are, they're getting smaller in magnitude too, you know, going from FP16 to FB FP32 to FB16 to INT16 to INT8. And now it looks like things are trending towards mostly int4, so they're not particularly large numbers.",
+      "textZh": "我是说，你需要一个非常大的。是的，有很多单元格，但实际上就只是一堆数字。而且那些数字，它们的量级也在变小，你知道，从FP16到FB FP32，再到FB16、INT16、INT8。现在看起来趋势正朝着大部分使用int4发展，所以它们并不是特别大的数字。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Elon Musk",
+      "startSec": 3054.84,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "ARK Panelist",
+      "startSec": 3056.12,
+      "textEn": "And back to.",
+      "textZh": "再回到。",
+      "speakerZh": "ARK小组成员"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Elon Musk",
+      "startSec": 3057.56,
+      "textEn": "Yeah. I'm not sure if I'm answering, I'm probably not answering question, but I mean, it's true that closed source is not that far from a time standpoint, not that far ahead of open source.",
+      "textZh": "是的。我不确定我是否回答了，我可能没有回答这个问题，但我是说，确实，从时间角度来看，闭源并没有领先那么远，并没有比开源领先那么远。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Elon Musk",
+      "startSec": 3079.57,
+      "textEn": "But let's say, and if you assume open source you have six months because of the immense rate of improvement of AI, that six months is a, is actually a massive amount of time. I mean, or at least the delta. In a. An exponentially improving situation, six months will, I think, feel like an eternity.",
+      "textZh": "但我们假设，如果你认为开源落后6个月，那么由于AI改进速度极其迅猛，这6个月其实是一段极其漫长的时间。我是说，或者至少这个差距。在一个。呈指数级改善的情形下，我认为6个月会感觉像永恒一样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Elon Musk",
+      "startSec": 3111.1,
+      "textEn": "So I think close will outperform open by a meaningful amount at any given point in time.",
+      "textZh": "所以我认为，在任何给定时间点，封闭模型的表现都会明显优于开放模型。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "ARK Panelist",
+      "startSec": 3121.74,
+      "textEn": "And given the. I was just going to say, given the questions we were talking about before about truth and not truth and do you think in 10 years time AI will have been a net truth improver or detractor from where we are today?",
+      "textZh": "而考虑到这个。我正想说，考虑到我们之前讨论的关于真实与不真实的问题，你认为10年后，与我们今天所处的状况相比，AI总体上会增进真实，还是会损害真实？",
+      "speakerZh": "ARK小组成员"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Elon Musk",
+      "startSec": 3136.75,
+      "textEn": "I think it'll be, well, speaking for, at least for grok, I think it will be a significant truth improver.",
+      "textZh": "我认为它会，嗯，至少就Grok而言，我认为它会显著增进真实。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Elon Musk",
+      "startSec": 3146.59,
+      "textEn": "That is literally our goal is to be maximum truth seeking, maximally curious, minimizing the error between perceived reality and describe reality and actual reality, and always acknowledging the error, not being too confident about it.",
+      "textZh": "这确确实实是我们的目标，也就是最大限度地寻求真相，最大限度地保持好奇，把感知到的现实、描述现实与实际现实之间的误差降至最低，并且始终承认误差，不要对此过于自信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Elon Musk",
+      "startSec": 3169.18,
+      "textEn": "And I think there will be a competition for truth and people will tend towards the one that they think is most accurate. And if there's at least one AI that is aiming for maximum accuracy. I think it pushes all of the AIs to aim for maximum accuracy. Just as with the X platform. Fka, Twitter, as soon as X pushes for maximum truth and accuracy, it sort of forces the hand of others. The others now also have to do that.",
+      "textZh": "而且我认为会出现一场对真相的竞争，人们会倾向于他们认为最准确的那个。如果至少有一个AI以最大限度提高准确性为目标。我认为这会推动所有AI都以最大限度提高准确性为目标。就像X平台一样。前称Twitter，只要X推动最大限度地追求真相和准确性，它就会在某种程度上迫使其他人采取行动。其他人现在也不得不这么做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "ARK Panelist",
+      "startSec": 3207.47,
+      "textEn": "Right. The truth arms race among the CSVs and is, yeah, is one of the, one of our theses, I think with arc, is that Tesla is one of the most undervalued AI companies there is because of the insane amount of data you've got on all, you know, to feed into autonomous. I don't know if there's any commentary on that because I think, you know, obviously with the rise of these LLM companies which are by and large working off essentially available data that is not proprietary, the benefits coming to the companies like Tesla that understand how to use the AI benefits, but do have these enormous proprietary data pools, seems like that's going to be the next frontier.",
+      "textZh": "对。CSV之间的真相军备竞赛，而且，是的，是我们的论点之一，我想在ARK，我们认为Tesla是目前最被低估的AI公司之一，因为你们拥有数量惊人的数据，来自所有，你知道，用来输入自动驾驶系统。我不知道你对此是否有什么评论，因为我认为，你知道，显然随着这些LLM公司的崛起，它们大体上依靠的基本都是可获得的、非专有的数据，那些像Tesla这样懂得如何利用AI带来的好处、同时又确实拥有这些庞大专有数据池的公司所获得的优势，看起来那将会是下一个前沿领域。",
+      "speakerZh": "ARK小组成员"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 3246.03,
+      "textEn": "Yeah,",
+      "textZh": "是的，",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Elon Musk",
+      "startSec": 3249.95,
+      "textEn": "I think that's accurate, an accurate description.",
+      "textZh": "我认为这是准确的，是一个准确的描述。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Elon Musk",
+      "startSec": 3254.99,
+      "textEn": "Tesla is one of the leading AI companies in the world and with respect to real world AI, it is obviously by far and away the leader.",
+      "textZh": "Tesla 是世界领先的人工智能公司之一，而就现实世界人工智能而言，它显然遥遥领先。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "Elon Musk",
+      "startSec": 3263.47,
+      "textEn": "So you know, the word large language model with phrase long large language model. LLM is massively overused.",
+      "textZh": "所以你知道，“大型语言模型”这个词，还有“长大型语言模型”这个短语。LLM 被过度使用得太厉害了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "Elon Musk",
+      "startSec": 3273.16,
+      "textEn": "But what I do see happening is somewhat of a convergence towards intelligence.",
+      "textZh": "但我确实看到正在发生的是，在某种程度上向智能趋同。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "Elon Musk",
+      "startSec": 3283.32,
+      "textEn": "You know, Tesla, like really to make full self driving work, you kind of need baby AGI in the car because you need to understand reality and reality is messy and complicated. And just as a side effect, the car AI has to be able to read, for example, it has to be able to read arbitrary science as a little side effect of understanding reality in every language.",
+      "textZh": "你知道，Tesla，要真正让完全自动驾驶发挥作用，你多少需要在车里有一个婴儿级 AGI，因为你需要理解现实，而现实是混乱且复杂的。而且作为一个附带结果，汽车 AI 必须能够阅读，例如，它必须能够阅读任意科学内容，这是用每一种语言理解现实的一个小小附带结果。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0185",
+      "speakerEn": "Elon Musk",
+      "startSec": 3318.76,
+      "textEn": "So you know, everything is coming down to, you know, different layers of transformers and diffusion and how you put together the transformers and the diffusion.",
+      "textZh": "所以你知道，一切都归结为，你知道，不同层的 Transformer 和扩散，以及你如何把 Transformer 和扩散组合起来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "Elon Musk",
+      "startSec": 3335.4,
+      "textEn": "That's right, I sort of made that somewhat niche AI joke on the X platform. Who do you think will be president in 2032? Transformers or diffusion?",
+      "textZh": "没错，我算是在 X 平台上开了那个有点小众的 AI 玩笑。你认为 2032 年谁会当总统？Transformer 还是扩散？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 3346.45,
+      "textEn": "Do you think that switching to full stack AI for Tesla's full self driving reduces the kind of forecast error for you in terms of when the problem will be solved? As in you famously have said it's a year away for a few years now. Do you think that actually line of sight, wherever it ends up, you'll have a better line of sight on when you're going to cross a particular threshold of performance where it can go without human intervention?",
+      "textZh": "你认为，Tesla 的完全自动驾驶转向全栈 AI，会减少你对于这个问题何时能得到解决的那种预测误差吗？也就是说，众所周知，你这几年一直说它还差 1 年。你认为，对于无论它最终落在何处，你实际上都能更清楚地看到，何时会跨过某个性能门槛，使它可以在没有人为干预的情况下行驶吗？",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0188",
+      "speakerEn": "Elon Musk",
+      "startSec": 3380.16,
+      "textEn": "Yeah, I mean the car is already incredibly good at driving itself. So now especially if you say like okay, drive in California, which is, you know, both generally easy driving because you don't have heavy rain and snow and that kind of thing in most parts of California. And Tesla engineering is primarily in California. So you're going to get. It's going to overfit for solving California. But if you're just driving say around Palo Alto, the probability that you'll need an intervention at this point is incredibly low.",
+      "textZh": "是的，我是说，这辆车自己驾驶已经好得令人难以置信了。所以现在尤其是，如果你说，好吧，在加利福尼亚州开车，这个地方，你知道，总体上驾驶起来很容易，因为加利福尼亚州大部分地区没有大雨和降雪之类的情况。而且 Tesla 的工程工作主要在加利福尼亚州。所以你会得到。它会对解决加利福尼亚州的问题产生过拟合。但如果你只是在帕洛阿尔托一带开车，那么此时需要你干预的概率低得令人难以置信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "Elon Musk",
+      "startSec": 3419.53,
+      "textEn": "In fact, even if you're driving through San Francisco, the probability of an intervention at this point is very low. So we're really just going through a march of nines. Like how many nines of reliability do you need before somebody does not need to monitor the system?",
+      "textZh": "事实上，即使你开车穿过旧金山，此时需要干预的概率也非常低。所以我们实际上只是在经历一个不断增加 9 的过程。要达到多少个 9 的可靠性，才不需要有人监控系统？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "Cathie Wood",
+      "startSec": 3437.85,
+      "textEn": "You know, it's so interesting GM basically shutting down crews. Tasha has done the work on safety and it seems that Tesla with FSD has an accident once every 3.2 million miles. At Tesla without FSD, 600,000 miles. The average vehicle on the road, I think this is surface streets, 190,000 and cruise was 40,000. So there really was a safety issue there. Do you worry that it has potentially set back regulators, you know, from, from considering autonomous transportation?",
+      "textZh": "你知道，这太有意思了，通用汽车基本上关闭了工作人员。塔莎做了安全方面的研究，看起来 Tesla 使用 FSD 时，每行驶 320 万英里发生 1 次事故。Tesla 不使用 FSD 时，是 60 万英里。道路上的平均车辆，我认为这是指地面街道，是 19 万英里，而工作人员是 4 万英里。所以那里确实存在安全问题。你是否担心，这可能会阻碍监管机构考虑自动驾驶交通，你知道？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0191",
+      "speakerEn": "Cathie Wood",
+      "startSec": 3483.94,
+      "textEn": "Or is this data, given that accidents on the streets have gone up in the last 10 years fairly dramatically, actually, because of text?",
+      "textZh": "或者，这些数据，鉴于过去 10 年街道上的事故实际上相当显著地增加了，是因为短信吗？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "Elon Musk",
+      "startSec": 3495.06,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0193",
+      "speakerEn": "Cathie Wood",
+      "startSec": 3495.62,
+      "textEn": "Do you. Yeah. Do you think that regulators are going to look at the data which, I mean, we've done the research, Tasha's done the research on, on this and is pretty compelling?",
+      "textZh": "你认为。是的。你认为监管机构会查看这些数据吗？我是说，我们做过研究，塔莎对这方面做过研究，而且相当有说服力？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0194",
+      "speakerEn": "Elon Musk",
+      "startSec": 3510.83,
+      "textEn": "Well, you know, our regulator in the US is the enforcement division of nhtsa, for whom I actually have a lot of respect. I think those guys are, they really have.",
+      "textZh": "嗯，你知道，我们在美国的监管机构是 NHTSA 的执法部门，我实际上非常尊重他们。我认为那些人，他们确实有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0195",
+      "speakerEn": "Elon Musk",
+      "startSec": 3526.51,
+      "textEn": "I mean, they're quite. I think actually my experience thus far have been quite sensible.",
+      "textZh": "我是说，他们相当。我认为实际上，到目前为止，根据我的经验，他们一直相当通情达理。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0196",
+      "speakerEn": "Elon Musk",
+      "startSec": 3532.62,
+      "textEn": "You know, that that doesn't mean that there aren't silly things that happen from time to time, but they've really been quite sensible because they see the actual truth of the accidents and they see the fact that they're on the order of 40,000 people killed every year in motor vehicle accidents. And so they actually do care about the safety statistics and they do recognize that you, like, there's always going to be some risk with cars and they're well aware of the fact that, that our cars are much safer than other vehicles.",
+      "textZh": "你知道，这并不意味着不会时不时发生一些愚蠢的事情，但他们确实一直相当明智，因为他们看到了事故的实际真相，也看到了这样一个事实：每年大约有40,000人死于机动车事故。所以他们确实关心安全统计数据，也确实认识到，你，像是，汽车始终会有某种风险，而且他们非常清楚，我们的汽车比其他车辆安全得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0197",
+      "speakerEn": "Elon Musk",
+      "startSec": 3573.23,
+      "textEn": "So, you know, we really, I mean, there have been a few things where, you know, maybe we have had some disgrace, but you know, like, like for example, coming to an absolute full stop at stop streets, even when the, you know, it's very clear there are no cars anywhere in sight that could possibly cause an impact. No, no, no cars no pedestrians completely clear and, and actually almost no humans stop at stop streets, at stop signs.",
+      "textZh": "所以，你知道，我们确实，我是说，有几件事，你知道，也许我们有过一些丢脸的地方，但你知道，比如，比如说，在停车标志处绝对完全停下来，即便，你知道，很明显，视野范围内根本没有任何可能造成碰撞的车辆。没有，没有，没有车辆，没有行人，完全没有障碍，而且，而且实际上几乎没有人会在停车街道、停车标志处停下来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0198",
+      "speakerEn": "Elon Musk",
+      "startSec": 3604.78,
+      "textEn": "Almost no humans actually come to a full stop. They're typically, they may think they came to a full stop, but typically they'll be going at least a few miles an hour.",
+      "textZh": "几乎没有人真的会完全停下来。他们通常，他们可能以为自己完全停下来了，但通常仍会以至少每小时几英里的速度行驶。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0199",
+      "speakerEn": "Elon Musk",
+      "startSec": 3612.37,
+      "textEn": "So like, you know, they said, well the law does say that you have to stop at a stop street. Well, even though no, almost no humans do. So that actually created a bit of a challenge for us because we had to select the rare cases where from the fleet where humans actually stopped at stop streets at stop signs.",
+      "textZh": "所以，比如，你知道，他们说，嗯，法律确实规定你必须在停车街道上停车。嗯，尽管不，几乎没有人这样做。所以这其实给我们带来了一点挑战，因为我们不得不从车队中筛选出那些人类确实会在停车街道、在停车标志前停车的罕见案例。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0200",
+      "speakerEn": "Elon Musk",
+      "startSec": 3633.49,
+      "textEn": "So and then actually get our QA team to stop at soft streets and then overfit the stopping, stopping at stop signs in order to get the car to stop at stop signs because it was trying to behave like a sort of good normal human driver who does not stop at stop signs. So you know, we had a disagreement there on this, but we ultimately, you know, have made the car stop at stop signs even though it's a little annoying.",
+      "textZh": "所以，然后实际上还要让我们的质量保证团队在软街道上停车，接着对停车、在停车标志前停车进行过拟合，以便让汽车在停车标志前停下来，因为它当时试图表现得像某种正常的好人类驾驶员，而这种驾驶员不会在停车标志前停车。所以你知道，我们在这件事上存在分歧，但最终，你知道，我们还是让汽车在停车标志前停下来了，尽管这有点烦人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0201",
+      "speakerEn": "Elon Musk",
+      "startSec": 3667.2,
+      "textEn": "So but you know, overwhelmingly, you know, one of the things the media will try to create is that I'm some sort of law breaking maverick who just does what he wants and doesn't care about legal matters. This is actually not true. Of the literally millions of laws that I am subject to and my companies are subject to, there are a handful over the years that we have disagreed with almost, but the vast majority, 99 point I don't know, 9% of laws and regulations we do abide by and we do agree with.",
+      "textZh": "所以，但是你知道，媒体会试图营造的一种形象，压倒性地说，就是我是某种违法乱纪的特立独行者，只做自己想做的事，根本不在乎法律事务。这其实不是真的。在我和我的公司受到约束的、不夸张地说数百万条法律中，多年来只有屈指可数的几条是我们几乎不同意的，但绝大多数，99点我不知道，9%的法律法规，我们都会遵守，而且也认同。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0202",
+      "speakerEn": "Elon Musk",
+      "startSec": 3700.81,
+      "textEn": "Well, maybe, maybe don't agree with. We certainly abide by. You know, there's once in a while there's a disagreement, but it's, it's really minor and, but if you sum up the disagreements across over the, you know, 20 years, it can just sound like a lot, but in fact my companies are incredibly law abiding. So that's the natural truth of it anyway.",
+      "textZh": "嗯，也许，也许并不认同。我们当然会遵守。你知道，偶尔会有分歧，但那，那确实很小，而且，但是如果你把过去，你知道，20年间的分歧加起来，听上去可能就会很多，但实际上我的公司都极其守法。所以不管怎样，这就是事情本来的真相。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0203",
+      "speakerEn": "Elon Musk",
+      "startSec": 3730.39,
+      "textEn": "I think it'll be fine from a regulatory standpoint when we can show that even completely without supervision, there is a massive statistical case for self driving being actually safer than if someone had their hands on the wheel or was even potentially having their hands on the wheel, then I think the regulators will accept that.",
+      "textZh": "我认为从监管角度看不会有问题，只要我们能够证明，即便完全没有监督，也有充分的大规模统计依据表明，自动驾驶实际上比有人把手放在方向盘上，甚至只是有可能把手放在方向盘上更加安全，那么我认为监管机构会接受这一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0204",
+      "speakerEn": "Cathie Wood",
+      "startSec": 3754.77,
+      "textEn": "You know, it's been really interesting as AI, we were watching the breakthroughs, as everybody has in AI and we had agreed with you. Our original research had autonomous mobility in pretty much full force. This was our original research by now. But if we didn't have the breakthroughs in AI that we've seen particularly transformer architecture, it wouldn't have been possible. Right, but we didn't know that. Is that how you're viewing it now?",
+      "textZh": "你知道，这真的很有意思，随着人工智能的发展，我们一直在关注那些突破，就像所有人都在关注人工智能的突破一样，而且我们一直赞同你的观点。我们最初的研究认为，到现在，自主移动出行应该已经几乎全面铺开了。这是我们最初的研究。但如果没有我们已经看到的人工智能突破，尤其是 Transformer 架构，这就不可能实现。对吧，但我们当时并不知道。你现在也是这样看的吗？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0205",
+      "speakerEn": "Elon Musk",
+      "startSec": 3795.42,
+      "textEn": "Well, it's certainly true that transformers are transformational.",
+      "textZh": "嗯，Transformer 确实具有变革性。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0206",
+      "speakerEn": "Cathie Wood",
+      "startSec": 3799.35,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0207",
+      "speakerEn": "Elon Musk",
+      "startSec": 3801.11,
+      "textEn": "So, you know, pretty much everyone's using transformers and it's really. Just how many transformers, what kind of transformers are you using? Auto aggressive transformers, which are very memory bandwidth intensive.",
+      "textZh": "所以，你知道，几乎所有人都在使用 Transformer，而真正的问题是。到底有多少个 Transformer，你使用的是哪种 Transformer？自动攻击型 Transformer，这种 Transformer 对内存带宽的要求非常高。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0208",
+      "speakerEn": "Elon Musk",
+      "startSec": 3820.47,
+      "textEn": "You know, there's. But I think you really. I'm not sure you can really do AI without transformers in a meaningful way. Diffusion is also very important.",
+      "textZh": "你知道，有这么回事。但我认为你确实。我不确定在没有 Transformer 的情况下，你是否真的能以有意义的方式做人工智能。扩散也非常重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0209",
+      "speakerEn": "Elon Musk",
+      "startSec": 3832.71,
+      "textEn": "So I mean, it just really looks like AGI is some combination of transformers and diffusion.",
+      "textZh": "所以我的意思是，看起来 AGI 确实就是 Transformer 与扩散的某种组合。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0210",
+      "speakerEn": "ARK Panelist",
+      "startSec": 3842.15,
+      "textEn": "That's interesting. Does diffusion help Elon, in the things that transformers are not necessarily that good at yet, like planning and remembering rather than sort of a current state?",
+      "textZh": "这很有意思。埃隆，在 Transformer 目前不一定很擅长的事情上，比如规划和记忆，而不是某种当前状态，扩散是否会有所帮助？",
+      "speakerZh": "ARK 小组嘉宾"
+    },
+    {
+      "id": "p-0211",
+      "speakerEn": "Elon Musk",
+      "startSec": 3857.36,
+      "textEn": "I think transformers are important for all aspects of AI.",
+      "textZh": "我认为 Transformer 对人工智能的各个方面都很重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0212",
+      "speakerEn": "Elon Musk",
+      "startSec": 3863.2,
+      "textEn": "Yeah, I mean computers are very good at remembering things.",
+      "textZh": "是的，我的意思是，计算机非常善于记住事物。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0213",
+      "speakerEn": "Elon Musk",
+      "startSec": 3867.92,
+      "textEn": "Your phone remembers the video that you took down to the last pixel, whereas most humans cannot remember who they met last week.",
+      "textZh": "你的手机能把你拍摄的视频记到最后一个像素，而大多数人却记不住自己上周见过谁。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0214",
+      "speakerEn": "Elon Musk",
+      "startSec": 3878.32,
+      "textEn": "So memory is the easy. I mean, we've already outsourced memory to computers in that, like you say, how much of human knowledge is in digital form versus in contained in human neurons. It's overwhelmingly in silicon rather than biological neurons.",
+      "textZh": "所以记忆是容易的。我的意思是，我们已经把记忆外包给了计算机，就此而言，比如你说，人类知识有多少是以数字形式存在的，相比之下又有多少包含在人类神经元中。绝大多数都存在于硅中，而不是生物神经元中。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0215",
+      "speakerEn": "Elon Musk",
+      "startSec": 3908.89,
+      "textEn": "Right. So I mean, and there are these. I mean, I think it's always, you know, it's good to think of",
+      "textZh": "对。所以我的意思是，而且还有这些。我的意思是，我认为始终，你知道，去思考是有好处的",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0216",
+      "speakerEn": "ARK Panelist",
+      "startSec": 3919.13,
+      "textEn": "like",
+      "textZh": "比如",
+      "speakerZh": "ARK 小组嘉宾"
+    },
+    {
+      "id": "p-0217",
+      "speakerEn": "Elon Musk",
+      "startSec": 3919.41,
+      "textEn": "if I try to consider what are the most fundamental ratios.",
+      "textZh": "如果我试着思考最基本的比率是什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0218",
+      "speakerEn": "Elon Musk",
+      "startSec": 3923.61,
+      "textEn": "This is like in physics, you always think about trying to looking at fundamental ratios and some of the, you know, one of the fundamental ratios is the ratio of digital to biological components. Compute.",
+      "textZh": "这就像在物理学中，你总是会考虑尝试观察基本比率，而其中一些，你知道，其中一个基本比率就是数字组件与生物组件的比率。算力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0219",
+      "speakerEn": "Elon Musk",
+      "startSec": 3936.72,
+      "textEn": "Just, you know, just, just in raw compute and, and how much. And the ratio of digital memory to biological memory. So, you know, at what point it like, I think at this point, I think we're probably over 99% of all memory is digital as opposed to biological. So you've got over, I think over a hundred digital to biological ratio and memory at this point trending towards 1000 in many orders of magnitude. Beyond that, then you've got the digital to biological compute ratio.",
+      "textZh": "只是，你知道，只是，只是就原始算力而言，以及，以及有多少。还有数字记忆与生物记忆的比率。所以，你知道，到什么程度，比如，我认为就目前而言，我想所有记忆中可能超过99%是数字记忆，而不是生物记忆。所以目前数字记忆与生物记忆的比率已经超过，我想超过100，并且正朝着1000发展，再往后还有许多个数量级。除此之外，还有数字算力与生物算力的比率。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0220",
+      "speakerEn": "Elon Musk",
+      "startSec": 3977.13,
+      "textEn": "And since the number of humans is more or less constant, I'm worried about humans declining quite significantly in the years to come because the birth rate is so low.",
+      "textZh": "而且由于人类数量或多或少保持不变，我担心未来几年人类数量会大幅下降，因为出生率太低了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0221",
+      "speakerEn": "Elon Musk",
+      "startSec": 3990.06,
+      "textEn": "But you know, so human human computers, more or less, it looks like a flat line versus time, whereas the digital compute is exponential.",
+      "textZh": "但是你知道，所以人类人类计算机，或多或少，看起来随着时间推移是一条平线，而数字算力则呈指数增长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0222",
+      "speakerEn": "ARK Panelist",
+      "startSec": 4000.7,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "ARK小组成员"
+    },
+    {
+      "id": "p-0223",
+      "speakerEn": "Elon Musk",
+      "startSec": 4003.34,
+      "textEn": "And you know, at some point it's that that will also be above 100, meaning more than 99% of all compute will be digital instead of biological. Right. And if we're not there already, we will be within a year or two.",
+      "textZh": "而且你知道，在某个时刻，那个比率也会超过100，这意味着所有算力中超过99%将是数字算力，而不是生物算力。对吧。如果我们还没有达到，那么在1年或2年内就会达到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0224",
+      "speakerEn": "ARK Panelist",
+      "startSec": 4023.77,
+      "textEn": "Although it is amazing how much data biology can store, I reckon. I believe it's estimated that a gram of dried DNA can store between 4 and 500 exabytes. So maybe there's still things to learn from biology. But.",
+      "textZh": "不过，生物能够存储的数据量之大确实令人惊叹，我觉得。据估计，1克干燥的DNA可以存储4到500艾字节的数据。所以，也许仍有一些东西可以向生物学习。但是。",
+      "speakerZh": "ARK小组成员"
+    },
+    {
+      "id": "p-0225",
+      "speakerEn": "Elon Musk",
+      "startSec": 4037.81,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0226",
+      "speakerEn": "ARK Panelist",
+      "startSec": 4038.41,
+      "textEn": "Incredible. The pace of change.",
+      "textZh": "不可思议。变化的速度。",
+      "speakerZh": "ARK小组成员"
+    },
+    {
+      "id": "p-0227",
+      "speakerEn": "Elon Musk",
+      "startSec": 4040.33,
+      "textEn": "Yeah. I mean, if you encode memories in DNA like a ticker tape, then the DNA memory potential is immense.",
+      "textZh": "是的。我的意思是，如果你像纸带那样把记忆编码进DNA，那么DNA的记忆潜力是巨大的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0228",
+      "speakerEn": "Elon Musk",
+      "startSec": 4050.2,
+      "textEn": "But I'm not sure that's actually what's happening. Or if it is, it's. I don't know. I'm not sure why my memory is so terrible.",
+      "textZh": "但我不确定实际发生的真是这种情况。或者如果是的话，它是。我不知道。我不确定为什么我的记忆力这么糟糕。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0229",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 4060.92,
+      "textEn": "But actually, I mean, your memory in terms of the raw details, like, you have an amazing search function. Right.",
+      "textZh": "但实际上，我的意思是，就原始细节方面的记忆而言，比如说，你拥有一种惊人的搜索功能。对吧。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0230",
+      "speakerEn": "Elon Musk",
+      "startSec": 4066.32,
+      "textEn": "For human.",
+      "textZh": "对人类而言。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0231",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 4066.92,
+      "textEn": "It's kind of like. Yeah, well, for any. I mean, I would argue kind of in some ways, like the transformer architecture enables effective search of a very, very broad amount of data.",
+      "textZh": "这有点像。是的，嗯，对任何。我的意思是，我会说，从某些方面来看，有点像Transformer架构能够对极其广泛的数据进行有效搜索。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0232",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 4083.989,
+      "textEn": "Or it's like data compression. It seems like the. Yes, we have. There's many more, like data bytes encoded or gigabytes encoded in disk. But actually being able to effectively search that space is pretty still primitive, with compute at least at large scale relative to humans ability to access information.",
+      "textZh": "或者它就像数据压缩。看起来像是那个。是的，我们有。磁盘中编码的数据字节或千兆字节要多得多。但是，相对于人类获取信息的能力，真正能够有效搜索那个空间的计算能力仍然相当原始，至少在大规模情况下是这样。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0233",
+      "speakerEn": "ARK Panelist",
+      "startSec": 4106.639,
+      "textEn": "No,",
+      "textZh": "不，",
+      "speakerZh": "ARK小组成员"
+    },
+    {
+      "id": "p-0234",
+      "speakerEn": "Elon Musk",
+      "startSec": 4109.839,
+      "textEn": "I mean, there's still some things that humans do better than computers.",
+      "textZh": "我的意思是，仍有一些事情人类比计算机做得更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0235",
+      "speakerEn": "Elon Musk",
+      "startSec": 4113.999,
+      "textEn": "I mean, if you say, like, computers have not yet discovered any fundamental physics, but humans have discovered a lot of fundamental physics. The computers have not yet invented a useful technology. Humans have invented many useful technologies.",
+      "textZh": "我的意思是，如果你说，比如，计算机还没有发现任何基础物理学，但人类已经发现了大量基础物理学。计算机还没有发明过一种有用的技术。人类已经发明了许多有用的技术。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0236",
+      "speakerEn": "Elon Musk",
+      "startSec": 4134.829,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0237",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 4140.028,
+      "textEn": "Do you ascribe to the notion that essentially training AI systems on language is not enough and that you have to have some kind of embodied source of data, like through an optimist robot, to actually get kind of the raw learning in that AI system would need to understand fundamental physics.",
+      "textZh": "你是否认同这样一种观点：从本质上说，仅仅用语言训练AI系统是不够的，你必须拥有某种具身的数据来源，比如通过一个乐观主义者机器人，才能真正获得AI系统理解基础物理学所需的那种原始学习。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0238",
+      "speakerEn": "Elon Musk",
+      "startSec": 4167.709,
+      "textEn": "Yeah, so that's what I think is coming.",
+      "textZh": "是的，所以我认为这就是即将发生的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0239",
+      "speakerEn": "Elon Musk",
+      "startSec": 4171.389,
+      "textEn": "I think what's coming is AI understanding fundamental physics and AI inventing new technologies.",
+      "textZh": "我认为即将发生的是AI理解基础物理学，以及AI发明新技术。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0240",
+      "speakerEn": "ARK Panelist",
+      "startSec": 4185.51,
+      "textEn": "It definitely, definitely feels like rather, even though some things now apparently pass the Turing test, most importantly passing the Moneypenny Test, as in, can an AI actually pay bills, do expense reports to the extent James Bond did those, and actually pay parking fines and things like that,",
+      "textZh": "这确实，确实感觉像是，尽管现在有些东西显然通过了图灵测试，但最重要的是通过钱班霓测试，也就是，AI能否真的支付账单、制作费用报告——就詹姆斯·邦德做过这些事情而言——并且真正缴纳停车罚款之类的，",
+      "speakerZh": "ARK小组成员"
+    },
+    {
+      "id": "p-0241",
+      "speakerEn": "Elon Musk",
+      "startSec": 4201.63,
+      "textEn": "that would actually be a very good",
+      "textZh": "那实际上会是一个非常好的",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0242",
+      "speakerEn": "ARK Panelist",
+      "startSec": 4202.75,
+      "textEn": "use of AI that I think would have a lot of users immediately. And maybe the. The Billy Connolly test of can an AI actually be consistently funny? Those feel like they're a long way out.",
+      "textZh": "我认为会立即拥有大量用户的 AI 用途。还有也许那个。比利·康诺利测试，也就是 AI 能否真的始终都很幽默？那些感觉还很遥远。",
+      "speakerZh": "ARK 小组成员"
+    },
+    {
+      "id": "p-0243",
+      "speakerEn": "Elon Musk",
+      "startSec": 4213.54,
+      "textEn": "Grok is pretty funny.",
+      "textZh": "Grok 挺幽默的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0244",
+      "speakerEn": "ARK Panelist",
+      "startSec": 4215.78,
+      "textEn": "That's fair.",
+      "textZh": "这倒也是。",
+      "speakerZh": "ARK 小组成员"
+    },
+    {
+      "id": "p-0245",
+      "speakerEn": "Elon Musk",
+      "startSec": 4217.62,
+      "textEn": "I think one of our goals for Grok is to be the funniest AI.",
+      "textZh": "我认为我们对 Grok 的目标之一，是让它成为最幽默的 AI。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0246",
+      "speakerEn": "Elon Musk",
+      "startSec": 4222.66,
+      "textEn": "So, I mean, if you ask Grok to provide a vulgar roast, it's really good.",
+      "textZh": "所以，我的意思是，如果你让 Grok 来一段粗俗的吐槽，它真的很在行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0247",
+      "speakerEn": "ARK Panelist",
+      "startSec": 4231.94,
+      "textEn": "Speaking of grok, to not let down our future AI overlords, the final question on the GROK summary that Kathy touched on was the future of Bitcoin. Not sure if we want to touch on that or not, or whether that's out of scope.",
+      "textZh": "说到 Grok，为了不让我们未来的 AI 霸主失望，凯茜刚才提到的 GROK 总结中的最后一个问题，是比特币的未来。不确定我们是否想谈谈这个，也不确定这是否超出范围。",
+      "speakerZh": "ARK 小组成员"
+    },
+    {
+      "id": "p-0248",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4243.89,
+      "textEn": "That. And then just before, I don't know if we're wrapping up here, but I'd love to talk about Bitcoin and your view of crypto assets and then maybe back into kind of tying things up with convergences among technologies. You mentioned that a little earlier, Elon, and the impact ultimately of all of this on economic growth longer term, you know, the surprises that might come from there. But first, first Bitcoin.",
+      "textZh": "那个。然后就在结束之前，我不知道我们是不是要在这里收尾了，但我很想谈谈比特币以及你对加密资产的看法，然后也许再回过头，用各种技术之间的融合来作个总结。埃隆，你刚才稍早提到了一点，还有这一切最终对长期经济增长的影响，你知道，那里可能会出现的意外情况。不过首先，先说比特币。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0249",
+      "speakerEn": "Elon Musk",
+      "startSec": 4279.39,
+      "textEn": "Okay,",
+      "textZh": "好的，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0250",
+      "speakerEn": "ARK Panelist",
+      "startSec": 4283.15,
+      "textEn": "sure.",
+      "textZh": "当然。",
+      "speakerZh": "ARK 小组成员"
+    },
+    {
+      "id": "p-0251",
+      "speakerEn": "Elon Musk",
+      "startSec": 4283.79,
+      "textEn": "What's the question regarding?",
+      "textZh": "问题是关于什么的？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0252",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4286.51,
+      "textEn": "You know, there's.",
+      "textZh": "你知道，有。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0253",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4289.32,
+      "textEn": "When we first, when you put it, or Tesla put it on its balance sheet, there was, I remember afterwards there was this backlash in terms of its economic impact, all of the energy usage and so forth. And then, and then as part of the seminar that we did that you participated in, Elon Musk, we basically and Block had come up with this notion that, wait, you put bitcoin mining into a utility ecosystem so that, you know, if there's a storage unit and, you know, the intermittent energy, you know, the storage unit's full sun is still shining, the excess power goes over to bitcoin and, and you can mint bitcoin and over build solar and wind and renewables and all of that.",
+      "textZh": "当我们最初，当你把它，或者 Tesla 把它放到资产负债表上时，我记得后来出现了这种反弹，涉及它的经济影响、所有的能源消耗等等。然后，然后作为我们举办且你参与的那场研讨会的一部分，埃隆·马斯克，我们基本上和 Block 提出了这样一种想法：等一下，把比特币挖矿纳入公用事业生态系统，这样的话，你知道，如果有一个储能装置，而且，你知道，间歇性能源，你知道，储能装置已经充满了，太阳还在照耀，多余的电力就会流向比特币，然后，然后你可以铸造比特币，并超额建设太阳能、风能和可再生能源以及所有这些。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0254",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4350.5,
+      "textEn": "So that argument against bitcoin, and Larry Fink himself used it quite vociferously for a long time until recently, that is going away. What do you think about Bitcoin's potential impact on the financial system, the monetary, Monetary system, financial services generally?",
+      "textZh": "所以那种反对比特币的论点，拉里·芬克本人也曾长期非常激烈地使用它，直到最近，这种论点正在消失。你怎么看比特币对金融体系、货币，货币体系以及总体金融服务的潜在影响？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0255",
+      "speakerEn": "Elon Musk",
+      "startSec": 4383.37,
+      "textEn": "Well, I have to say I don't spend a lot of time thinking about cryptocurrency. Hardly any at all.",
+      "textZh": "嗯，我必须说，我没有花很多时间思考加密货币。几乎完全没有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0256",
+      "speakerEn": "Elon Musk",
+      "startSec": 4391.77,
+      "textEn": "I have thought for a long time about money and the nature of money. What is money? And, you know, it's really a database for resource allocation is the way to think about money, in my view.",
+      "textZh": "我长期以来一直在思考货币以及货币的本质。什么是货币？而且，你知道，在我看来，思考货币的方式是，它实际上是一个用于资源分配的数据库。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0257",
+      "speakerEn": "Elon Musk",
+      "startSec": 4404.7,
+      "textEn": "So now fiat currency is actually fine as a database for resource allocation if you have a predictable money supply and it doesn't, you know, it doesn't get inflated or deflated too much if it's rules based.",
+      "textZh": "所以现在，如果货币供应可以预测，而且不会，你知道，不会通胀或通缩得太厉害，如果它是基于规则的，那么法定货币作为资源分配数据库其实没问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0258",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4420.38,
+      "textEn": "Rules based on.",
+      "textZh": "规则基于。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0259",
+      "speakerEn": "Elon Musk",
+      "startSec": 4422.71,
+      "textEn": "If it's rules based and provided government does not too much abuse their privilege to create more money. Some amount of abuse almost is guaranteed to happen, but can go too far.",
+      "textZh": "如果它是基于规则的，并且政府不过度滥用其创造更多货币的特权。某种程度的滥用几乎必然会发生，但也可能走得太远。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0260",
+      "speakerEn": "Elon Musk",
+      "startSec": 4440.63,
+      "textEn": "So the temptation over the ages to debase money goes back to probably the ancient Sumerians. But at the point which money was invented in any form, including in gold, there was the unavoidable temptation to deviate the money supply.",
+      "textZh": "所以，历代让货币贬值的诱惑大概可以追溯到古代苏美尔人。但从货币以任何形式被发明出来的那一刻起，包括黄金在内，就存在着让货币供应偏离正轨的不可避免的诱惑。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0261",
+      "speakerEn": "Elon Musk",
+      "startSec": 4465.78,
+      "textEn": "So when you think of any given money system, again, I sort of apply information theory to a money problem. Just think of it like it's an information system. You want to minimize noise, minimize latency, minimize packet loss.",
+      "textZh": "所以，当你思考任何一种特定的货币体系时，我还是会把信息论应用到货币问题上。就把它看作一个信息系统。你要尽量减少噪声、尽量降低延迟、尽量减少丢包。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0262",
+      "speakerEn": "Elon Musk",
+      "startSec": 4486.65,
+      "textEn": "And so any like inflation would be adding noise to the system.",
+      "textZh": "因此，任何类似通胀的情况都会给系统增加噪声。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0263",
+      "speakerEn": "Elon Musk",
+      "startSec": 4494.65,
+      "textEn": "If the transaction rate, if what it takes to conclude a transaction is a long time, that adds latency to the system. You know, fraud is kind of like packet loss, you know.",
+      "textZh": "如果交易速率，如果完成一笔交易需要很长时间，那就会给系统增加延迟。你知道，欺诈有点像丢包，你知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0264",
+      "speakerEn": "Elon Musk",
+      "startSec": 4510.62,
+      "textEn": "So I guess I kind of think of money like I think of information moving on a network bandwidth latency judder, which is the variance in latency, packet loss, those fundamental elements.",
+      "textZh": "所以我想，我有点像思考信息在网络上传输那样思考货币：带宽、延迟、抖动，也就是延迟的方差、丢包，这些基本要素。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0265",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4533.92,
+      "textEn": "Yeah, it's been interesting to watch how human beings, in this case the Fed, you know, the words they say whip around markets and there's just something not right about that. I mean that's, that's my point of view. I think our point of view certainly on, on the crypto team and you know, Art Laffer, who was my professor in school, he's supply side, you know, Austrian School of Economics, you know, when he first, he collaborated on our first bitcoin paper in 2015 and after he got through reading it, he said, you know, I've been waiting for this since they closed the gold window in 1971, I've been waiting for a rules, a new rules based global monetary system.",
+      "textZh": "是的，观察人类是如何行动的一直很有意思，在这里指的是美联储，你知道，他们说的话会让市场剧烈波动，这里面就是有些不对劲。我的意思是，那是，那是我的观点。我认为，这当然也是我们在，在加密货币团队里的观点，而且你知道，阿特·拉弗是我上学时的教授，他是供给学派的，你知道，奥地利经济学派，你知道，当他第一次，他参与撰写了我们2015年的第一篇比特币论文，在读完之后，他说，你知道，自从他们在1971年关闭黄金兑换窗口以来，我就一直在等这个，我一直在等待一个规则，一个新的基于规则的全球货币体系。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0266",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4590.55,
+      "textEn": "And I think that's where our optimism comes from. This is truly rules based. And so he's gotten more and more excited about it, the more he's learned about it. So, you know, anyway, back to convergence though. And you're the maestro here. You know, when I think of, when we think of autonomous taxi platforms, robotaxi networks and so forth, that's the convergence of three of the major platforms around which we have centered our research.",
+      "textZh": "我认为我们的乐观正源于此。这确实是基于规则的。因此，他对它了解得越多，就对它越来越兴奋。所以，你知道，不管怎样，还是回到融合这个话题。而你是这里的大师。你知道，当我想到，当我们想到自动驾驶出租车平台、无人驾驶出租车网络等等时，那就是我们研究所围绕的3个主要平台的融合。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0267",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4627.96,
+      "textEn": "Robotics, energy storage and artificial intelligence. Each one of those technologies basically gearing up for or in the, in the sweet spot of a, of the S curve. And I, I sort of think it of S curves feeding S curves and creating the potential for explosive growth that no one is expecting. And, and Brett has just written a paper, it should come out in the next few weeks around this topic.",
+      "textZh": "机器人技术、储能和人工智能。这些技术中的每一项，基本上都在为进入S曲线的甜蜜点做准备，或者已经处在，在这个甜蜜点上。而我，我有点把它看作S曲线滋养S曲线，并创造出没人预料到的爆炸性增长潜力。而且，而且布雷特刚刚写了一篇论文，应该会在接下来几周内围绕这个主题发表。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0268",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4663.73,
+      "textEn": "Just want to get your thoughts about that. And Brett, if you wanted to ask any questions specifically about that. But the, the, the bottom line from an economics point of view is we could see, you know, very surprising up. Uptick. Not just uptick, a step function up in economic, a real economic growth if these technologies are as big as we think they are.",
+      "textZh": "只是想听听你对此的看法。还有布雷特，如果你想专门就此提出任何问题的话。但从经济学角度看，最，最，最根本的一点是，我们可能会看到，你知道，非常惊人的上。上升。不只是上升，而是经济增长、实际经济增长出现阶跃式上升，前提是这些技术确实像我们认为的那么重要。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0269",
+      "speakerEn": "Elon Musk",
+      "startSec": 4691.89,
+      "textEn": "Yeah, absolutely. Well, I mean, the real economy is not money, it's goods and services.",
+      "textZh": "是的，当然。嗯，我的意思是，实体经济不是货币，而是商品和服务。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0270",
+      "speakerEn": "Elon Musk",
+      "startSec": 4698.53,
+      "textEn": "So, you know, I was saying earlier, money is really just a database for resource allocation. And you know, it's. But if there are no resources to allocate, or if the actual goods and services output have, is fixed, then you really, I guess, try to allocate that same pie, but more efficiently. But it's really not nearly as good as growing the pie. So growing this output of goods and services.",
+      "textZh": "所以，你知道，我之前说过，货币其实只是一个用于资源配置的数据库。而且你知道，它是。但如果没有资源可供配置，或者实际的商品和服务产出是，是固定的，那么你实际上，我想，只是在设法更高效地分配同一块蛋糕。但这真的远不如把蛋糕做大。所以，要扩大这种商品和服务的产出。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0271",
+      "speakerEn": "Elon Musk",
+      "startSec": 4730.24,
+      "textEn": "Productivity is really the thing that leads to prosperity.",
+      "textZh": "生产力才是真正带来繁荣的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0272",
+      "speakerEn": "Elon Musk",
+      "startSec": 4736.24,
+      "textEn": "And obviously with robotics and AI, I think digital medicine through synthetic RNA and I think these things are, will just massively improve productivity.",
+      "textZh": "显然，有了机器人技术和人工智能，我认为还有通过合成RNA实现的数字医疗，我认为这些事物正在，将会极大地提高生产力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0273",
+      "speakerEn": "Elon Musk",
+      "startSec": 4758.7,
+      "textEn": "If you take the car as an example, and I think you understand this quite well, although not many people do that, you know, if you've got, say a passenger car, it will typically see 10 to 12 hours of usage, like maybe one and a half hours a day over the course of seven days.",
+      "textZh": "如果以汽车为例，而且我认为你对此理解得相当透彻，尽管没有多少人理解这一点，你知道，假设你有一辆乘用车，它通常会有10到12小时的使用时间，比如在7天里每天可能使用1.5小时。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0274",
+      "speakerEn": "Elon Musk",
+      "startSec": 4781.19,
+      "textEn": "But there are hundred, there are 168 hours in a week. So it's really used for a very small percentage of the week normally. And then you've got a pocket somewhere as well. So you've got parking costs, storage costs, maintenance costs, and you know, all these costs associated with a car. And you know, you're at 5 to 10% of asset utilization for a car. Whereas if you've got an autonomous vehicle, that same car that costs basically about the same could now, I think be used as a rough approximation for about a third of the hours of the week.",
+      "textZh": "但有一百，一周有168小时。所以通常情况下，它实际只在一周中非常小比例的时间里被使用。而且你还在某个地方有一个口袋。所以你有停车成本、存放成本、维护成本，以及你知道，所有这些与汽车相关的成本。而且你知道，一辆汽车的资产利用率只有5%到10%。而如果你有一辆自动驾驶汽车，同一辆成本基本相同的汽车现在，我认为粗略估计，可以在一周约三分之一的时间里使用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0275",
+      "speakerEn": "Elon Musk",
+      "startSec": 4818.79,
+      "textEn": "If you say like productive hours, and this is, I think that's a conservative, but I think it's not far wrong. So if you say like it goes from say 10 hours a week to 50 hours a week out of 168 of useful hours, that I think is not. It's not going to be exactly right, but I don't think it's far wrong. You now have the same asset being able to having five times the utility, that is a such staggering leap of productivity, you know.",
+      "textZh": "如果你说的是有效使用时数，而这，我认为那是一个保守的数字，但我认为离事实不远。所以，如果你说，比如它从每周10小时增加到168个小时中的每周50个有效小时，我认为这并不。它不会完全准确，但我认为离事实不远。现在，同一项资产能够拥有5倍的效用，这是生产力如此惊人的跃升，你知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0276",
+      "speakerEn": "Elon Musk",
+      "startSec": 4852.27,
+      "textEn": "And if Tesla is able to do as I think we will be able to, which is to upgrade the fleet to make it autonomous, it will be the biggest step change in asset value in history, I think overnight. We agree, we agreed here, obviously, and that's why I preface it by I realize I'm.",
+      "textZh": "而如果Tesla能够做到我认为我们将能做到的事情，也就是升级车队，使其实现自动驾驶，我认为这将是历史上最大的资产价值阶跃式变化，在一夜之间。我们同意，我们在这里意见一致，显然，这就是为什么我先声明，我意识到我。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0277",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 4876.54,
+      "textEn": "But you're also underestimating the utility uplift because that 10 hours that the car is driving a week, somebody is not being paid to drive it mostly right. But they're devoting their valuable brain to doing it, as in kind of, it's actually there's the human labor loss that accompanies that as well. And so freeing up those hours is actually, I think, on Tasha's work, it's as meaningful, you know, as the capital utilization benefit.",
+      "textZh": "但你也低估了效用的提升，因为汽车每周行驶的那10个小时，大多数情况下没人因为开车而获得报酬，对吧。但他们正投入自己宝贵的大脑来做这件事，也就是说，有点像，实际上还伴随着人力劳动的损失。因此，腾出这些时间其实，我认为，根据塔莎的研究，它与你知道，资本利用率带来的好处同样重要。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0278",
+      "speakerEn": "Elon Musk",
+      "startSec": 4903.51,
+      "textEn": "Absolutely.",
+      "textZh": "当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0279",
+      "speakerEn": "Elon Musk",
+      "startSec": 4905.83,
+      "textEn": "And I think you've also predicted a massive increase in traffic, you know, because once you take away the pain of driving, people will go more places, so there'll actually be more cars on the road driving more places. Because if you can sit in the car and, you know, be watching a movie or be texting legally, then that's really much less pain than having to navigate arduous traffic for an hour and a half.",
+      "textZh": "而且我认为你还预测了交通流量将大幅增加，你知道，因为一旦消除了驾驶的痛苦，人们就会去更多地方，所以实际上路上会有更多汽车开往更多地方。因为如果你能坐在车里，你知道，看电影或者合法地发短信，那么这真的比不得不在艰难的交通状况中行驶1.5小时少痛苦得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0280",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4938.16,
+      "textEn": "Yeah, Many people miss that. I remember it just frustrated me that GM and its marketing material and presentations would say zero congestion, because I think",
+      "textZh": "是的，很多人忽略了这一点。我记得GM在其营销材料和演示中会说零拥堵，这让我很沮丧，因为我认为",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0281",
+      "speakerEn": "Elon Musk",
+      "startSec": 4953.17,
+      "textEn": "that's hilarious.",
+      "textZh": "那太可笑了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0282",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4954.05,
+      "textEn": "Yeah. I would suggest threefold the amount of traffic, and that's what pushed us into doing more with drones and, you know, delivery of food and parcels with drones and even air taxis, because cannot imagine the commute from JFK into Manhattan being, you know, four hours or five hours or six hours, you know, so.",
+      "textZh": "是的。我认为交通量会达到3倍，而这正是促使我们更多地采用无人机的原因，你知道，用无人机配送食品和包裹，甚至还有空中出租车，因为无法想象从肯尼迪国际机场到曼哈顿的通勤会是，你知道，4小时或5小时或6小时，你知道，所以。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0283",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 4983.2,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0284",
+      "speakerEn": "Elon Musk",
+      "startSec": 4983.6,
+      "textEn": "Well, fortunately, I have a proposed solution to that, which consists of tunnels.",
+      "textZh": "嗯，幸运的是，我对此有一个拟议的解决方案，那就是隧道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0285",
+      "speakerEn": "Cathie Wood",
+      "startSec": 4988.8,
+      "textEn": "Yes. Yes. And we're now in St. Petersburg. If you could build a tunnel from here to Tampa, which is just sand, you're not going to run into anything. That'd be very cool.",
+      "textZh": "是的。是的。而且我们现在在圣彼得堡。如果你能从这里修一条通往坦帕的隧道，这里只有沙子，你不会碰到任何东西。那会非常酷。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0286",
+      "speakerEn": "Elon Musk",
+      "startSec": 5003.12,
+      "textEn": "We can absolutely do that.",
+      "textZh": "我们绝对能做到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0287",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5005.44,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0288",
+      "speakerEn": "Elon Musk",
+      "startSec": 5007.43,
+      "textEn": "The Boring Company has actually made. It, has, I think, at this point, by far the most advanced tunneling machine. The thing that is the biggest inhibitor of Boring Company by far is regulatory approval.",
+      "textZh": "The Boring Company 实际上已经制造出了。它已经，我认为，就目前而言，制造出了遥遥领先、最先进的隧道掘进机。对 The Boring Company 而言，远远最大的制约因素是监管审批。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0289",
+      "speakerEn": "Elon Musk",
+      "startSec": 5019.27,
+      "textEn": "It's, you know, we are in the United States and particularly in some states like California, we are being strangled by regulation.",
+      "textZh": "这，你知道，我们身处美国，尤其是在加利福尼亚州等一些州，我们正被监管扼住咽喉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0290",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5030.07,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0291",
+      "speakerEn": "Elon Musk",
+      "startSec": 5031.03,
+      "textEn": "And this is an important point to make, which is, I think, obvious when you think about it, that if we keep making more rules and regulations and laws every year, and those laws and regulations are immortal, but humans are not immortal, then over time, you'll be like Gulliver, where you're tied down by millions of strings and you can't move.",
+      "textZh": "这里有一点很重要，我认为仔细想想就很明显：如果我们每年都不断制定更多规则、法规和法律，而这些法律法规是不朽的，但人类并非不朽，那么随着时间推移，你会像格列佛一样，被数百万根绳子绑住，动弹不得。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0292",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5056.58,
+      "textEn": "It's true. It's true. That's why your first principles approach to your business is so interesting. I wish we had first principles approach to policy making. And, you know, because you're right, the regulations are strangling. The only good news here in this, and we've seen it, is other countries want innovation. You know, US has been, you know, has been the source of a lot of innovation. But some of our, you look at the FAA and drones, that business has done much better elsewhere in the world.",
+      "textZh": "确实如此。确实如此。这就是为什么你在业务中采用的第一性原理方法如此有趣。我希望我们在制定政策时也能采用第一性原理方法。而且，你知道，因为你说得对，监管正在扼住我们的咽喉。这件事唯一的好消息是，其他国家想要创新，而我们已经看到了这一点。你知道，美国一直是，你知道，一直是许多创新的源头。但我们的一些，你看看美国联邦航空管理局和无人机，这项业务在世界其他地方发展得好得多。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0293",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5096.56,
+      "textEn": "You know, it's been very frustrated here and now the FAA is starting to play ball because of it. Do you think that, you know that competitive dynamic or regulatory arbitrage will change things anytime soon or do we just need someone to come in first principles and kind of figure out a way to convince everyone we need to get a white sheet of paper and not start all over. But you know what I mean.",
+      "textZh": "你知道，它在这里一直非常受挫，而现在美国联邦航空管理局因此开始配合了。你认为，你知道，那种竞争态势或监管套利会很快改变局面吗？还是说我们只需要有人按照第一性原理介入，以某种方式设法说服所有人，我们需要拿一张白纸，而不是从头再来。但你知道我的意思。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0294",
+      "speakerEn": "Elon Musk",
+      "startSec": 5125.7,
+      "textEn": "I think we need to have a process for garbage collection of rules and regulations.",
+      "textZh": "我认为，我们需要建立一个对规则和法规进行垃圾回收的流程。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0295",
+      "speakerEn": "Elon Musk",
+      "startSec": 5131.54,
+      "textEn": "If you don't have some means of deleting rules and regulations and you only ever add them, then we'll obviously just end up in a situation where everything's illegal.",
+      "textZh": "如果你没有某种删除规则和法规的办法，而只是一味增加它们，那么显然，我们最终只会陷入一切皆违法的境地。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0296",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5142.02,
+      "textEn": "Yes, yes.",
+      "textZh": "是的，是的。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0297",
+      "speakerEn": "Elon Musk",
+      "startSec": 5144.78,
+      "textEn": "Which is where we are and kind of the bigger and more complex the state is like California, New York, you just have, I guess first approximation. The number of regulators you have is proportionate to your population. So although Texas and Florida do a lot do better in that regard.",
+      "textZh": "这正是我们现在的处境，而且像加利福尼亚州、纽约州这样规模更大、更复杂的州，你就会有，我猜粗略估算一下，你拥有的监管人员数量与你的人口成正比。不过，得克萨斯州和佛罗里达州在这方面确实好得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0298",
+      "speakerEn": "Elon Musk",
+      "startSec": 5165.26,
+      "textEn": "But there's just so many rules and regulations in California, New York and if you say you know, LA county, you know, city of la, now you've got it can take you several months simply to get a permit to change the tiles in your bathroom. Literally. Yeah. So you know, that's things are we've got to do something here or we're just doomed",
+      "textZh": "但加利福尼亚州和纽约州有太多规则和法规，如果你说，你知道，洛杉矶县，你知道，洛杉矶市，现在你会发现，仅仅为了拿到更换浴室瓷砖的许可证，就可能需要几个月。真的。是的。所以你知道，情况就是，我们必须在这里做点什么，否则我们就注定完蛋。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0299",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5196.33,
+      "textEn": "for this reason. Elon, do you think think China is at a competitive advantage, its command and control? I've heard you, you know, say that they're very tech savvy down to the mayor of every city. Do you think or do you think what has happened over that there's a dynamic changing. Maybe they've been, they've over leveraged after 20 years of, you know, basically buying the dip was the right thing to do until it wasn't.",
+      "textZh": "正因如此。埃隆，你觉得中国是否凭借其指挥与控制体系拥有竞争优势？我听你，你知道，说过他们非常精通技术，甚至每个城市的市长都如此。你认为，还是你认为已经发生的事情是，有一种动态正在改变。也许他们一直，他们经过20年后已经过度加杠杆了，你知道，基本上逢低买入一直是正确的做法，直到它不再正确。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0300",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5226.11,
+      "textEn": "Do you think that it is now entered more of a Japanese style, you know, you know, they have to readjust to a new reality or do you think, you know, the regulatory or less regulation over there is going to give them a competitive advantage and innovation is going to, you know, help bail them out.",
+      "textZh": "你认为它现在已经进入了一种更偏日本式的状态吗？你知道，你知道，他们必须重新适应一个新的现实；还是你认为，你知道，那里的监管或更少的监管会给他们带来竞争优势，而创新将会，你知道，帮助他们摆脱困境。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0301",
+      "speakerEn": "Elon Musk",
+      "startSec": 5253.88,
+      "textEn": "I don't think China is not immune to the same forces that have driven excess regulation and laws in the United States or Europe. They, you know, I've certainly seen just in the course of our operations in China and China we've seen a quite a substantial increase in the regulatory burden.",
+      "textZh": "我不认为中国不会受到那些推动美国或欧洲过度监管和立法的相同力量影响。他们，你知道，仅从我们在中国和中国开展业务的过程中，我当然已经看到监管负担有了相当大幅度的增加。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0302",
+      "speakerEn": "Elon Musk",
+      "startSec": 5275.4,
+      "textEn": "So you know, it's a lot harder to get things done now than it was 10 years ago.",
+      "textZh": "所以你知道，现在把事情办成要比10年前困难得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0303",
+      "speakerEn": "Elon Musk",
+      "startSec": 5285.89,
+      "textEn": "So What I'm saying is I think this is just a natural part of the evolution of any country is the growth of rules and regulations. Now in history, the forcing function for cleaning up bad rules and regulations or sort of archaic rules and things that don't really matter anymore has been war. That has been what has driven, has been the cleansing function for rules and regulations.",
+      "textZh": "所以我要说的是，我认为规则和法规的增长只是任何国家演变过程中的自然组成部分。历史上，迫使人们清理糟糕的规则和法规，或者说过时的规则以及那些实际上已无关紧要之事的驱动力，一直是战争。战争一直是推动这一切的力量，一直承担着清理规则和法规的作用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0304",
+      "speakerEn": "Elon Musk",
+      "startSec": 5318.94,
+      "textEn": "So now we would like to avoid war as ideally we can do this without war. That would be nice.",
+      "textZh": "所以现在我们希望避免战争，理想情况下，我们可以在没有战争的情况下做到这一点。那就好了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0305",
+      "speakerEn": "Elon Musk",
+      "startSec": 5327.34,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0306",
+      "speakerEn": "Elon Musk",
+      "startSec": 5331.89,
+      "textEn": "That would be nice.",
+      "textZh": "那就好了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0307",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5333.81,
+      "textEn": "Has it ever happened before? I know you're a student of war and battles and that you really understand that dynamic. Have we ever cleansed the system without it?",
+      "textZh": "以前发生过这种事吗？我知道你研究战争和战役，而且你确实理解那种动态。我们曾经在没有战争的情况下清理过这个体系吗？",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0308",
+      "speakerEn": "Elon Musk",
+      "startSec": 5346.21,
+      "textEn": "I am not aware of, I'm not aware of a situation like that. Yes. Now the thing is, in history, wars were very common. So, you know, we're in this odd bit of history where war is quite rare. We're talking about, you know, total population of the world divided by number of, by percentage of the population at war. If you say, look, what percentage of Earth's population is actively at war? It's very tiny today compared to any time in history.",
+      "textZh": "我不知道有，我不知道有那样的情况。是的。现在问题是，在历史上，战争非常常见。所以，你知道，我们正处于这样一段不同寻常的历史时期，战争相当罕见。我们谈的是，你知道，世界总人口除以数量，除以处于战争中的人口百分比。如果你说，看看，地球人口中有多大比例正积极参与战争？与历史上任何时期相比，如今这个比例都非常小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0309",
+      "speakerEn": "Elon Musk",
+      "startSec": 5381.85,
+      "textEn": "People confuse caring about war from being in war. That's very different.",
+      "textZh": "人们把关心战争和身处战争混为一谈。那是截然不同的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0310",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5388.48,
+      "textEn": "Yeah, I think exposing, and I know you did in Ukraine with Starlink, exposing what's going on is half of the, is half of the solution in a sense. Right. Or maybe the reason that, you know, that we're not going through the horrors of war because you can see it in living color and how devastating it is.",
+      "textZh": "是的，我认为揭示正在发生的事情，我知道你在乌克兰用星链这么做了，从某种意义上说，揭示正在发生的事情是解决方案的一半，是解决方案的一半。对吧。或者也许我们没有经历战争的恐怖，是因为你可以真真切切地看到它，看到它有多么具有毁灭性。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0311",
+      "speakerEn": "Elon Musk",
+      "startSec": 5417.78,
+      "textEn": "Yeah, I mean that is certainly something that is possible, that was not possible in the past.",
+      "textZh": "是的，我的意思是，那当然是某种有可能做到的事，而这在过去是不可能的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0312",
+      "speakerEn": "Elon Musk",
+      "startSec": 5426.58,
+      "textEn": "Although it clearly doesn't stop the Ukraine war that's still going on.",
+      "textZh": "尽管这显然没能阻止仍在继续的乌克兰战争。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0313",
+      "speakerEn": "Elon Musk",
+      "startSec": 5435.54,
+      "textEn": "And you know, I think a lot of, a lot of things, if there'd been social media, it's not clear they would have happened at all. Like the creation of the United States if, if I was thinking of like, if there'd been social media at the time of, of Roanoke, I think people would have been dissuaded from future voyages.",
+      "textZh": "而且你知道，我认为很多、很多事情，如果当时有社交媒体，就不清楚它们是否还会发生。比如美国的建立，如果，如果我设想一下，比如说，如果罗阿诺克时期有社交媒体，我认为人们会打消今后远航的念头。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0314",
+      "speakerEn": "Elon Musk",
+      "startSec": 5455.04,
+      "textEn": "You know, it's like we're dying of starvation, we're being killed by the locals, we've got, we're rife with disease.",
+      "textZh": "你知道，就像我们快饿死了，我们正被当地人杀害，我们已经，我们这里疾病肆虐。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0315",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5465.04,
+      "textEn": "That's a good point, very good point.",
+      "textZh": "这说得有道理，非常有道理。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0316",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 5467.42,
+      "textEn": "But that is another way to reset the regulatory landscape is kind of exploration. I mean, like, who knows what. I'm sure there's some set of laws that apply on the moon and potentially Mars, but it's much more difficult to enforce laws from that long a distance.",
+      "textZh": "但重塑监管格局的另一种方式就是某种探索。我的意思是，比如，谁知道有什么。我相信有某套法律适用于月球，也可能适用于火星，但从那么遥远的距离执法要困难得多。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0317",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 5488.54,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0318",
+      "speakerEn": "Elon Musk",
+      "startSec": 5488.86,
+      "textEn": "I think ultimately if there is a self sustaining city on Moon Or Mars, that self sustaining city will achieve autonomy at some point.",
+      "textZh": "我认为，最终如果月球或火星上出现一座自给自足的城市，那座自给自足的城市终有一天会实现自治。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0319",
+      "speakerEn": "Elon Musk",
+      "startSec": 5501.4,
+      "textEn": "So I think it's quite important that we, not quite extremely important that we become a multi planet civilization and create a self sustaining city, ideally on Mars, because that's quite far away from Earth. And I think if something were to take down Earth civilization, then it's less likely to take, take out a Mars civilization because Earth and Mars are only in the same quadrant of the solar system, you know, for six months, every two years.",
+      "textZh": "所以我认为，我们成为一个多行星文明，并建立一座自给自足的城市，最好是在火星上，因为那里离地球相当遥远，这相当重要，不，是极其重要。而且我认为，如果某件事摧毁了地球文明，那么它摧毁、摧毁火星文明的可能性就比较小，因为地球和火星每2年只有6个月处于太阳系的同一个象限，你知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0320",
+      "speakerEn": "Elon Musk",
+      "startSec": 5535.65,
+      "textEn": "So for a lot of separation and, and I think, you know, I think a lot about the Fermi paradox of where, where are the aliens? I've seen no evidence of aliens because people always ask me if I've seen any evidence of aliens. I would immediately shout from the rooftops and from the extra platform of any evidence whatsoever about aliens, I would be talking about it immediately. And I have thus far seen none. That's a concern because it means that we perhaps are alone and, and maybe there were many other civilizations, but they failed to pass the great filter of going from one planet to being a multi planet civilization.",
+      "textZh": "所以有很大的间隔，而且，而且我认为，你知道，我经常思考费米悖论：外星人在哪里、在哪里？我没有看到任何外星人的证据，因为人们总是问我是否见过任何外星人的证据。如果有任何关于外星人的证据，无论是什么，我都会立刻站在屋顶上大声喊出来，也会在额外平台上大声宣告，我会立刻谈论它。而到目前为止，我什么都没看到。这令人担忧，因为这意味着我们也许是孤独的，而且，而且也许曾经有过许多其他文明，但它们没能通过从单行星文明迈向多行星文明这一大过滤器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0321",
+      "speakerEn": "Elon Musk",
+      "startSec": 5583.65,
+      "textEn": "So I guess my concern is that we need to keep civilization going at least long enough to be a multi planet civilization. At that point, I think we stabilize civilization and consciousness and greatly extend the probable lifespan of civilization and consciousness as we know it.",
+      "textZh": "所以我想，我担心的是，我们需要让文明至少延续足够长的时间，使其成为多行星文明。到了那时，我认为我们就能稳定文明和意识，并大幅延长我们所知的文明和意识可能存在的寿命。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0322",
+      "speakerEn": "Elon Musk",
+      "startSec": 5602.8,
+      "textEn": "So I do want to emphasize this is not some escape hatch from Earth because people misinterpret this as like some escape hatch from Earth.",
+      "textZh": "所以我确实想强调，这不是什么逃离地球的逃生通道，因为人们把这误解成某种逃离地球的逃生通道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0323",
+      "speakerEn": "Elon Musk",
+      "startSec": 5613.36,
+      "textEn": "And this really doesn't apply to me personally because you know, I will probably die in, I don't know, 40 or 50 years, hopefully. You know, living that long, maybe I don't live even that long.",
+      "textZh": "而且这其实不适用于我个人，因为你知道，我可能会在，我不知道，40或50年后去世，希望如此。你知道，能活那么久，也许我甚至都活不了那么久。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0324",
+      "speakerEn": "Elon Musk",
+      "startSec": 5625.93,
+      "textEn": "But the civilization can last for tens of thousands of years, perhaps hundreds of thousands, perhaps millions of years.",
+      "textZh": "但文明可以延续数万年，也许数十万年，也许数百万年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0325",
+      "speakerEn": "Elon Musk",
+      "startSec": 5634.81,
+      "textEn": "So I think it's very important that we make life multi planetary while the window is open. And this is the first time in the history of Earth that in four and a half billion years of Earth's existence that it's been possible to extend life and consciousness to another planet. So that window is now open for the first time in four and a half billion years. Now it may stay open for a long time, but it may also close. And I think so we should just take advantage of the time when the window is open to make life multi planetary and ensure that the tiny candle of consciousness in a vast darkness",
+      "textZh": "所以我认为，趁窗口仍然开放，让生命成为多行星物种非常重要。这是地球存在45亿年来，历史上第一次有可能将生命和意识延伸到另一个星球。所以，这个窗口如今在45亿年来首次打开。它可能会开放很长时间，但也可能关闭。因此我认为，我们应该利用窗口开放的这段时间，让生命成为多行星物种，并确保浩瀚黑暗中那一小簇意识的烛火",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0326",
+      "speakerEn": "ARK Panelist",
+      "startSec": 5684.99,
+      "textEn": "continues",
+      "textZh": "继续",
+      "speakerZh": "ARK嘉宾"
+    },
+    {
+      "id": "p-0327",
+      "speakerEn": "Elon Musk",
+      "startSec": 5685.51,
+      "textEn": "to burn, does not go out.",
+      "textZh": "燃烧，不会熄灭。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0328",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 5688.43,
+      "textEn": "Do you think that Starlink, you've said, kind of the advanced idea that you needed hypersonic travel to basically capitalize Colonizing Mars. Is Starlink enough or does that still, do you still need that second kind of like business model built on top of SpaceX to make it happen?",
+      "textZh": "你觉得星链，你曾经说过，大致是这样一种先进的构想：要真正利用殖民火星这件事，你需要高超音速旅行。星链本身够吗，还是说这仍然，你仍然需要在SpaceX之上建立第2种类似的商业模式，才能实现这件事？",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0329",
+      "speakerEn": "Elon Musk",
+      "startSec": 5707.79,
+      "textEn": "I think Sonic is enough.",
+      "textZh": "我认为Sonic就够了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0330",
+      "speakerEn": "Elon Musk",
+      "startSec": 5710.75,
+      "textEn": "I think Sonic is enough. You know.",
+      "textZh": "我认为Sonic就够了。你知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0331",
+      "speakerEn": "Elon Musk",
+      "startSec": 5716.99,
+      "textEn": "There's a little diagram on the Sonic router.",
+      "textZh": "Sonic路由器上有一张小图。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0332",
+      "speakerEn": "Elon Musk",
+      "startSec": 5723.39,
+      "textEn": "It's a. People probably didn't notice but it's a Hohmann transfer from Earth to Mars.",
+      "textZh": "它是一个。人们可能没注意到，但那是一条从地球到火星的霍曼转移轨道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0333",
+      "speakerEn": "Elon Musk",
+      "startSec": 5735.4,
+      "textEn": "So if you look on your Starlink router, you'll see that Hohmann transfer diagram that Starlink is the means by which light becomes multi planetary.",
+      "textZh": "所以，如果你看看自己的星链路由器，就会看到那张霍曼转移轨道图，星链就是让光成为多行星存在的途径。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0334",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5756.37,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0335",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5759.17,
+      "textEn": "Well Elon, you're you as you are, you are pioneering us in an amazing way. A lot of, a lot of the hope for the future is so much as it of it, you know, has, has, has started with, you know, with projects you've started and dreams you have. And I think the world's a better place and I'll end where I started. I know that. Media clicks, you know, maybe negative is it works but long run, long run truth wins out and you know, you're doing amazing things and I think the world will thank you for years and",
+      "textZh": "好吧，埃隆，你正以你自己的方式，以一种令人惊叹的方式引领着我们。对未来的许多、许多希望，其中很大一部分，你知道，都、都、都始于，你知道，始于你发起的项目和你怀有的梦想。我认为这个世界因此变得更美好，而我会以开场时说的话作结。我知道。媒体点击量，你知道，也许负面的内容确实有效，但从长远看，从长远看，真相终会胜出，而且你知道，你正在做了不起的事情，我认为世界会感谢你很多年，很多",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0336",
+      "speakerEn": "ARK Panelist",
+      "startSec": 5812.62,
+      "textEn": "years and years and maybe just a close.",
+      "textZh": "很多年，或许就以此收尾。",
+      "speakerZh": "ARK嘉宾"
+    },
+    {
+      "id": "p-0337",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5816.98,
+      "textEn": "Charlie.",
+      "textZh": "查理。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0338",
+      "speakerEn": "ARK Panelist",
+      "startSec": 5818.98,
+      "textEn": "Oh, sorry, I'm gonna click back on mute. Just as a closing thought to build off that maybe as well. How would you think about inspiring the next generation of entrepreneurs to do the really big hard things? Does it make most sense to try and do something more consumer Internet or something earlier, build up capital and then go and do something very hard? Or do you think what would you want to have heard as a starting entrepreneur thinking about that journey and also to inspire the next generation to do great things, including building all the cottage industry, no doubt of things that we'll need to survive on Mars.",
+      "textZh": "哦，抱歉，我要点回静音。最后再补充一点，或许也接着刚才的话说。对于激励下一代创业者去做那些真正宏大而艰难的事情，你会怎么想？先尝试做一些更偏消费互联网或更早期的事情，积累资本，然后再去做非常艰难的事情，这样最合理吗？或者你觉得，当你还是一名刚起步、思考这段历程的创业者时，你会希望听到什么，也以此激励下一代去成就伟大的事业，包括毫无疑问，建立我们在火星上生存所需的所有家庭式产业。",
+      "speakerZh": "ARK嘉宾"
+    },
+    {
+      "id": "p-0339",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5850.36,
+      "textEn": "Great question.",
+      "textZh": "好问题。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0340",
+      "speakerEn": "Elon Musk",
+      "startSec": 5855,
+      "textEn": "Well, I actually think that anyone that has a company that's providing goods and services is doing great. I mean it's not that everyone should tackle so called, you know, in quotes, great challenges.",
+      "textZh": "嗯，实际上我认为，任何拥有一家提供商品和服务的公司的人，都做得很棒。我的意思是，并不是每个人都应该去应对所谓的，你知道，加引号的“重大挑战”。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0341",
+      "speakerEn": "Elon Musk",
+      "startSec": 5875.17,
+      "textEn": "I would recommend that they don't actually because the probability of failure is very high.",
+      "textZh": "事实上，我会建议他们不要这么做，因为失败的概率非常高。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0342",
+      "speakerEn": "Elon Musk",
+      "startSec": 5882.53,
+      "textEn": "I mean I think just try to be useful is my advice. It's very difficult to be useful,",
+      "textZh": "我的意思是，我的建议就是努力做个有用的人。要做到有用非常困难，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0343",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5891.44,
+      "textEn": "you",
+      "textZh": "你",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0344",
+      "speakerEn": "Elon Musk",
+      "startSec": 5891.52,
+      "textEn": "know, say like total area under the curve of how useful have you been to other people? You know that cumulatively that's, that's, it's very hard to make that a big number, you know, so I just really just try to be useful and make, you know, create products and services that people want and make their lives better.",
+      "textZh": "知道，比如说，你对其他人有多大用处这条曲线下的总面积？你知道，累计起来，那、那，这是很难变成一个大数字的，你知道，所以我确实就是努力做个有用的人，并且制造，你知道，创造人们想要的产品和服务，让他们的生活变得更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0345",
+      "speakerEn": "Elon Musk",
+      "startSec": 5917.2,
+      "textEn": "That's it. And you know, as far as you know, encouraging entrepreneurs to start companies My advice would be that if you need encouragement to start a company, don't do it. Right, right.",
+      "textZh": "就是这样。而且你知道，至于，你知道，鼓励创业者创办公司，我的建议是，如果你需要别人鼓励才会创办公司，那就别做。对，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0346",
+      "speakerEn": "Elon Musk",
+      "startSec": 5933.04,
+      "textEn": "Yep. Because you'll probably. I mean, the probability of failure is very high, so you really should not. If you need encouragement, don't do it.",
+      "textZh": "是的。因为你很可能会。我的意思是，失败的概率非常高，所以你真的不应该。如果你需要鼓励，那就别做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0347",
+      "speakerEn": "ARK Panelist",
+      "startSec": 5946.81,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "ARK嘉宾"
+    },
+    {
+      "id": "p-0348",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5948.25,
+      "textEn": "Yeah, thank you so much, Elon. You know, as I think, as it's clear, if you have. If you have an idea that will fill an unmet need that the world. You know, something the world really needs and you have a passion to go for it, then. Yes, but agreed. The probability of failure is. Brett, I think, you know, is it at 90% for new businesses? 90. 80. 90%.",
+      "textZh": "是的，非常感谢你，埃隆。你知道，就像我认为的那样，事情很清楚，如果你有。如果你有一个想法，能满足一个世界尚未得到满足的需求。你知道，是世界真正需要的某种东西，而且你有付诸行动的热情，那么。是的，不过我同意。失败的概率是。布雷特，我想，你知道，新企业的失败率是90%吗？90。80。90%。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0349",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 5979,
+      "textEn": "Depends on what stage you measure it at.",
+      "textZh": "取决于你在哪个阶段衡量。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0350",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5981.48,
+      "textEn": "Yeah. From startup. Yeah. So.",
+      "textZh": "是的。从初创阶段算。是的。所以。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0351",
+      "speakerEn": "Elon Musk",
+      "startSec": 5985.32,
+      "textEn": "But that's.",
+      "textZh": "但那是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0352",
+      "speakerEn": "ARK Panelist",
+      "startSec": 5986.68,
+      "textEn": "That said, anyone that doesn't need encouragement, we'd love to hear from you. For the Arc Venture Fund.",
+      "textZh": "话虽如此，任何不需要鼓励的人，我们都很乐意收到你的消息。关于Arc风险投资基金。",
+      "speakerZh": "ARK嘉宾"
+    },
+    {
+      "id": "p-0353",
+      "speakerEn": "Cathie Wood",
+      "startSec": 5992.21,
+      "textEn": "That's good.",
+      "textZh": "这很好。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0354",
+      "speakerEn": "Elon Musk",
+      "startSec": 5993.89,
+      "textEn": "I mean, I just have a lot of respect for anyone who works hard and builds things, provides products and services to their fellow humans, and I think that's great.",
+      "textZh": "我的意思是，我非常尊重任何努力工作、建造事物、为其他人提供产品和服务的人，我认为这很棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0355",
+      "speakerEn": "Elon Musk",
+      "startSec": 6011.25,
+      "textEn": "Just a lot of respect for an honest day's work effectively.",
+      "textZh": "其实就是非常尊重踏踏实实干一天的工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0356",
+      "speakerEn": "Brett Winton (ARK)",
+      "startSec": 6017.26,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "布雷特·温顿（ARK）"
+    },
+    {
+      "id": "p-0357",
+      "speakerEn": "Elon Musk",
+      "startSec": 6018.06,
+      "textEn": "So. All right, well, it's been a great discussion.",
+      "textZh": "所以。好了，嗯，这是一场很棒的讨论。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0358",
+      "speakerEn": "Cathie Wood",
+      "startSec": 6021.34,
+      "textEn": "Yeah. Thank you, Elon, so much. This is great.",
+      "textZh": "是的。非常感谢你，埃隆。这太棒了。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0359",
+      "speakerEn": "Elon Musk",
+      "startSec": 6025.42,
+      "textEn": "You're welcome.",
+      "textZh": "不客气。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0360",
+      "speakerEn": "Cathie Wood",
+      "startSec": 6026.22,
+      "textEn": "Yeah. And you know what, Elon? I think the world needs more of this kind of conversation, so maybe every once in a while we can do this again.",
+      "textZh": "是的。而且你知道吗，埃隆？我认为这个世界需要更多这样的对话，所以也许我们可以偶尔再聊一次。",
+      "speakerZh": "凯茜·伍德"
+    },
+    {
+      "id": "p-0361",
+      "speakerEn": "Elon Musk",
+      "startSec": 6038.14,
+      "textEn": "Sure, Sounds good.",
+      "textZh": "当然，听起来不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0362",
+      "speakerEn": "Cathie Wood",
+      "startSec": 6039.5,
+      "textEn": "Okay, thanks so much.",
+      "textZh": "好的，非常感谢。",
+      "speakerZh": "凯茜·伍德"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T03:20:52.520Z",
+    "reviewedAt": "2026-09-13T04:11:28.365Z"
+  },
+  "fetchedAt": "2026-09-12T07:11:48.935Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "011950e427dea8984a602eb42f21fd5e469fbb2b13ca19c88db8bd37582ba924"
+}

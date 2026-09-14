@@ -1,0 +1,31 @@
+{
+  "id": "latimes-josh-friedman-2003",
+  "slug": "latimes-josh-friedman-2003",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2003-04-22",
+  "titleEn": "Dot-commer puts profits into reliable, cheap rocket",
+  "titleZh": "互联网企业家将利润投入可靠、廉价的火箭",
+  "summaryEn": "Profile and interview by Josh Friedman for the Los Angeles Times, written months after SpaceX was founded. Musk, then 31, explains why he is putting $50 million of his PayPal fortune into an unproven rocket maker in El Segundo.",
+  "summaryZh": "乔希·弗里德曼为《洛杉矶时报》撰写的人物特写与采访，成文于 SpaceX 成立数月后。当时31岁的马斯克解释了自己为何要从 PayPal 带给他的财富中拿出5,000万美元，投入一家未经验证的火箭制造商，该公司位于埃尔塞贡多。",
+  "sourceUrl": "https://gulfnews.com/uae/entrepreneur-tries-his-midas-touch-in-space-1.355668",
+  "sourceLabel": "Los Angeles Times — Josh Friedman",
+  "archiveUrl": "https://elonmuskarchive.org/video/latimes-josh-friedman-2003",
+  "org": "SpaceX",
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "One of the earliest press portraits of Musk as a space entrepreneur. He had pocketed roughly $150 million in eBay shares when the auction giant bought PayPal, the payment company he had co-founded three years earlier, and had committed $50 million of it to Space Exploration Technologies. The article describes the Falcon: a two-stage, 68-foot, 28-ton launcher meant to carry small payloads for about $6 million a flight — under half the going rate — deliberately kept simple, with no wings and fewer moving parts than rival rockets. SpaceX was then a converted 25,000-square-foot warehouse with open cubicles, free cappuccino and a half-built rocket on the factory floor, and Musk hoped for a first flight as early as December. The piece also gives voice to the sceptics, who wondered whether he would become a space visionary or merely the latest in a long line of ruined dreamers — the industry adage being that the way to become a millionaire in launch is to start out a billionaire.",
+      "textZh": "这是媒体对身为空间创业者的马斯克所作的最早一批人物描写之一。3年前，他参与共同创立了支付公司 PayPal；拍卖巨头 eBay 收购 PayPal 时，他将价值约1.5亿美元的 eBay 股票收入囊中，并承诺将其中5,000万美元投入 Space Exploration Technologies。文章描述了 Falcon：一种2级、68英尺高、28吨重的运载火箭，计划以每次飞行约600万美元的价格运送小型有效载荷，不到当时通行价格的一半；它被刻意保持简单，没有机翼，活动部件也比竞争对手的火箭更少。当时的 SpaceX 位于一座由25,000平方英尺仓库改造而成的场所内，设有开放式隔间和免费卡布奇诺，工厂地面上还有一枚造到一半的火箭；马斯克希望最早能在12月进行首次飞行。这篇报道也呈现了怀疑者的声音，他们想知道，他究竟会成为一位太空梦想家，还是仅仅成为一长串倾家荡产的梦想家中最新的一个——这个行业有句格言：想靠发射成为百万富翁，就得先以亿万富翁起步。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T17:26:04.854Z",
+    "reviewedAt": "2026-09-12T17:46:02.523Z"
+  },
+  "fetchedAt": "2026-09-12T07:21:39.089Z",
+  "sourceHash": "597ca09294c21d0ce30eb2837c1dbb5d7baa87437733cd99a633e420ac855c3d"
+}

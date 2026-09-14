@@ -1,0 +1,36 @@
+---
+import { Search } from "@lucide/astro";
+
+const currentPath = Astro.url.pathname;
+const links = [
+  { href: "/", label: "影像目录" },
+  { href: "/about/", label: "关于" },
+  { href: "/rights/", label: "版权与纠错" },
+];
+
+const isCurrent = (href: string) => {
+  if (href === "/") return currentPath === "/" || currentPath.startsWith("/videos/");
+  return currentPath === href;
+};
+---
+
+<header class="site-header">
+  <div class="shell header-inner">
+    <a class="wordmark" href="/" aria-label="马斯克中文档案首页">
+      <span class="wordmark-mark" aria-hidden="true"></span>
+      <span>马斯克中文档案</span>
+    </a>
+
+    <nav class="primary-nav" aria-label="主导航">
+      {links.map((link) => (
+        <a href={link.href} aria-current={isCurrent(link.href) ? "page" : undefined}>
+          {link.label}
+        </a>
+      ))}
+    </nav>
+
+    <a class="icon-link" href="/search/" aria-label="搜索档案" title="搜索档案">
+      <Search size={19} stroke-width={1.8} aria-hidden="true" />
+    </a>
+  </div>
+</header>

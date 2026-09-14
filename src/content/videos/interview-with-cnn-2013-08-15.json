@@ -1,0 +1,54 @@
+{
+  "id": "interview-with-cnn-2013-08-15",
+  "slug": "interview-with-cnn-2013-08-15",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2013-08-15",
+  "titleEn": "Interview with CNN",
+  "titleZh": "CNN 采访",
+  "summaryEn": "Musk discusses the just-released Hyperloop white paper and high-speed inter-city transport.",
+  "summaryZh": "马斯克讨论了刚刚发布的超级高铁白皮书以及高速城际交通。",
+  "sourceUrl": "https://www.youtube.com/watch?v=bQcfi8HK1i8",
+  "sourceLabel": "CNN",
+  "archiveUrl": "https://elonmuskarchive.org/video/interview-with-cnn-2013-08-15",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/bQcfi8HK1i8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/bQcfi8HK1i8/hqdefault.jpg",
+  "durationSec": 138,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "In the beginning, it was about instinct, moving from place to place. Initially for survival, then to pioneer. Today, we travel because we can. On vacation, to business meetings, from point A to point B isn't just a car ride. It's a train, it's a plane, and soon even a space flight away. But what about efficiency? There's a gap between imagination and actualization. Anywhere on earth. Anywhere. But you can actually go to the top of Mount Everest.",
+      "textZh": "一开始，它关乎本能，从一个地方迁移到另一个地方。最初是为了生存，之后是为了开拓。如今，我们旅行是因为我们可以。度假、参加商务会议，从 A 点到 B 点并不只是一段汽车行程。可以坐火车，可以坐飞机，很快甚至还能乘坐航天器。但效率呢？想象与实现之间存在一道鸿沟。地球上的任何地方。任何地方。但你真的可以登上珠穆朗玛峰峰顶。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "There's no place you can't go anywhere. So I think we've explored the boundaries, at least the physical boundaries, of earth quite thoroughly. You're describing how we can go anywhere on earth now. But the methods with which we use to get there. Do you think they're efficient? The most important thing that needs to happen is the transition of transportation to electric.",
+      "textZh": "不存在你不能去的任何地方。所以我认为，我们已经相当彻底地探索了地球的边界，至少是物理边界。你描述的是，我们现在如何能够去地球上的任何地方。但我们用来抵达那里的方式呢？你认为它们有效率吗？最重要的必要进展，是让交通运输转向电动化。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "The ideal long distance transportation mechanism is a supersonic vertical takeoff and landing electric jet. There's a special case of cities which have a lot of travel between them below about 500 miles of distance where I think the Hyperloop would be useful.",
+      "textZh": "理想的长途交通工具是一种超音速、垂直起降的电动喷气式飞机。有一种特殊情况，即两座城市之间存在大量往来，而且彼此距离低于约 500 英里，我认为超级高铁在这种情况下会很有用。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "It is a special case solution because once the distances get long, then the amount of time that an aircraft takes to ascend and land, which is most of what it does in a 500 mile trip, that percentage declines. And then it's better to just use aircraft. The blueprints are pretty complicated. Well, blueprints are always kind of complicated. And I mean, yes, there's math, but it's really not that hard. It still sounds pretty complicated, Elon.",
+      "textZh": "这是一种针对特殊情况的解决方案，因为一旦距离变长，飞机爬升和降落所花费的时间——这在 500 英里的航程中占据了大部分时间——所占比例就会下降。那时直接使用飞机会更好。蓝图相当复杂。嗯，蓝图总是有点复杂。我的意思是，没错，里面有数学，但真的没有那么难。听起来还是相当复杂，埃隆。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "It's like a tube with an air hockey table. It's just a low pressure tube with a pod in it that runs on air bearings, on air skis. With an air compressor on the front that's taking the high pressure air build up on the nose and pumping it through the air skis, it's really square. It's not that hard.",
+      "textZh": "它就像一根带有气垫球桌的管道。它只是一根低压管道，里面有一个舱体，靠空气轴承、靠空气滑板运行。前端有一台空气压缩机，把头部积聚的高压空气吸入，再将其泵送通过空气滑板，它真的很方正。没有那么难。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T18:50:43.826Z",
+    "reviewedAt": "2026-09-12T18:56:31.122Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:08.678Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=bQcfi8HK1i8",
+  "sourceHash": "81bc4edb8f9dee41f69f15efc52df6ff594ee1393328a0e7f9f5736dad09bcc4"
+}

@@ -1,0 +1,584 @@
+{
+  "id": "lex-fridman-18",
+  "slug": "lex-fridman-18",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2019-04-12",
+  "titleEn": "Lex Fridman Podcast",
+  "titleZh": "Lex Fridman 播客",
+  "summaryEn": "Elon Musk's first appearance on Lex Fridman, devoted to Tesla's Autopilot and self-driving.",
+  "summaryZh": "埃隆·马斯克首次做客Lex Fridman，专门讨论Tesla的Autopilot和自动驾驶。",
+  "sourceUrl": "https://www.youtube.com/watch?v=dEv99vxKjVI",
+  "sourceLabel": "Lex Fridman Podcast",
+  "archiveUrl": "https://elonmuskarchive.org/video/lex-fridman-18",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/dEv99vxKjVI",
+  "thumbnailUrl": "https://i.ytimg.com/vi/dEv99vxKjVI/hqdefault.jpg",
+  "durationSec": 1965,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "The following is a conversation with Elon Musk. He's the CEO of Tesla, SpaceX, Neuralink, and a co-founder of several other companies. This conversation is part of the Artificial Intelligence Podcast. This series includes leading researchers in academia and industry, including CEOs and CTOs of automotive, robotics, AI and technology companies.",
+      "textZh": "以下是与埃隆·马斯克的一场对话。他是Tesla、SpaceX和Neuralink的首席执行官，也是另外几家公司的联合创始人。这场对话是《人工智能播客》的一部分。这个系列邀请了学术界和业界的顶尖研究人员，包括汽车、机器人、人工智能和科技公司的首席执行官与首席技术官。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "This conversation happened after the release of the paper from our group at MIT on driver functional vigilance during use of Tesla's Autopilot. The Tesla team reached out to me offering a podcast conversation with Mr. Musk. I accepted with full control of questions I could ask and the choice of what is released publicly. I ended up editing out nothing of substance. I've never spoken with Elon before this conversation, publicly or privately.",
+      "textZh": "这场对话发生在我们麻省理工学院的团队发表一篇有关使用Tesla Autopilot期间驾驶员功能性警觉度的论文之后。Tesla团队联系了我，提出与马斯克先生进行一场播客对话。我接受了，条件是我可以完全自主决定提出哪些问题，以及公开发布哪些内容。最终，我没有剪掉任何实质性内容。在这场对话之前，我从未公开或私下与埃隆交谈过。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Neither he nor his companies have any influence on my opinion, nor on the rigor and integrity of the scientific method that I practice in my position at MIT. Tesla has never financially supported my research and I've never owned a Tesla vehicle, and I've never owned Tesla stock. This podcast is not a scientific paper, it is a conversation. I respect Elon as I do all other leaders and engineers I've spoken with.",
+      "textZh": "无论是他还是他的公司，都无法影响我的观点，也无法影响我在麻省理工学院任职期间所践行的科学方法的严谨性与完整性。Tesla从未在资金上支持我的研究，我也从未拥有过Tesla汽车，也从未持有过Tesla股票。这期播客不是科学论文，而是一场对话。我尊重埃隆，就像我尊重所有其他与我交谈过的领导者和工程师一样。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "We agree on some things and disagree on others. My goal, as always with these conversations, is to understand the way the guest sees the world. One particular point of disagreement in this conversation was the extent to which camera-based driver monitoring will improve outcomes and for how long it will remain relevant for AI-assisted driving.",
+      "textZh": "我们在一些事情上意见一致，在另一些事情上则存在分歧。和往常进行这些对话时一样，我的目标是理解嘉宾看待世界的方式。这场对话中一个具体的分歧点是：基于摄像头的驾驶员监控能在多大程度上改善结果，以及它对人工智能辅助驾驶还会在多长时间内保持相关性。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "As someone who works on and is fascinated by human-centered artificial intelligence, I believe that, if implemented and integrated effectively, camera-based driver monitoring is likely to be of benefit in both the short term and the long term. In contrast, Elon and Tesla's focus is on the improvement of Autopilot such that its statistical safety benefits override any concern for human behavior and psychology.",
+      "textZh": "作为一个从事并着迷于以人为中心的人工智能的人，我认为，如果得到有效实施和整合，基于摄像头的驾驶员监控很可能在短期和长期都能带来益处。相比之下，埃隆和Tesla关注的是改进Autopilot，使其在统计意义上的安全效益压倒任何对人类行为和心理的担忧。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "Elon and I may not agree on everything, but I deeply respect the engineering and innovation behind the efforts that he leads. My goal here is to catalyze a rigorous, nuanced and objective discussion in industry and academia on AI-assisted driving, one that ultimately makes for a safer and better world. And now, here's my conversation with Elon Musk. What was the vision, the dream, of Autopilot in the beginning?",
+      "textZh": "埃隆和我可能并非在所有事情上都意见一致，但我深深敬佩他所领导的这些工作背后的工程和创新。我的目标是推动业界和学术界围绕人工智能辅助驾驶展开严谨、细致且客观的讨论，并最终创造一个更安全、更美好的世界。现在，请听我与埃隆·马斯克的对话。Autopilot最初的愿景、梦想是什么？"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "The big picture system level when it was first conceived and started being installed in 2014, the hardware in the cars? What was the vision, the dream?",
+      "textZh": "从宏观的系统层面来说，当它最初被构想出来，并于2014年开始把硬件安装到汽车中时？它的愿景、梦想是什么？"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "I wouldn't characterize it as a vision or dream, it's simply that there are obviously two massive revolutions in the automobile industry. One is the transition to electrification, and then the other is autonomy. And it became obvious to me that, in the future, any car that does not have autonomy would be about as useful as a horse.",
+      "textZh": "我不会把它描述成愿景或梦想，只不过汽车行业显然存在2场重大革命。一个是向电动化转型，另一个则是自动驾驶。而我逐渐清楚地认识到，未来任何不具备自动驾驶能力的汽车，其用处都会和马差不多。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "Which is not to say that there's no use, it's just rare, and somewhat idiosyncratic, if somebody has a horse at this point. It's just obvious that cars will drive themselves completely, it's just a question of time. And if we did not participate in the autonomy revolution, then our cars would not be useful to people, relative to cars that are autonomous.",
+      "textZh": "这并不是说它毫无用处，只是在当下，如果有人养马，这种情况很少见，而且多少有些特立独行。汽车显然会实现完全自动驾驶，只是时间问题。而如果我们不参与自动驾驶革命，那么与能够自动驾驶的汽车相比，我们的汽车对人们就没有用处。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "I mean, an autonomous car is arguably worth five to 10 times more than a car which is not autonomous.",
+      "textZh": "我的意思是，一辆自动驾驶汽车可以说比一辆不能自动驾驶的汽车价值高5到10倍。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "In the long term.",
+      "textZh": "从长期来看。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Depends what you mean by long term but, let's say at least for the next five years, perhaps 10 years.",
+      "textZh": "这取决于你所说的长期是什么意思，不过，姑且说至少是未来5年，也许10年。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "So there are a lot of very interesting design choices with Autopilot early on. First is showing on the instrument cluster, or in the Model 3 and the center stack display, what the combined sensor suite sees. What was the thinking behind that choice? Was there a debate, what was the process?",
+      "textZh": "那么，Autopilot在早期有很多非常有意思的设计选择。首先是在仪表盘上，或者在Model 3的中央控制显示屏上，展示组合传感器套件所看到的内容。做出这一选择背后的考虑是什么？当时有过争论吗，过程是怎样的？"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "The whole point of the display is to provide a health check on the vehicle's perception of reality. So the vehicle's taking in information from a bunch of sensors, primarily cameras, but also radar and ultrasonics, GPS and so forth. And then, that information is then rendered into vector space with a bunch of objects, with properties like lane lines and traffic lights and other cars. And then, in vector space, that is re-rendered onto a display so you can confirm whether the car knows what's going on or not, by looking out the window.",
+      "textZh": "这个显示界面的全部意义，就是对车辆对现实的感知进行健康检查。所以，车辆会接收一系列传感器的信息，主要是摄像头，但也包括雷达、超声波传感器、GPS等等。然后，这些信息会被转换到向量空间中，其中包含一系列对象，以及车道线、交通信号灯和其他车辆之类的属性。接着，它又会从向量空间重新渲染到显示屏上，这样你就可以通过看向窗外，确认汽车是否知道正在发生什么。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "Right, I think that's an extremely powerful thing for people to get an understanding, sort of become one with the system and understanding what the system is capable of. Now, have you considered showing more? So if we look at the computer vision, like road segmentation, lane detection, vehicle detection, object detection, underlying the system, there is at the edges, some uncertainty. Have you considered revealing the parts that the uncertainty in the system, the sort of-- - Probabilities associated with say, image recognition or something like that?",
+      "textZh": "对，我认为这是一件极其有力的事情，能让人们形成理解，某种程度上与系统融为一体，并了解系统具备什么能力。那么，你们是否考虑过展示更多信息？比如说，如果我们观察这个系统底层的计算机视觉，例如道路分割、车道检测、车辆检测、物体检测，那么在边缘处会存在一些不确定性。你们是否考虑过揭示系统中存在不确定性的那些部分，那种————比如与图像识别之类的东西相关的概率？"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Yeah, so right now, it shows the vehicles in the vicinity, a very clean crisp image, and people do confirm that there's a car in front of me and the system sees there's a car in front of me, but to help people build an intuition of what computer vision is, by showing some of the uncertainty.",
+      "textZh": "是的，所以现在它会显示附近的车辆，图像非常干净、清晰，人们确实能确认我前面有一辆车，而系统也看到我前面有一辆车，但为了通过展示一些不确定性，帮助人们建立对计算机视觉的直觉。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Well, in my car I always look at this with the debug view. And there's two debug views. One is augmented vision, which I'm sure you've seen, where it's basically we draw boxes and labels around objects that are recognized. And then there's we what call the visualizer, which is basically vector space representation, summing up the input from all sensors. That does not show any pictures, which basically shows the car's view of the world in vector space. But I think this is very difficult for normal people to understand, they're would not know what thing they're looking at.",
+      "textZh": "嗯，在我的车里，我总是通过调试视图来看这个。而且有2种调试视图。1种是增强视觉，我相信你见过，基本上就是我们在识别出的物体周围绘制方框和标签。然后还有我们所谓的可视化器，它基本上是向量空间表示，汇总所有传感器的输入。它不显示任何图片，基本上展示的是汽车在向量空间中看到的世界。但我认为这对普通人来说很难理解，他们不会知道自己看到的是什么东西。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "So it's almost an HMI challenge through the current things that are being displayed is optimized for the general public understanding of what the system's capable of.",
+      "textZh": "所以，这几乎是一个HMI挑战，通过当前显示的内容，针对普通公众理解该系统的能力进行了优化。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "If you have no idea how computer vision works or anything, you can still look at the screen and see if the car knows what's going on. And then if you're a development engineer, or if you have the development build like I do, then you can see all the debug information. But this would just be like total gibberish to most people.",
+      "textZh": "如果你完全不知道计算机视觉如何运作，或者对此一无所知，你仍然可以看着屏幕，了解汽车是否知道正在发生什么。然后，如果你是开发工程师，或者像我一样使用开发版本，那么你就能看到所有调试信息。但对大多数人来说，这完全就像是胡言乱语。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "What's your view on how to best distribute effort? So there's three, I would say, technical aspects of Autopilot that are really important. So it's the underlying algorithms, like the neural network architecture, there's the data that it's trained on, and then there's the hardware development and maybe others. So, look, algorithm, data, hardware. You only have so much money, only have so much time. What do you think is the most important thing to allocate resources to? Or do you see it as pretty evenly distributed between those three?",
+      "textZh": "对于如何以最佳方式分配精力，你有什么看法？我认为，Autopilot有3个非常重要的技术方面。一个是底层算法，比如神经网络架构；一个是用于训练它的数据；然后是硬件开发，或许还有其他方面。所以，听着，算法、数据、硬件。你的资金只有这么多，时间也只有这么多。你认为把资源分配到什么方面最重要？还是说，你认为资源应该相当均匀地分配在这3个方面？"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "We automatically get vast amounts of data because all of our cars have eight external facing cameras, and radar, and usually 12 ultrasonic sensors, GPS obviously, and IMU. And we've got about 400,000 cars on the road that have that level of data. Actually, I think you keep quite close track of it actually.",
+      "textZh": "我们会自动获得海量数据，因为我们的所有汽车都有8个朝向外部的摄像头、雷达，通常还有12个超声波传感器，显然也有GPS和IMU。而且，我们大约有400,000辆具备这种数据水平的汽车在道路上行驶。实际上，我想你确实一直在相当密切地追踪这个数字。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "Yes.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Yeah, so we're approaching half a million cars on the road that have the full sensor suite. I'm not sure how many other cars on the road have this sensor suite, but I'd be surprised if it's more than 5,000, which means that we have 99% of all the data.",
+      "textZh": "对，所以道路上具备全套传感器的汽车正接近500,000辆。我不确定道路上还有多少其他汽车配备了这套传感器，但如果超过5,000辆，我会感到惊讶，这意味着我们拥有所有数据的99%。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "So there's this huge inflow of data.",
+      "textZh": "所以，有如此庞大的数据流入。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Absolutely, a massive inflow of data. And then it's taken us about three years, but now we've finally developed our full self-driving computer, which can process an order of magnitude as much as the NVIDIA system that we currently have in the cars, and to use it, you unplug the NVIDIA computer and plug the Tesla computer in and that's it. In fact, we still are exploring the boundaries of its capabilities.",
+      "textZh": "当然，数据流入规模非常庞大。然后，我们花了大约3年时间，但现在终于开发出了自己的全自动驾驶计算机，它的处理能力可以达到我们目前在车内使用的NVIDIA系统的一个数量级之多；要使用它，只需拔掉NVIDIA计算机，再插上Tesla计算机，就这样。事实上，我们仍在探索它的能力边界。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "We're able to run the cameras at full frame-rate, full resolution, not even crop the images, and it's still got headroom even on one of the systems. The full self-driving computer is really two computers, two systems on a chip, that are fully redundant. So you could put a boat through basically any part of that system and it still works.",
+      "textZh": "我们能够让摄像头以全帧率、全分辨率运行，甚至无需裁剪图像，而且即使只在其中一个系统上运行，也仍有余量。全自动驾驶计算机实际上是2台计算机、2个片上系统，并且完全冗余。所以，你基本上可以让一艘船穿过该系统的任何部分，它仍然能够工作。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "The redundancy, are they perfect copies of each other or-- - Yeah.",
+      "textZh": "这种冗余，它们是彼此的完美副本，还是—— - 对。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "Oh, so it's purely for redundancy as opposed to an arguing machine kind of architecture where they're both making decisions, this is purely for redundancy.",
+      "textZh": "哦，所以它纯粹是为了冗余，而不是一种争论机器式的架构，即两者都在做决策；这纯粹是为了冗余。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Think of it more like it's a twin-engine commercial aircraft. The system will operate best if both systems are operating, but it's capable of operating safely on one. So, as it is right now, we can just run, we haven't even hit the edge of performance so there's no need to actually distribute functionality across both SOCs. We can actually just run a full duplicate on each one.",
+      "textZh": "不妨更多地把它想象成一架双引擎商用飞机。如果两个系统都在运行，系统就会以最佳状态运行，但它也能够依靠其中一个系统安全运行。所以，就目前而言，我们可以直接运行，我们甚至还没有触及性能边界，因此实际上没有必要在两个SOC之间分配功能。事实上，我们可以在每一个上都运行一个完整的副本。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "So you haven't really explored or hit the limit of the system.",
+      "textZh": "所以，你们还没有真正探索或触及这个系统的极限。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "[Elon] No not yet, the limit, no.",
+      "textZh": "[埃隆] 不，还没有，极限，还没有。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "So the magic of deep learning is that it gets better with data. You said there's a huge inflow of data, but the thing about driving, - Yeah.",
+      "textZh": "所以，深度学习的神奇之处在于，它会随着数据增加而变得更好。你说有庞大的数据流入，但驾驶这件事，- 对。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "the really valuable data to learn from is the edge cases. I've heard you talk somewhere about Autopilot disengagements being an important moment of time to use. Is there other edge cases or perhaps can you speak to those edge cases, what aspects of them might be valuable, or if you have other ideas, how to discover more and more and more edge cases in driving?",
+      "textZh": "真正有学习价值的数据是边缘案例。我听你在某处谈到过，Autopilot退出是一个值得利用的重要时刻。还有其他边缘案例吗？或者也许你能谈谈这些边缘案例，其中哪些方面可能有价值；或者，如果你还有其他想法，该如何在驾驶中发现越来越多、越来越多、越来越多的边缘案例？"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "Well there's a lot of things that are learnt. There are certainly edge cases where, say somebody's on Autopilot and they take over, and then that's a trigger that goes out to our system and says, okay, did they take over for convenience, or did they take over because the Autopilot wasn't working properly? There's also, let's say we're trying to figure out, what is the optimal spline for traversing an intersection.",
+      "textZh": "嗯，有很多东西会被学习。肯定存在一些边缘情况，比如说某个人正在使用自动辅助驾驶，然后他们接管了驾驶，这就会触发一个信号并发送到我们的系统，说，好吧，他们是为了方便而接管，还是因为自动辅助驾驶没有正常工作才接管？还有，比如说我们正试图弄清楚，穿越一个十字路口的最佳样条曲线是什么。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Then the ones where there are no interventions are the right ones. So you then you say, okay, when it looks like this, do the following. And then you get the optimal spline for navigating a complex intersection.",
+      "textZh": "那么，那些没有干预的就是正确的。所以接下来你会说，好吧，当情况看起来像这样时，就执行以下操作。然后你就能得到用于通过复杂交叉路口的最优样条曲线。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "So there's kind of the common case, So you're trying to capture a huge amount of samples of a particular intersection when things went right, and then there's the edge case where, as you said, not for convenience, but something didn't go exactly right.",
+      "textZh": "所以，这算是常见情况：你试图采集某个特定交叉路口在一切正常时的大量样本；然后还有边缘情况，就像你说的，不是为了方便，而是某些事情没有完全正常地进行。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "So if somebody started manual control from Autopilot. And really, the way to look at this is view all input as error. If the user had to do input, there's something, all input is error.",
+      "textZh": "所以，如果有人从 Autopilot 切换为手动控制。实际上，看待这件事的方式是把所有输入都视为错误。如果用户不得不进行输入，那就说明有问题，所有输入都是错误。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "That's a powerful line to think of it that way 'cause it may very well be error, but if you wanna exit the highway, or if it's a navigation decision that Autopilot's not currently designed to do, then the driver takes over, how do you know the difference?",
+      "textZh": "用这种方式来思考，这句话很有力量，因为那很可能确实是错误；但如果你想驶离高速公路，或者这是一个 Autopilot 目前并未被设计来执行的导航决策，那么驾驶员就会接管，你怎么知道其中的区别？"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "Yeah, that's gonna change with Navigate on Autopilot, which we've just released, and without stalk confirm. Assuming control in order to do a lane change, or exit a freeway, or doing a highway interchange, the vast majority of that will go away with the release that just went out.",
+      "textZh": "是的，这会随着“Navigate on Autopilot”而改变，我们刚刚发布了它，而且无需拨杆确认。为了变道、驶离高速公路或通过高速公路互通立交而接管控制的情况，绝大多数都会随着刚刚推出的这个版本而消失。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Yeah, so that, I don't think people quite understand how big of a step that is.",
+      "textZh": "对，所以这件事，我认为人们并不十分理解这是多么大的一步。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Yeah, they don't. If you drive the car then you do.",
+      "textZh": "是的，他们不明白。如果你驾驶这辆车，你就会明白。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "So you still have to keep your hands on the steering wheel currently when it does the automatic lane change. There's these big leaps through he development of Autopilot, through its history and, what stands out to you as the big leaps? I would say this one, Navigate on Autopilot without having to confirm is a huge leap.",
+      "textZh": "所以目前当它自动变道时，你仍然必须把手放在方向盘上。Autopilot 的发展过程中、贯穿它的历史，出现过这些巨大的飞跃，而在你看来，哪些是重大的飞跃？我会说这一次，无需确认的“Navigate on Autopilot”是一次巨大的飞跃。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "It is a huge leap.",
+      "textZh": "这确实是一次巨大的飞跃。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "What are the-- It also automatically overtakes slow cars. So it's both navigation and seeking the fastest lane. So it'll overtake slow cars and exit the freeway and take highway interchanges, and then we have traffic light recognition, which introduced initially as a warning. I mean, on the development version that I'm driving, the car fully stops and goes at traffic lights.",
+      "textZh": "有哪些——它还会自动超越慢车。所以它既进行导航，也会寻找最快的车道。它会超越慢车、驶离高速公路并通过高速公路互通立交；然后我们还有交通信号灯识别，最初是以警告功能的形式推出的。我的意思是，在我驾驶的开发版本中，汽车会在交通信号灯前完全停车并起步。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "So those are the steps, right? You've just mentioned some things that are an inkling of a step towards full autonomy. What would you say are the biggest technological roadblocks to full self-driving?",
+      "textZh": "所以这些就是步骤，对吧？你刚才提到的一些事情，隐约显示出向完全自动驾驶迈进了一步。你认为实现完全自动驾驶最大的技术障碍是什么？"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Actually, the full self-driving computer that we just, the Tesla, what we call, FSD computer that's now in production, so if you order any Model S or X, or any Model 3 that has the full self-driving package, you'll get the FSD computer. That's important to have enough base computation. Then refining the neural net and the control software. All of that can just be provided as an over-the-air update.",
+      "textZh": "实际上，我们刚刚……Tesla 的完全自动驾驶计算机，也就是我们所称的 FSD 计算机，现在已经投入生产；所以，如果你订购任何一辆 Model S 或 X，或者任何一辆配备完全自动驾驶套件的 Model 3，你都会获得 FSD 计算机。拥有足够的基础算力很重要。然后就是完善神经网络和控制软件。所有这些都可以直接通过无线更新来提供。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "The thing that's really profound, and what I'll be emphasizing at the investor day that we're having focused on autonomy, is that the car is currently being produced, with the hard word currently being produced, is capable of full self-driving.",
+      "textZh": "真正意义深远的事情，也是我会在我们以自动驾驶为重点举办的投资者日上强调的事情，是目前正在生产的汽车，这里的硬词是目前正在生产，具备完全自动驾驶的能力。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "But capable is an interesting word because-- - [Elon] The hardware is.",
+      "textZh": "但“具备能力”是个有意思的词，因为————[埃隆] 硬件具备。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Yeah, the hardware.",
+      "textZh": "是的，硬件。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "And as we refine the software, the capabilities will increase dramatically, and then the reliability will increase dramatically, and then it will receive regulatory approval. So essentially, buying a car today is an investment in the future. I think the most profound thing is that if you buy a Tesla today, I believe you're buying an appreciating asset, not a depreciating asset.",
+      "textZh": "随着我们完善软件，能力会大幅提升，之后可靠性会大幅提升，然后它将获得监管批准。所以从本质上讲，今天购买汽车就是对未来的投资。我认为最意义深远的一点是，如果你今天购买一辆 Tesla，我相信你买的是一项升值资产，而不是贬值资产。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "So that's a really important statement there because if hardware is capable enough, that's the hard thing to upgrade usually.",
+      "textZh": "所以这是一项非常重要的表述，因为如果硬件的能力足够，硬件通常是难以升级的部分。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Yes, exactly.",
+      "textZh": "是的，完全正确。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "Then the rest is a software problem-- - Yes, software has no marginal cost really.",
+      "textZh": "那么其余部分就是软件问题————是的，软件实际上没有边际成本。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "But, what's your intuition on the software side? How hard are the remaining steps to get it to where the experience, not just the safety, but the full experience is something that people would enjoy?",
+      "textZh": "但是，你对软件方面的直觉是什么？剩余的步骤有多难，才能让它达到这样一种程度：不仅是安全性，而且完整体验本身也是人们会喜欢的？"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "I think people it enjoy it very much so on highways. It's a total game changer for quality of life, for using Tesla Autopilot on the highways. So it's really just extending that functionality to city streets, adding in the traffic light recognition, navigating complex intersections, and then being able to navigate complicated parking lots so the car can exit a parking space and come and find you, even if it's in a complete maze of a parking lot. And, then it can just drop you off and find a parking spot, by itself.",
+      "textZh": "我认为人们在高速公路上已经非常喜欢它了。在高速公路上使用 Tesla Autopilot，彻底改变了生活质量。所以其实只需把这项功能扩展到城市街道，加入交通信号灯识别，驶过复杂的交叉路口，然后能够驶过复杂的停车场，这样汽车就能驶出停车位并过来找到你，即使它身处一座迷宫般的停车场。然后，它可以直接让你下车，并自行寻找停车位。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "Yeah, in terms of enjoyabilty, and something that people would actually find a lotta use from, the parking lot, it's rich of annoyance when you have to do it manually, so there's a lot of benefit to be gained from automation there. So, let me start injecting the human into this discussion a little bit.",
+      "textZh": "是的，就愉悦程度以及人们实际上会发现非常有用的东西而言，停车场在必须手动处理时充满了烦恼，所以那里的自动化可以带来很多好处。那么，让我开始把人这个因素稍微引入这场讨论。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "So let's talk about full autonomy, if you look at the current level four vehicles being tested on row like Waymo and so on, they're only technically autonomous, they're really level two systems with just a different design philosophy, because there's always a safety driver in almost all cases, and they're monitoring the system.",
+      "textZh": "所以我们来谈谈完全自动驾驶。如果你看看目前正在排上测试的四级车辆，比如 Waymo 等等，它们只是在技术上属于自动驾驶，实际上是设计理念不同的二级系统，因为几乎在所有情况下都始终有一名安全驾驶员，而且他们会监控系统。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "Right.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "Do you see Tesla's full self-driving as still, for a time to come, requiring supervision of the human being. So its capabilities are powerful enough to drive but nevertheless requires a human to still be supervising, just like a safety driver is in other fully autonomous vehicles?",
+      "textZh": "你是否认为，Tesla 的完全自动驾驶在未来一段时间内仍然需要人类监督？也就是说，它的能力强大到足以驾驶，但仍然需要人类继续监督，就像其他完全自动驾驶车辆中的安全驾驶员一样？"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "I think it will require detecting hands on wheel for at least six months or something like that from here. Really it's a question of, from a regulatory standpoint, how much safer than a person does Autopilot need to be, for it to be okay to not monitor the car.",
+      "textZh": "我认为从现在起至少6个月左右，它仍需要检测手是否放在方向盘上。实际上问题在于，从监管角度来看，Autopilot 需要比人安全多少，才能允许不监控汽车。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "And this is a debate that one can have, and then, but you need a large amount of data, so that you can prove, with high confidence, statistically speaking, that the car is dramatically safer than a person. And that adding in the person monitoring does not materially affect the safety. So it might need to be 200 or 300% safer than a person.",
+      "textZh": "这是一个可以展开辩论的问题，然后，但是你需要大量数据，这样你才能从统计学角度以高度置信度证明，汽车远比人安全。而且加入人员监控不会对安全性产生实质性影响。所以它可能需要比人安全200%或300%。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "And how do you prove that?",
+      "textZh": "你要如何证明这一点？"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "Incidents per mile.",
+      "textZh": "每英里事故数。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Yeah.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "So crashes and fatalities-- - Yeah, fatalities would be a factor, but there are just not enough fatalities to be statistically significant, at scale. But there are enough crashes, there are far more crashes then there are fatalities. So you can assess what is the probability of a crash. Then there's another step which is probability of injury. And probability of permanent injury, the probability of death. And all of those need to be much better than a person, by at least, perhaps, 200%.",
+      "textZh": "所以是碰撞和死亡————是的，死亡人数会是一项因素，但死亡事件实在不够多，不足以在大规模情况下达到统计显著性。但碰撞事故足够多，碰撞事故远多于死亡事件。所以你可以评估发生碰撞的概率。然后还有下一步，也就是受伤的概率。以及永久性受伤的概率、死亡的概率。所有这些都需要远优于人，至少，也许，要好200%。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "And you think there's the ability to have a healthy discourse with the regulatory bodies on this topic?",
+      "textZh": "你认为有能力与监管机构就这个话题展开健康的讨论吗？"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "I mean, there's no question that regulators paid a disproportionate amount of attention to that which generates press, this is just an objective fact. And it also generates a lot of press. So, in the United States there's, I think, almost 40,000 automotive deaths per year. But if there are four in Tesla, they will probably receive a thousand times more press than anyone else.",
+      "textZh": "我的意思是，毫无疑问，监管机构对那些会引发媒体报道的事情给予了不成比例的关注，这只是一个客观事实。而且它也确实引发了大量媒体报道。所以，在美国，我想每年有将近40,000人死于汽车事故。但如果其中有4人死于 Tesla，他们获得的媒体报道很可能会比其他任何人多一千倍。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "So the psychology of that is actually fascinating, I don't think we'll have enough time to talk about that, but I have to talk to you about the human side of things. So, myself and our team at MIT recently released a paper on functional vigilance of drivers while using Autopilot. This is work we've been doing since Autopilot was first released publicly, over three years ago, collecting video of driver faces and driver body. So I saw that you tweeted a quote from the abstract, so I can at least guess that you've glanced at it.",
+      "textZh": "所以，这背后的心理学其实非常引人入胜，我觉得我们没有足够的时间讨论这个，但我必须和你谈谈人这一面的事情。所以，我和我们麻省理工学院的团队最近发表了一篇关于驾驶员在使用 Autopilot 时的功能性警觉性的论文。这项工作我们从 Autopilot 首次公开发布时就开始做了，那是3年多以前，我们一直在收集驾驶员面部和身体的视频。所以我看到你发推引用了摘要中的一句话，因此我至少可以猜到你浏览过它。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "Yeah, I read it.",
+      "textZh": "是的，我读过了。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "Can I talk you through what we found?",
+      "textZh": "我可以给你讲讲我们的发现吗？"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "Sure.",
+      "textZh": "当然。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "Okay, it appears that in the data that we've collected, that drivers are maintaining functional vigilance such that, we're looking at 18,000 disengagements from Autopilot, 18,900, and annotating were they able to take over control in a timely manner. So they were there, present, looking at the road to take over control, okay. So this goes against what many would predict from the body of literature on vigilance with automation.",
+      "textZh": "好吧，从我们收集的数据来看，驾驶员似乎保持着功能性警觉性，也就是说，我们查看了18,000次 Autopilot 退出，18,900次，并标注他们是否能够及时接管控制。所以他们当时就在那里，注意力在线，看着道路，准备接管控制，好吧。这与许多人根据自动化警觉性方面的文献所作的预测相反。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "Now the question is, do you think these results hold across the broader population. So, ours is just a small subset. One of the criticism is that, there's a small minority of drivers that may be highly responsible, where their vigilance decrement would increase with Autopilot use.",
+      "textZh": "现在的问题是，你认为这些结果在更广泛的人群中也成立吗？所以，我们的只是一个小样本。其中一种批评意见是，可能有极少数驾驶员非常负责任，而他们的警觉性下降会随着 Autopilot 的使用而加剧。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "I think this is all really gonna be swept, I mean, the system's improving so much, so fast, that this is gonna be a moot point very soon. Where vigilance is, if something's many times safer than a person, then adding a person does, the effect on safety is limited. And, in fact, it could be negative.",
+      "textZh": "我觉得这一切真的很快就会被扫到一边，我是说，这个系统改进得如此之多、如此之快，这很快就会变成一个无关紧要的问题。至于警觉性，如果某样东西比人安全许多倍，那么再加入一个人，对安全性的影响是有限的。而且，事实上，它可能是负面的。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "That's really interesting, so the fact that a human may, some percent of the population may exhibit a vigilance decrement, will not affect overall statistics, numbers on safety?",
+      "textZh": "这真的很有意思，所以，人类可能会，也就是一定比例的人群可能会表现出警觉性下降，但这不会影响整体的安全统计数据、数字吗？"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "No, in fact, I think it will become, very, very quickly, maybe even towards the end of this year, but I would say, I'd be shocked if it's not next year at the latest, that having a human intervene will decrease safety. Decrease, like imagine if you're in an elevator. Now it used to be that there were elevator operators. And you couldn't go on an elevator by yourself and work the lever to move between floors.",
+      "textZh": "不，事实上，我认为这很快、非常快就会成为现实，也许甚至在今年年底左右。不过我会说，最迟到明年，如果情况还不是这样，我会非常震惊：让人类介入反而会降低安全性。降低安全性，就像想象一下你在电梯里。过去电梯里曾经有电梯操作员。而且你不能独自乘坐电梯，自己操纵控制杆在楼层之间移动。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "And now nobody wants an elevator operator, because the automated elevator that stops at the floors is much safer than the elevator operator. And in fact it would be quite dangerous to have someone with a lever that can move the elevator between floors.",
+      "textZh": "而现在没有人想要电梯操作员，因为能在各楼层停靠的自动电梯比电梯操作员安全得多。事实上，让某个人拿着一根可以让电梯在楼层之间移动的控制杆会相当危险。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "So, that's a really powerful statement, and a really interesting one, but I also have to ask from a user experience and from a safety perspective, one of the passions for me algorithmically is camera-based detection of just sensing the human, but detecting what the driver's looking at, cognitive load, body pose, on the computer vision side that's a fascinating problem. And there's many in industry who believe you have to have camera-based driver monitoring. Do you think there could be benefit gained from driver monitoring?",
+      "textZh": "所以，这是一个非常有力的说法，也是一个非常有意思的说法，但我还必须从用户体验和安全角度问一下。从算法层面来说，我热衷的领域之一是基于摄像头的检测，即只是感知人类，但又检测驾驶员正在看哪里、认知负荷和身体姿态；在计算机视觉方面，这是一个很有吸引力的问题。而且业内有很多人认为必须采用基于摄像头的驾驶员监控。你认为驾驶员监控可能带来益处吗？"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "If you have a system that's at or below a human level of reliability, then driver monitoring makes sense. But if your system is dramatically better, more reliable than a human, then driver monitoring does not help much. And, like I said, if you're in an elevator, do you really want someone with a big lever, some random person operating the elevator between floors? I wouldn't trust that. I would rather have the buttons.",
+      "textZh": "如果你的系统可靠性处于或低于人类水平，那么驾驶员监控是合理的。但如果你的系统远远优于人类，比人类可靠得多，那么驾驶员监控就没有多大帮助。而且，就像我说的，如果你在电梯里，你真的想让某个人拿着一根大控制杆，让某个随机的人操作电梯在楼层之间移动吗？我不会信任那种方式。我宁愿使用按钮。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "Okay, you're optimistic about the pace of improvement of the system, from what you've seen with the full self-driving car computer.",
+      "textZh": "好，根据你在完全自动驾驶汽车计算机上看到的情况，你对系统的改进速度持乐观态度。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "The rate of improvement is exponential.",
+      "textZh": "改进速度呈指数级增长。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "So, one of the other very interesting design choices early on that connects to this, is the operational design domain of Autopilot. So, where Autopilot is able to be turned on. So contrast another vehicle system that we were studying is the Cadillac Super Cruise system that's, in terms of ODD, very constrained to particular kinds of highways, well mapped, tested, but it's much narrower than the ODD of Tesla vehicles.",
+      "textZh": "所以，早期另一个与此相关且非常有意思的设计选择，是 Autopilot 的运行设计域。也就是 Autopilot 能够在哪里开启。所以，我们研究的另一个车辆系统是凯迪拉克 Super Cruise 系统；相比之下，就 ODD 而言，它被严格限制在特定类型的公路上，这些公路绘制了精细地图并经过测试，但它的范围比 Tesla 车辆的 ODD 窄得多。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "It's like ADD (both laugh).",
+      "textZh": "它就像 ADD（两人都笑了）。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "Yeah, that's good, that's a good line. What was the design decision in that different philosophy of thinking, where there's pros and cons. What we see with a wide ODD is Tesla drivers are able to explore more the limitations of the system, at least early on, and they understand, together with the instrument cluster display, they start to understand what are the capabilities, so that's a benefit. The con is you're letting drivers use it basically anywhere-- - Anywhere that it can detect lanes with confidence.",
+      "textZh": "对，这很好，这句话说得好。在那种不同的思考理念中，做出这一设计决定的原因是什么，其中有利也有弊。我们看到，借助宽泛的 ODD，Tesla 驾驶员能够更多地探索系统的局限性，至少在早期是这样，而且结合仪表盘显示，他们开始了解系统有哪些能力，所以这是一个优点。缺点是，你让驾驶员基本上可以在任何地方使用它—— - 任何它能够有把握检测到车道线的地方。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "Lanes, was there a philosophy, design decisions that were challenging, that were being made there? Or from the very beginning was that done on purpose, with intent?",
+      "textZh": "车道，当时是否存在某种理念，是否有一些很有挑战性的设计决策需要在那里做出？还是从一开始，那就是有目的、有意为之的？"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "Frankly it's pretty crazy letting people drive a two-ton death machine manually. That's crazy, like, in the future will people be like, I can't believe anyone was just allowed to drive one of these two-ton death machines, and they just drive wherever they wanted. Just like elevators, you could just move that elevator with that lever wherever you wanted, can stop it halfway between floors if you want. It's pretty crazy, so, it's gonna seem like a mad thing in the future that people were driving cars.",
+      "textZh": "坦率地说，让人们手动驾驶一台2吨重的死亡机器，实在相当疯狂。这太疯狂了，就像，未来的人们会不会说，我真不敢相信当时竟然允许任何人驾驶这些2吨重的死亡机器之一，而且他们想开到哪里就开到哪里。就像电梯一样，你可以用那根操纵杆随意移动那部电梯，如果你愿意，还可以让它停在楼层之间。相当疯狂，所以，未来人们会觉得由人驾驶汽车是一件疯狂的事。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "So I have a bunch of questions about the human psychology, about behavior and so on-- - That's moot, it's totally moot.",
+      "textZh": "所以，关于人类心理、行为等等，我有一大堆问题—— - 那已经无关紧要了，完全无关紧要。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "Because you have faith in the AI system, not faith but, both on the hardware side and the deep learning approach of learning from data, will make it just far safer than humans.",
+      "textZh": "因为你相信 AI 系统，不是相信，而是硬件方面和从数据中学习的深度学习方法，都会让它比人类安全得多。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "Yeah, exactly.",
+      "textZh": "对，正是如此。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "Recently there were a few hackers, who tricked Autopilot to act in unexpected ways for the adversarial examples. So we all know that neural network systems are very sensitive to minor disturbances, these adversarial examples, on input. Do you think it's possible to defend against something like this, for the industry?",
+      "textZh": "最近有几名黑客利用对抗样本，诱使 Autopilot 以意想不到的方式行动。所以我们都知道，神经网络系统对输入中的微小扰动，也就是这些对抗样本，非常敏感。你认为整个行业有可能抵御这样的东西吗？"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "Sure (both laugh), yeah.",
+      "textZh": "当然（两人都笑了），对。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "Can you elaborate on the confidence behind that answer?",
+      "textZh": "你能详细说明一下，你为何如此有把握地给出这个答案吗？"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "A neural net is just basically a bunch of matrix math. But you have to be a very sophisticated, somebody who really understands neural nets and basically reverse-engineer how the matrix is being built, and then create a little thing that's just exactly causes the matrix math to be slightly off. But it's very easy to block that by having, what would basically negative recognition, it's like if the system sees something that looks like a matrix hack, exclude it. It's such a easy thing to do.",
+      "textZh": "神经网络基本上就是一堆矩阵数学运算。但你必须非常高明，是一个真正理解神经网络的人，并且基本上对矩阵是如何构建的进行逆向工程，然后创造出一个小东西，恰好导致矩阵数学运算出现一点偏差。但要阻止它非常容易，只需采用一种基本上可以称为负向识别的方法，就像如果系统看到某个看起来像矩阵攻击的东西，就把它排除掉。这是一件如此容易做到的事。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "So learn both on the valid data and the invalid data, so basically learn on the adversarial examples to be able to exclude them.",
+      "textZh": "所以，既学习有效数据，也学习无效数据，也就是通过学习对抗样本来将它们排除。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Yeah, you like basically wanna both know what is a car and what is definitely not a car. And you train for, this is a car, and this is definitely not a car. Those are two different things. People have no idea of neural nets really, They probably think neural nets involves, a fishing net or something (Lex laughs).",
+      "textZh": "对，你基本上既想知道什么是汽车，也想知道什么绝对不是汽车。而你训练的是，这是汽车，以及这绝对不是汽车。这是两件不同的事。人们其实完全不了解神经网络，他们可能以为神经网络涉及渔网之类的东西（Lex 笑）。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "So, as you know, taking a step beyond just Tesla and Autopilot, current deep learning approaches still seem, in some ways, to be far from general intelligence systems. Do you think the current approaches will take us to general intelligence, or do totally new ideas need to be invented?",
+      "textZh": "所以，如你所知，让我们不只谈 Tesla 和 Autopilot，再往前一步看，目前的深度学习方法在某些方面似乎仍然与通用智能系统相距甚远。你认为目前的方法会把我们带向通用智能，还是需要发明全新的理念？"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "I think we're missing a few key ideas for artificial general intelligence. But it's gonna be upon us very quickly, and then we'll need to figure out what shall we do, if we even have that choice. It's amazing how people can't differentiate between, say, the narrow AI that allows a car to figure out what a lane line is, and navigate streets, versus general intelligence. Like these are just very different things. Like your toaster and your computer are both machines, but one's much more sophisticated than another.",
+      "textZh": "我认为，要实现通用人工智能，我们还缺少几个关键理念。但它很快就会降临到我们头上，然后我们就需要弄清楚该怎么办，如果我们甚至还有这种选择的话。令人惊讶的是，人们无法区分，比如说，让汽车能够识别车道线并在街道上行驶的狭义 AI，与通用智能之间的区别。这些就是非常不同的东西。就像你的烤面包机和计算机都是机器，但其中一个比另一个复杂得多。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "You're confident with Tesla you can create the world's best toaster-- - The world's best toaster, yes. The world's best self-driving... yes, to me right now this seems game, set and match. I mean, I don't want us to be complacent or over-confident, but that's what it, that is just literally how it appears right now, I could be wrong, but it appears to be the case that Tesla is vastly ahead of everyone.",
+      "textZh": "你有信心通过 Tesla 制造出世界上最好的烤面包机—— - 世界上最好的烤面包机，是的。世界上最好的自动驾驶……是的，对我来说，现在看来胜负已定。我是说，我不希望我们自满或过度自信，但这就是它，这确实就是现在呈现出来的样子，我可能是错的，但看起来情况就是 Tesla 遥遥领先于所有人。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "Do you think we will ever create an AI system that we can love, and loves us back in a deep meaningful way, like in the movie Her?",
+      "textZh": "你认为我们有朝一日会不会创造出一个我们能够爱上、也会以深刻而有意义的方式爱我们的 AI 系统，就像电影《她》中那样？"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "I think AI will capable of convincing you to fall in love with it very well.",
+      "textZh": "我认为 AI 将非常有能力说服你爱上它。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "And that's different than us humans?",
+      "textZh": "那和我们人类不同吗？"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "You know, we start getting into a metaphysical question of, do emotions and thoughts exist in a different realm than the physical? And maybe they do, maybe they don't, I don't know. But from a physics standpoint, I tend to think of things, you know, like physics was my main sort of training, and from a physics standpoint, essentially, if it loves you in a way that you can't tell whether it's real or not, it is real.",
+      "textZh": "你知道，我们开始进入一个形而上学的问题：情感和思想是否存在于物理世界之外的另一个领域？也许存在，也许不存在，我不知道。但从物理学的角度来看，我倾向于这样思考事物，你知道，物理学算是我主要接受的训练，而从物理学的角度来说，本质上，如果它以一种让你无法分辨真假的方式爱你，那就是真的。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "That's a physics view of love.",
+      "textZh": "这是从物理学角度看待爱。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "Yeah (laughs), if you cannot prove that it does not, if there's no test that you can apply that would make it, allow you to tell the difference, then there is no difference.",
+      "textZh": "对（笑），如果你无法证明它没有，如果没有任何一种你可以采用的测试能够让它，让你分辨出区别，那么就没有区别。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "Right, and it's similar to seeing our world a simulation, they may not be a test to tell the difference between what the real world - Yes.",
+      "textZh": "对，这与把我们的世界看作一个模拟类似，可能没有一种测试能分辨真实世界——是的。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "and the simulation, and therefore, from a physics perspective, it might as well be the same thing.",
+      "textZh": "和模拟之间的区别，因此，从物理学角度来看，它们完全可以视为同一种东西。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "Yes, and there may be ways to test whether it's a simulation, there might be, I'm not saying there aren't. But you could certainly imagine that a simulation could correct, that once an entity in the simulation found a way to detect the simulation, it could either pause the simulation, start a new simulation, or do one of many other things that then corrects for that error.",
+      "textZh": "是的，而且也许存在检验它是否为模拟的方法，也许存在，我不是说不存在。但你当然可以设想，模拟可以进行纠正，即一旦模拟中的某个实体找到了检测模拟的方法，它就可以暂停模拟、启动一个新的模拟，或者采取许多其他措施中的一种，进而纠正那个错误。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "So when, maybe you, or somebody else creates an AGI system, and you get to ask her one question, what would that question be?",
+      "textZh": "所以，当，也许是你，或者其他某个人创造出一个 AGI 系统，而你可以问她一个问题时，那个问题会是什么？"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "What's outside the simulation?",
+      "textZh": "模拟之外是什么？"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "Elon, thank you so much for talking today, it's a pleasure.",
+      "textZh": "埃隆，非常感谢你今天与我交谈，这是我的荣幸。"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "All right, thank you.",
+      "textZh": "好的，谢谢。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T00:01:32.110Z",
+    "reviewedAt": "2026-09-13T00:17:54.613Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:26.404Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=dEv99vxKjVI",
+  "sourceHash": "675f2735235a77ea157d8139735769c4e7ee71ddc9a12bac15c0430150506350"
+}

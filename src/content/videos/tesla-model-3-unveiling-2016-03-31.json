@@ -1,0 +1,670 @@
+{
+  "id": "tesla-model-3-unveiling-2016-03-31",
+  "slug": "tesla-model-3-unveiling-2016-03-31",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2016-03-31",
+  "titleEn": "Tesla Model 3 Unveiling",
+  "titleZh": "Tesla Model 3 发布会",
+  "summaryEn": "Official Tesla recording of Elon Musk unveiling the Model 3 and opening pre-orders at the Hawthorne design studio.",
+  "summaryZh": "Tesla 官方录制的埃隆·马斯克发布 Model 3 并在霍桑设计工作室开放预订的视频。",
+  "sourceUrl": "https://www.youtube.com/watch?v=Q4VGQPk2Dl8",
+  "sourceLabel": "Tesla",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-model-3-unveiling-2016-03-31",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/Q4VGQPk2Dl8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Q4VGQPk2Dl8/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 1364,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Franz von Holzhausen",
+      "startSec": 9.44,
+      "textEn": "Good evening everyone here and out there on the Internet. My name is Franz Von Holzhausen. I lead the design team here at Tesla, and I'm excited to welcome you to the Tesla Design studio here in Hawthorne, California. We are here tonight to talk about Model 3.",
+      "textZh": "现场以及互联网上的各位，晚上好。我叫弗朗茨·冯·霍尔茨豪森。我负责 Tesla 的设计团队，很高兴欢迎大家来到位于加利福尼亚州霍桑的 Tesla 设计工作室。今晚我们来到这里，是为了谈谈 Model 3。",
+      "speakerZh": "弗朗茨·冯·霍尔茨豪森"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Franz von Holzhausen",
+      "startSec": 34.25,
+      "textEn": "But we wouldn't be here without years of intense drive and passion from the Tesla team and leadership on an unwavering mission. Ladies and gentlemen, on behalf of all of my colleagues here at Tesla, it is my honor to welcome to the stage Mr. Elon Musk.",
+      "textZh": "但如果没有 Tesla 团队多年来强烈的干劲与热情，以及领导层对一项使命坚定不移的坚持，我们就不会来到这里。女士们、先生们，我谨代表 Tesla 的所有同事，非常荣幸地欢迎埃隆·马斯克先生登台。",
+      "speakerZh": "弗朗茨·冯·霍尔茨豪森"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Audience",
+      "startSec": 57.45,
+      "textEn": "Thanks everyone.",
+      "textZh": "谢谢大家。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Audience",
+      "startSec": 67.19,
+      "textEn": "All right, thank you.",
+      "textZh": "好了，谢谢。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 70.79,
+      "textEn": "All right, welcome everyone. Welcome everyone to the Model 3 unveil. We have, we have an amazing product to show you tonight. I think you're going to be blown away, but I want to start talking. Just preface this by talking about why are we doing this? Why does Tesla exist? Why are we making electric cars? Why does it matter? It's because it's very important to accelerate the transition to sustainable transport. It really, really is.",
+      "textZh": "好了，欢迎大家。欢迎大家来到 Model 3 发布会。今晚我们有、有一款了不起的产品要向大家展示。我想你们会大吃一惊，但我想先谈谈。先说说我们为什么要做这件事？Tesla 为什么存在？我们为什么要制造电动汽车？这为什么重要？因为加速向可持续交通转型非常重要。真的、真的非常重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 108.19,
+      "textEn": "This is really important for the future of the world. We have record high CO2 levels. We recently passed over 403 parts per million of CO2 in the atmosphere. You can see the chart and it looks like a vertical line and it's still climbing. And the last time there was this level of carbon concentration was 11 million years ago. That was approximately when primates started walking upright. The world was very different.",
+      "textZh": "这对世界的未来真的非常重要。我们的 CO2 水平创下了历史新高。最近，大气中的 CO2 浓度超过了百万分之403。你们可以看到这张图，它看起来就像一条垂直线，而且仍在攀升。上一次出现如此高的碳浓度是在1100万年前。那大约是灵长类动物开始直立行走的时候。当时的世界非常不同。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 140.75,
+      "textEn": "We do not want to return to that situation. And what that CO2 increase results in is a steadily increasing temperature. So we've already increased by 2 degrees. In fact, that doesn't tell the whole story because the extremes of temperature increased by as much as 20 degrees. And that line is going to keep going for some time in the future. It's really important. It makes a difference if we accelerate the transition to sustainable transportation.",
+      "textZh": "我们不想回到那种状况。而 CO2 增加造成的结果，就是温度稳步上升。所以我们已经升高了2度。事实上，这并没有说明全部情况，因为极端温度升高了多达20度。而且在未来一段时间里，那条线还会继续上升。这真的非常重要。如果我们加速向可持续交通转型，就会产生影响。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 171,
+      "textEn": "And beyond global warming, there's just the fact that combustion cars emit toxic gases. And According to an MIT study, there are 53,000 deaths per year in the US alone from auto emissions. So it stands to reason that if a vehicle is spewing toxic gas, that's obviously bad for your health.",
+      "textZh": "除了全球变暖之外，还有一个事实，就是燃油车会排放有毒气体。根据麻省理工学院的一项研究，仅在美国，每年就有53,000人死于汽车排放。因此，如果一辆车不断喷出有毒气体，显然会损害你的健康，这是合乎情理的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 196.53,
+      "textEn": "And so to address this, what we came up with, the Tesla, was what we call the secret master plan.",
+      "textZh": "所以为了解决这个问题，我们在 Tesla 想出的方案，就是我们所说的秘密宏图。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 204.77,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 210.85,
+      "textEn": "This is the first blog that ever wrote for the company. And it was originally a three step, it was originally a trilogy. Now it's a four part trilogy as it turns out.",
+      "textZh": "这是有史以来为公司写的第一篇博客。它原本分为3步，原本是一部三部曲。结果现在成了由4部分组成的三部曲。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 224.33,
+      "textEn": "But we needed to figure out how could we, as a tiny company with very few resources, actually make a difference? And the only way to do this was to start Small to start with a low volume car, which is why we started with the Tesla Roadster.",
+      "textZh": "但我们需要弄清楚，作为一家资源非常有限的小公司，我们究竟怎样才能产生影响？唯一的办法就是从小处着手，从一款产量较低的汽车起步，这就是我们从 Tesla Roadster 开始的原因。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 244.49,
+      "textEn": "So with any new technology, it takes multiple iterations before and multiple iterations and it takes economies of scale before you can make it, make it great and affordable. So step one was the Roadster. The Roadster was high price and low volume. But where it really made a difference was that it showed people, it showed the world that you could make a compelling electric car. You could make a great electric car. What was unique about the Roadster was it was the first really great electric car.",
+      "textZh": "所以对于任何新技术，都需要经过多次迭代，而且需要经过多次迭代，也需要形成规模经济，才能把它做得出色又负担得起。因此，第1步是 Roadster。Roadster 价格高、产量低。但它真正产生影响的地方在于，它向人们、向全世界表明，可以制造出一款有吸引力的电动汽车。可以制造出一款出色的电动汽车。Roadster 的独特之处在于，它是第一款真正出色的电动汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 280.63,
+      "textEn": "And before the Roadster, people thought an electric car would be slow and ugly and low range and have bad performance. And we had to break that mold. It was incredibly important to show that that wasn't true. And so we made the Roaster, which is fast, it's beautiful, it's great performance. For those of you who bought the Roaster, thank.",
+      "textZh": "在 Roadster 之前，人们认为电动汽车会很慢、很丑、续航里程短，而且性能很差。我们必须打破这种成见。证明事实并非如此极其重要。所以我们制造了 Roaster，它速度快、外形漂亮、性能出色。对于买了 Roaster 的各位，谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Audience",
+      "startSec": 309.01,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 311.09,
+      "textEn": "And we only made 500 units a year because that's all we really could make for the Roadster. But it had a very leveraged effect. In fact, Bob Lutz, the former vice chairman of gm, actually credits the Roadster with the Chevy Volt program, which then led to the Nissan Leaf program. And really, even though we were making very few cars, it actually had a close, quite a huge leverage effect on the auto industry. But there was still a lot more to do.",
+      "textZh": "而且我们每年只生产500辆，因为对 Roadster 来说，这确实已经是我们能生产的全部数量。但它产生了非常大的杠杆效应。事实上，通用汽车前副董事长鲍勃·卢茨认为，雪佛兰 Volt 项目应归功于 Roadster，而这随后又促成了日产 Leaf 项目。确实，尽管我们生产的汽车非常少，但它实际上对汽车行业产生了接近、相当巨大的杠杆效应。但仍然还有很多事情要做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 340.41,
+      "textEn": "And a lot of people said, well, the Roadster is nice, but it's sort of a toy and it's very expensive and you couldn't really make a car that people would use every day or a car that could really compete against the great combustion sedans of the world. So we thought, ok, we're going to make the Model S,",
+      "textZh": "很多人说，嗯，Roadster 很不错，但它有点像玩具，而且非常昂贵，你们不可能真正造出一款人们每天都会使用的汽车，或者一款真正能与世界上优秀的燃油轿车竞争的汽车。所以我们想，好吧，我们要制造 Model S，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Audience",
+      "startSec": 366.54,
+      "textEn": "So do it",
+      "textZh": "那就做吧",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 368.62,
+      "textEn": "again, do it again. So the Model S, any of you drive a Model S?",
+      "textZh": "再来一次，再来一次。那么 Model S，在座有人开 Model S 吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 379.1,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 381.58,
+      "textEn": "So then, you know, it's a great sedan. It can seat up to seven people, five adults and two kids. It's tested by Road and track and Motor Trend and others as the fastest four door car in history ever.",
+      "textZh": "那么，你们知道，它是一款出色的轿车。它最多可乘坐7人，5名成年人和2名儿童。经《Road & Track》《Motor Trend》等媒体测试，它是有史以来速度最快的4门汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 404.37,
+      "textEn": "And it's got great handling, it's got great technology, it's got things like Autopilot and it really, it was rated by almost every group as, as the best car in its year and by Consumer Reports as the best car ever.",
+      "textZh": "而且它的操控很出色，技术很先进，拥有 Autopilot 之类的功能，而且它确实、它几乎被每一家机构评为当年度最佳汽车，并被《消费者报告》评为有史以来最佳汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 427.98,
+      "textEn": "Again, the reason for that is not just to achieve some superlative in cars, but to show what an electric car can do. Because nobody believed that an electric car could do this. So what was really important was to show the reason it was important was not to achieve Awards or anything like that. It was to just show the car industry, show the world that an electric car really can be the best car. That's what really mattered.",
+      "textZh": "再说一次，这样做的原因并不只是为了在汽车领域取得某种最高成就，而是为了展示电动汽车能做到什么。因为没有人相信电动汽车能做到这一点。所以真正重要的是，表明这一点之所以重要，并不是为了获奖或任何类似的事情。而只是为了向汽车行业、向全世界表明，电动汽车真的可以成为最好的汽车。这才是真正重要的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 456.39,
+      "textEn": "Now for cars, about half the market wants a sedan and about half the market wants an suv. So we thought, well, we'll extend the Model S platform into the Model X.",
+      "textZh": "现在就汽车而言，大约一半的市场想要轿车，另一半市场想要 SUV。所以我们想，嗯，我们会把 Model S 平台扩展为 Model X。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 476.22,
+      "textEn": "Both of these are very important because the revenue from the Model S and the X is what's needed to develop the Model 3. So the Model 3 with very high volume and all the engineering needed to achieve the cost reductions and the capabilities, it costs billions of dollars. So the S and the X are what pay for that Model 3 development. So I just want to say for all of you who bought an S or an X, thank you for helping pay for the Model 3.",
+      "textZh": "这两款车都非常重要，因为开发 Model 3 所需的资金，正是来自 Model S 和 Model X 的收入。Model 3 的产量非常高，而且为了实现成本降低和那些能力而需要进行所有工程开发，这要花费数十亿美元。因此，正是 Model S 和 Model X 为 Model 3 的开发买单。所以我只想对所有购买了 Model S 或 Model X 的人说，谢谢你们帮助支付 Model 3 的开发费用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 509.84,
+      "textEn": "So the Model 3 is happening because of you. And so we actually have an S and an X on the side there and has of course, the Falcon wig doors, which did cause us some challenges, but now they're working.",
+      "textZh": "所以，Model 3 能够成为现实，是因为你们。所以我们实际上在那边放了一辆 S 和一辆 X，当然还有猎鹰假发门，它们确实给我们带来了一些挑战，但现在已经能正常工作了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 530.99,
+      "textEn": "So now then, going from the S and the X, we finally come to step three or the final step in the master plan, which is a mass market affordable car.",
+      "textZh": "那么现在，从 S 和 X 继续往下，我们终于来到了第3步，也就是总体规划的最后一步：一款大众市场买得起的汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 549.55,
+      "textEn": "It was only possible to do that after going through the prior steps. But we're here and we're here to show that to you tonight.",
+      "textZh": "只有完成前面的步骤后，才有可能做到这一点。但我们已经走到了这里，今晚我们会把它展示给你们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 562.6,
+      "textEn": "Okay, so I'm going to describe some of the aspects of the Model 3 and then. Yeah, so let's move to describing. So let's show the master plan again.",
+      "textZh": "好的，那么我会介绍 Model 3 的一些方面，然后。对，那么我们开始介绍吧。我们再展示一下总体规划。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 579.08,
+      "textEn": "OK, so that's math's plan with steps 2 and 2.5.",
+      "textZh": "好的，那就是数学的计划，包括步骤 2 和 2.5。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 586.02,
+      "textEn": "Now going to the model 3. First of all, I want to start off by saying the Model 3 is going to be an incredibly safe car. We really believe at Tesla that safety has to come first. We care about you. We want you to be safe. We want your friends and family to be safe. This is paramount. The Model 3 will not just be five star on average, it will be five star in every category.",
+      "textZh": "现在说到 Model 3。首先，我想先说，Model 3 将是一款安全性极高的汽车。我们在 Tesla 确实相信，安全必须放在首位。我们关心你们。我们希望你们安全。我们希望你们的朋友和家人安全。这是最重要的。Model 3 不仅平均会达到五星，而且每个类别都会达到五星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 611.77,
+      "textEn": "And even the base model of even the base Model 3 will do 0 to 60 miles an hour or 0 to 100 kilometers an hour in less than six seconds.",
+      "textZh": "而且，即使是基础车型，即使是基础版 Model 3，从 0 加速到时速 60 英里，或者从 0 加速到时速 100 公里，也只需不到 6 秒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 622.65,
+      "textEn": "At Tesla, we don't make slow cars.",
+      "textZh": "在 Tesla，我们不造慢车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 627.93,
+      "textEn": "And of course there will be versions of the Model 3 that go much faster.",
+      "textZh": "当然，Model 3 还会有速度快得多的版本。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 634.17,
+      "textEn": "And in terms of range, the range will be at least an EPA rating of 215 miles.",
+      "textZh": "至于续航里程，EPA 评定的续航里程将至少达到 215 英里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 645.78,
+      "textEn": "I want to emphasize these are minimum numbers. We hope to exceed them.",
+      "textZh": "我想强调，这些都是最低数字。我们希望能超过它们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 655.46,
+      "textEn": "It will. Also, all Model 3s will come standard with autopilot hardware.",
+      "textZh": "它会的。另外，所有 Model 3 都将标配 Autopilot 硬件。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 664.69,
+      "textEn": "And all autopilot safety features will be present in every car. You won't need to buy an option. The autopilot safety features will always be there.",
+      "textZh": "而且每辆车都会具备所有 Autopilot 安全功能。你不需要购买选装配置。Autopilot 安全功能会一直都在。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 676.13,
+      "textEn": "The Model 3 also fits five adults comfortably. That comfortably is the important part here.",
+      "textZh": "Model 3 还能让 5 名成年人舒适乘坐。这里重要的是“舒适”。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 685.41,
+      "textEn": "The challenge, obviously, with building a smaller car is how do you still make it comfortable with a bunch of people inside. So there are two important design steps we did with the Model 3 to achieve that. One was to move the instrument panel or the firewall. There really isn't a firewall. We don't have a big combustion engine in front. We move the front seats forward and compress the instrument panel. When you do your rides tonight, you'll see what I mean.",
+      "textZh": "显然，制造一辆更小的汽车所面临的挑战是，里面坐着一群人时，怎样仍然让它保持舒适。所以为了实现这一点，我们在 Model 3 上采取了 2 个重要的设计步骤。一个是移动仪表板或者防火墙。其实并没有防火墙。我们的前方没有大型内燃机。我们把前排座椅向前移动，并压缩了仪表板。今晚你们试乘时，就会明白我的意思。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 712,
+      "textEn": "You're sitting a little further forward. It actually feels great on the front seats. That's what gives you the leg room to have five adults. And so the first and second row have plenty of legroom. Then on the rear roof area is actually one continuous pane of glass.",
+      "textZh": "你坐的位置会稍微更靠前一些。前排座椅的感觉其实很棒。正是这样才提供了足以容纳 5 名成年人的腿部空间。所以第1排和第2排都有充足的腿部空间。然后，后部车顶区域实际上是一整块连续的玻璃。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 731.43,
+      "textEn": "The reason that that's great is because it gives you amazing headroom and a feeling of openness. So it has I think by far the best feeling, best roominess of any car in this size. Then. Then in addition, it has just, just like the Model S, it has a front and rear trunks.",
+      "textZh": "这一点很棒，是因为它为你提供了惊人的头部空间和开阔感。所以我认为，在这种尺寸的所有汽车中，它的感受无疑是最好的，空间感也是最好的。然后。然后除此之外，它有，就像 Model S 一样，它有前备厢和后备厢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Audience",
+      "startSec": 749.44,
+      "textEn": "So",
+      "textZh": "所以",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 752,
+      "textEn": "you, you can, it has more cargo capacity than any gasoline car of the same external dimensions.",
+      "textZh": "你，你可以，它的载货容量比任何外部尺寸相同的汽油车都大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 760.08,
+      "textEn": "And yeah, and you can. Actually, somebody asked me this question recently is can you fit a seven foot long surfboard on the inside? The answer is yes, you can.",
+      "textZh": "还有，是的，而且你可以。其实，最近有人问过我这个问题：车内能放下一块7英尺长的冲浪板吗？答案是，可以，能放下。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 778.94,
+      "textEn": "Then with respect to supercharging, all Model 3s will come with supercharging standard.",
+      "textZh": "然后，关于超级充电，所有Model 3都将标配超级充电功能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 789.74,
+      "textEn": "So the reason supercharging is very important, as many of you know, is that it gives you freedom of travel. Okay? It means you can conveniently go where you want, where you want, how you want. And a lot about having a car is it's about freedom. It's about going where you want to go. And so the superchargers are critical to that. So we're now at the point where we've built out over 3,600 superchargers worldwide.",
+      "textZh": "所以，正如你们很多人所知道的，超级充电之所以非常重要，是因为它给了你出行的自由。好吗？这意味着你可以方便地去你想去的地方，你想去的地方，以你想要的方式去。拥有汽车在很大程度上就是关乎自由。就是去你想去的地方。因此，超级充电站对此至关重要。所以现在，我们已经在全球建成了超过3,600座超级充电站。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 819.89,
+      "textEn": "And about the same number, about the same number of destination charges. That's present day. By the end of next year, we will double the number of superchargers.",
+      "textZh": "还有数量大致相同、数量大致相同的目的地充电站。这是目前的情况。到明年年底，我们会把超级充电站的数量增加一倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 836.69,
+      "textEn": "And quadruple the number of destination charges.",
+      "textZh": "并把目的地充电站的数量增加到4倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 841.89,
+      "textEn": "So you will be able to go virtually anywhere. And in fact, because the onboard charge of the Model S is able to adapt to, to any country's voltage and amperage, wherever you go in the world, if there's electricity, you can charge.",
+      "textZh": "所以，你几乎可以去任何地方。事实上，由于Model S的车载充电器能够适配任何国家的电压和电流，无论你去世界上的什么地方，只要有电，你就能充电。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 860.42,
+      "textEn": "So then what about buying and servicing? So where we are today with Tesla is, we've got 215 locations in Asia, North America and Europe. And by the end of next year, we expect to more than double that to 441 locations.",
+      "textZh": "那么，购买和维修保养呢？以Tesla目前的情况来说，我们在亚洲、北美和欧洲拥有215个网点。到明年年底，我们预计会将其增加到两倍以上，达到441个网点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 878.09,
+      "textEn": "So the key point being almost no matter where you are in North America, Europe or Asia, if you're near any even mid sized metro area, you'll be able to buy a car and get your car serviced. So now how are we going to make these cars? Okay, good question.",
+      "textZh": "所以关键在于，几乎无论你身处北美、欧洲还是亚洲的什么地方，只要靠近任何一座哪怕是中等规模的都市区，你都能买车并让自己的车得到维修保养。那么，我们要如何制造这些车呢？好吧，问得好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 904.98,
+      "textEn": "We need to achieve high volume production. So this isn't, this is in two parts. First there is the vehicle factory. So the, our Fremont factory in the past has actually made almost 500,000 cars a year. So we're confident that Tesla can achieve that number in the future in terms of vehicle production. So I think that's going to be, wouldn't say straightforward, but very doable.",
+      "textZh": "我们需要实现大批量生产。所以这不是，这分为两个部分。首先是汽车工厂。那么，我们的弗里蒙特工厂过去实际上每年生产过近500,000辆汽车。因此，就汽车产量而言，我们相信Tesla未来能够达到这个数字。所以我认为这将会是，我不会说轻而易举，但非常可行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 932.6,
+      "textEn": "And then what about batteries? Because in order to produce half a million cars a year, we would actually need the same battery production. We basically need to absorb the entire world's lithium ion production. That's why we are building the Gigafactory. These are the recent pictures of the gigafactory.",
+      "textZh": "那么电池呢？因为要每年生产500,000辆汽车，我们实际上也需要相应的电池产量。我们基本上需要消化全世界的全部锂离子电池产量。这就是我们建造超级工厂的原因。这些是超级工厂近期的照片。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 953.16,
+      "textEn": "This is a vital element to give you a sense of scale. The Gigafactory will actually have the largest footprint of any building of any kind. Okay.",
+      "textZh": "这是一个至关重要的要素，可以让你们感受一下它的规模。超级工厂实际上将拥有所有类型建筑中最大的占地面积。好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 967.35,
+      "textEn": "Volumetrically, it will only be second to the Boeing factory in Washington.",
+      "textZh": "按体积计算，它将仅次于华盛顿州的波音工厂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 972.79,
+      "textEn": "So this is really quite an enormous facility.",
+      "textZh": "所以，这确实是一座相当庞大的设施。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 978.31,
+      "textEn": "In fact, it'll produce more lithium ion batteries than all other factories in the world combined in this one location.",
+      "textZh": "事实上，仅在这一个地点，它生产的锂离子电池就将超过世界上所有其他工厂的总和。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 989.14,
+      "textEn": "So we're talking about 50 gigawatt hours a year of production. And it won't just be at that volume. It will also be producing the most advanced cell and battery in the world. So it's the combination of high volume with the most advanced technology is what enables us to make the Model 3. And we already, it's already operational today.",
+      "textZh": "所以，我们说的是每年50吉瓦时的产量。而且它不只是达到这样的产量。它还将生产世界上最先进的电芯和电池。因此，正是高产量与最先进技术的结合，让我们能够制造Model 3。而且我们已经，它如今已经投入运营。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 1014.97,
+      "textEn": "So when, when are deliveries? Well, they're next year, so.",
+      "textZh": "那么，什么时候，什么时候交付呢？嗯，是明年，所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 1024.97,
+      "textEn": "So I do feel fairly confident that it will be next year. Yeah.",
+      "textZh": "所以，我确实相当有信心会是在明年。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 1035.54,
+      "textEn": "And then in terms of price, well, of course it'll be $35,000.",
+      "textZh": "然后说到价格，嗯，当然会是35,000美元。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 1044.9,
+      "textEn": "And I want to emphasize, I want to emphasize that even if you buy no options at all, this will still be an amazing car. You will not be able to buy a better car for $35,000 or even close, even if you get no options. So it's a really good car, even with no options.",
+      "textZh": "我想强调，我想强调，即便你完全不购买任何选装配置，这仍然会是一辆很棒的车。花35,000美元，甚至是接近这个价格的钱，你都买不到更好的车，即使你不选任何选装配置。所以，即便没有任何选装配置，它也是一辆非常好的车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 1062.66,
+      "textEn": "So do you want to see?",
+      "textZh": "那么，你们想看看吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 1066.88,
+      "textEn": "Well, we don't have it for you tonight.",
+      "textZh": "嗯，今晚我们没有给你们准备它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 1071.6,
+      "textEn": "I'm just kidding.",
+      "textZh": "我只是在开玩笑。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 1074.56,
+      "textEn": "It's April fool somewhere.",
+      "textZh": "某个地方已经是愚人节了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 1077.6,
+      "textEn": "All right, let's bring him out.",
+      "textZh": "好了，让我们把他带出来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Audience",
+      "startSec": 1098.06,
+      "textEn": "Sam. It's.",
+      "textZh": "萨姆。它是。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Audience",
+      "startSec": 1230.78,
+      "textEn": "All right.",
+      "textZh": "好吧。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1231.82,
+      "textEn": "So what do you think?",
+      "textZh": "那么，你们觉得怎么样？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1238.3,
+      "textEn": "You like the car?",
+      "textZh": "你们喜欢这辆车吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Audience",
+      "startSec": 1240.54,
+      "textEn": "Seem good.",
+      "textZh": "看起来不错。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1245.02,
+      "textEn": "All right. And this is kind of crazy, but I just learned. Just told that the total number of orders for the Model 3 in the past 24 hours has now passed 115,000.",
+      "textZh": "好的。这有点疯狂，但我刚刚得知。刚有人告诉我，过去24小时内 Model 3 的订单总数现在已经超过115,000。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1264.99,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 1275.09,
+      "textEn": "Thank you. That's a lot.",
+      "textZh": "谢谢。这可真多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Audience",
+      "startSec": 1276.25,
+      "textEn": "Yeah.",
+      "textZh": "是啊。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1281.33,
+      "textEn": "Thank you to everyone that ordered the car. We love you. And for those of you that are here, please enjoy your rides tonight in the Model 3. And for those online, you can order@tesla.com. thank you.",
+      "textZh": "感谢每一位订购这款车的人。我们爱你们。来到现场的各位，今晚请尽情体验乘坐 Model 3。线上的各位，你们可以在 order@tesla.com 订购。谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Audience",
+      "startSec": 1300.26,
+      "textEn": "Sam.",
+      "textZh": "萨姆。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Audience",
+      "startSec": 1332.16,
+      "textEn": "It.",
+      "textZh": "它。",
+      "speakerZh": "观众"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T03:29:21.387Z",
+    "reviewedAt": "2026-09-13T03:45:03.738Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:23.928Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "423e76412625457ec411e2ca6eef1c70b79b4e4308b9e7e15106353dd4006a84"
+}

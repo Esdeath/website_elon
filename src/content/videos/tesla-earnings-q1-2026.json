@@ -1,0 +1,28 @@
+{
+  "id": "tesla-earnings-q1-2026",
+  "slug": "tesla-earnings-q1-2026",
+  "snapshotId": "2026-09-12",
+  "type": "earnings",
+  "date": "2026-04-22",
+  "titleEn": "Tesla Q1 2026 earnings call",
+  "titleZh": "Tesla 2026 年第一季度财报电话会议",
+  "summaryEn": "Tesla's Q1 2026 financial results webcast — prepared remarks from Elon Musk and management followed by the live analyst and retail-shareholder Q&A.",
+  "summaryZh": "Tesla 2026 年第一季度财务业绩网络直播——埃隆·马斯克及管理层发表事先准备好的讲话，随后进行现场分析师及散户股东问答。",
+  "sourceUrl": "https://www.youtube.com/watch?v=qO7T5zgRvXM",
+  "sourceLabel": "Tesla",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-earnings-q1-2026",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/qO7T5zgRvXM",
+  "thumbnailUrl": "https://i.ytimg.com/vi/qO7T5zgRvXM/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 3920,
+  "contentKind": "none",
+  "segments": [],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T07:38:13.099Z",
+    "reviewedAt": "2026-09-12T07:44:37.243Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:24.833Z",
+  "sourceHash": "141d33113055a0790cdd3cb5160f83a05825ace932a943a65de3f83a41be50bb"
+}

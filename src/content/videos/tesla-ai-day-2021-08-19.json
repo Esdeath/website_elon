@@ -1,0 +1,158 @@
+{
+  "id": "tesla-ai-day-2021-08-19",
+  "slug": "tesla-ai-day-2021-08-19",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2021-08-19",
+  "titleEn": "Tesla AI Day",
+  "titleZh": "Tesla AI 日",
+  "summaryEn": "Tesla AI Day keynote where Musk and engineers present the Dojo supercomputer, FSD neural nets and unveil the Tesla Bot (Optimus).",
+  "summaryZh": "Tesla AI 日主题演讲，马斯克和工程师们在会上介绍 Dojo 超级计算机、FSD 神经网络，并发布 Tesla Bot（Optimus）。",
+  "sourceUrl": "https://www.youtube.com/watch?v=HUP6Z5voiS8",
+  "sourceLabel": "CNET Highlights",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-ai-day-2021-08-19",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/HUP6Z5voiS8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/HUP6Z5voiS8/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 401,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 0.24,
+      "textEn": "Sa.",
+      "textZh": "萨。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 29.44,
+      "textEn": "Sam.",
+      "textZh": "萨姆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 83.98,
+      "textEn": "All right, thank you.",
+      "textZh": "好的，谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 94.79,
+      "textEn": "Now, unlike, unlike Dojo, obviously, that was not real.",
+      "textZh": "现在，与Dojo不同，与Dojo不同，显然，刚才那个不是真的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 99.75,
+      "textEn": "So Dojo is real, the Tesla bot will be real. But basically, if you think about what we're doing right now with the cars, Tesla is arguably the world's biggest robotics company because our cars are like I said, semi sentient robots on wheels. And with the full self driving computer, essentially the inference engine on the car, which will keep evolving obviously, and Dojo and all the neural nets recognizing the world, understanding how to navigate through the world, it kind of makes sense to put that onto a humanoid form.",
+      "textZh": "所以Dojo是真的，Tesla机器人也会成为现实。但基本上，如果你想想我们目前在汽车方面所做的事情，Tesla可以说是世界上最大的机器人公司，因为正如我所说，我们的汽车就像是装在轮子上的半感知机器人。再加上全自动驾驶计算机，也就是本质上的车载推理引擎——它显然会不断演进——以及Dojo和所有识别世界、理解如何在世界中通行的神经网络，把这些装到人形形态上算是合乎情理。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 137.2,
+      "textEn": "They're also quite good at sensors and batteries and actuators. So we think we'll probably have a prototype sometime next year that basically looks like this. And it's intended to be friendly, of course, and navigate through a world built for humans and eliminate dangerous, repetitive and boring tasks. We're setting it such that it is at a mechanical level, at a physical level you can run away from it and most likely overpower it.",
+      "textZh": "我们在传感器、电池和执行器方面也相当擅长。所以我们认为，可能会在明年某个时候做出一个基本上长这样的原型。当然，它的设计意图是友好的，能够在为人类建造的世界中通行，并消除危险、重复和无聊的任务。我们把它设定成这样：在机械层面、物理层面，你可以从它身边逃开，而且很可能能够制服它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 184.52,
+      "textEn": "So hopefully that doesn't ever happen, but you never know.",
+      "textZh": "所以希望那种事永远不会发生，但谁也说不准。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 191.73,
+      "textEn": "So it's, it'll be a, you know, a light. A light, yeah. Anyway, five miles an hour. If you get run past on that, it'd be fine.",
+      "textZh": "所以它是，它会是一个，你知道，轻的。一个轻的，对。总之，每小时5英里。如果你在那种情况下被跑着超过，也没关系。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 205.17,
+      "textEn": "So yeah, it's around 5 foot 8, has sort of a screen where the head is for useful information, but it's otherwise basically got the autopilot system in it. So it's got cameras, got eight cameras and yeah, Full self driving computer and making use of all of the same tools that we use in the car. So I mean, things I think that are really hard about having a useful humanoid robot is, cannot navigate through the world without being explicitly trained.",
+      "textZh": "所以，是的，它大约高5英尺8英寸，头部的位置有类似屏幕的东西，用来显示有用的信息，但除此之外，它基本上装有Autopilot系统。所以它有摄像头，有8个摄像头，还有，是的，全自动驾驶计算机，并且使用了我们在汽车中使用的所有相同工具。所以我的意思是，我认为要拥有一个实用的人形机器人，真正困难的事情是，不能在没有经过明确训练的情况下在世界中通行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 245.16,
+      "textEn": "I mean, without explicit, like line by line instructions, can you talk to it and say, you know, please pick up that bolt and attach it to a car with that wrench and it should be able to do that.",
+      "textZh": "我的意思是，不需要明确的、像逐行指令那样的东西，你能不能对它说，你知道，请捡起那颗螺栓，用那把扳手把它装到汽车上，而它应该能够做到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 264.04,
+      "textEn": "It should be able to, you know, please, you know, please go to the store and get me the following groceries, that kind of thing. So yeah, I think we can do that.",
+      "textZh": "它应该能够，你知道，请，你知道，请去商店给我买以下这些食品杂货，诸如此类的事情。所以，是的，我认为我们能做到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 278.62,
+      "textEn": "And yeah, this I think will be quite profound because if you say it like what is the economy? It is at the foundation, it is labor. So what happens when there is, you know, no shortage of labor? That's why I think long term that there will need to be universal basic income.",
+      "textZh": "而且，是的，我认为这会产生相当深远的影响，因为如果你这么说，经济是什么？从根本上说，它就是劳动。那么，当劳动力，你知道，不再短缺时，会发生什么？这就是为什么我认为，从长期来看，将需要全民基本收入。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 304.72,
+      "textEn": "But not right now because this robot doesn't work. So we just need a minute. So yeah, but I think essentially in the future physical work will be a choice. If you want to do it, you can, but you won't need to do it. And, yeah, I think obviously has profound implications for the economy, because given that the economy at its foundational level is labor. I mean, capital is capital, equipment is just distilled labor, then is there any actual limit to the economy?",
+      "textZh": "但现在不行，因为这个机器人不能工作。所以我们只需要一点时间。所以，是的，但我认为从本质上说，未来体力劳动将成为一种选择。如果你想做，你可以做，但你不必做。而且，是的，我认为这显然会对经济产生深远影响，因为经济在其最基础的层面上就是劳动。我的意思是，资本就是资本，设备只是凝结的劳动，那么经济真的存在任何极限吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 337.2,
+      "textEn": "Maybe not.",
+      "textZh": "也许没有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 340,
+      "textEn": "So, yeah, join our team and help build this. All right, so I think we'll have everyone come back on the stage and you guys can ask questions if you'd like to. It's one.",
+      "textZh": "所以，是的，加入我们的团队，帮助打造它。好了，我想我们会让所有人回到台上，如果你们愿意，可以提问。这是一个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 397.11,
+      "textEn": "Cool back on stage.",
+      "textZh": "酷，回到台上。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T20:10:35.450Z",
+    "reviewedAt": "2026-09-12T20:14:32.374Z"
+  },
+  "fetchedAt": "2026-09-12T07:13:42.587Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "65692965623ee04fb6414c37d98eeb5d53f4788bf140042c0090e33942f5d8fc"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "summoning-the-demon-2014",
+  "slug": "summoning-the-demon-2014",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2014-10-27",
+  "titleEn": "MIT AeroAstro Symposium",
+  "titleZh": "MIT 航空航天研讨会",
+  "summaryEn": "At MIT's AeroAstro Centennial Symposium, Elon Musk compares developing AI to \"summoning the demon.\"",
+  "summaryZh": "在 MIT 航空航天百年研讨会上，埃隆·马斯克将开发 AI 比作“召唤恶魔”。",
+  "sourceUrl": "https://www.youtube.com/watch?v=Tzb_CSRO-0g",
+  "sourceLabel": "Bloomberg Originals",
+  "archiveUrl": "https://elonmuskarchive.org/video/summoning-the-demon-2014",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/Tzb_CSRO-0g",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Tzb_CSRO-0g/hqdefault.jpg",
+  "durationSec": 57,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "and a warning from Tesla Motors CEO Elon Musk it has nothing to do with cars instead musk warns about artificial intelligence which he has called more dangerous than nuclear weapons must spoke at a symposium at MIT I with artificial intelligence we are summoning the demon you know you know those stories where there's the guy with the pentagram and the holy water and he's like yeah you sure you can control the demon didn't work out I take it there will be no hell 9,000 going up to Mars hell 9,000 would be easy it's way more complex and I mean it would put hell ,000 to shame yeah I like a puppy dog of course referencing Space Odyssey following his next question musk blanked out and apologize saying he was thinking about the AI thing the AI thing for a second",
+      "textZh": "还有一则来自 Tesla Motors CEO 埃隆·马斯克的警告，它与汽车无关，马斯克警告的是人工智能，他称其比核武器更危险，必须在 MIT 的一场研讨会上发言，我借助人工智能，我们正在召唤恶魔，你知道，你知道那些故事，里面有个人拿着五角星阵和圣水，他会说，是啊，你确定你能控制这个恶魔吗，结果并不顺利，我看不会有地狱 9,000 去火星，地狱 9,000 会很简单，它要复杂得多，而且我的意思是，它会让地狱 ,000 相形见绌，是啊，我喜欢一只小狗，当然这是在引用《太空漫游》，在接下来的问题中，马斯克突然大脑一片空白并道歉，说他刚才想了一会儿 AI 那件事"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "so engrossed was he in that idea",
+      "textZh": "他对那个想法就是如此入神"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T20:25:06.007Z",
+    "reviewedAt": "2026-09-12T20:29:32.740Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:46.578Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=Tzb_CSRO-0g",
+  "sourceHash": "e8797af1071ad9182df81a6602d16224168e66d1cbe2ab89b36dcf67376b1f89"
+}

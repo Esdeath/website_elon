@@ -1,0 +1,145 @@
+{
+  "id": "how-to-build-the-future-2016-09-15",
+  "slug": "how-to-build-the-future-2016-09-15",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2016-09-15",
+  "titleEn": "How to Build the Future",
+  "titleZh": "如何建设未来",
+  "summaryEn": "Sam Altman interviews Musk on Mars, AI, sustainable energy and how to think about building the future.",
+  "summaryZh": "萨姆·奥尔特曼就火星、人工智能、可持续能源以及如何思考建设未来等话题采访马斯克。",
+  "sourceUrl": "https://www.youtube.com/watch?v=tnBQmEqBCY0",
+  "sourceLabel": "Y Combinator",
+  "archiveUrl": "https://elonmuskarchive.org/video/how-to-build-the-future-2016-09-15",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/tnBQmEqBCY0",
+  "thumbnailUrl": "https://i.ytimg.com/vi/tnBQmEqBCY0/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 1173,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "today we have Elon Musk Eon thank you for joining us thanks having right so we want to spend the time today talking about your view of the future and what people should work on so to start off could you tell us you famously said when you were younger there were five problems that you thought were most important for you to work on um if you were 22 today what would the five problems that you would think about working on B well first of all is it I think if somebody is doing something that is useful to the rest of society I think that's a good thing like it doesn't have to change the world like you know if you make something that has high value to people and frankly even if it's something if it's like just a little game or you know the some improvement",
+      "textZh": "今天我们请来了埃隆·马斯克，埃恩，感谢你加入我们，谢谢邀请。好的，所以今天我们想用这段时间谈谈你对未来的看法，以及人们应该从事什么工作。那么首先，你能告诉我们吗，你曾有一句很有名的话，说你年轻时认为有5个问题对你而言最值得着手解决，嗯，如果你今天22岁，你会考虑着手解决的5个问题会是什么？嗯，首先，我认为如果有人正在做对社会其他人有用的事情，我觉得那就是一件好事。比如，它不一定非要改变世界。比如，你知道，如果你做出了对人们具有很高价值的东西，坦率地说，即使那只是某种东西，比如只是一个小游戏，或者，你知道，某种改进"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "in photo-sharing or something if it if it has a small amount of good for a large number of people that's I mean I think that's that's fine like stuff doesn't need to be change the world just to be good but you know in terms of things that I think are most likely to affect the the future of humanity I think AI is probably the single biggest item in the near term that's likely to affect humanity so it's very important that we have the advent of AI in a good way but that is something that if you if you could look into a crucible and enter the future you would like you would like that outcome because it is something that could go could go wrong and as we've talked about many times and so we really need to make sure it goes right that's that's I think AI working",
+      "textZh": "照片分享方面的改进之类的，如果它能为大量的人带来一点点好处，那，我的意思是，我认为那就很好。事情不需要改变世界才算好。不过，你知道，说到我认为最有可能影响人类未来的事物，我认为在短期内，人工智能可能是最有可能影响人类的最大单项因素。所以，让人工智能以一种良好的方式到来非常重要，但这是一件如果你能看进一座熔炉并进入未来，你会希望，你会希望出现那种结果的事，因为它确实可能会，可能会出错，正如我们谈过很多次的那样。所以，我们确实需要确保它朝正确的方向发展。那就是，我认为，人工智能方面的工作"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "on ai and making sure it's great future that's that's the most important thing I think right now the most pressing item sec then obviously I think Institute with with genetics if you can actually solve genetic diseases if you can promote dementia or Alzheimer's or something like that that was genetic reprogramming that would be wonderful so I think this genetics it might be the sort of second most important item I think having a high bandwidth interface to the brain like we're currently bandwidth-limited we have a digital tertiary self in the form of our email capabilities like computers phones applications we're effectively superhuman but we're extremely bad with constraint in that interface between the cortex and your sort of that the tertiary digital",
+      "textZh": "致力于人工智能，并确保未来很美好，那就是，我认为目前最重要、最紧迫的事项。其，其次，显然，我认为与遗传学有关的研究，如果你真的能够解决遗传性疾病，如果你能促进痴呆症或阿尔茨海默病之类的疾病，那是基因重编程，那会很棒。所以我认为遗传学可能算是第2重要的事项。我认为拥有一个连接大脑的高带宽接口，比如我们目前受到带宽限制，我们以电子邮件功能等形式拥有一个数字化的第三级自我，比如计算机、手机、应用程序，我们实际上是超人，但在大脑皮层与你的某种、那个第三级数字化"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "form of yourself and helping solve that bandwidth constraint would be I think very important for the future as well so one of the I think most common questions I hear young people and bishops young people ask is I want to be the next to go musk how do I do that um obviously the next Elon Musk will work on very different things then than you did but what have you done or what did you do when you were younger that you think sort of set you up to have a big impact well I think this well I should say that I do not expect to be involved in all these things so the the the five things that I thought about the time in college still quite a long time ago 25 years ago you know being you know making life multiplanetary selling accelerating the transition to sustainable",
+      "textZh": "自我形态之间的接口上，我们极其糟糕地受到约束，而帮助解决这种带宽约束，我认为对未来也会非常重要。所以，我听到年轻人和主教年轻人提出的最常见问题之一，我想，是：我想成为下一个“去马斯克”，我该怎么做？嗯，显然，下一个埃隆·马斯克所从事的事情会与你当年做的非常不同，但你做过什么，或者你年轻时做过什么，是你认为在某种程度上为你产生巨大影响奠定了基础的？嗯，我认为这个，嗯，我应该说，我并不指望参与所有这些事情。所以，我在大学时期想到的那，那，那5件事，已经是相当久以前了，25年前，你知道，包括，你知道，让生命成为多行星物种，出售，加速向可持续"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "energy the the Internet broadly speaking and then genetics and AI I think I didn't expect to be involved in in all of those things I actually at the time in college I sort of thought helping with electrification a bit of cars which was how we start out and that's a that's actually what I worked on as an intern was advanced ultra capacitors with to see thick there would be a breakthrough relative to batteries for energy storage and in cars and then when I came out to go to Stanford that's what I was going to be doing my grad studies on is it was working on her best at energy storage technologies for electric cars and I put that on hold to start an Internet company in 95 because that that does seem to be like a time for particular technologies when there",
+      "textZh": "能源的转型，广义上的互联网，然后是遗传学和人工智能。我想，我当时并没预料到自己会参与所有这些事情。事实上，我在大学时算是想过在汽车电气化方面帮一点忙，我们就是从那里开始的，而那实际上也是我实习时从事的工作，是先进的超级电容器，为了看看厚度，相较于用于储能和汽车的电池是否会有突破。然后，当我出来准备去斯坦福时，那就是我原本要攻读研究生期间做的事，就是研究她最擅长的电动汽车储能技术。我在95年把那件事搁置了，去创办一家互联网公司，因为那，那看起来确实像是某些特定技术的时机，当时"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "at a steep point in the inflection code and and I didn't want to you know do a PhD at Stanford and then and what sure will happen and then and I wasn't entirely certain that the technology I'd be working on would actually succeed I can get you can get a you know doctrine on many things that ultimately are not do not have a practical bearing on the world and I wanted to you know just I really was just trying to be useful that's the optimization it's like what do what can I do that would actually be useful do you think people that want to be useful today should get PhDs um mostly not so what what is the best some yes but mostly not how should someone figure out how they can be most useful whatever this thing is that you're trying to create what would what",
+      "textZh": "处在拐点代码的一个陡峭位置，而且，而且我不想，你知道，在斯坦福读一个博士，然后，然后肯定会发生什么，而且，而且我并不完全确定我将从事的技术实际上会成功。你可以获得，你可以在很多事情上获得一个，你知道，教义，而那些事情最终并不、并不对世界产生实际影响，而我想要，你知道，只是，我真的只是想发挥作用。这就是优化目标，就像，我能做什么，什么是我可以做而且实际上会有用的？你认为今天想发挥作用的人应该去读博士吗？嗯，大多数不应该。那么最好的是什么？有些人应该，但大多数不应该。一个人应该如何弄清楚自己怎样才能发挥最大的作用？无论你正试图创造的这个东西是什么，它会有什么、什么"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "would be the utility Delta compared to the current state-of-the-art times how many people it would affect so that's why I think having something that has that that has a mix makes a big difference but effects a sort of small to moderate number of people is great as is something that makes even a small difference but but affects a vast number of people like the area yeah on you know under the yeah exactly the area under the curve is would actually be roughly similar for those two things so it's actually really about yeah just trying to be useful and matter when you're trying to estimate probability of success so you say something will be really useful good area under the curve I guess to use the example of SpaceX mmm-hmm when you made the NGO decision",
+      "textZh": "样的效用增量，相较于当前最先进水平，再乘以它会影响多少人。所以这就是为什么我认为，拥有某种具备那种、具备一种组合的东西，会产生很大差异，但影响的是某种少量到中等数量的人，这很棒；同样，某种只产生很小差异、但、但影响极大量人群的东西也很棒。就像面积，是的，在，你知道，在，是的，没错，曲线下面积对于这两种情况实际上会大致相同。所以实际上真的就是，是的，只是努力发挥作用并且要紧。当你试图估算成功概率时，所以你说某样东西会非常有用，曲线下面积很好，我想用 SpaceX 的例子，嗯哼，当你作出 NGO 决定时"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "that you were actually going to do that this was kind of a very crazy thing at the time very crazy there shortly yeah I'm not shy about saying that but I kind of agree I agreed with them that it was quite crazy crazy if if the objective was to achieve the best risk adjusted return sliding our company is insane but that was not that was not my objective why I I'd totally come to the conclusion that if something didn't happen to improve ROC technology would be stuck on earth forever and and the big aerospace companies had just had no interest in radical innovation all they wanted to do is try to make their old technology slightly better every year and in fact sometimes we would actually get worse and particularly in Rockets is pretty bad like the in 69",
+      "textZh": "你实际上要去做那件事，这在当时算是一件非常疯狂的事，非常疯狂，那里很快，是的，我并不羞于这么说，但我有点同意，我同意他们认为这相当疯狂。如果、如果目标是实现最佳风险调整后回报，让我们的公司滑行是疯了，但那不是、那不是我的目标。为什么，我、我完全得出了这样的结论：如果不发生些什么来改进 ROC 技术，我们就会永远困在地球上，而且，而且那些大型航空航天公司就是、就是对激进创新毫无兴趣。他们只想努力让自己的旧技术每年稍微好一点，而事实上，有时我们实际上会变得更差，尤其是在火箭方面相当糟糕，就像在 69 年"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "we were able to go to the moon with a Saturn 5 and then the space shuttle could only take people to low-earth orbit and then the Space Shuttle retired and that trend is basically trends to zero it feels I think technology just automatically gets better over year but I actually doesn't it only gets better if smart people work work like crazy to make it better that's how any technology actually gets better and by itself technology if people don't work and it actually will decline you can look at the history of civilizations many civilizations and look at say ancient Egypt were they able to pull these incredible pyramids and then they basically forgot how to hold permit and and then even hieroglyphics they forgot how to read hydrocal hieroglyphics so we",
+      "textZh": "我们能够搭乘土星 5 号登上月球，然后航天飞机只能把人送到近地轨道，之后航天飞机退役了，而那种趋势基本上就是趋向于零。感觉上，我认为技术每年都会自动变得更好，但实际上并不会。只有聪明人疯狂工作、努力让它变得更好，它才会变得更好。任何技术实际上都是这样进步的，而技术本身，如果人们不工作，它实际上就会衰退。你可以看看文明史，很多文明，比如看看古埃及，他们曾有能力建起这些不可思议的金字塔，然后他们基本上忘了怎样托住许可证，而且，而且就连象形文字，他们也忘了怎样阅读水力象形文字。所以我们"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "look at Rome and how they will to look to build these incredible roadways and aqueducts and indoor plumbing and they forgot how to do all of those things and there are many such examples in history so I I think choice bear in mind that you know entropy is not on your side yeah one thing I really like about you is you are unusually fearless and willing to go in the face of other people telling you something that's crazy and I know a lot of pretty crazy people you still stand out where does that come from or how do you think about making a decision when everyone tells you this is a crazy idea where do you get the internal strength to do that well first of all I'd say I actually think I feel feel fair quite strongly so it's not as though I just have the",
+      "textZh": "看看罗马，看看他们将如何去建造这些不可思议的道路、引水渠和室内管道，然后他们忘了怎样做所有这些事情。历史上有很多这样的例子。所以我、我认为选择记住，你知道，熵并不站在你这边。是的，我非常喜欢你的一点是，你异常无畏，愿意迎着其他人说某件事很疯狂的声音前进。我认识很多相当疯狂的人，你依然很突出。这来自哪里？或者说，当所有人都告诉你这是个疯狂的想法时，你是怎样考虑作出决定的？你从哪里获得这样做的内在力量？嗯，首先我会说，实际上我认为我相当强烈地感到、感到公平。所以并不是说我只是没有"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "absence of fear I've I feel it quite strongly but there are times when something is important enough you believe in it enough that you do it in spite of the fear so speaking of important things like people shouldn't think I I I should if you think well I feel fear about this and therefore I shouldn't do it it's normal to be to feel fair like you'd have to definitely something mentally wrong you should feel fair so you just feel it and let the importance of it drive you to do it anyway yeah you know actually something that can be helpful as fatalism some degree if you just think it's just accept the probabilities then that diminishes fear so my starting SpaceX I thought the odds of success were less than 10% and I just accepted that actually probably I",
+      "textZh": "恐惧。我、我相当强烈地感受到它。但有些时候，某件事足够重要，你足够相信它，以至于你不顾恐惧也要去做。所以说到重要的事情，比如人们不应该认为我、我、我应该，如果你想，嗯，我对此感到恐惧，因此我不应该去做。感到公平是正常的，就像你肯定得有什么精神上的问题，你应该感到公平。所以你只是感受它，然后让这件事的重要性驱使你无论如何都去做。是的，你知道，其实某种程度的宿命论会有所帮助。如果你只是想，只要接受那些概率，那么恐惧就会减弱。所以我创办 SpaceX 时，我认为成功的概率低于 10%，而我只是接受了实际上我很可能"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "would just lose lose everything but that maybe would make some progress if we could just move the ball forward even if we died maybe some other company could pick up the baton and move and keep moving it forward so that were still do some good yeah same with Tesla I thought your odds of a car company succeeding were extremely low what do you think the odds of the Mars colony are at this point today well um oddly enough I actually think they're pretty good so like when can I go okay at this point I am certain there is a way I'm certain that success is one of the possible outcomes for establishing a self-sustaining moss colony in fact growing lost colony I'm certain that that is possible whereas until maybe a few years ago I was not sure that success was",
+      "textZh": "会失去、失去一切，但也许会取得一些进展。如果我们能让事情向前推进一点，即便我们死了，也许其他某家公司可以接过接力棒，继续推动、继续向前推进它，那样仍然会做一些好事。是的，Tesla 也是一样。我认为你的汽车公司成功的概率极低。你认为就今天这个时间点而言，火星殖民地成功的概率是多少？嗯，奇怪的是，我实际上认为相当不错。那么，比如我什么时候能去？好吧，就目前而言，我确信存在一种办法。我确信，建立一个自给自足的苔藓殖民地，事实上是一个不断发展的失落殖民地，成功是可能结果之一。我确信这是可能的；而直到大概几年前，我还不确定成功是否"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "even one of the possible outcomes it's a meaningful number of people going to Mars I think this is potentially something that can be accomplished in about 10 years maybe sooner I mean maybe 9 years I need to make sure that SpaceX doesn't die between now and then and that I don't die or if I do die that someone takes over who will continue that you shouldn't go on the first launch yeah exactly like the first launch will be a robotic anyway so I want to go except for that internet latency yeah they were at latency to be pretty significant I Mars is roughly 12 light minutes from the Sun and Earth is 8 light minutes so closest approach Mazdas 4 light minutes away that furthest approaches 20 a little more because you have to you can't sort of talk directly",
+      "textZh": "甚至是可能结果之一。相当数量的人前往火星，我认为这件事有可能在大约 10 年内完成，也许更早。我的意思是，也许 9 年。我需要确保 SpaceX 从现在到那时不会消亡，也要确保我不会死，或者如果我死了，会有人接手并继续做这件事。你不应该参加首次发射。是的，没错，比如首次发射无论如何都会是机器人式的。所以我想去，除了那个互联网延迟。是的，那里的延迟会相当显著。火星距离太阳大约 12 光分钟，地球是 8 光分钟，所以在距离最近时，马自达相隔 4 光分钟，在距离最远时则是 20，还要多一点，因为你必须，你没法算是直接交谈"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "through the Sun speaking of really important problems um AI so you have been outspoken about AI um could you talk about what you think the positive future for AI looks like and how we get there okay I mean I do want to emphasize that um this is not really something that I advocate or this is not prescriptive this is simply pretty hopefully predictive as you look so I'm Sayla well like this is something that I want to occur instead of so this I mean I think that probably is the best of the available alternatives the best of the available alternatives that I can come up with and maybe somebody else can come up with a better approach or better outcome is that we achieve democratization of AI technology meaning that no one company or small set of individuals",
+      "textZh": "穿过太阳。说到真正重要的问题，嗯，AI。所以你一直直言不讳地谈论 AI，嗯，你能谈谈你认为 AI 的积极未来是什么样子，以及我们要怎样实现它吗？好吧，我的意思是，我确实想强调，嗯，这其实不是我倡导的东西，或者说这不是规范性的，这只是相当、希望是预测性的，当你去看时。所以我是赛拉，嗯，就像，这是我希望发生的某件事，而不是。所以这，我的意思是，我认为那可能是现有替代方案中最好的，是我能想到的现有替代方案中最好的，而且也许其他人能提出一种更好的方法或更好的结果，也就是我们实现 AI 技术的民主化，意思是没有任何一家公司或一小群个人"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "has control over advanced AI technology like that that's very dangerous it could also get stolen by somebody bad you know like some evil dictator or country could send their intelligence agency to go steal it and gain control it just becomes a very unstable situation I think if you've got any any incredibly powerful AI you just don't know who's who's going to control that so it's not as I think that the risk is that the AI would develop a will of its own right off the bat I think it's more that's the consumers that some someone may use it in a way that is bad or and even if they weren't going to use in a way that's bad but somebody could take it from them and use it in a way that's bad that that I think is quite a big danger so I think we must have democratization",
+      "textZh": "掌控那样的先进 AI 技术，这是非常危险的，它也可能被某个坏人偷走，你知道，比如某个邪恶的独裁者或国家可能派他们的情报机构去偷走它并取得控制权，情况就会变得非常不稳定，我认为，如果你拥有任何、任何极其强大的 AI，你根本不知道谁、谁会控制它，所以我认为，风险并不在于 AI 一开始就会形成自己的意志，我认为更多的是消费者中的某个、某个人可能会以不好的方式使用它，或者，即使他们不打算以不好的方式使用它，别人也可能从他们那里把它夺走，并以不好的方式使用它，那、那在我看来是相当大的危险，所以我认为我们必须实现民主化"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "of AI technology make it widely available and that's you know the reason that obviously you mean the rest the team you know created open AI was to help with the democracy our a AI technology so it doesn't get concentrated in the hands of a few and but then that of course that needs to be combined with solving the high bandwidth interface to the cortex humans are so slow humans are so slow yes exactly but you know we already have a situation in our brain where we've got the cortex and limbic system and the limbic system is kind of a mess that's the primitive brain it's kind of like the your instincts and whatnot and then the cortex is thinking of a part of the brain those two seem to work together quite well occasionally your cortex and limbic system may",
+      "textZh": "让 AI 技术得到广泛使用，而这就是，你知道，显然你是说团队里的其他人，你知道，创建开放 AI 是为了帮助 AI 技术的民主化，这样它就不会集中在少数人手中，但那当然还需要与解决通往大脑皮层的高带宽接口结合起来，人类太慢了，人类太慢了，是的，完全正确，但你知道，我们的大脑里已经存在这样的情况，我们有大脑皮层和边缘系统，而边缘系统有点混乱，那是原始大脑，它有点像你的本能之类的，然后大脑皮层是大脑中思考的一个部分，这两者似乎配合得相当好，偶尔你的大脑皮层和边缘系统可能会"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "disagree but they attending it works pretty generally works pretty well and it's like rare to find someone who I've not found someone who wishes to either get rid of the cortex or get rid of the Olympic system very true yeah it's that's unusual so so I think if we can effectively merge with AI by improving that the neural link between your cortex and the your digital extension yourself which already likes that already exists just has a bandwidth issue and then then effectively you become an AI human symbiote and and if that then is widespread with anyone who wants it can have it then we solve a control problem as well we don't have to worry about some sort of evil dictator AI because kind of we are the AI collectively that seems like the best outcome",
+      "textZh": "意见不一致，但它们照料着它，通常运作得相当好，而且很少能找到一个，我还没找到过一个希望去掉大脑皮层或去掉奥林匹克系统的人，非常正确，是的，那很不寻常，所以、所以我认为，如果我们能够通过改善你的大脑皮层与你自己的数字延伸之间的神经连接来有效地与 AI 融合，这种连接已经算是，它已经存在，只是存在带宽问题，然后、然后你实际上就会成为一个 AI 与人类的共生体，而、而如果它随后得到普及，任何想要它的人都可以拥有它，那么我们也就解决了控制问题，我们不必担心某种邪恶的独裁者 AI，因为某种意义上，我们集体就是 AI，这似乎是最好的结果"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "I can think of so you've seen other companies in the early days that start small and get really successful um hope I don't regret asking this on camera but how do you think open AI is going as a six month old company I taste you go pretty well I think we've got a really talented group what opening eye and yeah really really talented team and they're working hard open a is structured as see a 501c3 nonprofit but you know many nonprofits do not have a sense of urgency it's fine they don't have to have a sense of urgency but opening ideas is I think people really believe in the mission I think it's important and it's about minimizing the risk of existential harm in the future and so I think it's going well I'm pretty impressed with what people are doing",
+      "textZh": "我能想到的，所以你见过其他公司在早期从小规模起步并取得巨大成功，嗯，希望我不会后悔在镜头前问这个问题，但作为一家成立6个月的公司，你认为开放 AI 发展得怎么样？我尝到你发展得相当不错，我认为我们在睁眼那里有一个非常有才华的团队，而且，是的，真的、真的非常有才华的团队，他们工作很努力，开放 a 的架构是一个 501c3 非营利组织，但你知道，许多非营利组织没有紧迫感，这没关系，它们不必有紧迫感，但睁眼理念是，我认为人们真的相信这项使命，我认为它很重要，而且它关乎将未来发生生存性伤害的风险降到最低，所以我认为进展得很好，人们正在做的事情给我留下了相当深刻的印象"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "in the talent level and obviously we're always looking for great people to join we call a mission list of 40 people knots yes well well alright just a few more questions before we we wrap up how do you spend your days now like what what do you allocate most of your time to my time is mostly split what's between SpaceX and Tesla and of course I I try to spend it's a part of every week at opening I so I spend most I spend basically half a day at opening I most weeks and then and then I have some open enough that happens during the week but other than that it's really traceable interlaced like so Tesla like what is your time look like there yeah so it's a good question um I think a lot of people think I must spend a lot of time with media or on business",
+      "textZh": "在人才水平方面，而且显然我们一直在寻找优秀的人加入，我们称一个使命名单为40个人结，是的，好的、好的，好吧，在我们、我们结束之前再问几个问题，你现在每天是怎么度过的，比如你、你把大部分时间分配给什么？我的时间主要分在 SpaceX 和 Tesla 之间，当然，我、我会尝试每周抽出一部分时间给开放 I，所以大多数星期我都会在开放 I 花基本上半天时间，然后、然后我还有一些足够开放的事情会在一周内发生，但除此之外，它其实真的是可追溯交错的，比如，所以 Tesla，你在那里的时间是怎样的？是的，这是个好问题，嗯，我认为很多人以为我肯定花了很多时间应对媒体或处理商业"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "II things but actually almost almost all my time like 80% of it is spent on engineering design in engineering and design so it's developing next generation product at that's 80% of it you probably remember this a very long time ago many many years you took me on a tour of SpaceX and the most impressive thing was that you knew every detail of the rocket and every piece of engineering that went into it I don't think many people get that about you yeah I think a lot of people think I'm kind of a business person or something it just fine like business is fine but um a guy it really it's you know it was like it SpaceX Gwynne Shotwell was chief operating officer she kind of manages legal finance sales and kind of general business activity and then my time is",
+      "textZh": "II 事务，但实际上，我几乎、几乎所有时间，比如其中80%，都花在工程设计上，在工程和设计上，所以是在开发下一代产品，那占80%，你可能记得，那是非常久以前了，很多、很多年前，你带我参观了 SpaceX，最令人印象深刻的是，你了解火箭的每个细节以及投入其中的每一项工程，我认为很多人并不了解你这一点，是的，我认为很多人觉得我有点像个商人什么的，那完全没问题，比如商业没问题，但，嗯，一个人，它真的，就是你知道，就像在 SpaceX，Gwynne Shotwell 是首席运营官，她大致负责管理法律、财务、销售以及一般商业活动，然后我的时间是"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "almost entirely with the engineering team working on improving that the Falcon 9 and the Dragon spacecraft and developing the most colonial architecture I mean that Tesla it's working on the model 3 and yes I'm in the design studio to agree up happening a week dealing with its aesthetics and and look and feel things and then most of our week is just going through engineering of the car itself as well as engineering of the factory because the biggest epiphany I've had thus this year is that what really matters is that is the machine that builds the machine the factory and this that is at least towards my to eat harder than the vehicle itself it's amazing to watch the robots go here and these cars just happen yeah now this actually is has a relatively low",
+      "textZh": "几乎全部和工程团队一起，用于改进 Falcon 9 和 Dragon 航天器，并开发最具殖民性的架构，我的意思是，在 Tesla，就是开发 Model 3，而且，是的，我每周都会在设计工作室里同意发生的事情，处理它的美学以及外观和感受方面的事情，然后我们一周的大部分时间只是研究汽车本身的工程，以及工厂的工程，因为我今年获得的最大顿悟是，真正重要的是制造机器的机器，也就是工厂，而这至少朝着我要吃的方向，比车辆本身更难，观看机器人在这里移动而这些汽车就这样出现，真是令人惊叹，是的，现在这个实际上具有相对较低的"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "level of automation compared to what the gigafactory will have and what model 3 will have what's the speed on the line of these cars actually average the line is incredibly slow it's probably about a both X and s it's maybe a 5 you know 5 centimeters per second and what can you go this is very slow or what would you like to get to I'm confident we can get to to at least 1 meter per second so 20-fold increase that would be very fast yeah um at least I mean I think quite a 1 meter per second just put that in perspective is a slow walk or a good medium speed walk a fast walk could be 1 and 1/2 meters per second and and then the fastest humans can run over 10 meters per second so if we're only doing point zero five meters per second that's very slow current",
+      "textZh": "自动化水平，与超级工厂将拥有的水平以及 Model 3 将拥有的水平相比，这些汽车在生产线上的速度是多少？实际上生产线的平均速度慢得难以置信，大概对于 X 和 S 都是，可能每秒5，你知道，每秒5厘米，而你能达到什么，这非常慢，或者说你希望达到多少？我有信心我们至少可以达到每秒1米，所以是20倍的提升，那会非常快，是的，嗯，至少，我的意思是，我认为相当于每秒1米，换个角度看，就是缓慢步行或不错的中速步行，快走可能是每秒1又1/2米，而、而速度最快的人类跑步时可以超过每秒10米，所以如果我们只做到每秒0.05米，那就非常慢，目前"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "current flow speed and and at 1 meter per second you can still walk faster than the production line",
+      "textZh": "当前流动速度，而，而在每秒1米时，你走路仍然可以比生产线更快"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T21:29:41.747Z",
+    "reviewedAt": "2026-09-12T21:54:27.592Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:15.476Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=tnBQmEqBCY0",
+  "sourceHash": "deb4454ffb27f6766e888f1b8a327dcfb9d450f0939bf0838bc240f166ad6dc2"
+}

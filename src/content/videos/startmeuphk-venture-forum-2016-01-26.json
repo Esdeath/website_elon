@@ -1,0 +1,444 @@
+{
+  "id": "startmeuphk-venture-forum-2016-01-26",
+  "slug": "startmeuphk-venture-forum-2016-01-26",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2016-01-26",
+  "titleEn": "StartmeupHK Venture Forum",
+  "titleZh": "StartmeupHK创业论坛",
+  "summaryEn": "Fireside chat where Musk discusses entrepreneurship, innovation and the pain of building startups at InvestHK's forum.",
+  "summaryZh": "在香港投资推广署的论坛上，马斯克通过炉边谈话讨论创业、创新以及创建初创企业的痛苦。",
+  "sourceUrl": "https://www.youtube.com/watch?v=pIRqB5iqWA8",
+  "sourceLabel": "Invest Hong Kong",
+  "archiveUrl": "https://elonmuskarchive.org/video/startmeuphk-venture-forum-2016-01-26",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/pIRqB5iqWA8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/pIRqB5iqWA8/hqdefault.jpg",
+  "durationSec": 2518,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Good morning everyone. I think our next guest really doesn't need an introduction. We are going to be hearing from this serial entrepreneur behind a range of companies, PayPal, Tesla Motors, SolarCity, SpaceX. He is a Titan of industry who has disrupted and transformed entire industries we're talking about automotive, aerospace, energy, internet finance. And these are sectors that are really tough to operate in as a startup.",
+      "textZh": "大家早上好。我想，我们的下一位嘉宾确实不需要介绍。我们将听到这位连续创业者发言，他创办了一系列公司：PayPal、Tesla Motors、SolarCity、SpaceX。他是工业界的巨头，颠覆并改变了整个行业；我们说的是汽车、航空航天、能源、互联网金融。而对于初创企业来说，这些都是非常难以立足的领域。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "In the next 40 minutes we are going to hear from Elon Musk and we're going to learn more about Tesla Motors in Hong Kong. In China, we are going to hear about sustainable energy solutions. We're going to talk about Mars and we're also going to touch on the fate and future of humankind pretty big stuff. So in this icy cold day here in Hong Kong, let's give a very warm welcome to Elon Musk. You can pick any mic on the table.",
+      "textZh": "接下来的40分钟里，我们将听埃隆·马斯克发言，并进一步了解Tesla Motors在香港、在中国的情况；我们将听到可持续能源解决方案；我们会谈论火星，也会谈及人类的命运与未来，都是相当宏大的话题。所以，在香港这个冰冷的日子里，让我们热烈欢迎埃隆·马斯克。你可以随便选桌上的任何一支麦克风。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "There're so many to choose from. Elon Musk, welcome to Hong Kong. I talked to your people at Tesla here in Hong Kong. Tesla opened up here in 2010. The Model S has been selling pretty well. Good build-up. First general question. How's the business doing here in Hong Kong? Actually I mean at Tesla we're super appreciative of Hong Kong. It's the city with the, I believe at this point, the most number of Tesla per capita.",
+      "textZh": "有这么多可供选择。埃隆·马斯克，欢迎来到香港。我和Tesla在香港的员工谈过。Tesla于2010年在这里开始运营。Model S卖得相当不错。势头很好。先问一个宽泛的问题。香港这边的业务做得怎么样？实际上，我是说，在Tesla，我们非常感谢香港。我相信，就目前而言，这座城市是人均Tesla数量最多的城市。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "And it's very exciting model in Hong Kong I think Hong Kong will have over time the highest percentage of electric vehicles of any city in the world and can therefore serve as a model for how other high-density cities around the world can transform to a sustainable transport future so I think that's very exciting so we plan to work closely with the Hong Kong government and take lessons learned and see what we can do so then propagate that to cities around the world.",
+      "textZh": "而且我认为，这在香港是一个非常令人兴奋的模式。随着时间推移，香港的电动汽车占比将超过世界上任何其他城市，成为全球最高，因此可以作为一种范例，展示世界各地其他高密度城市如何转向可持续交通的未来。所以我认为这非常令人兴奋。我们计划与香港政府密切合作，吸取经验教训，看看我们能做些什么，然后将其推广到世界各地的城市。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "So we're very excited about the partnership with Hong Kong. Because Hong Kong is such a densely packed city, there's no range anxiety in Hong Kong but that's not the only factor behind the popularity of Tesla. What are the other factors? Sure. Certainly the range not being an issue is one factor, although that is counterbalanced by challenges with charging.",
+      "textZh": "所以，我们对与香港的合作关系感到非常兴奋。因为香港是一座人口如此密集的城市，在香港不存在续航焦虑，但这并不是Tesla广受欢迎的唯一因素。还有哪些其他因素？当然。续航不是问题当然是一个因素，尽管充电方面的挑战抵消了这一点。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "So one of the things that we need to work through, and this is a challenge that any other dense city in the world has is, as you have more and more electric vehicles on the road, you have to find someplace to charge them.",
+      "textZh": "所以，我们需要解决的事情之一，也是世界上任何其他高密度城市面临的一项挑战，就是随着道路上的电动汽车越来越多，你必须找到某个地方给它们充电。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "The ideal place to charge the car is at your home or office, certainly the same place that you charge your phone But that is challenging because a lot of apartment buildings or most apartment buildings don't anticipate having that level of power in the garage and sometimes it's the parking spots floated around that are not consistent so it's going to be quite important to get the power to the buildings that need it and then figure out a convenient way for people to charge at home.",
+      "textZh": "给汽车充电的理想地点是在家里或办公室，当然就是你给手机充电的同一个地方。但这很有挑战性，因为许多公寓楼，或者说大多数公寓楼，都没有预想到车库里需要达到那种电力水平，而且有时停车位会四处浮动，并不固定，所以把电力输送到有需要的楼宇，然后找出一种方便人们在家充电的方式，将会非常重要。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "We are deploying a lot of super-charges and of course that's gonna be important but those are really meant for when you have an unusually long trip you've been away from your home or office for a while, or you need to top up and you're out and about. But by far the most convenient is home and office charging and that the thing that we're really working closely with Hong Kong government on.",
+      "textZh": "我们正在部署许多超级充电设施，这当然会很重要，但那些设施实际上是为这种情况准备的：当你进行一次异常长途的旅行，已经离开家或办公室一段时间，或者你人在外面、需要补充一些电量。但最方便的方式无疑是在家里和办公室充电，而这正是我们正在与香港政府密切合作推进的事情。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "We were talking about this earlier about the impact of falling oil prices because high oil prices was a major selling point for getting into hybrid or electric vehicles. Now that oil prices are in free fall. What does that mean for the industry? Well, it definitely makes the transition to sustainable energy more difficult. I think it's no doubt that is going to dampen interest in electric vehicles in general.",
+      "textZh": "我们之前谈到了油价下跌的影响，因为高油价曾是促使人们转向混合动力汽车或电动汽车的一个主要卖点。现在油价正在自由落体。这对这个行业意味着什么？嗯，这肯定会让向可持续能源转型变得更加困难。我认为毫无疑问，这将会抑制人们总体上对电动汽车的兴趣。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "With our cars, what we aspired to do is to make the car so compelling that even with low gasoline prices it's still the car you want to buy. That's the only thing I can think of. I don't know what else we could do, really. You have to make it compelling. And this is really the key at Tesla is to create an electric car that's not worthy it's going to help the environment but it is a car that you will cover it, that you want to drive.",
+      "textZh": "对于我们的汽车，我们所追求的是让汽车具有如此强的吸引力，以至于即使汽油价格很低，它仍然是你想购买的汽车。这是我唯一能想到的办法。我真的不知道我们还能做什么。你必须让它具有吸引力。而这确实是Tesla的关键：创造一款电动汽车，它不值得，它将帮助环境，但它是一辆你会覆盖它、你想驾驶的汽车。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "That happens to be very good for the climate change, very good very good for the environment. Exactly, I think this is sort of general advice I would give to people starting companies, entrepreneurs in general, is really focused on making a product that your customers love. It's so rare that you can buy a product and you love the product when you bought it.",
+      "textZh": "而它恰好对气候变化非常有益，对环境非常好、非常好。没错，我认为这是我会给创业者以及总体上的企业家的一种普遍建议，就是要真正专注于打造一款客户喜爱的产品。你能买到一款产品，并且在买下它时就爱上它，这种情况太少见了。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "There are very few things that fit into that category and if you can come up with something like that your business will be successful for sure. Let's talk about China. China is the world's largest auto market. China is also a growing electric vehicle market too. It's soon to be the world's largest.",
+      "textZh": "符合这一类别的东西非常少，而如果你能想出这样的东西，你的企业肯定会成功。我们来谈谈中国。中国是世界上最大的汽车市场。中国也是一个不断增长的电动汽车市场。它很快就会成为世界上最大的市场。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "They're world's largest carbon emitter We've seen the return of the so-called apocalypse, increasing bad-air days in places like Shenyang and Beijing especially during the winter time. China needs your technology. Is China really aware that? Do you get that sense? And if you don't mind, you could hold the mic a little bit closer. Sorry, absolutely. I think it is very high gain. Yes, China is apparently aware of.",
+      "textZh": "他们是世界上最大的碳排放者。我们已经看到所谓的末日景象再度出现，沈阳和北京等地的空气恶劣天数越来越多，尤其是在冬季。中国需要你们的技术。中国真的意识到这一点吗？你有这种感觉吗？如果你不介意的话，可以把麦克风拿近一点。抱歉，当然可以。我认为它的增益非常高。是的，中国显然意识到。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Tesla had a number of high-level meetings with the Chinese Government and in fact the Minister of Finance recently mentioned Tesla in a speech that he gave as a good example. So he likes what we are doing. which is a good thing Yeah, absolutely, and in the last year we are in an effort to help the rest of industry and, sort of, be a good neighbor.",
+      "textZh": "Tesla 与中国政府举行了多次高层会议，事实上，财政部长最近在一次演讲中提到了 Tesla，把它作为一个很好的例子。所以他喜欢我们正在做的事情。这是件好事。是的，当然，而且在过去一年里，我们一直在努力帮助业内其他企业，并且，可以说，做一个好邻居。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "We opened source of our patents so any companies in China or elsewhere can use our patents to create electric vehicles. (Applause from the floor) And what you are doing just underscores a theme that emerged at the latest climate change conference in Paris the debate on whether developed countries should be doing more to help developing countries when the goal is a general shared goal.",
+      "textZh": "我们将专利开源，因此中国或其他地方的任何公司都可以使用我们的专利来制造电动汽车。（现场掌声）而你们正在做的事情恰恰凸显了最近巴黎气候变化大会上出现的一个主题：当目标是一个共同的总体目标时，发达国家是否应该做更多事情来帮助发展中国家的争论。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "And you are saying a company from a developed country should be doing that a little bit more in a market like China. China is quite well developed. I think China has better highways and definitely better trains than in the United States, by far In fact I had a great experience taking the bullet train from Beijing to Xian to see the Terracotta Warriors. It was a great experience. So I think there are lots of opportunities there.",
+      "textZh": "而你的意思是，来自发达国家的公司在中国这样的市场应该多做一点。中国已经相当发达了。我认为中国的高速公路比美国的更好，火车也绝对比美国的好得多。事实上，我曾有过一次很棒的经历，乘坐高铁从北京前往西安参观兵马俑。那是一次很棒的经历。所以我认为那里有很多机会。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "I think the challenge for Tesla is that in China. we need to establish sort of a local partnership and so we're going to kind of figure that out. There is an issue of pollution in China, the need for sustainable energy solutions in China. Gridlock is a huge issue in places like Beijing. I don't know if you've been stuck in Beijing traffic. I've been stuck in Beijing. Everyone here used to travel to China, you've been stuck. It's pretty crazy.",
+      "textZh": "我认为 Tesla 在中国面临的挑战是，我们需要建立某种本地合作关系，所以我们要设法弄清楚该怎么做。中国存在污染问题，也需要可持续能源解决方案。交通拥堵在北京这样的地方是个大问题。我不知道你是否曾被堵在北京的车流里。我在北京被堵过。在座每个过去常去中国的人，你们都被堵过。那相当疯狂。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Can Tesla auto-pilot provide some service solutions to that? I think auto-pilot can certainly take the edge off. Our auto-pilot capability right now is really good in two scenarios. It either works on a highway where there is no traffic and the lines are quite clear or in heavy traffic so it's super good in heavy traffic, and not that I recommended it, but you know you can read a book or do an email as what I found. I heard people say.",
+      "textZh": "Tesla 的自动驾驶能否为此提供一些服务性解决方案？我认为自动驾驶当然可以缓解一些压力。我们目前的自动驾驶能力在2种场景下确实表现很好。要么是在没有车流、标线十分清晰的高速公路上，要么是在拥堵的车流中，所以它在拥堵路况下表现极佳，而且并不是说我建议这么做，但你知道，你可以看书或处理电子邮件，这是我发现的。我听别人这么说。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "So you can really take the edge off the traffic but I'm actually quite a big fan of tunnels. Tunnels are so underappreciated. Please elaborate. Well the fundamental problem of cities is that we built cities in 3D and you see that we got these tall buildings with lots of people on each floor but then you got roads which are 2D, so that obviously just doesn't work.",
+      "textZh": "所以你确实可以缓解交通压力，但其实我相当喜欢隧道。隧道太被低估了。请详细说说。嗯，城市的根本问题在于，我们以3D方式建造城市，你可以看到，我们有这些高楼，每层都有很多人，但道路却是2D的，所以这显然行不通。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "You're guaranteed to have gridlock but you can go 3D if you have tunnels and you can have many tunnels crisscrossing each other with maybe a few metres vertical distance between them and completely get rid of traffic problems. And as my understanding that actually Hong Kong is in the process of building some tunnels. I was very pleased to hear that. But that really is the solution for solving traffic in major cities.",
+      "textZh": "你肯定会遇到交通完全堵塞，但如果有隧道，就可以实现3D交通，而且可以有许多隧道彼此交错，它们之间的垂直距离可能只有几米，并彻底消除交通问题。据我了解，香港实际上正在修建一些隧道。听到这个消息我非常高兴。但这确实是解决大城市交通问题的办法。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "Yeah, you can also go 3D with flying cars. You can But that's not going to happen for a long time. Well, flying cars sound cool but then they do make a lot of wind and they are quite noisy. And the probability of something falling on your head is much higher. Got you. We talked about charging stations in the challenge for rolling out more charging stations in Hong Kong.",
+      "textZh": "是的，你也可以通过飞行汽车实现3D交通。你可以，但那在很长一段时间内都不会发生。嗯，飞行汽车听起来很酷，但它们确实会产生很大的风，而且相当吵。并且有东西掉到你头上的概率要高得多。明白了。我们谈到了充电站，以及在香港铺设更多充电站所面临的挑战。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "The challenge is exponentially greater in China, especially in the rural areas to connect the big cities. What are your plans on that? So actually we have a supercharging network throughout China. You can go at this point almost anywhere in China using it as a supercharger network and then we got that whole bunch of third party affiliate destination chargers. And we've actually had people drive all the way from Beijing to Tibet in a Model S.",
+      "textZh": "在中国，这一挑战呈指数级增大，尤其是在连接各大城市的农村地区。你们对此有什么计划？实际上，我们在全中国都有超级充电网络。目前，你几乎可以利用这个超级充电网络前往中国的任何地方，此外我们还有一大批第三方合作目的地充电桩。事实上，已经有人驾驶一辆Model S一路从北京开到西藏。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "That's incredible. Have you driven a Tesla in rural China? No. I know people who have. The model 3. What can you tell us about the model 3? What's it going to look like and I know that you've mentioned to me...",
+      "textZh": "太不可思议了。你在中国农村开过Tesla吗？没有。我认识开过的人。Model 3。关于Model 3，你能告诉我们些什么？它会是什么样子？而且我知道你曾向我提到……"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "I can tell you what it's gonna look like but I mean I can tell you just generally some characteristics about it which is it meant to be a slightly smaller version of the Model S and it won't have quite as many bells and whistles but it'll be at a much lower price point. So the intent is to roughly cut the price in half for smaller vehicle. And I think really that's gonna be probably the most profound car that we make.",
+      "textZh": "我可以告诉你它会是什么样子，不过我的意思是，我只能大致告诉你它的一些特点，也就是它会是Model S的略小版本，不会有那么多花哨的功能，但价格会低得多。所以目标是让一款更小的汽车价格大致减半。而且我确实认为，这可能会是我们制造的最具深远影响力的汽车。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "That'll be a very compelling car at an affordable price. Yeah, this is with the model 3 the electric vehicle could go fully mainstream. Other car manufacturers, you have GM in mind with the Bolt doing the same thing and you welcome your rivals doing this? Yeah, the goal has been to accelerate the advent of sustainable transport so we actually did some partnerships, one with Mercedes and one with Toyota.",
+      "textZh": "那会是一款价格亲民、极具吸引力的汽车。是的，有了Model 3，电动汽车可能会完全进入主流。其他汽车制造商，比如你想到的通用汽车，也在用Bolt做同样的事，你欢迎竞争对手这样做吗？是的，我们的目标一直是加速可持续交通的到来，所以我们实际上开展过一些合作，一个是与梅赛德斯，另一个是与丰田。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "We open-sourced our IP and everything so the whole purpose of it was really to accelerate the advent of sustainable transport so it's always great to hear when the other car companies are making electric cars Including car companies inside China? Yea, absolute. Are there any Chinese electric car vehicle makers that are capturing your attention?",
+      "textZh": "我们把知识产权和一切都开源了，所以这样做的全部目的其实是加速可持续交通的到来，因此每当听说其他汽车公司在制造电动汽车时，总是很令人高兴。包括中国的汽车公司吗？是的，当然。有任何中国电动汽车制造商引起了你的注意吗？"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Well, we don't think too much about what competitors are doing Just because I think it's important to be just focused on making the best possible products You know, a sort of maybe analogous to what's ever if you were in a race Don't worry about what other runners are doing, just run But, you know, to push that metaphor even more.",
+      "textZh": "嗯，我们不会太多考虑竞争对手在做什么，只是因为我认为，专注于制造尽可能好的产品很重要。你知道，这有点类似于，比如说，如果你在参加一场赛跑，不要担心其他跑者在做什么，只管跑。但，你知道，把这个比喻再推进一步。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "Are you afraid that whoever's hosting the race could tilt the race in favor of the Chinese racer I am trying to figure out if there's any way to answer a question and not lose. You get one pass during this interview. If you would like to take the pass, you can take that pass. I will pass on that one. Okay. (Applause from the floor) We've talked about innovation in China and I thought your answer was really interesting.",
+      "textZh": "你担心主办这场比赛的人会不会操纵比赛，使其偏向中国选手吗？我正在想，有没有什么办法可以回答一个问题而不输。你在这次采访中有1次跳过问题的机会。如果你想跳过，可以使用这次机会。我会跳过这个问题。好的。（现场掌声）我们谈到了中国的创新，我觉得你的回答非常有意思。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "We quote the share with the audience in here. What is the example of \"Made in China\" innovation that you thought, wow, that's pretty cool. I think actually a lot of the social media services in China, you know, Weibo, WeChat are pretty impressive, is better than what's in the US Oh, you are on WeChat. I am, actually. Really? I only use WeChat when I'm in Mainland China in business. Do you use WeChat in LA Silicon Valley?",
+      "textZh": "我们在这里向观众引用分享一下。有什么“中国制造”的创新案例让你觉得，哇，真酷？实际上，我认为中国的许多社交媒体服务，你知道，微博、微信，都相当令人印象深刻，比美国的更好。哦，你用微信。我确实用。真的吗？我只在中国大陆出差时使用微信。你在洛杉矶、硅谷会使用微信吗？"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Occasionally to respond to the people in China. But it's pretty good. I think Alibaba is pretty impressive. Do you use Alibaba? Have you used it to purchase... No. It is very very impressive. Wechat, how do you use it? Which messaging functions do you like to use on it? I wouldn't call myself a WeChat expert. I basically just message people and send pictures. Pictures and text. Can you do other things?",
+      "textZh": "偶尔用来回复中国的人。但它相当不错。我觉得阿里巴巴相当令人印象深刻。你使用阿里巴巴吗？你用它购买过……没有。它确实非常非常令人印象深刻。微信，你怎么使用它？你喜欢使用其中哪些消息功能？我不会称自己为微信专家。我基本上只是给人发消息和发图片。图片和文字。还能做其他事情吗？"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "Recently I did a panel discussion in Beijing with a group of technologists and this subject came up Or I brought up the question. Can there be a Elon Musk in China and the answer was no And it was because of... this is according to Kai-fu Lee, former Head of Google China who started Microsoft Research in Beijing and he said it's because of the education system in China. It emphasizes too much role learning. You are Elon Musk.",
+      "textZh": "最近，我在北京与一群技术专家进行了一场小组讨论，这个话题被提了出来，或者说，是我提出了这个问题。中国能否出现一个埃隆·马斯克？答案是否定的。而原因是……这是李开复的说法，他曾任谷歌中国负责人，并在北京创办了微软研究院；他说，这是因为中国的教育体系。它过于强调角色学习。你就是埃隆·马斯克。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "What do you make of that? I mean obviously there are a number of very successful entrepreneurs in China Jack Ma, Pony Ma. That's right? Yea, exactly. So I think, I'm not sure I would entirely agree with that... but it is generally true that innovation comes from questioning the way things have been done before.",
+      "textZh": "你怎么看？我的意思是，显然中国有许多非常成功的企业家，马云、马化腾。对吧？是的，没错。所以我想，我不确定自己会完全同意那个说法……但总体而言，创新确实源于质疑过去做事的方式。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "And if in the education system you're taught not to do that, that will inhibit entrepreneurship Being able to question what you're being taught, being able to... Yeah, I mean, just saying \"is there a better way?\" to ask a question. Let's talk about innovation at Tesla for more questions there. We talked about Tesla autopilot. There's also Tesla Summon with your mobile phone and we did talk about this earlier.",
+      "textZh": "而如果教育体系教导你不要这样做，那就会抑制创业精神。能够质疑你所学的东西，能够……是的，我的意思是，就是问一句“有没有更好的办法？”。我们来谈谈Tesla的创新，那里还有更多问题。我们谈到了Tesla自动辅助驾驶。还有通过手机使用的Tesla召唤功能，我们之前确实谈过这个。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "I know that there's a big gap between those two programmes and self driving cars But is Tesla on its way to a driverless model? Yeah, I think the whole industry ultimately will be producing autonomous cars. And if you fast forward, let's say 10 or certainly not more than 15 years, I think almost all cars produced will be autonomous All cars produced will be autonomous? All new cars, yes.",
+      "textZh": "我知道这两个项目与自动驾驶汽车之间存在很大差距，但Tesla正在迈向无人驾驶车型吗？是的，我认为整个行业最终都会生产自动驾驶汽车。如果把时间快进，比如说10年，或者肯定不超过15年，我认为生产的几乎所有汽车都会是自动驾驶汽车。生产的所有汽车都会是自动驾驶汽车？所有新车，是的。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "But that's not same as all cars on road cause there's roughly 2 billion cars and trucks on the road and just under a hundred million produced every year so the production rate is only 5% of the fleet size. But if you say of new cars produced, I will be surprised if a majority of them are not self-driving in let's say 10 to 15 years.",
+      "textZh": "但这并不等同于道路上的所有汽车，因为道路上大约有20亿辆汽车和卡车，而每年生产的车辆略低于1亿辆，所以产量仅相当于车队规模的5%。但如果你说的是生产的新车，那么假设在10到15年后，其中大多数还不是自动驾驶汽车，我会感到惊讶。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "And of all those new self-driving cars on the road how many of them will have, you know, it's like, will have a steering wheel versus not having a steering wheel. It's like the ruin of the past. The steering wheel thing I am not sure. I think there may be some perhaps auxiliary steering wheel that only pops out when you need to take manual control for whatever reason. But probably if you go a long long term.",
+      "textZh": "而在道路上的所有这些新型自动驾驶汽车中，有多少会有，你知道，这就像，会有方向盘，而有多少不会有方向盘。这就像过去的废墟。方向盘这个问题我不确定。我认为或许可能会有某种辅助方向盘，只有当你出于某种原因需要进行手动控制时才会弹出来。但也许如果把时间拉得非常非常长。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "My guess is that there isn't a steering wheel in most cars, it would be something that you would have to special order. In most cars, not all cars, and I do want to clear that predictions are not endorsements, you know. I am not saying that this would be a good or bad thing. I am just saying that this is probably what would occur. This is pattern recognition and anticipating what's going to happen next.",
+      "textZh": "我猜大多数汽车里不会有方向盘，那会是你必须特别订购的东西。是大多数汽车，不是所有汽车，而且我确实想说明，预测并不代表赞同，你知道。我不是说这会是件好事或坏事。我只是说，这很可能会发生。这是在进行模式识别，并预判接下来会发生什么。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "It's likely, I mean, I think it's sort of like elevators used to have a manual elevator operator and you have somebody who would be sort of moving the lever and be able to fine-tune adjustments the elevator for each floor. Now there's no manual controller for elevators. I think it's gonna seen the same way for cars.",
+      "textZh": "很可能，我是说，我觉得这有点像电梯过去会配备人工电梯操作员，会有人负责扳动操纵杆，并能针对每一层对电梯进行微调。现在电梯已经没有人工控制员了。我认为汽车也会被以同样的方式看待。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "And how about the way consumers interact with driverless cars How many consumers will choose to own their own car vs signing into a network fleet of driverless cars?",
+      "textZh": "那么消费者与无人驾驶汽车互动的方式呢？会有多少消费者选择拥有自己的汽车，而不是登录一个无人驾驶汽车网络车队？"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Probably still most people will own their own cars but it is hard to predict the exact percentage, but I think probably roughly 60-70 percent of people probably want to own their cars about two-third or one-third share and this is a complete shooting-in-the-dark guess, but I think still most people will want to own their own cars. But they also may choose to add it to the shared fleet and then take it out of shared fleet at will.",
+      "textZh": "可能大多数人仍然会拥有自己的汽车，但确切比例很难预测，不过我认为可能大约60-70%的人会想拥有自己的汽车，大约三分之二，或者三分之一共享，而这完全是毫无根据的猜测，但我认为大多数人仍然会想拥有自己的汽车。不过，他们也可能选择把车加入共享车队，然后随时将它移出共享车队。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "You don't see that as a threat to your business model? No, I think just as long as we make great autonomous cars. It's just additional options for the consumer. Yeah it's just adding functionality that I think who will consider quite important in the car in the future. I actually talked about this before. In the long term owning a car that does not have the autonomous capability will be a bit like owning a horse.",
+      "textZh": "你不认为这会威胁到你们的商业模式吗？不会，我认为只要我们能制造出色的自动驾驶汽车就行。这只是为消费者提供了更多选择。是的，这只是增加了一项功能，我想未来人们会认为这项功能对汽车相当重要。其实我以前谈过这一点。从长远来看，拥有一辆不具备自动驾驶能力的汽车，会有点像拥有一匹马。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "You sort of own a horse for sentimental reasons but not... but not for actual transport Let's talk about the futuristic-looking Model X A question that many Hong Kongers have is, can I park this thing in my parking garage because of those falcon wing doors. What's your answer to that? Actually the falcon wing doors are double hinged.",
+      "textZh": "你拥有一匹马，更多是出于情感原因，而不是……而不是为了实际交通。我们来谈谈这款外观充满未来感的Model X。许多香港人都有一个问题：因为有那些鹰翼门，我能把这东西停进我的停车库吗？你对此的回答是什么？实际上，鹰翼门采用双铰链设计。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "we call them 'Falcon Wing' instead of 'gull-wing' because they have a dual acting hinge so they can actually opened in a tighter space than almost any door. And certainly a tighter space than a conventional door. If you can physically fit between your car and a Model X, then you'll be able to get in the falcon wing door. And it looks beautiful and I love the...",
+      "textZh": "我们称之为“鹰翼门”而不是“鸥翼门”，因为它们采用双作用铰链，所以实际上能在比几乎任何车门都更狭窄的空间里开启。当然，也比传统车门所需的空间更狭窄。如果你身体能够挤进自己的车与一辆Model X之间，那么你就能从鹰翼门进入车内。而且它看起来很漂亮，我喜欢这个……"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "I mentioned this yesterday I love the Back to the Future series, remind you the DeLorean which I know, it should not compare to... It looks sci-fi, it looks cool but it also, this is important, it serves a design purpose. What is that purpose? Yes, so the falcon wing door is designed to improve accessibility of the third row. Typically in a three-row car and SUV, it's quite difficult to access the third row directly.",
+      "textZh": "我昨天提到过，我很喜欢《回到未来》系列，它会让你想起DeLorean，我知道，它不应该拿来与……相比。它看起来很科幻，看起来很酷，但同时，这一点很重要，它也服务于一个设计目的。这个目的是什么？是的，鹰翼门的设计目的是改善第三排的进出便利性。通常在三排座汽车和SUV中，直接进入第三排相当困难。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "You have to fold up the second row seat. You somehow have to move the seat back of the second row which if you've got sort of a child or child seat in the second row can make it really inconvenient to access the third row. So by having the falcon wing door, we have much bigger opening that allows you to directly step to the third row quite conveniently even if their baby sits in the second row.",
+      "textZh": "你必须把第二排座椅折起来。你得以某种方式移动第二排座椅的椅背，如果第二排坐着孩子或装有儿童座椅，这会让进入第三排变得非常不方便。因此，借助鹰翼门，我们有了大得多的开口，让你可以相当方便地直接迈进第三排，即使他们的宝宝坐在第二排也是如此。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "And then if you're a mother putting your child in the child seat in the second row, it's very easy because you have such a big opening. And you can step into the car and put the child in the child seat instead of cantilevering your child over through a hole over the baby seat, sort of armrest.",
+      "textZh": "然后，如果你是一位母亲，要把孩子放进第二排的儿童座椅，也非常容易，因为开口非常大。你可以走进车内，再把孩子放进儿童座椅，而不必把孩子悬着举过一个洞口、越过婴儿座椅，某种扶手。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "So it's meant to improve accessibility and really there are only two ways to achieve the level of accessibility: One is the sliding door of a minivan and the other is have something like a falcon wing door The reason we did't go for a sliding door like a minivan is that it fundamentally constrains the aesthetics of the exterior of the car and you have to have three support rails which also negatively affect aesthetics and that's why all minivans pretty much look the same.",
+      "textZh": "所以，它旨在改善进出便利性，而真正能达到这种便利程度的方式只有2种：一种是小型厢式车的滑动门，另一种是采用类似鹰翼门的设计。我们没有选择小型厢式车那样的滑动门，是因为它从根本上限制了汽车外观的美感，而且必须配备3条支撑导轨，这也会对美感产生负面影响，这就是为什么所有小型厢式车看起来几乎都一样。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "And we wanted to have something that had that level of accessibility and actually has greater accessibility than the minivan door but also looks good. This is classic user-centered design and can I just say thank you for designing for moms and thank you for designing for parents. It's pretty cool. I think parents will really enjoy the Model X.",
+      "textZh": "而且我们想要一种具备那种便利性的设计，实际上比小型厢式车的车门更方便使用，同时看起来也很美观。这是经典的以用户为中心的设计，我只想说，感谢你们为妈妈们设计，也感谢你们为父母们设计。这真的很酷。我认为父母们会非常喜欢 Model X。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "And we are also taking good feedback from customers and for example one of the things that was asked some of the Hong Kong customers who have ordered the Model X is to have a partial open function of the falcon wing door so if it's a really heavy rain. Oh, yeah, so it can be an umbrella.",
+      "textZh": "而且我们也在认真采纳客户的反馈，例如，一些已经订购 Model X 的香港客户提出，希望鹰翼门能有部分开启功能，这样如果雨下得非常大。哦，对，这样它就能当作一把伞。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "Yeah, so you want sort of maybe a 50, 60 percent open level so you have a good shield from the rain and people would be pleased know that actually it's already in the works. Oh, very good, very cool. just a software update. And something that is also potentially in the works but only first selects few a submersible Tesla.",
+      "textZh": "对，所以你会想要大概开启 50%、60% 的程度，这样就能很好地遮雨；而且大家会很高兴得知，这项功能实际上已经在开发中了。哦，非常好，非常酷。只需一次软件更新。还有一件也可能正在开发的东西，不过一开始只面向少数人，那就是可潜水的 Tesla。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "That will be not in anytime soon but just to be a fun side project to have a submersible Tesla, but I think the market for submarine car is quite small. But you don't have to use the cross-harbour tunnel in Hong Kong, you can just go through the Victoria Harbour. That's true. That would be pretty epic. Cause it drives right off the edge of the pier. That's right, be James Bond everyday in your commute. A Tesla truck? Could that ever happen?",
+      "textZh": "那个短期内不会推出，只是作为一个有趣的副项目，做一辆可潜水的 Tesla，但我认为潜水汽车的市场相当小。不过你就不必使用香港的海底隧道了，可以直接穿过维多利亚港。确实。那会相当壮观。因为它可以直接从码头边缘开下去。没错，每天通勤时都能当詹姆斯·邦德。Tesla 卡车？这有可能实现吗？"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Yeah, I think it's quite likely that we will do a truck in the future. Yeah, any more details on that? No, I think it is sort of logical thing for us to do in the future.",
+      "textZh": "是的，我认为我们将来很有可能会造卡车。是的，能透露更多细节吗？不能，我认为这算是我们未来顺理成章会做的事情。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "Okay, with Tesla your goal's been to make a better car and you've done that with an electric vehicle that people love it that has quite a cult following that's upgradable but you also want to achieve in your turn of phrase is very nice Or try to achieve this platonic ideal of a car to reach perfection so what does the perfect car .",
+      "textZh": "好的，对于 Tesla，你的目标一直是制造一辆更好的汽车，而你已经通过一款人们喜爱、拥有相当一批狂热拥趸、并且可以升级的电动汽车做到了这一点，但你还想实现——用你的措辞来说非常好听——或者说努力实现汽车的这种柏拉图式理想，以达到完美，那么完美的汽车是什么样"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "looks like I do use that phrase with our engineering and design team aspirationally that we were in pursuit of platonic ideal of perfect car and who knows what that looks like actually. But you wanna try to make every element of the car as flawless as possible.",
+      "textZh": "的？我确实会以一种愿景式的方式对我们的工程和设计团队使用这个说法，说我们是在追求完美汽车的柏拉图式理想，而实际上谁知道那是什么样子。但你会想尽量让汽车的每一个元素都完美无瑕。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "There's always be some degree of imperfection, but try to minimize that and create a car that is just delightful in every way and I think if you do that then the rest can take care of itself.",
+      "textZh": "总会存在某种程度的不完美，但要努力将其降到最低，并创造一辆在各个方面都令人愉悦的汽车。我认为，如果你做到了这一点，其余的事情自然会顺其自然。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "You are also the chairman of SolarCity, building a network of solar panels and solar systems and I can see what solar can make sense in the place like California where it's sunny all the time homes are big, a lot of roof space, you can lay out the solar panels. But in the place like Hong Kong, densely packed, vertical cities, how can solar makes sense here? I think it's true that in dense cities, rooftop solar is not gonna solve the energy need.",
+      "textZh": "你还是 SolarCity 的董事长，正在建设太阳能电池板和太阳能系统网络。我能理解太阳能为什么在加利福尼亚这样的地方行得通，那里总是阳光充足，房屋很大，屋顶空间很多，可以铺设太阳能电池板。但在香港这样人口密集、垂直发展的城市，太阳能怎么能在这里行得通？我认为确实如此，在人口密集的城市，屋顶太阳能无法解决能源需求。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "What you can do is have ground mount solar power near Hong Kong tapping into the existing power lines that are coming in and so you can supply Hong Kong with solar power which is needed to be coming from a land area that's not too far away. China has actually enormous land area, much which is hardly occupied at all.",
+      "textZh": "你可以做的是，在香港附近建设地面安装式太阳能发电设施，接入现有的输电线路，这样就可以用太阳能为香港供电，而这些电力需要来自不太远的一片土地。中国实际上拥有广阔的土地，其中很多地方几乎完全无人居住。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "Given that the Chinese population is so concentrated on the coast, once you go inland, the population is remarkably tiny so you can easily power all of China with solar. All of China with solar? Easily. The world's most populous country. Yeah, definitely. (Applause from the floor) Let's go even more way out there and talk about SpaceX. You are CEO of SpaceX and you've said that your ultimate goal is to get humankind to Mars.",
+      "textZh": "鉴于中国人口高度集中在沿海地区，一旦进入内陆，人口就少得惊人，所以完全可以轻松地用太阳能为全中国供电。全中国都用太阳能供电？轻而易举。世界上人口最多的国家。是的，绝对可以。（台下掌声）让我们谈些更加超前的事，谈谈 SpaceX。你是 SpaceX 的首席执行官，而且你说过，你的终极目标是把人类送上火星。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "I've heard your response to the question but these guys didn't hear it. Why is Mars important? Whys does Mars matter? It is really fundamental as we need to make as civilisation... What kind of future do we want? Do we want a future where we are forever confined to one Planet? Until some eventual extinction events, however far in the future that might occur.",
+      "textZh": "我听过你对这个问题的回答，但这些人没有听过。火星为什么重要？火星为什么要紧？这确实是根本性的，因为作为文明，我们需要……我们想要什么样的未来？我们想要一个永远被困在一颗行星上的未来吗？直到某个最终的灭绝事件发生，无论那可能是在多么遥远的未来。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "Or do we want to become a multi-planet species and then ultimately be out there among the stars, being among many planets, many star systems I think the latter is far more exciting and inspiring future than the former and Mars is the next natural step. In fact it's the only planet that we really have a shot at establishing our self-sustaining city on.",
+      "textZh": "还是说，我们想成为一个多行星物种，并最终置身群星之间，存在于许多行星、许多恒星系统之中？我认为，后者所代表的未来远比前者更加激动人心、更能鼓舞人心，而火星是顺理成章的下一步。事实上，它是我们真正有机会在上面建立自给自足城市的唯一一颗行星。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "And I think once we do establish such a city, there will be strong forcing function for the improvement of space flight technology that will enable us to establish colonies elsewhere in the solar system and ultimately extend beyond our solar system.",
+      "textZh": "而且我认为，一旦我们建立了这样一座城市，就会形成一股推动航天技术改进的强大力量，使我们能够在太阳系其他地方建立殖民地，并最终延伸到太阳系之外。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "And so there's the defensive reason of protecting the future of humanity ensuring that the light of consciousness is not extinguised should some calamities befall Earth that's the fancy reason but personally I found what gets me more excited is the fact that it would be an incredible adventure like the greatest adventure ever. It will be exciting and inspiring and there need to be things that excite and inspire people.",
+      "textZh": "所以，其中有一个防御性的理由，就是保护人类的未来，确保即使地球遭遇某些灾难，意识之光也不会熄灭，这是比较宏大的理由；但就我个人而言，我发现更让我兴奋的是，这将是一场不可思议的冒险，就像有史以来最伟大的冒险。它会令人兴奋、鼓舞人心，而人们需要一些能让他们兴奋并受到鼓舞的事情。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "Reasons why you get up in the morning can't just be solving problems, it's gonna be something great gonna happen in the future. We talked about this at length yesterday. It's not an exit strategy or backup plan for humankind when Earth fails, it's also to inspire people on Earth and to transcend to go beyond or mental limits of what we think we can achieve. I think how incredible the Apollo programme was.",
+      "textZh": "让你早晨起床的理由不能只是解决问题，未来总得有一些伟大的事情要发生。我们昨天详细讨论过这一点。它并不是当地球失败时，人类所采取的退出策略或备用计划；它也能激励地球上的人们，并实现超越，突破或我们认为自己能够做到什么的心理极限。想想阿波罗计划有多么不可思议。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "If you ask anyone to name some of humanity's greatest achievements in the 20th Century, the Apollo programme landing on the moon would in many if not most places be no. 1 When will there be a manned SpaceX mission and when will you go to Mars? Pretty close to do it to sending co-op to the space station. That's currently scheduled for the end of the next year.",
+      "textZh": "如果你请任何人列举人类在20世纪取得的一些最伟大成就，阿波罗计划登月即使不是在大多数地方，也会在许多地方位列第1。SpaceX 什么时候会执行载人任务，而你又什么时候会去火星？距离实现它、把合作项目送往空间站已经非常接近了。目前计划是在明年年底。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "So that'll be exciting with the Dragon 2 spacecraft and then we'll have a next-generation rocket and spacecraft beyond the Falcon Dragon series, and I'm hoping to describe that architecture later this year at the International Astronautical Congress which is like the big international space event every year so that would be quite exciting. And in terms of me going, I don't know..",
+      "textZh": "所以使用龙飞船2号会令人兴奋，之后我们还会有超越猎鹰—龙飞船系列的下一代火箭和航天器。我希望今年晚些时候能在国际宇航大会上介绍那套架构，它就像每年一度的大型国际航天盛会，所以那会相当令人兴奋。至于我去不去，我不知道……"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "maybe four or five years from now, maybe going to the space station would be nice. And in terms of the first flight to Mars, we hope to do that in around 2025. In the Year 2025? Nine years from now thereabouts. Oh my goodness, it's just around the corner. Well, nine years. So are you doing zero gravity training? I've done the parabolic flights, those are kind of fun.",
+      "textZh": "也许从现在起4年或5年后吧，也许去空间站会很不错。至于首次飞往火星，我们希望在2025年左右实现。在2025年？差不多是9年后。我的天，就快到了。嗯，9年。那么你在进行零重力训练吗？我坐过抛物线飞行，那些还挺有趣的。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "You must be reading up and doing the physical testing to get ready for this ultimate flight of your life. I don't think it's that hard honestly, float around. It's not that hard to float around. But I know you've seen the Martian. We talked about the Martianm and it looks like the hardest thing anyone could ever do is getting there and also surviving and trying to anticipate everything that could go wrong and make sure it doesn't happen.",
+      "textZh": "你一定在阅读相关资料，并进行身体测试，为你人生中的这次终极飞行做准备。老实说，我觉得没那么难，就是飘来飘去。飘来飘去没那么难。但我知道你看过《火星救援》。我们谈过《火星救援》，而其中看起来任何人所能做的最难之事，就是抵达那里并活下来，还要设法预见一切可能出错的事情，并确保它不会发生。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "You can tell I'm not gonna be signing up for your manned space flight when it takes place. Going to Mars is definitely gonna be hard and dangerous and difficult in probably every way you can imagine. Certainly wouldn't be, if you care about the sort of things safe and comfortable going to mars would be a terrible choice. And this is at the heart of who you are because you to quote Pink Floyd - you do not like to live a comfortably numb life.",
+      "textZh": "你可以看出，等你的载人航天飞行成行时，我不会报名参加。前往火星肯定会很艰难、危险，而且大概在你能想象到的每个方面都很困难。当然，如果你在意安全舒适之类的事情，去火星会是个糟糕的选择。而这正是你本性的核心，因为引用平克·弗洛伊德的话来说，你不喜欢过一种舒适麻木的生活。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "You take on incredible risk to take on entrenched big established industries and to shake and rattle them up to introduce something new and it's so cool to watch and I think that's why everybody here signed up to come here to listen to you just to hear more about that. People want to be more like you. And for the fate of humankind I think it would be great to have more Elon Musks. So what do we need to do to become more like Elon?",
+      "textZh": "你承担了难以置信的风险，去挑战那些根深蒂固、规模庞大且成熟的行业，撼动它们、震动它们，引入新事物；看着这一切实在太酷了。我想，这就是为什么今天在场的每个人都报名来到这里听你讲话，只为了更多地了解这一点。人们想变得更像你。考虑到人类的命运，我认为如果有更多埃隆·马斯克，那会很棒。那么，我们需要做些什么才能变得更像埃隆？"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "I think maybe sounds better than it is.",
+      "textZh": "我觉得，也许听起来比实际情况好。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "Honestly, there is a friend of mine who's got a good saying about creating a company which is trying to build a company and have it succeeded is like eating glass and staring into the abyss so what tends to happen is it's sort of quite exciting for the first several months of starting a company and then reality sets in, things don't go as well as planned, customers aren't signing up, the technology or the product isn't working as well as you thought and then conduct concern has been compounded by a recession and it can be very painful for several years.",
+      "textZh": "说实话，我有一位朋友，他对创办公司有一句很好的说法：努力创建一家公司并让它取得成功，就像一边吃玻璃，一边凝视深渊。所以通常会发生的是，创办公司的最初几个月会有点相当令人兴奋，然后现实开始显现，事情没有按计划顺利发展，客户没有签约，技术或产品的表现没有你想象的那么好，接着经营方面的担忧又因经济衰退而加剧，几年时间里可能会非常痛苦。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "So I think starting a company, I would advise some people to have a high pain tolerance. And thanks for reminding us of the very harsh and brutal reality of launching a startup. There is that Elon Musk/ Tony Stark mystique, people think you were Robert Downey Jr. model, his character, Tony Stark, iron man on you. It's easy. It's fun.",
+      "textZh": "所以我认为，对于创办公司，我会建议一些人具备很强的疼痛承受能力。感谢你提醒我们创办初创企业那极其严酷而残忍的现实。埃隆·马斯克／托尼·斯塔克身上有那种神秘光环，人们认为你是小罗伯特·唐尼的原型，他的角色托尼·斯塔克、钢铁侠是以你为原型的。很容易。很好玩。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "You are a super hero type of industry but it's really hard, it's really difficult and it's something that requires perseverance and greed. Do you fear that maybe in this generation or the younger generation that they don't have that perseverance and greed to take on these really tough challenges? I think some people will do. It is definitely true that...",
+      "textZh": "你是一个超级英雄类型的行业，但实际上非常艰苦、非常困难，而且需要毅力和贪欲。你是否担心，也许这一代人或年轻一代没有那种毅力和贪欲去迎接这些真正艰巨的挑战？我认为有些人会有。确实……"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "maybe there are occassionally companies that get created where there's not an extend a period of extreme pain but I'm not aware of many of such instances. But I do think that new great entrepreneurs are born everyday and we will continue to see amazing companies get built, but I would definitely advise people starting a company to expect a long period of difficulty.",
+      "textZh": "也许偶尔会有一些公司被创立出来，并没有经历一段延长的极端痛苦期，但我不知道有多少这样的例子。不过，我确实认为，每天都会有优秀的新企业家诞生，我们也将继续看到卓越的公司被建立起来；但我一定会建议创办公司的人做好经历一段漫长困难时期的准备。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "But as long as people stay super focused on creating absolute best part of service that really delight their end customer if they stay focused on that. then if you get a sense that your customers want you to succeed then you probably will. You have to focus on the customer, delivering for them. If your customers love you, your odds of success are dramatically higher. All the entrepreneurs in this room, they are listening to that message.",
+      "textZh": "但只要人们始终极度专注于创造绝对最好的服务部分，真正让最终客户感到满意，只要他们始终专注于这一点。那么，如果你感觉客户希望你成功，你很可能就会成功。你必须专注于客户，为他们兑现承诺。如果客户喜欢你，你成功的概率会显著提高。这个房间里的所有企业家都在聆听这一信息。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "Running out of time, so this is the final question: This is for the budding entrepreneurs in the room who can take an Elon Musk idea and run with it. Quite famously Hyperloop idea that you had to give away because you just don't have enough time to deal with it What are the other ideas that you have that you would love to see another entrepreneur take on and go? I think there's a lot of opportunity in general in electrification in transport.",
+      "textZh": "时间快不够了，所以这是最后一个问题：这个问题是为在座那些初出茅庐的创业者准备的，他们可以接过埃隆·马斯克的一个想法，把它做下去。很有名的一个例子是你的超级高铁构想，你不得不把它公开出去，因为你实在没有足够的时间去处理它。你还有哪些想法，是你很希望看到另一位创业者接手并付诸行动的？我认为，总体而言，交通电气化领域有很多机会。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "So electric aircraft I think there is lots of opportunity there. And genetics, so that's sort of a thorny area, but in terms of solving some of the more intransigent diseases, genetics is really key to solving those. Something that people may be only beginning to look at is establishing some kind of brain-computer interface. A brain-computer interface? Yes, at the neuron level.",
+      "textZh": "所以，我认为电动飞机领域有很多机会。还有遗传学，这是一个有些棘手的领域，但就解决一些更为顽固的疾病而言，遗传学确实是解决这些疾病的关键。人们可能才刚刚开始关注的一件事，是建立某种脑机接口。脑机接口？是的，在神经元层面。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "So this is sort of intelligent augmentation as opposed to artificial intelligence that has a lot of potential. You mentioned this to me yesterday, I really had no idea what you're talking about and then I looked up Iain Banks, Neuralynx. So it is the concept of wiring the brain so it's either...",
+      "textZh": "所以，这算是智能增强，而不是人工智能，它有很大的潜力。你昨天向我提到这个时，我真的完全不知道你在说什么，然后我查了一下伊恩·班克斯、Neuralynx。所以这个概念就是给大脑接线，让它可以……"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "So there could be a brain internet and it could also mean that we could upload our thoughts to the cloud You will never forget anything and you wouldn't need to take photographs. It's incredible. You will never forget anything. You will expand your ability to process information to remember information but then where the denial of service attack happens. You know, watch out for hacking, that could really be...",
+      "textZh": "所以可能会有一个大脑互联网，这也可能意味着我们可以把自己的思想上传到云端。你永远不会忘记任何事情，也不需要拍照。太不可思议了。你永远不会忘记任何事情。你会扩展自己处理信息、记忆信息的能力，但接着拒绝服务攻击会在哪里发生。你知道，要小心黑客攻击，那真的可能会……"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "But also I read that it could be used to fight the degenerative diseases like Parkinson's too. Absolutely. And I think actually it would be quite an equaliser as well cause I think the the delta between it would just even things out. You mean, for humankind, people would be no education disadvantage, everyone would be starting at the same level so there would be no meritocracy... no, there would be new meritocracy.",
+      "textZh": "不过我还读到，它也可以用来对抗帕金森病之类的退行性疾病。完全正确。而且我实际上认为，它也会相当具有均衡作用，因为我认为两者之间的差距只会把一切拉平。你的意思是，对人类而言，人们不会再处于教育劣势，每个人都会从同一水平起步，所以不会再有精英制度……不，会有新的精英制度。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "There will be but the differences will be smaller. The delta will be smaller probably. And you really welcome that kind of world? Well, You asked for predictions. Predictions are not the same as preferences. So do I think something like that is likely to occur? I think probably. It's incredible. We can go on and on. Unfortunately we have to wrap and leave it that. Let's give it for Elon Musk. That is really awesome. Thank you so much.",
+      "textZh": "会有，但差异会更小。差距可能会更小。而你真的欢迎那样的世界吗？嗯，你问的是预测。预测并不等同于偏好。那么，我是否认为那样的事情很可能发生？我想可能会。太不可思议了。我们可以一直聊下去。遗憾的是，我们必须结束了，就到这里吧。让我们为埃隆·马斯克鼓掌。真的太棒了。非常感谢。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Thank you Kristie from CNN and the de facto game changer, Elon Musk In fact I invite both of you to stand on the stage for a moment, we are going to do a group photo. I'd like to please invite to join us on stage. Mr Greg So, Hong Kong Secretary for the Commerce and Economic Development along with all our distinguished speakers and vertical champions as well as venue partners for StartmeupHK Festival.",
+      "textZh": "感谢来自 CNN 的 Kristie，以及这位事实上的游戏规则改变者，埃隆·马斯克。事实上，我邀请二位在台上站一会儿，我们要拍一张集体照。我想请以下各位上台加入我们：香港商务及经济发展局局长 Greg So 先生，以及我们所有杰出的演讲嘉宾、各垂直领域的领军人物，还有 StartmeupHK Festival 的场地合作伙伴。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "Come up onto the stage, we are going to take a group photo together. I believe we are going to move the furniture briefly. Can I also please just make sure that we include these individuals - Matt, Julie, Renue, Bhatti, Anson Falie, Irene Chiu, Andy Liu, Steve Monaghan, Angie Ohn and the Brinc team Mickey, Christine and Manav. We have to get it nice and close to each other.",
+      "textZh": "请上台来，我们要一起拍一张集体照。我想我们会暂时把家具挪开。也请让我确认一下，我们把这些人都包括进来——Matt、Julie、Renue、Bhatti、Anson Falie、Irene Chiu、Andy Liu、Steve Monaghan、Angie Ohn，以及 Brinc 团队的 Mickey、Christine 和 Manav。我们得彼此靠得近一些。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T23:18:11.568Z",
+    "reviewedAt": "2026-09-12T23:37:21.470Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:25.280Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=pIRqB5iqWA8",
+  "sourceHash": "dfa89404df366e74315c74655b80228b29f878cb8747ebdd2f8b7d791b1925a7"
+}

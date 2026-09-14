@@ -1,0 +1,694 @@
+{
+  "id": "starbase-launchpad-tour-part-3-2021-07-30",
+  "slug": "starbase-launchpad-tour-part-3-2021-07-30",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2021-07-30",
+  "titleEn": "Starbase Launchpad Tour — Part 3",
+  "titleZh": "星港发射台之旅——第3部分",
+  "summaryEn": "Final part of the tour at the Starbase orbital launch pad discussing the catching arms, orbital flight plans and rapid reusability.",
+  "summaryZh": "星港轨道发射台之旅的最后一部分，讨论了捕捉臂、轨道飞行计划和快速复用。",
+  "sourceUrl": "https://www.youtube.com/watch?v=9Zlnbs-NBUI",
+  "sourceLabel": "Everyday Astronaut",
+  "archiveUrl": "https://elonmuskarchive.org/video/starbase-launchpad-tour-part-3-2021-07-30",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/9Zlnbs-NBUI",
+  "thumbnailUrl": "https://i.ytimg.com/vi/9Zlnbs-NBUI/hqdefault.jpg",
+  "durationSec": 1252,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Hi, it's me, Tim Dodd, the Everyday Astronaut. Welcome to part three of my tour of SpaceX's Starbase factory and launch site with the ultimate tour guide, Elon Musk. Of course, if you haven't watched parts one and two, what are you doing? You absolutely have to watch those first because there's just gobs of information. But this one's a little bit different.",
+      "textZh": "嗨，是我，Tim Dodd，“日常宇航员”。欢迎观看我与终极导游埃隆·马斯克一同参观SpaceX星港工厂和发射场的第3部分。当然，如果你还没看过第1和第2部分，那你在干什么？你绝对得先看那些，因为里面的信息实在太多了。不过这一部分有点不一样。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "We actually go out to the launch pad while it's being constructed and watch Elon at work and still get to ask a couple of fun questions. Just like before the YouTube play bars broken up into sections. We have links in the descriptions to those sections too. And of course we have an article version of some of the notes and key takeaways of this conversation up at everydayastronaut. com.",
+      "textZh": "我们实际上会在发射台施工期间前往那里，看埃隆工作，同时还能问几个有趣的问题。和之前一样，YouTube播放进度条划分成了多个章节。简介里也有这些章节的链接。当然，我们还在everydayastronaut. com上发布了一篇文章版，收录了这次谈话的部分笔记和关键要点。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "All right, let's hop in the car and head down to the launch pad. Which week is the blast. Is the radius actually gonna change the exclusion zone a little bit when one super heavy gets a, it starts launching, or you do the full stack?",
+      "textZh": "好了，我们上车去发射台吧。爆炸是哪一周。当一枚Super Heavy得到一个，它开始发射，或者你们进行完整堆叠时，半径实际上会稍微改变禁入区吗？"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "[Elon] Well, we definitely won't have people, we'll clear the whole area for orbital launches.",
+      "textZh": "[埃隆] 嗯，我们肯定不会让人员留在那里，进行轨道发射时，我们会疏散整个区域。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "[Tim] Like Stargate and stuff?",
+      "textZh": "[Tim] 像Stargate之类的？"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "[Elon] Yeah. Well, we might have a small crew with some shield, you know, like a rope and being a robust, some shielding on the roof and strong glass. But like, if something does go wrong with the over launch, it's really a much more of a fireball than it is an explosion but it is quite a big fireball.",
+      "textZh": "[埃隆] 对。嗯，我们可能会留一小队人，配备一些防护，你知道，比如一根绳子，并且很坚固，屋顶上有一些防护，还有坚固的玻璃。但如果发射过程中真的出了问题，那与其说是爆炸，不如说更像一个火球，不过确实会是一个相当大的火球。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "[Tim] Will you eventually be moving the launch control and everything, or is that staying at Stargate, at the control center?",
+      "textZh": "[Tim] 你们最终会搬迁发射控制中心和所有设施吗，还是会继续留在Stargate的控制中心？"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "It'll be at Stargate for now.",
+      "textZh": "目前会设在Stargate。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "[Tim] By the way, I haven't, I just got back into town for the first time since the booster has been up. So I have not seen this.",
+      "textZh": "[Tim] 顺便说一句，自从助推器竖起来后，我还没有，我刚刚第一次回到镇上。所以我还没见过这个。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "[Elon] Yeah, it's a lot of progress. The teams are great.",
+      "textZh": "[埃隆] 对，进展很大。团队都很棒。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "[Tim] God, it's so tall and that's not even the whole thing.",
+      "textZh": "[Tim] 天啊，它太高了，而且那甚至还不是完整的。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "That is the pool tower.",
+      "textZh": "那是泳池塔。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "[Tim] But I mean that the booster.",
+      "textZh": "[Tim] 不过我是说那个助推器。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Oh yeah, exactly.",
+      "textZh": "哦，对，没错。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "[Tim] Yeah, the tower is done now, right? As far as height.",
+      "textZh": "[Tim] 对，这座塔现在完工了，对吧？就高度而言。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Yeah. The full full-stack will be a little taller than the tower.",
+      "textZh": "对。完整的完整堆叠会比塔稍高一点。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "[Tim] Are you guys working on a second tower two already?",
+      "textZh": "[Tim] 你们已经在建第2座塔，2号塔了吗？"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "We are thinking about it.",
+      "textZh": "我们正在考虑。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "[Tim] What's the future for Starbase here? Like, well, will you guys always be launching from here or what happens when the oil rigs go online?",
+      "textZh": "[Tim] 这里的星港未来会怎样？比如，嗯，你们会一直从这里发射吗，还是等石油钻井平台投入使用后会怎样？"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "I mean, as long as it's, if we're able to launch it from here without too much operational difficulties, then we will keep doing it. But it is a bit of a challenge with beach closers, like there's like some people, don't want to have the beach clothes that much, but on the other hand, we gotta be able to launch. So it's like, you know, to what degree can we operate from here effectively and still let people use the beach and stuff.",
+      "textZh": "我是说，只要它，如果我们能从这里发射而不会遇到太多运营困难，那我们就会继续这么做。但海滩关闭确实有点棘手，比如有些人，不希望海滩的衣服那么多，但另一方面，我们必须能够发射。所以就像，你知道，我们能在多大程度上有效地从这里运营，同时仍让人们使用海滩之类的地方。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "[Tim] Right. So with the oil rigs though, like, I guess how urgent is that to get the oil rigs going? Or is that kinda like, you know, we'll get those going and then, it might be two or three years before you actually start using them for launching?",
+      "textZh": "[Tim] 对。不过说到石油钻井平台，我想，推动钻井平台投入运行有多紧迫？还是说那有点像，你知道，我们会让它们运行起来，然后，你们可能要过2或3年才真正开始用它们发射？"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "We're not thinking too much about the oil rigs right now. I mean, we're demoing one rig, just, you know, cause we can just send it to a demo. Like people are really good at demolition and have them do it. So, but it's not occupying any of my insurance.",
+      "textZh": "我们现在没有太多考虑石油钻井平台。我是说，我们正在拆除一座平台，只是，你知道，因为我们可以直接把它送去拆除。比如人们非常擅长拆除，让他们来做就行。所以，不过这并没有占用我的任何保险。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "[Tim] How far out will they, when you do start launching from there? Is it going to be like hundreds of miles or is it like 10 or 15 or something from shore?",
+      "textZh": "[Tim] 等你们确实开始从那里发射时，它们会离岸多远？会是数百英里，还是离岸大约10或15英里之类的距离？"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "We're not thinking about it.",
+      "textZh": "我们没在考虑这个。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "[Tim] This is all good for me though, because I'm so nervous that it'll be hard to watch them once they start launching from out there.",
+      "textZh": "[Tim] 不过这对我来说都是好事，因为我特别担心，一旦它们开始从海上发射，就会很难观看。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "Yeah. For now we're just trying to think about the things that we have to think about.",
+      "textZh": "对。目前我们只是努力考虑那些不得不考虑的事情。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "[Tim] Yeah. Wow. So right in front of us, is that a, is that the QD Arm? This yellow thing here on the sorry, on the right now, is that the QD Arm or is that the, is that one of the catchers?",
+      "textZh": "[Tim] 对。哇。那么就在我们前面，那是一个，那是QD臂吗？这里这个黄色的东西在，抱歉，现在在右边，那是QD臂，还是，那是其中一个捕捉装置？"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "That's the QD.",
+      "textZh": "那是QD。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Hey, how's it going?",
+      "textZh": "嘿，最近怎么样？"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Let me give it to you son. This one is for you.",
+      "textZh": "让我把它给你，孩子。这个是给你的。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "Okay, thank you.",
+      "textZh": "好的，谢谢。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "All right.",
+      "textZh": "好了。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Thanks.",
+      "textZh": "谢谢。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "We're going to make it.",
+      "textZh": "我们会成功的。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "All right, cool. Hey Sam.",
+      "textZh": "好，酷。嘿，Sam。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "Cool, how's it going guys?",
+      "textZh": "酷，你们怎么样？"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Actually, Taylor has a plan as of right now.",
+      "textZh": "其实，Taylor目前已经有一个方案了。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Okay.",
+      "textZh": "好的。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "We rolled this thing over today, so it's all in place. Those cranes are in their set location for tomorrow.",
+      "textZh": "我们今天把这东西运过来了，所以一切都已就位。那些起重机已经停在为明天设定的位置上。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Okay.",
+      "textZh": "好的。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Tonight, we are going to re-rig everything.",
+      "textZh": "今晚，我们会重新装配所有吊索具。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "Do you guys mind being on camera or anything?",
+      "textZh": "你们介意上镜之类的吗？"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "We are very shy.",
+      "textZh": "我们非常害羞。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "Sam, I know you are.",
+      "textZh": "Sam，我知道你很害羞。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "It's all right for the camera, Go ahead.",
+      "textZh": "上镜没关系，继续吧。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Yeah, so tonight we'll create a rig, we're obviously doing that double crane, if we rig it all, our crane operators get in at 7:00 AM tomorrow, get everything finally hooked up. We do our pre-test. We use the launch spoon or the big things cause we don't want things sliding around. Then we lift it in 11 hours.",
+      "textZh": "对，所以今晚我们会做一套吊索具，显然我们要用双起重机。如果把吊索具全装好，我们的起重机操作员明天早上7:00到岗，把一切最终挂接好。我们会做预检。我们使用发射勺或那些大东西，因为我们不想让东西四处滑动。然后我们会在11小时内把它吊起来。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "11 hours, okay, cool, great. Awesome, exciting.",
+      "textZh": "11小时，好的，酷，很好。太棒了，令人兴奋。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "You see the flanges sticking out from the bottom of the launch pad right there, if a T, so right there is a T. You want to head up to the top and we'll show you what our game plan is over there?",
+      "textZh": "你看到发射台底部那里伸出来的法兰了吧，如果是一个T，所以那里就是一个T。你想上到顶部去，我们在那里给你看看我们的行动方案吗？"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Sure.",
+      "textZh": "当然。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "You're rightfully worried about this, but I think the guys have a pretty good plan. We went over the plan and any contingency planning.",
+      "textZh": "你担心这个是有充分理由的，但我认为这些人有一个相当不错的方案。我们检查了这个方案以及各种应急规划。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "Okay.",
+      "textZh": "好的。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "All of last night, six welders got all the shelves done for the jack. So the jacks are up there now actually. Hey Yuri do you want to go up with us?",
+      "textZh": "昨天整整一夜，6名焊工把千斤顶的所有托架都做好了。所以千斤顶现在其实已经在上面了。嘿，Yuri，你想和我们一起上去吗？"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "Sure.",
+      "textZh": "当然。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "Those are the jacks on each leg.",
+      "textZh": "那些是每条支腿上的千斤顶。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "All right.",
+      "textZh": "好。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "The jacks that we got. So on top of that column right there, there's some shim plates we believe are off by half an inch.",
+      "textZh": "我们拿到的千斤顶。所以在那根柱子的顶部，有一些我们认为偏差了半英寸的垫板。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "Half an inch.",
+      "textZh": "半英寸。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "So what these guys done, they added weights where we think we're going to be high and we'll keep the crane on the whole time while we're jacking. And then Robert, you want to talk about the lap plates that you guys have?",
+      "textZh": "所以这些人做的是，他们在我们认为会偏高的地方加了配重，而且在我们用千斤顶顶升时，起重机会全程保持连接。然后Robert，你想谈谈你们准备的搭接板吗？"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "Sure. Yeah as we're leveling we might get some gaps there that are bigger than you'd like for your weld gaps. So if that happens we got some plates to bridge that gap, so we weld that while up top.",
+      "textZh": "当然。对，我们调平时，那里可能会出现一些比你希望的焊接间隙更大的缝隙。所以如果发生这种情况，我们准备了一些板来跨接那个缝隙，这样我们就在顶部把它焊上。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "Its a lot of steel.",
+      "textZh": "这可是大量的钢材。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "Yeah. And then over here, that little thing I pointed out in the launch mount we got new plates in here. So we'll be able to go right.",
+      "textZh": "对。然后这边，我在发射支架里指出的那个小东西，我们在这里装了新板。所以我们就能直接过去。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Its okay, I got it.",
+      "textZh": "没事，我明白了。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "Yeah, so this is key. This is to track them.",
+      "textZh": "对，所以这很关键。这是用来跟踪它们的。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Sure.",
+      "textZh": "当然。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "Same thing on that side. So we'll get rotation and then our crane will be fixed by the six jacks, but we only need two jacks actually there, I think there are 200 ton jacks, but we have all six so we can really dial it in.",
+      "textZh": "那一侧也一样。所以我们会进行旋转，然后我们的起重机会由6个千斤顶固定，但实际上那里我们只需要2个千斤顶，我想它们是200吨的千斤顶，但我们6个都有，所以可以真正精确地调整。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "All right. Okay, sounds good.",
+      "textZh": "好。好的，听起来不错。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "I mean, we moved in and we add guys right back inside of it going. Again, it's all bonus time work in terms of fluids routing. And those are the hoods. So when the QDs retract on the hold-downs, the top inner phase is that hold-down hood or sorry, the QD hood. And so it clamshells back in. It's all through like just a strike, not a dynamic system on its own, but the hold down hydraulic actuator, actuates the hold down, the QD and the hood all altogether.",
+      "textZh": "我是说，我们移进去，然后又加人手，直接在里面继续干。再说一次，就流体管路布设而言，这些全都是利用额外时间完成的工作。那些就是罩盖。所以当固定装置上的QD缩回时，顶部内侧面就是那个固定装置罩盖，或者抱歉，是QD罩盖。于是它会像蛤壳一样收回去。这一切都只是通过类似一次撞击来完成，它本身不是一个动态系统，但固定装置的液压执行器会把固定装置、QD和罩盖全部一起驱动。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "Well, as you can see, there's a lot going on here.",
+      "textZh": "嗯，如你所见，这里有很多事情在同时进行。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "Yeah, that's why I wanted to bring you up here. We've got a handful of guys on pad D right now. Some more on pad D so that we're ready to take a ship. So we we've been out of this the whole time, but we've got a few days on that. So we do want to knock some of that out right now, so that we're ready for shift 20 when it comes out here.",
+      "textZh": "对，所以我才想带你上来。我们现在有几个人在D号平台上。再往D号平台增派一些人，这样我们就准备好接收一艘飞船了。所以我们，我们一直都没参与这件事，但我们有几天时间处理它。所以我们现在确实想把其中一些工作解决掉，这样当20号班次来到这里时，我们就准备好了。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "And then we got a bunch of people in the prop farm and then tomorrow at 5:00 AM, when the guys get in and they start rigging and lift at nine, this whole area is cleared. So all the guys that were going to be on the launch belt, all go over to the prop farm. So actually some of the guys work tonight. It's not actual physical work, but prep for the army that goes over there tomorrow so that we can be effective with like 70 people.",
+      "textZh": "然后我们让一大群人去了推进剂场，明天凌晨5:00，等那些人到场后，他们就开始装索具，并在9点起吊，这整个区域都会清空。所以所有原本要在发射带上的人，全都去推进剂场。所以其实有些人今晚会工作。不是实际的体力工作，而是为明天过去的那支大军做准备，这样我们就能让大约70个人有效地工作。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "Got it. Great. Well, it's definitely a beehive of activity. That's good.",
+      "textZh": "明白。很好。嗯，这里绝对是一派忙碌景象。很好。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "It is super exciting, there's a few things to be worked out. After listening to what you said about contractor stuff. I got with our supervisors here and we're trying to figure out what the right number is. And also since we have all these great individuals here right now, it's also a good time like, oh, is there anyone from here that wants to join SpaceX? So we're looking into it. We've incorrectly searched for like six months continuously without looking back into it and looking at the proper head count.",
+      "textZh": "这超级令人兴奋，还有几件事需要解决。听了你对承包商那些事的说法之后，我找了我们这里的主管，我们正在设法弄清楚合适的人数是多少。另外，既然现在这里有这么多优秀的人，这也是个好时机，比如，哦，这里有没有人想加入SpaceX？所以我们正在研究这件事。我们错误地连续找了大约6个月，却没有回头重新审视这件事，也没有查看适当的员工人数。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "Okay. Yeah if somebody's long-term we should make them long term not temporary.",
+      "textZh": "好的。是啊，如果有人是长期干的，我们就应该让他们成为长期员工，而不是临时员工。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "Yeah. It's easier too, because these guys come and go and then contract ends. It might be another company.",
+      "textZh": "是啊。这样也更容易，因为这些人来来去去，然后合同结束。接下来可能又是另一家公司。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "Yeah, yeah. It's not set up the right way.",
+      "textZh": "是啊，是啊。现在的安排方式不对。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "No, it's better for them now that I'm in SpaceX.",
+      "textZh": "不，我加入SpaceX之后，现在对他们来说更好了。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "Yeah. The logistic plan right now is wild. So we're also running out a lot of parts, so McGregor is shipping us a bunch of fittings and seals. We got Cape and Benny ready too to ship us stuff. We'll back-order all those other sites on the stuff we take. But we're just trying to keep, like, we're trying to keep feeding these guys with parts right now.",
+      "textZh": "是啊。目前的物流计划很疯狂。而且我们还有很多零件正在耗尽，所以麦格雷戈正在给我们运来一大批接头和密封件。我们也让Cape和Benny准备好给我们运东西。我们拿走的东西，会让所有那些其他站点转为缺货待补。但我们现在只是想继续，怎么说呢，我们正设法持续给这些人供应零件。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "Okay. And that launch ring is complicated.",
+      "textZh": "好的。那个发射环很复杂。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "Yeah. I do however, like the approach of having the hold downs on the inside like that, where they fold into each other, like, I like that design, however, everything else, we need to take a look at it. Just like how thick the steel is to begin with. We obviously learned trying to bolt in and align some of the lugs is not the right path. We learned that line boring as we got good at it, we got really fast at it too. So at least for the next launch mount, We're thinking line boring is the better step. Reduction in mass is gonna be huge for us.",
+      "textZh": "是啊。不过，我确实喜欢把压紧装置像那样放在内侧、让它们相互折叠的方案，我喜欢那个设计。不过，其他一切我们都需要重新审视。首先就是钢材到底有多厚。我们显然了解到，试图用螺栓装入并对齐其中一些吊耳并不是正确的路线。我们了解到，随着我们逐渐擅长同轴镗孔，速度也变得非常快。所以至少对于下一个发射台，我们认为同轴镗孔是更好的步骤。减轻质量对我们来说会非常重要。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "Yeah. It takes a long time to weld thick steel.",
+      "textZh": "是啊。焊接厚钢材需要很长时间。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "Yeah. I mean, this is going to be a one inch weld here all the way around, inside and outside. One pass on the inside and outside just one weld pass will get us 40 miles per hour on booster and ship.",
+      "textZh": "是啊。我的意思是，这里将会有一道1英寸的焊缝，内外两侧全都绕一圈。内侧和外侧焊一遍，仅仅一道焊接就能让我们在助推器和飞船方面达到每小时40英里的风速条件。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Okay. Great, well, super impressive. If we can mount this thing in 11 hours. Frankly, even tomorrow that'll be great.",
+      "textZh": "好的。很好，嗯，超级令人印象深刻。如果我们能在11小时内把这东西安装好。坦白说，即便明天才装好，那也很棒。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "We had a hot wire that grain and then one of our new roads that we did collapsed on us. So we had to find a different route this morning, this grid weren't in place, we did lose a little bit of time having to backfill. But that went off pretty well. and the second largest grain in the world, third largest grain in the world, we have two operators for that bit. So one guy from our team, Dave, right's going to run the yellow, Giovanni is going to be on the big crane.",
+      "textZh": "我们不得不给那粒谷物接一根火线，然后我们新修的一条道路塌了。所以今天早上我们不得不另找一条路线，这个网格没有就位，我们确实因为必须回填而损失了一点时间。但那件事进行得相当顺利。而世界第二大的谷物、世界第三大的谷物，我们有2名操作员负责那一块。所以我们团队的一个人Dave，对吧，将操作黄色的那台，Giovanni会操作那台大型起重机。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "Okay.",
+      "textZh": "好的。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "They're gonna load share properly and get this thing up.",
+      "textZh": "他们会正确地分担载荷，把这东西吊起来。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "Great.",
+      "textZh": "很好。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "This is brilliant because we want to spend four days reconfiguring this thing.",
+      "textZh": "这太棒了，因为我们想花4天重新配置这东西。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "Yep. Like the two things we really need to get good at here is toll stuff and small stuff. That's what Bill Riley would say.",
+      "textZh": "没错。比如，我们在这里真正需要擅长的2件事，是收费的东西和小东西。Bill Riley会这么说。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "[Tim] It's also pretty amazing that a project of this scale, you're still measuring things in days. You're still like a day, you know? I mean, that's impressive. What other people are like.",
+      "textZh": "[Tim] 同样很惊人的是，这么大规模的项目，你们仍然用天来衡量事情。你们仍然会说，就1天，你知道吗？我的意思是，这很令人印象深刻。其他人会是什么样。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "Yeah.",
+      "textZh": "是啊。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "[Tim] Yeah. Wow. I mean, it's nonstop. It's just not like you're doing that because there's a launch in two days, you're doing that the whole time this place has been developed. It's been like down to the, you're counting every minute and second.",
+      "textZh": "[Tim] 是啊。哇。我的意思是，这从未停歇。这并不只是因为2天后有一次发射，你们才这么做，而是在这个地方建设的整个过程中，你们一直都在这么做。一直都是细化到，你们在计算每一分钟和每一秒。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "I told the crane operator as well, what would you do if there's an asteroid heading to this planet in eight days?",
+      "textZh": "我也对起重机操作员说了，如果有一颗小行星将在8天后撞向这颗星球，你会怎么做？"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "Yeah, exactly.",
+      "textZh": "是啊，正是如此。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "That's what they were told today.",
+      "textZh": "他们今天听到的就是这个。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Yeah.",
+      "textZh": "是啊。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "And who knows, maybe there is.",
+      "textZh": "谁知道呢，也许真有。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "Yeah, I mean, you never know. I think if we operate with extreme urgency, then we have a chance of making life multi-planetary, just a little, just a chance to know for sure. If we don't act with extreme urgency, that chance is probably zero. And the rate of innovation is not gonna be constant, this year, they're gonna we're either going to increase the rate of innovation or it's gonna slow down.",
+      "textZh": "是啊，我的意思是，你永远不会知道。我认为，如果我们以极度的紧迫感行动，那么我们就有机会让生命成为多行星物种，只是一点点，只是有机会确切知道。如果我们不以极度的紧迫感行动，那个机会很可能是零。而创新速度不会保持恒定，今年，他们将会，我们要么会提高创新速度，要么它就会放缓。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "If you look at a new American access to space with a crew, we were able to go to the moon in 69, then with the space shuttle we can only go to low-earth orbit and the space shuttle retired. And then for almost a decade, America had no access to space for the people. So this is a pretty bad trend, expanding to zero, We need a very strong trend in the other direction in order to have any chance whatsoever of making life ultimate multi-planetary.",
+      "textZh": "如果你看看美国载人进入太空的新途径，我们曾经能够在69年登上月球，然后有了航天飞机，我们却只能前往近地轨道，而航天飞机后来退役了。接着在将近10年的时间里，美国都没有让人员进入太空的途径。所以这是一个相当糟糕的趋势，扩展到零。为了能有任何机会让生命最终成为多行星物种，我们需要一个朝相反方向发展的非常强劲的趋势。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "So that's the reason for the extreme sense of urgency.",
+      "textZh": "所以，这就是产生这种极度紧迫感的原因。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "[Tim] This is legitimate.",
+      "textZh": "[Tim] 这是真的。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "Yeah, I mean I'll be long dead before, you know, Mars is self-sustaining but hopefully the momentum is strong in that direction by the time I die, which probably isn't soon, but no, no. All right.",
+      "textZh": "是啊，我是说，在火星实现自给自足之前，我早就死了，你知道，但希望等我死的时候，朝那个方向发展的势头已经很强劲了，我大概不会很快死，不过，不，不。好吧。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "[Tim] Sam, what if right when I got to the top, I'm like, oh, by the way, I have a horrid fear of heights. No I don't, but that'd be funny.",
+      "textZh": "[Tim] Sam，要是我刚到顶上时突然说，哦，对了，我极度恐高，怎么办。我并不恐高，但那会很好笑。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "I'll go to the tower next time then.",
+      "textZh": "那我下次去塔上。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "[Tim] Dude, it's huge.",
+      "textZh": "[Tim] 老兄，它太大了。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "Oh, it's very impressive. It's great to see the progress and nice work guys. (noise from work site) Yeah, I mean, it'd be amazing if we can mount this thing tomorrow, which is looking like we've got a good shot at that. (noise from work site) - Getting far more paving going. So we can get the power guys or the arms a little bit more room to work on.",
+      "textZh": "哦，这非常令人印象深刻。很高兴看到这些进展，大家干得漂亮。（工地噪声）是啊，我是说，如果我们明天能把这东西安装上去，那就太棒了，看起来我们很有希望做到。（工地噪声）——正在铺设更多路面。这样我们就能给电力人员或机械臂多留一点作业空间。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "[Tim] So what is the current plan for B3? Are you thinking about putting more rafters up under it still and seeing how it does?",
+      "textZh": "[Tim] 那么目前对 B3 的计划是什么？你们是否还在考虑在它下面再架一些椽架，看看效果如何？"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "Sorry for what?",
+      "textZh": "抱歉，什么？"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "[Tim] You offer B3, you talked once about like maybe putting nine up under there or something.",
+      "textZh": "[Tim] 你提供 B3，你有一次谈到过，可能要在它下面放 9 个之类的。"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "We're just gonna focus on four with some work. Like I said, it's a rapidly changing situation. I mean, its like a guided missile, like a guided missile is going in the wrong direction at any given point in time, but it costs course-corrects.",
+      "textZh": "我们只会专注于用一些工作来做 4 个。就像我说的，情况变化得很快。我的意思是，这就像一枚制导导弹，制导导弹在任何特定时刻都在朝错误的方向飞，但它会付出代价修正航向。"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "Yep.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "You don't want to be a super precise canon ball when you don't even know where the target is.",
+      "textZh": "当你甚至都不知道目标在哪里时，你不会想成为一颗极其精准的炮弹。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "[Tim] Yup.",
+      "textZh": "[Tim] 对。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "The overarching optimization is what is the fastest time to a city on Mars and then subset, fastest time to a fully usable rocket, subset fastest time to orbit basically. So, so, well, all of the initial production is simply a learning exercise. It is not, none of the initial ones will be long term. So it's really just a question of like what knowledge can you learn in the shortest period of time?",
+      "textZh": "总体优化目标是，怎样才能以最快速度在火星上建成一座城市，然后其子集是以最快速度造出一枚完全可用的火箭，再下一个子集基本上就是以最快速度进入轨道。所以，所以，嗯，所有初期生产都只是一种学习练习。这不是，初期的那些没有一个会长期使用。所以真正的问题就只是：你能在最短时间内学到什么知识？"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "[Tim] Do you, I mean, I feel like you didn't quite have this freedom with Falcon 9, when you were developing Falcon 9.",
+      "textZh": "[蒂姆] 我是说，我觉得在开发Falcon 9时，你们并没有这样的自由度，当时你们是在开发Falcon 9。"
+    },
+    {
+      "id": "p-0115",
+      "textEn": "Actually, sorry, our car is there? No, we did not have this flexibility with Falcon 9.",
+      "textZh": "其实，抱歉，我们的车在那里？不，我们研发 Falcon 9 时没有这种灵活性。"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "So you gotta be a lot more rigid and yeah, you gotta nail it a lot more when you were developing Falcon 9 because you were flying cargo pretty much today and getting ready for commercial resupply. Like you had to pretty much be a lot like think if we could.",
+      "textZh": "所以你必须严格得多，是啊，你们研发 Falcon 9 时必须更加一次做到位，因为你们差不多就是在今天运送货物，并为商业补给做准备。就像你们基本上必须很像是想想我们是否能做到。"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "Technically we did have the Grasshopper program.",
+      "textZh": "严格来说，我们确实有 Grasshopper 项目。"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "[Tim] Right.",
+      "textZh": "[Tim] 对。"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "You know, sharing ideas to run the Grasshopper program that we learned a lot, amazingly, the reason why Grasshopper did not blow up. So that's, you know, shocking, but we did blow up.",
+      "textZh": "你知道，分享运行 Grasshopper 项目的想法，我们从中学到了很多。令人惊讶的是，Grasshopper 没有爆炸的原因。所以那很，你知道，令人震惊，但我们确实炸了。"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "The F9 R?",
+      "textZh": "F9 R？"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "Yeah. And ironically, that was when I, like, I was like, telling the SpaceX Board, hey, let's have a board meeting in Texas and you could see the rocket go off and land. That's the one time it blows up.",
+      "textZh": "是啊。讽刺的是，当时我，我就像，我对 SpaceX 董事会说，嘿，我们到得克萨斯州开董事会吧，你们可以看着火箭起飞并着陆。偏偏就那一次它爆炸了。"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "I did not know that. I did not know that.",
+      "textZh": "我不知道这件事。我不知道这件事。"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "So, man it is sweaty out here.",
+      "textZh": "所以，天啊，在这里真是汗流浃背。"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "Yeah. Let's keep going. We'll take more people.",
+      "textZh": "是啊。我们继续走吧。我们会带更多人。"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "It sounds good.",
+      "textZh": "听起来不错。"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "Yeah. All right, I'm gonna sign off at this point.",
+      "textZh": "是啊。好吧，我就到这里退出了。"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "[Tim] Yeah. Any last things you want to say to all the people excited about this program?",
+      "textZh": "[Tim] 好。你最后还有什么话想对所有为这个项目感到兴奋的人说吗？"
+    },
+    {
+      "id": "p-0128",
+      "textEn": "Yeah, I mean, basically just, I think it's cool too that people are getting excited about rockets and kind of finding out, how do rockets work and, thinking maybe about life becoming multi-planetary and being a space experience civilization, cause the experience makes our future inspiring, you know, that's, it might be the most inspiring thing. So it certainly is the most inspiring thing for a lot of people.",
+      "textZh": "是啊，我是说，基本上只是，我也觉得人们开始对火箭感到兴奋，这很酷，他们开始去了解火箭是怎么工作的，并且也许开始思考生命成为多行星物种以及成为一个太空体验文明，因为这种体验让我们的未来令人向往，你知道，那可能是最鼓舞人心的事情。所以对很多人来说，这无疑是最鼓舞人心的事情。"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "And so I hope this gives people confidence about the future and that humanity will have an exciting future in space and we can make science fiction, not always fiction, but a reality one day.",
+      "textZh": "所以我希望这能让人们对未来抱有信心，相信人类将在太空中拥有一个激动人心的未来，而且我们能让科幻不再总是虚构，而是在某一天成为现实。"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "[Tim] Thanks, I like that. Yep, thanks Elon. Thank you again, Elon for all of the time that you spent, for everything we got to do and for allowing us to share this with the world and thanks again to Cosmic Perspective for helping shoot this video and just all the other stuff that they help with. So find them on Patreon and on YouTube.",
+      "textZh": "[蒂姆] 谢谢，我喜欢这个回答。好的，谢谢埃隆。再次感谢你，埃隆，感谢你投入的所有时间，感谢我们得以做的一切，也感谢你允许我们与全世界分享这些内容；还要再次感谢 Cosmic Perspective 帮助拍摄这段视频，以及他们帮忙做的所有其他事情。所以请在 Patreon 和 YouTube 上找到他们。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "And I owe the biggest thank you to my Patreon supporters for helping make videos like this and everything we do here at Everyday Astronaut possible. Gain access to some exclusive live streams and our awesome discord community and lots of other fun stuff by heading over to patreon. com/everydayastronaut.",
+      "textZh": "而我最要感谢的是我的 Patreon 支持者，是他们帮助我们得以制作这样的视频，也让我们在 Everyday Astronaut 所做的一切成为可能。前往 patreon. com/everydayastronaut，即可观看一些专属直播、加入我们很棒的 Discord 社区，并获得许多其他有趣的内容。"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "And while you're online, be sure to check out our awesome web store where you can find shirts like this, the aero spike shirts or new Mars hats, or lots of other fun stuff like our schematics collection and our future martian society shirts. And just lots of other fun stuff for you or any other space nerd. Head on over to everydayastronaut. com/shop. Thanks everybody. That's gonna do it for me.",
+      "textZh": "既然你已经上网了，也一定要去看看我们很棒的网店，在那里你可以找到像这件一样的衬衫、气动尖锥衬衫或新的火星帽，还有许多其他有趣的东西，比如我们的示意图系列和未来火星人社会衬衫。还有许多其他适合你或任何其他太空迷的有趣商品。请前往 everydayastronaut. com/shop。谢谢大家。我的内容就到这里。"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "I'm Tim Dodd, the Everyday Astronaut bringing space down to earth for everyday people.",
+      "textZh": "我是蒂姆·多德，Everyday Astronaut，为普通人把太空带到地球。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T05:08:01.207Z",
+    "reviewedAt": "2026-09-13T05:28:38.992Z"
+  },
+  "fetchedAt": "2026-09-12T07:13:47.486Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=9Zlnbs-NBUI",
+  "sourceHash": "11b1da8ee4136a778983fbcc90f0522025f04f8e7d2a47aee5981e67a6a85529"
+}

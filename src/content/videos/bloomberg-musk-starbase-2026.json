@@ -1,0 +1,35 @@
+{
+  "id": "bloomberg-musk-starbase-2026",
+  "slug": "bloomberg-musk-starbase-2026",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2026-01-13",
+  "titleEn": "Interview with Bloomberg",
+  "titleZh": "彭博社专访",
+  "summaryEn": "At SpaceX's Starbase in Texas, Elon Musk talks to Bloomberg Technology about the future of space and technology, arguing that interplanetary travel can turn \"science fiction into science fact.\"",
+  "summaryZh": "在 SpaceX 位于得克萨斯州的星港，埃隆·马斯克向 Bloomberg Technology 谈论太空与技术的未来，并主张行星际旅行能够让“科幻变成科学事实”。",
+  "sourceUrl": "https://www.bloomberg.com/news/videos/2026-01-13/elon-musk-we-want-to-make-star-trek-real-video",
+  "sourceLabel": "Bloomberg Technology",
+  "archiveUrl": "https://elonmuskarchive.org/video/bloomberg-musk-starbase-2026",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/A_glZliJDvE",
+  "thumbnailUrl": "https://i.ytimg.com/vi/A_glZliJDvE/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 25,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "We want to make Star Trek real. Okay. We want to make Starfleet Academy real so that it's not always science fiction. But one day, the science fiction turns to science fact.",
+      "textZh": "我们想让《星际迷航》成为现实。好。我们想让星际舰队学院成为现实，这样它就不会永远只是科幻。但终有一天，科幻会变成科学事实。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T17:04:51.931Z",
+    "reviewedAt": "2026-09-12T17:21:07.203Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:32.230Z",
+  "transcriptSource": "https://www.bloomberg.com/news/videos/2026-01-13/elon-musk-we-want-to-make-star-trek-real-video",
+  "sourceHash": "c5e38f895e911df27dd3c92b7f005a4e9ddb2e67456abdc160aa46fceb0507b5"
+}

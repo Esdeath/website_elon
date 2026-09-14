@@ -1,0 +1,317 @@
+{
+  "id": "ted-2013-02-27",
+  "slug": "ted-2013-02-27",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2013-02-27",
+  "titleEn": "TED",
+  "titleZh": "TED",
+  "summaryEn": "Chris Anderson interviews Musk at TED2013 about electric cars, reusable rockets and solar energy.",
+  "summaryZh": "克里斯·安德森在 TED2013 采访马斯克，探讨电动汽车、可重复使用火箭和太阳能。",
+  "sourceUrl": "https://www.youtube.com/watch?v=IgKWPdJWuBQ",
+  "sourceLabel": "TED",
+  "archiveUrl": "https://elonmuskarchive.org/video/ted-2013-02-27",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/IgKWPdJWuBQ",
+  "thumbnailUrl": "https://i.ytimg.com/vi/IgKWPdJWuBQ/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 1265,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Translator: Joseph Geni Reviewer: Morton Bast Chris Anderson: Elon, what kind of crazy dream would persuade you to think of trying to take on the auto industry and build an all-electric car? Elon Musk: Well, it goes back to when I was in university. I thought about, what are the problems that are most likely to affect the future of the world or the future of humanity?",
+      "textZh": "翻译：Joseph Geni 审校：Morton Bast 克里斯·安德森：埃隆，什么样的疯狂梦想会让你想到，要尝试挑战汽车行业并制造一辆纯电动汽车？埃隆·马斯克：嗯，这要追溯到我上大学的时候。我当时思考，哪些问题最有可能影响世界的未来或人类的未来？"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "I think it's extremely important that we have sustainable transport and sustainable energy production. That sort of overall sustainable energy problem is the biggest problem that we have to solve this century, independent of environmental concerns. In fact, even if producing CO2 was good for the environment, given that we're going to run out of hydrocarbons, we need to find some sustainable means of operating.",
+      "textZh": "我认为，拥有可持续的交通和可持续的能源生产极其重要。这种整体性的可持续能源问题，是本世纪我们必须解决的最大问题，与环境方面的担忧无关。事实上，即使产生 CO2 对环境有益，考虑到我们的碳氢化合物终将耗尽，我们也需要找到某种可持续的运行方式。"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "CA",
+      "textEn": "Most of American electricity comes from burning fossil fuels. How can an electric car that plugs into that electricity help? EM: Right. There's two elements to that answer. One is that, even if you take the same source fuel and produce power at the power plant and use it to charge electric cars, you're still better off.",
+      "textZh": "美国的大部分电力来自燃烧化石燃料。接入这种电力的电动汽车怎么会有帮助？埃隆·马斯克：对。这个答案包含2个方面。一个是，即使你使用相同的源燃料，在发电厂发电并用它为电动汽车充电，情况仍然会更好。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "So if you take, say, natural gas, which is the most prevalent hydrocarbon source fuel, if you burn that in a modern General Electric natural gas turbine, you'll get about 60 percent efficiency. If you put that same fuel in an internal combustion engine car, you get about 20 percent efficiency.",
+      "textZh": "所以，假设你使用天然气，也就是最普遍的碳氢化合物源燃料，如果在现代通用电气天然气轮机中燃烧它，效率大约能达到60%。如果把同样的燃料放进一辆内燃机汽车中，效率大约是20%。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "And the reason is, in the stationary power plant, you can afford to have something that weighs a lot more, is voluminous, and you can take the waste heat and run a steam turbine and generate a secondary power source. So in effect, even after you've taken transmission loss into account and everything, even using the same source fuel, you're at least twice as better off charging an electric car, then burning it at the power plant.",
+      "textZh": "原因是，在固定式发电厂中，你可以采用重量大得多、体积庞大的设备，而且可以利用废热驱动蒸汽轮机，产生次级动力源。所以实际上，即使把输电损耗等一切因素都考虑在内，即便使用相同的源燃料，给电动汽车充电也至少能让你的情况好上2倍，然后在发电厂燃烧它。"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "CA",
+      "textEn": "That scale delivers efficiency. EM: Yes, it does. And then the other point is, we have to have sustainable means of power generation anyway, electricity generation. So given that we have to solve sustainable electricity generation, then it makes sense for us to have electric cars as the mode of transport.",
+      "textZh": "这种规模带来了效率。埃隆·马斯克：是的，确实如此。然后另一点是，无论如何，我们都必须拥有可持续的发电方式，也就是电力生产。因此，既然我们必须解决可持续发电问题，那么把电动汽车作为交通方式就是合理的。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "CA",
+      "textEn": "So we've got some video here of the Tesla being assembled, which, if we could play that first video -- So what is innovative about this process in this vehicle? EM: Sure. So, in order to accelerate the advent of electric transport, and I should say that I think, actually, all modes of transport will become fully electric with the ironic exception of rockets. There's just no way around Newton's third law.",
+      "textZh": "所以，我们这里有一段 Tesla 组装过程的视频，如果可以的话，请先播放第1段视频——那么，这辆车的这一制造过程有什么创新之处？埃隆·马斯克：当然。所以，为了加速电动交通的到来，而且我应该说，我实际上认为，除了火箭这个颇具讽刺意味的例外，所有交通方式都会变成完全电动。牛顿第三定律是根本绕不开的。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "The question is how do you accelerate the advent of electric transport? And in order to do that for cars, you have to come up with a really energy efficient car, so that means making it incredibly light, and so what you're seeing here is the only all-aluminum body and chassis car made in North America. In fact, we applied a lot of rocket design techniques to make the car light despite having a very large battery pack.",
+      "textZh": "问题是，如何加速电动交通的到来？而要在汽车上做到这一点，你必须开发出一款真正节能的汽车，这意味着要让它轻得惊人。因此，你在这里看到的是北美制造的唯一一款车身和底盘均为全铝材质的汽车。事实上，尽管这辆车配备了非常大的电池组，我们还是应用了许多火箭设计技术来减轻它的重量。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "And then it also has the lowest drag coefficient of any car of its size. So as a result, the energy usage is very low, and it has the most advanced battery pack, and that's what gives it the range that's competitive, so you can actually have on the order of a 250-mile range.",
+      "textZh": "而且，它还拥有同尺寸汽车中最低的风阻系数。因此，它的能耗非常低，并配备了最先进的电池组，这使它拥有了有竞争力的续航里程，所以实际上可以达到大约250英里的续航里程。"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "CA",
+      "textEn": "I mean, those battery packs are incredibly heavy, but you think the math can still work out intelligently -- by combining light body, heavy battery, you can still gain spectacular efficiency. EM: Exactly. The rest of the car has to be very light to offset the mass of the pack, and then you have to have a low drag coefficient so that you have good highway range.",
+      "textZh": "我的意思是，那些电池组重得惊人，但你认为从计算上看仍然可以合理地实现——通过将轻质车身与重型电池相结合，仍然可以获得惊人的效率。埃隆·马斯克：没错。汽车的其余部分必须非常轻，才能抵消电池组的重量，然后还必须拥有较低的风阻系数，这样才能有良好的高速公路续航里程。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "And in fact, customers of the Model S are sort of competing with each other to try to get the highest possible range. I think somebody recently got 420 miles out of a single charge. CA: Bruno Bowden, who's here, did that, broke the world record. EM: Congratulations. CA: That was the good news. The bad news was that to do it, he had to drive at 18 miles an hour constant speed and got pulled over by the cops.",
+      "textZh": "事实上，Model S 的车主们似乎在相互竞争，试图获得尽可能高的续航里程。我想最近有人一次充电跑了420英里。克里斯·安德森：在场的 Bruno Bowden 做到了这一点，打破了世界纪录。埃隆·马斯克：恭喜。克里斯·安德森：这是好消息。坏消息是，为了做到这一点，他不得不以每小时18英里的恒定速度行驶，结果被警察拦了下来。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "(Laughter) EM: I mean, you can certainly drive -- if you drive it 65 miles an hour, under normal conditions, 250 miles is a reasonable number. CA: Let's show that second video showing the Tesla in action on ice. Not at all a dig at The New York Times, this, by the way. What is the most surprising thing about the experience of driving the car? EM: In creating an electric car, the responsiveness of the car is really incredible.",
+      "textZh": "（笑声）埃隆·马斯克：我的意思是，你当然可以开——如果在正常条件下以每小时65英里的速度行驶，250英里是一个合理的数字。克里斯·安德森：我们来播放第2段视频，看看 Tesla 在冰面上行驶的情形。顺便说一句，这绝对不是在挖苦《纽约时报》。驾驶这辆车的体验中，最令人惊讶的是什么？埃隆·马斯克：在打造电动汽车时，这辆车的响应能力确实令人难以置信。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "So we wanted really to have people feel as though they've almost got to mind meld with the car, so you just feel like you and the car are kind of one, and as you corner and accelerate, it just happens, like the car has ESP. You can do that with an electric car because of its responsiveness. You can't do that with a gasoline car. I think that's really a profound difference, and people only experience that when they have a test drive.",
+      "textZh": "所以，我们真的希望让人们感觉自己几乎能与汽车进行心灵融合，让你觉得自己与汽车仿佛融为一体；当你转弯和加速时，一切就这样发生了，就像汽车拥有超感知觉一样。电动汽车的响应能力让你可以做到这一点。汽油车做不到。我认为这确实是一个深刻的差异，而人们只有试驾时才能体验到。"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "CA",
+      "textEn": "I mean, this is a beautiful but expensive car. Is there a road map where this becomes a mass-market vehicle? EM: Yeah. The goal of Tesla has always been to have a sort of three-step process, where version one was an expensive car at low volume, version two is medium priced and medium volume, and then version three would be low price, high volume. So we're at step two at this point. So we had a $100,000 sports car, which was the Roadster.",
+      "textZh": "我的意思是，这是一辆漂亮但昂贵的汽车。有没有一条路线图，能让它成为面向大众市场的汽车？埃隆·马斯克：有。Tesla 的目标一直是采取一种3步流程，第1个版本是低产量的昂贵汽车，第2个版本是中等价格、中等产量，然后第3个版本将是低价格、高产量。所以目前我们正处于第2步。我们曾有一款售价100,000美元的跑车，也就是 Roadster。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "Then we've got the Model S, which starts at around 50,000 dollars. And our third generation car, which should hopefully be out in about three or four years will be a $30,000 car. But whenever you've got really new technology, it generally takes about three major versions in order to make it a compelling mass-market product. And so I think we're making progress in that direction, and I feel confident that we'll get there.",
+      "textZh": "然后我们推出了 Model S，起售价约为50,000美元。而我们的第3代汽车有望在大约3或4年后推出，它将是一款售价30,000美元的汽车。但是，每当出现真正的新技术时，通常都需要大约3个主要版本，才能使其成为一款有吸引力的大众市场产品。所以我认为，我们正在朝这个方向取得进展，而且我有信心我们会实现目标。"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "CA",
+      "textEn": "I mean, right now, if you've got a short commute, you can drive, you can get back, you can charge it at home. There isn't a huge nationwide network of charging stations now that are fast. Do you see that coming, really, truly, or just on a few key routes?",
+      "textZh": "我的意思是，现在如果你的通勤路程很短，你可以开车出门，再开回来，然后在家充电。现在并没有一个覆盖全国的庞大快速充电站网络。你认为它真的、确实会出现吗，还是只会出现在几条主要路线上？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "EM",
+      "textEn": "There actually are far more charging stations than people realize, and at Tesla we developed something called a Supercharging technology, and we're offering that if you buy a Model S for free, forever. And so this is something that maybe a lot of people don't realize. We actually have California and Nevada covered, and we've got the Eastern seaboard from Boston to D. C. covered. By the end of this year, you'll be able to drive from L. A.",
+      "textZh": "实际上，充电站的数量远比人们意识到的多，而且我们在 Tesla 开发了一种叫作超级充电的技术；如果你购买 Model S，我们会永久免费提供这项服务。所以，这一点可能很多人没有意识到。实际上，我们的网络已经覆盖了加利福尼亚州和内华达州，也覆盖了从波士顿到华盛顿特区的东海岸。到今年年底，你将能够从洛杉矶出发。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "to New York just using the Supercharger network, which charges at five times the rate of anything else. And the key thing is to have a ratio of drive to stop, to stop time, of about six or seven. So if you drive for three hours, you want to stop for 20 or 30 minutes, because that's normally what people will stop for. So if you start a trip at 9 a. m. , by noon you want to stop to have a bite to eat, hit the restroom, coffee, and keep going.",
+      "textZh": "前往纽约，全程只使用超级充电站网络，其充电速度是其他任何方式的5倍。关键在于，驾驶时间与停车、与停留时间的比例大约为6或7。所以，如果你开车3小时，就会想停下来20或30分钟，因为人们通常就会停这么久。所以，如果你在上午9点开始旅程，到中午时就会想停下来吃点东西、上洗手间、喝咖啡，然后继续上路。"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "CA",
+      "textEn": "So your proposition to consumers is, for the full charge, it could take an hour. So it's common -- don't expect to be out of here in 10 minutes. Wait for an hour, but the good news is, you're helping save the planet, and by the way, the electricity is free. You don't pay anything. EM: Actually, what we're expecting is for people to stop for about 20 to 30 minutes, not for an hour.",
+      "textZh": "所以，你向消费者提出的方案是，充满电可能需要1小时。所以通常——别指望10分钟后就能离开这里。等1小时，但好消息是，你正在帮助拯救地球，而且顺便说一句，电是免费的。你不用支付任何费用。埃隆·马斯克：实际上，我们预计人们会停留大约20到30分钟，而不是1小时。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "It's actually better to drive for about maybe 160, 170 miles and then stop for half an hour and then keep going. That's the natural cadence of a trip. CA: All right. So this is only one string to your energy bow. You've been working on this solar company SolarCity. What's unusual about that?",
+      "textZh": "实际上，更好的方式是先行驶大约160、170英里，然后停下来半小时，再继续前进。这就是一段旅程的自然节奏。克里斯·安德森：好。那么，这只是你能源之弓上的一根弦。你一直在参与这家太阳能公司 SolarCity。它有什么不同寻常之处？"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "EM",
+      "textEn": "Well, as I mentioned earlier, we have to have sustainable electricity production as well as consumption, so I'm quite confident that the primary means of power generation will be solar. I mean, it's really indirect fusion, is what it is. We've got this giant fusion generator in the sky called the sun, and we just need to tap a little bit of that energy for purposes of human civilization.",
+      "textZh": "嗯，正如我之前提到的，我们不仅必须实现可持续的电力消费，也必须实现可持续的电力生产，所以我非常确信，主要的发电方式将是太阳能。我的意思是，它实际上就是间接核聚变。天空中有一个名叫太阳的巨型聚变发电机，而为了人类文明，我们只需利用其中一小部分能量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "What most people know but don't realize they know is that the world is almost entirely solar-powered already. If the sun wasn't there, we'd be a frozen ice ball at three degrees Kelvin, and the sun powers the entire system of precipitation. The whole ecosystem is solar-powered.",
+      "textZh": "大多数人知道、却没有意识到自己知道的是，世界实际上已经几乎完全由太阳能驱动。如果没有太阳，我们会变成一个温度为3开尔文的冰冻冰球，而太阳为整个降水系统提供动力。整个生态系统都由太阳能驱动。"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "CA",
+      "textEn": "But in a gallon of gasoline, you have, effectively, thousands of years of sun power compressed into a small space, so it's hard to make the numbers work right now on solar, and to remotely compete with, for example, natural gas, fracked natural gas. How are you going to build a business here? EM: Well actually, I'm confident that solar will beat everything, hands down, including natural gas. (Applause)CA: How? EM: It must, actually.",
+      "textZh": "但在1加仑汽油中，实际上有数千年的太阳能被压缩在一个小空间里，所以目前很难让太阳能的经济账算得通，也很难与比如天然气、水力压裂天然气形成哪怕勉强的竞争。你打算如何在这里建立一门生意？埃隆·马斯克：嗯，实际上，我相信太阳能将毫无悬念地击败一切，包括天然气。（掌声）克里斯·安德森：怎么做到？埃隆·马斯克：事实上，它必须做到。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "If it doesn't, we're in deep trouble. CA: But you're not selling solar panels to consumers. What are you doing? EM: No, we actually are. You can buy a solar system or you can lease a solar system. Most people choose to lease. And the thing about solar power is that it doesn't have any feed stock or operational costs, so once it's installed, it's just there. It works for decades. It'll work for probably a century.",
+      "textZh": "如果做不到，我们就有大麻烦了。克里斯·安德森：但你们并不是把太阳能板卖给消费者。你们在做什么？埃隆·马斯克：不，实际上我们确实在卖。你可以买一套太阳能系统，也可以租赁一套太阳能系统。大多数人选择租赁。太阳能的特点是，它不需要任何原料，也没有运营成本，所以一旦安装好，它就在那里了。它可以运行几十年。它很可能可以运行一个世纪。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "So therefore, the key thing to do is to get the cost of that initial installation low, and then get the cost of the financing low, because that interest -- those are the two factors that drive the cost of solar. And we've made huge progress in that direction, and that's why I'm confident we'll actually beat natural gas. CA: So your current proposition to consumers is, don't pay so much up front. EM: Zero. CA: Pay zero up front.",
+      "textZh": "所以，要做的关键事情就是降低初始安装成本，然后降低融资成本，因为那笔利息——这是决定太阳能成本的2个因素。我们在这个方向上取得了巨大进展，这就是为什么我相信我们实际上会击败天然气。克里斯·安德森：所以，你们目前向消费者提出的方案是，不要预先支付那么多钱。埃隆·马斯克：0。克里斯·安德森：预付0。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "We will install panels on your roof. You will then pay, how long is a typical lease? EM: Typical leases are 20 years, but the value proposition is, as you're sort of alluding to, quite straightforward. It's no money down, and your utility bill decreases. Pretty good deal. CA: So that seems like a win for the consumer. No risk, you'll pay less than you're paying now.",
+      "textZh": "我们会在你的屋顶上安装太阳能板。然后你要付费，典型的租期是多久？埃隆·马斯克：典型租期是20年，但正如你刚才某种程度上提到的，它的价值主张非常直截了当。无需首付，而且你的公用事业账单会减少。很划算。克里斯·安德森：所以，这对消费者来说似乎是件好事。没有风险，你支付的钱会比现在少。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "For you, the dream here then is that -- I mean, who owns the electricity from those panels for the longer term? I mean, how do you, the company, benefit? EM: Well, essentially, SolarCity raises a chunk of capital from say, a company or a bank. Google is one of our big partners here. And they have an expected return on that capital.",
+      "textZh": "那么，对你来说，这里的理想是——我的意思是，从长远来看，这些面板产生的电力归谁所有？我的意思是，你们公司如何从中受益？EM：嗯，基本上，SolarCity会从比如一家公司或一家银行那里筹集一大笔资金。Google是我们在这方面的大型合作伙伴之一。而他们期望从这笔资金中获得回报。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "With that capital, SolarCity purchases and installs the panel on the roof and then charges the homeowner or business owner a monthly lease payment, which is less than the utility bill. CA: But you yourself get a long-term commercial benefit from that power. You're kind of building a new type of distributed utility. EM: Exactly. What it amounts to is a giant distributed utility.",
+      "textZh": "利用这笔资金，SolarCity购买面板并将其安装在屋顶上，然后向房主或企业主收取每月租金，这笔租金低于公用事业账单。CA：但你们自己会从这些电力中获得长期商业利益。你们算是在建设一种新型的分布式公用事业。EM：没错。归根结底，它就是一个巨型的分布式公用事业。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "I think it's a good thing, because utilities have been this monopoly, and people haven't had any choice. So effectively it's the first time there's been competition for this monopoly, because the utilities have been the only ones that owned those power distribution lines, but now it's on your roof. So I think it's actually very empowering for homeowners and businesses.",
+      "textZh": "我认为这是件好事，因为公用事业公司一直处于垄断地位，人们没有任何选择。所以实际上，这是这种垄断首次面临竞争，因为公用事业公司一直是那些配电线路的唯一所有者，但现在它就在你的屋顶上。因此我认为，这实际上极大地赋予了房主和企业自主权。"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "CA",
+      "textEn": "And you really picture a future where a majority of power in America, within a decade or two, or within your lifetime, it goes solar? EM: I'm extremely confident that solar will be at least a plurality of power, and most likely a majority, and I predict it will be a plurality in less than 20 years. I made that bet with someone —CA: Definition of plurality is? EM: More from solar than any other source. CA: Ah. Who did you make the bet with?",
+      "textZh": "而你真的设想过这样一个未来吗：在10年或20年内，或者在你的有生之年，美国的大部分电力会转向太阳能？EM：我极其确信，太阳能将至少占据相对多数，而且很可能占据多数；我预测，不到20年，它就会占据相对多数。我和某个人就此打过赌——CA：相对多数的定义是什么？EM：来自太阳能的电力比来自任何其他单一来源的都多。CA：啊。你和谁打的赌？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "EM",
+      "textEn": "With a friend who will remain nameless. CA: Just between us. (Laughter) EM: I made that bet, I think, two or three years ago, so in roughly 18 years, I think we'll see more power from solar than any other source. CA: All right, so let's go back to another bet that you made with yourself, I guess, a kind of crazy bet. You'd made some money from the sale of PayPal. You decided to build a space company. Why on Earth would someone do that?",
+      "textZh": "和一位不便透露姓名的朋友。CA：只在我们之间说。（笑声）EM：我想，我是在2年或3年前打的这个赌，所以大约18年后，我认为我们会看到太阳能发出的电力超过任何其他单一来源。CA：好，那么让我们回到另一个赌注，我想，那是你和自己打的一个有点疯狂的赌。你通过出售PayPal赚了一些钱。你决定创办一家航天公司。究竟为什么会有人这么做？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "(Laughter) EM: I got that question a lot, that's true. People would say, \"Did you hear the joke about the guy who made a small fortune in the space industry?\" Obviously, \"He started with a large one,\" is the punchline. And so I tell people, well, I was trying to figure out the fastest way to turn a large fortune into a small one. And they'd look at me, like, \"Is he serious?\" CA: And strangely, you were. So what happened? EM: It was a close call.",
+      "textZh": "（笑声）EM：很多人问过我这个问题，这是真的。人们会说：“你听过那个在航天业赚到一小笔财富的人的笑话吗？”显然，“他开始时有一大笔财富”，就是笑点。所以我告诉人们，嗯，我当时是在设法找出把一大笔财富变成一小笔财富的最快方式。他们会看着我，像是在想：“他是认真的吗？”CA：而奇怪的是，你是认真的。那么后来发生了什么？EM：当时险些就失败了。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Things almost didn't work out. We came very close to failure, but we managed to get through that point in 2008. The goal of SpaceX is to try to advance rocket technology, and in particular to try to crack a problem that I think is vital for humanity to become a space-faring civilization, which is to have a rapidly and fully reusable rocket. CA: Would humanity become a space-faring civilization?",
+      "textZh": "事情差点没能成功。我们非常接近失败，但我们设法在2008年挺过了那个关口。SpaceX的目标是努力推动火箭技术进步，尤其是努力攻克一个我认为对人类成为太空文明至关重要的问题，那就是拥有能够快速、完全重复使用的火箭。CA：人类会成为太空文明吗？"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "So that was a dream of yours, in a way, from a young age? You've dreamed of Mars and beyond? EM: I did build rockets when I was a kid, but I didn't think I'd be involved in this. It was really more from the standpoint of what are the things that need to happen in order for the future to be an exciting and inspiring one?",
+      "textZh": "所以从某种意义上说，这是你从小就有的梦想吗？你一直梦想着火星以及更遥远的地方？EM：我小时候确实造过火箭，但我没想过自己会参与其中。其实更多是从这个角度出发：要让未来变得令人振奋、鼓舞人心，需要发生哪些事情？"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "And I really think there's a fundamental difference, if you sort of look into the future, between a humanity that is a space-faring civilization, that's out there exploring the stars, on multiple planets, and I think that's really exciting, compared with one where we are forever confined to Earth until some eventual extinction event. CA: So you've somehow slashed the cost of building a rocket by 75 percent, depending on how you calculate it.",
+      "textZh": "而且我真的认为，如果你展望未来，成为太空文明、在太空中探索群星、生活在多个行星上的人类，与永远被困在地球上、直到最终发生某种灭绝事件的人类相比，两者存在根本区别；我认为前一种未来真的令人振奋。CA：所以你以某种方式将建造火箭的成本削减了75%，具体取决于计算方式。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "How on Earth have you done that? NASA has been doing this for years. How have you done this? EM: Well, we've made significant advances in the technology of the airframe, the engines, the electronics and the launch operation. There's a long list of innovations that we've come up with there that are a little difficult to communicate in this talk, but -- CA: Not least because you could still get copied, right? You haven't patented this stuff.",
+      "textZh": "你究竟是怎么做到的？NASA多年来一直在做这件事。你是怎么做到的？EM：嗯，我们在机体、发动机、电子设备和发射作业技术方面取得了显著进步。我们在那里提出了一长串创新，在这场演讲中有点难以讲清楚，不过——CA：尤其是因为别人仍然可能抄袭你们，对吧？你们没有为这些东西申请专利。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "It's really interesting to me. EM: No, we don't patent. CA: You didn't patent because you think it's more dangerous to patent than not to patent. EM: Since our primary competitors are national governments, the enforceability of patents is questionable. (Laughter) (Applause) CA: That's really, really interesting. But the big innovation is still ahead, and you're working on it now. Tell us about this.",
+      "textZh": "我觉得这真的很有意思。EM：没有，我们不申请专利。CA：你们没有申请专利，是因为你认为申请专利比不申请更危险。EM：由于我们的主要竞争对手是各国政府，专利能否得到执行值得怀疑。（笑声）（掌声）CA：这真的、真的很有意思。但那项重大创新仍在前方，而你现在正在为此努力。给我们讲讲这个。"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "EM",
+      "textEn": "Right, so the big innovation— CA: In fact, let's roll that video and you can talk us through it, what's happening here. EM: Absolutely. So the thing about rockets is that they're all expendable. All rockets that fly today are fully expendable.",
+      "textZh": "对，所以那项重大创新——CA：实际上，我们来播放那段视频，你可以一边播放一边给我们讲讲这里发生了什么。EM：当然。火箭的问题在于，它们全都是一次性的。如今飞行的所有火箭都是完全一次性的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "The space shuttle was an attempt at a reusable rocket, but even the main tank of the space shuttle was thrown away every time, and the parts that were reusable took a 10,000-person group nine months to refurbish for flight. So the space shuttle ended up costing a billion dollars per flight. Obviously that doesn't work very well for — CA: What just happened there? We just saw something land? EM: That's right.",
+      "textZh": "航天飞机曾是对可重复使用火箭的一次尝试，但就连航天飞机的主燃料箱每次也会被丢弃，而可重复使用的部件则需要一支10,000人的团队花9个月翻修，才能再次飞行。所以航天飞机最终每次飞行要花费10亿美元。显然，这对——来说并不太可行。CA：刚才那里发生了什么？我们刚刚看到某个东西着陆了吗？EM：没错。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "So it's important that the rocket stages be able to come back, to be able to return to the launch site and be ready to launch again within a matter of hours. CA: Wow. Reusable rockets. EM: Yes. (Applause) And so what a lot of people don't realize is, the cost of the fuel, of the propellant, is very small. It's much like on a jet. So the cost of the propellant is about . 3 percent of the cost of the rocket.",
+      "textZh": "所以重要的是，火箭各级必须能够回来，能够返回发射场，并在数小时内准备好再次发射。CA：哇。可重复使用的火箭。EM：是的。（掌声）很多人没有意识到，燃料，也就是推进剂的成本非常低。这很像喷气式飞机。所以推进剂的成本约为火箭成本的 . 3%。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "So it's possible to achieve, let's say, roughly 100-fold improvement in the cost of spaceflight if you can effectively reuse the rocket. That's why it's so important. Every mode of transport that we use, whether it's planes, trains, automobiles, bikes, horses, is reusable, but not rockets. So we must solve this problem in order to become a space-faring civilization.",
+      "textZh": "所以，如果你能有效地重复使用火箭，那么太空飞行的成本有可能实现，比如说，大约100倍的改善。这就是它如此重要的原因。我们使用的每一种交通方式，无论是飞机、火车、汽车、自行车还是马，都可以重复使用，但火箭不行。所以，为了成为太空文明，我们必须解决这个问题。"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "CA",
+      "textEn": "You asked me the question earlier of how popular traveling on cruises would be if you had to burn your ships afterward. EM: Certain cruises are apparently highly problematic. CA: Definitely more expensive. So that's potentially absolutely disruptive technology, and, I guess, paves the way for your dream to actually take, at some point, to take humanity to Mars at scale. You'd like to see a colony on Mars. EM: Yeah, exactly.",
+      "textZh": "你之前问过我，如果每次乘船巡游后都必须烧掉船，乘船巡游还会有多受欢迎。EM：某些乘船巡游显然问题很大。CA：肯定会更昂贵。所以这项技术绝对有可能带来颠覆，而且我想，它为你的梦想铺平了道路，也就是在未来某个时候真正大规模地把人类送往火星。你希望看到火星上出现一个殖民地。EM：对，正是如此。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "SpaceX, or some combination of companies and governments, needs to make progress in the direction of making life multi-planetary, of establishing a base on another planet, on Mars -- being the only realistic option -- and then building that base up until we're a true multi-planet species. CA: So progress on this \"let's make it reusable,\" how is that going? That was just a simulation video we saw. How's it going?",
+      "textZh": "SpaceX，或者由一些公司和政府组成的某种联合体，需要朝着让生命成为多行星生命的方向取得进展，在另一个行星上建立基地，而火星——是唯一现实的选择——然后不断扩建那个基地，直到我们成为真正的多行星物种。CA：那么，“让它可重复使用”这件事进展如何？我们刚才看到的只是一段模拟视频。进展怎么样？"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "EM",
+      "textEn": "We're actually, we've been making some good progress recently with something we call the Grasshopper Test Project, where we're testing the vertical landing portion of the flight, the sort of terminal portion which is quite tricky. And we've had some good tests. CA: Can we see that? EM: Yeah. So that's just to give a sense of scale. We dressed a cowboy as Johnny Cash and bolted the mannequin to the rocket.",
+      "textZh": "实际上，我们最近通过一个称为“蚱蜢测试项目”的项目取得了一些不错的进展；在这个项目中，我们正在测试飞行的垂直着陆部分，也就是某种相当棘手的末段部分。我们已经进行了一些不错的测试。CA：我们能看看吗？EM：可以。这只是为了让大家了解它的尺寸。我们把一个牛仔打扮成约翰尼·卡什，然后用螺栓把这个人体模型固定在火箭上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "(Laughter) CA: All right, let's see that video then, because this is actually amazing when you think about it. You've never seen this before. A rocket blasting off and then -- EM: Yeah, so that rocket is about the size of a 12-story building. (Rocket launch) So now it's hovering at about 40 meters, and it's constantly adjusting the angle, the pitch and yaw of the main engine, and maintaining roll with cold gas thrusters. CA: How cool is that?",
+      "textZh": "（笑声）CA：好，那我们就看看那段视频，因为仔细想想，这实际上令人惊叹。你以前从未见过这种场面。一枚火箭升空，然后——EM：对，那枚火箭大约有一栋12层建筑那么高。（火箭发射）现在它悬停在大约40米的高度，并持续调整主发动机的角度、俯仰和偏航，同时利用冷气推进器保持滚转姿态。CA：这有多酷？"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "(Applause) Elon, how have you done this? These projects are so -- Paypal, SolarCity, Tesla, SpaceX, they're so spectacularly different, they're such ambitious projects at scale. How on Earth has one person been able to innovate in this way? What is it about you? EM: I don't know, actually. I don't have a good answer for you. I work a lot. I mean, a lot. CA: Well, I have a theory. EM: Okay. All right.",
+      "textZh": "（掌声）埃隆，你是怎么做到这些的？这些项目如此——PayPal、SolarCity、Tesla、SpaceX，它们之间的差异大得惊人，而且都是如此雄心勃勃的大型项目。一个人究竟是怎么做到以这种方式创新的？你身上有什么特别之处？EM：其实我不知道。我没办法给你一个很好的答案。我工作很多。我是说，很多。CA：嗯，我有一个理论。EM：好的。好吧。"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "CA",
+      "textEn": "My theory is that you have an ability to think at a system level of design that pulls together design, technology and business, so if TED was TBD, design, technology and business, into one package, synthesize it in a way that very few people can and -- and this is the critical thing -- feel so damn confident in that clicked-together package that you take crazy risks. You bet your fortune on it, and you seem to have done that multiple times.",
+      "textZh": "我的理论是，你有能力在设计的系统层面进行思考，把设计、技术和商业结合起来；所以，假如TED是TBD，也就是设计、技术和商业，你能把它们整合成一个整体，以一种极少有人能做到的方式加以综合，而且——这是关键所在——你对这个严丝合缝的整体极其自信，以至于会承担疯狂的风险。你把自己的财富押在上面，而你似乎已经这样做过很多次。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "I mean, almost no one can do that. Is that -- could we have some of that secret sauce? Can we put it into our education system? Can someone learn from you? It is truly amazing what you've done. EM: Well, thanks. Thank you. Well, I do think there's a good framework for thinking. It is physics. You know, the sort of first principles reasoning.",
+      "textZh": "我是说，几乎没人能做到这一点。那是不是——我们能得到一些那种秘方吗？我们能把它纳入教育体系吗？有人能向你学习吗？你的成就确实令人惊叹。EM：嗯，谢谢。谢谢。嗯，我确实认为有一种很好的思考框架。那就是物理学。你知道，就是那种第一性原理推理。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Generally I think there are -- what I mean by that is, boil things down to their fundamental truths and reason up from there, as opposed to reasoning by analogy. Through most of our life, we get through life by reasoning by analogy, which essentially means copying what other people do with slight variations. And you have to do that. Otherwise, mentally, you wouldn't be able to get through the day.",
+      "textZh": "总体来说，我认为存在——我的意思是，把事物归结为它们的基本真相，然后从那里向上推理，而不是通过类比来推理。在我们人生的大部分时间里，我们依靠类比推理来过日子，这本质上意味着模仿其他人的做法，只做些细微调整。而且你必须这么做。否则，从心智上说，你将无法度过一天。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "But when you want to do something new, you have to apply the physics approach. Physics is really figuring out how to discover new things that are counterintuitive, like quantum mechanics. It's really counterintuitive. So I think that's an important thing to do, and then also to really pay attention to negative feedback, and solicit it, particularly from friends.",
+      "textZh": "但当你想做一些新事情时，就必须采用物理学的方法。物理学其实就是弄清楚如何发现违反直觉的新事物，比如量子力学。它确实违反直觉。所以我认为这是很重要的一件事，此外还要真正重视负面反馈，并主动寻求这种反馈，尤其是向朋友寻求。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "This may sound like simple advice, but hardly anyone does that, and it's incredibly helpful. CA: Boys and girls watching, study physics. Learn from this man. Elon Musk, I wish we had all day, but thank you so much for coming to TED. EM: Thank you. CA: That was awesome. That was really, really cool. Look at that. (Applause) Just take a bow. That was fantastic. Thank you so much.",
+      "textZh": "这听起来可能是很简单的建议，但几乎没人这么做，而它非常有帮助。CA：正在观看的男孩女孩们，学习物理吧。向这个人学习。埃隆·马斯克，我真希望我们有一整天的时间，但非常感谢你来到 TED。EM：谢谢。CA：太棒了。真的、真的太酷了。看看这个。（掌声）鞠个躬吧。太精彩了。非常感谢。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T02:05:37.688Z",
+    "reviewedAt": "2026-09-13T02:32:15.095Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:20.236Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=IgKWPdJWuBQ",
+  "sourceHash": "243676f68c6c21500c07ee0de635f8317b9ba0105b81793649b29a8dc3806e0a"
+}

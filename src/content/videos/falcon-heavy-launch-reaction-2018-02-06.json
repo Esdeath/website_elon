@@ -1,0 +1,102 @@
+{
+  "id": "falcon-heavy-launch-reaction-2018-02-06",
+  "slug": "falcon-heavy-launch-reaction-2018-02-06",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2018-02-06",
+  "titleEn": "Falcon Heavy Launch Reaction",
+  "titleZh": "猎鹰重型火箭发射反应",
+  "summaryEn": "Musk reacts in real time inside mission control as SpaceX's first Falcon Heavy lifts off, filmed for the Nat Geo series MARS.",
+  "summaryZh": "SpaceX首枚猎鹰重型火箭升空时，马斯克在任务控制中心内作出实时反应；画面为国家地理系列节目《火星》拍摄。",
+  "sourceUrl": "https://www.youtube.com/watch?v=BL4dnvBytLA",
+  "sourceLabel": "National Geographic",
+  "archiveUrl": "https://elonmuskarchive.org/video/falcon-heavy-launch-reaction-2018-02-06",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/BL4dnvBytLA",
+  "thumbnailUrl": "https://i.ytimg.com/vi/BL4dnvBytLA/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 113,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Speaker A",
+      "startSec": 1.44,
+      "textEn": "That thing took off. Oh, my God.",
+      "textZh": "那东西升空了。哦，我的天。",
+      "speakerZh": "说话人A"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Speaker A",
+      "startSec": 12.48,
+      "textEn": "All systems currently green.",
+      "textZh": "目前所有系统均正常。",
+      "speakerZh": "说话人A"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Speaker A",
+      "startSec": 16.72,
+      "textEn": "Falcon Heavy is configured for flight A minus 15. Standby for terminal count. All right, guys, final 10.",
+      "textZh": "猎鹰重型火箭已配置为飞行A减15。等待最终倒计时。好了，各位，最后10。",
+      "speakerZh": "说话人A"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Speaker A",
+      "startSec": 44.14,
+      "textEn": "Oh, my God.",
+      "textZh": "哦，我的天。",
+      "speakerZh": "说话人A"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Speaker A",
+      "startSec": 55.9,
+      "textEn": "You see them both? Light up inside. Shut down inside boosters.",
+      "textZh": "你看到它们两个了吗？在内部点火。关闭内部助推器。",
+      "speakerZh": "说话人A"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Speaker A",
+      "startSec": 69.88,
+      "textEn": "Look at that.",
+      "textZh": "看看那个。",
+      "speakerZh": "说话人A"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Speaker A",
+      "startSec": 72.28,
+      "textEn": "That's unreal.",
+      "textZh": "太不真实了。",
+      "speakerZh": "说话人A"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Speaker A",
+      "startSec": 80.04,
+      "textEn": "And the falcons have landed. Wow. Lz1, lz2. Both side boosters have touchdown.",
+      "textZh": "猎鹰已经着陆。哇。Lz1，lz2。两枚侧助推器都已着地。",
+      "speakerZh": "说话人A"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Speaker A",
+      "startSec": 93.24,
+      "textEn": "Coming up very short. This.",
+      "textZh": "差得非常远。这个。",
+      "speakerZh": "说话人A"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T18:37:11.250Z",
+    "reviewedAt": "2026-09-12T18:56:23.211Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:44.494Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "3d0ecba494d33b3e0526fb10b3d74d92d66f0184840053be9036a12a8ff1fdc0"
+}

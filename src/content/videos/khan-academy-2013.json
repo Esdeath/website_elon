@@ -1,0 +1,599 @@
+{
+  "id": "khan-academy-2013",
+  "slug": "khan-academy-2013",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2013-04-22",
+  "titleEn": "Interview with Sal Khan",
+  "titleZh": "与萨尔·可汗的访谈",
+  "summaryEn": "Elon Musk recounts his journey as an entrepreneur, the founding of SpaceX and Tesla, and his engineering philosophy.",
+  "summaryZh": "埃隆·马斯克回顾了自己的创业历程、SpaceX和Tesla的创立，以及他的工程理念。",
+  "sourceUrl": "https://www.youtube.com/watch?v=vDwzmJpI4io",
+  "sourceLabel": "Khan Academy — Entrepreneurship",
+  "archiveUrl": "https://elonmuskarchive.org/video/khan-academy-2013",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/vDwzmJpI4io",
+  "thumbnailUrl": "https://i.ytimg.com/vi/vDwzmJpI4io/hqdefault.jpg",
+  "durationSec": 2922,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "SAL KHAN: So first of all, I just want to thank Elon for coming-- hungry. You didn't even have dinner. And we didn't even feed you properly. ELON MUSK: No, sorry to be a bit late. I just came from the Tesla factory in Fremont. SAL KHAN: Yes. Was something wrong? ELON MUSK: There's always something. SAL KHAN: Did you have to like-- ELON MUSK: At any given point, there's always something wrong. SAL KHAN: Yes.",
+      "textZh": "萨尔·可汗：所以首先，我只想感谢埃隆前来——还饿着肚子。你甚至都没吃晚饭。我们甚至都没好好给你准备吃的。埃隆·马斯克：不，抱歉迟到了一点。我刚从弗里蒙特的Tesla工厂过来。萨尔·可汗：是。出了什么问题吗？埃隆·马斯克：总会有点什么。萨尔·可汗：你是不是必须得，比如——埃隆·马斯克：在任何一个时刻，总会有些事情出问题。萨尔·可汗：是。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "ELON MUSK: Because there's just too many things going on. So one of the trickiest things about a car is that there's thousands of individual components-- there are thousands of unique components-- and even if one of those things is missing, you can't make cars. So today's fiasco was-- I kid you not-- we were missing a $3 USB cable. OK. So we could not complete cars, because-- SAL KHAN: So the whole line was stopped? ELON MUSK: Yeah.",
+      "textZh": "埃隆·马斯克：因为正在发生的事情实在太多了。所以汽车最棘手的事情之一，就是它有数千个单独的部件——有数千种独特的部件——哪怕其中一样东西缺失，你也造不了汽车。所以今天这场混乱是——我没开玩笑——我们缺了一根3美元的USB线。好吧。所以我们无法完成汽车的组装，因为——萨尔·可汗：所以整条生产线都停了？埃隆·马斯克：对。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "So essentially, because it's part of the wiring harness. So you can't put the interior in without this cable. And so we could either make a whole bunch of cars minus the interior, which means that you've got to stack them up in the yard. SAL KHAN: The resale value would be no good. ELON MUSK: Well, it can be done, but if then things go out of sequence, and it's way more inefficient-- you don't have a moving production line.",
+      "textZh": "所以基本上，因为它是线束的一部分。所以没有这根线，你就无法安装内饰。于是我们要么造出一大批没有内饰的汽车，这意味着你得把它们堆放在场院里。萨尔·可汗：转售价值就不行了。埃隆·马斯克：嗯，这是可以做的，但如果事情随后打乱了顺序，效率就会低得多——你就没有一条移动的生产线了。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "Then you have to send people out to hundreds of cars that are sitting in the storage yard. And so this happens to be a particularly pernicious cable. It's kind of routed under the carpet, in a difficult place. And it's literally $3. And so we basically had to send people throughout the Bay Area to go and buy USB cables. SAL KHAN: Like, literally, Radio Shack? ELON MUSK: Like Fry's. SAL KHAN: Oh, Fry's. That's better.",
+      "textZh": "然后你就得派人到存放场里停着的数百辆汽车那里去。因此，这碰巧是一根特别棘手的线。它有点像是从地毯下面穿过去，位置很难处理。而它确实就值3美元。所以我们基本上不得不派人跑遍整个湾区去买USB线。萨尔·可汗：比如，真的去Radio Shack？埃隆·马斯克：比如Fry's。萨尔·可汗：哦，Fry's。那好一些。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "ELON MUSK: You're going to have a hard time getting a USB cable right now at Fry's, because we bought every one of them. SAL KHAN: That's good. ELON MUSK: And so we're able to continue production. And I don't want to belabor the anecdote, but essentially the supplier is in China. And we had plan A and plan B. And plan A was like the normal supply chain process.",
+      "textZh": "埃隆·马斯克：你现在想在Fry's买到USB线会很难，因为我们把每一根都买走了。萨尔·可汗：那很好。埃隆·马斯克：所以我们得以继续生产。我不想在这个轶事上纠缠不休，但基本情况是，供应商在中国。我们有A计划和B计划。A计划就是正常的供应链流程。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "But what the supplier did was instead of sending our parts in their own package, they grouped it together with a bunch of other stuff for other companies and sent that all via some extremely slow boat from China to LA. And when it got to LA, the other stuff didn't pass customs. And so they wouldn't let our stuff through, because-- SAL KHAN: They put it like a barrel fruit or something.",
+      "textZh": "但供应商的做法是，没有把我们的零件单独包装寄出，而是把它们和一大批给其他公司的其他东西放在一起，然后全都通过某艘从中国开往洛杉矶、速度极其缓慢的船运了过来。当它抵达洛杉矶时，其他东西没有通过海关。因此他们不让我们的东西通关，因为——萨尔·可汗：他们是不是放了类似一桶水果之类的东西。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "ELON MUSK: I don't what they put it, but something that customs didn't like. And the paperwork wasn't in order or whatever. So it got stuck there for like a couple weeks. And then we had plan B. So we called and said, look you've got to air freight some of these cables-- cause they're just little cables-- to us. And we talked to their US subsidiary and ordered from the US subsidiary, who then communicated to China.",
+      "textZh": "埃隆·马斯克：我不知道他们把它放了什么，但有某种海关不喜欢的东西。而且文件不齐全或诸如此类。所以它就在那里卡了大概几周。然后我们还有B计划。所以我们打电话说，听着，你们得通过空运把其中一些线发给我们——因为它们只是些小线——发给我们。我们同他们的美国子公司谈了，并向美国子公司下了订单，后者随后与中国沟通。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "But then because this was another batch of parts, so it was kind of double the order, it exceeded the credit limit that we had. So it bounced off the credit limit, so they didn't ship it. SAL KHAN: Fascinating. So someone's losing their job now. This is-- no, I'm kidding. You shouldn't fire anyone. ELON MUSK: I mean, it's pretty farcical. And, anyway, so, it's coming like tonight at 11:00 PM or something. SAL KHAN: Wow.",
+      "textZh": "但随后因为这是另一批零件，所以订单量有点相当于翻倍了，它超过了我们的信用额度。所以它撞上了信用额度，因此他们没有发货。萨尔·可汗：真有意思。所以现在有人要丢工作了。这是——不，我开玩笑的。你不该解雇任何人。埃隆·马斯克：我的意思是，这相当荒唐。然后，不管怎样，它大概会在今晚11:00送到之类的。萨尔·可汗：哇。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "And these things are happening like all the time? This was an unusual circumstance? ELON MUSK: Yeah. That's like one example, but there's many things like that. SAL KHAN: I guess, I mean, that's actually a really good example, because that leads into what I've always been fascinated by a lot of what you're doing. Well, I'll start with, how did you get into this? ELON MUSK: Into cars? SAL KHAN: Into cars. Into taking over NASA.",
+      "textZh": "而这种事一直都在发生吗？这是一个不寻常的情况吗？埃隆·马斯克：对。那算是一个例子，但还有很多类似的事情。萨尔·可汗：我想，我是说，这其实是个非常好的例子，因为这就引出了我一直对你所做的很多事情感到着迷的地方。好吧，我先从这个开始，你是怎么进入这个领域的？埃隆·马斯克：进入汽车领域？萨尔·可汗：进入汽车领域。接管NASA。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "Well, not taking over NASA-- being a contractor for NASA. ELON MUSK: Just for the record, we are not taking over NASA. SAL KHAN: You're not taking over NASA. They are an independent organization. But you are becoming a major provider of services for NASA. Obviously, kind of internet payments and payments generally. I mean these are three completely different spaces.",
+      "textZh": "好吧，不是接管NASA——而是成为NASA的承包商。埃隆·马斯克：郑重说明一下，我们没有在接管NASA。萨尔·可汗：你们没有在接管NASA。他们是一个独立组织。但你们正在成为NASA的一家主要服务提供商。显然，还有某种互联网支付以及广义上的支付。我的意思是，这是3个完全不同的领域。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "I think a lot of people would not take someone seriously, if they had a business plan in one of these. ELON MUSK: Right. Sorry to eat. SAL KHAN: Oh, yeah, take your time. What was your-- did you always think you were going to be doing this or-- when did it dawn on you that you would try to revolutionize three industries? ELON MUSK: Well, when I was in college-- I didn't actually expect to do it.",
+      "textZh": "我想，如果有人在这些领域中的任何一个拿出一份商业计划，很多人都不会把他当回事。埃隆·马斯克：对。抱歉我在吃东西。萨尔·可汗：哦，没事，慢慢来。你当时是——你一直都认为自己会做这些事，还是——你什么时候意识到自己会尝试彻底改变3个行业？埃隆·马斯克：嗯，我上大学的时候——我其实没预料到自己会去做。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "So it was not like this is some long-fulfilled expectation. But when I was in college, I thought about what were the areas that would most effect the future of humanity, in my opinion. And the three areas were the internet, sustainable energy, and space exploration, particularly if humanity becomes a multi-planet species.",
+      "textZh": "所以这并不像是某种长久以来终于实现的预期。但我上大学时，我思考过，在我看来，哪些领域会对人类的未来产生最大影响。这3个领域是互联网、可持续能源和太空探索，尤其是如果人类成为一个多行星物种的话。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "You know, there's kind of like a pretty substantial bifurcation in our future, if we're either out there among stars on multiple planets, or if we're confined to Earth until some obviously eventual extinction. Not Not that I'm pessimistic about live on Earth. I mean, things are likely to be good. More likely to be good by far than bad. SAL KHAN: Yellowstone's due for an explosion every several hundred thousand-- Shandra knows about that.",
+      "textZh": "你知道，我们的未来存在某种相当重大的分岔，要么我们身处群星之间、分布在多个行星上，要么我们被困在地球上，直到某次显然终将发生的灭绝。并并不是说我对地球上的生命感到悲观。我的意思是，情况很可能会很好。好的可能性远远高于坏的。萨尔·可汗：黄石公园每隔几十万年就该爆发一次——尚德拉了解这个。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "It's been 700,000, ELON MUSK: Right. Right. Yeah. SAL KHAN: Super volcano for those of you who don't know. It would envelop, but well-- ELON MUSK: Yeah. Exactly. I know exactly what you're talking about. So-- SAL KHAN: We read the same books. I can tell. ELON MUSK: Absolutely. I mean something bad is bound to happen if you give it enough time.",
+      "textZh": "已经700,000年了，埃隆·马斯克：对。对。是的。萨尔·可汗：给那些不了解的人解释一下，是超级火山。它会笼罩，不过，嗯——埃隆·马斯克：对。完全正确。我完全知道你在说什么。所以——萨尔·可汗：我们读的是同样的书。我看得出来。埃隆·马斯克：绝对是。我的意思是，只要给它足够的时间，坏事必定会发生。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "And civilization has been around for such a very short period of time that these time scales seem like very long, but on an evolutionary time scale, they're very short. A million years on an evolutionary time scale is really not very much. And Earth's been around for four and a half billion years, so that's a very tiny, tiny amount of time, really.",
+      "textZh": "而文明存在的时间如此之短，以至于这些时间尺度看起来非常漫长，但放在演化时间尺度上，它们非常短。在演化时间尺度上，100万年其实真的不算多。而地球已经存在了45亿年，所以那确实是一段非常非常短的时间。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "But for us that would be-- can you can imagine if human civilization continued at anything remotely like the current pace of technology ad advancement for a million years? Where would we be? I think we're either extinct or on a lot of planets. SAL KHAN: Yes. We should-- ELON MUSK: Those are the two options. SAL KHAN: But given that-- I mean, one, that's kind of as epic as one can think about things, literally. How did you make that concrete?",
+      "textZh": "但对我们来说，那将会是——你能想象吗，如果人类文明以哪怕稍微接近当前技术进进步的速度继续发展100万年？我们会在哪里？我认为我们要么已经灭绝，要么身处许多行星之上。萨尔·可汗：是。我们应该——埃隆·马斯克：就这2种选择。萨尔·可汗：但考虑到这一点——我是说，首先，这确实是一个人能够设想的最宏大的事情，名副其实。你是如何把它具体化的？"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "How does that turn into SpaceX, Tesla and Paypal? ELON MUSK: Well, so I thought about these things kind of in the abstract. Not from the expectation that I would actually have careers in those arenas. But, I wanted to be involved in at least one of them. And at first I thought the best bet was going to be electric cars. And so the area that I was studying was advanced capacitors.",
+      "textZh": "它是如何转化成SpaceX、Tesla和Paypal的？埃隆·马斯克：嗯，所以我当时有点抽象地思考这些事情。并不是预期自己实际上会在那些领域从事事业。但我希望至少参与其中一个。起初，我认为最稳妥的选择会是电动汽车。所以我当时研究的领域是先进电容器。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "So essentially capacitors that have an engine density exceeding that of batteries. Because they have a very high power density, but a low energy density. Maybe you have lecture to that effect, I don't know. SAL KHAN: Oh, yes, no. We should do that. We'll get to it later. ELON MUSK: Exactly.",
+      "textZh": "所以基本上是引擎密度超过电池的电容器。因为它们的功率密度非常高，但能量密度很低。也许你有一堂讲这个的课，我不知道。萨尔·可汗：哦，对，没有。我们应该做一堂。稍后再讲。埃隆·马斯克：没错。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "So obviously, if you could make a capacitor that had anywhere near the energy density of a battery with this incredibly high power density and this quasi-infinite cycle and calendar life, then you'd have an awesome solution for energy storage and mobile applications.",
+      "textZh": "所以显然，如果你能制造出一种电容器，其能量密度能达到接近电池的水平，同时具有这种极高的功率密度，以及这种近乎无限的循环寿命和日历寿命，那么你就会拥有一种用于储能和移动应用的绝佳解决方案。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "So I was going to try to work on that and try to leverage the equipment that was developed for advanced chip making and photonics to create ultra-precise capacitors at the molecular level. SAL KHAN: And this was when you were going to go into grad school? You had a brief stint at Stanford? ELON MUSK: That's right. SAL KHAN: At a PhD in applied physics? ELON MUSK: Applied physics, material science. SAL KHAN: Right.",
+      "textZh": "所以我当时打算尝试研究这个，并试着利用为先进芯片制造和光子学开发的设备，在分子层面制造超精密电容器。萨尔·可汗：这是你准备去读研究生的时候吗？你曾在斯坦福短暂停留过？埃隆·马斯克：没错。萨尔·可汗：攻读应用物理学博士？埃隆·马斯克：应用物理学、材料科学。萨尔·可汗：对。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "So even then you were thinking of trying to do something in the space? ELON MUSK: Actually, this was d to work on energy storage solutions for electric cars. And I'd actually worked at a company in Silicon Valley called Pinnacle Research, which did advanced capacitors. There were electrolytic capacitors. And they actually were pretty good. They had like the energy density of a lead-acid battery, which for a capacitor, that's a big deal.",
+      "textZh": "所以即便在那时，你也在考虑尝试在这个领域做点什么吗？埃隆·马斯克：实际上，这是为了研究电动汽车的储能解决方案。我确实还曾在硅谷一家名为 Pinnacle Research 的公司工作过，那家公司研发先进电容器。那里有电解电容器。而且它们其实相当不错。它们的能量密度大概相当于铅酸电池，对电容器来说，这可不得了。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "But they used ruthenium tantalum oxide. And I think at the time, there was maybe like one or two tons of ruthenium mined per year in the world. So it's not a scalable solution. But I thought there could be some solid-state solution, like just using chip-making equipment. That was going to be the basic idea. But it was one of those things where I wasn't sure if success was one of possible outcomes.",
+      "textZh": "但它们使用的是钌钽氧化物。而且我想当时全世界每年开采的钌可能只有大约1或2吨。所以这不是一种可扩展的解决方案。但我认为可能会有某种固态解决方案，比如直接使用芯片制造设备。这本来就是基本思路。但这属于那种我不确定成功是否是可能结果之一的事情。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "It's difficult to bound that problem exactly and say, OK-- SAL KHAN: So you're saying, I felt like this was a destined failure is another way to parse that sentence. But anyway, sorry. ELON MUSK: No. I didn't think it would fail, but I wasn't sure that success was a possibility. SAL KHAN: OK. Yes. ELON MUSK: And generally you want to embark on something-- it's desirable to figure out if success is at least one of the possibilities.",
+      "textZh": "很难准确界定那个问题，然后说，好吧——萨尔·可汗：所以你的意思是，“我觉得这注定会失败”，这是解析那句话的另一种方式。不过不管怎样，抱歉。埃隆·马斯克：不是。我不认为它会失败，但我不确定成功是否有可能。萨尔·可汗：好。是的。埃隆·马斯克：而且一般来说，当你要着手做某件事时——最好先弄清楚成功至少是不是可能性之一。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "SAL KHAN: Right, exactly. ELON MUSK: Because for sure failure is one of the possibilities. But, ideally, you want to try to bracket it and say success is in the envelope of outcomes. And I wasn't quite sure if that was the case. I think success on an academic level would have been quite likely, because you can publish some useless paper-- and most papers are pretty useless-- SAL KHAN: We have a few-- don't take offense.",
+      "textZh": "萨尔·可汗：对，没错。埃隆·马斯克：因为失败肯定是可能性之一。但理想情况下，你会想尝试划定它的范围，并说成功处于结果区间之内。而我不太确定当时是否如此。我认为在学术层面取得成功的可能性相当高，因为你可以发表某篇毫无用处的论文——而且大多数论文都很没用——萨尔·可汗：我们这里有几位——请别介意。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "ELON MUSK: I mean, how many PhD papers are actually used by someone ever? SAL KHAN: That's a good point. ELON MUSK: Percentagewise it's not good. And so it could have been one of those outcomes where you add some leaves to the tree of knowledge. And that leaf is, nope, it's not possible. And there goes seven years of my life. So that was one path. And I was prepared to do that. But then the internet came along.",
+      "textZh": "埃隆·马斯克：我是说，有多少博士论文真的曾被某个人用过？萨尔·可汗：说得有道理。埃隆·马斯克：从百分比来看并不好。所以结果可能会是那种你给知识之树添了几片叶子的情况。而那片叶子写着：不，这不可能。然后我生命中的7年就没了。所以那是一条道路。而且我已经准备好那么做了。但后来互联网出现了。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "And it was like, oh, OK, the Internet, I'm pretty sure success is one of the outcomes, and it seemed like I could either do a PhD and watch the Internet happen, or I could participate and help build in some fashion. Like, I was just concerned with the idea of watching it happen. So I decided to put things on hold and start an Internet company. And we worked on internet publishing software, maps and directions, yellow pages, those kind of things.",
+      "textZh": "当时就像，哦，好吧，互联网，我相当确信成功是可能的结果之一，而且看起来我要么可以去读博士，看着互联网发生，要么可以参与其中，以某种方式帮助建设它。就像，我只是对眼看着它发生这个想法感到担忧。所以我决定把事情暂时搁置，创办一家互联网公司。我们开发互联网出版软件、地图和路线、黄页，诸如此类的东西。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "And we had as investors and customers the media companies. So like the New York Times Company, Knight Ridder. SAL KHAN: And this is just at the early stages. I mean this was like-- ELON MUSK: '95. SAL KHAN: '95. So it's really early stages, so it's really out the gate. ELON MUSK: Yeah. Absolutely. And so then we-- the reason we worked with the media companies was because we needed to have money. There was no advertising money in '95.",
+      "textZh": "而我们的投资者和客户是媒体公司。比如纽约时报公司、奈特·里德报业集团。萨尔·汗：而这还只是在非常早期的阶段。我是说，这就像是——埃隆·马斯克：'95年。萨尔·汗：'95年。所以确实是非常早期，真的才刚刚起步。埃隆·马斯克：是的。完全正确。所以后来我们——我们与媒体公司合作的原因是，我们需要有钱。'95年没有广告收入。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "In fact, the idea of advertising on the internet seemed like a ridiculous idea to people. Obviously, not so ridiculous anymore. But, at the time, it seemed like a very unlikely proposition. And a lot of the media companies weren't even sure that they should be online. Like, what's the point of that?",
+      "textZh": "事实上，在互联网上做广告这个想法在人们看来很荒谬。显然，现在没那么荒谬了。但在当时，这似乎是一种非常不可能成立的设想。而且很多媒体公司甚至不确定自己是否应该上线。比如，那有什么意义？"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "SAL KHAN: And did you all think that PayPal was just going to be a simple, little internet way to-- or did you think it was going to turn into the major kind of transaction processing engine that it is right now? ELON MUSK: I didn't expect PayPal's growth rate to be what it was. And that actually created major problems. So we started Paypal on University Avenue. After the first month or so of the website being active, we 100,000 customers.",
+      "textZh": "萨尔·汗：你们当时认为PayPal只会是一种简单、小型的互联网方式来——还是你们认为它会变成如今这种主要的交易处理引擎？埃隆·马斯克：我没料到PayPal的增长速度会达到那种程度。而这实际上造成了重大问题。所以我们在大学大道创办了PayPal。网站投入运行大约第1个月后，我们10万名客户。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "SAL KHAN: Really? That fast. Wow, I didn't realize it was-- ELON MUSK: Yeah, it was nutty. SAL KHAN: And how did it start? How did people just even know to use it? I mean, obviously, both buyer and seller have to be involved. ELON MUSK: Yeah. Well, we started off first by offering people $20 if they opened an account. And $20 if they referred anyone. And then we dropped it to $10. And we dropped it to $5.",
+      "textZh": "萨尔·汗：真的吗？那么快。哇，我没意识到它——埃隆·马斯克：是的，太疯狂了。萨尔·汗：它是怎么起步的？人们最初到底怎么知道要使用它？我是说，显然，买卖双方都必须参与。埃隆·马斯克：是的。嗯，一开始，如果人们开户，我们就给他们20美元。如果他们推荐任何人，也给20美元。然后我们把它降到10美元。又降到5美元。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "As the network got bigger and bigger, the value of the network itself exceeded any sort of carrot that we could offer. SAL KHAN: So much money did you all spend with that kind of $5, $10, $20 incentive to get that critical mass going? ELON MUSK: It was a fair amount. I think it was probably $60 or $70 million. SAL KHAN: Oh, wow, OK. So it was substantial. OK. So we're not talking peanuts here. ELON MUSK: It depends on your relative scale.",
+      "textZh": "随着网络变得越来越大，网络本身的价值超过了我们能够提供的任何一种诱因。萨尔·汗：所以你们为了用这种5美元、10美元、20美元的激励措施形成那个临界规模，花了这么多钱？埃隆·马斯克：数目相当大。我想大概是6000万或7000万美元。萨尔·汗：哦，哇，好吧。所以数目很可观。好吧。所以我们说的不是小钱。埃隆·马斯克：这取决于你的相对规模。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "It's a peanut to Google. SAL KHAN: Yeah, no, that's right. That's right. ELON MUSK: Here's a peanut. I mean, Google's got $50 billion. Apple's got $150 billion, some crazy amount of money. That's just cash. SAL KHAN: Yeah. So it's not an outlandish-- I didn't realize that was so core. ELON MUSK: Like 1% of Google's cash would be $500 million. So, you know, that's 0. 1% percent of Google's cash. SAL KHAN: That's true.",
+      "textZh": "对Google来说只是小钱。萨尔·汗：是的，不，没错。没错。埃隆·马斯克：这就是小钱。我是说，Google有500亿美元。Apple有1500亿美元，某个疯狂的金额。那还只是现金。萨尔·汗：是的。所以这并不离谱——我没意识到那是如此核心。埃隆·马斯克：比如Google现金的1%就是5亿美元。所以，你知道，那是Google现金的0. 1%百分比。萨尔·汗：确实如此。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "You're right, that's inexpensive. It's nothing. ELON MUSK: Relative to them, it's pretty inexpensive. SAL KHAN: That's right. ELON MUSK: And then we did a bunch of things to decrease the friction. It's just like bacteria in a Petri dish. So what you want to do is try to have one customer generate like two customers. OK? Or something like that. Maybe three customers, ideally. And then you want that to happen really fast.",
+      "textZh": "你说得对，那不贵。根本不算什么。埃隆·马斯克：相对于他们而言，确实相当便宜。萨尔·汗：没错。埃隆·马斯克：然后我们做了很多事情来减少阻力。这就像培养皿里的细菌。所以你要做的是设法让1名客户产生大约2名客户。明白吗？或者诸如此类。理想情况下，也许是3名客户。然后你希望这件事非常快地发生。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "And you could probably model it just like bacteria growth in a Petri dish. And then it'll just expand very quickly until it hits the side of the Petri dish and then it slows down. SAL KHAN: And then after Paypal, then I mean-- to some degree, especially us in Silicon Valley, we kind of understand the Internet. We know people.",
+      "textZh": "而且你大概可以像模拟培养皿中的细菌生长那样模拟它。然后它就会非常迅速地扩张，直到碰到培养皿边缘，之后就会减速。萨尔·汗：然后在PayPal之后，那么我的意思是——在某种程度上，尤其是我们这些身处硅谷的人，我们算是理解互联网。我们认识人。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "PayPal's obviously of the scale that is noteworthy, but then SpaceX just seems really, you know-- well, one, how did you decide that I'm definitely going to do that? And then like what's the first thing that you do? How do you even go out-- I don't even know how to start trying to make a rocket company. ELON MUSK: Well, neither did I really. And in fact, the first three launches failed. So it's not as though it was like spot on.",
+      "textZh": "PayPal的规模显然值得关注，但之后SpaceX看起来实在是，你知道——嗯，第1，你是怎么决定我绝对要做那件事的？然后，你做的第1件事是什么？你到底怎样着手——我甚至不知道该如何开始尝试创办一家火箭公司。埃隆·马斯克：嗯，其实我也不知道。事实上，前3次发射都失败了。所以并不是说一开始就完全准确。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "It's like, did not hit the bull's eye. But SAL KHAN: But even getting to the point where you're launching rockets. I don't even how do you get there? One, how did you decide? And then what did you do on day one? Like, who did you call? Did you write a plan? Did you start-- I don't even know. ELON MUSK: Actually, the origin of SpaceX is that I was trying to figure out why we'd not sent any people to Mars.",
+      "textZh": "就像，没有命中靶心。但是，萨尔·汗：但即便只是走到发射火箭那一步。我甚至不知道你是怎么做到的？第1，你是怎么决定的？然后你第1天做了什么？比如，你给谁打了电话？你写计划了吗？你开始——我甚至不知道。埃隆·马斯克：实际上，SpaceX的起源是，我当时正试图弄清楚为什么我们没有把任何人送往火星。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Because the obvious next step after Apollo was to send people to Mars. But what in fact happened was that we sent a few people to the moon and then we didn't send anyone after that to the moon or Mars or anything. But if you'd asked people in 1969, what would 2013 look like, they would have said, there will be a base on the moon. We would have least sent some people to Mars. And maybe there'd even be a base on Mars.",
+      "textZh": "因为阿波罗之后显而易见的下一步就是把人送往火星。但实际发生的情况是，我们把几个人送上了月球，之后便再也没有把任何人送往月球、火星或任何地方。但如果你在1969年问人们，2013年会是什么样子，他们会说，月球上将会有一座基地。我们至少会把一些人送往火星。甚至也许火星上也会有一座基地。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "There'd be like orbiting space hotels. And there'd be all this awesome stuff in space. And that's what people expected. And if you said, well, actually, the United States in 2013 will not be able to send anyone to orbit. But I'll tell you what will exist is that there'll be this device in your pocket that's like the size of-- smaller than a deck of cards that has access to all the world's information, and you can talk to any one on planet Earth.",
+      "textZh": "还会有类似环绕轨道运行的太空酒店。太空中还会有所有这些了不起的东西。那就是人们所期待的。而如果你说，嗯，实际上，2013年的美国将无法把任何人送入轨道。但我告诉你会存在什么：你的口袋里会有这样一种设备，它的大小就像——比一副纸牌还小，能够访问全世界的所有信息，而且你可以和地球上的任何人交谈。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "And even if you're like in some remote village somewhere so long as there's something called the Internet-- they wouldn't know what that means, of course-- then you would you be able to communicate with anyone instantly and have access to all of humanity's knowledge. They would have said, like bullshit. There's no way that that's going to be true. SAL KHAN: Right. Right. ELON MUSK: And yet we all have that. And space is not happening.",
+      "textZh": "而且即使你身处某个地方的偏远村庄，只要有一种叫作互联网的东西——当然，他们不会知道那是什么意思——那么你就能够立即与任何人沟通，并获取全人类的所有知识。他们会说，简直胡扯。那绝不可能成真。萨尔·汗：对。对。埃隆·马斯克：然而我们全都有了。而太空方面却没有进展。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "So I was trying to figure out like what was the deal here. And this was 2001. And it was just a friend of mine asked me, what am I going to do after Paypal. And I said, well, you know, I've always been interested in space, but I don't think there's anything that an individual could do in space, because it's the province of government, and usually a large government. But, I am curious as to when we're going to send some one to Mars.",
+      "textZh": "所以我当时想弄明白，这到底是怎么回事。那是在2001年。只是我的一个朋友问我，PayPal之后我打算做什么。我说，嗯，你知道，我一直对太空感兴趣，但我不认为个人能在太空领域做什么，因为那是政府的管辖范围，而且通常是大国政府。不过，我很好奇我们什么时候会把人送上火星。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "So I went to the NASA website to try to figure out where is the place that tells you that. And I couldn't find that. So I was like, either I'm bad at looking at the website, or they have a terrible website, because surely there must be a date. SAL KHAN: That should be a big date. ELON MUSK: Yeah. This should be on the front page. And then I discovered actually that NASA had no plans to send people to Mars, or even really back to the moon.",
+      "textZh": "所以我去了NASA的网站，想弄清楚哪里写着这件事。但我找不到。于是我想，要么是我不擅长在网站上找东西，要么就是他们的网站糟透了，因为肯定应该有一个日期。萨尔·汗：那应该是个重要日期。埃隆·马斯克：对。这应该放在首页。然后我发现，NASA其实并没有把人送上火星的计划，甚至根本没有真正重返月球的计划。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "So this was really was disappointing. I thought well, maybe this is a question of national will. Like do we to get people excited about space again? And try to get NASA a bigger budget, and then we would send people to Mars. And so I started researching the area, becoming more familiar with space, reading lots of books.",
+      "textZh": "所以这真的非常令人失望。我想，嗯，也许这是国家意愿的问题。比如，我们是不是要让人们重新对太空感到兴奋？并设法让NASA获得更多预算，然后我们就会把人送上火星。所以我开始研究这个领域，进一步了解太空，阅读大量书籍。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "And I came up with this idea to do so-called Mars oasis, which was to send a small greenhouse with seeds in dehydrated gel that upon landing, you hydrate the gel. You have green plants on a red background. The public responses to precedents and superlatives. So it would be the first life on Mars. The furthest that life's ever traveled. And you'd have this money shot of green plants on a red background.",
+      "textZh": "然后我想出了这个所谓“火星绿洲”的主意，也就是送去一个小型温室，里面装着置于脱水凝胶中的种子，着陆后，你让凝胶吸水。这样就会在红色背景上出现绿色植物。公众会对开创先例和最高级的事物作出反应。所以这将是火星上的第一个生命。生命有史以来旅行过的最远距离。而且你会得到这个绿色植物映衬红色背景的精彩镜头。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "So that seemed like it would get people pretty excited. So I started getting into this. And trying to figure out, OK, well can I afford to build a spacecraft? Because I had some money as a result of PayPal, but it had to fit within that budget. And I figured we had to do two missions, because if we only did one and it failed, then it might have like the opposite effect. SAL KHAN: But you were willing to bet the farm, so to speak, on this?",
+      "textZh": "所以那看起来会让人们相当兴奋。于是我开始投入这件事。并试着弄清楚，好吧，我是否负担得起建造一艘航天器？因为我通过PayPal获得了一些钱，但它必须控制在那笔预算之内。我认为我们必须执行2次任务，因为如果只执行1次，而它失败了，那可能会产生相反的效果。萨尔·汗：但可以这么说，你愿意把全部家当押在这上面吗？"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "ELON MUSK: Yeah. Well, I figured I was willing to spend half the money that I got from PayPal with no expectation of return. Because I thought this was just something that was pretty important and yeah, it seemed like I could spend half the money I made on PayPal on this, and if that got NASA a bigger budget and resulted in us going to Mars, that would be a pretty good outcome.",
+      "textZh": "埃隆·马斯克：对。嗯，我当时认为，我愿意花掉从PayPal获得的钱的一半，而且不期待任何回报。因为我认为这是一件相当重要的事，而且，对，我觉得我可以把在PayPal赚到的钱的一半花在这上面，如果这能让NASA获得更多预算，并促使我们前往火星，那会是一个相当不错的结果。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "SAL KHAN: And when your friends or your family came up to you and said, look there's nations that can't do this. You're a guy, I mean you have some resources, what did you say or do or think? ELON MUSK: Well, so I had a lot of friends of mine try to talk me out of starting a rocket company, because they thought it was crazy. And one friend of mine made me watch a video of rockets blowing up.",
+      "textZh": "萨尔·汗：当你的朋友或家人来对你说，听着，有些国家都做不到这件事。你只是一个人，我是说，你确实有一些资源，你当时说了什么、做了什么或是怎么想的？埃隆·马斯克：嗯，我有很多朋友试图劝我不要创办火箭公司，因为他们觉得这太疯狂了。我的一个朋友还让我看了一段火箭爆炸的视频。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "And there were just lots of people that thought it was a really crazy idea. And there was some people that had tried to start rocket companies, not succeeded. And they tried to talk me out of it. But the thing is that-- their premise for talking me out of it was, well, we think you're going to lose the money that you invest.",
+      "textZh": "而且就是有很多人认为这是一个非常疯狂的主意。也有一些人曾尝试创办火箭公司，但没有成功。他们试图劝我放弃。但问题是——他们劝我放弃的前提是，嗯，我们认为你会损失你投入的钱。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "I was like, well, that was my expectation anyway, so I don't really mind if I lose-- you I mean, I mind, but I mean it's not like I was trying to figure out the rank-ordered best way to invest money and on that basis chose space. It's not like that's-- I thought, wow-- SAL KHAN: You weren't looking at like money-market bonds, AAA bonds, rocket company. You weren't like-- ELON MUSK: I could do real estate. I could invest in shoe making. Anything.",
+      "textZh": "我当时想，嗯，反正这本来就是我的预期，所以即使我损失了，我也不太介意——你，我是说，我介意，但我的意思是，这并不是说我当时试图按优劣排序，找出投资资金的最佳方式，然后据此选择了太空。并不是那种——我想，哇——萨尔·汗：你并不是在比较货币市场债券、AAA级债券、火箭公司。你并不是——埃隆·马斯克：我可以做房地产。我可以投资制鞋。任何事情。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "And, whoa, space is the highest ROI. That is not what-- it wasn't the premise. I just thought that it was important that humanity expand beyond Earth, and we weren't doing that, so maybe there was something I could do to spur that on. And then I was able to compress the costs of the spacecraft and everything down to a relatively manageable number. And I got stuck on the rocket. The US rockets were way too expensive.",
+      "textZh": "然后，哇，太空的投资回报率最高。那不是——那并不是前提。我只是认为，人类向地球以外扩张很重要，而我们并没有这样做，所以也许我能做些什么来推动这件事。然后我设法把航天器和其他所有东西的成本压缩到了一个相对可控的数字。接着我卡在了火箭上。美国的火箭实在太贵了。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "I ended up going to Russia-- I flew to Russia three times to negotiate a purchase of an ICBM. I tried to buy two of the biggest ICBMs in the Russian fleet in 2001 and 2002. And I actually negotiated a price. SAL KHAN: I'll just let that statement stand. I'm not even going to-- Well, actually, I have to-- like who did you call? ELON MUSK: You open the yellow pages. Go to ICBMs. Oh!",
+      "textZh": "最后我去了俄罗斯——我3次飞往俄罗斯，谈判购买一枚洲际弹道导弹。我曾在2001年和2002年试图购买俄罗斯导弹部队中最大的洲际弹道导弹中的2枚。而且我实际上谈出了一个价格。萨尔·汗：我就让这句话摆在这里。我甚至都不打算——好吧，实际上，我必须问——比如，你给谁打了电话？埃隆·马斯克：你翻开黄页。找到洲际弹道导弹。哦！"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "SAL KHAN: How does this-- I don't want to get too much in to it but I'm curious about this one particular thing. You decide at some point you need to buy an ICBM? ELON MUSK: Yeah. Well, actually at first I tried to buy just a normal launch program that they use to launch satellites, but those are too expensive. SAL KHAN: I see. I see. ELON MUSK: The Boeing Delta II would have cost $65 million each, so two would have been $130 million.",
+      "textZh": "萨尔·可汗：这件事是怎么——我不想过于深入，但我对这件具体的事很好奇。你在某个时候认定自己需要买一枚洲际弹道导弹？埃隆·马斯克：是的。嗯，其实一开始我只是想买一项他们用来发射卫星的普通发射服务，但那些太贵了。萨尔·可汗：明白。明白。埃隆·马斯克：波音 Delta II 每枚要花费 6500 万美元，所以 2 枚就是 1.3 亿美元。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "And then I was like, woah, OK, that breaks my budget right there. And I tried to negotiate with them. And that was not-- I did not make progress. SAL KHAN: How much does an ICBM go for? I'm curious what's the market rate for one of those? ELON MUSK: Well-- SAL KHAN: This is right after the fall, it might have gone up. ELON MUSK: Yeah, it's gone up a lot since then. But in 2001, it would've been about $10 million each.",
+      "textZh": "然后我就想，哇，好吧，这一下就超出我的预算了。我试着和他们谈判。但那并没有——我没有取得进展。萨尔·可汗：一枚洲际弹道导弹卖多少钱？我很好奇，一枚那种导弹的市场价是多少？埃隆·马斯克：嗯——萨尔·可汗：当时刚刚发生解体，价格后来可能涨了。埃隆·马斯克：是的，从那以后涨了很多。但在 2001 年，每枚大约是 1000 万美元。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "So two would have been $20 million. And then I thought I could get the rest of the mission down to also around $10 million per, so we'd have a dual mission with like two identical launches, two identical spacecraft for roughly $40 million. And so I thought, OK, I can do that. SAL KHAN: But you must have had some like rocket scientists advising you at this point? This sounds like you were serious. I mean you were-- ELON MUSK: Yeah.",
+      "textZh": "所以 2 枚就是 2000 万美元。然后我觉得，我也可以把任务其余部分的单次成本降到 1000 万美元左右，这样我们就能用大约 4000 万美元执行一项双重任务，包括 2 次完全相同的发射和 2 艘完全相同的航天器。于是我想，好吧，我做得到。萨尔·可汗：但这时候你肯定已经有一些火箭科学家之类的人给你提供建议了吧？听起来你是认真的。我的意思是，你当时——埃隆·马斯克：是的。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "I engaged a bunch of consultants and started to get familiar with the space industry. But then after the third trip to Russia, I came to realize that I was actually wrong about my first premise, that there was a lack of will. In fact, I think that there's a tremendous amount of will in the United States for space exploration. Because the United States is essentially a nation of explorers.",
+      "textZh": "我聘请了一批顾问，并开始熟悉航天产业。但在第 3 次去俄罗斯之后，我开始意识到，我最初的前提其实是错的，也就是认为人们缺乏意愿。事实上，我认为美国对于太空探索有着极其强烈的意愿。因为美国本质上是一个探索者的国度。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "I mean, it's a distillation of the human spirit of exploration. So of course it was quite silly of me to think that people lacked motivation. But what people don't want to think is that, OK, sending people to Mars is going to be so expensive that they'll have to give up health care or something. They're not going to do that. So it's got to be that going to Mars is not going to cause some meaningful drop in their standard of living.",
+      "textZh": "我的意思是，它是人类探索精神的凝练。所以，我认为人们缺乏动力，这当然相当愚蠢。但人们不愿意认为的是，好吧，把人送上火星会贵到让他们不得不放弃医疗保健或别的什么。他们不会那么做。所以，前往火星必须不会导致他们的生活水平出现某种显著下降。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "So if it's like maybe a quarter of a percent or half a percent of GDP-- something like that is palatable. Anyways, so I thought, OK, it's not really going to maybe matter that much if I do this mission, because what really matters is having a way. So I was wrong-- I thought there wasn't enough will, but there actually was plenty of will, if people thought there was a way. So then I said, OK, well, I need to work on the way.",
+      "textZh": "所以，如果它大概占 GDP 的 0.25% 或 0.5%——这样的水平是可以接受的。总之，于是我想，好吧，就算我执行这项任务，也许其实不会有那么大的影响，因为真正重要的是要有一条可行的路。所以我错了——我原以为意愿不够，但其实意愿非常充足，前提是人们认为有路可走。于是我说，好吧，那我需要研究这条路。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "How hard is it really to make a rocket? Historically, all rockets have been expensive, so therefore, in the future, all rockets will be expensive. But actually that's not true. If you say, what is a rocket made of. And say, OK, it's made of aluminum, titanium, copper, carbon fiber, if you want to go that direction. And you can break down and say, what is the raw material cost of all these components.",
+      "textZh": "制造火箭到底有多难？从历史上看，所有火箭都很昂贵，所以未来所有火箭也都会很昂贵。但其实这并不是真的。如果你问，火箭是由什么制成的。然后说，好吧，它由铝、钛、铜、碳纤维制成，如果你想朝那个方向考虑的话。接着你可以逐项拆解，看看所有这些部件的原材料成本是多少。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "And if you have them stacked on the floor and could wave a magic wand so that the cost of rearranging the atoms was zero, then what would the cost of the rocket be. And I was like, wow, OK, it's really small. It's like 2% of what a rocket costs. So clearly it would be in how the atoms are arranged. So you've got to figure out to OK, how can we get the atoms in the right shape much more efficiently.",
+      "textZh": "如果把它们堆在地板上，然后能挥一下魔法棒，让重新排列原子的成本变成零，那么火箭的成本会是多少。然后我就想，哇，好吧，真的非常低。大约是火箭成本的 2%。所以显然，成本就在于原子是如何排列的。因此你必须弄清楚，好吧，我们怎样才能更高效地把原子排列成正确的形状。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "And so I had a series of meetings on Saturdays with people some of whom were still working at the big aerospace companies, just to try to figure out is the some catch here that I'm not appreciating. And I couldn't figure it out. There doesn't seem to be any catch. So I started SpaceX. SAL KHAN: And you ended up-- you had some failures, but obviously some huge successes.",
+      "textZh": "于是，我在每周六和一些人开了一系列会议，其中有些人当时仍在大型航空航天公司工作，只是为了设法弄清楚，这里面是不是有什么我没有意识到的隐情。但我没能找出来。看起来并没有任何隐情。所以我创办了 SpaceX。萨尔·可汗：而你最终——你经历过一些失败，但显然也取得了一些巨大的成功。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "What was the cost that you were able to build this rocket for relative to what they were being built for before? ELON MUSK: So let's see. For the Falcon 1, which is the first rocket we built. And the first three flights did not make it. In fact, we got progressively further. But like the first rocket came in and landed maybe a couple hundred yards away from the launch site, and tiny fragments.",
+      "textZh": "与此前制造这些火箭的成本相比，你们造出这枚火箭的成本是多少？埃隆·马斯克：那么，让我想想。就 Falcon 1 而言，这是我们制造的第 1 款火箭。最初 3 次飞行都没有成功。事实上，我们一次比一次飞得更远。但比如第 1 枚火箭坠落并落在距离发射场大概几百码的地方，成了细小的碎片。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "So, yeah, anyway, that rocketed ended up costing around $6 million compared to other rockets in that class, which were about to $25 million. SAL KHAN: Wow. So significant? ELON MUSK: Yeah, like a quarter. But there's an even better step beyond that which is to make rockets reusable. Right now that is around what our comparison price is-- excluding the refurbished ICBMs.",
+      "textZh": "所以，是的，总之，那枚火箭最终的成本约为600万美元，而同级别的其他火箭则大约要2500万美元。萨尔·可汗：哇。所以差别很大？埃隆·马斯克：是的，大约是四分之一。但除此之外，还有更好的一步，那就是让火箭可重复使用。目前，这大约就是我们的对比价格——不包括翻新的洲际弹道导弹。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "So, if you say building a rocket from new, how does the SpaceX rocket compare to a rocket from Boeing or Lockheed? It's about a quarter of the price. However, if we make it reusable, then it can be two orders of magnitude cheaper. SAL KHAN: Two orders of magnitude cheaper. A 100th of the price? ELON MUSK: That's right. For you. SAL KHAN: Only today. Memorial day sale.",
+      "textZh": "所以，如果说从头建造一枚新火箭，SpaceX 的火箭与波音或洛克希德的火箭相比怎么样？价格大约是四分之一。不过，如果我们让它可重复使用，那么成本可以低2个数量级。萨尔·可汗：低2个数量级。价格的百分之一？埃隆·马斯克：没错。专为你提供。萨尔·可汗：仅限今天。阵亡将士纪念日促销。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "And I've seen some-- you all are doing these vertical landings, like literally out of like the 1950s Sci-Fi movies. And that's what you're talking about? ELON MUSK: Yeah. Essentially, the rocket needs to come back and land at the launch site, and then reload propellant and take off again. Like an airplane in its reusability. SAL KHAN: How far do you think we are from that?",
+      "textZh": "而且我看过一些——你们正在进行这种垂直着陆，真的就像出自1950年代的科幻电影。你说的就是这个吗？埃隆·马斯克：是的。基本上，火箭需要飞回来并在发射场着陆，然后重新加注推进剂，再次起飞。就可重复使用性而言，就像飞机一样。萨尔·可汗：你认为我们距离实现它还有多远？"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "When do you think-- your best guess, when we'll actually see that happening? ELON MUSK: Well, I'm hopeful we can do it next year. SAL KHAN: Oh, OK. Yeah. That's-- we've got some ambitious stuff at Khan Academy for the next year, too. So we can compare. We're redesigning the site. ELON MUSK: Right. We've been working on it for a long time. I should say, SpaceX has been around for 11 years, and thus far we have not recovered any rockets.",
+      "textZh": "你认为什么时候——按你最准确的猜测，我们什么时候会真正看到它发生？埃隆·马斯克：嗯，我希望我们明年能做到。萨尔·可汗：哦，好的。是的。我们可汗学院明年也有一些雄心勃勃的事情。所以我们可以比较一下。我们正在重新设计网站。埃隆·马斯克：对。我们已经为此努力很长时间了。我应该说，SpaceX 已经成立11年了，而截至目前，我们还没有回收过任何火箭。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "We recovered the spacecraft from orbit. So that was great. But none of our attempts to recover the rocket stages have been successful. The rocket stages have always blown up essentially on reentry. Now, we think we've figured out why that was the case. And it's a tricky thing, because Earth's gravity is really quite strong. And with an advanced rocket, you can do maybe 2% to 3% of your lift-off mass to orbit, typically.",
+      "textZh": "我们从轨道上回收了航天器。所以那很棒。但我们回收火箭级的尝试一次都没有成功。火箭级基本上总是在再入过程中爆炸。现在，我们认为已经弄清楚了为什么会这样。这是一件棘手的事，因为地球的引力确实相当强。对于先进火箭，通常可以将起飞质量的约2%至3%送入轨道。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "And then reusability subtracts 2% to 3% So then you've got like nothing to orbit or negative. And that's obviously not helpful. And so the trick is to try to shift that from say 2%, 3% in an expendable configuration to make the rocket mass efficiency, engine efficiency, and so forth, so much better that it moves to maybe around 3. 5% to 4% in expendable configuration.",
+      "textZh": "然后，可重复使用性又会减去2%至3%，这样你能送入轨道的东西就几乎没有了，甚至是负数。这显然没有帮助。所以诀窍是，设法把一次性构型下比如2%、3%的比例，通过大幅提升火箭的质量效率、发动机效率等等，提高到一次性构型下可能约3. 5%至4%。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "And then try to get clever about the reusability elements and try to drop that to around the 1. 5% to 2% level. So you have a net payload to orbit of about 2%. SAL KHAN: But you're doing it at one, two orders of magnitude cheaper. ELON MUSK: Yeah. Absolutely, because our Falcon 9 rocket cost about $60 million. But the propellant cost-- which is mostly oxygen-- it's two-thirds oxygen, one-third fuel-- is only about $200,000. SAL KHAN: Wow.",
+      "textZh": "然后设法巧妙处理可重复使用的相关部分，尝试把它降到约1. 5%至2%的水平。这样，送入轨道的净有效载荷约为2%。萨尔·可汗：但你们把成本降低了1、2个数量级。埃隆·马斯克：是的。绝对如此，因为我们的猎鹰9号火箭成本约为6000万美元。但推进剂成本——主要是氧气——其中三分之二是氧气，三分之一是燃料——仅约20万美元。萨尔·可汗：哇。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "ELON MUSK: And it's much like a 747. It costs about as much to refuel our rocket as it does to refuel a 747 within-- well, pretty close, essentially. SAL KHAN: So assuming you all are successful, and you all have proven yourself to be successful on these audacious things in the past, I mean, what happens? I mean that seems like it's-- what happens in the next 5, 10 years in the space industry, if you all are successful there?",
+      "textZh": "埃隆·马斯克：而且它很像747。给我们的火箭重新加注燃料的成本，与给一架747重新加油差不多——嗯，基本上非常接近。萨尔·可汗：那么，假设你们成功了，而且你们过去已经证明自己能够在这些大胆的事情上取得成功，我是说，会发生什么？我是说，这似乎会——如果你们在那里取得成功，未来5年、10年，航天产业会发生什么？"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "I mean do we get to Mars? Do we have kind of market forces, commercialization of space starting to happen? ELON MUSK: Yeah. Let's see. Well, the first step is that we need to earn enough money to keep going as a company. So we have to make sure that we're launching satellites. Commercial satellites like broadcast communications, mapping, government satellites that do scientific missions. Earth-based or space-based missions. GPS satellites.",
+      "textZh": "我是说，我们会抵达火星吗？市场力量、太空商业化会开始出现吗？埃隆·马斯克：是的。让我想想。嗯，第一步是我们需要赚到足够的钱，让公司能够继续运营。所以我们必须确保自己在发射卫星。商业卫星，比如广播通信、测绘，以及执行科学任务的政府卫星。地基或天基任务。GPS 卫星。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "That kind of thing. And then also servicing the space station. Transferring cargo to and from the space station, which we've done a few times. And then taking people to and from the space station. So we've got to service the sort of Earth-based needs to launch satellites and that pays the bills. But in doing that keep improving the technology to a point where we can make full reusability work.",
+      "textZh": "诸如此类。然后还要为空间站提供服务。向空间站运送货物以及从空间站运回货物，我们已经做过几次了。然后运送人员往返空间站。所以我们必须满足这种以地球为基础的卫星发射需求，以此支付账单。但在这样做的同时，还要不断改进技术，直至能够实现完全可重复使用。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "And we have sufficient scale and sophistication to be able to take people to Mars. SAL KHAN: Wow. So you think this is going to be a reality? What's your best guess of when we're going to have someone on Mars? ELON MUSK: I think probably about 12 years. SAL KHAN: That's nothing. And you think it'll be a round trip? It won't just be some type of permanent colony on Mars? ELON MUSK: I think it's probably a round trip. It's not for sure.",
+      "textZh": "而且我们拥有足够的规模和技术水平，能够把人送上火星。萨尔·可汗：哇。所以你认为这会成为现实？按你的最佳估计，我们什么时候会有人登上火星？埃隆·马斯克：我认为大概12年后。萨尔·可汗：那根本没多久。你认为这会是一次往返旅程吗？不会只是在火星上建立某种永久殖民地吗？埃隆·马斯克：我认为可能会是往返旅程。并不确定。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "SAL KHAN: I could talk about this for-- people know, I'm-- ELON MUSK: Aspirational it'd be a round trip. SAL KHAN: This is mind blowing. And then on Tesla. I mean Tesla's obviously, from my vantage, it's a huge success. What do you think in that industry-- well, one, I'll ask kind of the same question. What did you think-- this is something that GM and Toyota and these massive multi-billion dollar organizations have been trying.",
+      "textZh": "萨尔·可汗：关于这个，我可以聊上——大家知道，我——埃隆·马斯克：理想目标是往返旅程。萨尔·可汗：这太令人震撼了。然后说到 Tesla。我是说，在我看来，Tesla 显然取得了巨大成功。你认为这个行业——嗯，首先，我会问一个类似的问题。你当时怎么想——这是通用汽车、丰田以及这些价值数十亿美元的庞大组织一直在尝试的事情。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "What gave you the confidence to pursue it? And now that it seems to be a huge success, where do you think this industry's going to be the next 5, 10 years? ELON MUSK: Yes. So with Tesla, the goal is try to accelerate the advent of sustainable transport. I think it would happen anyway, just out of necessity. But because we have an un-priced externality in the cost of gasoline.",
+      "textZh": "是什么给了你追求它的信心？现在它似乎取得了巨大成功，你认为未来5年、10年，这个行业会走向何方？埃隆·马斯克：是的。对于 Tesla，目标是设法加速可持续交通时代的到来。我认为无论如何，出于必要性，它都会发生。但由于汽油成本中存在一个尚未定价的外部性。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "We weren't pricing in the environmental effects of CO2 in the oceans and atmosphere. That's causing the normal market forces to not function properly. And so the goal of Tesla is to try to act as a catalyst to accelerate those sort of normal forces. The normal sort of market reaction that would occur. We're trying to have a catalytic effect on that. And try to make it happen, I don't know, maybe 10 years sooner than it would otherwise occur.",
+      "textZh": "我们没有把二氧化碳对海洋和大气的环境影响计入价格。这导致正常的市场力量无法正常发挥作用。因此，Tesla 的目标是设法充当催化剂，加速那些正常力量。也就是通常会发生的正常市场反应。我们试图对此产生催化作用。并努力让它发生，我不知道，也许比原本会发生的时间提前10年。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "That's the goal of Tesla. So that's the reason we're making electric cars and not any other kind of car. And we also supply powertrains to Toyota and to Mercedes and maybe to other car companies in the future to accelerate their production of electric vehicles. So that's the goal there. And so far, it's working out pretty well.",
+      "textZh": "这就是 Tesla 的目标。所以这就是我们制造电动汽车，而不是其他任何种类汽车的原因。我们还向丰田和梅赛德斯供应动力总成，将来也许会向其他汽车公司供应，以加速它们生产电动汽车。所以这就是那里的目标。到目前为止，进展相当顺利。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "SAL KHAN: I mean, I just saw a news report earlier today that you all sold more Model S's than-- you all are leading that segment of the industry. The Mercedes S class, the BMW 7 Series, or the Lexus LS400, or whatever it is. ELON MUSK: Yeah, actually, that seems to be the case. I didn't realize they sold so few cars in that segment. Because we don't sell that many cars.",
+      "textZh": "萨尔·汗：我的意思是，我今天早些时候刚看到一则新闻报道，说你们卖出的 Model S 比……你们在这个细分市场中处于领先地位。奔驰 S 级、宝马 7 系，或者雷克萨斯 LS400，或者不管它是什么。埃隆·马斯克：是的，实际上，情况似乎确实如此。我没意识到他们在那个细分市场卖的车这么少。因为我们卖的车也没那么多。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "We sell 5,000 a quarter, or 12,000-- SAL KHAN: Well, out here they seem like you know every-- ELON MUSK: Well, this is our home team. So it's-- we better sell a lot in the Bay Area. Because otherwise we're like-- SAL KHAN: And, well, I mean, similar thing. How did you start? What gave you the confidence?",
+      "textZh": "我们每季度销售5,000辆，或者12,000辆——萨尔·汗：嗯，在这里，它们看起来就像，你知道，每——埃隆·马斯克：嗯，这是我们的主场。所以——我们最好能在湾区卖出很多辆。因为否则我们就像——萨尔·汗：还有，嗯，我是说，类似的问题。你是怎么开始的？是什么给了你信心？"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "And do you see yourselves as kind of a major automotive, mainstream brand in 5,10 years, all the way down to competing with the Honda Accords and Civics? ELON MUSK: I mean, yeah. Our goal-- it's not to become a brand big brand or to compete with Honda Civics, rather to advance the cause of electric vehicles.",
+      "textZh": "你是否认为你们自己会在5,10年后成为一个主要的主流汽车品牌，一直下探到与本田雅阁和思域竞争？埃隆·马斯克：我是说，是的。我们的目标——不是成为一个品牌、大品牌，也不是与本田思域竞争，而是推动电动汽车事业向前发展。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "And so we're just going to keep making more and more electric cars and driving the price point down until the industry is very firmly electric. Like maybe half of all cars made are electric or something like that. Which is not to say that we expect to make half of all cars. We want to just have that catalytic effect until at least that occurs.",
+      "textZh": "因此，我们只会继续制造越来越多的电动汽车，并不断压低价格，直到整个行业非常坚定地转向电动。比如，也许所有制造的汽车中有一半是电动的，或者类似那样。这并不是说我们预计会制造所有汽车中的一半。我们只是希望产生那种催化作用，直到至少实现这一点。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "And I think the point at which we're approaching half of all new cars made are electric, then I think I would consider that to be the victory condition. And so the faster we can bring that day, the better. SAL KHAN: When would be your guess when that happens? ELON MUSK: Well, I made a bet with someone about three years ago that it would be sooner than 20 years. So it's 17 years from now. But that's conservative.",
+      "textZh": "而且我认为，当我们接近所有新造汽车中有一半是电动汽车时，我想我会把那视为胜利条件。因此，我们能越快让那一天到来，就越好。萨尔·汗：你猜这会在什么时候发生？埃隆·马斯克：嗯，我大约3年前和某个人打过赌，说这会在20年以内发生。所以就是从现在起17年。但那是保守估计。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "I think it's probably maybe 13 or 14 years. SAL KHAN: Wow. Right when we're going to Mars. ELON MUSK: Right. SAL KHAN: It'll be exciting times. ELON MUSK: True. Exactly. I was just thinking about that. It was like, oh, those time frames are kind of coincident. The nature of new technology adoption is it tends to follow an S-curve.",
+      "textZh": "我认为可能大概是13或14年。萨尔·汗：哇。正好是我们要去火星的时候。埃隆·马斯克：对。萨尔·汗：那会是令人兴奋的时代。埃隆·马斯克：确实。正是如此。我刚才也在想这件事。就像，哦，那些时间跨度算是重合了。新技术采用过程的本质是，它往往遵循一条S形曲线。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "So what usually happens is people under-predict it in in the beginning, because people tend to extrapolate in a straight line. And then they'll over-predict it at the midpoint, because there's late adopters. And then it'll actually take longer than people think at the mid-point, but much shorter than people think at the beginning. But I'm pretty excited about how things are going.",
+      "textZh": "所以通常发生的情况是，人们一开始会低估它，因为人们往往会沿直线进行外推。然后到了中点，他们又会高估它，因为存在较晚采用的人。之后它实际上会比人们在中点时认为的花费更长时间，但又比人们一开始认为的短得多。不过，我对事情的发展非常兴奋。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "And, in fact, I think that the pace of technology improvement in electric energy storage is really moving faster than anyone thinks. SAL KHAN: Wow. I got one more-- how are we doing on time? Where's Ester? Oh, 9 o'clock. So how much time do you have? I want to make sure we don't go over. ELON MUSK: Well, I guess maybe another 15 minutes. SAL KHAN: OK. So I'll finish with one last question and then we'll open it up.",
+      "textZh": "而且事实上，我认为电能储存技术的改进速度确实比任何人想象的都快。萨尔·汗：哇。我还有1个——我们的时间怎么样？埃斯特在哪里？哦，9点了。那你还有多少时间？我想确保我们不会超时。埃隆·马斯克：嗯，我想也许还能再谈15分钟。萨尔·汗：好的。那我会以最后1个问题收尾，然后我们就开放提问。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "What advice do you have for us at Khan Academy? ELON MUSK: I don't know. You guys seem to be doing really great. So I was wondering if you had advice for me. SAL KHAN: Oh, no, well. ELON MUSK: Yeah. It seems like you're doing an amazing job of-- really super leveraged. I mean, obviously, a small team, and you're having a dramatic effect-- SAL KHAN: Yeah, half these people don't even work here.",
+      "textZh": "你对我们可汗学院有什么建议？埃隆·马斯克：我不知道。你们似乎做得真的很棒。所以我还想知道你是否有什么建议可以给我。萨尔·汗：哦，不，嗯。埃隆·马斯克：是啊。看起来你们做的工作非常了不起——确实有着超级高的杠杆效应。我是说，显然，团队很小，而你们正在产生巨大的影响——萨尔·汗：是啊，这些人里有一半甚至不是这里的员工。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "There just like-- so it's like it's even-- ELON MUSK: Right. So it's, I think very impressive thing you're doing to spread knowledge and understanding throughout the world. SAL KHAN: The universe soon, if you hold up your end of the bargain. ELON MUSK: It's actually kind of funny. If you think, what is education? Like you're basically downloading data and algorithms into your brain. And it's actually amazingly bad in conventional education.",
+      "textZh": "那里只是像——所以这就像甚至——埃隆·马斯克：对。所以我认为，你们在全世界传播知识和理解这件事非常令人钦佩。萨尔·汗：很快就是全宇宙了，如果你履行你那一部分约定的话。埃隆·马斯克：这其实有点好笑。如果你想一想，教育是什么？就像你基本上是在把数据和算法下载进你的大脑。而传统教育在这方面实际上糟糕得惊人。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "Because like it shouldn't be like this huge chore. So you're making it way, way better. But I think a lot of things that I would say, you've probably heard 100 times. And, in fact, are if not doing. The more you can game-ify the process of learning, the better. For my kids, I do not have to encourage them to play video games. I have to like pry them from their hands, like crack. SAL KHAN: Yes. ELON MUSK: It's like, drop that crack needle.",
+      "textZh": "因为它不应该像这样成为一项艰巨的苦差事。所以你们正在把它变得好得多、多得多。但我认为，我会说的很多事情，你可能已经听过100次了。而且事实上，如果不是已经在做。你越能把学习过程游戏化，就越好。对我的孩子们，我不必鼓励他们玩电子游戏。我得把它们从他们手里硬抢过来，就像快克可卡因一样。萨尔·汗：是的。埃隆·马斯克：就像，放下那根快克可卡因针头。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "SAL KHAN: You have that problem at your house, too. The crack is addictive. ELON MUSK: So to the degree that you can make somehow learning like a game, then it's better. And I think, unfortunately, a lot of education is very vaudevillian. You've got someone standing up there kind of lecturing at people. And they've done the same lecture 20 years in a row, and they're not very excited about it.",
+      "textZh": "萨尔·汗：你家里也有这个问题。快克可卡因会让人上瘾。埃隆·马斯克：所以，只要你能以某种方式让学习像游戏一样，那就会更好。而且我认为，不幸的是，很多教育都非常像杂耍歌舞表演。有人站在那里，算是在给人们讲课。而且他们连续20年都在讲同一堂课，对此也没有多么兴奋。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "And that lack of enthusiasm is conveyed to the students. They're not very excited about it. They don't know why they're there. Like why are we letting this stuff. We don't even know why. In fact, I think a lot of things that people learn that probably there's no point in learning them. Because they never use them in the future. SAL KHAN: Because who's going to launch a rocket into space? I mean, that's just like-- exactly, that never happens.",
+      "textZh": "而这种缺乏热情也传达给了学生。他们对此并不怎么兴奋。他们不知道自己为什么在那里。就像，为什么我们要让这些东西。我们甚至不知道为什么。事实上，我认为人们学的很多东西可能根本没有必要去学。因为他们将来从来不会用到它们。萨尔·汗：因为谁会把火箭发射到太空？我是说，那就像——没错，那从来不会发生。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "ELON MUSK: Well, you have to say-- people don't stand back and say, well, why are we teaching people these things. And we should tell them, probably, why we're teaching these things. Because a lot of kids are probably just in school, probably puzzled as to why they're there. I think if you can explain the why of things, then that makes a huge difference to people's motivation. Then they understand purpose. So I think that's pretty important.",
+      "textZh": "埃隆·马斯克：嗯，你必须说——人们不会退一步问，嗯，我们为什么要教人们这些东西。而且我们或许应该告诉他们，我们为什么要教这些东西。因为很多孩子可能只是待在学校里，可能困惑于自己为什么在那里。我认为，如果你能解释事情背后的原因，那么这会给人们的动力带来巨大差异。这样他们就能理解目的。所以我认为这相当重要。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "And just make it entertaining. But I think just in general conventional education should be massively overhauled. And I'm sure you pretty much agree with that. I mean the analogy I sometimes use is, have you seen like Batman, the Chris Nolan movie, the recent one. And it's pretty freaking awesome. And you've got incredible special effects, great script, multiple takes, amazing actors, and great sound, and it's very engaging.",
+      "textZh": "而且就是要让它有趣。但我认为，总体而言，传统教育应该进行大规模改革。而且我相信你基本上也同意这一点。我是说，我有时会用的类比是，你看过类似《蝙蝠侠》吗，克里斯·诺兰最近的那部电影。它简直棒极了。它有令人难以置信的特效、出色的剧本、多次拍摄、了不起的演员和很棒的声音，而且非常引人入胜。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "But if you were to instead say, OK-- even if you had the same script, so at least it's same script. And you said, OK, now that script, instead of having movies, we're going to have that script performed by the local town troop. OK, and so in every small town in America, if movies didn't exist, they'd have to recreate The Dark Night. With like home-sewn costumes and like jumping across the stage. And not really getting their lines quite right.",
+      "textZh": "但如果你转而说，好吧——即使你有同样的剧本，所以至少剧本是一样的。然后你说，好吧，现在有了这份剧本，我们不拍电影，而是要让当地小镇的一队人来表演这份剧本。好吧，所以在美国的每个小镇，如果电影不存在，他们就必须重新演绎《黑暗之夜》。穿着类似自家缝制的服装，还要像那样跳过舞台。而且台词也说得不太准确。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "And not really looking like the people in the movie. And no special effects. And I mean that would suck. It would be terrible. SAL KHAN: That's right. Very-- ELON MUSK: That's education. SAL KHAN: So with that-- and I apologize to all of you guys for hogging up all of the time, because, obviously, I could talk for hours about this stuff. But we do have time, probably 5 or 10 minutes for a handful of questions.",
+      "textZh": "而且看起来完全不像电影里的人。也没有特效。我是说，那会很糟糕。会非常糟糕。萨尔·可汗：没错。非常——埃隆·马斯克：这就是教育。萨尔·可汗：那么，说到这里——我很抱歉占用了大家全部的时间，因为很显然，这些东西我可以讲上几个小时。但我们确实还有时间，大概有5或10分钟，可以回答几个问题。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "If none of you all have any, I have about nine more. But, yes. SPEAKER 1: So I noticed-- I picked up two kind of themes from what you were discussing. One was somewhat audacious goals. And the other was I don't think I heard you use the word profit in anything that you spoke about. You seem to be-- each thing is pointed at like re-invigorating an industry or bringing back space missions.",
+      "textZh": "如果你们都没有问题，我还有大约9个。不过，好的。说话人1：我注意到——我从您讨论的内容中提炼出了两类主题。一个是有些大胆的目标。另一个是，我似乎没听到您在谈到的任何事情中使用“利润”这个词。您似乎——每件事都指向了诸如重新振兴一个行业，或是重启太空任务。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "How much of your success do you attribute to having really audacious goals or versus just not being focused on the short term, money coming in, or I don't know, investors? ELON MUSK: Unfortunately, one does have to be focused on the short time and money coming in when creating a company, because otherwise the company will die. So I think that a lot of times people think like creating company is going to be fun.",
+      "textZh": "您认为自己的成功在多大程度上应归因于拥有真正大胆的目标，或者说，是因为不专注于短期、流入的资金，或者，我不知道，投资者？埃隆·马斯克：遗憾的是，创建公司时，确实必须专注于短期和流入的资金，否则公司就会倒闭。所以我认为，很多时候，人们觉得创建公司会很有趣。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "I would say it's really not that fun. I mean there are periods of fun. And there are periods where it's just awful. And, particularly, if you're the CEO of the company, you actually have a distillation of all the worst problems in the company. There's no point in spending your time on things that are going right. So you're only spending your time on things that are going wrong.",
+      "textZh": "我会说，其实并没有那么有趣。我的意思是，有些时期很有趣。也有些时期简直糟透了。而且，尤其是当你担任公司首席执行官时，实际上，公司里所有最糟糕的问题都会提炼汇集到你这里。把时间花在进展顺利的事情上没有意义。所以你只会把时间花在出问题的事情上。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "And there are things that are going wrong that other people can't take care of. So you have like the worst-- you have a filter for the crappest problems in the company. The most pernicious and painful problem. So I think you have to feel quite compelled to do it. And have a fairly high pain threshold. There's a friend of mine who says, starting a company is like starting into the abyss and eating glass. And there's some truth to that.",
+      "textZh": "而且，出问题的还都是其他人无法处理的事情。所以，你面对的就像是最糟糕的——你成了公司里最烂问题的过滤器。最棘手、最令人痛苦的问题。所以我认为，你必须有相当强烈的动力去做这件事。还要有相当高的痛苦承受能力。我有个朋友说，创办公司就像开始进入深渊并吞食玻璃。这话有几分道理。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "The staring into the abyss part is that you're going to be constantly facing the extermination of the company. Because most start ups fail. It's like 90% percent-- it could be 99% of start ups fail. So that's the staring into the abyss part. You're constantly saying, OK, if I don't get this right, the company will die, which can be quite stressful.",
+      "textZh": "凝视深渊的部分在于，你将不断面对公司被消灭的可能。因为大多数初创公司都会失败。大概有90%个百分点——也可能有99%的初创公司会失败。这就是凝视深渊的部分。你会不断对自己说，好吧，如果我不能把这件事做好，公司就会倒闭，这可能会带来相当大的压力。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "And then the eating glass part is you've got to work on the problems that the company needs you to work on and not the problems you want to work on. And so you end up working on problems that you really wish you weren't working on. And so that's the eating glass part. And that goes on for a long time. SPEAKER 1: So how do you keep your focus on the big picture when you're constantly faced with, we could be out of business in a month?",
+      "textZh": "然后，吞食玻璃的部分在于，你必须处理公司需要你处理的问题，而不是你想处理的问题。因此，你最终会处理那些自己真心希望不必处理的问题。这就是吞食玻璃的部分。而且这种情况会持续很长时间。说话人1：那么，当您不断面对“我们可能在1个月内倒闭”这种情况时，如何保持对大局的关注？"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "ELON MUSK: Well, it's just a very small percentage of mental energy is on the big picture. Like you know where you're generally heading for and the actual path is going to be some sort of zigzaggy thing in that direction. You're trying not to deviate too far from the path that you want to be on, but you're going to have to that to some degree.",
+      "textZh": "埃隆·马斯克：嗯，只有很小一部分心智能量会放在大局上。就像你知道自己大体要往哪里走，而实际路径会是朝那个方向曲折前进的某种路线。你会努力不让自己过度偏离想走的道路，但在某种程度上，你将不得不那样。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "But I don't want to diminish the-- I think the profit motive is a good one, if the rules of an industry are properly set up. So there's nothing fundamentally wrong with profit. In fact, profit just means that people are paying you more for whatever you're doing than you're spending to create it. That's a good thing. And if that's not the case, then you'll be out of business. And rightfully so. Because you're not adding enough value.",
+      "textZh": "但我不想贬低——我认为，如果一个行业的规则设置得当，利润动机就是一种好的动机。所以利润从根本上说并没有什么问题。事实上，利润只意味着，对于你所做的事情，人们支付给你的钱比你为创造它而支出的钱更多。这是件好事。如果情况不是这样，你就会倒闭。而且理应如此。因为你没有创造足够的价值。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "Now there are cases, of course, where people will do bad things in order to achieve profit, but that's actually quite unusual. Because usually the rules are set up mostly correctly. Like not completely, but mostly correctly. SAL KHAN: I think we have time for one more question. Joel. JOEL: Yeah, I have an important one. SAL KHAN: OK, very good. Yes, please. SPEAKER 3: No.",
+      "textZh": "当然，也有一些情况下，人们会为了获利而做坏事，但那其实相当少见。因为规则通常大体上设置得是正确的。不是完全正确，但大体上正确。萨尔·可汗：我想我们还有时间再问一个问题。乔尔。乔尔：是的，我有一个重要的问题。萨尔·可汗：好的，非常好。请讲。说话人3：不。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "JOEL: OK, so few months ago, you teased Hyperloop, and we haven't heard anything since. So, first of all, a few of us engineers were talking about it, and I think we have a few ideas, if you need help. But, if you feel comfortable, maybe you could tell us a little bit more. ELON MUSK: I was reading about the California high-speed rail, and it was quite depressing.",
+      "textZh": "乔尔：好的，几个月前，你透露了一点超级高铁的消息，此后我们就什么也没听到了。所以，首先，我们几个工程师讨论过这件事，我想如果你需要帮助，我们有一些想法。不过，如果你觉得方便，也许可以再给我们讲一点。埃隆·马斯克：我当时在阅读有关加州高铁的资料，感觉相当沮丧。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "Because California taxpayers are going to be on the hook to build the most expensive high-speed rail per mile in the world-- and the slowest. Those are not the superlatives you want. And, it's like, damn, we're in California, we make super high-tech stuff. Why are we going to be spending-- now the estimates are around $100 billion-- for something that will take two hours to go from LA to San Francisco?",
+      "textZh": "因为加州纳税人将不得不承担费用，修建全世界每英里造价最高的高铁——同时也是最慢的。这些可不是你想要的“世界之最”。而且，就像，该死，我们身处加州，我们制造超级高科技的东西。为什么我们要花费——目前估算约为1000亿美元——去造一个从洛杉矶到旧金山要花2小时的东西？"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "I'm like, OK, well, I can get on a plane and do that it 45 minutes. It doesn't make much sense. And isn't there some better way to do it than that. So if you just say, OK, well what would you ideally want in a transportation system?",
+      "textZh": "我就想，好吧，那我可以坐飞机过去，用45分钟做那件事。这不太说得通。难道没有比那更好的办法吗。所以，如果你只是说，好吧，理想情况下，你希望交通系统是什么样的？"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "You'd say, OK, well you'd want something that relative to existing modes of transportation is faster-- let's say twice as fast-- costs half as much per ticket, can't crash, is immune to weather, and is-- you can make the whole thing like self-powering with like solar panels or something like that. That would be pretty-- SAL KHAN: That would be great, yes. ELON MUSK: --a good outcome. And so what would do that?",
+      "textZh": "你会说，好吧，你想要一种相对于现有交通方式更快的东西——比如说快1倍——每张票的价格低一半，不会撞毁，不受天气影响，而且——你可以用太阳能板之类的东西让整个系统自行供能。那会相当——萨尔·可汗：那会很棒，是的。埃隆·马斯克：——是一个不错的结果。那么，什么能做到这些？"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "And what's the fastest way short of inventing teleportation that you could do something like that? And some of the elements of that solution are fairly obvious, and some of them are not so obvious. And then the details-- the devil's in the details of actually making something like that work. But I came to the conclusion that there is something like that that could work. And would be practical. SAL KHAN: Is this around the evacuated tubes?",
+      "textZh": "除非发明瞬间传送，否则能实现这类事情的最快方式是什么？这个解决方案的一些要素相当明显，另一些则没那么明显。然后是细节——真正让这种东西运转起来，魔鬼就在细节中。但我得出的结论是，确实存在某种这样的东西，能够运转。而且是切实可行的。萨尔·可汗：是围绕真空管道吗？"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "The vacuum tubes? Like the old bank-- ELON MUSK: It's something like that. SAL KHAN: But you haven't been more public with what this is? ELON MUSK: No. Although I did say that once Tesla was profitable that I would talk more about it. But, we haven't done our earnings call yet. So I think I'll probably do it after the earnings call. And the thing is I'm kind of strung out on things that I'm already doing.",
+      "textZh": "真空管？就像老式银行的——埃隆·马斯克：是类似那样的东西。萨尔·可汗：但你还没有更公开地说明这是什么？埃隆·马斯克：没有。不过我的确说过，一旦 Tesla 实现盈利，我就会多谈谈这件事。但我们还没有召开财报电话会议。所以我想我可能会在财报电话会议后公布。问题是，我已经被正在做的事情弄得有点精疲力竭。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "So adding another thing-- it's like doesn't-- it's a lot SAL KHAN: Learning the guitar You could pick up all sorts of things. ELON MUSK: Right. I tried learning the violin. That's, by the way, a hard thing to learn. SAL KHAN: Yeah. Launching rockets, electric cars, revolutionizing transportation. Yeah, it's easy. ELON MUSK: I cannot play the violin at all. Very horrible.",
+      "textZh": "所以再增加一件事——这就像不——事情很多。萨尔·可汗：学吉他。你可以开始学各种东西。埃隆·马斯克：对。我试过学小提琴。顺便说一句，那是件很难学的事。萨尔·可汗：是啊。发射火箭、电动汽车、彻底改变交通运输。是啊，很容易。埃隆·马斯克：我根本不会拉小提琴。非常糟糕。"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "If you think about the future, you want a future that's better than the past, and so if we had something like the Hyperloop, I think that would be like cool. You'd look forward to the day that was working. And if something like that, even if it was only in one place-- from LA to San Francisco, or New York to DC or something like that-- then it would be cool enough that it would be like a tourist attraction. It would be like a ride or something.",
+      "textZh": "如果你思考未来，你会希望未来比过去更好，所以如果我们拥有超级高铁之类的东西，我认为那会很酷。你会期待它投入运行的那一天。而如果这样的东西，哪怕只在一个地方——从洛杉矶到旧金山，或者从纽约到华盛顿特区之类的地方——那它也会酷到足以成为旅游景点。它会像一种乘坐体验之类的东西。"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "So even if some of the initial assumptions didn't work out, the economics didn't work out quite as one expected, it would be cool enough that like, I want to journey to that place just to ride on that thing. That would be pretty cool. And so that's I think how-- if you come with a new technology, it should feel like that.",
+      "textZh": "所以，即便最初的一些假设没有实现，经济性没有完全像人们预期的那样奏效，它也会酷到让人觉得，我想专程去那个地方，只为了乘坐那个东西。那会相当酷。所以我认为，如果你推出一种新技术，它就应该给人这种感觉。"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "You should really-- if you told it to an objective person, would they look forward to the day that that thing became available. And it would be pretty exciting to do something like that. Or an aircraft. Like I thought it was really disappointing when the Concorde was taking out of commission, and there was no supersonic transport available. And of course the 787 has had some issues.",
+      "textZh": "你真的应该——如果你把它告诉一个客观的人，他们会期待那样东西问世的那一天吗？做这样的事会相当令人兴奋。或者飞机。比如，我认为协和式客机退役，而又没有超音速运输工具可用，真的很令人失望。当然，787也遇到了一些问题。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "But the thing is, the 787 even in the best case scenario is only a slightly better version of the 777. And it's like, OK, not that exciting. SAL KHAN: So this is something that you are working on? ELON MUSK: I wouldn't say working on it. SAL KHAN: And one day in the not-too-far future-- or there's some plans or consultants involved or something? SPEAKER 4: You called Russia. SAL KHAN: You made some phone calls to Russia.",
+      "textZh": "但问题在于，即便在最理想的情况下，787也只是777的一个略好版本。就像，好吧，没那么令人兴奋。萨尔·可汗：所以这是你正在研究的东西？埃隆·马斯克：我不会说自己正在研究它。萨尔·可汗：在不太遥远的未来某一天——或者已经有一些计划或顾问参与其中之类的吗？说话人4：你给俄罗斯打过电话。萨尔·可汗：你给俄罗斯打过几通电话。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "ELON MUSK: No, every now and then, it's percolating away. I'm not actually thinking about it. But then they'll be some new element of that I'll think of. Oh, this would make it better. SAL KHAN: Fascinating. Well, I think I'm speaking for everyone. This is like the most epic possible conversation one could have over about the course of an hour. And I think all of us would love to chat with you for hours on end, but thank you so much.",
+      "textZh": "埃隆·马斯克：没有，它只是每隔一段时间就在慢慢酝酿。我其实并没有在思考它。但之后我会想到其中的某个新要素。噢，这会让它变得更好。萨尔·可汗：太精彩了。嗯，我想我代表了在场所有人。这大概是人们在约1小时里所能进行的最精彩绝伦的对话。我想我们所有人都愿意连续和你聊上几个小时，但还是非常感谢你。"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "I know you have a lot of free time, so it probably wasn't that big of a deal for you to come here. But, it was a huge honor. And I think it's inspired all of us to go out and change the world and the universe. ELON MUSK: Cool. All right. SAL KHAN: Thank you very much. [APPLAUSE]",
+      "textZh": "我知道你有很多空闲时间，所以来这里对你而言可能不算什么大事。但这是一份莫大的荣幸。我认为，这激励了我们所有人走出去，改变世界和宇宙。埃隆·马斯克：酷。好的。萨尔·可汗：非常感谢。[掌声]"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T05:31:43.480Z",
+    "reviewedAt": "2026-09-13T05:54:00.814Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:21.530Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=vDwzmJpI4io",
+  "sourceHash": "16e7b06e2e2bfded5d428f47507174199028916ebe7b299dc6b90bb2f898c997"
+}

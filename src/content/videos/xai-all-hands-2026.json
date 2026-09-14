@@ -1,0 +1,1182 @@
+{
+  "id": "xai-all-hands-2026",
+  "slug": "xai-all-hands-2026",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2026-02-10",
+  "titleEn": "xAI All-Hands",
+  "titleZh": "xAI 全员大会",
+  "summaryEn": "In a rare public all-hands, Elon Musk lays out xAI's new structure — Grok, Coding, Imagine and Macrohard — the Grok roadmap toward AGI, and the company's long-term interplanetary ambitions.",
+  "summaryZh": "在一次罕见的公开全员大会上，埃隆·马斯克阐述了 xAI 的新架构——Grok、编程、Imagine 和 Macrohard——Grok 通往 AGI 的路线图，以及公司的长期行星际雄心。",
+  "sourceUrl": "https://www.youtube.com/watch?v=HD_SiJDWPcQ",
+  "sourceLabel": "xAI",
+  "archiveUrl": "https://elonmuskarchive.org/video/xai-all-hands-2026",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/HD_SiJDWPcQ",
+  "thumbnailUrl": "https://i.ytimg.com/vi/HD_SiJDWPcQ/hqdefault.jpg",
+  "org": "xAI",
+  "durationSec": 2747,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 0.64,
+      "textEn": "Welcome to the XAI all hands. We've got a very exciting presentation for you. We're going to start off by recapping the incredible progress that the XAI team has made in just two and a half years. It's really remarkable in pursuit of our goal of understanding the universe. So just going over our accomplishments since inception, it's important to bear in mind that XAI is only two and a half years old, basically a toddler, and we've nonetheless achieved an incredible amount in a very short period of time.",
+      "textZh": "欢迎参加 xAI 全员大会。我们为大家准备了一场非常令人兴奋的演示。首先，我们将回顾 xAI 团队在短短2年半里取得的惊人进展。为了实现我们理解宇宙的目标，这确实非常了不起。回顾一下我们自创立以来取得的成就，必须记住，xAI 只有2年半的历史，基本上还是个蹒跚学步的幼儿，但尽管如此，我们还是在极短的时间内取得了数量惊人的成就。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 34.69,
+      "textEn": "So our competitors are 5, 10, some cases 20 years old. They have much larger teams, they started off with far more resources, and yet nonetheless we have achieved number one in many arenas in just a few years. So we've achieved number one in voice, in image and video generation. I think we now at this point are actually generating more images and video, based on the last numbers I saw, than all of our competitors combined.",
+      "textZh": "我们的竞争对手已经成立了5年、10年，有些甚至20年。他们的团队规模大得多，起步时拥有的资源也多得多，然而尽管如此，我们仅用几年时间就在许多领域做到了第一。我们在语音、图像和视频生成方面都做到了第一。根据我最近看到的数据，我认为到目前为止，我们现在生成的图像和视频实际上比所有竞争对手加起来还要多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 70.56,
+      "textEn": "We are winning in terms of forecasting, which is one of the key metrics of intelligence. So the Grok 420 forecasting model beat all the other AIs in forecasting.",
+      "textZh": "我们在预测方面处于领先地位，而预测是衡量智能的关键指标之一。Grok 420 预测模型在预测方面击败了所有其他 AI。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 84.63,
+      "textEn": "And we've talked many leaderboards. We've got now a great app with Imagine with the core Grok, we've made radical improvements to the X app and we've launched a Grokipedia which is on its way to far exceeding Wikipedia. And ultimately the orders of magnitude are more comprehensive and more accurate and have more information as well as video and image data that simply isn't there on Wikipedia. So it's intended ultimately to be Encyclopedia Galactica, a distillation of all knowledge, of all knowledge, and were the first to achieve 100,000 H100 GPU training cluster.",
+      "textZh": "而且我们谈过许多排行榜。我们现在有了一款很棒的应用，其中有 Imagine 和核心 Grok；我们对 X 应用进行了彻底改进，还推出了 Grokipedia，它正在大幅超越 Wikipedia 的路上。最终，它在数量级上会更加全面、更加准确，拥有更多信息以及视频和图像数据，而这些在 Wikipedia 上根本不存在。因此，它最终旨在成为《银河百科全书》，成为一切知识、一切知识的浓缩，而且我们率先建成了拥有100,000块 H100 GPU 的训练集群。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 138.43,
+      "textEn": "And we're now about to achieve the first hundred, I should say 1 million H100 GPU equivalents in training. So really an incredible amount of work in a very short period of time. And it's important to consider for competitiveness of any technology company, what matters is not the position at any point in time, but what is your velocity and acceleration. And if you're moving faster than anyone else in any given technology arena, you will be the leader.",
+      "textZh": "而现在，我们即将在训练方面率先达到100，我应该说是1,000,000块 H100 GPU 等效算力。因此，我们确实在极短时间内完成了数量惊人的工作。对于任何科技公司的竞争力而言，有一点很重要：重要的不是任何时刻所处的位置，而是你的速度和加速度。如果你在任何特定技术领域都比其他任何人前进得更快，你就会成为领导者。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 172.519,
+      "textEn": "And XAI is moving faster than any other company. No one's even close. So let's go to our team.",
+      "textZh": "而 xAI 比其他任何公司前进得都快。没有谁能接近。下面有请我们的团队。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 181,
+      "textEn": "As we grow as a company, a natural thing that happens is you reorganize the company as it scales up. So when you first have a startup, you might have just a few dozen people and they all just chat amongst themselves. As you grow to several Hundred people. You have to then add more structure. Just like an organism that grows from a single. Like we all just grew from a single cell and then to a blob of cells. Then you get organ differentiation, limbs.",
+      "textZh": "随着公司的发展，一件自然而然会发生的事，就是在公司扩大规模时对其进行重组。刚创办一家初创公司时，你可能只有几十个人，大家彼此交谈。等你发展到几百人。接着就必须增加更多架构。就像一个生物体从单一的东西开始生长。比如我们所有人都是从单个细胞生长而来，然后变成一团细胞。之后就会出现器官分化、四肢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 210.85,
+      "textEn": "You grow a tail, hopefully the tail disappears and then you become a baby. You go through these stages. And so we're organizing, because we've reached a certain scale, we're organizing the company to be more effective at this scale. Now, naturally, when this happens, there's some people who are better suited for the early stages of the company and less suited for the later stages. And so for the people that have departed, I'd just like to say thank you for a kind of contribution.",
+      "textZh": "你会长出一条尾巴，希望这条尾巴会消失，然后你会成为一个婴儿。你会经历这些阶段。因此，由于我们已经达到一定规模，我们正在进行组织调整，让公司在这个规模下更加高效。当然，当这种情况发生时，有些人更适合公司的早期阶段，不那么适合后期阶段。因此，对于已经离开的人，我只想说，感谢你们作出的一种贡献。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 245.49,
+      "textEn": "Thank you for getting us this far and we wish you very well in your future endeavors. So now going on to the new structure of the company. The company is organized in four main application areas. There's, there's Grok Main and Voice, which is really the main Grok model. That's why it's called Grok Main. Then there's a coding specific model, there's an image and video model which is Imagine, and then Macro Hard, which is intended to do full digital emulation of entire companies.",
+      "textZh": "感谢你们帮助我们走到今天，我们祝愿你们未来一切顺利。下面介绍公司的新架构。公司围绕4个主要应用领域进行组织。包括，包括 Grok Main 和 Voice，这实际上就是主 Grok 模型。这就是它被称为 Grok Main 的原因。然后是一个编程专用模型、一个名为 Imagine 的图像和视频模型，以及旨在对整个公司进行完整数字化模拟的 Macro Hard。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 279.459,
+      "textEn": "And then we've got the infrastructure layers. So I'd like to invite members of the team to come up and talk about each of their areas.",
+      "textZh": "然后我们还有基础设施层。下面我想邀请团队成员上台，分别介绍各自负责的领域。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "xAI Team",
+      "startSec": 295.23,
+      "textEn": "Hey, thanks, Elon. So Grok Main and Voice are going to be merged into one team. And you know, on voice one anecdote is September 2024. OpenAI had this product you could talk to advanced voice mode. And we had nothing. No model, of course, no product. We started much after that and in a span of few months, six months, we developed a model in house from scratch, without a bunch of people who knew audio and had a product that was surpassing OpenAI in six months.",
+      "textZh": "嘿，谢谢，埃隆。Grok Main 和 Voice 将合并成一个团队。说到语音，有这样一件事：2024年9月，OpenAI 有一款产品，你可以与高级语音模式交谈。而我们什么都没有。当然，没有模型，也没有产品。我们开始得晚得多，却在几个月内，也就是6个月内，在公司内部从零开发出一个模型，而且没有一大群懂音频的人，并在6个月内推出了一款超越 OpenAI 的产品。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "xAI Team",
+      "startSec": 324.15,
+      "textEn": "Fast forward six more months. And now we have Grok in more than 2 million Teslas. We have a GROQ voice agent API. You can do all kinds of amazing things. In a span of one year, we went from nothing to being leaders. That kind of stuff is only possible in a place like xci. We have small teams, committed, mission focused, lots of compute, and we really, really want to keep pushing same story on the chat models. You know, we've always been at the forefront of reasoning, starting from Grok 1.5, Grok 2, Grok 3, and we want to really move to a world where it's no longer about just question answering.",
+      "textZh": "再快进6个月。现在，超过2,000,000辆 Tesla 中已经搭载了 Grok。我们有一个 GROQ 语音智能体 API。你可以做各种令人惊叹的事情。在1年时间里，我们从一无所有变成了领导者。这种事情只有在 xci 这样的地方才有可能。我们的团队规模小、全心投入、专注使命，拥有大量算力，而且我们真的、真的希望继续推进；聊天模型也是同样的故事。你知道，从 Grok 1.5、Grok 2、Grok 3 开始，我们一直处于推理领域的最前沿，而我们真的希望迈向一个不再只是回答问题的世界。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "xAI Team",
+      "startSec": 357.87,
+      "textEn": "We want to build an everything app.",
+      "textZh": "我们想打造一款万能应用。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 359.43,
+      "textEn": "So you should be able to come",
+      "textZh": "所以你应该能够来到",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "xAI Team",
+      "startSec": 360.39,
+      "textEn": "to it and really get done whatever you want. You know, ask a legal question, make a slide deck or, you know, solve",
+      "textZh": "它这里，并真正完成你想做的任何事。你知道，问一个法律问题、制作一套幻灯片，或者，你知道，解决",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Ashdeep (xAI)",
+      "startSec": 367.26,
+      "textEn": "a puzzle, stuff like that.",
+      "textZh": "一个谜题，诸如此类的事。",
+      "speakerZh": "阿什迪普（xAI）"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Godon (xAI)",
+      "startSec": 369.06,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "戈登（xAI）"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "xAI Team",
+      "startSec": 369.5,
+      "textEn": "So I really think on the product side, we're really going to see a huge transformation happening in a very short period of time. We're going to see work, the magnitude of amount of work that all knowledge workers are going to be able to produce increase tenfold in the next short period of a few months. The models that we are building out are incredibly amazing, and we have a lot on the way and we're really excited to share that with, with you all.",
+      "textZh": "所以我确实认为，在产品方面，我们真的会在极短时间内看到一场巨大的变革。未来短短几个月内，我们将看到工作，所有知识工作者能够产出的工作量级增至原来的10倍。我们正在构建的模型令人难以置信地惊艳，而且还有很多正在路上，我们非常期待与、与大家分享。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "xAI Team",
+      "startSec": 394.37,
+      "textEn": "And on the product side, the goal is to just build that portal that allows you to accomplish all of your work. And how do we amplify everyone to achieve much, much more than what they can accomplish alone? And we're building that out and it's going to be an incredibly easy to use experience that just works seamlessly.",
+      "textZh": "在产品方面，目标就是打造那个能让你完成全部工作的平台。我们要如何增强每个人的能力，让大家取得远远超出独自所能取得的成果？我们正在构建它，而它将成为一种极其易用、能够无缝运行的体验。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "xAI Team",
+      "startSec": 413.65,
+      "textEn": "That being said, we are hiring and we're looking for intelligent and smart people. This is not an easy place to work, guys.",
+      "textZh": "话虽如此，我们正在招聘，也在寻找聪明且机智的人。各位，这里可不是个轻松的工作场所。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Pranjal (xAI)",
+      "startSec": 419.33,
+      "textEn": "This is.",
+      "textZh": "这是。",
+      "speakerZh": "普兰贾尔（xAI）"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "xAI Team",
+      "startSec": 420.81,
+      "textEn": "It's a grind. But we have, I guess, like, interstellar ambitions, so it's not going to be easy. Right. So I will say, having come to xai, it has been an opportunity of a lifetime to work among really smart and really passionate people. The vibes here are amazing. And it's truly an environment where if you're a smart person and you want to get shit done, you can get shit done. There isn't like, organizational overhead getting your way or kind of, I don't know, like having to write docs and all this kind of stuff.",
+      "textZh": "这是一场苦干。但我想，我们有类似星际级别的雄心，所以这不会容易。对吧。所以我想说，来到 xAI 之后，能与真正聪明、真正富有热情的人共事，是一生难得的机会。这里的氛围非常棒。这里确实是这样一种环境：如果你是个聪明人，并且想把该死的事情做成，你就能把该死的事情做成。不会有那种组织层面的负担挡你的路，也不用，怎么说呢，比如不得不写文档以及所有这类东西。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "xAI Team",
+      "startSec": 451.79,
+      "textEn": "You just do stuff. At least for me, I just, you know, just, you can do things here, and that's amazing. And I invite more people to come here and just do awesome things.",
+      "textZh": "你直接做事就行。至少对我而言，我只是，你知道，只是，你可以在这里做事情，这太棒了。我也邀请更多人来到这里，直接去做了不起的事情。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Lian Min (xAI)",
+      "startSec": 462.99,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "连敏（xAI）"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 463.63,
+      "textEn": "So with the GROK main, the sort of main foundation model, the intent is that it's. It's genuinely useful in a wide range of areas. So if you're doing engineering or law or medicine, anything, it is useful to you in your job. That's essential to understanding the universe and making things as useful as possible. Like when GROK gives you an answer that you can count on it. Yep, absolutely.",
+      "textZh": "所以，对于 Grok 主模型，也就是主要的基础模型，其意图是，它。它确实能在广泛的领域发挥作用。所以，如果你从事工程、法律或医学，任何事情，它都能在你的工作中对你有用。这对于理解宇宙以及让事物尽可能有用至关重要。比如，当 Grok 给你一个答案时，你可以信赖它。是的，绝对如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "xAI Team",
+      "startSec": 494.63,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 495.07,
+      "textEn": "All right, thank you.",
+      "textZh": "好的，谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "xAI Team",
+      "startSec": 495.95,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Makro (xAI)",
+      "startSec": 504.93,
+      "textEn": "Hey, everybody. I'm Makro. So the world changed a lot recently in terms of coding. The coding models. I was always complaining people were trying to convince me to use a coding model and I was, like, testing it and I wasn't really convinced. But as of recently, the models, they actually produce good, decent quality code. I mean, you still need to review and give feedback. But you, you can, it's easy to see how they can accelerate you quite a lot.",
+      "textZh": "嘿，各位。我是 Makro。所以最近世界在编程方面发生了很大变化。那些编程模型。我过去总是在抱怨，人们一直试图说服我使用编程模型，而我就，像，在测试它，但我并没有真正被说服。但就在最近，这些模型实际上能生成质量良好、像样的代码。我的意思是，你仍然需要审查并提供反馈。但你，你可以，很容易看出它们能如何让你的速度大幅提升。",
+      "speakerZh": "Makro（xAI）"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Makro (xAI)",
+      "startSec": 531.98,
+      "textEn": "So it's not only about coding. It's like they understand your intuition like much better than before. Like now when I describe a problem, I only have to phrase it like I would to another colleague engineer who has already seen the code base. That's a huge change. Before, you kind of need to handhold a toddler to make a change. And they don't only write your code, but they also can debug your code. So now we have, I do like what we do like hours of GROK code running continuously to make sure that more complex change to the training system actually works in production.",
+      "textZh": "所以这不只是关于编程。就像是，它们对你的直觉的理解比以前好得多。比如现在，当我描述一个问题时，我只需要像对另一位已经看过代码库的工程师同事那样表述就行了。这是一个巨大的变化。以前，你在进行修改时有点需要手把手带着一个蹒跚学步的孩子。而且它们不只是编写你的代码，也能调试你的代码。所以现在我们有，我确实喜欢我们所做的，就像让 Grok 代码连续运行数小时，以确保对训练系统所做的更复杂修改确实能在生产环境中运行。",
+      "speakerZh": "Makro（xAI）"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Makro (xAI)",
+      "startSec": 568.67,
+      "textEn": "So it's easy to see for us that this is not only about accelerating ourselves, writing code and making us 10x more productive, but we are really on this path for recursive self improvement. Where the current generation of GROK code is, is training the next generation of CROC code and we see that this path on an exponential takeoff here, this path will continue. So we are doubling down on coding and making coding one of the highest priority efforts in the company.",
+      "textZh": "所以对我们来说，很容易看出，这不只是加快我们自己的速度、编写代码并让我们的生产力达到原来的10倍，而是我们确实正走在递归式自我改进的道路上。当前这一代 Grok 代码正在，正在训练下一代 CROC 代码，而我们看到这条道路在这里呈指数式起飞，这条道路将会继续。所以我们正在加倍投入编程，并将编程列为公司优先级最高的工作之一。",
+      "speakerZh": "Makro（xAI）"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Makro (xAI)",
+      "startSec": 595.53,
+      "textEn": "So if you're out there and you're excited about coding and you're either either very good at training, modeling or you're a really good low level software engineer, interesting in systems design, this is the place to work. Like we have a million H100 equivalents to train the best coding metal in the world right now. So please join us.",
+      "textZh": "所以，如果你在那里，对编程感到兴奋，而且你要么要么非常擅长训练、建模，或者你是一名非常优秀的底层软件工程师，对系统设计感兴趣，这里就是工作的地方。比如，我们现在有相当于 100 万块 H100 的算力，用来训练世界上最好的编程金属。所以请加入我们。",
+      "speakerZh": "Makro（xAI）"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Godon (xAI)",
+      "startSec": 618.67,
+      "textEn": "Yeah, I'm Godon, I work paired with Macro on coding. So it become more and more obvious to us like you know, all the time, like we are on a path to singularity at least on coding. So we decided like, you know, have our best engineer in the company, Macro to lead the coding. And we have built the best coding model for everyone, to empower everyone to build. And for me like the main limiting factor is probably compute energy, where they can run the best model to support everyone, to empower everyone.",
+      "textZh": "是的，我是 Godon，我和 Macro 搭档做编程工作。所以，对我们来说，这一点变得越来越明显，就是你知道，一直以来，我们正走在一条通往奇点的道路上，至少在编程方面如此。所以我们决定，就是，你知道，让公司里最优秀的工程师 Macro 来领导编程工作。我们已经为所有人打造了最好的编程模型，让每个人都有能力进行构建。而对我来说，主要的限制因素可能是算力能源，也就是他们可以在哪里运行最好的模型来支持每个人，让每个人都获得能力。",
+      "speakerZh": "Godon（xAI）"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Godon (xAI)",
+      "startSec": 648.51,
+      "textEn": "And with SpaceX now we are one team and we will win on the compute and we are winning with space compute and also for every engineer. Right. So if you are like writing kernel, if you're writing compiler, just think about whether it's still worth it. Maybe you should join us, you know, for coding effort, to automate it yourself a little bit, like to speed it yourself up. Yeah, I think it's like really amazing year basically what a year to be alive and I can already feel the AGI.",
+      "textZh": "而现在有了 SpaceX，我们就是一个团队，我们将在算力方面取胜，我们正在凭借太空算力取胜，也为了每一位工程师。对吧。所以，如果你在编写内核，如果你在编写编译器，那就想想这是否仍然值得。也许你应该加入我们，你知道，参与编程工作，稍微把它自动化一下，比如让自己加快速度。是的，我觉得这基本上真的是不可思议的一年，活着见证这一年真是太好了，而且我已经能感受到 AGI 了。",
+      "speakerZh": "Godon（xAI）"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Godon (xAI)",
+      "startSec": 678.33,
+      "textEn": "Feel the AGI, at least for coding.",
+      "textZh": "感受 AGI，至少在编程方面。",
+      "speakerZh": "Godon（xAI）"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 680.01,
+      "textEn": "Yeah, yeah. I think actually things will move maybe even by the end of this year to where you don't even bother doing coding. The AI just creates the binary directly and the AI can create a much more efficient binary than can be done by any compiler. So just say create optimized binary for this particular outcome and you actually bypass even traditional coding. That's an intermediate step that actually will not be needed probably by, I'd say the end of this year.",
+      "textZh": "是的，是的。其实我认为，事情也许甚至会在今年年底前发展到你根本不必费心编程的地步。AI 会直接创建二进制文件，而且 AI 可以创建出比任何编译器所能生成的都高效得多的二进制文件。所以只要说，为这个特定结果创建优化后的二进制文件，你实际上甚至绕过了传统编程。那是一个中间步骤，而实际上大概到，我想说今年年底，就不再需要了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 718.49,
+      "textEn": "And we do expect GROK code to be state of the art in two to three months. So it's happening very quickly.",
+      "textZh": "而且我们确实预计 Grok code 会在2到3个月内达到最先进水平。所以这一切发生得非常快。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "xAI Team",
+      "startSec": 727.58,
+      "textEn": "Yeah,",
+      "textZh": "是的，",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Godon (xAI)",
+      "startSec": 735.42,
+      "textEn": "Yeah. Also do Imagine. So, you know, I mean, what do we all do right after post AGI? Right. You probably do like digital life. So that's what we are doing here as well. And we have the Imagine team, like started pretty much from scratch like six months ago. We have a few people. We decided we have to do the image gen, we'll do the video gen. Like, yeah, look at what we achieved today. Like, you know, like two weeks ago we released like Imagine V1.",
+      "textZh": "是的。也做 Imagine。所以，你知道，我是说，在 AGI 之后，我们大家会马上做什么？对吧。你可能会做类似数字生命的东西。所以这也是我们在这里做的事情。而且我们有 Imagine 团队，差不多是在6个月前从零开始的。我们只有几个人。我们决定必须做图像生成，我们会做视频生成。比如，是的，看看我们今天取得了什么成果。比如，你知道，就在2周前，我们发布了 Imagine V1。",
+      "speakerZh": "Godon（xAI）"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Godon (xAI)",
+      "startSec": 760.04,
+      "textEn": "We actually top a leaderboard across like many of them and people really love our product, love our model. And we have many more releases actually this month and next month. So yeah, to me there's like a very high chance, like we actually may build a metaverse before meta.",
+      "textZh": "实际上，我们在许多排行榜中都登上了榜首，人们真的很喜欢我们的产品，也喜欢我们的模型。而且实际上，我们这个月和下个月还会发布更多版本。所以，是的，对我来说，有非常高的概率，比如我们实际上可能会在 Meta 之前构建出一个元宇宙。",
+      "speakerZh": "Godon（xAI）"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Godon (xAI)",
+      "startSec": 780.24,
+      "textEn": "Yeah. I'll also pass to try to talk about like, you know, the metrics. We have the product.",
+      "textZh": "是的。我也会交给 try 来谈谈，比如，你知道，那些指标。我们有这个产品。",
+      "speakerZh": "Godon（xAI）"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 785.28,
+      "textEn": "Yeah, yeah.",
+      "textZh": "是的，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "xAI Team",
+      "startSec": 786.4,
+      "textEn": "Like Godong said, it's only been six months since we started working on Imagine. We had no code internally for diffusion at all six months ago. And basically now we've launched Imagen on every product surface that we have, including seamlessly integrating into X. So you can open the X app right now, you can long press on any image, you can edit the image, you can make a video out of the image. We also ran a contest recently where we had some really funny submissions that I'm sure many of you have seen.",
+      "textZh": "正如 Godong 所说，从我们开始开发 Imagine 到现在才6个月。6个月前，我们内部完全没有任何用于扩散模型的代码。而现在，基本上我们已经在所有产品界面上推出了 Imagen，包括将它无缝集成到 X 中。所以你现在可以打开 X 应用，长按任何图像，就可以编辑图像，也可以用这张图像制作视频。我们最近还举办了一场比赛，收到了一些非常有趣的投稿，我相信你们很多人都看过。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "xAI Team",
+      "startSec": 812.41,
+      "textEn": "So Imagine is growing extremely, extremely fast. And it's because of the speed at which we iterate. Basically we do multiple product updates every day, we do model updates every other week. And effectively what this has led to is now users are generating close to 50 million videos every day using Imagen. And just to reiterate what Elon said earlier, that to the best of our knowledge, that is more than every other provider combined with which again is an astonishing place to be compared to where we were six months ago.",
+      "textZh": "所以 Imagine 正在以极其、极其快的速度增长。这是因为我们的迭代速度。基本上，我们每天都会进行多次产品更新，每隔1周进行一次模型更新。而这实际上带来的结果是，现在用户每天使用 Imagen 生成接近5000万个视频。再重申一下埃隆之前所说的，据我们所知，这比其他所有提供商加起来还要多，而与6个月前所处的位置相比，这又是一个令人震惊的处境。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "xAI Team",
+      "startSec": 838.65,
+      "textEn": "We are also generating 6 billion images in the last 30 days.",
+      "textZh": "过去30天里，我们还生成了60亿张图像。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "xAI Team",
+      "startSec": 843.93,
+      "textEn": "Google recently posted that 1 billion images were generated using Nano Banana in 30 days. So we're six times that. And really the goal is we don't just want to win. We want to win over a long period of time and have sustained greatness. And so the goal with Imagine is to take anything that you can imagine and turn it into reality. And so that's what we are going to. We're going to speed run. That basically is the goal.",
+      "textZh": "Google 最近发帖称，30 天内使用 Nano Banana 生成了 10 亿张图像。所以我们是它的 6 倍。而且真正的目标是，我们不只是想赢。我们想在很长一段时间里持续获胜，并保持长久的卓越。因此，Imagine 的目标是把你能想象到的任何东西变成现实。所以这就是我们要去做的。我们要快速推进。这基本上就是目标。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "xAI Team",
+      "startSec": 870.18,
+      "textEn": "Yeah. Hey, I'm hatin. As we keep scaling our model capabilities, building visual worlds that's indistinguishable from reality, we're also building systems that unlocks much more possibility than what we have right now. They will be able to generate the videos that's much longer than what we have right now with stories or with souls of your imagine. And by the end of the year we likely will be having models that allow you to generate videos of 10 minutes or 20 minutes in one shot without any intervention.",
+      "textZh": "是的。嘿，我是哈廷。随着我们不断扩展模型能力，构建与现实无法区分的视觉世界，我们也在构建能够解锁远超现有可能性的系统。它们将能够生成比我们现在拥有的长得多的视频，带有故事，或带有你想象中的灵魂。到今年年底，我们很可能会有能够让你一次生成 10 分钟或 20 分钟视频的模型，无需任何干预。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "xAI Team",
+      "startSec": 907.08,
+      "textEn": "You just need to give your imagination and our model, our agents will do it for you. And, and moreover, those are the videos we generate and we're also going to allow rendering those. We're already the fastest in generating the videos and we're going to keep pushing the extreme where we're going to render those videos in real time and you will be able to imagine, build and interact with your own world and the world will respond to you in real time.",
+      "textZh": "你只需要给出你的想象，我们的模型、我们的智能体就会替你完成。而且，而且更进一步，那些是我们生成的视频，我们还将允许渲染它们。我们在视频生成方面已经是最快的，我们还会继续把它推向极致，实时渲染那些视频，而你将能够想象、构建你自己的世界并与之互动，这个世界会实时回应你。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "xAI Team",
+      "startSec": 937.49,
+      "textEn": "And it is exciting future that we are going to build with ourselves.",
+      "textZh": "而这是我们将与自己一起构建的激动人心的未来。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 942.87,
+      "textEn": "Absolutely. My prediction is that most of AI compute is going to be real time video understanding and real time video generation. And we expect to be the leads in that. It's worth emphasizing these points that,",
+      "textZh": "当然。我的预测是，大部分 AI 算力将用于实时视频理解和实时视频生成。而我们预计会成为这方面的领先者。值得强调这些要点，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "xAI Team",
+      "startSec": 959.91,
+      "textEn": "you",
+      "textZh": "你",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 960.19,
+      "textEn": "know, six months ago we didn't even have. We had basically nothing in very weak in video and image generation and editing and went in six months to number one spot and in fact generating more videos and images than everyone else combined. We're going to do the same thing with coding and we're going to do the same thing with macro hard. And I think people will be pretty impressed with the Grok 4.2 model that's coming out.",
+      "textZh": "知道，6 个月前我们甚至都没有。我们在视频和图像生成及编辑方面基本上一无所有，而且非常弱，却在 6 个月内跃居第一，实际上生成的视频和图像比其他所有人加起来还多。我们会在编程方面做同样的事，也会在 macro hard 方面做同样的事。我认为，人们会对即将推出的 Grok 4.2 模型留下相当深刻的印象。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 988.86,
+      "textEn": "It's a significant improvement. And that's really just, that's the small version of our new model. So we'll have a medium and a large version that are even more intelligent.",
+      "textZh": "这是一次显著的提升。而那其实只是，那是我们新模型的小型版本。所以我们还会有中型和大型版本，它们会更加智能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 1010.73,
+      "textEn": "All right.",
+      "textZh": "好了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Toby (xAI)",
+      "startSec": 1011.85,
+      "textEn": "Hi everyone, I'm Toby and I work on macroheart, the most series of all product names. So arguably giving computers to humans was a good idea. So we're doing the same thing for AI. It's kind of like Inception, we're giving computers to computers. So macroheart is building a fully capable digital, real time, very important human emulator. So it's able to do anything on a computer that a human is able to do, including using advanced tools in engineering and medicine.",
+      "textZh": "大家好，我是 Toby，负责 macroheart，这是所有产品名称中最系列的一个。所以，可以说，把计算机交给人类是个好主意。因此，我们正在为 AI 做同样的事。这有点像《盗梦空间》，我们把计算机交给计算机。所以 macroheart 正在构建一个能力完备的数字化、实时的、非常重要的人类模拟器。因此，它能在人类可以做到的范围内，在计算机上完成任何事情，包括使用工程和医学领域的先进工具。",
+      "speakerZh": "Toby（xAI）"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Toby (xAI)",
+      "startSec": 1043.27,
+      "textEn": "So they should be rocket engines, fully designed by AI. And in a sense it's one of the last few remaining areas where AI is significantly worse than humans. Which is why I think it's one of the most exciting areas to actually innovate in and actually change, change the field.",
+      "textZh": "所以它们应该是完全由 AI 设计的火箭发动机。从某种意义上说，这是仅存的少数几个 AI 明显不如人类的领域之一。这就是为什么我认为，它是实际开展创新并真正改变、改变这个领域的最令人兴奋的领域之一。",
+      "speakerZh": "Toby（xAI）"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "John (xAI)",
+      "startSec": 1062.31,
+      "textEn": "Hi everyone. So, yeah, my name's John and yeah, so we're building these strong reasoning models which are now going to control our cli. Like we're actively using these every day. They are like tremendous, like productivity boost to the whole team. I know the voice team is like killing it on that. And you know, this is the reason why we need the compute, you know, we need the large scale compute to run these models to boost our own productivity.",
+      "textZh": "大家好。所以，是的，我叫 John，是的，我们正在构建这些强推理模型，它们现在将控制我们的 CLI。比如，我们每天都在积极使用这些模型。它们给整个团队带来了，比如，巨大的生产力提升。我知道语音团队在这方面，比如，做得非常出色。而且你知道，这就是我们需要算力的原因，你知道，我们需要大规模算力来运行这些模型，以提升我们自己的生产力。",
+      "speakerZh": "John（xAI）"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "John (xAI)",
+      "startSec": 1087.31,
+      "textEn": "But you know, 80 to 90, 95% of the world, world software has a GUI. So that's like, you know, great representation and you know, to truly make people's lives easier, we need to develop models that are capable of solving day to day tasks on gui.",
+      "textZh": "但你知道，世界上 80 到 90、95% 的软件都有 GUI。所以那就像是，你知道，很好的呈现方式，而且你知道，要真正让人们的生活更轻松，我们需要开发能够在 GUI 上解决日常任务的模型。",
+      "speakerZh": "John（xAI）"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "John (xAI)",
+      "startSec": 1107.05,
+      "textEn": "So macro hard, you know, we will emulate a company where the output is digital. So this is the obvious next step for agents. Macrohard will enable true end to end orchestration across the desktop and it will lead to immense economic prosperity.",
+      "textZh": "所以，Macrohard，你知道，我们将模拟一家产出为数字内容的公司。所以这是智能体显而易见的下一步。Macrohard 将实现真正的端到端桌面统筹，并将带来巨大的经济繁荣。",
+      "speakerZh": "John（xAI）"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "John (xAI)",
+      "startSec": 1125.96,
+      "textEn": "So yeah, we're entering an era where we need to tackle the hardest of tech problems. But in order to solve this, we need to hire the best people. So you know, think of the smartest people that you've worked with and put them forward for a position here. And if you can't think of anybody like go through your phone book, go for your LinkedIn, you'll be surprised like how big your actual network is. And they just need three properties obviously that we want to optimize for.",
+      "textZh": "所以，是的，我们正进入一个需要攻克最艰难技术问题的时代。但为了解决这个问题，我们需要聘用最优秀的人才。所以，你知道，想想你共事过的最聪明的人，推荐他们来这里应聘。如果你想不到任何人，那就翻翻你的通讯录，看看你的 LinkedIn，你会惊讶于自己实际的人脉网络有多大。而且很显然，他们只需要具备我们想要重点考察的3项特质。",
+      "speakerZh": "John（xAI）"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "John (xAI)",
+      "startSec": 1156.24,
+      "textEn": "Are they clever? Can they solve hard problems? And the second property is, are they driven? Do they have the ambition? Do they want to win? And the third is, are they a nice person? Like, do you want to actually work with them? But yeah, so thank you.",
+      "textZh": "他们聪明吗？他们能解决难题吗？第2项特质是，他们有驱动力吗？他们有雄心吗？他们想赢吗？第3项是，他们为人友善吗？比如，你真的愿意和他们共事吗？不过，是的，所以谢谢大家。",
+      "speakerZh": "John（xAI）"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 1173.92,
+      "textEn": "Yeah, the macquart project is over time Lecture will probably be our most important project because what we're talking about is emulation of entire human companies. So when you look at the most valuable companies in the world, they are, their output is digital so they don't actually make hardware. So it should be possible to completely emulate any company that where the output is digital and this will usher in an age of prosperity likes which we can barely imagine at this point.",
+      "textZh": "是的，macquart 项目随着时间推移，Lecture 可能会成为我们最重要的项目，因为我们谈论的是对整个人类公司的模拟。所以，当你审视世界上最有价值的公司时，它们，它们的产出是数字内容，因此它们实际上并不制造硬件。所以，应该有可能完全模拟任何一家产出为数字内容的公司，而这将开启一个繁荣时代，其盛况是我们目前几乎无法想象的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 1211.88,
+      "textEn": "You need imagine to imagine it.",
+      "textZh": "你需要 Imagine 来想象它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 1215.28,
+      "textEn": "So this is a big, this is a big deal. And this is why the words macro hard are painted on the roof of the training cluster, because that's what it's going to build.",
+      "textZh": "所以这是一件大事，这是一件大事。这就是为什么“macro hard”这几个词被漆在训练集群的屋顶上，因为那就是它将要构建的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 1226.56,
+      "textEn": "It's also pretty funny. Meant to be a joke.",
+      "textZh": "这也相当有趣。本来就是个玩笑。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "xAI Team",
+      "startSec": 1237.71,
+      "textEn": "It's me again.",
+      "textZh": "又是我。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Toby (xAI)",
+      "startSec": 1238.91,
+      "textEn": "You might remember me from MacroHub and computer use from a long time ago. But I also actually work on core product infrastructure and API. In fact, this is what I've done for most time at XAI. So anytime you use any of our products like grok.com, aPI authentication, you go to Status X AI. This is done by the core product Infra team and a large portion of them actually sit in London and we work with Jaime over there.",
+      "textZh": "你可能还记得很久以前我做过 MacroHub 和计算机使用。但实际上，我也负责核心产品基础设施和 API。事实上，这是我在 xAI 的大部分时间里一直在做的工作。所以，每当你使用我们的任何产品，比如 grok.com、API 身份验证，或者访问 Status xAI 时，这些都是由核心产品基础设施团队完成的，而其中很大一部分成员实际上坐在伦敦，我们和那边的海梅一起工作。",
+      "speakerZh": "托比（xAI）"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Toby (xAI)",
+      "startSec": 1264.89,
+      "textEn": "So we keep the lights on at peak hour, 4pm every day. We get paged at night when stuff goes down. Also thank you to anyone in Palo Alto getting paged. There's really important work, reliability, security, corporate infrastructure. So if you actually, if you're really interested in solving difficult distributed problems with like messy data, this is the team to join.",
+      "textZh": "所以，我们每天在高峰时段，也就是下午 4 点，维持系统正常运转。夜里出故障时，我们会收到寻呼通知。另外，也感谢帕洛阿尔托所有收到寻呼通知的人。这里有非常重要的工作，包括可靠性、安全性、企业基础设施。所以，如果你确实，如果你真的有兴趣解决那种涉及混乱数据的棘手分布式问题，这就是你该加入的团队。",
+      "speakerZh": "托比（xAI）"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Diego (xAI)",
+      "startSec": 1295.88,
+      "textEn": "Hey everyone, my name is Diego. Yeah, so I think one of the main bottlenecks in this next year for these models is going to be very high quality evals and training data. And one of the ways we've solved that is by taking the world's foremost experts in these respective domains, bringing them here and having them evaluate them up. We do this for domains like medicine, finance, law. We have voice actors, we have video editors who contribute daily to making GROK better.",
+      "textZh": "大家好，我叫迭戈。是的，所以我认为，明年这些模型的主要瓶颈之一将是非常高质量的评测和训练数据。我们解决这个问题的一种方式，就是邀请这些相应领域中全世界最顶尖的专家来到这里，让他们对模型进行评估。我们在医学、金融、法律等领域都这样做。我们有配音演员，也有视频编辑，他们每天都在为让 Grok 变得更好作出贡献。",
+      "speakerZh": "迭戈（xAI）"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Diego (xAI)",
+      "startSec": 1321.26,
+      "textEn": "And yeah, we're going to be continuing to work on very high quality evals over the next few months. We have some exciting stuff in the frontier of useful tasks in finance and law.",
+      "textZh": "而且，是的，未来几个月我们会继续开展非常高质量的评测工作。我们在金融和法律领域的实用任务前沿有一些令人兴奋的工作。",
+      "speakerZh": "迭戈（xAI）"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Diego (xAI)",
+      "startSec": 1333.26,
+      "textEn": "We're trying to build evals that are useful and training data that represents useful work and not necessarily proxies of intelligence that a lot of the open source evals do today.",
+      "textZh": "我们正努力构建有用的评测，以及能够代表有用工作的训练数据，而不一定是如今很多开源评测所采用的智力代理指标。",
+      "speakerZh": "迭戈（xAI）"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1345.95,
+      "textEn": "Yeah, I'd like to say like we're shifting from using these sort of common Internet evals, which I think are actually not a real indicator of usefulness, to having expert tutors in each domain. So every domain of engineering, medicine, law, whatever the case may be, and the actual eval is does the expert in that arena or does our group of experts in that arena, human experts, agree that grok is extremely useful and that the results are correct.",
+      "textZh": "是的，我想说的是，我们正在从使用这类常见的互联网评测，转向在每个领域配备专家导师，因为我认为这些评测实际上并不能真正反映实用性。所以，无论是工程、医学、法律还是其他任何领域，真正的评测标准是：该领域的专家，或者我们在该领域的人类专家团队，是否一致认为 Grok 极其有用，而且结果是正确的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1381.44,
+      "textEn": "That's actually the only eval that really matters.",
+      "textZh": "实际上，这是唯一真正重要的评测。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Diego (xAI)",
+      "startSec": 1384.72,
+      "textEn": "Yeah, exactly.",
+      "textZh": "是的，完全正确。",
+      "speakerZh": "迭戈（xAI）"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Diego (xAI)",
+      "startSec": 1387.76,
+      "textEn": "You'll see this in Grok420 but we made some improvements because, because of that type of data in truth seeking and kind of minimizing political bias, the responses are much more cogent. So yeah, that's exciting. And we are also working on Graphopedia. So the goal of Rockypedia is to create a distillation of all human knowledge. I kind of like to think of this as like a modern day version of the Library of Alexandria.",
+      "textZh": "你们会在 Grok420 中看到这一点，但由于这类数据在追求真相以及一定程度上减少政治偏见方面的作用，我们做出了一些改进，回答也更加连贯有力。所以，是的，这很令人兴奋。我们还在开发 Graphopedia。所以，Rockypedia 的目标是提炼全人类的知识。我有点喜欢把它看作现代版的亚历山大图书馆。",
+      "speakerZh": "迭戈（xAI）"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Diego (xAI)",
+      "startSec": 1410.33,
+      "textEn": "And in the quest to build Encyclopedia Galactica, which it will one day be called, we've gone from essentially having Nothing to around 6 million articles for context, Wikipedia is around 7 million English articles. And yeah, we're improving on hallucination and our goal is essentially for Rock5 to not have to search out of the data center.",
+      "textZh": "而在构建《银河百科全书》的探索中——它有一天会被这样命名——我们已经从基本上一无所有发展到拥有约 600 万篇文章。作为背景，维基百科大约有 700 万篇英文文章。而且，是的，我们正在改善幻觉问题，我们的目标基本上是让 Rock5 不必到数据中心之外进行搜索。",
+      "speakerZh": "迭戈（xAI）"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1434.71,
+      "textEn": "So yeah,",
+      "textZh": "所以，是的，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Makro (xAI)",
+      "startSec": 1446.55,
+      "textEn": "Come on.",
+      "textZh": "来吧。",
+      "speakerZh": "马克罗（xAI）"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Makro (xAI)",
+      "startSec": 1454.17,
+      "textEn": "So in the ML Infra team we are building the training, inference and tooling team tooling software for the company. So it's giving you an example. When we were training Grok 3, we built the pre training framework for this and these are some of the coolest system in my opinion that you can build as a software engineer. So it's like we have 100k h 100s at the time and they were just delivered and we didn't quite have the software, so we thought we'd have the software but then at 30k scale we realized actually the software is not quite working.",
+      "textZh": "所以，在机器学习基础设施团队，我们为公司构建训练、推理和工具团队的工具软件。举个例子。当我们训练 Grok 3 时，我们为此构建了预训练框架，在我看来，这些是软件工程师能够构建的一些最酷的系统。所以，当时我们有 10 万个 H100，它们刚刚交付，而我们还没有完全准备好软件；我们原以为软件已经准备好了，但后来在 3 万的规模下，我们意识到软件实际上还不能正常工作。",
+      "speakerZh": "马克罗（xAI）"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Makro (xAI)",
+      "startSec": 1487.14,
+      "textEn": "And it took a major, almost, I would say halfway rewrite of the software because there's so much going on in a data center that you can't actually account for. Switches are, switches are flapping, links are flapping, switches are going down, GPUs are just burning through, you have numerics issues and it's a system where you want really 100k h 100s to behave in lockstep. So a training step is like five seconds and you're going five seconds in lockstep.",
+      "textZh": "这需要进行一次重大的、几乎可以说是对软件一半的重写，因为数据中心里发生的事情太多了，你实际上无法全部预先考虑到。交换机在反复抖动，链路在反复抖动，交换机在宕机，GPU 就这样不断烧坏，还有数值问题，而在这个系统里，你确实希望 10 万个 H100 保持步调一致。所以，一个训练步骤大约是 5 秒，而你们正以 5 秒为单位保持步调一致。",
+      "speakerZh": "马克罗（xAI）"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Makro (xAI)",
+      "startSec": 1518.01,
+      "textEn": "But during that five seconds everything can happen. So you need to write a system that makes progress despite all these things, things that can happen in the environment. And we did this successfully and it was one of the coolest times in my life where the system was actually running and it was running at the same time my son was born, so that was extra excitement.",
+      "textZh": "但在那 5 秒内，什么都可能发生。所以，你需要编写一个系统，让它不顾所有这些事情，也就是环境中可能发生的事情，仍然能够取得进展。我们成功做到了，那是我一生中最酷的时光之一：系统真的运行起来了，而它运行的同时，我的儿子出生了，所以这又增添了一份兴奋。",
+      "speakerZh": "马克罗（xAI）"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Makro (xAI)",
+      "startSec": 1536.25,
+      "textEn": "But these problems like you don't find anywhere else, like nobody has this kind of compute and also nobody has this kind of talent density. So at the time to give you a perspective, we were like an overall team in pre training we were probably like 15 people and out of that maybe like seven people were working on the actual training system. And we still maintain that talent density in the team. So if you're interested in working on these problems and you don't want to be just like part of a bigger organization where you're one of like a thousand people working on this, then this is the place.",
+      "textZh": "但像这样的问题，你在其他任何地方都找不到，因为没有其他人拥有这种规模的算力，也没有其他人拥有如此高的人才密度。所以，当时给你们一个概念，我们整个预训练团队大概有 15 个人，其中可能大约 7 个人在负责实际的训练系统。而且我们至今仍保持着团队的人才密度。所以，如果你有兴趣研究这些问题，又不想只是成为一个更大组织的一部分，成为大约 1000 名从事这项工作的人员之一，那么这里就是你该来的地方。",
+      "speakerZh": "马克罗（xAI）"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Makro (xAI)",
+      "startSec": 1569.17,
+      "textEn": "Like we are still a very small team. With me is Lian Min from the RL and Inference team.",
+      "textZh": "比如说，我们仍然是一支非常小的团队。和我一起的是来自强化学习与推理团队的连敏。",
+      "speakerZh": "马克罗（xAI）"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Lian Min (xAI)",
+      "startSec": 1575.01,
+      "textEn": "Hi, I'm Lian Min. So at our team we run our reinforcement learning training job and the production inference at a large scale on earth and probably soon in space. And we are kind of already designed a lot of things to make it more resilient and scalable. So our building a system to scale from 100k chips to millions of chips and we optimize every aspect of the stack like parallelism, pre fill, decode and make resilient to every known and unknown hardware failure.",
+      "textZh": "大家好，我是连敏。所以，我们团队在地球上以大规模运行强化学习训练任务和生产推理，而且可能很快也会在太空中运行。我们已经在一定程度上设计了很多东西，使它更具韧性和可扩展性。所以，我们正在构建一个从 10 万个芯片扩展到数百万个芯片的系统，并优化整个技术栈的每个方面，比如并行处理、预填充、解码，还要使其能够抵御所有已知和未知的硬件故障。",
+      "speakerZh": "连敏（xAI）"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Lian Min (xAI)",
+      "startSec": 1608.22,
+      "textEn": "So if you are system hackers obsessed with extreme performance and reliability, so here is, you will find the most interesting problems to work with and I think actually like very similar to all kind of things like you, it's very important for you to first see the problem and then you will develop the solution that no one else can develop before.",
+      "textZh": "所以，如果你是痴迷于极致性能和可靠性的系统黑客，那么在这里，你会找到最有意思的问题来研究。而且我认为，实际上就像各种事情一样，比如你，首先看到问题对你来说非常重要，然后你会开发出此前其他任何人都无法开发出的解决方案。",
+      "speakerZh": "连敏（xAI）"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Lian Min (xAI)",
+      "startSec": 1633.35,
+      "textEn": "Okay, I'll hand over to the tooling team.",
+      "textZh": "好的，我把话筒交给工具团队。",
+      "speakerZh": "连敏（xAI）"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Ashdeep (xAI)",
+      "startSec": 1636.47,
+      "textEn": "Hello, I'm Ashdeep from the Tooling team. Every software needs to have a great interface to be able to make it useful. So as the tooling team we are responsible for building the platforms, frameworks and infrastructure which is required for humans as well as agents to be able to use our products. We started by building out the human data platform. This is a place where we collect all of our human data and eventually expanded on to build our internal engineering platform through which we basically run deployments, run evaluations or look at what training results exist.",
+      "textZh": "大家好，我是工具团队的阿什迪普。每一款软件都需要有出色的界面，才能变得有用。所以，作为工具团队，我们负责构建让人类和智能体都能够使用我们产品所需的平台、框架和基础设施。我们首先构建了人类数据平台。这是我们收集所有人类数据的地方，后来最终扩展为构建内部工程平台，我们基本上通过这个平台运行部署、运行评测，或者查看现有哪些训练结果。",
+      "speakerZh": "阿什迪普（xAI）"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Ashdeep (xAI)",
+      "startSec": 1671.41,
+      "textEn": "So if you really care about building a good interface or providing a really useful framework for researchers, for agents as well as our tutors, then you should definitely join our team.",
+      "textZh": "所以，如果你真的关心构建良好的界面，或者为研究人员、智能体以及我们的导师提供真正有用的框架，那么你绝对应该加入我们的团队。",
+      "speakerZh": "阿什迪普（xAI）"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Yulong (xAI)",
+      "startSec": 1683.97,
+      "textEn": "So hi everyone, I'm Yulong from the JAX team. So now JAX at XAI is a really small team with a couple of engineers that working on Jack's GPU to optimize our ultra large scale GPU training. So you can imagine that training at scale can be very complicated. Even you run hello world at scale, it can be complicated. Right? So then we are actually responsible for supporting the entire companies from Pre Training foundation models, RLS and also multimodal to scale things first from 10k 100k, then probably 1 million h 100 equivalent GPU scale.",
+      "textZh": "大家好，我是 JAX 团队的玉龙。所以，现在 xAI 的 JAX 团队是一支非常小的团队，只有几名工程师，他们正在研究 Jack 的 GPU，以优化我们的超大规模 GPU 训练。所以你可以想象，大规模训练可能非常复杂。即使只是大规模运行 hello world，也可能很复杂。对吧？所以，我们实际上负责支持整个公司，从预训练基础模型、RLS 到多模态，先把规模从 1 万扩展到 10 万，然后可能扩展到 100 万个 H100 等效 GPU 的规模。",
+      "speakerZh": "玉龙（xAI）"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Yulong (xAI)",
+      "startSec": 1725.84,
+      "textEn": "And to implement a lot of practical optimizations we have to customize the entire JAX stack from compiler and runtimes and there will be a lot of interesting problems. And also if you really want to obsess on optimizing the entire stack at scale, we are probably the best place to go because you know, we really have very large scale GPU clusters and we have a lot of interesting problems to work with.",
+      "textZh": "为了实现大量实际的优化，我们必须定制从编译器到运行时的整个 JAX 技术栈，其中会有很多有意思的问题。而且，如果你真的想专注于优化大规模环境下的整个技术栈，我们可能是最适合去的地方，因为，你知道，我们确实拥有非常大规模的 GPU 集群，也有很多有意思的问题可以研究。",
+      "speakerZh": "玉龙（xAI）"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Pranjal (xAI)",
+      "startSec": 1759.8,
+      "textEn": "Hey, I'm Pranjal from the kernels team.",
+      "textZh": "嗨，我是内核团队的 Pranjal。",
+      "speakerZh": "Pranjal（xAI）"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Pranjal (xAI)",
+      "startSec": 1763.56,
+      "textEn": "Basically the kernel team sits at the very bottom of our training and serving stack. Our code runs inside the million equivalent",
+      "textZh": "基本上，内核团队位于我们训练和服务技术栈的最底层。我们的代码在相当于100万的",
+      "speakerZh": "Pranjal（xAI）"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 1769.88,
+      "textEn": "GPUs that we have.",
+      "textZh": "我们拥有的 GPU 内部运行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Pranjal (xAI)",
+      "startSec": 1771.49,
+      "textEn": "And if you look inside the GPU there's hundreds of thousands of threads and these threads are trying to talk to each other to multiply matrices, compute attention scores and some of them even talk",
+      "textZh": "如果你查看 GPU 内部，会看到数十万个线程，这些线程正试图相互通信，以进行矩阵乘法、计算注意力分数，其中一些甚至还会与",
+      "speakerZh": "Pranjal（xAI）"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 1781.33,
+      "textEn": "to the million other GPUs that we have.",
+      "textZh": "我们拥有的另外100万个 GPU 通信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Pranjal (xAI)",
+      "startSec": 1783.33,
+      "textEn": "And this is the low level system that we have and we like optimizing every single microsecond in this and we care deeply about squeezing every last stop of performance from these GPUs. So if you like this low level systems problems, algorithms, please join us.",
+      "textZh": "这就是我们拥有的底层系统，我们喜欢优化其中的每 1 微秒，也极其重视从这些 GPU 中榨取最后每一站的性能。所以，如果你喜欢这类底层系统问题和算法，请加入我们。",
+      "speakerZh": "Pranjal（xAI）"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 1809.26,
+      "textEn": "As you know, we'll try to bring in Heiner and Spencer who are actually at our supercomputer cluster in Memphis. Hey Heiner.",
+      "textZh": "如你们所知，我们会尝试接入目前正在我们孟菲斯超级计算机集群里的 Heiner 和 Spencer。嗨，Heiner。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "xAI Team",
+      "startSec": 1826.97,
+      "textEn": "Hey.",
+      "textZh": "嗨。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Pranjal (xAI)",
+      "startSec": 1827.17,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "Pranjal（xAI）"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "xAI Team",
+      "startSec": 1828.17,
+      "textEn": "I'm I'm Heimer from the Computer Network Infrastructure team. We are mainly based in Palo Alto, but today we're here in Memphis in the superb here. So the data center here in Memphis swung the largest GPU cluster on the planet and it is and still growing our job to keep all this from you up and running and serve AI output to our users to work well a lot of ingredients",
+      "textZh": "我、我是计算机网络基础设施团队的 Heimer。我们主要驻扎在帕洛阿尔托，但今天我们来到孟菲斯，来到这里这个极好的地方。所以孟菲斯这里的数据中心带动了地球上最大的 GPU 集群，它正在而且仍在不断增长。我们的工作是让所有这些为你保持启动并正常运行，并向我们的用户提供 AI 输出。要良好运转，需要很多要素",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1860.4,
+      "textEn": "actually just put the mic really close to your mouth because the ambient noise is high.",
+      "textZh": "其实只要把麦克风放得非常靠近你的嘴，因为环境噪声很大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "xAI Team",
+      "startSec": 1864,
+      "textEn": "It's getting too loud. Let me go back.",
+      "textZh": "声音变得太大了。让我回去。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "xAI Team",
+      "startSec": 1867.92,
+      "textEn": "So I was saying our job is to keep the computer up and running, train the next model of work and serve AI. So users, so what you've used to work. Well, a lot of ingredients have to come together, mainly software and hardware. So there's all these chippy CPUs, NICS switches and hundreds of thousands of operating systems running as one big supercomputer. And what we need is folks to really understand Linux, really understand RDMA and really understand how computers work on a deep level.",
+      "textZh": "所以我刚才说，我们的工作就是让计算机保持启动和运行，训练下一个工作模型并提供 AI 服务。所以用户，所以你们用过的东西能工作。嗯，很多要素必须结合到一起，主要是软件和硬件。所以这里有所有这些芯片化的 CPU、NICS 交换机，以及数十万个作为一台大型超级计算机运行的操作系统。而我们需要的是那些真正理解 Linux、真正理解 RDMA，并且真正从深层次理解计算机如何工作的人。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "xAI Team",
+      "startSec": 1895.82,
+      "textEn": "If that is you reach out on X and I'm Handing over to Dan.",
+      "textZh": "如果那个人就是你，请在 X 上联系我们，现在我把话交给 Dan。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "xAI Team",
+      "startSec": 1908.56,
+      "textEn": "So we have 300,000 GB, 300 platform GPUs here today. We're still growing, still building. 847 miles of fiber per data hall. 12 data halls. You want to be part of the world's largest supercomputer, come join us.",
+      "textZh": "所以我们今天在这里有 300,000 个 GB、300 平台 GPU。我们仍在增长，仍在建设。每个数据大厅有 847 英里的光纤。12 个数据大厅。你想成为世界上最大超级计算机的一分子，就来加入我们。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Lian Min (xAI)",
+      "startSec": 1927.36,
+      "textEn": "All right,",
+      "textZh": "好的，",
+      "speakerZh": "Lian Min（xAI）"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "xAI Team",
+      "startSec": 1933.05,
+      "textEn": "So it's quite marvelous what we've been able to do in less than one year's time here.",
+      "textZh": "所以，我们能在这里不到 1 年的时间里做到这些，实在非常了不起。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "xAI Team",
+      "startSec": 1938.57,
+      "textEn": "We have, once we're completely finished, we'll have north of a gigawatt of power online and running. We'll have the largest Tesla megapack system in the world, larger than Hawaii or South Australia. And Zach is really quickly going to talk a little bit about actually constructing the data center. So behind me you can see data hall 11. So one of the most incredible things about what we're doing here at Macroheart is how fast we do it, right?",
+      "textZh": "我们，一旦完全完工，我们将有超过 1 吉瓦的电力上线运行。我们将拥有世界上最大的 Tesla Megapack 系统，比夏威夷或南澳大利亚的还要大。Zach 很快会简单谈谈数据中心的实际建设。所以在我身后，你们可以看到 11 号数据大厅。所以，我们在 Macroheart 这里所做的事情中，最令人难以置信的一点就是我们的速度有多快，对吧？",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "xAI Team",
+      "startSec": 1963.89,
+      "textEn": "So like they were saying before, over 850 miles of fiber at every single data hall, over 27,000 GPUs and over 200,000 connections. So all of this that you can see behind me was put up in less than six weeks. We do that over and over and over again. We massively parallelize them. It's pretty much the most complex and consistent type of engineering, design and construction project you can possibly imagine. So come join us.",
+      "textZh": "所以就像他们之前所说的，每一个数据大厅都有超过 850 英里的光纤、超过 27,000 个 GPU，以及超过 200,000 个连接。所以你们在我身后看到的这一切都是在不到 6 周内搭建起来的。我们一次又一次、又一次地这样做。我们让它们大规模并行推进。这几乎是你所能想象到最复杂且最具一致性的工程、设计和建设项目类型。所以来加入我们吧。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "xAI Team",
+      "startSec": 1996.39,
+      "textEn": "Yes. You know, the other really awesome thing about this is that everything is completely vertically integrated within this team, from architecture, mechanical, electrical, structure, all the disciplines. And we also care a lot about efficiency while we're designing all of this too. So it's not just about getting the most compute online the fastest, but also achieving the highest POE in the industry, using as much power smoothing technology as we can and being really good partners in the community here in Memphis.",
+      "textZh": "是的。你知道，这件事另一个非常棒的地方是，所有工作都在这个团队内部实现了完全垂直整合，从建筑、机械、电气、结构，到所有专业领域。而且在设计这一切时，我们也非常重视效率。所以，这不只是要以最快速度让最多算力上线，也包括实现业内最高的 POE，尽可能多地采用电力平滑技术，并在孟菲斯当地成为非常好的社区合作伙伴。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "xAI Team",
+      "startSec": 2028.02,
+      "textEn": "With the Tesla megapacks that we have going, you can check them out at XAI Memphis. Back to you.",
+      "textZh": "还有我们正在运行的 Tesla Megapack，你们可以到 xAI Memphis 查看。交还给你。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 2038.27,
+      "textEn": "All right, thank you.",
+      "textZh": "好的，谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 2044.83,
+      "textEn": "All right, so that was live from the front lines in Memphis.",
+      "textZh": "好的，刚才是来自孟菲斯前线的直播。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 2049.87,
+      "textEn": "So fundamental to any AI company success is the compute advantage. And what we've demonstrated over and over again is that XAI can actually deploy more AI compute faster than anyone else. And actually, as Jensen Huang of CEO of Nvidia has said many times in interviews, there is no one faster at getting AI compute online than xai. So congratulations, guys.",
+      "textZh": "所以，算力优势是任何 AI 公司取得成功的基础。而我们一次又一次证明的是，xAI 确实能够比任何其他公司更快地部署更多 AI 算力。事实上，正如 Nvidia 首席执行官 Jensen Huang 多次在采访中所说，没有任何人能比 xAI 更快地让 AI 算力上线。所以祝贺各位。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 2081.07,
+      "textEn": "Yeah, this is what it looks like. So that's really phase one, which is 330,000 Grace Blackwell's with Macrohot written on the building. That's not an image edit. It actually is on the roof of the building. And then Macrohota will be the building that you can see which has got the macrohota with rockets on it and that'll be another 220,000 GB3 hundreds. So all of this will be training the models that you experience. So.",
+      "textZh": "是的，它看起来就是这样。所以那实际上是第一阶段，也就是 330,000 个 Grace Blackwell，建筑上写着 Macrohot。那不是图像编辑出来的。它确实就在建筑的屋顶上。然后 Macrohota 将会是你们能看到的那栋建筑，上面有带火箭的 macrohota，而那里还会有另外 220,000 个 GB3 hundreds。所以这一切都将用于训练你们所体验的模型。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 2114.05,
+      "textEn": "So it's absolutely fundamental obviously to have large scale training compute in order to get the best models.",
+      "textZh": "所以很显然，要获得最好的模型，拥有大规模训练算力是绝对根本性的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 2124.05,
+      "textEn": "Yeah, I'm sort of reminded of the Jose mean where you see one guy digging and there's like seven people watching. And one of the big differences between XAI and other companies is we are actually Jose.",
+      "textZh": "是的，这有点让我想起那个 Jose mean，你会看到 1 个人在挖，而大概有 7 个人在看。xAI 和其他公司之间的一大区别是，我们实际上就是 Jose。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "John (xAI)",
+      "startSec": 2141.42,
+      "textEn": "All right.",
+      "textZh": "好的。",
+      "speakerZh": "John（xAI）"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 2143.58,
+      "textEn": "Hello.",
+      "textZh": "大家好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "John (xAI)",
+      "startSec": 2144.94,
+      "textEn": "All right.",
+      "textZh": "好的。",
+      "speakerZh": "John（xAI）"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Nikita (xAI)",
+      "startSec": 2145.42,
+      "textEn": "I'm Nikita. You might know me as a part time ship poster. Full time customer support for X. So we're now reaching over a billion people across our family of apps. Every time news breaks, it just becomes evident that this is the most important communication tool of our time. It's where the, the most influential people convene. It's where truth is crystallized. Everything is downstream of X. The reason they say this is going to hit Facebook in a week is because it happens here.",
+      "textZh": "我是 Nikita。你们可能知道我是一名兼职船帖发布者。X 的全职客户支持。所以现在，我们的应用家族正覆盖超过 10 亿人。每当新闻爆发时，就会很明显地看出，这是我们这个时代最重要的沟通工具。这里是那些、那些最具影响力的人汇聚的地方。这里是真相得以凝结的地方。一切都是 X 的下游。他们之所以说这件事会在 1 周后传到 Facebook，是因为它发生在这里。",
+      "speakerZh": "Nikita（xAI）"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Nikita (xAI)",
+      "startSec": 2179.37,
+      "textEn": "And I think we're only beginning to realize its full potential. We had a remarkable year for the app. We rolled up our sleeves and got a ton done. January was our biggest month ever for the app in terms of engagement and then February is on track to beat that. Much of the credit lies with the algorithm team. They've been putting in crazy hours and it's clearly paying off. But there's still a huge amount of work to be done on the top of funnel side.",
+      "textZh": "而且我认为，我们才刚刚开始认识到它的全部潜力。这个应用在过去 1 年里表现非凡。我们挽起袖子，完成了大量工作。就互动参与度而言，1月是这个应用有史以来表现最好的 1 个月，而 2月有望超过它。这在很大程度上要归功于算法团队。他们投入了疯狂的工作时间，而这显然正在取得回报。但在漏斗顶端方面，仍有大量工作需要完成。",
+      "speakerZh": "Nikita（xAI）"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Nikita (xAI)",
+      "startSec": 2214.16,
+      "textEn": "First time downloads are up over 50% every month and we're exhibiting right now like basically the growth rates of an early stage consumer product.",
+      "textZh": "首次下载量每月增长超过 50%，而我们目前展现出的，基本上就像是早期消费产品的增长率。",
+      "speakerZh": "Nikita（xAI）"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Nikita (xAI)",
+      "startSec": 2225.16,
+      "textEn": "We also made a ton of headway in solving one of the like 20 year old problems of the app which was ramping up new users. New users are now spending 55% more time per day in the app than they were six months ago.",
+      "textZh": "我们在解决这个应用一个大约已有 20 年的问题上也取得了巨大进展，也就是让新用户进入状态。现在，新用户每天在应用中花费的时间比 6 个月前多 55%。",
+      "speakerZh": "Nikita（xAI）"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Nikita (xAI)",
+      "startSec": 2240.6,
+      "textEn": "And on the core product side, we're hitting our stride too. Not only did we rebuild the algorithm, we rebuilt our onboarding flows and we're seeing double digit increases on all our key metrics. We rebuilt notifications, our web browser, XChat, basically every surface of the app has been rebuilt to be better than ever.",
+      "textZh": "在核心产品方面，我们也渐入佳境。我们不但重建了算法，还重建了新用户引导流程，并且看到所有关键指标都实现了两位数增长。我们重建了通知、网页浏览器、XChat，基本上应用的每一个界面都经过了重建，变得比以往任何时候都好。",
+      "speakerZh": "Nikita（xAI）"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Nikita (xAI)",
+      "startSec": 2262.29,
+      "textEn": "And it's clear that if we're focused, we can move mountains and evolve this platform. Just last month we did a little push on articles. And articles published are up 10x. Articles read are up 17x.",
+      "textZh": "而且很明显，只要我们保持专注，就能移山并推动这个平台演进。就在上个月，我们对文章功能做了一点推动。文章发布量增至原来的 10 倍。文章阅读量增至原来的 17 倍。",
+      "speakerZh": "Nikita（xAI）"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Nikita (xAI)",
+      "startSec": 2281.96,
+      "textEn": "And on all other fronts, like over the holidays we did a big push on subscriptions. We just crossed A billion dollars in ARR there.",
+      "textZh": "而在所有其他方面，比如节日期间，我们大力推动了订阅业务。那里的 ARR 刚刚突破 10 亿美元。",
+      "speakerZh": "Nikita（xAI）"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Nikita (xAI)",
+      "startSec": 2291.88,
+      "textEn": "I think with the X app, you know, there's very few unknowns like the path for us to win and become, you know, the number one app in the world.",
+      "textZh": "我认为对于 X 应用，你知道，未知因素非常少，比如我们获胜并成为，你知道，世界第一应用的路径。",
+      "speakerZh": "Nikita（xAI）"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Nikita (xAI)",
+      "startSec": 2303.88,
+      "textEn": "We know what to do, the ball's in our court, it's for us to win and it's just a matter of us executing.",
+      "textZh": "我们知道该做什么，球在我们手上，胜利要靠我们自己，而这只是我们执行的问题。",
+      "speakerZh": "Nikita（xAI）"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 2311.63,
+      "textEn": "Yep. And yeah, so we've evolved what used to be the old Twitter DM stack, which was unencrypted basically just text to a fully encrypted messaging system that allows you to do audio and video calls, has, you know, all the things you'd want from any messaging app. The disappearing messages, screen, screenshot blocks, like there's a whole, all the features that you'd want in an app.",
+      "textZh": "是的。还有，是的，所以我们已经让过去的旧 Twitter 私信技术栈实现了演进，它以前没有加密，基本上只有文本，现在则成了一个完全加密的消息系统，让你能够进行音频和视频通话，拥有，你知道，你会想从任何消息应用中获得的一切。消息自动消失、屏幕、截屏拦截，就像是有一整套、一个应用中你会想要的所有功能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 2342.95,
+      "textEn": "And we will be open sourcing the code for this in the next few months as we are open sourcing the recommendation algorithm code so people can actually see what we're doing. Nothing beats, nothing beats transparency for believing in a company. So we're going to be the only recommendation algorithm that actually open sources so you can see what it, what it does and how it's evolving. With, with Grokchat it will also be open source so you can actually see if there are any vulnerabilities.",
+      "textZh": "而且在接下来的几个月里，我们将开放这套代码的源代码，就像我们正在开放推荐算法代码的源代码一样，这样人们就能真正看到我们在做什么。要让人相信一家公司，没有什么能胜过、没有什么能胜过透明度。所以我们将成为唯一真正开放源代码的推荐算法，这样你们就能看到它、它做什么，以及它如何演进。对于、对于 Grokchat，它也会开源，这样你们就能真正查看是否存在任何漏洞。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 2375.68,
+      "textEn": "There will be no hooks for advertising or anything else like that in, in, in Grokchat, which is really intended to be a generalized communication system. And in the next few months we'll be releasing a standalone X Chat app. So if you just want to do messaging, you can just, you can do that. You don't, you don't have to go to the core product and it will have desktop sharing and multi user so you can do, you can do video calls with lots of people.",
+      "textZh": "Grokchat 里不会有用于广告或任何类似东西的接口，它其实旨在成为一个通用通信系统。未来几个月，我们将发布一款独立的 X Chat 应用。所以，如果你只想收发消息，你就可以，你可以这么做。你不，你不必进入核心产品，而且它会支持桌面共享和多用户，这样你就可以，你可以和很多人进行视频通话。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Elon Musk",
+      "startSec": 2403.94,
+      "textEn": "It's really intended to be a fully functional communication system with X Chat for X Money. We're, we've actually had X Money live in closed beta within the company and we expect in the next month or two to go to unlimited external beta and then to go worldwide to all X users. And this is really intended to be the place where all the money is the central source of all monetary transactions. So it's really going to be a game changer.",
+      "textZh": "它其实旨在成为一个功能完备的通信系统，配有用于 X Money 的 X Chat。我们，我们其实已经让 X Money 在公司内部的封闭测试中上线了，预计未来1个月或2个月内进入不限量外部测试，然后面向全球所有 X 用户推出。而这其实旨在成为所有资金所在之处，成为所有货币交易的中心来源。所以它确实会成为一个改变游戏规则的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 2441.94,
+      "textEn": "And the reason we say 1 billion users is actually over a billion users is that while our monthly users are on average around 600 million, the number of people who have the X app installed is well over a billion. It's just that most people only occasionally come to the X app when there's some major world event. But as we Give people more reasons to use the X applied, whether it's for communications, for Grok, or for X money.",
+      "textZh": "而我们说有10亿用户，实际上是超过10亿用户，原因是，虽然我们的月度用户平均约为6亿，但安装了 X 应用的人数远超10亿。只不过，大多数人仅在发生某个重大世界事件时才会偶尔使用 X 应用。但随着我们给人们更多使用 X 应用的理由，无论是用于通信、使用 Grok，还是使用 X Money。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 2472.62,
+      "textEn": "Whatever the case may be, we want it to be such that if you wanted to, you could live your life on the X app. And as we make it more and more useful, we'll obviously give people reasons, compelling reasons, to use the app every day and have. My expectation is well over a billion daily active users. So now, in order to understand the universe, you must explore the universe. There's only so much you can learn from just being on Earth.",
+      "textZh": "无论情况如何，我们希望它能做到：只要你愿意，就可以在 X 应用上生活。随着我们让它越来越实用，我们显然会给人们各种理由，有说服力的理由，让他们每天都使用这款应用，并且拥有。我的预期是日活跃用户会远超10亿。所以现在，要理解宇宙，你就必须探索宇宙。仅仅待在地球上，能学到的东西是有限的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 2506.55,
+      "textEn": "With telescopes and colliders on Earth, ultimately, you have to go out there and you have to explore the universe to understand it. And that's the motivation behind the combination of SpaceX and XAI is to accelerate humanity's future in understanding the universe and extending the light of consciousness to the stars. So in the grand scheme of things, when you look at how much energy Earth is actually using for civilization, we're only right now using, quote, roughly 1% of the potential energy of Earth.",
+      "textZh": "通过地球上的望远镜和对撞机，归根结底，你必须走出去，必须探索宇宙，才能理解它。而 SpaceX 与 xAI 合并背后的动机，就是加速人类理解宇宙的未来，并将意识之光延伸到群星。所以从宏观角度来看，当你审视地球实际用于文明的能源有多少时，我们目前只使用了，引用一下，大约1%的地球潜在能源。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 2545.53,
+      "textEn": "And if we wanted to use even a millionth of the Sun's energy, that would be roughly a million times more energy than civilization currently uses. The only way to access that energy, the energy of the sun, is to extend beyond Earth. Earth is really a tiny, tiny dust mote in a vast darkness.",
+      "textZh": "而即使我们想使用太阳能量的百万分之一，那也将大约是文明目前所用能源的100万倍。获取这种能量，也就是太阳能量的唯一途径，是向地球之外延伸。地球其实只是浩瀚黑暗中的一粒极其、极其微小的尘埃。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 2568.73,
+      "textEn": "The sun is 99.8% of all mass in the solar system. So you have to expand beyond the tiny dust mote that is Earth to make any significant dent in using the Sun's energy. Like I said, you'd have to expand roughly a million times just to get to 1,000,000th of our Sun's energy. And then going beyond that, extending to the galaxy and, and maybe someday even to other galaxies. So the next step beyond Earth data centers is our Earth orbital data centers.",
+      "textZh": "太阳占太阳系全部质量的99.8%。所以，要想在利用太阳能量方面产生任何显著影响，你就必须扩展到地球这粒微小尘埃之外。就像我说的，你必须扩展大约100万倍，才能达到我们太阳能量的1,000,000分之一。然后再超越这一点，扩展到整个银河系，并且，并且也许有一天甚至扩展到其他星系。所以，继地球上的数据中心之后，下一步是我们的地球轨道数据中心。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Elon Musk",
+      "startSec": 2609.08,
+      "textEn": "And we'll be launching with SpaceX orbital data centers at the 100 to 200 gigawatt per year level. Not cumulative, I mean per year. And ultimately, we see a path to maybe launching as much as a terawatt per year of compute from Earth. But what if you want to go beyond a mere terawatt per year? In order to do that, you have to go to the Moon. So by having factories on the Moon, building AI satellites, and having a mass driver, which is the kind of thing you really only learn about in or read about in science fiction.",
+      "textZh": "我们将与SpaceX一起发射轨道数据中心，达到每年100至200吉瓦的水平。不是累计值，我指的是每年。最终，我们看到了一条或许能从地球每年发射多达1太瓦算力的路径。但如果你想超越区区每年1太瓦呢？要做到这一点，你必须前往月球。所以，要在月球上建设工厂、制造AI卫星，并拥有一台质量投射器，而这种东西，你实际上只会在科幻作品中了解到或读到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 2645.69,
+      "textEn": "But we're going to make it real. We're actually going to have a mass driver on the Moon.",
+      "textZh": "但我们会让它成为现实。我们真的会在月球上建造一台质量投射器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Elon Musk",
+      "startSec": 2652.55,
+      "textEn": "And if you do that, you can go several orders of magnitude greater. You can go to 1,000 gigawatts or more per year and ultimately get to maybe a millionth and then a thousandth and maybe even a few percent of the sun's energy.",
+      "textZh": "如果你这么做，就可以再提高几个数量级。你可以达到每年1,000吉瓦或更多，并最终达到太阳能量的或许1,000,000分之一，然后是1,000分之一，甚至可能达到百分之几。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 2674.38,
+      "textEn": "It's difficult to imagine what an intelligence of that scale would think about, but it's going to be incredibly exciting to see it happen. I really want to see the mass driver on the moon that is shooting AI satellites into deep space. It's going like shoom, shoom, just one after the other.",
+      "textZh": "很难想象如此规模的智能会思考些什么，但看到它实现将会令人无比兴奋。我真的很想看到月球上的质量投射器把AI卫星射向深空。它就会这样“咻，咻”，一颗接一颗。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Elon Musk",
+      "startSec": 2698.87,
+      "textEn": "I can't imagine anything more epic than a mass driver on the moon and a self sustaining city on the moon. And then going beyond the moon to Mars, going throughout our solar system and ultimately being out there among the stars and visiting all these star systems. Maybe we'll meet aliens, maybe we'll meet, see some civilizations that lasted for millions of years and we'll find the remnants of, of ancient alien civilizations.",
+      "textZh": "我想象不出还有什么能比月球上的质量投射器和月球上的自给自足城市更为史诗级。然后从月球继续前往火星，遍及整个太阳系，并最终置身群星之间，造访所有这些恒星系统。也许我们会遇到外星人，也许我们会遇到、看到一些延续了数百万年的文明，还会发现古老外星文明的、的遗迹。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 2726.82,
+      "textEn": "But the only way we're going to do do that is if we go out there and we explore. And this is the path to making it happen. Thank you.",
+      "textZh": "但我们要做到做到这一点，唯一的办法就是走出去探索。这就是让它成为现实的路径。谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T03:36:24.008Z",
+    "reviewedAt": "2026-09-13T03:58:43.364Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:40.434Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "69ca1aec77cabb210a0269754a6ce09274494a5c2a675fa722115eead7b16890"
+}

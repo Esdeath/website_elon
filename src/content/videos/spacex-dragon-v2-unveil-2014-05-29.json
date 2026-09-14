@@ -1,0 +1,102 @@
+{
+  "id": "spacex-dragon-v2-unveil-2014-05-29",
+  "slug": "spacex-dragon-v2-unveil-2014-05-29",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2014-05-29",
+  "titleEn": "SpaceX Dragon V2 Unveil",
+  "titleZh": "SpaceX 龙飞船 V2 揭幕",
+  "summaryEn": "Musk unveils the crewed Dragon V2 capsule at SpaceX's Hawthorne factory, a space taxi for astronauts.",
+  "summaryZh": "马斯克在 SpaceX 的霍桑工厂揭幕载人龙飞船 V2 太空舱，这是一款供宇航员使用的太空出租车。",
+  "sourceUrl": "https://www.youtube.com/watch?v=cDZ-kAYbzl4",
+  "sourceLabel": "TDC",
+  "archiveUrl": "https://elonmuskarchive.org/video/spacex-dragon-v2-unveil-2014-05-29",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/cDZ-kAYbzl4",
+  "thumbnailUrl": "https://i.ytimg.com/vi/cDZ-kAYbzl4/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 378,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 9.6,
+      "textEn": "Liftoff of the Falcon 9.",
+      "textZh": "猎鹰 9 号升空。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 19.68,
+      "textEn": "There we have the Dragon in range of the space station.",
+      "textZh": "现在龙飞船已进入空间站的范围。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 50.25,
+      "textEn": "All right, welcome everybody to Hawthorne headquarters of Space Exploration Technologies. We're here to Unveil Dragon version 2. Dragon version 1 is right above your heads. In fact, this is the first Dragon spacecraft that came back from orbit. You can see the scorch marks on the heat shield, the thrusters that are fired. It's just to real spacecraft. And I'll start off by telling you a little bit about the Dragon version one before showing you Dragon version two.",
+      "textZh": "好了，欢迎各位来到太空探索技术公司的霍桑总部。我们来到这里是为了揭幕龙飞船第 2 版。龙飞船第 1 版就在你们头顶上方。事实上，这是第一艘从轨道返回的龙飞船。你们可以看到隔热盾上的焦痕，以及启动过的推进器。这就是真实的航天器。我先给大家简单介绍一下龙飞船第 1 版，然后再向大家展示龙飞船第 2 版。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 87.52,
+      "textEn": "When we first created Dragon version one, we didn't really know how to create a spacecraft. We never designed a spacecraft before. So while there are a lot of interesting technologies in version one, it does have a relatively conventional landing approach. So it throws out parachutes to land in the water off the coast of California after it comes back from the space station. And it does have a life support system, but not one that can last for a long time or carry a lot of people.",
+      "textZh": "当我们最初制造龙飞船第 1 版时，我们其实不知道如何制造航天器。我们以前从未设计过航天器。因此，尽管第 1 版中有很多有趣的技术，但它采用的着陆方式相对传统。也就是说，它从空间站返回后会放出降落伞，降落在加利福尼亚海岸外的水中。它确实配备了生命保障系统，但这个系统无法长时间维持，也无法搭载很多人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 124.33,
+      "textEn": "And so it's a great spacecraft and it was a great proof of concept that showed us what it took to bring something back from orbit, which is a very difficult thing to do. Usually when something comes in from orbital velocity, it burns up in a big fireball. So, but going From Dragon version 1, we wanted to take a big step in technology, really create something that was a step change in spacecraft technology.",
+      "textZh": "所以它是一艘很出色的航天器，也是一次很出色的概念验证，让我们明白了让某个东西从轨道返回需要什么，而这是一件非常困难的事。通常，一个物体以轨道速度进入时，会在一个巨大的火球中烧毁。所以，但是在从龙飞船第 1 版向前迈进时，我们想在技术上迈出一大步，真正创造出一种让航天器技术发生阶跃式变化的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 156.18,
+      "textEn": "And some important characteristics of that are the ability to land anywhere on land propulsively. So that's one of the things that Dragon version 2 will be able to do. So you'll be able to land anywhere on Earth with the accuracy of a helicopter, which is, I think, something that a spaceship should, a modern spaceship should be able to do. And it'll be capable of carrying seven people, so seven astronauts for several days.",
+      "textZh": "其中一些重要特性包括，能够依靠推进力在陆地上的任何地方着陆。这就是龙飞船第 2 版将能够做到的事情之一。你们将能够以直升机般的精度在地球上的任何地方着陆，我认为，这是一艘宇宙飞船、一艘现代宇宙飞船应该能够做到的事情。它还能搭载 7 个人，也就是让 7 名宇航员乘坐数天。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 183.74,
+      "textEn": "It has an improved version of our pica heat shield. And it's all around, I think, really a big leap forward in technology. It really takes things to the next level. So with that, let's see the Dragon version one. We're going to do the countdown here. All right, dragon version 2 -10, 9, 8, 7, 6, 5, 4, 3, 2. It.",
+      "textZh": "它采用了我们改进版的 pica 隔热盾。而且从各方面来看，我认为这确实是一次巨大的技术飞跃。它确实把事情提升到了新的水平。那么接下来，让我们看看龙飞船第 1 版。我们要在这里开始倒计时。好了，龙飞船第 2 版——10、9、8、7、6、5、4、3、2。它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 244.84,
+      "textEn": "So let's. We have an animation that shows you how Dragon version 2 will work. So let's roll that animation.",
+      "textZh": "那么让我们。我们有一段动画，向大家展示龙飞船第 2 版将如何运作。那么让我们播放这段动画。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 369.48,
+      "textEn": "It.",
+      "textZh": "它。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T18:19:45.931Z",
+    "reviewedAt": "2026-09-12T18:37:16.953Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:01.517Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "c3061cd60b36f4ba5d87f36be2d8c1a850be221909c1a3dcca62596f8de50421"
+}

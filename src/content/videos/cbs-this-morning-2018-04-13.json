@@ -1,0 +1,40 @@
+{
+  "id": "cbs-this-morning-2018-04-13",
+  "slug": "cbs-this-morning-2018-04-13",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2018-04-13",
+  "titleEn": "CBS This Morning",
+  "titleZh": "CBS今晨",
+  "summaryEn": "Musk discusses Model 3 production struggles, sleeping at the factory and why he sees himself as an engineer rather than a businessman.",
+  "summaryZh": "马斯克谈及Model 3的生产困境、睡在工厂，以及他为何视自己为工程师而非商人。",
+  "sourceUrl": "https://www.youtube.com/watch?v=jQMHEXquK9A",
+  "sourceLabel": "CBS Mornings",
+  "archiveUrl": "https://elonmuskarchive.org/video/cbs-this-morning-2018-04-13",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/jQMHEXquK9A",
+  "thumbnailUrl": "https://i.ytimg.com/vi/jQMHEXquK9A/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 91,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "I've heard people say listen he's out-of-the-box thinker he's a businessman he's an entrepreneur but people that know this man I wouldn't say you would say I'm normally a business plan you're not a businessman no no what are you I'm gonna show there's probably lots of analyst on Wall Street who agree that I'm not a businessman okay well what do you think you are I'm engineer like engineering in design but you're not a businessman well I mean I don't sort of like look at things from like what's the rank ordered list of priorities or based on a return on investment just a Mac that I don't really do any investments I've been on the own wine in public security and that's Tesla that's it I've no diversity in terms of public securities I've heard you describe",
+      "textZh": "我听人说，听着，他是个跳出框架思考的人，他是个商人，他是个企业家，但了解这个人的人，我不会说你会说我通常是一个商业计划，你不是商人，不，不，那你是什么，我要展示，华尔街上可能有很多分析师都同意我不是商人，好吧，那么你觉得自己是什么，我是工程师，喜欢工程和设计，但你不是商人，嗯，我是说，我不太会像这样看待事情，比如优先事项的排序清单是什么，或者基于投资回报，就一台Mac，那，我其实不做任何投资，我一直在公共安全里的自有葡萄酒上，而那就是Tesla，就这些，在公开证券方面我没有多元化，我听你形容过"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "yourself as a technologist yes exactly technologists make new technologies create new technologies is it your is it your dream to conquer the world and make the world a better place to what is your dream technologies like magic you know to put I mean I don't like technologies the closest thing to magic that we have in the real world and so I think like engineering creative engineering is essentially technology development and I just move us when I said I like Lord of the Rings is my favorite book is it yeah that's really like what's the closest thing to being a wizard in the real world and that's like creating new technologies",
+      "textZh": "自己是技术专家，是的，没错，技术专家制造新技术，创造新技术，这是你的，这是你的梦想吗，征服世界并让世界变得更美好，你的梦想是什么，技术就像魔法，你知道，要放，我是说，我不喜欢技术是我们在现实世界中拥有的最接近魔法的东西，所以我认为，像工程、创造性工程，本质上就是技术开发，而当我说我喜欢《指环王》是我最喜欢的书时，我只是移动我们，是吗，是的，那其实就像，在现实世界中什么最接近成为巫师，那就像是创造新技术"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T16:35:08.918Z",
+    "reviewedAt": "2026-09-12T17:29:07.636Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:40.509Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=jQMHEXquK9A",
+  "sourceHash": "d9fec4b28449769d5e368ddae307fd45da402ee4a4c0147b76cf8b40f1b18cd8"
+}

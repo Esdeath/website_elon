@@ -1,0 +1,57 @@
+{
+  "id": "reddit-ama-starlink-2020",
+  "slug": "reddit-ama-starlink-2020",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2020-11-21",
+  "titleEn": "Reddit AMA — the Starlink team, with Elon Musk (r/Starlink, 2020)",
+  "titleZh": "Reddit AMA：星链团队与埃隆·马斯克（r/Starlink，2020）",
+  "summaryEn": "During the Starlink team's AMA on r/Starlink, held while the “Better Than Nothing” beta was under way, Elon Musk stepped in twice: once to tease the inter-satellite laser links, once to recruit.",
+  "summaryZh": "在“聊胜于无”测试进行期间举办的星链团队r/Starlink AMA中，埃隆·马斯克介入了2次：1次是吊大家对星间激光链路的胃口，1次是招募人才。",
+  "sourceUrl": "https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/",
+  "sourceLabel": "Reddit — r/Starlink AMA",
+  "archiveUrl": "https://elonmuskarchive.org/video/reddit-ama-starlink-2020",
+  "org": "SpaceX",
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "u/Nixon506E: Any updates about the space lasers? How much better can the latency be with them? How much better can transcontinental connections be with them? When will real world testing begin?",
+      "textZh": "u/Nixon506E：太空激光有什么最新进展吗？有了它们，延迟能改善多少？有了它们，跨洲连接能改善多少？现实环境测试将在什么时候开始？"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "Elon Musk: Did you say space lasers? https://m.youtube.com/watch?v=ykL-iMtpV50",
+      "textZh": "埃隆·马斯克：你说的是太空激光吗？https://m.youtube.com/watch?v=ykL-iMtpV50"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/gd3vtl4/",
+      "textZh": "https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/gd3vtl4/"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "u/DishyMcFlatface (the Starlink team, opening the AMA): We are the Starlink team, ask us anything!",
+      "textZh": "u/DishyMcFlatface（星链团队，AMA开场）：我们是星链团队，什么都可以问！"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Elon Musk: If you want to build the Internet the way it should be, join Starlink",
+      "textZh": "埃隆·马斯克：如果你想以互联网本应有的方式构建互联网，就加入星链"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/gd3x8et/",
+      "textZh": "https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/gd3x8et/"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T20:15:24.526Z",
+    "reviewedAt": "2026-09-12T20:23:54.670Z"
+  },
+  "fetchedAt": "2026-09-12T07:13:56.067Z",
+  "transcriptSource": "https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/",
+  "sourceHash": "4127b332b9197586d4beeadb272673bee3c71f577b59da674d62133e9473e55c"
+}

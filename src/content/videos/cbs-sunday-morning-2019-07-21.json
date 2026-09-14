@@ -1,0 +1,35 @@
+{
+  "id": "cbs-sunday-morning-2019-07-21",
+  "slug": "cbs-sunday-morning-2019-07-21",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2019-07-21",
+  "titleEn": "CBS Sunday Morning",
+  "titleZh": "CBS 星期日早晨",
+  "summaryEn": "Musk talks to CBS about SpaceX, Starship, reusable rockets and his goal of making humanity multiplanetary on the Apollo 11 50th anniversary.",
+  "summaryZh": "在阿波罗11号50周年之际，马斯克向 CBS 谈论了 SpaceX、星舰、可重复使用火箭，以及他让人类成为多行星物种的目标。",
+  "sourceUrl": "https://www.youtube.com/watch?v=zPvbgDVT17M",
+  "sourceLabel": "CBS Sunday Morning",
+  "archiveUrl": "https://elonmuskarchive.org/video/cbs-sunday-morning-2019-07-21",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/zPvbgDVT17M",
+  "thumbnailUrl": "https://i.ytimg.com/vi/zPvbgDVT17M/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 29,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "So, test nine of Starship. Yes. If this goes well and all goes well, how soon before we can do a first uncrrewed trip to Mars? If if we're lucky, we probably got about a 50% chance of sending ships from Earth to Mars at the end of next year. So, November, December next year in about 18 months. Wow. Is that realistic or is that Elon time? Um, well, I try to give the 50th percentile. Uh, you should expect half the time I'm wrong.",
+      "textZh": "那么，星舰的第9次测试。是的。如果这次进展顺利，而且一切顺利，我们最早多久能进行首次无人火星之旅？如果如果我们运气好，明年年底从地球向火星发送飞船的概率大概有50%。也就是明年11月、12月，大约18个月后。哇。这现实吗，还是说这是埃隆时间？嗯，我努力给出第50百分位数。呃，你应该预期有一半时间我是错的。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T16:30:54.516Z",
+    "reviewedAt": "2026-09-12T17:31:37.370Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:19.776Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=zPvbgDVT17M",
+  "sourceHash": "250c393902c093be9d44e927829cfee6527148b684b8a75702ba4ab65b004123"
+}

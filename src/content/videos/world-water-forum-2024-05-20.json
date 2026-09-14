@@ -1,0 +1,261 @@
+{
+  "id": "world-water-forum-2024-05-20",
+  "slug": "world-water-forum-2024-05-20",
+  "snapshotId": "2026-09-12",
+  "type": "speech",
+  "date": "2024-05-20",
+  "titleEn": "10th World Water Forum Keynote",
+  "titleZh": "第 10 届世界水论坛主题演讲",
+  "summaryEn": "Keynote at the opening of the 10th World Water Forum in Bali, Indonesia. Musk argues the world's freshwater crisis is solvable with existing technology — desalination, now affordable, plus energy and transport.",
+  "summaryZh": "在印度尼西亚巴厘岛举行的第 10 届世界水论坛开幕式上的主题演讲。马斯克认为，利用现有技术可以解决全球淡水危机——如今价格已可负担的海水淡化技术，再加上能源和运输。",
+  "sourceUrl": "https://www.youtube.com/watch?v=RY1gvV8Z5b8",
+  "sourceLabel": "TVRI World",
+  "archiveUrl": "https://elonmuskarchive.org/video/world-water-forum-2024-05-20",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/RY1gvV8Z5b8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/RY1gvV8Z5b8/hqdefault.jpg",
+  "durationSec": 566,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 14.72,
+      "textEn": "Hello, everyone.",
+      "textZh": "大家好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 16.72,
+      "textEn": "Well, I must say I'm very impressed with this. This meeting room is amazing. I feel like I'm in a waterfall. It's really lovely here. And that was incredible, incredible performance. So I must say I'm quite delighted to be here this morning talking to you and to experience this wonderful event and everything that Indonesia has to offer. It's amazing being here in Bali and Indonesia. So. And hopefully everyone saw the mangrove forests because those are very impressive.",
+      "textZh": "嗯，我必须说，这给我留下了非常深刻的印象。这个会议室太棒了。我感觉自己像是置身于瀑布之中。这里真的很美。刚才的表演也精彩极了，精彩极了。所以我必须说，今天早上能来到这里与你们交谈，体验这场精彩的活动以及印度尼西亚所能提供的一切，我感到相当高兴。来到巴厘岛和印度尼西亚真是太棒了。所以。希望每个人都看到了红树林，因为那些红树林非常壮观。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 47.68,
+      "textEn": "It's several hundred thousand acres of, of mangroves that I think have been replanted, if I recall correctly. So there are a lot of great things happening in Indonesia and the rest of the world.",
+      "textZh": "那里有数十万英亩的，的红树林，如果我没记错的话，我想这些红树林是重新种植的。所以，印度尼西亚和世界其他地方正在发生许多了不起的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 62.81,
+      "textEn": "And overall, I would say I'm quite sort of optimistic for the future. I think the, you know, we should never be complacent or entitled, but I do think that if we are not complacent and entitled that the future will actually be great for the world. And I think we're headed to a bright future overall. So.",
+      "textZh": "总体而言，我想说，我对未来算是相当乐观。我认为，这个，你知道，我们绝不应该自满或觉得理所当然，但我确实认为，如果我们不自满，也不觉得一切理所当然，那么世界的未来实际上会非常美好。而且我认为，总体上我们正在走向一个光明的未来。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 86.31,
+      "textEn": "And with respect to water, I've always thought we call Earth Earth, but actually earth is 70% water by surface area. So technically, I think if aliens came here, and a lot of people think aliens have come here because they're always asking me, they're always asking me about aliens, they would name us water because we are 70% water and only 30% land.",
+      "textZh": "至于水，我一直觉得我们把地球称为“Earth”，但实际上，按表面积计算，地球有 70% 是水。所以严格来说，我认为如果外星人来到这里——很多人认为外星人已经来过这里，因为他们总是问我，他们总是问我有关外星人的事——他们会把我们命名为“水”，因为我们有 70% 是水，只有 30% 是陆地。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 114.67,
+      "textEn": "So what that means is the potential for solving any given water issue is extremely good because there is so much water.",
+      "textZh": "所以这意味着，解决任何特定水资源问题的可能性都极高，因为水实在太多了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 128.51,
+      "textEn": "There's obviously desalination required at times and the transport of water. But desalination, as I think most people know, has become very inexpensive.",
+      "textZh": "显然，有时需要进行海水淡化以及水的运输。但正如我想大多数人都知道的那样，海水淡化已经变得非常便宜。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 139.4,
+      "textEn": "And so really the availability of fresh water is simply about energy and transport. So that's when I talk to even very well read, very smart people in the United States, they will often think, well, the water crisis is unsolvable, but in fact it is very solvable. And we are continuing breakthroughs in the efficiency of desalination. And I think we've got a great water future ahead of us and I think a great sustainable energy future ahead of us.",
+      "textZh": "所以实际上，淡水的可获得性只关乎能源和运输。所以，当我与美国那些甚至博览群书、非常聪明的人交谈时，他们经常会认为，嗯，水危机是无法解决的，但事实上它非常容易解决。而且我们正在继续实现海水淡化效率方面的突破。我认为，我们前方有一个美好的水资源未来，而且我认为，我们前方有一个美好的可持续能源未来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 180.36,
+      "textEn": "Yes. So anyway, hopefully that is, I'm basically kicking things off on a positive note, but I think with good basis for doing so.",
+      "textZh": "是的。所以无论如何，希望这算是，我基本上是以积极的基调为一切揭开序幕，但我认为这样做有充分的依据。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 191.11,
+      "textEn": "Yeah, with that, I think the next section is really just some questions or Q and A if anyone would like to ask me anything about anything.",
+      "textZh": "好的，那么，我想接下来的环节其实就是提一些问题，或者进行问答，如果有人想问我任何方面的任何问题的话。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 200.71,
+      "textEn": "I suppose we should generally stick to the topic of water, given that it's the water conference, but I'm happy to answer other questions as well. Not quite sure how the logistics of question posing works, but you Just say a question.",
+      "textZh": "我想，鉴于这是水资源大会，我们一般还是应该围绕水这个主题，但我也乐意回答其他问题。我不太确定提问在流程上是怎么安排的，不过你只要说出问题就行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 220.24,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 231.36,
+      "textEn": "If I heard correctly, what is the most important thing for solving the water crisis? Okay, well, the exact solution will vary depending upon country and even region within a country. But the, as I mentioned, because the cost of desalination has dropped so much.",
+      "textZh": "如果我没听错的话，问题是：解决水资源危机最重要的是什么？好的，这个嘛，具体的解决方案会因国家而异，甚至会因一国内部的地区而异。但是，正如我提到的，因为海水淡化的成本已经下降了这么多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 250.48,
+      "textEn": "If you're just talking about water for individual consumption or water in, say, a hydroponics facility, some kind of, you know, where you're not simply putting, putting it on the ground for crops, but actually have some sort of contained facility that minimizes the amount of evaporation, I think you can basically turn any part of the world green, including the entire world.",
+      "textZh": "如果你说的只是个人用水，或者比如说水培设施中的用水，某种，你知道的，不是简单地把、把水浇到地上种庄稼，而是实际上采用某种封闭式设施，把蒸发量降到最低，那么我认为基本上可以让世界上任何地方都变绿，包括整个世界。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 272.37,
+      "textEn": "So it just begs the question of where does the energy come from?",
+      "textZh": "所以，这就不禁让人追问：能源从何而来？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 277.65,
+      "textEn": "And here's where I think solar energy is very much underestimated in terms of its capability.",
+      "textZh": "而我认为，太阳能的能力在这里被严重低估了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 286.45,
+      "textEn": "So if you think about what would the Earth be without the sun? The Earth would be a frozen dark ice ball at, at roughly 3 degrees above absolute zero. It would be quite unpleasant, so, you know, very cold and dark. But because of the sun, we're at quite a nice temperature, quite pleasant.",
+      "textZh": "所以，如果你想想，没有太阳，地球会是什么样？地球会是一个冰冻、黑暗的冰球，温度在、在大约绝对零度以上3度。那会相当令人不适，所以，你知道，非常寒冷和黑暗。但因为有太阳，我们现在的温度相当宜人，非常舒适。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 310.47,
+      "textEn": "So roughly 300 degrees above absolute zero, and the sun powers almost the entire ecosystem. Is solar powered? When you say, like, well, how much electricity, how much land would it take to generate electricity?",
+      "textZh": "所以大约比绝对零度高300度，而太阳为几乎整个生态系统提供能量。是太阳能驱动的吗？当你问，比如，嗯，需要多少电力、需要多少土地才能发电？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 327.95,
+      "textEn": "There's a gigawatt per square kilometer of solar radiation that reaches the surface. So for every square kilometer, there's a peak power of roughly a gigawatt, which is comparable to a power station. The sun doesn't shine all the time, obviously. So when you net all of that out and say, well, how much energy per day does 1 square kilometer yield? It's roughly 1 gigawatt hour per square kilometer per day, which is still a lot.",
+      "textZh": "到达地表的太阳辐射为每平方公里1吉瓦。所以每平方公里的峰值功率大约是1吉瓦，堪比一座发电站。显然，太阳并非一直照耀。所以当你把所有这些因素综合起来，问，嗯，1平方公里每天能产生多少能量？大约是每天每平方公里1吉瓦时，这仍然很多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 370.38,
+      "textEn": "And if you do the rough math, to power the United States, which is a heavy user of electricity, would only take. Would take less than a 200 kilometer by 200 kilometer solar array power, the entire United States. And if you drive through the United States, there's plenty of sections of, of the United States where there is basically no people.",
+      "textZh": "如果粗略计算一下，为用电量很大的美国供电，只需要。只需要一片不到200公里乘200公里的太阳能阵列，就能为整个美国供电。如果你开车穿越美国，会发现有很多片属于、属于美国的区域，那里基本上没有人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 393.81,
+      "textEn": "Or another way to think of it is a small section of the Sahara could power all of Europe or the world. Now, I'm not saying you would be so concentrated in the placement of solar power because it's better to be more distributed.",
+      "textZh": "或者换一种思路，撒哈拉沙漠的一小片区域就能为整个欧洲或全世界供电。现在，我不是说你会把太阳能设施如此集中地布置，因为更加分散会更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 409.27,
+      "textEn": "But the sheer magnitude of solar power that is available is often not quite understood, but the math of it is very clear. So I really would strongly recommend sort of a solar plus battery combination or wind plus solar can solve all of the world's energy needs by a lot.",
+      "textZh": "但可利用的太阳能规模之大往往没有得到充分理解，不过相关的数学计算非常清楚。所以我确实会强烈推荐某种太阳能加电池的组合，或者风能加太阳能，能够远远满足全世界的所有能源需求。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 449.4,
+      "textEn": "Of.",
+      "textZh": "的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Moderator",
+      "startSec": 449.87,
+      "textEn": "Because.",
+      "textZh": "因为。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Moderator",
+      "startSec": 454.67,
+      "textEn": "The interest of developing countries needs also R and D to reduce the price of desalination or desalinated cubic meter of water by 90%. Like what happened with the PV. Who is going to support the R and D in this era? Not the developing countries, of course. How we are going to support the researchers.",
+      "textZh": "发展中国家的利益也需要研发，以便将海水淡化的价格，或者说每立方米淡化水的价格，降低90%。就像光伏领域发生的那样。在这个时代，谁来支持研发？当然不是发展中国家。我们要如何支持研究人员。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 476.99,
+      "textEn": "Yeah. It's so something I would encourage everyone in the room to look at is, and you touched on that briefly, is that the cost of solar power has dropped dramatically over the years. So if you were to, say, look at the cost of solar power five years ago or 10 years ago, or 20 years ago, it would have seemed cost prohibitive. But the cost of solar power today is extremely low. And. And the cost of batteries to store the energy has also dropped dramatically.",
+      "textZh": "是的。所以我想鼓励在场每个人去关注的一点是，而且你刚才也简要提到了，那就是太阳能发电的成本多年来已经大幅下降。所以，如果你去看，比如说5年前、10年前或20年前的太阳能发电成本，它当时看起来会高得令人难以承受。但如今太阳能发电的成本极低。而且。而且储存能源所需的电池成本也已经大幅下降。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 509.31,
+      "textEn": "The cost of battery storage of electricity has dropped by a factor of 10 in the past five years. So many of the studies that were done were done in times past when batteries were very expensive and solar power was very expensive. I would just encourage everyone to basically take another look at the cost of solar and the cost of batteries, and I think you'll find that you're pleasantly surprised.",
+      "textZh": "在过去5年里，电池储电成本已降至原来的1/10。所以，许多研究都是在过去电池非常昂贵、太阳能发电也非常昂贵的时候完成的。我只是想鼓励大家重新审视一下太阳能和电池的成本，我想你们会发现结果令人惊喜。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 542.16,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 545.6,
+      "textEn": "All right, time to wrap it up. Yes. Okay. Thank you. Well, it's an honor to be here and thank you very much for listening to my words and I hope you have a fantastic conference. Thank you. Thank you, Mr. Villamas. Please return to respective search.",
+      "textZh": "好了，该结束了。是的。好的。谢谢。嗯，很荣幸来到这里，非常感谢你们聆听我的发言，我希望你们能度过一场精彩的会议。谢谢。谢谢您，维拉马斯先生。请返回各自的搜索。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T02:23:56.277Z",
+    "reviewedAt": "2026-09-13T02:54:12.423Z"
+  },
+  "fetchedAt": "2026-09-12T07:11:25.377Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "b7b1bbcffa56779f5eaa0fa433a70138038a8f32ad91a4e9da155032f83db703"
+}

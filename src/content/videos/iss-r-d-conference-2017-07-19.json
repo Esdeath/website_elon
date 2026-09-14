@@ -1,0 +1,905 @@
+{
+  "id": "iss-r-d-conference-2017-07-19",
+  "slug": "iss-r-d-conference-2017-07-19",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2017-07-19",
+  "titleEn": "ISS R&D Conference",
+  "titleZh": "国际空间站研发大会",
+  "summaryEn": "Wide-ranging talk on SpaceX, NASA, a moon base, rocket reusability, tunnels and solar.",
+  "summaryZh": "围绕 SpaceX、NASA、月球基地、火箭可重复使用、隧道和太阳能展开的广泛讨论。",
+  "sourceUrl": "https://www.youtube.com/watch?v=Jv5LjA62Uw8",
+  "sourceLabel": "Caleb Brandalise",
+  "archiveUrl": "https://elonmuskarchive.org/video/iss-r-d-conference-2017-07-19",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/Jv5LjA62Uw8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Jv5LjA62Uw8/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 4584,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "When I think about innovation beyond boundaries, so I cannot think of a better representation of that concept in our generation. Please join me in welcoming Elon Musk and ISS program manager Kirk Shireman to the stage. Very good. So Elon, thanks so much for for being here today. Um Elon commuted from the West Coast this morning. So we appreciate you taking the time and coming out here and talking with us. Absolutely. Thanks for having me.",
+      "textZh": "当我想到突破边界的创新时，我想不出在我们这一代中有什么能更好地代表这一概念。请和我一起欢迎埃隆·马斯克以及国际空间站项目经理 Kirk Shireman 登台。非常好。那么埃隆，非常感谢你今天来到这里。嗯，埃隆今天早上从西海岸赶来。所以，我们感谢你抽出时间来到这里与我们交谈。当然。谢谢邀请我。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "We've had we've had a pretty good conference so far at least in my opinion. Over a thousand people signed up for the first time, so a significant increase. And lots of people interested in in in space and lower earth orbit and the International Space Station and work that's going on. So um Anyway, we're very very excited about the work that's going on and excited to have you here today, too. Great. Thanks for having me.",
+      "textZh": "到目前为止，我们的、我们的大会办得相当不错，至少我个人是这么认为的。第一次有超过1,000人报名，所以增幅显著。而且很多人对、对、对太空、近地轨道、国际空间站以及正在开展的工作感兴趣。所以，嗯，不管怎样，我们对正在开展的工作感到非常、非常兴奋，也很高兴今天有你来到这里。很好。谢谢邀请我。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "So you were here a number of years ago in July in 2015. It's not that long ago, I guess, two years ago. And had a had a discussion like this with Mike Suffredini. And a lot of things have happened since 2015 for SpaceX. So can you can you talk about how things have gone, how how they've progressed, how you're feeling about how the industry and and SpaceX in particular progressed? Sure.",
+      "textZh": "几年前的2015年7月，你曾来到这里。我想那并没有过去太久，是2年前。并且和 Mike Suffredini 进行过一次、一次这样的讨论。自2015年以来，SpaceX 发生了很多事情。那么，你能不能谈谈情况发展得怎么样、取得了怎样的进展，以及你对整个行业，特别是 SpaceX 的进展有何感受？当然。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "What I think I think we we are entering a new era of space exploration, which is extremely exciting. Um And it's it's not just SpaceX, but there's a number of other companies that have developed new approaches. NASA is taking new approaches things, which is really exciting in in the way that the the contracting has been done for space station resupply. I think it's a great model that frankly should be adopted throughout government.",
+      "textZh": "我认为，我认为我们、我们正在进入一个太空探索的新时代，这令人极其兴奋。嗯，而且这、这不仅仅是 SpaceX，还有其他一些公司也开发出了新方法。NASA 正在对一些事情采取新方法，这确实令人兴奋，体现在空间站补给合同的签订方式上。我认为这是一个很好的模式，坦率地说，整个政府都应该采用。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "I spoke a little bit about this at the governor's conference and was actually using the NASA NASA cargo resupply contracting process as a really great model for government in general. Um You know, it's where you have two competitors fixed price milestone based with a hot milestones are are primarily hardware oriented.",
+      "textZh": "我在州长大会上稍微谈到过这一点，实际上当时把 NASA、NASA 的货运补给合同流程作为一个对整个政府而言非常好的模式。嗯，你知道，在这种模式下，有2家竞争者，采用固定价格、基于里程碑的方式，其中一个热里程碑主要以硬件为导向。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "Um and then if one of the two companies that's that's competing does not Um reach their milestones, then the remainder of the milestones are are competed to another company. And that's what happened with cargo resupply. Started off with SpaceX and Kistler. Kistler made some progress, but wasn't going to get across the finishing line.",
+      "textZh": "嗯，然后，如果参与竞争的2家公司中有1家没有，嗯，达到其里程碑，那么剩余的里程碑就会、就会通过竞争交给另一家公司。这正是货运补给项目中发生的事情。最开始是 SpaceX 和 Kistler。Kistler 取得了一些进展，但无法越过终点线。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "And then Orbital Sciences was competed for the second slot and they did get across the finishing line and now both SpaceX and Orbital are providing NASA with cargo services to the space station. Um And having that competitive dynamic is is I think it's a very powerful powerful function for getting a great outcome for the NASA as the customer.",
+      "textZh": "然后 Orbital Sciences 竞得了第2个席位，并且他们确实越过了终点线；现在 SpaceX 和 Orbital 都在为 NASA 提供前往空间站的货运服务。嗯，而这种竞争动态是、是，我认为，对于让作为客户的 NASA 获得出色成果而言，是一种非常强大、强大的机制。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Um and I think that that's just a great that was a great model really well executed and to the degree that's applicable in other areas of NASA or the government, I think um that's there's the potential for revolutionary progress on that front.",
+      "textZh": "嗯，我认为那真是一个很棒的——那是一个执行得非常出色的伟大模式，而且就其适用于 NASA 或政府其他领域的程度而言，我认为，嗯，在这方面有可能取得革命性的进展。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "Um so from from a from a technical standpoint the the the biggest thing that's happened in the last couple years, which I'm really excited about and I think makes a difference for access to space is the landing of the uh Falcon 9 rocket booster um and then the that um And if you ever get a chance to go out to the the the the Cape um uh over Vandenberg to see that, I'd really recommend it. It's really pretty fun.",
+      "textZh": "嗯，所以从、从一个、从一个技术角度来看，过去几年里发生的最重大的事情，也就是让我非常兴奋、而且我认为会影响进入太空这件事的，是猎鹰 9 号火箭助推器的着陆，嗯，然后那个，嗯。如果你有机会去卡纳维拉尔角，嗯，呃，或者范登堡看看，我真的推荐你去。真的挺有意思的。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "So um And um there'll be a lot of those flights in the remainder of the year. We've got about a dozen flights still to go this year. Um and then after landing re-flying that same booster with minimal work to the booster. Um and we believe we can get to the point where in the not too distant future, in fact, probably by by next year where the uh the the the um Falcon 9 booster can be re-flown um within 24 hours. Um so yeah.",
+      "textZh": "所以，嗯。而且，嗯，今年剩余时间里还会有很多这样的飞行。今年我们还有大约12次飞行要完成。嗯，然后是在着陆之后，只对助推器做最少量的工作，就让同一枚助推器再次飞行。嗯，我们相信，在不太遥远的未来，事实上可能到明年，就能做到让，呃，那个、那个、那个，嗯，猎鹰 9 号助推器在 24 小时内再次飞行。嗯，所以，是的。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "And and and and the key the key to that is that uh all you do is inspections and no hardware is changed not even the paint. And so this is very important. Uh so that's our aspiration for for next year. Um obviously while paying very close attention to mission assurance and reliability. Um But we think we've got at least a technical path to to achieving that. Um and then the I think we're quite close to being able to recover the the fairing.",
+      "textZh": "而、而、而、而其中的关键、关键在于，呃，你所做的只有检查，不更换任何硬件，甚至连油漆都不换。所以这非常重要。呃，所以这是我们明年的目标。嗯，显然，同时要非常密切地关注任务保障和可靠性。嗯，但我们认为，至少在技术上已经有一条实现它的路径。嗯，然后，我认为我们已经相当接近能够回收那个、那个整流罩了。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Um so it's a huge nose cone on the front of nose cone. You can fit a basically a whole sort of city bus in there.",
+      "textZh": "嗯，所以它是前端的一个巨大鼻锥，鼻锥。里面基本上能装下一整辆某种城市公交车。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "And and and that just that that fairing alone with all of its systems and the acoustic damping and qualification all that and separation system, that's about a five or six million dollar um piece of equipment and the analogy I use with my team is like, guys, imagine we had you know, six million dollars in a pallet of cash and that was you know, six million dollars is falling through the sky and would we try to catch it? I say we do.",
+      "textZh": "而、而、而且，单是那个整流罩，加上它的所有系统、声学阻尼、鉴定，所有那些东西以及分离系统，就是一件价值大约500万或600万美元的，嗯，设备。我对团队使用的类比是，各位，想象一下我们有，你知道，装在一个托盘上的600万美元现金，而那，你知道，600万美元正从天上掉下来，我们会不会试着接住它？我说我们会。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "I say we give it a shot. You know, worst case it ends up at the bottom of the ocean, but maybe we do catch it and then pay six million dollars. Let me know when that pallet of cash is coming back. Yeah. I mean I'd like to give it a shot, too. You know, it might as well be a pallet of cash because it costs six million dollars. So um And but I I think we we got a decent shot of recovering the fairing by the end of the year.",
+      "textZh": "我说我们试试看。你知道，最坏的情况是它最后沉到海底，但也许我们确实能接住它，然后支付600万美元。那托盘现金回来的时候告诉我。是的。我的意思是，我也想试试看。你知道，它不妨就是一托盘现金，因为它价值600万美元。所以，嗯。而且，但是我、我认为到年底时，我们回收整流罩的机会还不错。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "Um and and possibly reflight by either late this this year or early next. Um and that just leaves the the upper stage of the rocket. Upper stage is about 20% of the cost of the mission. Um so if we get booster stage and and fairing, we're right around 80% reasonable. And then um I think I think we for for a lot of missions we can even bring the second stage back. So we're going to try to do that.",
+      "textZh": "嗯，而且可能在今年、今年年底或明年年初再次飞行。嗯，这样就只剩下火箭的、那个上面级了。上面级约占任务成本的20%。嗯，所以如果我们能拿回助推器级和、和整流罩，就正好在80%左右，合理。然后，嗯，我认为、我认为对于、对于很多任务，我们甚至可以把第二级带回来。所以我们要尝试这么做。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Um Although our primary focus will be on our Dragon over the next particular of the next year or so. Our Dragon 2 spacecraft, which is what will which is the crew crew Dragon next generation Dragon spacecraft, which has got all of the equals systems and the but it will allow you to do a launch aboard um all the way to orbit. And um uh and and do an automated docking maneuver. So it's not it does it doesn't need to berth with the aid of the arm.",
+      "textZh": "嗯，尽管我们的主要重点将是我们的龙飞船，在接下来的、尤其是接下来1年左右。我们的龙飞船 2，也就是将会、也就是载人龙飞船，下一代龙飞船，它拥有所有的等同系统和那个，但它将允许你进行一次搭乘，嗯，一直发射到轨道。然后，嗯，呃，而且、而且执行自动对接机动。所以它不是——它不需要借助机械臂来停靠。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "It can do a direct docking maneuver. Um and then that will be the what once that's operational the new method of taking both cargo and crew to the space station. Um so if I say what's what's our primary focus, it's making sure we stay on track for um uh getting getting crew to station as we promised NASA around the middle of next year. That's going to be real exciting. I think it's going to be great for getting the public fired up.",
+      "textZh": "它可以执行直接对接机动。嗯，然后，一旦它投入运行，那将成为把货物和乘员都送往空间站的新方式。嗯，所以如果要我说我们、我们的主要重点是什么，那就是确保我们能按计划，嗯，呃，在明年年中左右把、把乘员送到空间站，正如我们向 NASA 承诺的那样。那会非常令人兴奋。我认为这会非常有助于激发公众的热情。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "You know, that's really It's been a while since we launched uh astronauts from US soil. So we're we're all looking forward to that. Yeah. Um and I I I just like to to to to to thank um people at NASA for giving SpaceX a chance to to do this and um just want a word of appreciation for the working relationship with NASA, which is great. Um in fact, I told the governors uh last week that, you know, for a long time my password was I love NASA.",
+      "textZh": "你知道，那真的——我们已经有一段时间没有从美国本土发射，呃，宇航员了。所以我们、我们都很期待。是的。嗯，而且我、我、我只想向、向、向、向、向 NASA 的人们表示感谢，感谢他们给 SpaceX 一个机会来、来做这件事，而且，嗯，只想表达一下对与 NASA 工作关系的感谢，这种关系非常好。嗯，事实上，我上周告诉那些州长，呃，你知道，很长一段时间里，我的密码都是“我爱 NASA”。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "That that is actually true. This is um You know, you've just given you've given all the hackers around the world a chance to go work on that. I I hopefully I don't have like some old email accounts somewhere that still with that. You know, like I've got to I've got to change this. People are going to cotton on. Very good. So how you talked a little bit about commercial crew. How is that going?",
+      "textZh": "那、那其实是真的。这是，嗯。你知道，你刚刚给了、给了全世界所有黑客一个去琢磨这件事的机会。我、我希望我没有什么旧电子邮件账户还在某个地方使用那个密码。你知道，就像，我得、我得改掉这个。人们会察觉的。非常好。那么，你刚才谈到了一点商业载人航天。进展如何？"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "I know it's you know, flying flying humans is more systems involved. Of course, the risk is higher. How is that progressing? Um you know, it's it's been way more difficult than cargo for sure. Um Yeah. I mean, as soon as as soon as sort of people enter the picture, it's it's really a giant step up in um making sure things go right, you know, and and for sure the the the oversight the oversight from NASA is much tougher.",
+      "textZh": "我知道，你知道，运送、运送人类涉及更多系统。当然，风险也更高。进展得怎么样？嗯，你知道，它、它肯定比货运困难得多。嗯，是的。我的意思是，一旦、一旦人们算是进入其中，它、它在确保一切顺利方面，确实是一个巨大的提升，你知道，而且、而且可以肯定，那个、那个、那个监督，NASA 的监督要严格得多。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "It was not that it wasn't tougher cargo, but it's really intense for crew. Um So coming from the right motivations. Um but uh yeah, it's uh you know, it can be a bit tough on on on my guys you know, what with the women men of SpaceX, but uh but I but I you know, know where it's coming from. It's the right right motivation.",
+      "textZh": "并不是说货运时不严格，但载人任务真的非常严苛。嗯，所以这是出于正确的动机。嗯，但，呃，是的，这，呃，你知道，对我的人可能会有点严苛，你知道，就是 SpaceX 的女士们、男士们，但，呃，但是我、但是我，你知道，知道这是出于什么原因。这是正确、正确的动机。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "Um And uh and there'll be some debates, you know, going into next year about some of the detailed technical de- de- de- um But I think uh we really want to uh do everything humanly possible to make sure it goes well. Um And um you know, triple check everything. Um and uh O- overall, I think it's going you know, really well.",
+      "textZh": "嗯，而且，呃，而且明年还会围绕一些具体的技术细、细、细、嗯，展开一些争论。但我认为，呃，我们真的想要，呃，尽人类所能地做一切，以确保它顺利进行。嗯，而且，嗯，你知道，把所有事情检查3遍。嗯，而且，呃，总、总体而言，我认为它进展得，你知道，非常顺利。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Um you know, there's getting like these little small technical bones of contention, which um you know, but we're working through those. Um We're engineers. We live We live for that. Exactly. Um Yeah. Um it And and some of these things are really like esoteric.",
+      "textZh": "嗯，你知道，现在有这些小小的技术争议点，嗯，你知道，但我们正在逐一解决。嗯，我们是工程师。我们活着——我们就为这个而活。没错。嗯，是的。嗯，它，而且、而且其中有些事情真的非常深奥。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "I mean, unless somebody's really in the weeds on the rocket and spacecraft design, it will just sound like we're talking Greek, but um ancient Greek, you know, but um Yeah, but there's you know, I think it's good to have these debates.",
+      "textZh": "我的意思是，除非有人真的深入到火箭和航天器设计的细枝末节，否则听起来就只会像我们在说希腊语，但，嗯，古希腊语，你知道，但是，嗯。是的，但这，你知道，我认为进行这些争论是好事。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Uh and overall, um I'm confident that it's going to be a system that uh that NASA feels good about and that SpaceX feels good about and uh we're looking forward to continuing the partnership into next year and um doing a great job for NASA. Excellent. Thank you. Um and of course we're looking forward to. We're excited about it and and as you mentioned, we're NASA's working hard with you Yep. on uh on Oh, yeah.",
+      "textZh": "呃，总体而言，嗯，我相信它会成为一个，呃，让 NASA 感觉良好、也让 SpaceX 感觉良好的系统，而且，呃，我们期待明年继续这种合作关系，并且，嗯，为 NASA 做好工作。太好了。谢谢。嗯，当然，我们也期待着。我们对此很兴奋，而且、而且正如你提到的，我们 NASA 正在和你们一起努力。对。做，呃，做——哦，是的。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "Um Uh and and yeah, and we're also all down in the weeds on those technical details. I'm sure you are down. Yep. Let's see. You see down to the little bolt to the little thing and all that. Where's Gerst? Gerst is here somewhere. That's Gerst's uh gravy, too. Gerst, if you can't have a If you can't have a dry lube bolt pitch discussion with Gerst, you know, it's not a good day.",
+      "textZh": "嗯。呃，而且、而且，是的，我们也都深入到那些技术细节之中。我相信你们深入其中。对。让我们看看。你看，细到小小的螺栓、小小的东西以及所有那些。Gerst 在哪儿？Gerst 就在这里某个地方。那也是 Gerst 的，呃，拿手好戏。Gerst，如果你不能和 Gerst 讨论干式润滑螺栓螺距，你知道，那就不是愉快的一天。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "We We I guess I have a many many just many sort of in the weeds technical discussions. Um I actually love I love talking to Gerst. Uh one of my favorite people in the world, actually. So. Yeah. There you go. Mine, too, but but he's my boss. I I have to say that. Let's see. So, you you talked We talked a little bit about commercial crew.",
+      "textZh": "我们，我们，我想我有很多很多，就是很多种深入细节的技术讨论。嗯，我其实很喜欢，我喜欢和 Gerst 交谈。呃，实际上是这个世界上我最喜欢的人之一。所以。是的。就是这样。我也是，但，但他是我的老板。我，我必须这么说。让我们看看。那么，你，你谈到了，我们稍微谈过商业载人航天。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "We have uh cargo supply resupply one, which you have the Dragon, which of course Dragon one, which is uh birthed. And and in fact, you've done a reflight recently with uh with the Dragon. You know, thanks for bringing that up. You know, um cuz that's kind of important. Yes, it is. And again, thanks for the NASA support on that.",
+      "textZh": "我们有，呃，货物供应再补给一号，其中有 Dragon，当然是 Dragon 1，它是，呃，被生出来的。而且，而且事实上，你们最近让，呃，让 Dragon 再飞了一次。你知道，谢谢你提起这件事。你知道，嗯，因为那算是挺重要的。是的，确实。而且还是要感谢 NASA 对此的支持。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Um God, we we really should uh you know, we should have made a slightly bigger deal out of it because it was the first reflight of a spacecraft since the shuttle. Mhm. Um and uh we kind of forgot to make, you know, let people know to I mean, I guess it was there in the details, but we forgot to you know, let I don't think the public even realizes that it's the first reflight of a spacecraft orbital spacecraft since the shuttle.",
+      "textZh": "嗯，天哪，我们，我们真的应该，呃，你知道，我们本应该把它稍微当成更大的事来宣传，因为这是自航天飞机以来航天器的首次复飞。嗯哼。嗯，而且，呃，我们有点忘了去，你知道，让人们知道，我是说，我猜细节里提到了，但我们忘了去，你知道，让——我觉得公众甚至都没有意识到，这是自航天飞机以来，航天器，轨道航天器的首次复飞。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Um Which performed very well, too. Very good good clean mission. Yeah, solid. Um I mean, that that now that was a case case where I should in full disclosure say that it cost us almost as much to in fact, probably about as much, maybe more to re- re- negotiating contract here. No, I know. I know. I'm just I'm just being totally honest here.",
+      "textZh": "嗯，它的表现也非常好。非常棒、干净利落的任务。对，很扎实。嗯，我是说，那，那个现在是一个案例，案例，在这里我应该完全披露，说它花了我们几乎一样多的钱，事实上，可能差不多一样多，也许更多，去重新——重新——在这里谈合同。不，我知道。我知道。我只是在，我只是在这里完全坦诚。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "Um I I Our the SpaceX internal accounting said that it cost us almost as much as building a a Dragon one from scratch. I suspect our internal accounting was probably being um wasn't counting certain things. Um There were some circumstances unusual about this one, right? This one had some water incursions and things like that. Yeah, yeah. The amount of rework on this particular This had a lot of rework, yeah.",
+      "textZh": "嗯，我，我，我们的 SpaceX 内部核算说，它花了我们几乎和从零开始造一艘 Dragon 1 一样多的钱。我怀疑我们的内部核算可能，嗯，没有把某些东西算进去。嗯，这一艘有一些不寻常的情况，对吧？这一艘有一些进水之类的问题。对，对。这个特定的返工量——这个有很多返工，对。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "But the next one, we think there's a decent shot of of being maybe sort of 50% the cost of a new one. Um and uh Keep going. My contract is here. Yeah, I'm negotiating against myself here. Yes. Um and um but um yeah, no, I I mean, we want to offer the, you know, best possible uh deal deal for NASA and um it's always tough to get that top line budget to increase. Hope it does.",
+      "textZh": "但下一艘，我们认为有相当不错的机会，成本也许大概是新造一艘的50%。嗯，而且，呃，继续说。我的合同就在这里。对，我这是在跟自己谈判。是的。嗯，而且，嗯，但是，嗯，对，不，我，我是说，我们希望为 NASA 提供，你知道，尽可能好的，呃，交易，交易，而且要让那个总预算增加总是很难。希望它会增加。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Um man, I think so much could be could could be accomplished if the NASA top line budget was increased. I think people have no idea, you know. Um So, it's there. So, talk a little bit So, we talked about CRS one and and birthing and CRS two. Are we talking about commercial crew? CRS two, the Dragon is going to its cargo Dragon It's It's the similar Adam old line of It's It's It's It's Dragon two, it's yeah. But it's going to dock.",
+      "textZh": "嗯，天哪，我觉得如果 NASA 的总预算增加，可以，可以，可以完成非常多的事情。我觉得人们根本不知道，你知道。嗯，所以，它就在那里。那么，稍微谈谈，所以，我们谈了 CRS 1 和分娩以及 CRS 2。我们是在谈商业载人吗？CRS 2，Dragon 将要，它的货运 Dragon，它，它是相似的亚当老一套的，它，它，它，它是 Dragon 2，它是，对。但它将会对接。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "And so, talk about the it could then we'll have good commonality between the two. and and things like that. Yeah. Um so, the I mean, the only thing cargo Dragon won't have is the launch escape system. Uh although it'll still have the logic associated with separating from the vehicle. Uh So, I I think most likely even even cargo Dragon two um would be able to survive uh booster anomaly. Like like that word anomaly.",
+      "textZh": "所以，谈谈它可以，然后我们会让两者之间有很好的通用性。以及诸如此类的东西。对。嗯，所以，我是说，货运 Dragon 唯一不会有的东西就是发射逃逸系统。呃，尽管它仍然会有与脱离飞行器相关的逻辑。呃，所以，我，我认为即使，即使是货运 Dragon 2，嗯，也很可能能够挺过，呃，助推器异常。我喜欢，喜欢“异常”这个词。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Um The the We don't like that word. Yeah, well, I got um I guess I don't like it. Yeah, right. Um The the one of the the launch It have everything else on the Dragon crew Dragon two has except the the thrusters, but I think in most cases actually it would still be able to survive re-entry um and and keep the cargo safe. Um But uh but having that commonality is great. Yeah.",
+      "textZh": "嗯，这个，这个——我们不喜欢那个词。对，好吧，我，嗯，我猜我不喜欢。对，没错。嗯，这个，这个，发射中的一个——它会拥有载人 Dragon 2 上除推进器以外的其他一切，但我认为实际上在大多数情况下，它仍然能够挺过再入，嗯，并且，并且保证货物安全。嗯，但是，呃，但是拥有那种通用性很棒。对。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "Yeah, I mean, going forward, it seems like, you know, docking itself and if, you know, even beyond testing of systems and evolutions and things that might be beneficial to test on on the cargo version Yeah, totally. Absolutely. And I know you've already done some things on on CRS one to prepare for CRS two and you're testing some TPS uh repair capability and things like that. So, exactly.",
+      "textZh": "对，我是说，展望未来，看起来，你知道，对接本身，还有如果，你知道，甚至超越系统测试，以及演进和那些可能适合在货运版本上测试的东西——对，完全是。绝对是。而且我知道你们已经在 CRS 1 上做了一些事情，为 CRS 2 做准备，你们正在测试一些 TPS，呃，修复能力之类的东西。所以，正是如此。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Um actually uh uh I really, you know, just like to uh you know, express some appreciation for the the whole CRS team um because they they've really allowed us to uh update the rocket and you know, add crazy things like landing legs. Um and um and been really fair, I think, in allowing us to iterate with the booster for for the CRS contract.",
+      "textZh": "嗯，实际上，呃，呃，我真的，你知道，只是想，呃，你知道，对整个 CRS 团队表达一些感谢，嗯，因为他们，他们确实允许我们，呃，更新火箭，而且你知道，加入像着陆腿这样的疯狂东西。嗯，而且，嗯，而且我认为，在允许我们为 CRS 合同对助推器进行迭代这件事上，他们真的非常公平。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Um And then uh uh and and then as you're pointing out, um Dragon two being used for both uh cargo and crew allows us to iterate uh uh with a just a slight less little more risk on the cargo version um and prove it out for the screw on board. Yeah, it's really helpful. Excellent. So, let's let's talk about I I I know we got a few more minutes here and then we'll open it up to questions.",
+      "textZh": "嗯，然后，呃，呃，而且，而且然后正如你所指出的，嗯，Dragon 2 同时用于，呃，货运和载人，使我们可以在货运版本上以只是稍微少一点、再多一点的风险进行迭代，嗯，并为船上的螺丝验证它。对，这真的很有帮助。非常好。那么，我们来谈谈，我，我，我知道我们这里还剩几分钟，然后我们会开放提问。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "But uh you know, the the theme here is for the conference is innovation. And and of course we talked already about some innovations in the launch business, but what what do you think needs to be Where are the areas or the thrusts for innovation that we really need both uh you know, not not excluding the launch, but but also looking at lower earth orbit. What's in lower earth orbit?",
+      "textZh": "但是，呃，你知道，这次会议的，这个主题是创新。而且，而且我们当然已经谈过发射业务中的一些创新，但你觉得什么需要——创新的领域或着力点在哪里，是我们真正需要的，既，呃，你知道，不排除发射，但，但是也要着眼于近地轨道。近地轨道上有什么？"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Where do we Where do you think we as a as a uh you know, space industry need to go and look for our innovation? Yeah. Um Well, you know, I I I think for long I I I I still believe in I think many people do that the the real the key to opening up uh space space or orbit, you know, Leo and beyond is um rapid and complete reusability. Um uh uh near complete reusability. Um Like we have with aircraft.",
+      "textZh": "我们要去哪里？你认为我们作为一个，作为一个，呃，你知道，航天行业，需要去哪里寻找我们的创新？对。嗯，嗯，你知道，我，我，我认为长久以来，我，我，我，我仍然相信，而且我觉得很多人都相信，真正的，开启，呃，太空，太空或者轨道，你知道，近地轨道及更远处的关键，是，嗯，快速且完全的可重复使用。嗯，呃，呃，接近完全的可重复使用。嗯，就像我们的飞机一样。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Um or cars or you know, almost any form of transport. Um Now, it's it's super hard with space cuz this is uh you know, we live on a planet with pretty high gravity. Um so, so, it'd be pretty easy if we're on Mars or something like that.",
+      "textZh": "嗯，或者汽车，或者，你知道，几乎任何运输形式。嗯，现在，太空这件事超级难，因为这里，呃，你知道，我们生活在一颗引力相当高的行星上。嗯，所以，所以，如果我们在火星或类似的地方，那就会很容易。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "Um But uh but the earth's gravity is is really pretty pretty high and we've got a thick atmosphere and um so, uh reus- reus- reusability is tough when you're going through, you know, high sort of you you're going to operate in a vacuum, hypersonic, uh supersonic, transonic, subsonic. Um That's just a lot of regimes for um any sort of flying object to go through.",
+      "textZh": "嗯，但是，呃，但是地球的引力确实相当，相当高，而且我们有浓厚的大气层，嗯，所以，呃，重用——重用——可重复使用很困难，因为你要经历，你知道，高度的那种，你——你要在真空、高超音速、呃，超音速、跨音速、亚音速环境中运行。嗯，对于，嗯，任何一种飞行物体而言，要经历的工况实在太多了。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "Um Uh but but reusability I think is absolutely fundamental to a breakthrough in uh access to orbit and beyond. Um the Leo Leo and beyond. Um Anything that can be done in that direction, I think is is is good. Mhm. Surely change the economics of transportation to lower earth orbit, right? Really fundamental. You get quick reusability, the economic equation it becomes easier to get to lower earth orbit and do more things. Yeah.",
+      "textZh": "嗯，呃，但是，但是我认为，可重复使用对于在，呃，进入轨道以及更远处方面取得突破，绝对是根本性的。嗯，近地轨道，近地轨道以及更远处。嗯，我认为，朝那个方向所能做的任何事情都，是，是，是好的。嗯哼。肯定会改变前往近地轨道的运输经济性，对吧？确实是根本性的。你实现快速重复使用，经济方程就会让前往近地轨道、做更多事情变得更容易。对。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "Yeah, I mean, it's kind of like, you know, just any mode of transport. Like it's uh And before there was the Union Pacific going across the US to California, and there was like hardly any people in California. People thought building the Union Pacific was just crazy cuz you got like nobody there. So, why are we building a railroad to nowhere? Um Now, you know, California's most populous state in the country.",
+      "textZh": "对，我是说，这有点像，你知道，就是任何运输方式。比如，呃，而且在联合太平洋铁路横穿美国通往加利福尼亚州之前，加利福尼亚州几乎没有什么人。人们觉得修建联合太平洋铁路简直疯了，因为那里基本没人。所以，我们为什么要修一条通往无处的铁路？嗯，现在，你知道，加利福尼亚州是全国人口最多的州。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "Um Some people stopped in Texas along the way. Yeah, yeah. Few of us did. Um I love Texas. By the way, by the way. Texas. Uh you know, we we do uh a huge part of our R&D in Texas, in Central Texas. A lot of people don't know about that. Um near Waco. We have Um so Central Central Texas, we do um You did Boca Chica down in the south there. That's right. Yeah, yeah, exactly. So, we've got a lot of activity um uh throughout Texas.",
+      "textZh": "嗯，有些人中途停在了得克萨斯州。对，对。我们中有少数人这么做了。嗯，我爱得克萨斯州。顺便说，顺便说。得克萨斯州。呃，你知道，我们，我们在得克萨斯州，在得克萨斯州中部开展了很大一部分研发。很多人不知道这件事。嗯，在韦科附近。我们有——嗯，所以得克萨斯州中部，得克萨斯州中部，我们做，嗯——你们还在南边那里做了博卡奇卡。没错。对，对，完全正确。所以，我们在整个得克萨斯州都有很多活动，嗯，呃。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Um we're building yet third launch site um in South Texas near Brownsville. Um I think that'll that'll give us good uh um you know, contingency capability if there's a say a hurricane coming through the cape um and we still need to get to the station, we could, you know, launch out of South Texas and that that'll ensure continuity of service. Um and um yeah. I really I spend a lot of time in Texas. Yeah, it's great. Excellent. All right.",
+      "textZh": "嗯，我们正在南得克萨斯州布朗斯维尔附近建设第3个发射场。嗯，我认为那会，那会给我们提供很好的，呃，嗯，你知道，应急能力，比如说有飓风正经过卡纳维拉尔角，嗯，而我们仍然需要前往空间站，我们就可以，你知道，从南得克萨斯州发射，那，那将确保服务的连续性。嗯，还有，嗯，是的。我确实，我在得克萨斯州待了很多时间。是的，那里很棒。太好了。好了。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "Uh traffic's not as bad as in Southern California. Oh man, traffic. So, that's the biggest issue with Southern California, traffic hell. I mean It's like It's like which level of hell are you in? You're in hell. Yeah, Washington's uh trying to catch up. But you know you know what we're I I mean this is I mean um we're digging a tunnel. Have you heard about that? Yeah. Yeah.",
+      "textZh": "呃，交通不像南加利福尼亚州那么糟。哦，天哪，交通。所以，那是南加利福尼亚州最大的问题，交通地狱。我是说，这就像，这就像你身处哪一层地狱？你就在地狱里。对，华盛顿，呃，正在努力赶上。不过你知道，你知道我们在——我，我是说，这个，我是说，嗯，我们正在挖一条隧道。你听说过吗？对。对。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "Um So so it's like the the and the tunnel starts right across from SpaceX HQ. So, if you're ever out and want to see our tunnel uh Yeah, as long as you promise not to close it in after That's not a problem. Um it would Yeah, we're digging a tunnel. Um and I it's kind of like a So, actually maybe I don't know.",
+      "textZh": "嗯，所以，所以它就像那个，那个，而且隧道就在SpaceX总部对面开始。所以，如果你哪天在外面，想看看我们的隧道，呃，是的，只要你保证之后不会把它封起来。那没问题。嗯，它会，是的，我们正在挖一条隧道。嗯，而且我，它有点像一个，所以，其实也许我不知道。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Sort of It It's like a little Actually, oddly enough, it's like a little low-stress activity cuz like everyone uh expects it to fail um and um I mean the sort of uh grown-worthy joke that I make about uh tunnels is that they have low expectations. There's nowhere to go but down. Yes. I could keep going. Uh Wow. Um That makes sense. You you're involved in space, you're involved in tunnels, you kind of kind of cover the gamut.",
+      "textZh": "算是，它，它像是一个小小的，其实，奇怪的是，它像是一项压力很小的活动，因为好像每个人，呃，都预期它会失败，嗯，而且，嗯，我是说，我关于，呃，隧道会讲的那种，呃，让人想呻吟的笑话是，人们对它们的期望很低。除了向下，哪儿也去不了。是的。我还能继续说。呃，哇。嗯，这说得通。你，你涉足太空，也涉足隧道，你算是，算是涵盖了整个范围。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "They used to call me internet guy when I was in startup open space. Um hey, this is internet guy. Uh he's in space. He's obviously going to fail. Um So, then they stopped saying internet guy. Um I think they call me transport guy. He's a transport guy. So, talk Speaking of transports, you know, so today ISS is up there and and really the conference is focused a lot on on some of the research and development that's going on there.",
+      "textZh": "我在初创开放空间时，他们过去常叫我互联网小子。嗯，嘿，这是互联网小子。呃，他进了太空。他显然会失败。嗯，所以，后来他们不再说互联网小子了。嗯，我想他们叫我交通小子。他是个交通小子。那么，谈——说到交通工具，你知道，如今国际空间站就在上面，而且，而且这次会议确实非常关注那里正在开展的一些研究与开发。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "But and and commercialization, too, by the way. But what and commercialization, at least NASA's strategy is commercialization will will be fostered on ISS and then at some point in the future ISS will go away and and we are we we expect we hope for a vibrant lower earth orbit economy at that point in time. That's cool. And I'm kind of curious what what you see in terms of SpaceX and your transportation relative to that that economy.",
+      "textZh": "不过，而且，而且顺便说一下，也包括商业化。但什么，而且商业化，至少NASA的策略是，商业化将会，将会在国际空间站上得到促进，然后在未来某个时候，国际空间站将会消失，而且，而且我们是——我们，我们预期，我们希望届时会有一个蓬勃发展的近地轨道经济。那很酷。我有点好奇，就那种，那种经济而言，你怎么看，怎么看SpaceX以及你们的运输。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "What's next for commercial crew after after ISS? Sure. Well, first of all, I don't think the public realizes how cool ISS is. Um you know, that is an awesome thing that's up there. Um you know, I I I talked to a lot of people that First of all, some people don't realize we have a space station. Like you can't can't be serious. Uh like we have a gigantic space station. It's huge. Yeah, it's really gigantic.",
+      "textZh": "国际空间站之后，之后，商业载人航天的下一步是什么？当然。嗯，首先，我认为公众没有意识到国际空间站有多酷。嗯，你知道，那是一个在上面的了不起的东西。嗯，你知道，我，我，我和很多人谈过，他们，首先，有些人没意识到我们有一座空间站。好像，你不可能，不可能是认真的。呃，好像我们有一座巨大的空间站。它非常大。是的，它真的非常巨大。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "Um um I mean it's a pretty incredible structure that we have orbiting uh orbiting the earth um and I think just I I I'd recommend like man, we've got to do something to educate the public about the awesomeness of of of the space station cuz it is pretty amazing. Um and and and big. Like people just lose sight of like they think oh, it's like a little thing. You know, it's big. It's real big.",
+      "textZh": "嗯，嗯，我是说，我们有一个相当不可思议的结构在绕着，呃，绕着地球运行，嗯，而且我只是觉得，我，我，我会建议，天啊，我们得做点什么，让公众了解空间站有多么了不起，因为它确实相当惊人。嗯，而且，而且，而且很大。就像人们只是忽略了这一点，好像他们觉得，哦，它就是个小东西。你知道，它很大。真的很大。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "Um and um yeah, so uh and and I was finally getting it to sort of real operational use and um that was great. So, again, amazing technological achievement.",
+      "textZh": "嗯，而且，嗯，是的，所以，呃，而且，而且我终于让它算是投入了真正的实际运行使用，而，嗯，那很棒。所以，再说一次，这是了不起的技术成就。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "So, uh but then yeah, uh I I I think the the in terms of lower earth orbit stuff on the commercial side, I think there's a lot of opportunities in um you know, kind of a global internet capability to providing internet to parts of the world that either don't have it or where it's very expensive and not very good.",
+      "textZh": "所以，呃，不过话说回来，是的，呃，我，我，我认为，就商业方面的近地轨道事物而言，我认为存在很多机会，嗯，你知道，比如某种全球互联网能力，为世界上那些要么没有互联网、要么互联网非常昂贵且不太好用的地区提供互联网。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "Um Yeah, so like the the space is really good for providing uh internet connectivity uh for sparsely populated or or low populated regions. Um So, it's not it's not really a threat to telcos. It actually can make um make telcos' lives easier because there are a lot of customers that are very hard to serve where like you're digging a fiber cable for 2 miles, they'll never pay off the investment to you know, to get to one house type of thing. Mhm.",
+      "textZh": "嗯，是的，所以太空确实很适合为，呃，人口稀疏或或人口较少的地区提供互联网连接。嗯，所以，它并不是，它并不真正威胁电信运营商。实际上，它可以让，嗯，让电信运营商的日子更轻松，因为有很多客户很难服务，就像你要挖沟铺设2英里的光纤，他们永远无法让这项投资回本，你知道，只为了连接一栋房子之类的。嗯哼。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "But um but for space, you can really serve serve those customers um at at at so at economically sensible rates. Um There's earth observation um you're getting better understanding of um of uh uh natural sort of uh nat- any natural disaster uh you know, information. Um and um You know, but I think the If you want to get the the public real fired up, I think we got to we got to have a base on the moon. You know?",
+      "textZh": "但是，嗯，但通过太空，你确实可以用，嗯，以，以，以所以在经济上合理的费率服务那些客户。嗯，还有地球观测，嗯，你可以更好地了解，嗯，关于，呃，呃，自然的那种，呃，自然——任何自然灾害，呃，你知道，相关的信息。嗯，还有，嗯，你知道，但我认为，如果你想让公众真正兴奋起来，我觉得我们得，我们得在月球上建一个基地。你知道吗？"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "Uh I don't It's like that'd be pretty cool. Um and then going beyond that, getting people to Mars. Yeah. Certainly sending people further we've ever sent them before, I think it's captivating for the people, so. Yeah, exactly. It's captivating for me, I know that. Yeah, exactly.",
+      "textZh": "呃，我不知道，那样好像会非常酷。嗯，然后再超越那一步，把人送上火星。是的。当然，把人送到比我们以前送过的任何地方都更远的地方，我认为这会吸引人们，所以。是的，没错。它很吸引我，这一点我知道。是的，没错。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "Um So, uh yeah, just uh you know, having some permanent presence on another heavenly body um should be the the kind of moon base and then the uh you know, getting getting people to to Mars and beyond. Um and uh you know, it's sort of the That's the that's the continuance of the dream of Apollo that uh I think um people are really looking for. Yeah. Excellent.",
+      "textZh": "嗯，所以，呃，是的，就是，呃，你知道，在另一个天体上建立某种永久存在，嗯，应该是那种月球基地，然后是，呃，你知道，把，把人送到，到火星以及更远的地方。嗯，而且，呃，你知道，这有点就是，那就是，那就是阿波罗梦想的延续，呃，我认为，嗯，人们真正期待的就是这个。是的。太好了。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "You know, this might be a good time to to go ahead and open it up for a few questions from the audience. Uh we're where the um where they're on the side. I think microphones on the side. I can't tell if people are I don't know where they are. lights are so bright, it's hard to tell. I know this is a risk asking people to ask questions, but uh any uh any questions? Looks like there's a few people signed up lined up over here, so. Go ahead.",
+      "textZh": "你知道，现在或许是个好时机，可以，可以开始向观众开放几个提问。呃，我们在，那个，那里在侧面。我想麦克风在侧面。我看不出来大家是不是，我不知道他们在哪里。灯太亮了，很难看清。我知道让大家提问是有风险的，不过，呃，有没有，呃，有没有问题？看起来有几个人已经报名，在这边排队了，所以。请讲。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "Uh hi Elon, over here from the UK. Pleasure to ask a question to you. Um my question is how are you managing the risks associated with the Falcon Heavy and particularly the recently announced private launch around the moon. Thank you for your time. Sure. Um so the But first of all, I should say Falcon Heavy that requires the simultaneous uh ignition of 27 orbit class engines. Um It's like, you know, a lot that could go wrong there.",
+      "textZh": "呃，你好，埃隆，我在这边，来自英国。很荣幸能向你提问。嗯，我的问题是，你们如何管理与猎鹰重型火箭相关的风险，尤其是最近宣布的私人绕月发射任务所涉及的风险。感谢你抽出时间。当然。嗯，所以，但首先，我应该说，猎鹰重型火箭需要同时，呃，点燃27台轨道级发动机。嗯，这就像，你知道，有很多地方可能出错。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Um and uh I I encourage people to come down to the cape uh and see the first Falcon Heavy mission. Uh it's guaranteed to be exciting. Um But it But it's you know, this is one of those things that's really difficult to test on the ground.",
+      "textZh": "嗯，而且，呃，我，我鼓励大家到卡纳维拉尔角来，呃，观看猎鹰重型火箭的首次任务。呃，它肯定会很刺激。嗯，但是，但是它，你知道，这是那种真的很难在地面上测试的东西之一。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "Um I mean we can fire the engines on the ground, but um and we try to simulate the the the dynamic the dynamics of having 27 instead of nine booster engines um and the you know, the airflow as it goes through transonic. Uh it's like it's going to see heavy transonic buffet. Um the max Q or has behavior on a max Q. Um There's a lot of risk associated with Falcon Heavy. Real good chance that that vehicle does not make it to orbit.",
+      "textZh": "嗯，我是说，我们可以在地面点燃发动机，但是，嗯，而且我们会尝试模拟使用27台而不是9台助推器发动机时的动态，那个动态，嗯，以及，你知道，它穿越跨声速阶段时的气流。呃，就像它会遭遇强烈的跨声速抖振。嗯，最大动压，或者在最大动压下的表现。嗯，猎鹰重型火箭伴随着很多风险。这个运载器很有可能无法进入轨道。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Um want to make sure set expectations accordingly. Um I hope I hope it makes it past you know, far enough away from the pad that it does not cause cause pad damage. I would consider even that a win, to be honest. Um um and uh yeah. Um Very exciting. Major pucker factor, really. It's like another way to describe it. Um You know, that dwindles that that dwindles the amount of people who want to ride on that the first time. Yeah.",
+      "textZh": "嗯，想确保大家据此设定预期。嗯，我希望，我希望它能够飞过，你知道，飞到离发射台足够远的地方，不会造成，造成发射台损坏。老实说，即便只是这样，我也会认为是一次胜利。嗯，嗯，而且，呃，是的。嗯，非常刺激。真的非常让人紧张。可以这样换一种说法。嗯，你知道，这让，那让第一次就想乘坐它的人数减少了。是的。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "Well, It gets smaller cap There are still people And full disclosure here, man. Full disclosure. Um Um I you know, I think Falcon Heavy is going to be a great vehicle. Uh just just like so much that's really impossible to test on the ground. Um and we'll do our best. Um and um it it actually ended up being way way harder to do Falcon Heavy than we thought. Uh cuz it's at At first, it sounds real easy.",
+      "textZh": "嗯，它变得更小了，帽子。还是有人。而且这里要充分披露，伙计。充分披露。嗯，嗯，我，你知道，我认为猎鹰重型火箭会是一款很棒的运载器。呃，只是，只是有太多东西确实无法在地面上测试。嗯，我们会尽最大努力。嗯，而且，嗯，事实上，制造猎鹰重型火箭最终比我们想象的要难得多，多得多。呃，因为它一，一开始听起来真的很容易。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "Just stick two first stages on as strap-on boosters. Yeah, how how hard can that be? But then everything changes. All the loads change. Um Aerodynamics totally change. Uh you've tripled the vibration and acoustics. Um so, if you sort of break the the qual levels on so much of the hardware um the amount of load you're putting through that center core is ins- is crazy um cuz you've got two super powerful boosters also shoving that center core.",
+      "textZh": "只要把两个第一级装上去，作为捆绑式助推器就行了。对啊，那能有多难？但接着一切都变了。所有载荷都变了。嗯，空气动力学完全变了。呃，振动和声学强度增加到了3倍。嗯，所以，你算是让很多硬件都突破了鉴定等级，嗯，而且施加在中央芯级上的载荷简直是疯——疯狂的，嗯，因为还有两个超级强劲的助推器也在推动那个中央芯级。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "And it's like So, we had to redesign the the whole center core airframe. Uh it's not like the Falcon 9 cuz it's got to take so much load. Um, then you got the separation systems. Um, and, uh, yeah, it just ended up being really way, way more difficult than we originally thought. Uh, we were pretty naive about that.",
+      "textZh": "而且就像，所以，我们不得不重新设计整个中央芯级机体。呃，它和 Falcon 9 不一样，因为它必须承受非常大的载荷。嗯，然后还有分离系统。嗯，而且，呃，对，结果就是它真的比我们最初以为的困难太多、太多了。呃，我们当时对此相当天真。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "Um, but I I but it the nice thing is it's it's, uh, yeah, when it on fully optimized, it's about 2 and 1/2 times the payload capability of a Falcon 9. So, you know, it's um, well over 100,000 lbs to to Leo uh, payload capability, yeah, about 50 tons, could even get up to a little higher than that if, you know, if optimized.",
+      "textZh": "嗯，但我，我，但它的好处是，它，它，呃，对，在完全优化后，它的有效载荷能力大约是 Falcon 9 的 2 又 1/2 倍。所以，你知道，它，嗯，送入近地轨道的有效载荷能力远超 100,000 磅，呃，对，大约 50 吨，如果，你知道，如果经过优化，甚至还能再高一点。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "Um, and, um, and then the the nice thing is that does have the throw capability to toss a Dragon 2 in a loop around the moon. Um, and, um, and then Dragon 2 itself, uh, the heat shield is, um, designed with a huge amount of margin. So, it's got enough margin to handle, uh, lunar re-entry. Um, and, uh, particularly if we do initial velocity scrub, um, do sort of at least one pass to scrub velocity, then come in on the second pass.",
+      "textZh": "嗯，而且，嗯，然后它的好处是，确实有足够的投送能力把 Dragon 2 送上绕月一圈的飞行轨迹。嗯，而且，嗯，然后 Dragon 2 本身，呃，它的隔热罩，嗯，设计时留有巨大的裕量。所以，它有足够的裕量承受，呃，从月球返回时的再入。嗯，而且，呃，尤其是如果我们先降低初始速度，嗯，先进行至少1次掠过来降低速度，然后在第2次进入大气层。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "Um, um, yeah, but, uh, no question, whoever's on the first flight, you know, brave. Yes. Let's see, let's go over here to this side. Here's a question from over here. Uh, hey Elon. Uh, Ted Tagami with, uh, educational company called magnitude. io. I had the good fortune of meeting you, uh, back in September watching your five sons launch their own rockets Black Rock Desert. Oh, yeah, cool. Yeah. That was fun.",
+      "textZh": "嗯，嗯，对，不过，呃，毫无疑问，不管谁参加首次飞行，你知道，都很勇敢。是的。来看看，我们转到这边。这里有一个来自这边的问题。呃，嗨，埃隆。呃，我是 Ted Tagami，来自一家名为 magnitude.io 的教育公司。早在 9 月，我有幸见过你，呃，当时观看你的 5 个儿子在黑岩沙漠发射他们自己的火箭。哦，对，酷。对。那很有意思。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "And since then, we've actually been able uh, had the great fortune of sending students payloads up to the International Space Station. And we're now working with CASIS to extend that. We'd like 50 million students to get on the International Space Station, their experiments on the Space Station by 2014. Uh, so my question to you is more about the innovations in education and your thoughts.",
+      "textZh": "从那以后，我们实际上已经能够，呃，非常有幸地把学生们的有效载荷送上国际空间站。现在我们正与 CASIS 合作来扩大这项工作。我们希望到 2014 年能让 5000 万名学生登上国际空间站，让他们的实验登上空间站。呃，所以我想问你的更多是关于教育创新以及你的看法。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "That same year that I met you and your sons, uh, you announced Ad Astra. Oh, yeah. Uh, and and before the, uh, advent of Neuralink gets fully implemented, what what are your thoughts on the innovations in education today? Thank you. Uh, just the thoughts on education.",
+      "textZh": "就在我遇见你和你的儿子们的同一年，呃，你宣布了 Ad Astra。哦，对。呃，而且在，呃，Neuralink 的出现得到全面实施之前，你对当今教育创新有，有什么看法？谢谢。呃，就是对教育的看法。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "Um, well, um, I I think there's maybe a um, there's definitely some good schools out there, um, but I think the some of the the mistakes, at least in my opinion, that I see being made in education is, um, that um, people teachers do not explain why kids are being taught a subject. Um, you know, you just sort of get dumped into math and like, well, why are you learning math? What's the point of this?",
+      "textZh": "嗯，那个，嗯，我，我认为可能有一个，嗯，外面肯定有一些好学校，嗯，但我认为，至少在我看来，我在教育中看到的一些，一些错误是，嗯，那个，嗯，人们，老师们没有解释为什么要教孩子们某个科目。嗯，你知道，你就这么一下子被扔进数学里，然后就像，嗯，你为什么要学数学？这有什么意义？"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "It seems like some, you know, for some people like maybe it's a I don't know why I'm being asked to do these strange problems. Um, but you know, the why of things is extremely important. Um, because, you know, our brain has evolved to not to discard information that it thinks is has no relevance.",
+      "textZh": "这似乎像是某种，你知道，对有些人来说，也许这是一种，我不知道为什么别人要我做这些奇怪的问题。嗯，但你知道，事情背后的原因极其重要。嗯，因为，你知道，我们的大脑已经进化成不会去丢弃它认为没有关联的信息。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "So, then if on the one hand you, uh, you're being asked to memorize or learn, uh, say formulas, um, but you do not know why this is the case, then you have this cognitive dissonance of it seems irrelevant, but I'm being told to remember it, so I'll be punished.",
+      "textZh": "所以，如果一方面，你，呃，被要求记住或学习，呃，比如公式，嗯，但你不知道为什么会是这样，那么你就会产生这种认知失调：这似乎无关紧要，但我却被告知要记住它，所以我会受到惩罚。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "So, so I better remember it, but so the why of things is very important, and then, uh, being able to and and then pi- picking kind of a a problem, and then, uh, using various educational tools to solve that problem, um, like using math or physics or economics to to solve that problem is far more engaging, um, than teaching the tools.",
+      "textZh": "所以，所以我最好记住它，但，所以事情背后的原因非常重要，然后，呃，能够，而且然后选——选择一个某种问题，再，呃，运用各种教育工具来解决那个问题，嗯，比如运用数学、物理学或经济学来解决那个问题，要比教授这些工具本身吸引人得多，嗯。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "Um, you know, it's different between if you say, well, we're going to take apart this, uh, this engine, um, and and see how it works and put it back together again.",
+      "textZh": "嗯，你知道，这和你说，嗯，我们要拆开这台，呃，这台发动机，嗯，看看它是怎么运作的，然后再把它重新装起来，是不一样的。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "Um, and then in order to take the engine apart, we need, you know, wrenches and screwdrivers and a winch, um, and Allen keys and and whatnot, um, and and and it's a and then in the course of solving the problem of taking the engine apart and putting it back together, you learn about wrenches and screwdrivers and all the tools that you need. Um, and then now you understand the relevance. Ah, this is why wrenches are important.",
+      "textZh": "嗯，然后为了拆开发动机，我们需要，你知道，扳手、螺丝刀、绞盘，嗯，还有内六角扳手之类的东西，嗯，而且，而且，而且这是一个，然后在解决拆开发动机再把它装回去这个问题的过程中，你会了解扳手、螺丝刀以及你需要的所有工具。嗯，然后现在你理解了它们的关联性。啊，这就是扳手很重要的原因。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "I you know, whereas if you had a a class on wrenches, you'd be like, uh, why is this this not seem that great, you know? Um, so ti- tying it to solving a problem is I think very powerful for, um, establishing relevance and getting, um, kids excited about what they're working on. Um, and then and uh, and and having the knowledge stick. Yeah.",
+      "textZh": "我，你知道，然而如果你上的是一门关于扳手的课，你就会想，呃，为什么这个，这个感觉没那么好，你知道吗？嗯，所以，把——把它与解决一个问题联系起来，我认为对于，嗯，建立关联性并让，嗯，孩子们对自己正在做的事情感到兴奋，是非常有力的。嗯，然后，而且，呃，而且，而且还能让知识牢牢记住。对。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "And so to some extent, fly, you know, building a a a CubeSat or flying an experiment on on ISS is like that, right? You you've got the you've got the why or the relevance and the curiosity and in terms of building that, uh, that device or that experiment. I I think there's some really cool and it ties to the, it gives you a really a concrete example of what, uh, what you're learning and why. Yeah, exactly.",
+      "textZh": "所以在某种程度上，飞，你知道，制造一颗，一颗，一颗立方星，或者在国际空间站上进行一项实验，就是这样，对吧？你，你已经有了，你已经有了那个原因，或者说关联性和好奇心，也就是制造那个，呃，那个设备或那项实验。我，我认为这里面有一些真的很酷的东西，而且它与那个联系起来，它让你真正具体地看到，呃，你正在学习什么以及为什么。对，没错。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "I think like things like CubeSats, uh, exactly. We're we're because say like, okay, w- like what is a solar panel? How does orbital dynamics work? How do we, um, you know, how do we power this thing? You know, how do batteries work? Electronics, co- control systems, um, and you you need to then then you're like, oh, we want to make our satellite work. That's why we need to understand all these disciplines.",
+      "textZh": "我认为，像立方星这样的东西，呃，没错。我们，我们因为会说，比如，好吧，太- 比如，太阳能电池板是什么？轨道动力学如何运作？我们要怎么，嗯，你知道，怎么给这东西供电？你知道，电池是怎么工作的？电子设备、控- 控制系统，嗯，然后你，你需要，然后，然后你会想，哦，我们想让我们的卫星运转起来。这就是为什么我们需要了解所有这些学科。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Um, so I think it's like like CubeSats students CubeSats are great. Um, like things like design build fly for model airplanes or Formula SAE. Uh, we've got a design and build a, um, kind of a uh, a race car and and then you know, race that against other people. That I think those things are very powerful for uh, learning as learning tools. Yeah, very cool. All right, thank you. I see over here another question.",
+      "textZh": "嗯，所以我认为，像，像立方星、学生立方星都很棒。嗯，还有像模型飞机的设计、制造、飞行项目，或者大学生方程式赛车。呃，我们得设计并制造一辆，嗯，算是一辆，呃，一辆赛车，然后，你知道，让它和其他人比赛。我认为，这些东西作为学习工具，对于，呃，学习非常有力。是的，非常酷。好了，谢谢。我看到这边还有一个问题。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "Uh, hi, my name is, uh, Jacob and I actually live near the Cape. So, my question is not much of a tech question, but more of what your prediction is. So, about maybe 100 years after we develop sustainable colonies on Mars, do you think, and of course many other countries will also try to get to Mars, uh, that there would be like a conflict for the best resources on Mars?",
+      "textZh": "呃，你好，我叫，呃，雅各布，实际上我就住在卡纳维拉尔角附近。所以，我的问题不太算技术问题，更多是想问你的预测。那么，在我们于火星上建立可持续殖民地大约100年后，你认为，当然许多其他国家也会努力前往火星，呃，会不会出现类似争夺火星上最佳资源的冲突？"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "Um, like in I guess you could say in sort of like a interplanetary warfare, if you know what I'm trying to get This sounds like a video game, doesn't it? Uh, it's an idea. Mars Attacks or, um, the you know, I think it's some pretty open territory on Mars. Um, so there's I don't think we're going to be there's going to be any kind of scarcity. Uh, there's like a lot of land on Mars. Not many people. Um, so Unless they're hiding on the backside.",
+      "textZh": "嗯，比如，我想你可以说，算是某种行星际战争，如果你明白我想表达的……这听起来像电子游戏，不是吗？呃，这是个想法。《火星人玩转地球》，或者，嗯，那个，你知道，我认为火星上有相当多的开放区域。嗯，所以那里，我认为我们不会，不会出现任何形式的稀缺。呃，火星上有，比如，大量土地。没多少人。嗯，所以，除非他们藏在背面。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "Yeah, no, I mean, they're they're pretty clever. If there are people on Mars, man, they are way cleverer than us cuz they're hiding well. Um, so, um, yeah, I know, there's plenty of land on Mars. It's I mean, you know, the history of human civilization does contain a lot of war, so I I don't think we you know, we go to Mars and that you you know, be war free forever.",
+      "textZh": "是啊，不，我是说，他们，他们相当聪明。如果火星上有人，天啊，他们可比我们聪明多了，因为他们藏得很好。嗯，所以，嗯，是的，我知道，火星上有充足的土地。它，我是说，你知道，人类文明史确实包含许多战争，所以我，我不认为我们，你知道，去了火星以后，那里就会，你知道，永远没有战争。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "But, uh, but I think there's certainly not going to be a resource-based conflict due to scarcity of resource on Mars. I think we're going to go to to the Mars as a multinational effort, too, right? So, it's not it's not one country going and another country going and then they're fighting over wars. I think it's countries going together and and so I think we're we're more likely to be peaceful in that in that scenario as well.",
+      "textZh": "但是，呃，但我认为，火星上肯定不会因为资源稀缺而发生基于资源的冲突。我想我们也会以多国共同努力的方式前往火星，对吧？所以，不会是一个国家去了，另一个国家也去了，然后它们为战争而争斗。我认为各国会一起前往，所以我认为在那种情形下，我们也更有可能和平相处。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Yeah, but you know, I I actually advocate for I think it's fine if if if countries get together to form teams, but I think it's actually probably better if there are at least, you know, at least two or three, uh, country coalitions going going to Mars, um, in a friendly way, um, and and competing to see who can make the most progress.",
+      "textZh": "是的，但是，你知道，我，我实际上主张，我认为如果，如果，如果各国联合起来组建团队也没问题，但我认为，如果至少有，你知道，至少2个或3个，呃，国家联盟以友好的方式，嗯，前往火星，而且，而且相互竞争，看谁能取得最大的进展，实际上可能会更好。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "Um, and if you look at like say the Olympics, it would be pretty boring if everyone just linked arms and crossed the finish line at the same time. Um, we're friendly, um, but it would you know, not be More like the opening ceremonies, I guess. Yeah, yeah, exactly. Um, so we I think friendly competition is a good thing. Yeah. Very good.",
+      "textZh": "嗯，如果你看看，比如说奥运会，要是所有人都挽着胳膊，同时冲过终点线，那会相当无聊。嗯，我们很友好，嗯，但那样会，你知道，不会是……更像开幕式，我猜。对，对，没错。嗯，所以我们——我认为友好竞争是件好事。对。非常好。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "Well, I I think, you know, NASA wants to be part of one of those kind of coalitions with the United States and and so we're I know we're actually trying to build such a coalition now. Let's see, um, from over here, another question. Hi, I'm, uh, Yotam Ariel, founder and CEO of Bluefield. We're deploying methane tracking microsatellites.",
+      "textZh": "嗯，我、我认为，你知道，NASA希望成为与美国组成的某种联盟的一部分，所以我们——据我所知，我们现在实际上正在努力建立这样的联盟。让我们看看，嗯，这边还有一个问题。你好，我是，呃，Yotam Ariel，Bluefield的创始人兼首席执行官。我们正在部署甲烷追踪微型卫星。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "And my question to you, I hope to learn your thoughts on advancing remote sensing capabilities of critical gases on Earth and on Mars. Thank you. Well, that's a pretty esoteric question. Um, remote sensing of of gases, um, yeah, I think, um, that that's something that's going to be important. Uh, Mar- Mars has a number of trace gases that are pretty helpful. Um, it's very helpful that that Mars has CO2 and nitrogen and argon.",
+      "textZh": "我想问您的是，我希望了解您对推进地球和火星上关键气体遥感能力的看法。谢谢。嗯，这是个相当深奥的问题。嗯，气体的遥、遥感，嗯，对，我认为，嗯，那将是一件很重要的事。呃，火、火星有多种相当有用的痕量气体。嗯，火星上有CO2、氮气和氩气，这非常有帮助。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "Those are those are like really helpful gases to have in the atmosphere. Um, it's mostly CO2, but that little bit of nitrogen and argon is really can be pretty helpful. Yeah. And other and whatever other trace gases we can get out of there. know. We we always say Mars has just enough atmosphere to, it's not enough to be really helpful in terms of, uh, aerobraking, but it sure makes it a lot harder. So, it's just enough to be to be difficult.",
+      "textZh": "这些、这些都是大气中非常有用的气体。嗯，主要是CO2，但那一点点氮气和氩气确实可能相当有用。对。还有其他——以及我们能从那里获取的任何其他痕量气体。知道。我们、我们总是说，火星的大气刚刚好，它不足以在，呃，气动制动方面真正发挥帮助，却肯定让事情困难了许多。所以，它刚好足够造成、造成困难。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "Yeah. of in situ resource utilization, you know, when we get there to be able to build to to to get your oxygen and That's super helpful. have a water and can build a build a hot get hydrogen manufacture hydrogen on on on the planet. So, Yeah. Hopefully there's enough resources that we'll we don't have to carry everything with us. Well, the nice thing having if you got H2O and and CO2, um you can build hydro carbons of of any kind.",
+      "textZh": "对。关于就地资源利用，你知道，等我们到达那里后，能够建造，能、能、能获取氧气，而那非常有帮助。有水，并且能建造一个——建造一个热——获取氢，在、在、在这颗行星上制造氢。所以，对。希望那里有足够的资源，让我们、我们不必把一切都随身带去。嗯，好处是，如果你有H2O和、和CO2，嗯，你就可以制造任何种类的碳氢化合物。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "Um you can certainly build plastics. Um you can build well, you know, short chain long chain hydrocarbons. Um you know, the the current SpaceX thought for um uh kind of a Mars transport vehicle is a primarily methane based system. Um cuz you get to have a kind of a smaller uh I mean, the tanks are half the size with if with methane.",
+      "textZh": "嗯，你当然可以制造塑料。嗯，你可以制造，嗯，你知道，短链、长链碳氢化合物。嗯，你知道，SpaceX目前对于，嗯，呃，某种火星运输载具的构想，是一种主要以甲烷为基础的系统。嗯，因为使用甲烷，你可以有一种更小的，呃，我是说，用、用甲烷的话，储箱尺寸只有一半。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "Um uh so and and and uh yeah, but and and Mars with with a CO2 atmosphere and a lot of water ice is is great for for that. Um uh going beyond Mars, I think there's a lot of merit for hydrogen cuz then you only need water. Um But uh that's that's also our current thinking on that front.",
+      "textZh": "嗯，呃，所以，而、而、而，呃，对，但是，而、而火星有、有CO2大气和大量水冰，非、非常适合这一点。嗯，呃，前往火星以外的地方，我认为氢有很多优点，因为那样你只需要水。嗯，但是，呃，那、那也是我们目前在这方面的想法。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "So, we we speaking of that, last last year at Guadalajara at the IAC conference, you talked about plans to go to the Mars and and and I know you guys have been working on that since then. Yep. You do you so you plan at some point to talk about that work publicly?",
+      "textZh": "所以，我们、我们说到这个，去年、去年在瓜达拉哈拉举行的IAC大会上，你谈到了前往火星的计划，而且、而且、而且我知道你们从那以后一直在推进这件事。是的。你会——所以你计划在某个时候公开谈谈那项工作吗？"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "Yeah, thinking probably the upcoming IAC in Adelaide uh might be a good opportunity to do the updated version of the Mars architecture cuz it's it's evolved quite a bit since uh that last talk. Um Yeah, I'm I'm going to ask for questions to be collected at time and and for that I assume um Good strategy. There was some very enthusiastic people to the mic at the IAC last time.",
+      "textZh": "对，我想即将在阿德莱德举行的IAC，呃，可能是介绍火星架构更新版本的好机会，因为自，呃，上次演讲以来，它、它已经演变了很多。嗯，对，我、我会要求到时候收集问题，并且为此我假设，嗯。好策略。上次IAC时，麦克风前有些非常热情的人。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "Um I mean, but but um the You know, the the the key thing that that we figured out is like how do you pay for this whole, you know, something to go to Mars? That's very super expensive. Mhm.",
+      "textZh": "嗯，我是说，但是、但是，嗯，那个——你知道，我们、我们、我们弄明白的关键问题是：你要怎么为整个这件事买单，你知道，为某个前往火星的东西买单？那极其昂贵。嗯哼。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "Um and um I kind of think by kind of you know, if we downsize the um the the Mars vehicle, you know, make it capable of doing uh Earth orbit activity as well as uh you know, Mars activity, then um you know, maybe we could pay for it with by using it for Earth orbit activity. Um that's that's one of that's one of the key elements in the new uh architecture.",
+      "textZh": "嗯，而且，嗯，我有点认为，通过某种，你知道，如果我们缩小，嗯，这个、这个火星载具，你知道，让它既能够执行，呃，地球轨道活动，也能执行，呃，你知道，火星活动，那么，嗯，你知道，也许我们可以通过把它用于地球轨道活动来为它买单。嗯，那、那是新，呃，架构中的关键要素之一。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "It's it's it's similar it's similar to what was at IAC, but it's uh it's it's it's a bit a little bit smaller, still big, but but but but I think it's um I think this one's got a shot at uh uh being real. And and on on the on the economic front, you know, that's the trick. All right, let's see. I think another question from over here. Hi Elon, Eugene Mark. Um I have mostly one important question and one little aside.",
+      "textZh": "它、它、它和IAC上介绍的相似、相似，但它，呃，它、它、它稍微小一点，仍然很大，但是、但是、但是、但是我认为它，嗯，我认为这个有机会，呃、呃，成为现实。而且、而且在、在、在经济方面，你知道，诀窍就在这里。好了，让我们看看。我想这边还有一个问题。你好，埃隆，我是Eugene Mark。嗯，我主要有一个重要问题和一个小小的题外话。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "Uh I Can you talk a little bit about your R&D strategy for your companies and is it all focused on short-term problem solution or how much and in what fashion do you allocate time and money towards R&D spending on some of the long-term goals you're working at?",
+      "textZh": "呃，我——你能稍微谈谈你为旗下公司制定的研发战略吗？它是否全都专注于解决短期问题，或者说，对于你正在推进的一些长期目标，你会投入多少时间和资金用于研发，又以什么方式进行分配？"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "And then just as a little aside for the Boring Company, are you looking at that only as a habit as a transportation, but potentially as a habitat um company uh for not just tunnels, but habitats on Mars or the moon? Yeah, actually so I do think like getting good at digging tunnels um could be really helpful for Mars. Mhm.",
+      "textZh": "然后，顺便问一下无聊公司，你是否只把它看作一种习惯、一种交通运输方式，还是也可能把它当作一家，嗯，栖息地公司，呃，不只是建造隧道，也建造火星或月球上的栖息地？对，实际上，所以我确实认为，善于挖掘隧道，嗯，对火星可能真的很有帮助。嗯哼。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "Um cuz like once you've got a a kind of a it would be a different optimization for, you know, a Mars boring machine versus a Earth boring machine, but um for sure there's going to be need to be a lot of of ice mining on Mars and mining in general to get raw materials.",
+      "textZh": "嗯，因为一旦你有了一种——它会是一种不同的优化方案，你知道，火星掘进机与地球掘进机相比会有所不同，但是，嗯，火星上肯定会需要进行大量冰开采，以及一般意义上的采矿，以获取原材料。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "Um and then along the way uh building um uh underground habitats where, you know, you get good radiation shielding um and you kind of have you know, as much you can you can build a really an entire city underground if you wanted to. Uh I think people are still going to want to go to the surface, you know, um from time to time, but um you you you can build trans mount underground uh with the with the right boring technology on Mars.",
+      "textZh": "嗯，然后在这个过程中，呃，建造，嗯，呃，地下栖息地，在那里，你知道，你能获得良好的辐射屏蔽，嗯，而且你在某种程度上可以，你知道，尽可能多地——如果你愿意，你真的可以在地下建造整座城市。呃，我认为人们仍会想要前往地表，你知道，嗯，偶尔去一下，但是，嗯，借助火星上合适的掘进技术，你、你、你可以在地下建造跨山。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "So, I do think that there's uh some uh overlap in that uh technology development arena. Um And then R&D um you know, I I try to spend as much on R&D as we can at uh my companies. Um So, we really max out R&D. I mean, I spend most of my time on engineering. Um um that's probably 80% of my week is engineering meetings. Um and so as you know, any money that we get in revenue, we we we would put that right back into R&D.",
+      "textZh": "所以，我确实认为，在那个，呃，技术开发领域存在一些，呃，重叠。嗯，然后是研发，嗯，你知道，我、我努力在，呃，我的公司里尽可能多地投入研发。嗯，所以，我们确实把研发投入拉到最大。我的意思是，我大部分时间都花在工程上。嗯、嗯，我每周大概有80%的时间是在开工程会议。嗯，所以正如你知道的，我们获得的任何营收，我们、我们、我们都会立即重新投入研发。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "Um And some of it is longer term. Um uh yeah. Um You know, like for example, the you know, Mars vehicle um uh look at some doing some Mars communication stuff potentially with with with the NASA or in part um and um yeah, but one super priority is like engineering's my most fun thing. So, try to follow that to the max. Over here. Hi, my name is Chris LeFlore. Um I work for Congress for Representative John Conyers.",
+      "textZh": "嗯，其中一些是更长期的。嗯，呃，对。嗯，你知道，比如说，那个，你知道，火星载具，嗯，呃，研究一些——可能与、与、与NASA一起或部分开展一些火星通信方面的工作，嗯，而且，嗯，对，但一个超级优先事项是，比如说，工程是我最感兴趣的事。所以，努力把它做到最大。这边。你好，我叫Chris LeFlore。嗯，我在国会为众议员John Conyers工作。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "A couple days ago I read about you talking about artificial intelligence and the dangers of it uh and how as a uh as a businessman, you are totally against regulation and stuff like that, but as a you know, a human being, you think it's critical that we get ahead of this issue. Yeah.",
+      "textZh": "几天前，我读到你谈论人工智能及其危险，呃，以及作为一名，呃，作为一名商人，你完全反对监管之类的东西，但作为一个，你知道，人类，你认为我们抢在这个问题前面行动至关重要。对。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "Uh can you please elaborate on um like why um what are you seeing that we don't get to see and uh what as a policy maker I should be looking to do to sort of I guess protect us all? Sure. Well, um I think it it it is difficult to appreciate just how far um artificial intelligence has advanced and how far it is advancing um because we have a double exponential at work.",
+      "textZh": "呃，你能否详细说明一下，嗯，比如为什么，嗯，你看到了什么我们看不到的东西，以及，呃，作为一名政策制定者，我应该考虑做些什么，来算是，我猜，保护我们所有人？当然。嗯，我认为，人们很难理解人工智能已经发展到了多远，以及它正在以多快的速度发展，嗯，因为这里有双重指数增长在起作用。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "Uh we have an exponential increase in hardware capability um and we have an exponential increase um in software talent that is going into AI. Um so whenever you have a double exponential, it's very difficult to predict. Um real predictions almost always going to be too conservative in terms of thinking it'll be further out than it is.",
+      "textZh": "呃，我们的硬件能力正呈指数级增长，嗯，投入 AI 的软件人才也呈指数级增长。嗯，所以每当出现双重指数增长时，就很难预测。嗯，实际的预测几乎总会过于保守，也就是认为它的到来会比实际更晚。"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "Um you know, you start to see things like um I don't know if you've seen like the the videos where you can sort of really quite accurately video simulate uh someone um and put words in their mouth that they never spoke. Um you just Google it. It's really pretty amazing. Um and then they they had something called a generative adversarial network. Uh it had had two of them. Um compete with one another to make the most convincing video.",
+      "textZh": "嗯，你知道，你开始看到一些这样的东西，嗯，我不知道你是否看过那种视频，就是可以相当准确地用视频模拟某个人，呃，让他们说出他们从未说过的话。嗯，你搜一下就知道了。真的非常惊人。嗯，然后他们有一种叫生成对抗网络的东西。呃，它有两个网络。嗯，彼此竞争，以制作出最令人信服的视频。"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "So, one would generate the video and then the other one would identify where it it it looked fake and and then that would the other one would fix that. And then and they'd go back and forth to the point where you couldn't tell which one is the real real video, which one is the fake one. Um and um you you actually there've been some very public things like the defeat of AlphaGo or defeat of Go by AlphaGo of the world's best Go champion.",
+      "textZh": "所以，一个会生成视频，然后另一个会找出视频中哪些地方看上去、看上去、看上去是假的，然后另一个就会修正那里。然后，然后它们来回反复，直到你无法分辨哪个是真、真视频，哪个是假视频。嗯，而且，嗯，你、你其实已经看到过一些非常公开的事件，比如 AlphaGo 的落败，或者说世界上最优秀的围棋冠军被 AlphaGo 击败。"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "People thought defeating Go was either never or 20 years away. That was world's best Go player was defeated. Um and now that same AlphaGo system can defeat the top 50 players simultaneously with 0% of chance of them winning. Yeah. And that's 1 year later. Um so the degrees of freedom to which artificial intelligence is able to apply itself are in really increasing I think by 10 orders of magnitude a year. It's that's really crazy.",
+      "textZh": "人们曾认为，攻克围棋要么永远不可能，要么还要等 20 年。世界上最优秀的围棋棋手被击败了。嗯，而现在，同一个 AlphaGo 系统可以同时击败排名前 50 的棋手，他们的获胜概率为 0%。是的。而那仅仅是在 1 年之后。嗯，所以，人工智能能够施展自身能力的自由度，我认为实际上正以每年 10 个数量级的速度增长。这、这真的太疯狂了。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "Um So, I think and and we're starting and this is on hardware that is really not well suited for neural nets. Um you know, uh like a GPU is maybe an order of magnitude better than a CPU, but something but a um a chip that is designed optimally for neural nets is an order of magnitude better than a GPU. Um and that is there are a whole bunch of neural net optimized chips coming out um either late this year or next year.",
+      "textZh": "嗯，所以，我认为，而且，而且我们才刚开始，而这还是在非常不适合神经网络的硬件上实现的。嗯，你知道，呃，比如 GPU 可能比 CPU 好 1 个数量级，但某种、但一款，嗯，为神经网络进行最优设计的芯片会比 GPU 好 1 个数量级。嗯，而且会有一大批针对神经网络优化的芯片在今年晚些时候或明年推出。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "Um so, I think we should I think you know, the part of the role of government is to make sure the public is uh safe, like to take care of public safety issues. And I think so, I think the right move is to establish some government regulatory agency, which at first is just there to gain insight. So, um it's not about like shooting from the hip and just putting in rules before anyone knows anything, but you got to set up agency.",
+      "textZh": "嗯，所以，我认为我们应该，我认为，你知道，政府的一部分职责是确保公众，呃，安全，比如处理公共安全问题。而我认为，所以，我认为正确的做法是设立某种政府监管机构，它一开始只是为了深入了解情况而存在。所以，嗯，这并不是说在任何人还什么都不了解之前就草率行事、直接制定规则，但你必须设立一个机构。"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "It's got to gain insight. Once that insight is gained, then start applying rules and regulations. Um we have that for the you know, for aircraft, the FAA, we've got that for cars, we've got that for uh, you know, drugs, for food. Um, and I don't think anyone wants the FAA to go away or the FDA to go away or, you know, um, any of those regulatory agencies. Um, I think we would just need to make sure people do not cut corners on AI safety.",
+      "textZh": "它必须深入了解情况。获得这些认识之后，再开始实施规则和法规。嗯，我们在，你知道，航空领域有这样的机构，也就是 FAA；汽车领域也有；在，呃，你知道，药品和食品领域也有。嗯，而且我认为没有人希望 FAA 消失，或 FDA 消失，或者，你知道，嗯，任何这些监管机构消失。嗯，我认为我们只需要确保人们不会在人工智能安全方面偷工减料。"
+    },
+    {
+      "id": "p-0115",
+      "textEn": "It's going to be a big deal. It's going to be a real big deal. Um, and it's going to come on like a like a tidal wave. All right, thanks. Let's see you. Over here, question. Good afternoon. Um, my name is Anna and I'm a film director and VR producer.",
+      "textZh": "这会是一件大事。这会是一件真正的大事。嗯，而且它会像、像海啸一样席卷而来。好了，谢谢。让我们看看你。这里，有个问题。下午好。嗯，我叫 Anna，是一名电影导演和 VR 制作人。"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "And I'm currently working on a on a film, on a documentary film about future scenarios for humanity, which actually brought me to this amazing conference where I can learn and complete my research on the space exploration area.",
+      "textZh": "我目前正在制作一部、一部关于人类未来情景的电影，一部纪录片，实际上正是它把我带到了这场精彩的会议，让我可以学习并完成对太空探索领域的研究。"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "And in the previous few days, there was a lot of talks, uh, which is, I think, an extremely beautiful phenomenon, about this kind of dual philosophy behind space exploration and space solutions, about solutions that are coming back to Earth that can benefit humankind in very, very wide area.",
+      "textZh": "在之前的几天里，有很多讨论，呃，我认为这是一个极其美好的现象，讨论太空探索和太空解决方案背后的这种双重理念，讨论那些回馈地球、能够在非常、非常广泛的领域造福人类的解决方案。"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "And today we've been talking about the commercialization of the of the space area, and it brings a lot of questions to me about social responsibility behind uh, gigantic companies that would actually probably take over how the space industry would develop in the nearest future.",
+      "textZh": "而今天，我们一直在讨论太空领域的、的商业化，这让我产生了很多问题，涉及那些实际上很可能会主导太空产业近期发展方式的巨型公司背后的社会责任。"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "So, I'm very curious how you see in long term, uh, these kind of benefits for people or social goals for for SpaceX, and especially in the context that uh, you are an entrepreneur that invests in infrastructure and transport, hard solution that would probably change the way most of us live, and the way we communicate with each other.",
+      "textZh": "所以，我非常好奇，从长远来看，您如何看待 SpaceX 为人们带来的这类益处或社会目标，尤其考虑到，呃，您是一位投资于基础设施和交通、投资于很可能会改变我们大多数人生活方式以及彼此沟通方式的硬件解决方案的企业家。"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "So, I'm very, very curious how you see that in terms of long-term mission, long-term philosophy, and what would be your advice or maybe it's kind of security signal for other of your colleagues and for all of us. Phew. I I I'm you know, I'm not sure I I fully understood uh, the question. Um, the uh, yeah, or the answer.",
+      "textZh": "所以，我非常、非常好奇，您如何从长期使命、长期理念的角度看待这件事，以及您会提出什么建议，或者也许这是给您的其他同行和我们所有人的某种安全信号。呼。我、我、我，你知道，我不确定我、我是否完全理解了，呃，这个问题。嗯，那个，呃，是的，或者答案。"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "Um, Um, but Yes, I I I think mainly about uh, long-term benefits from the R&D endeavors that your companies would conduct that could actually be also not only serving building a service that can be useful for business or for people, but also benefit the societies in a wider context. And also knowing that it would probably the interest the commercial industry in space would probably develop very quickly and it it will grow.",
+      "textZh": "嗯，嗯，但是，是的，我、我、我主要想问的是，您的公司开展的研发工作所带来的长期益处，这些工作实际上不仅可以用于建立对企业或人们有用的服务，还能在更广泛的层面造福社会。并且也考虑到，太空商业产业的兴趣很可能会发展得非常快，而且它、它会增长。"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "How do you see the social responsibility of the companies who actually do that and where are the limits of what can be done, what should be done? The same way as you think about, for example, open AI mission in the area of of of AI development. So, can you try could be translated into space industry endeavors? Well, I think there's a a pretty big social benefit or um, civilizational benefit to being a multi-planet civilization.",
+      "textZh": "您如何看待实际从事这些工作的公司的社会责任？哪些事情可以做、应该做，其界限在哪里？就像您思考，例如，OpenAI 在人工智能发展领域的使命那样。那么，您能否试着，这可以转化到太空产业的工作中吗？嗯，我认为，成为一个多行星文明具有相当大的社会效益，或者说，嗯，文明效益。"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "Um, you know, that dramatically increases the probable lifespan of human civilization if we are a multi-planet species versus a single-planet species. Um, but sometimes that is misinterpreted as, well, shouldn't we just focus everything on Earth?",
+      "textZh": "嗯，你知道，与单行星物种相比，如果我们是多行星物种，人类文明可能延续的寿命就会大幅增加。嗯，但有时这会被误解为，嗯，我们难道不应该把一切都集中在地球上吗？"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "It's like, well, you know, but we should focus almost everything on Earth, but I think that should be maybe 1% or 2% of our resources that um, are applied to making life multi-planetary because there are certain irreducible irreducible risks uh, for you know, for on Earth.",
+      "textZh": "这就像，嗯，你知道，但我们应该把几乎一切都集中在地球上，不过我认为，我们也许应该把 1% 或 2% 的资源，嗯，用于让生命成为多行星生命，因为地球上存在某些无法消除、无法消除的风险，呃，对于，你知道，对于地球而言。"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "Um, it's it's you know, it's possible in the future that there there's some global war that knocks us back many levels of technology, you know, certainly if it was a major nuclear war it would.",
+      "textZh": "嗯，这、这，你知道，未来有可能会发生某种全球战争，使我们的技术倒退许多个层级，你知道，如果那是一场大规模核战争，当然会这样。"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "Um, and uh, the there's just so the general decay of societies over time, um, we see this uh, through history, you know, if you look at ancient Egypt or ancient Rome, um, you know, they had reached peak peak technology levels and then for reasons that aren't obvious, just declined.",
+      "textZh": "嗯，而且，呃，还有社会随时间发生的普遍衰退，嗯，我们在历史中可以看到这一点，你知道，如果你看看古埃及或古罗马，嗯，你知道，它们曾达到技术的巅峰、巅峰水平，然后由于一些并不明显的原因，就衰落了。"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "Um, and uh, you know, so so I think just having being a multi-planet civilization, um, you you know, having human bases throughout the solar system, I think First of all, I think it's very exciting and inspiring and there needs to be things that are exciting and inspiring and and uh, make you look forward to waking up in the morning. Like, it's like, hey, future's exciting. This is underappreciated. You know, like tunnels. Sorry.",
+      "textZh": "嗯，而且，呃，你知道，所以、所以我认为，仅仅是成为一个多行星文明，嗯，你、你知道，在整个太阳系建立人类基地，我认为，首先，我认为这非常令人兴奋和鼓舞，而且需要有一些令人兴奋和鼓舞的事情，让你期待早晨醒来。就像、就像，嘿，未来令人兴奋。这一点没有得到足够重视。你知道，比如隧道。抱歉。"
+    },
+    {
+      "id": "p-0128",
+      "textEn": "I was just saying. All right. Um, and um, you know, but there's got to be things that make you excited about life. Um, like, you know, it can't just be problem solving, you know, one one sort of miserable problem after another. It's got to be like, I'm fired up about the future because and here's why, you know? And and space is one of those things that that does that for people all around the world.",
+      "textZh": "我只是说说。好了。嗯，而且，嗯，你知道，但必须有一些事情让你对生活感到兴奋。嗯，比如，你知道，生活不能只是解决问题，你知道，一个、一个接一个的那种令人痛苦的问题。必须是这样的：我对未来充满激情，因为，而且原因在这里，你知道吗？而、而太空正是能够让全世界的人们产生这种感受的事物之一。"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "Um, you know, when um, when Apollo 11, you know, when when they landed on the moon, I mean, it was that was something for all of humanity. It really was, you know? And people would you know, if there's like one TV for 50 miles around, people would walk you know, they'd walk 50 miles just to go find that one TV to to watch it happen. Um, so it you know, sometimes people think, what about what about poor nations of the world? Like, you know what?",
+      "textZh": "嗯，你知道，当，嗯，当阿波罗 11 号，你知道，当、当他们登上月球时，我是说，那、那是属于全人类的一件事。确实如此，你知道吗？而人们会，你知道，如果方圆 50 英里只有 1 台电视，人们会步行，你知道，他们会步行 50 英里，只为了找到那 1 台电视，观看这一幕发生。嗯，所以，你知道，有时人们会想，世界上的贫穷国家怎么办、怎么办？比如，你知道吗？"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "It inspires them, too. Um, and um, you know, we need things like that. We don't have we don't have enough of them. All right, thank you. Over here? Hi Elon, quick question. I heard that Dragon is no longer planned to land propulsively. Is that true? Yeah, that was a tough decision. It Dragon is capable of landing propulsively Dragon 2 is capable of landing propulsively. Um, and it technically it still it still is.",
+      "textZh": "这也激励着他们。嗯，而且，嗯，你知道，我们需要这样的事物。我们没有，我们没有足够多这样的事物。好了，谢谢。这边？嗨，埃隆，问个简短的问题。我听说现在不再计划让龙飞船以推进方式着陆了。是真的吗？是的，这是一个艰难的决定。龙飞船具备推进着陆能力，龙飞船 2 具备推进着陆能力。嗯，而且从技术上说，它仍然，它仍然具备。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "Uh, although you'd have to land it on some pretty soft landing pad because we we've deleted the little legs that pop out of the heat shield. Um, but it's technically still capable of doing it.",
+      "textZh": "呃，不过你必须把它降落在某种相当柔软的着陆垫上，因为我们、我们已经去掉了那些会从隔热罩中弹出来的小支腿。嗯，但从技术上讲，它仍然具备这样做的能力。"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "Uh, the the reason we decided not to pursue that heavily is it would have taken a a tremendous amount of effort to qualify that um, for for safety, uh, particularly for crew transport, and then um, uh, there was a time when I thought that the Dragon approach to landing on Mars, um, with a base heat shield and side-mounted thrusters would be the right way to land on Mars, but um, now I've I'm pretty confident that is not the right way.",
+      "textZh": "呃，我们决定不大力推进这件事的原因是，要让它，嗯，通过安全认证，需要付出极其巨大的努力，呃，尤其是载人运输方面，然后，嗯，呃，曾经有一段时间，我认为龙飞船在火星上的着陆方案，嗯，也就是采用底部隔热盾和侧置推进器，会是登陆火星的正确方式，但，嗯，现在我，我相当确信那不是正确的方式。"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "Um, and that there's a there's a there's a far better approach. Um, and um, and that that's what the next generation of uh, SpaceX um, rockets and spacecraft uh, is just going to do. Um, so yeah, so just the difficulty of of of safely qualifying Dragon for propulsive landing and the fact that um, from a technology evolution standpoint, it it was no longer in line with what we were confident was the the optimal way to land on Mars.",
+      "textZh": "嗯，而且有一种，有一种，有一种好得多的方案。嗯，而且，嗯，而那，那正是下一代，呃，SpaceX，嗯，火箭和航天器，呃，将要采用的方案。嗯，所以是的，就是让龙飞船安全通过推进着陆认证的困难，以及这样一个事实：嗯，从技术演进的角度来看，它，它已经不再符合我们确信的那种登陆火星的，最优方式。"
+    },
+    {
+      "id": "p-0134",
+      "textEn": "Uh, that's why we are not pursuing it. It could be something that we bring back later, um, but it's it it doesn't seem like the right way to apply resources right now. Over here. Hi Elon. Um, my name is Elia Overby. I'm a PhD student studying genomics. We've all made we've all together made a lot of technological progress um, on space systems. My question isn't about the technology, it's about the biology.",
+      "textZh": "呃，这就是我们不再推进它的原因。以后我们有可能重新启用它，嗯，但现在看来，把资源投入这种方式并不合适。这边。嗨，埃隆。嗯，我叫埃莉娅·奥弗比。我是一名研究基因组学的博士生。我们都已经，我们所有人共同在，嗯，太空系统方面取得了很多技术进步。我的问题不是关于技术，而是关于生物学。"
+    },
+    {
+      "id": "p-0135",
+      "textEn": "Um, what are the principal biological concerns you have about human health on long duration missions, such as a mission to Mars? And um, have you identified any solutions to these problems? Um, well, I'd say uh, going to Mars is not for the faint of heart. Um, and it's it's risky, uh, dangerous, uh, uncomfortable, and you might die. Now, do you want to go? Yeah.",
+      "textZh": "嗯，对于执行长期任务（例如火星任务）时的人体健康，您主要担忧哪些生物学问题？还有，嗯，您是否已经找到了这些问题的任何解决方案？嗯，这个，我会说，呃，去火星不适合胆小的人。嗯，而且它，它风险很高，呃，很危险，呃，不舒服，而且你可能会死。现在，你想去吗？想。"
+    },
+    {
+      "id": "p-0136",
+      "textEn": "Um, you know, and for a lot of people the answer's going to be hell no, and for some it's going to be hell yes. Um, so um, there will you know, there will be issues. Um, I don't think it's like it's it's going to be a case of like you get irradiated to death along the way. I don't think that's the case at all.",
+      "textZh": "嗯，你知道，对很多人来说，答案会是他妈的才不去，而对一些人来说，会是他妈的当然去。嗯，所以，嗯，会有，你知道，会有问题。嗯，我不认为会是那种，好像，好像你在途中会被辐射致死的情况。我完全不认为会是那样。"
+    },
+    {
+      "id": "p-0137",
+      "textEn": "Um, you you know, the the radiation levels sort of roughly you you know, in worst case scenario really kind of about equivalent to smoking on the way there. Uh, now smoking's pretty bad. Uh, but um, but I think with um, with some moderate shielding, we we can cut down on um, a large percentage of the incoming radiation.",
+      "textZh": "嗯，你你知道，辐射水平大概——你你知道，在最坏的情况下，其实差不多相当于一路上都在吸烟。呃，当然吸烟非常有害。呃，但嗯，但我认为，通过嗯，通过一些适度的屏蔽，我们我们可以大幅减少嗯，很大一部分入射辐射。"
+    },
+    {
+      "id": "p-0138",
+      "textEn": "Um, and that should be enough that um, that the the sort of marginal risk of cancer is not something that is going to be a showstopper. Uh that's that's my best assessment to date. Um something learning a lot about solar winds and um you know, fast particles and what not.",
+      "textZh": "嗯，而且这应该足以让嗯，让那种额外的癌症风险不至于成为一个致命障碍。呃，这是这是我迄今为止最好的评估。嗯，正在了解很多关于太阳风以及嗯，你知道，高速粒子之类的东西。"
+    },
+    {
+      "id": "p-0139",
+      "textEn": "Um And uh you know, one of the things that I learned recently that I wasn't didn't didn't quite understand is that the I I always thought of the particles from the sun the sort of solar wind is going kind of straight up from the sun, but they they follow the magnetic field lines. Um so, you you actually can get the particles coming at you from the side even though you know, it's kind of at a direction orthogonal to the sun.",
+      "textZh": "嗯，而且呃，你知道，我最近了解到的一件我以前没有没有没有完全理解的事情是，我我一直以为来自太阳的粒子，也就是那种太阳风，是从太阳差不多径直向外运动的，但它们它们会沿着磁场线运动。嗯，所以，你你实际上可能会遇到从侧面朝你而来的粒子，尽管你知道，它的方向有点与太阳正交。"
+    },
+    {
+      "id": "p-0140",
+      "textEn": "Um So, you do need some some amount of uh protection um at least on uh yeah, on on on kind of four four or five sides. Um Anyway, but I don't think it's it's it's not a showstopper, but it's um it's it's definitely, you know, if if safety is your top goal, I wouldn't go to Mars. Yeah. You know, there's a there's a bunch of work going on ISS right now to understand the risk to the humans for long duration.",
+      "textZh": "嗯，所以，你确实需要一定程度的呃防护，嗯，至少要在呃，是的，在在在大约4个、4个或5个面上。嗯，不管怎样，但我不认为它是——它它它不是一个致命障碍，但它嗯，它它肯定，你知道，如果如果安全是你的首要目标，我不会去火星。对。你知道，目前国际空间站上正在开展大量工作，以了解长期任务对人类构成的风险。"
+    },
+    {
+      "id": "p-0141",
+      "textEn": "Certainly we're in we're in the Van Allen belts, so the radiation environment's different. But uh and all part of it is understanding what happens to the humans the longer you stay. So, so far we've had humans stay a little bit longer than a year, and that's it. So, in the history of the species they've we've had someone off the planet for a little more than a year, and we're talking 3 years to go to Mars.",
+      "textZh": "当然，我们处于——我们处于范艾伦辐射带内，所以辐射环境不同。但呃，而这一切的一部分就是了解人类待得越久会发生什么。所以，到目前为止，我们曾让人类停留略长于1年，仅此而已。所以，在人类这一物种的历史上，他们——我们曾让某个人离开地球略多于1年，而我们现在谈的是用3年去火星。"
+    },
+    {
+      "id": "p-0142",
+      "textEn": "Well, you know, I think you can get the Perhaps perhaps shorter, but it's in the years. Uh it's uh you know, it's so there there potential for for things out there that we haven't found yet. Yeah. And uh so, we'll we'll learn more as we go along. Hopefully learn more before ISS is done.",
+      "textZh": "嗯，你知道，我认为你可以把这个——也许也许更短，但它是以年计的。呃，这个呃，你知道，所以外面有可能存在一些我们尚未发现的东西。对。而且呃，所以，我们会随着推进了解得更多。希望在国际空间站退役前了解得更多。"
+    },
+    {
+      "id": "p-0143",
+      "textEn": "Yeah, it's interesting that actually the you know, you know, Mars is only in the same um sort of rough quadrant of the of of Earth six roughly 6 months every 2 years. Um By same, I mean it's sort of trans slightly offset cuz it's like a transfer quadrant, but um but if you can get the ship to and from Mars in inside that 6-month window, then you get to reuse it twice as often.",
+      "textZh": "对，有趣的是，实际上这个——你知道，你知道，火星每2年只有大约6个月与地球处于同一个嗯，大致的象限。嗯，我说同一个，是指它有点横向略微错开，因为那像是一个转移象限，但嗯，但如果你能让飞船在这6个月的窗口期内往返火星，那么它的重复使用频率就能提高1倍。"
+    },
+    {
+      "id": "p-0144",
+      "textEn": "So, there's actually a lot of merit to being able to get to Mars uh in under 3 months. If you can get there quick and back, of course it means a bigger bigger vehicle and and resupply. So, anyway, we'll interesting problem that will I'm sure we'll work on here as we go forward. Lot lot lot of lot of Earth orbit refueling or it's not really mostly oxygen, but it's um propellant reload. There's no good word for for propellant for fuel plus oxygen.",
+      "textZh": "所以，能够在不到3个月内抵达火星其实很有价值。如果能迅速抵达并返回，当然这意味着更大更大的飞行器以及以及补给。所以，不管怎样，我们会——这是个有趣的问题，我相信随着我们继续推进，我们会在这里着手解决。要进行很多很多很多很多次地球轨道加注，或者其实加的主要不是燃料，而是氧气，但这是嗯，推进剂重新装填。没有一个合适的词来表示推进剂，即燃料加氧气。"
+    },
+    {
+      "id": "p-0145",
+      "textEn": "Uh prop, I guess. Prop prop load. We'll have to We'll have to invent a new word, right? So, that's I guess that's it. Okay, question over here? Demetrios Tseriotis from Los Angeles. First, thank you very much for digging those tunnels. They will be really handy during Olympics. Um my question is uh like with Tesla cars, will we see you riding the crew module to ISS and back? Thank you. Um I would like to at some point. I would like to.",
+      "textZh": "呃，推，我猜。推进推进剂装填。我们得——我们得发明一个新词，对吧？所以，我想就这样。好的，这边有问题吗？我是来自洛杉矶的德米特里奥斯·采里奥蒂斯。首先，非常感谢你挖那些隧道。它们在奥运会期间真的会很有用。嗯，我的问题是呃，就像Tesla汽车一样，我们会看到你乘坐载人舱前往国际空间站并返回吗？谢谢。嗯，我希望有朝一日可以。我希望如此。"
+    },
+    {
+      "id": "p-0146",
+      "textEn": "Um Yeah, I would I think um assuming things work out, you know, I I you know, I'd like to yeah, maybe three three or four years, something. Um yeah, be great. All right, we'll put you on the manifest. Okay. Next question over here? Hello, I'm Anna Sophia Bagirayev, and I have kind of a follow-up on the biology question from before.",
+      "textZh": "嗯，对，我会——我想嗯，假设一切顺利，你知道，我我，你知道，我希望，对，也许3年、3年或4年之类。嗯，对，那会很棒。好吧，我们会把你列入乘员名单。好的。这边下一个问题？你好，我是安娜·索菲娅·巴吉拉耶娃，我有一个算是对之前那个生物学问题的追问。"
+    },
+    {
+      "id": "p-0147",
+      "textEn": "It is one thing to say obviously it's not going to be a safe experience to go to Mars, but there are some technologies essential especially if we're looking to putting humans there permanently um that are going to be have that are going to have to be developed with biological capabilities. Speaking of like flight suits, habitats, um eventual artificial biospheres for people to live in.",
+      "textZh": "说去火星显然不会是一次安全的体验是一回事，但有些技术是必不可少的，尤其是如果我们考虑让人类永久居住在那里，嗯，那些技术将要具备——那些将必须结合生物能力加以开发。比如飞行服、栖息地，嗯，以及最终供人居住的人工生物圈。"
+    },
+    {
+      "id": "p-0148",
+      "textEn": "Do you see your company playing a part in the development of those technologies? Do you see biology having a place in SpaceX's work, or will that be outsourced to other unrelated companies? Hey, and before you answer, you should know that Anna Sophia over here won a Genes in Space competition and flew on a SpaceX Dragon. Anna Sophia was at uh was at SpaceX uh 10? When was that? Eight. SpaceX eight.",
+      "textZh": "你认为你的公司会参与开发这些技术吗？你认为生物学会在SpaceX的工作中占有一席之地，还是会将其外包给其他无关公司？嘿，在你回答之前，你应该知道，这边的安娜·索菲娅赢得了一项“太空中的基因”竞赛，并搭乘SpaceX龙飞船升空。安娜·索菲娅当时在呃——当时在SpaceX，呃，10？那是什么时候？8。SpaceX 8。"
+    },
+    {
+      "id": "p-0149",
+      "textEn": "So, um as a yeah, and uh a very smart uh young lady. I think in fact, I think she's smarter than me in high school than uh than than I am now. So, anyway, so good luck with your answer. Sure. Um Uh biology absolutely has a significant role to play in any kind of uh permanent Mars base or city. Um I mean, if if for SpaceX, you know, we're we're we're trying to make sure we can get people there reliably at a at a cost they can afford.",
+      "textZh": "所以，嗯，是的，而且呃，是一位非常聪明的呃年轻女士。事实上我想，我认为她高中时比呃，比比现在的我更聪明。所以，不管怎样，祝你顺利回答。好的。嗯，呃，生物学绝对会在任何形式的呃永久火星基地或城市中发挥重要作用。嗯，我的意思是，对SpaceX来说，你知道，我们我们我们正努力确保能以他们负担得起的成本，可靠地把人送到那里。"
+    },
+    {
+      "id": "p-0150",
+      "textEn": "Um and get cargo there at at a at a at the right cost number. You know, cuz there's there's there's kind of a threshold cost per ticket or cost per ton to the surface of Mars um below which uh a self-sustaining city can develop and above which it cannot. Um that that sort of critical um sort of economic and tech technical threshold is um is is what we're is what we're focused on at SpaceX.",
+      "textZh": "嗯，并且以一个一个一个合适的成本数字把货物运到那里。你知道，因为每张票的成本或每吨货物运抵火星表面的成本，存在存在存在某种门槛，嗯，低于这个门槛，一座自给自足的城市就能发展起来，高于这个门槛则不能。嗯，那那种关键的嗯，某种经济和技术技术门槛，嗯，就是就是我们——就是我们在SpaceX专注解决的问题。"
+    },
+    {
+      "id": "p-0151",
+      "textEn": "Um And then we'll we'll probably also have to do a fair bit of work on propellant depot, uh basically propellant plant on Mars. Um but then our our intent is to uh you know, we we we don't want to get in the way of of what others are doing.",
+      "textZh": "嗯，然后我们可能还必须在推进剂储存站方面做相当多的工作，呃，基本上就是火星上的推进剂工厂。嗯，但之后，我们的我们的意图是呃，你知道，我们我们我们不想妨碍其他人正在做的事情。"
+    },
+    {
+      "id": "p-0152",
+      "textEn": "Like we want to make sure that uh let's say if somebody makes an investment or wants to do something on Mars, create a you know, a business or do some scientific endeavor, that SpaceX does not compete with them, you know, cuz they need to feel like okay, they're we're not going to just go in and compete with them arbitrarily.",
+      "textZh": "比如，我们希望确保呃，假设有人进行投资，或者想在火星上做些什么，创办一家，你知道，一家企业，或者开展某种科学事业，SpaceX不会与他们竞争，你知道，因为他们需要觉得，好吧，他们——我们不会直接进去，任意与他们竞争。"
+    },
+    {
+      "id": "p-0153",
+      "textEn": "Um We we we want to make sure that they they they they feel it's going to be a fruitful environment uh to be that you know, to go there and and and um and do something special.",
+      "textZh": "嗯，我们我们我们希望确保他们他们他们他们觉得那将是一个富有成果的环境，呃，可以在那里——你知道，去那里并且并且并且嗯，并做一些特别的事情。"
+    },
+    {
+      "id": "p-0154",
+      "textEn": "Um So, our focus is going to be on transport, kind of fundamental utilities, survivability, um and you know, we'll we'll and we'll do more if we need to do more, uh but um we want to make sure that that lots of people can go and do all sorts of things on Mars or the moon, um and not feel like SpaceX is going to do anything but try to help them. We don't want We don't want to interfere or compete.",
+      "textZh": "嗯，所以，我们的重点将是运输、某种基础公用设施、生存保障，嗯，而且你知道，我们会——我们会——如果需要做更多，我们就会做更多，呃，但嗯，我们希望确保很多人都能前往火星或月球做各种各样的事情，嗯，并且不会觉得SpaceX除了努力帮助他们之外还会做任何事情。我们不想——我们不想干涉或竞争。"
+    },
+    {
+      "id": "p-0155",
+      "textEn": "Um you know, they got to feel like the opportunity is there. Next question over here? Hi Elon. Um my name is Tracy, and I'm not here for any reason related to my career or to my area of study. I'm actually here as a very cool and only slightly overbearing mother Okay.",
+      "textZh": "嗯，你知道，他们必须觉得机会确实存在。这边下一个问题？嗨，埃隆。嗯，我叫特蕾西，我来这里的原因与我的职业或研究领域都没有任何关系。我来这里其实是作为一个非常酷、只是稍微有点管得太多的母亲。好的。"
+    },
+    {
+      "id": "p-0156",
+      "textEn": "to my 10-year-old daughter Harper and a sister to my 14-year-old brother Ben, who are both in the audience today, and who think of you the way that I guess I thought of Madonna at the same age. Um Wow. Yeah. That's that's that's some That's some high praise there. Thank you. In this spirit of that, I wanted to get um your advice for two kids who are All right. very interested in space and engineering and entrepreneurism. Thank you. I'm sorry.",
+      "textZh": "我是我10岁的女儿哈珀的母亲，也是我14岁的弟弟本的姐姐，他们今天都在观众席上，他们看待你的方式，大概就像我同龄时看待麦当娜一样。嗯，哇。对。那是——那是——那真是很高的赞誉。谢谢。本着这个意思，我想为这2个孩子征求一下嗯，你的建议，他们——好的。他们对太空、工程和创业精神非常感兴趣。谢谢。对不起。"
+    },
+    {
+      "id": "p-0157",
+      "textEn": "Space, engineering, and entrepreneurialism. What's your advice? What's your advice? Yeah, well, you know, there's a lot of uh technical problems to solve. Um so, I guess it would be sort of, you know, start studying kind of engineering and physics and biosciences and that kind of thing would be the um way to go. Um yeah. Um lot of going to be a lot of problems to solve to to make a city work on Mars.",
+      "textZh": "太空、工程和创业精神。你的建议是什么？你的建议是什么？对，嗯，你知道，有很多呃技术问题需要解决。嗯，所以，我想，大概就是，你知道，开始学习某种工程学、物理学和生物科学之类的东西，这会是嗯，应该走的路。嗯，对。嗯，要让一座城市在火星上运转，会有很多很多问题需要解决。"
+    },
+    {
+      "id": "p-0158",
+      "textEn": "Um You know, we're we're thinking of just as a well, sort of a semi-joke putting a uh job description on our website for urban planner in brackets Mars. Uh Um but um you know, there's there's there's going to be a tremendous amount of problems to solve. There will be There's a lot of building, building and problem solving.",
+      "textZh": "嗯，你知道，我们正在考虑，就当作一个，嗯，算是半开玩笑吧，在我们的网站上发布一个呃职位描述：城市规划师，括号里写火星。呃，嗯，但是嗯，你知道，会有极其大量的问题需要解决。会有，会有大量的建造、建造和解决问题的工作。"
+    },
+    {
+      "id": "p-0159",
+      "textEn": "So, those are like the right you know, skills to work on if if if someone's interested in going beyond Earth or, you know, space in general. Thank you. We're glad you're We're glad you're here. Glad your kids are here, too. They're uh they're the future for all of us. So, thanks for coming. See you over here? Hi.",
+      "textZh": "所以，如果如果如果有人有兴趣前往地球之外，或者，你知道，泛泛而言进入太空，那么那些就是适合去钻研的，你知道，技能。谢谢。我们很高兴你——我们很高兴你在这里。也很高兴你的孩子们在这里。他们呃，他们是我们所有人的未来。所以，谢谢你们前来。看这边？你好。"
+    },
+    {
+      "id": "p-0160",
+      "textEn": "My name is Gerard Valle, NASA Johnson Space Center, and my question is uh in your quest to um colonize Mars, do you foresee utilizing expandable spacecraft modules um as a stepping stone or or even a final final utilization? Well, I think there's definitely going to be inflatable things on on Mars itself. Um you know, in the journey there, there might be some amount of inflatable, but um we're not currently baselining that.",
+      "textZh": "我叫杰拉德·瓦莱，来自 NASA 约翰逊航天中心，我的问题是，呃，在您寻求嗯殖民火星的过程中，您是否预见会利用可扩展航天器舱段，嗯，作为一个过渡步骤，或者或者甚至作为最终最终用途？嗯，我认为在火星本身肯定会有充气式的东西。嗯，你知道，在前往那里的旅途中，可能会有一定程度的充气式结构，但嗯，我们目前并没有把它作为基准方案。"
+    },
+    {
+      "id": "p-0161",
+      "textEn": "Otherwise itself I think there'd be quite a lot. Yeah. Okay, thank you. Inflatable and and perhaps just building it with the materials that's already present that exactly. Local materials are key. You don't have to carry it with you. Yeah, tunnels. Tunnels. You got to get that tunnel that boring machine there though. That's going to be a It's Well, right now the earth ones are really heavy. Like really heavy. Right.",
+      "textZh": "否则它本身我认为会有相当多。是的。好的，谢谢。充气式结构，还有也许就用那里已经存在的材料来建造，正是如此。本地材料是关键。你不必随身携带。是的，隧道。隧道。不过你得把那台隧道掘进机运到那里。那将会是一个——这——嗯，现在地球上的那些机器真的很重。比如真的很重。对。"
+    },
+    {
+      "id": "p-0162",
+      "textEn": "Well, they're not built by aerospace engineers there. You're not worried about weight for earth tunneling machine. You like actually want one that's nice and heavy. Um but for a Mars one you'd have to redesign it to be super light. That's a tricky one. And then just taking into account the different conditions on Mars and everything. So Um yeah.",
+      "textZh": "嗯，它们不是由那里的航空航天工程师制造的。对于地球上的隧道掘进机，你不担心重量。你实际上会想要一台又好又重的。嗯，但火星用的机器就必须重新设计，让它超级轻。那是个棘手的问题。然后还要考虑火星上的不同条件和一切。所以，嗯，是的。"
+    },
+    {
+      "id": "p-0163",
+      "textEn": "It's interesting the um you know, the Curiosity rover and the tires being chewed up by the the sharpness of the of just of the dirt of the gravel there. It's a you know, a very foreign environment to us and even in very subtle ways. So Let's see. A next question over here? Hi Alan. My name is Praful Chandra. I'm a regenerate medicine scientist from Wake Forest University.",
+      "textZh": "这很有意思，嗯，你知道，好奇号火星车，还有轮胎因为那里泥土、碎石本身的锋利程度而被磨坏。对我们来说，那是一个，你知道，非常陌生的环境，即使体现在非常细微的方面。所以，让我看看。这边下一个问题？你好，艾伦。我叫普拉富尔·钱德拉。我是维克森林大学的一名再生医学科学家。"
+    },
+    {
+      "id": "p-0164",
+      "textEn": "My question is regarding your company Neuralink that makes a brain machine interfaces. So what do you think this technology, how is it useful for humans when they you know, go into low earth orbits or even deep space exploration? And do you have any plans in that direction? Well, the the reason for the reason I wanted to create Neuralink was primarily as an offset to the existential risk associated with artificial intelligence.",
+      "textZh": "我的问题是关于你的 Neuralink 公司，它制造脑机接口。那么你认为这项技术在人类进入近地轨道，甚至进行深空探索时，会有什么用处？你在这个方向上有什么计划吗？嗯，我想创建 Neuralink 的原因，主要是为了抵消与人工智能相关的生存风险。"
+    },
+    {
+      "id": "p-0165",
+      "textEn": "Um I think we will human intelligence will be not I mean we will not be able to beat AI. So then if you know, as the saying goes if you can't beat them, join them kind of thing. Um So I think having some some basically way to to link um you know, human will on mass to the outcome of of AI. Having AI be an extension of individual human will. That's really the point of Neuralink.",
+      "textZh": "嗯，我认为我们，人类智能将不会，我的意思是，我们将无法击败 AI。所以，那么，你知道，俗话说，打不过他们，就加入他们，差不多就是这样。嗯，所以我认为，要有某种、某种基本的方法，把，嗯，你知道，人类整体的意志与 AI 的结果联系起来。让 AI 成为个人意志的延伸。这才是 Neuralink 真正的意义。"
+    },
+    {
+      "id": "p-0166",
+      "textEn": "Now along the way I think there'll be some a lot of good that's achieved in uh addressing uh any any brain damage that's you know, as a result of a stroke or lesion or something congenital. Um or just you know, loss of memory when you get old that kind of thing. Um and you know, that will that will happen well before it it becomes a sort of um you know, brain AI symbiote situation. So if we plan it you'll see it coming.",
+      "textZh": "那么在这个过程中，我认为还会取得一些、很多有益的成果，用于处理，呃，任何、任何脑损伤，就是，你知道，由中风、病变或某种先天性问题造成的脑损伤。嗯，或者只是，你知道，年老时的记忆丧失之类的问题。嗯，而且，你知道，这些、这些会在它变成某种，嗯，你知道，大脑与 AI 共生体的局面之前很久就实现。所以，如果我们做好规划，你会看到它逐步到来。"
+    },
+    {
+      "id": "p-0167",
+      "textEn": "It'll be it won't it won't happen all of a sudden. Um Very I I I do think it it it increases the long-term relevance of human exploration. Um and um yeah and I don't think I think it's for for me it increased my motivation long-term that that it doesn't just need to be done by robots. You know, um yeah. I don't know if that answers your question but Does that answer your question? Oh, yes. Okay, okay. All right, let's see.",
+      "textZh": "这会是，它不会、不会突然发生。嗯，非常，我、我、我确实认为，这、这、这会提高人类探索的长期相关性。嗯，而且，嗯，是的，我不认为，我认为对、对我来说，这增强了我的长期动力，因为这不必只由机器人来完成。你知道，嗯，是的。我不知道这是否回答了你的问题，不过，这回答了你的问题吗？哦，是的。好的，好的。好，让我们看看。"
+    },
+    {
+      "id": "p-0168",
+      "textEn": "Maybe we're one more question here and we'll we'll wrap it up on the left here. Okay. Hi. Call it from Space Nation. As we are building the first global astronaut training program for everyone. My question relates what you earlier said to the about International Space Station and how it's a shame that it's not better known around the world as probably compared for example the shuttle program.",
+      "textZh": "也许我们这里再问一个问题，然后我们就、就结束，左边这里。好的。你好。我是 Space Nation 的 Call it。我们正在为所有人打造首个全球宇航员训练项目。我的问题与您之前谈到国际空间站时所说的内容有关，以及它没有在世界各地得到更广泛的了解很令人遗憾，可能比如说与航天飞机计划相比。"
+    },
+    {
+      "id": "p-0169",
+      "textEn": "So and thinking that in the future we need thousands and more space pioneers. So how do you see the significance of this public engagement and especially in the time where we have more and more tools to do that and and do you have specific plans on that and how you see that affecting accelerating or does it have in that kind of effect for the whole humanity's transition to space and and the new space era? Sure.",
+      "textZh": "所以，考虑到未来我们需要数千名乃至更多的太空先驱。那么您如何看待公众参与的重要性，尤其是在我们拥有越来越多工具来做到这一点的时候？而且、而且您在这方面有什么具体计划吗？您认为这会如何影响、加速，或者它是否会对全人类向太空转型以及、以及太空新时代产生那种影响？当然。"
+    },
+    {
+      "id": "p-0170",
+      "textEn": "Well, I think just getting more more human space flight is going to automatically engage the public. I just pointed out that space shuttle there was a lot more engagement when the space shuttle was launching.",
+      "textZh": "嗯，我认为仅仅是开展更多、更多载人航天飞行，就会自动吸引公众参与。我刚才指出，航天飞机发射时，公众的参与度高得多。"
+    },
+    {
+      "id": "p-0171",
+      "textEn": "Um I think um if if the public public sees some some path even if it's long-term where they themselves may be able to go to orbit or beyond or to to the moon or Mars, I think their interest level increases dramatically and it may not be even that that they want to go but they have a son or a daughter brother or a friend that really wants to do it and and and so they want to support this their you know, friends and family uh in in that in that ambition.",
+      "textZh": "嗯，我认为，嗯，如果、如果公众、公众看到某种、某种路径，即使是长期的，让他们自己或许能够进入轨道或更远的地方，或者前往、前往月球或火星，我认为他们的兴趣会大幅提升。甚至可能不是他们自己想去，而是他们有一个儿子或女儿、兄弟或朋友非常想这样做，而且、而且、而且因此他们想支持他们的，你知道，朋友和家人，呃，去实现那种、那种抱负。"
+    },
+    {
+      "id": "p-0172",
+      "textEn": "Um but it really needs to be something ultimately that looks like it's going to be accessible to uh a large number of people. Um and then I think we'll get a large number of people engaged. Yeah, one of the things about engagement too I think for the for the US anyway will be we have had people launch from the United States. So I can't tell you how many people around the world have said you know, oh you guys are still flying?",
+      "textZh": "嗯，但它最终确实需要成为某种看起来能够让，呃，大量人群接触到的事物。嗯，然后我认为我们就会吸引大量的人参与。是的，关于参与，我认为还有一点，至少对、对美国来说，我们曾经有人从美国发射升空。所以我都说不清世界各地有多少人曾经说，你知道，哦，你们还在飞吗？"
+    },
+    {
+      "id": "p-0173",
+      "textEn": "Well, absolutely we never stopped flying. We've had people living on board ISS uh you know, for almost 17 years. And but they don't see the smoke and the fire, right? They see that they see they knew they turn on the TV and there's a shuttle going and it's got seven people on board and they see it and nowadays at least in the US it's half a world away. So here in in a week a week from Friday we'll be launching three people. Yeah.",
+      "textZh": "嗯，当然，我们从未停止飞行。我们一直有人在国际空间站上生活，呃，你知道，已经将近 17 年了。而、但他们看不到烟雾和火焰，对吧？他们看到了，他们看到，他们知道，他们打开电视，就有一架航天飞机正在升空，上面有 7 个人，他们能亲眼看到，而如今，至少对美国来说，那发生在半个地球之外。所以就在一周后、下周五，我们将发射 3 个人。是的。"
+    },
+    {
+      "id": "p-0174",
+      "textEn": "But it doesn't feel the same as if it was happening in in our backyard in in Florida. Absolutely. So so we're looking forward to to that happening very soon here in in the US and we wish you the best of luck. Thanks very much for being here today. Thanks for for joining the conference. You're a big part of ISS and a big part of of the research and development that goes on on ISS. So so thanks very much.",
+      "textZh": "但那种感觉不一样，不像它发生在、在我们佛罗里达的后院一样。当然。所以、所以我们期待这种情况很快在、在美国发生，也祝你们一切顺利。非常感谢你今天来到这里。感谢你参加这次会议。你们是国际空间站的重要组成部分，也是、也是国际空间站上所开展的研发工作的重要组成部分。所以、所以非常感谢。"
+    },
+    {
+      "id": "p-0175",
+      "textEn": "I'm glad we've been able to help be helpful and thanks for having me. I'd like to to extend my thanks also for a incredibly insightful and frank discussion that you guys have had with the group. So we really truly appreciate it. And tunnels are cool, too.",
+      "textZh": "我很高兴我们能够提供帮助、发挥作用，也感谢你们邀请我。我也想表达我的谢意，感谢你们与大家进行了一场极其富有洞见且坦诚的讨论。所以我们真的、确实非常感激。另外，隧道也很酷。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T04:55:28.517Z",
+    "reviewedAt": "2026-09-13T05:32:58.407Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:00.699Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=Jv5LjA62Uw8",
+  "sourceHash": "eedde2d2e21f8604a41673ec504313aef03bb818a46018a9f056180cde1be98d"
+}

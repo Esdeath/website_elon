@@ -1,0 +1,69 @@
+<div class="language-switch" role="group" aria-label="正文语言" data-language-switch>
+  <button type="button" data-language="zh" aria-pressed="true">中文</button>
+  <button type="button" data-language="en" aria-pressed="false" lang="en">English</button>
+</div>
+
+<script>
+  const switches = document.querySelectorAll<HTMLElement>("[data-language-switch]");
+
+  const setLanguage = (language: "zh" | "en", updateUrl = true) => {
+    document.querySelectorAll<HTMLElement>("[data-lang-block]").forEach((block) => {
+      block.hidden = block.dataset.langBlock !== language;
+    });
+    switches.forEach((control) => {
+      control.querySelectorAll<HTMLButtonElement>("button[data-language]").forEach((button) => {
+        button.setAttribute("aria-pressed", String(button.dataset.language === language));
+      });
+    });
+
+    if (updateUrl) {
+      const url = new URL(window.location.href);
+      if (language === "en") url.searchParams.set("lang", "en");
+      else url.searchParams.delete("lang");
+      history.replaceState(null, "", `${url.pathname}${url.search}${url.hash}`);
+    }
+  };
+
+  switches.forEach((control) => {
+    control.addEventListener("click", (event) => {
+      const button = (event.target as HTMLElement).closest<HTMLButtonElement>("button[data-language]");
+      if (!button) return;
+      setLanguage(button.dataset.language === "en" ? "en" : "zh");
+    });
+  });
+
+  setLanguage(new URLSearchParams(window.location.search).get("lang") === "en" ? "en" : "zh", false);
+  window.addEventListener("popstate", () => {
+    setLanguage(new URLSearchParams(window.location.search).get("lang") === "en" ? "en" : "zh", false);
+  });
+</script>
+
+<style>
+  .language-switch {
+    display: inline-grid;
+    grid-template-columns: repeat(2, minmax(82px, 1fr));
+    overflow: hidden;
+    border: 1px solid var(--line-dark);
+    border-radius: 5px;
+    background: var(--surface);
+  }
+
+  button {
+    min-height: 38px;
+    border: 0;
+    border-inline-end: 1px solid var(--line-dark);
+    padding: 6px 13px;
+    color: var(--muted);
+    background: transparent;
+    font-size: 0.83rem;
+  }
+
+  button:last-child {
+    border-inline-end: 0;
+  }
+
+  button[aria-pressed="true"] {
+    color: var(--surface);
+    background: var(--ink);
+  }
+</style>

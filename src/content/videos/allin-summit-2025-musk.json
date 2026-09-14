@@ -1,0 +1,520 @@
+{
+  "id": "allin-summit-2025-musk",
+  "slug": "allin-summit-2025-musk",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2025-09-07",
+  "titleEn": "All-In Summit",
+  "titleZh": "All-In 峰会",
+  "summaryEn": "Live at the All-In Summit, Musk talks Optimus, Tesla's AI5 chips and FSD, Starlink smartphones, xAI's Grok and \"Grokipedia\", the OpenAI lawsuit and why he thinks the West is struggling.",
+  "summaryZh": "在 All-In 峰会现场，马斯克谈到了 Optimus、Tesla 的 AI5 芯片和 FSD、星链智能手机、xAI 的 Grok 和“Grokipedia”、针对 OpenAI 的诉讼，以及他为何认为西方正陷入困境。",
+  "sourceUrl": "https://www.youtube.com/watch?v=qeZqZBRA-6Q",
+  "sourceLabel": "All-In Podcast",
+  "archiveUrl": "https://elonmuskarchive.org/video/allin-summit-2025-musk",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/qeZqZBRA-6Q",
+  "thumbnailUrl": "https://i.ytimg.com/vi/qeZqZBRA-6Q/hqdefault.jpg",
+  "org": "xAI",
+  "durationSec": 2688,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "[Music] I believe Optimus is going to be the greatest product ever created by humanity. >> Elon Musk and his XAI startup have built the largest and most powerful artificial intelligence training supercomputer in the world. As far as I know, there's only one person in the world who could do that. You know, >> this is an arms race of epic proportions. >> He's a big thinker. You guys went on Fox the other day with the Doge team.",
+      "textZh": "[音乐] 我相信 Optimus 将成为人类有史以来创造的最伟大产品。>> 埃隆·马斯克和他的 xAI 初创公司建造了世界上规模最大、功能最强大的人工智能训练超级计算机。据我所知，世界上只有一个人能做到这一点。你知道，>> 这是一场规模空前的军备竞赛。>> 他是个有宏大构想的人。你们前几天和 Doge 团队一起上了福克斯。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "You saw Elon's face nodding while they were speaking with a grin ear to ear. He was proud. >> XAI has acquired X in an old stock transaction. >> Tesla's first robo taxis are officially on the road. >> The company's board proposed a new compensation package for the CEO that could pay him just about a trillion dollars in stock. >> He gets nothing if he doesn't hit the numbers.",
+      "textZh": "你看到他们说话时，埃隆脸上笑开了花，还在点头。他很自豪。>> xAI 已通过一项旧股票交易收购 X。>> Tesla 的首批无人驾驶出租车已正式上路。>> 公司董事会为这位首席执行官提出了一项新的薪酬方案，可能向他支付接近1万亿美元的股票。>> 如果他没有达到那些指标，他什么也得不到。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "SpaceX will buy wireless spectrum licenses from Echoar for its Starlink satellite network for about 17 billion. >> 3 2 1. [Music] There's a splash down. How do you have time? this I I I never understand you. >> Yeah. Well, I do work a lot. >> Ladies and gentlemen, please welcome >> Elon Musk. >> All right. Good. >> All right. Where are you? >> Alto. >> You're in Palo Alto and um not Washington DC.",
+      "textZh": "SpaceX 将以约170亿购买 Echoar 的无线频谱许可证，用于其星链卫星网络。>> 3 2 1。[音乐] 溅落了。你怎么会有时间？这点我我我一直搞不懂你。>> 是啊。嗯，我确实工作很多。>> 女士们、先生们，请欢迎 >> 埃隆·马斯克。>> 好的。很好。>> 好的。你在哪里？>> Alto。>> 你在帕洛阿尔托，嗯，不是在华盛顿特区。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": ">> I'm I'm at Tesla Global Engineering Headquarters in Palo Alto. >> Yeah. So, no more Washington DC. You're back at work. You're focused. Yeah. >> Uh, yeah. I haven't been to DC since May. >> Okay. Uh, >> that was a that was a hell of a side quest. >> That was a good Any lessons from your time in Washington DC? >> Uh, the government is basically unfixable. >> Elon O only.",
+      "textZh": ">> 我我在帕洛阿尔托的 Tesla 全球工程总部。>> 对。所以，不再待在华盛顿特区了。你回来工作了。你专注起来了。对。>> 呃，对。自5月以来我一直没去过华盛顿特区。>> 好的。呃，>> 那真是一段不得了的支线任务。>> 那是一次不错的……在华盛顿特区的那段时间里学到了什么吗？>> 呃，政府基本上是修不好的。>> 仅限埃隆 O。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "I support David's noble efforts and this uh it's good to it's good to have talented people in the administration uh but at the end of the day um if you look at our national debt which is uh insanely high uh the interest payments exceed the u defense department I guess sorry war department uh budget um and um Nikki Bryzy so if AI and robots don't solve our national debt, we're we're toast. >> Which is a great segue.",
+      "textZh": "我支持戴维的崇高努力，而且这，呃，让有才华的人进入政府是好事，呃，但归根结底，嗯，如果你看看我们的国债，它，呃，高得离谱，呃，利息支出超过了 u 国防部，我想，抱歉，是战争部，呃，的预算，嗯，还有，嗯，Nikki Bryzy，所以如果 AI 和机器人不能解决我们的国债问题，我们就就完蛋了。>> 这正好是个绝佳的过渡。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "Um, Optimus is um I think going to be the greatest >> uh product in the history of humanity. What's the progress like and how much of your how many of your cycles are going specifically to Optimus? What's the timeline? I think you're on version three, maybe four. Tell us everything. Uh well, yeah, everything would take a long time. >> We've got time.",
+      "textZh": "嗯，Optimus 是，嗯，我认为将会成为 >> 人类历史上最伟大的，呃，产品。进展如何？你的多少，你有多少精力是专门投入 Optimus 的？时间表是什么？我想你们现在是第3版，也许第4版。把一切都告诉我们。呃，嗯，是的，要讲完一切会花很长时间。>> 我们有时间。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": ">> Um we're we're finalizing the design of Optimus version 3 and uh that that really is going to be a very remarkable robot. Um it will have the essentially the manual dexterity of a human. So meaning a very complex hand. Um the a an AI mind that can navigate and comprehend reality. Um and it will be made in very high volume. Uh those are the three things that are missing.",
+      "textZh": ">> 嗯，我们我们正在敲定 Optimus 第3版的设计，而且，呃，那那真的会是一款非常非凡的机器人。嗯，它基本上会具备人类的手部灵巧度。也就是说，一只非常复杂的手。嗯，一个能够在现实中行动并理解现实的 AI 大脑。嗯，而且它会进行超大批量生产。呃，这就是目前缺少的3样东西。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Like if you see any other um robotics uh company, they're missing those three things. Those are the three really hard things. Um and uh I I I spent actually at this point um it it might be more of my mental cycles than anything anything else any other single thing on Optimus.",
+      "textZh": "比如，如果你看其他任何，嗯，机器人公司，它们都缺少这3样东西。这就是3件真正困难的事。嗯，而且，呃，实际上到目前为止，我我我花在 Optimus 上的脑力精力，嗯，它它可能比花在任何任何其他事情、任何其他单一事情上的都多。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "Uh that's that's that that's solving for uh real world AI uh all of the electro mechanical issues of Optimus the the supply chain and production challenges of it because we have there is no supply chain that exists for humanoid robots. So it has to be we have to recreate it from scratch um and which requires doing a lot of vertical integration. um none of the actuators in Optimus um are available from an existing supply chain.",
+      "textZh": "呃，那是那是那就是要解决，呃，现实世界 AI、Optimus 的所有机电问题，以及它的供应链和生产挑战，因为我们有……目前根本不存在人形机器人的供应链。所以必须，我们必须从零开始重新创建它，嗯，而这需要进行大量垂直整合。嗯，Optimus 中没有任何执行器，嗯，可以从现有供应链中获得。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "Um so but I I think it is accurate to say that if successful Optimus will be the biggest product ever >> and the cost of it at scale 2030 $40,000 a robot. What what do you think the first wave of them will cost? And yeah, when will we be able to buy one to work on the ranch? >> I think that the the marginal cost of production once you hit a million units per year uh is probably around the $20,000 range.",
+      "textZh": "嗯，所以，但我我认为，可以准确地说，如果成功，Optimus 将成为有史以来最大的产品 >> 而它实现规模化时的成本，2030 40,000美元一台机器人。你你认为第一批会卖多少钱？还有，对，我们什么时候能买一台到牧场干活？>> 我认为，一旦达到每年100万台，生产的边际成本，呃，可能在20,000美元左右。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Uh it it it sort of depends on how much you spend on the AI chip in the in the robot. Um and you need to achieve a lot of efficiencies in the actuators. Uh there are um 26 actuators per arm like 26 electric like motors, gearboxes and power electronics. Um, so, so, but but the the the AI chip will be pretty expensive like that that might be like55 or $6,000 of the of the bill of materials, maybe more.",
+      "textZh": "呃，它它它在某种程度上取决于你在机器人里的 AI 芯片上花多少钱。嗯，而且你需要在执行器方面实现很高的效率。呃，每条手臂有，嗯，26个执行器，比如26个电动的，比如电机、齿轮箱和电力电子设备。嗯，所以，所以，但但是 AI 芯片会相当昂贵，比如那那可能占物料清单中的55或6,000美元，也许更多。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Um, and um but but so I but I think at volume at a million units a year, the the production cost is probably on the order of $20,000, maybe 25, something like that. And um price will be as a function of demand.",
+      "textZh": "嗯，而且，嗯，但但是所以我，但我认为，在达到每年100万台的产量时，生产成本大概是20,000美元，也许25，大概如此。而且，嗯，价格将随需求而定。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": ">> Elon um can you maybe explain to everybody why the hand is so important to get right and why you know the actuator design is so unique and you know why it's so difficult why nobody makes it and why you have to start there almost to build the rest of the the robot properly. Well, it turns out the human hands are incredibly they've evolved to this to be this incredibly sophisticated machine.",
+      "textZh": ">> 埃隆，嗯，你能不能向大家解释一下，为什么把手做好如此重要，为什么，你知道，执行器设计如此独特，以及，你知道，为什么它如此困难、为什么没有人生产它，还有为什么为了正确地造好机器人的其余部分，你几乎必须从这里开始。嗯，事实证明，人类的手极其……它们已经进化成了这种极其精密的机器。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Like the your hand is an in actually a remarkable thing. It's look look closely at your hands and and think of all the things you can do with your hands, which is a lot. >> I can think of many things. >> Yeah, I was just thinking about something. >> You know, your hands are very versatile instrument. Yeah, you can give him a high five. >> Very versatile.",
+      "textZh": "比如，你的手实际上是个非凡的东西。仔细仔细看看你的手，想想你能用双手做的所有事情，这可很多。>> 我能想到很多事情。>> 对，我刚才就在想某件事。>> 你知道，你的手是非常多才多艺的工具。对，你可以跟他击掌。>> 非常多才多艺。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "Um, you know, you you you can swing a baseball bat, you can thread needles, you you can you put thread in a needle. Uh, you can play the piano with violin. Um, you know, you could disassemble or assemble a car. The hands are incredibly versatile instruments. Um and um most of the muscles of of the hand are are actually in the forearm. So your hand is kind of like a like a like it's like a puppet. Like it's mostly a puppet.",
+      "textZh": "嗯，你知道，你你你可以挥舞棒球棒，可以穿针，你你可以，你把线穿进针里。呃，你可以用小提琴弹钢琴。嗯，你知道，你可以拆卸或组装一辆汽车。双手是极其多才多艺的工具。嗯，而且，嗯，手的大多数肌肉其实都在前臂。所以你的手有点像，像一个，像它就像一个木偶。它基本上就是个木偶。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "The mus the muscles are coming from the forearm and they're pulling the tendons uh which are you know also human tendon designs or human human tendon evolution is incredibly good. Um, so you you've got this web of tendons. You you you've got um I think I think the the human hand is something like depending on how you count it, 27 or 28 degrees of freedom per you know in in the hand. It's uh it's amazing.",
+      "textZh": "肌……肌肉从前臂伸过来，牵拉肌腱，呃，而这些肌腱，你知道，人类肌腱的设计，或者说人类人类肌腱的进化，也极其出色。嗯，所以你你有这样一张肌腱网。你你你有，嗯，我想我想人类的手，根据你如何计算，每只，你知道，手有大约27或28个自由度。它，呃，太惊人了。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "So in order to create a robot that can uh be a generalized uh humanoid, you you must solve the hand the hands problem. >> Yeah. We had uh we had >> it's got hands, needs hands. >> And so is it like uh when you were first building Tesla where the supply chain doesn't exist and now you have to go out and find folks to work with and you know build all this vertical integration, get support.",
+      "textZh": "所以，为了创造一个可以成为通用型，呃，人形机器人的机器人，你你必须解决手、双手的问题。>> 对。我们有，呃，我们有 >> 它得有手，需要手。>> 所以，这是否就像，呃，你最初打造 Tesla 时那样，供应链并不存在，而现在你必须走出去寻找可以合作的人，而且，你知道，建立所有这些垂直整合，获得支持。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Is it is it literally like it's just nowhere to be found and >> you're going to have to build all of this stuff up? >> Yes, we we we could not actually buy the actuators for any amount of money. they simply didn't exist. Even though there are, I don't know, 10 20,000 electric motors out there of various sizes and shapes.",
+      "textZh": "是不是，是不是真的就像，它根本无处可寻，然后 >> 你们将不得不把这一切都建立起来？>> 是的，我们我们我们确实无论花多少钱都买不到这些执行器。它们根本不存在。尽管市面上有，我不知道，10 20,000种不同尺寸和形状的电机。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "Um, we've had to design uh every electric motor, gearbox um and and the controlling electronics from scratch basically from physics first principles. >> The good news is you've got a lot of experience with factories over the last couple of decades. So, >> how challenging is this versus Cybert truck model Y >> Model X >> Gigafactory? You know, the Yeah. The Fabra Egg known as the Model X. Yeah. >> Right.",
+      "textZh": "嗯，我们不得不从零开始设计，呃，每一台电机、齿轮箱，嗯，以及以及控制电子设备，基本上是从物理学第一性原理出发。>> 好消息是，过去几十年里，你在工厂方面积累了丰富经验。所以，>> 与 Cybert truck、model Y >> Model X >> 超级工厂相比，这有多大挑战？你知道，那个，对。被称作 Model X 的 Fabra Egg。对。>> 没错。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": ">> Um it's hotter than any any of those things. >> Okay. >> Yeah. >> Much hotter significantly. Yeah. Starship. >> Yes. Well, more No, not Starship's harder. Okay. >> So, somewhere between a Model X and a Starship? >> Yeah. >> Is it is the What's harder, the hardware or the software? >> Right now, we're struggling with the the final design of the hardware. Like I said, it's really primarily the hand.",
+      "textZh": ">> 嗯，它比那些东西中的任何一个都更热。>> 好的。>> 对。>> 热得多，明显如此。对。星舰。>> 是的。嗯，更……不，星舰更难。好的。>> 所以，介于 Model X 和星舰之间？>> 对。>> 是不是……哪个更难，硬件还是软件？>> 目前，我们正在为硬件的最终设计苦苦挣扎。就像我说的，主要确实是手。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "Not to just just dismiss the rest of the robot.",
+      "textZh": "并不是要直接直接忽视机器人的其余部分。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "the rest of it's also uh important but but the hands are the hands inclusive of the forearm are a majority of the engineering difficulty of the entire robot and then let's assume you get past the hardware challenges how much do you sort of get for free um based on all the progress that's happening with LLMs will you know will consumers just be able to interact with this talk to the robot ask it to do things it'll understand and sort of >> Oh yeah >> yeah no problem >> you're spending a lot of time with any I noticed online.",
+      "textZh": "其余部分也，呃，很重要，但但是包括前臂在内的双手，占整台机器人绝大部分的工程难度。然后，假设你克服了硬件挑战，基于 LLM 正在取得的所有进展，你在某种程度上能免费得到多少东西？嗯，你知道，消费者是不是直接就能与它互动、跟机器人说话、让它做事，它会理解，然后差不多就 >> 哦，对 >> 对，没问题。>> 我注意到网上说你花了很多时间与任何事物相处。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": ">> Not not that long. Um maybe I went a little over the top from Bunning Grom Imagine, but uh >> well, but in all seriousness, those characters and these robots that seems to be, you know, like maybe they >> you could get the embodiment of Annie, I suppose. >> Yeah. Why why the human form factor, Elon?",
+      "textZh": ">> 没没那么久。嗯，也许我对 Bunning Grom Imagine 有点做过头了，不过，呃，>> 嗯，但说真的，那些角色和这些机器人，看起来，你知道，就像也许它们 >> 我想，你可以得到安妮的实体化身。>> 对。埃隆，为什么为什么要采用人类形态？"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "You could make something that's maybe better than a human or maybe simpler than a human to do specific tasks and maybe better than a human to do more things than a human can do. How do you decide to make it just like a human? >> Well, if you wanted to do all the things that a human can do, it turns out you need a humanoid robot. Um, so if you want to just do a subset, it that's much easier.",
+      "textZh": "你可以制造某种也许比人类更好、或者也许比人类更简单的东西来完成特定任务，也许还能比人类更好地完成比人类能做的事情更多的事情。你是如何决定把它做得就像人类一样的？>> 嗯，如果你想让它完成人类能做的所有事情，事实证明你需要一个人形机器人。嗯，所以，如果你只想完成其中一部分，那就容易得多。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Um but uh it turns out humans evolved to this the shape and capabilities that we we we have. Um it it it for for good reasons. Uh there actually is that there is like there's value to having five, you know, four fingers and the thumb. Um and even the pinky actually is is quite useful. Um toes are much more aggression walk but but but the fingers >> well also humans humans have designed the world as well. So we designed it for us.",
+      "textZh": "嗯，但，呃，事实证明，人类进化成了这种……我们我们我们拥有的形态和能力。嗯，它它它是出于充分的理由。呃，实际上，拥有5个，你知道，4根手指和1根拇指，是有价值的。嗯，甚至小拇指实际上也相当有用。嗯，脚趾更具攻击性地行走，但但是手指 >> 嗯，而且人类，人类也设计了这个世界。所以我们是为自己设计它的。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "So >> if you can make a humanoid robot it'll be immediately backwards compatible with what we've built the world for. >> Precisely. >> Elon there's another there's another part of um the robot. So there's the LLMs, there's the actuation in the hands, but also there's the um the silicon that runs it.",
+      "textZh": "所以 >> 如果你能制造一个人形机器人，它将立即向后兼容我们为之构建这个世界的对象。>> 正是如此。>> 埃隆，机器人还有另一个，还有另一个部分。也就是说，这里有 LLM，有双手中的驱动机构，但还有，嗯，运行它的硅芯片。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "And there was, you know, Dojo, I think you you posted on X AI5 and AI6, and it just seemed like you were incredibly excited about the direction in which the silicon layer was also going. Can you tell us about that and what that is and what what what what are we what are we building here? What is being built? Is it a complement to everything that exists in the world? Is it a potential long-term competitor? What is it? >> Um, yeah.",
+      "textZh": "还有，你知道，Dojo，我想你在 X 上发过 AI5 和 AI6，而你似乎对硅层的发展方向也无比兴奋。你能告诉我们那是什么、这又是怎么回事，以及什么什么什么什么，我们，我们在这里正在打造什么吗？正在打造的是什么？它是对世界上现有一切的补充吗？它是潜在的长期竞争对手吗？它是什么？>> 嗯，是的。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "So, at at Tesla, we basically had two different chip programs. One dojo and one uh dojo on the training side and then what we call, you know, AI for it, which just our inference chip. um uh that the AI Force is currently shipping in all vehicles. Um and we're finaliz finalizing the design of AI5 which will be an immense jump from AI4. Um by some metrics the improvement in AI5 will be 40 times better than AI4. >> Wow. >> So 40% 40 times.",
+      "textZh": "所以，在 Tesla，我们基本上有2个不同的芯片项目。一个是 Dojo，一个是呃训练端的 Dojo，然后还有我们所说的，你知道，AI for it，也就是我们的推理芯片。嗯呃，AI Force 目前正随所有车辆出货。嗯，我们正在最终敲定 AI5 的设计，它相比 AI4 将是一次巨大的飞跃。嗯，按某些指标，AI5 的提升将比 AI4 好40倍。>> 哇。>> 所以是40%，40倍。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Um and and uh this is because we work so closely at a very fine grade level on the AI software and the AI hardware. So we know exactly where the limiting factors are and and um and so effectively the AI hardware and software teams are co-designing the chip.",
+      "textZh": "嗯，而而且呃，这是因为我们在非常精细的层面上紧密协同开发 AI 软件和 AI 硬件。所以我们确切知道限制因素在哪里，而而嗯，所以实际上，AI 硬件和软件团队正在共同设计这款芯片。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Um >> so a 40x improvement in the silicon I think then as it as everybody here in the audience experiences it is that just an almost like an order of magnitude increase in the quality of FST and the safety that you experience as a Tesla driver and then the quality of the robot like where does it all manifest when you when you you know bring it up and actually get it into production?",
+      "textZh": "嗯 >> 所以，硅芯片有40倍的提升，我想，那么在现场每个人的实际体验中，这是否意味着 FST 的质量和你作为 Tesla 驾驶者体验到的安全性几乎提升了一个数量级，然后机器人的质量也是如此？比如，当你把它做出来并真正投入生产时，这一切会体现在哪里？"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "Yeah to be precise the 40x is on if you say like compared to the worst limitation on AI4 which is running the softmax operation. >> Yeah >> we currently have to run softmax in around 40 steps in emulation mode whereas that'll be just be done in a few steps uh natively in AI5. Um AI5 trip will also be u easily handle mixed precision um models. So you don't have it'll dynamically handle mixed precision.",
+      "textZh": "是的，准确地说，这个40倍是指，如果你把它与 AI4 最严重的限制相比，也就是运行 softmax 运算。>> 是的 >> 我们目前必须在仿真模式下用大约40个步骤运行 softmax，而在 AI5 中，这将以原生方式仅用几个步骤完成。嗯，AI5 行程也将呃轻松处理混合精度嗯模型。所以你不必，它会动态处理混合精度。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "There's a bunch of sort of technical stuff that AI will do a lot better. Um in terms of of nominal sort of uh raw compute, it's it's eight times more compute. Um about nine times more memory uh roughly five times more memory bandwidth.",
+      "textZh": "AI 会把一系列这类技术性的东西做得好得多。嗯，就标称的那种呃原始算力而言，它，它的算力是8倍。嗯，内存大约是9倍，呃内存带宽大约是5倍。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Um so uh but because we're addressing some core limitations in AI4, you multiply that by that that 8x computer improvement by another 5x improvement because of of uh optimization at a at a at a very fine grain silicon level of things that are currently suboptimal in AI4. That's where you get the 40x improvement. >> You had um I'll keep going, keep going.",
+      "textZh": "嗯，所以呃，但因为我们正在解决 AI4 中的一些核心限制，你把那个、那个8倍的计算提升，再乘以另一个5倍的提升，这是因为在非常、非常、非常精细的硅层面上，对 AI4 中目前并非最优的部分进行了呃优化。这就是40倍提升的由来。>> 你之前有嗯——我继续说，继续说。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "Uh so now now that said I I'm I am confident that the current uh chips uh AI AI4 chips that are in the cars will uh achieve self-driving safety that is at least two to three times that of of human and and maybe even 10x. Um and the software that uh will be released for that is is coming out over the next few months. So version 14 will be the biggest uh upgrade in Tesla software since version 12.",
+      "textZh": "呃，所以话虽如此，我，我有信心，目前车里的呃芯片，呃 AI、AI4 芯片，将呃实现至少达到人类2到3倍的自动驾驶安全水平，甚至可能达到10倍。嗯，实现这一点的软件将在未来几个月内发布。所以第14版将是自第12版以来 Tesla 软件最大的一次呃升级。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Um we are increasing the uh parameter count by an order of magnitude. Um the there's there's there's a lot of uh reinforcement learning that's been used. there's um we we there there there's like you can think of AI sort of as a way of compressing reality and and and some of those compression steps uh we uh were too lossy and and we addressed the lossiness in the compression steps. Um so the these are all software updates that'll that'll go out.",
+      "textZh": "嗯，我们正在把呃参数数量提高一个数量级。嗯，这里，这里，这里使用了大量的呃强化学习。这里有嗯，我们，我们，这里，这里，这里，就像你可以把 AI 看作一种压缩现实的方式，而而而其中一些压缩步骤呃，我们呃造成的信息损失太大，而而我们解决了压缩步骤中的信息损失问题。嗯，所以这些都是将会，将会推出的软件更新。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "So just over there updates um your car is going to feel like it is sentient by the end of the year. >> Yeah, it feels that way already to be honest. Um I saw in the trades that you spent about $17 billion on some spectrum and that um >> yeah um so some couch change um to enable your satellites and the Starlink network to connect directly with phones. What will that look like in a year or two?",
+      "textZh": "所以仅仅通过这些更新，嗯，到年底时，你的车会让人感觉它有了感知能力。>> 是的，说实话，现在已经有那种感觉了。嗯，我在行业媒体上看到，你花了大约170亿美元购买了一些频谱，而且嗯 >> 是的，嗯，所以只是些沙发缝里的零钱，嗯，用来让你的卫星和星链网络直接连接手机。1年或2年后，这会是什么样子？"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Are we going to drop our Verizon account and just expand our Starlink account? >> Uh, thank you. >> We're kind of hoping cuz Verizon kind of sucks. >> How How many of you want a Starlink phone? >> Who wants a Starlink phone? >> Is it Is it technically possible? >> I know you can't see it, but it's everyone. >> Yeah, All right, cool. Um so this is a kind of a long-term thing.",
+      "textZh": "我们会停掉 Verizon 账户，只扩展星链账户吗？>> 呃，谢谢。>> 我们有点希望如此，因为 Verizon 有点烂。>> 你们中有多少人想要星链手机？>> 谁想要星链手机？>> 这在技术上可行吗？>> 我知道你看不到，但答案是所有人。>> 是的，好吧，很酷。嗯，所以这算是一件长期的事。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Uh it it will allow SpaceX to h uh deliver high bandwidth connectivity directly from the satellites to the phones. Um but uh there are hardware changes that need to happen in the phone. So the since these frequencies are not supported in current phones uh that the chipset has to be modified to add these frequencies um and that probably is a 2-year time frame.",
+      "textZh": "呃，它，它将使 SpaceX 能够呃从卫星直接向手机提供高带宽连接。嗯，但呃手机需要进行硬件改动。所以，由于目前的手机不支持这些频率，呃芯片组必须修改，以加入这些频率，嗯，而这可能需要2年的时间。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "So the phones that um are able to use the spectrum that was acquired probably start shipping in around 2 years. Um and um and then we also need to build the satellites that are going to communicate on those frequencies. So, in parallel, we're building the satellites and working with the handset makers to add these frequencies to the phones.",
+      "textZh": "所以，能够使用所购频谱的手机，嗯，可能会在大约2年后开始出货。嗯，而嗯，而且我们还需要制造将在这些频率上通信的卫星。所以我们正在并行制造卫星，并与手机制造商合作，把这些频率加入手机。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Um, and then the the satellites and the phones will then handshake very well to achieve high bandwidth connectivity. But the net effect is that you should be able to watch uh videos uh anywhere on your phone. >> Wow. >> And it's going to be crazy. And what and do these do these frequencies would they work indoors inside buildings, you know, like like your phone currently does? Okay.",
+      "textZh": "嗯，然后卫星和手机将会很好地握手，从而实现高带宽连接。但最终效果是，你应该能够在任何地方用手机观看呃视频。>> 哇。>> 那会很疯狂。那么，这些，这些频率在室内、建筑物里面能用吗，你知道，就像，就像你现在的手机那样？好的。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": ">> And so will you be able to have basically like >> if you if if you're in a building with a with a like a a thick metal roof then No. But um >> no the the same types of of >> Yeah. Normal normal homes. Yes. >> Yes. >> Elon is your vision for this that instead of you know having an AT&T account or and then roaming when you're in the UK or you're in India. It's just we could have one direct deal with Starlink.",
+      "textZh": ">> 那么，你基本上能不能像 >> 如果你，如果，如果你在一栋有着、有着类似一个，一个厚金属屋顶的建筑里，那就不行。但嗯 >> 不，是同样类型的 >> 是的。普通、普通住宅。可以。>> 可以。>> 埃隆，你对此的设想是不是，我们不再需要，你知道，拥有一个 AT&T 账户，然后当你在英国或印度时使用漫游。我们只需直接和星链签订一份协议。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "It works all over the world eventually. Not today but at some point. Is that the end goal? That basically we don't need a regional carrier. We have a global carrier and that would be you. >> Uh that that would be one of the options. To be clear, we're not going to put the other carriers out of business. They're still going to be around cuz they they own a lot of Spectrum.",
+      "textZh": "它最终会在全世界都能用。不是今天，但会在某个时候实现。这是最终目标吗？也就是说，我们基本上不需要区域运营商。我们有一家全球运营商，而那就是你。>> 呃，那，那会是其中一个选项。要说明的是，我们不会让其他运营商倒闭。他们仍然会存在，因为他们，他们拥有大量频谱。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "So, uh there's uh but but yes, you you should be able to have a Starlink uh like you have like you have an AT&T or T-Mobile or Verizon or whatever, you should be you could have a you know account with Starlink that uh works with your you know Starlink uh antenna at home uh free Wi-Fi as well as on your phone and um yeah it would be a comprehensive solution for high bandwidth at home and for high bandwidth direct to sell.",
+      "textZh": "所以，呃，这里有呃，但，但是的，你，你应该能够拥有一个星链呃账户，就像你有、像你有 AT&T、T-Mobile 或 Verizon 或其他什么账户一样；你应该能够，你可以拥有一个，你知道，星链账户，它能与你家里的，你知道，星链呃天线、免费 Wi-Fi 以及你的手机配合使用，而且嗯，是的，它将是一个全面的解决方案，既为家庭提供高带宽，也为直接面向销售提供高带宽。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": ">> Could you buy some carriers to have more >> spectrum? >> Maybe you could buy Verizon. >> Not out of the question. I suppose it that may happen. >> Let's talk about um let's talk about Starship. You just had a really what appeared to be a phenomenal um launch. H how close is it to, you know, being predictable and ready to go in a commercial setting? I I I think we'll recover the ship next year.",
+      "textZh": ">> 你能不能收购一些运营商，以获得更多 >> 频谱？>> 也许你可以收购 Verizon。>> 不能排除这种可能。我想那可能会发生。>> 我们谈谈嗯，我们谈谈星舰。你们刚刚进行了一次看起来非常惊艳的嗯发射。它离，你知道，达到可预测并能在商业环境中使用还有多远？我，我，我想我们明年会回收飞船。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "Um we've got one more launch of the um Starlink version two uh uh stack that there's only one one uh booster and ship left that's in the version two uh design. Uh and then thereafter it's it's version three which is a gigantic upgrade cuz that's got Raptor 3. Um, and pretty much everything changes on the rocket with version 3. Um, so version 3, you know, might have some initial teething pains, uh, cuz it's such a radical redesign.",
+      "textZh": "嗯，我们还要再发射一次嗯星链第2版呃呃堆叠，目前只剩下1枚采用第2版呃设计的、1枚呃助推器和飞船。呃，此后就是第3版，这是一次巨大的升级，因为它配备了猛禽3。嗯，而且第3版火箭上几乎所有东西都会改变。嗯，所以第3版，你知道，初期可能会有一些磨合问题，呃，因为这是一次如此彻底的重新设计。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Uh, but, uh, it's it's capable of over 100 tons to orbit fully reusable. Um, and I think it's I think I think um unless we have unless we have some very major setbacks, uh, SpaceX will demonstrate uh, full reusability next year uh, catching both the booster and the ship um, and being able to deliver over 100 tons to a useful orbit. >> What does the best rocket in the world do now in terms of tonnage to space?",
+      "textZh": "呃，但是，呃，它能在完全可重复使用的情况下把超过100吨送入轨道。嗯，而且我认为，我认为，我认为嗯，除非我们遇到，除非我们遇到一些非常重大的挫折，呃，SpaceX 明年将展示呃完全可重复使用，嗯，接住助推器和飞船，并且能够把超过100吨送入有用的轨道。>> 目前世界上最好的火箭，送入太空的吨位是多少？"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "Uh well in terms of uh sort of commercial rockets there's there's Falcon Heavy. >> Yeah. >> Uh which will do uh in um with with side booster reuse uh will do about 40 tons. >> So this is five times bigger. Yeah. >> Well two and a half times bigger in but but Starship would be full reuse full reusability. >> Got it. Okay.",
+      "textZh": "呃，嗯，就呃那种商业火箭而言，有，有猎鹰重型。>> 是的。>> 呃，它在嗯重复使用侧助推器的情况下，呃能运送大约40吨。>> 所以这个大5倍。是的。>> 嗯，是大2.5倍，但是，但是星舰将完全重复使用，完全可重复使用。>> 明白了。好的。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "So everything comes back >> Elon after after the explosion that happened um with the the the the failed launch >> um there was a lot of >> sorry >> which which failed >> oh the more recent one the more recent the starship with >> the big boom yeah >> the big boom on the base and and and there was a lot of >> there was a lot of proclamations that there's going to be environmental and FAA and all these other sorts the recovery back to the launchpad again was incredible.",
+      "textZh": "所以所有东西都会回来 >> 埃隆，在那次爆炸发生之后，嗯，也就是那次、那次、那次、那次失败的发射 >> 嗯，当时有很多 >> 抱歉 >> 哪一次，哪一次失败？>> 哦，最近的那次，最近的那次，星舰和 >> 那声巨响，是的 >> 基地上的那声巨响，而且，而且，而且当时有很多 >> 有很多断言，说将会涉及环境问题、FAA 以及所有其他这类事情，而再次恢复到发射台令人难以置信。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "fast. How did you get back so fast? Not just technically and work-wise, but just like regulatory clearance-wise because they said there were going to be all these questions and reviews and so on. How how did you guys manage that? >> Uh well, there were a lot of questions and reviews. We got through them all. Um and credit to the SpaceX team.",
+      "textZh": "很快。你们是怎么这么快恢复的？不只是技术上和工作上，而是比如监管许可方面，因为他们说会有所有这些问题和审查等等。你们，你们是怎么做到的？>> 呃，嗯，确实有很多问题和审查。我们全部通过了。嗯，这要归功于 SpaceX 团队。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "They worked incredibly hard and they uh got the next trip and booster tested and on the pad and and flown and um yeah, huge credit to the SpaceX team. Very proud of them for >> doing doing such a job, a great job recovering. >> Um I mean creating a fully reusable orbital rocket is one of the hottest engineering problems ever. and certainly, you know, a candidate for most difficult engineering project ever. You know, it's on the podium at least.",
+      "textZh": "他们工作得极其努力，而且他们呃让下一次行程和助推器完成测试、登上发射台并进行了飞行，而且嗯，是的，这非常归功于 SpaceX 团队。我为他们 >> 完成这样的工作、出色地完成恢复工作感到非常自豪。>> 嗯，我的意思是，制造一枚完全可重复使用的轨道火箭，是有史以来最棘手的工程问题之一。而且当然，你知道，它也是有史以来最困难工程项目的候选者。你知道，它至少能登上领奖台。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "Um, so it's a that that's been the goal of SpaceX from the beginning from 2002. Um, and here we are 23 years later. So, it's it's a long journey and um with with a a super talent like by far the I think the most talented group of rocket engineers that ever been assembled. Um and uh and we're finally next year I think we'll be able to achieve full reusability.",
+      "textZh": "嗯，所以这，这从2002年起就是 SpaceX 从一开始的目标。嗯，而现在已经过去23年了。所以，这，这是一段漫长的旅程，而且嗯，拥有这样一支超级有才华的，就我认为，是迄今为止集结起来的最有才华的火箭工程师团队。嗯，而且呃，我们终于，我想明年我们将能够实现完全可重复使用。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": ">> Elon, what are the big um technical blockers that you're focused on there between now and that full reusability? Are there some showstoppers where you're just kind of literally just obsessing over trying to figure out still or is it more about getting through a laundry list of your learnings and just integrating it into the next launch?",
+      "textZh": ">> 埃隆，从现在到实现完全可重复使用之间，你重点关注的重大嗯技术障碍是什么？是否有一些会让项目完全卡住的问题，是你现在仍然真的有点痴迷地试图解决的，还是更多只是要逐项处理你们总结出的经验清单，并把它们整合进下一次发射？"
+    },
+    {
+      "id": "p-0053",
+      "textEn": ">> Well, that the for for full reusability of the ship, there's still a lot of work that remains on the heat shield. So, no one's ever made a fully reusable orbital heat shield. Like the shuttle heat shield uh had to go through nine months of repair after every flight, >> right? >> Um so, no one has ever made a fully reusable orbital heat shield. >> And is that a material science problem or is that an engineering problem or both?",
+      "textZh": ">> 嗯，要，要让飞船完全可重复使用，隔热罩方面仍有大量工作要做。所以，从来没有人制造出完全可重复使用的轨道飞行隔热罩。比如航天飞机的隔热罩，呃每次飞行后都必须经历9个月的维修，>> 对吧？>> 嗯，所以，从来没有人制造出完全可重复使用的轨道飞行隔热罩。>> 那这是一个材料科学问题，还是一个工程问题，或者两者都是？"
+    },
+    {
+      "id": "p-0054",
+      "textEn": ">> Uh yeah, I mean it's a material science engineering problem. So, it's but we really are uh looking at the fundamental physics here. Um again physics first principles and trying to figure out how do we make something that um is uh you know can can withstand the heat is very light doesn't transmit the heat to the the primary sh >> Yeah. >> primary structure um and uh whose integ >> Yeah.",
+      "textZh": ">> 呃，对，我是说，这是一个材料科学工程问题。所以，它是——但我们确实在研究这里的基础物理。嗯，还是从物理学第一性原理出发，试图弄清楚我们如何制造出一种，嗯，呃，你知道，能够承受高温、非常轻、不会把热量传到主—— >> 对。 >> 主体结构，嗯，而且其完整—— >> 对。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": ">> Um Uh, and then as you ascend, if you hit some rain, you know, the tiles don't dissolve in rain. There's there's a lot of different issues and and then you really need to know that these tiles are working. You can't uh, you know, go through this laborious inspection. So, it really needs to be we're, you know, these these tens of thousands of tiles all work and don't need to be refurbished or checked one by one as was the case with the shuttle.",
+      "textZh": ">> 嗯，呃，然后当你上升时，如果遇到一些雨，你知道，这些隔热瓦不会在雨里溶解。有很多很多不同的问题，然后你确实需要知道这些隔热瓦正在正常工作。你不能，呃，你知道，进行这种费力的检查。所以，确实需要做到，我们，你知道，这数万块隔热瓦全都正常工作，而且不需要翻修或逐块检查，航天飞机当年就是那样。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": ">> Can we maybe um switch now? It's I mean, who who else were you talked about Tesla, then you go to SpaceX? Yeah. Now, I' I'd like to ask you some questions about Grock and um XAI. Um you want to just give us an update? I think you you kind of talked about where the nextG model is and you said something incredible.",
+      "textZh": ">> 我们现在可以，嗯，换个话题吗？就是，我是说，还有谁——你谈了 Tesla，然后转到 SpaceX？对。现在，我、我想问你一些关于 Grok 和，嗯，xAI 的问题。嗯，你想不想直接给我们介绍一下最新情况？我觉得你、你大概谈过下一代G模型进展到了哪里，而且你说了一件不可思议的事。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "I still don't think people really understand it which is you know there's going to be a next training run where you expect you know not to start from the you know common web and common crawl where you expected an enormous amount of synthetic data. Just tell us about how uh the evolution of Grock is going and this innovation and why it's so important. Yeah.",
+      "textZh": "我仍然认为人们并没有真正理解这件事，也就是说，你知道，接下来会有一轮训练，你预计，你知道，不会从，你知道，常见网页和 Common Crawl 开始，而是预计会有海量的合成数据。给我们讲讲 Grok 的演进进展如何，以及这项创新，还有为什么它如此重要。对。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "So we're we're running a lot of using a lot of of inference compute and um and reasoning to look at all of the source data which is really the corpus of human knowledge and then uh thinking about each piece of information and then adding mod adding what's missing um and correcting correcting mistakes and removing falsehoods from the from that training data.",
+      "textZh": "所以我们正在运行大量——使用大量的推理算力，嗯，以及推理，来审视所有源数据，也就是人类知识的语料库，然后，呃，思考每一条信息，再补充——补充缺失的内容，嗯，纠正、纠正错误，并从、从那些训练数据中移除虚假内容。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "So it's it's it's like if you take say Wikipedia as an example but this really applies to to books, PDFs, uh the websites, uh every form of information. Um the the Grock is using um heavy amounts of inference compute to say to look at at an example a Wikipedia page and say uh what is true, partially true or false or missing uh in this page.",
+      "textZh": "所以它、它、它就像是，比如以维基百科为例，但这其实适用于书籍、PDF，呃，网站，呃，各种形式的信息。嗯，Grock 正在使用，嗯，大量的推理算力，去，比如说，查看一个维基百科页面，然后判断，呃，这个页面中哪些是真的、部分是真的、假的，或者缺失了什么。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "Now rewrite the page to in to correct the remove the falsehoods uh uh correct the half-truths and add the missing context. >> Well, Elon, by the way, could you just publish that? Could we create like a groipedia? I mean, that would >> Yeah, especially for our bio pages, which are a disaster. >> Wikipedia is so biased and it's it's a constant war.",
+      "textZh": "现在重写这个页面，以——以纠正——移除虚假内容，呃，呃，纠正那些半真半假的内容，并补上缺失的背景信息。 >> 对了，埃隆，你能不能直接把它发布出来？我们能不能创建一个类似 Groipedia 的东西？我是说，那会—— >> 对，尤其是我们的个人简介页面，简直是一场灾难。 >> 维基百科太有偏见了，而且它、它一直是一场战争。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "you know, if something gets corrected, five minutes later, there'll be an army of people trying to >> I mean, it's become hyperartisan and there's activists all over it. >> So, if you do fix, for example, Wikipedia as a source of truth, >> it'd be great to publish that just so the world has it. >> All right, I'll talk talk about that. So, talk to the team about that like Groedia or whatever. This here's the Groedia version. >> It' be interesting.",
+      "textZh": "你知道，如果某些内容得到纠正，5分钟后，就会有一大群人试图—— >> 我是说，它已经变得极度工匠化，上面到处都是活动人士。 >> 所以，如果你确实修正了，比如说，把维基百科修正为真相来源， >> 把它发布出来会很棒，这样全世界都能拥有它。 >> 好吧，我会谈谈、谈谈这个。所以，和团队讨论一下，做成类似 Groedia 或随便什么名字。这就是 Groedia 版本。 >> 那会很有意思。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Yeah.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "and then just have it out there for just a few minutes >> where in terms of um people here like it um in terms of training Gro 5 um you're you're scaling up your supercluster in Colossus in in Memphis >> can yeah have a second one >> yeah can could you give us an update on that and then also as part of that um where are we in the scaling laws um if you scale a bigger cluster do you get a more powerful AI model is there a point of dimin diminishing returns or like how much more compute if you throw twice as much compute at it do you get a 10% better model do you get 100% better model like is it log linear what what I guess how much more juice is there left in scaling hardware do you think >> I think I think there's a natural logarithmic function associated",
+      "textZh": "然后就把它放在那里几分钟 >> 至于，嗯，这里的人喜欢它，嗯，关于训练 Gro 5，嗯，你们、你们正在扩建位于、位于孟菲斯的 Colossus 超级集群 >> 可以，对，还有第2个 >> 对，你能、能不能给我们介绍一下最新情况，然后作为其中的一部分，嗯，我们在扩展定律方面进展到了哪里，嗯，如果扩大集群规模，能否得到一个更强大的 AI 模型，是否存在收益递减的节点，或者说需要多多少算力，如果给它投入2倍的算力，模型会好10%，还是好100%，比如它是对数线性的吗，我想问的是，你认为硬件扩展还剩下多少潜力 >> 我认为、我认为存在一个与……相关的自然对数函数"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "with the amount of compute so uh then like say for argument sake like 10x more compute will double the intelligence.",
+      "textZh": "它与算力大小相关，所以，呃，那么比如为了讨论方便，可以说，增加10倍算力会让智能翻倍。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "Maybe that's that that might be a rough rule of thumb, but you know, that still means that, you know, you go from 100 IQ to 200 IQ. Still pretty pretty big deal. Um, so I and and I think I think we'll see intelligence continue to scale all the way up to where, you know, most of the power of the sun is harnessed for compute and then ultimately most of the power of the galaxy, you know, sort of cautev 2, cautev 3 scale uh compute.",
+      "textZh": "也许那、那可能是一个粗略的经验法则，但你知道，这仍然意味着，你知道，你会从100 IQ 提升到200 IQ。仍然是相当、相当不得了的事。嗯，所以我——而且、而且我认为、我认为我们会看到智能持续扩展，一直到，你知道，太阳的大部分能量都被用于计算，然后最终是银河系的大部分能量，你知道，某种 cautev 2、cautev 3 规模的，呃，计算。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "Um so I guess once you think of artificial intelligence not as sort of this you know a destination that you reach but really uh as part of the overall escalation of intelligence um that that that we are are aware of. Um you know human intelligence has also scaled as you've have as the population has increased um and we've been able to store more and more information. uh human intelligence has scaled.",
+      "textZh": "嗯，所以我想，一旦你不把人工智能视为某种，你知道，一个抵达的终点，而是真正把它视为，呃，我们、我们所知道的智能整体升级过程的一部分。嗯，你知道，随着、随着人口增加，人类智能也得到了扩展，嗯，而且我们已经能够存储越来越多的信息。呃，人类智能得到了扩展。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "Now human because of population declines and low growth rate, human intelligence is is somewhat plateauing um and will actually decline. And my guess is that I I I I think that we might have AI smarter than any single human at anything as soon as next year. >> Wow. >> Um >> Yeah. and and and then and then probably within five like say 2030 probably AI is smarter than the sum of all humans.",
+      "textZh": "现在，由于人口下降和低增长率，人类智能正在、正在某种程度上进入平台期，嗯，而且实际上会下降。而我的猜测是，我、我、我、我认为最快明年，我们就可能拥有在任何事情上都比任何单个人类更聪明的 AI。 >> 哇。 >> 嗯。 >> 对。而且、而且、而且之后、之后可能在5年内，比如说到2030年，AI 很可能会比全体人类智慧的总和更聪明。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": ">> Do you think do you think humans are on the decline because the AI is evolving? Do you think there's this evolution of the ecosystem on Earth that's underway that we don't really understand the structure of what's going on? But >> maybe yeah, maybe we implicitly know that it's coming. Um, >> yeah. >> I I I I mean I hope the birth rates turn around. I'm a I'm a big proponent of increased birth rate. Uh, obviously.",
+      "textZh": ">> 你认为，你认为人类正在衰退，因为 AI 正在进化吗？你认为地球上的生态系统正在经历这种演化，而我们其实并不了解正在发生的事情的结构吗？但是 >> 也许吧，是的，也许我们潜意识里知道它就要来了。嗯，>> 是的。>> 我我我我的意思是，我希望出生率能够回升。我是，我是提高出生率的坚定支持者。呃，显然。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": ">> Well, you doing anything about it or no? >> Yeah. I'm trying to set a good example. You know, we had a big conversation at this conference we didn't expect, which is suicidal empathy, the West, >> this um declining birth rate. Uh I noticed you've been pretty active about it >> and open borders >> and open borders is like let the invaders in. Could all three of those be the same thing?",
+      "textZh": ">> 那么，你为此做了什么吗，还是没有？>> 是的。我在努力树立一个好榜样。你知道，我们在这次会议上进行了一场意料之外的重要讨论，谈的是自杀式同理心、西方，>> 这种，嗯，不断下降的出生率。呃，我注意到你在这方面一直相当积极 >> 还有开放边境 >> 而开放边境就像是让入侵者进来。这3件事会不会其实是同一件事？"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "It >> it seems like there's a number of symptoms of the West being suicidal. The most obvious one being the birth rate is not a replacement level. So obviously if that continues indefinitely then the west will literally not reproduce enough to replace itself. But there's other things too.",
+      "textZh": "这 >> 这似乎是西方具有自杀倾向的若干症状。最明显的一点是出生率没有达到世代更替水平。所以显然，如果这种情况无限期持续下去，那么西方的繁衍人数实际上将不足以实现自身更替。但还有其他事情。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "There's the fact that the borders were totally opened to the point where western culture the social fabric start to come apart and you see this especially in Europe where there um you know the indigenous cultures of the UK or France or Germany are starting to um potentially be taken over by by cultures of people who are brought in and aren't assimilating.",
+      "textZh": "还有一个事实是，边境被彻底开放，以至于西方文化的社会结构开始瓦解。你尤其能在欧洲看到这一点，那里的，嗯，你知道，英国、法国或德国的本土文化正开始，嗯，有可能被引入当地、却没有融入当地社会的人群的文化所取代。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "You have crime where, you know, we have this case on social media right now, this young woman, Ire Ina, who's just >> killed in a senseless way on a subway. >> Uh, which is horrific enough in and of itself, but then in addition to that, the elite media just for whatever reason just refused to cover it, like it didn't exist. >> Um, so you have this issue of crime that's not being addressed or even acknowledged >> and no acknowledgement of this.",
+      "textZh": "还有犯罪问题，你知道，我们现在在社交媒体上就有这样一个案件，这位名叫 Ire Ina 的年轻女性，就这样 >> 在地铁上毫无意义地遭到杀害。>> 呃，这件事本身已经足够骇人听闻，但除此之外，精英媒体不知出于什么原因，就是拒绝报道，仿佛这件事根本不存在。>> 嗯，所以犯罪问题既没有得到处理，甚至也没有得到承认 >> 对此完全没有承认。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "like it's almost like we're trying to deny the reality of the spiral >> and this Yeah. So you have the you have all these data points um that seem to suggest that um the west uh is suicidal or doesn't you know doesn't seem to want to defend itself or propagate itself. Um look I think everyone in this room thinks that um life is awesome right? I mean it's >> pretty great and I think >> worth living. >> Yeah.",
+      "textZh": "就好像我们几乎在试图否认这种螺旋式发展的现实 >> 而这，是的。所以你看到了，你看到了所有这些数据点，嗯，它们似乎表明，嗯，西方，呃，具有自杀倾向，或者不，你知道，似乎不想保卫自己，也不想让自己繁衍下去。嗯，你看，我认为这个房间里的每个人都觉得，嗯，生命很美好，对吧？我的意思是，它 >> 相当美好，而且我认为 >> 值得活下去。>> 是的。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "And when when Alex Karp was here earlier today defending the West, that got some of the loudest applause at the conference. So, uh I guess we probably don't really understand what's going on. We don't really >> Yeah. What's your take, Elon? Cuz you you know, >> what's your take on the suicide of the West? >> Yeah. >> What's What's >> I'm very worried about it. >> Yeah. >> I'm very worried about it.",
+      "textZh": "而今天早些时候 Alex Karp 在这里为西方辩护时，赢得了这次会议上最热烈的一些掌声。所以，呃，我想我们可能确实不明白正在发生什么。我们其实并不 >> 是的。你怎么看，埃隆？因为你，你知道，>> 你怎么看西方的自杀？>> 是的。>> 什么，什么是 >> 我对此非常担忧。>> 是的。>> 我对此非常担忧。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "Um you know, I think there's there's just the actions of the West are indistinguishable from suicide. So, but it's and look, at least in America, there's there's there's generally a sense of optimism, but when's the last time you you talked to someone from Europe who lives in Europe who's optimistic? >> Not for a while. Yeah. >> Decades, >> like even one. >> It's rare.",
+      "textZh": "嗯，你知道，我认为西方的种种行为与自杀没有区别。所以，但是，而且你看，至少在美国，人们普遍还有一种乐观情绪。但你上一次和一位住在欧洲、并对未来感到乐观的欧洲人交谈，是什么时候？>> 有一阵子没有了。是的。>> 几十年，>> 哪怕只找出一个。>> 很少见。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "So I I think unless people have a sense of optimism and purpose about the future, they suicide might be just what happens. Um like like like having a child is an act of optimism about the future. So uh if you're not optimistic, this Yeah. So, so I think we need to maybe give people a sense of optimism and excitement about the future and and a belief that the future will be better than the past um and they'll be more interested in having kids.",
+      "textZh": "所以我，我认为，除非人们对未来怀有乐观感和使命感，否则自杀或许就会这样发生。嗯，就像，就像，就像生孩子是一种对未来抱有乐观态度的行为。所以，呃，如果你不乐观，这，是的。所以，所以我认为，我们也许需要让人们对未来产生乐观感和兴奋感，并且相信未来会比过去更好，嗯，这样他们才会更有兴趣要孩子。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": ">> Did did religion play a role in the past, Elon, to kind of plate and make folks feel that way >> when they >> Yeah, I think so.",
+      "textZh": ">> 埃隆，宗教过去是否起到了作用，某种程度上给……镀层，并让人们产生那种感觉？>> 当他们 >> 是的，我认为是。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "uh the nature abhores a vacuum and if you take away religion then I think you actually you you you get something in its place which is actually worse than what was there before I mean it's like destructive basically you get you get like the white work mind virus filling filling the hole that religion used to have taking the place of of of religion you get these dystopian de facto religions um that uh that that are very very self-destructive.",
+      "textZh": "呃，自然厌恶真空，如果你去除宗教，那么我认为实际上，你，你，你会得到某种东西来取代它，而那实际上比此前存在的东西更糟。我的意思是，它基本上具有破坏性。你会得到，你会得到类似白人工作思维病毒的东西，填补宗教过去占据的空缺，取代宗教。你会得到这些反乌托邦式的事实宗教，嗯，它们，呃，它们非常、非常具有自我毁灭性。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "Um so I I think perhaps some some sort of re revival of religion or at least what we need is is um some coherent philosophy that people can get excited about. Um you know I mean for me it's a philosophy of curiosity. I'm curious about the nature of the universe and I want to go out there and I want humanity to be out there exploring the stars. Um maybe meeting alien civilizations.",
+      "textZh": "嗯，所以我，我认为，也许需要某种形式的宗教复兴，或者至少我们需要的是，嗯，某种能够让人们为之振奋的连贯哲学。嗯，你知道，我的意思是，对我而言，那是一种好奇心哲学。我对宇宙的本质感到好奇，我想前往那里，也希望人类能够前往那里探索群星。嗯，也许会遇到外星文明。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "Uh maybe in some cases we we see the ruins of a long dead alien civilization but they were they were very strong for 10 million years. Um you know the kind of stuff that you see in Star Trek in in a non-dystopian sci-fi book or or movie or show. Um, and so I'm just I have I have a philosophy of curiosity of of like I just want to know what's going on.",
+      "textZh": "呃，也许在某些情况下，我们会看到一个早已灭亡的外星文明留下的废墟，但他们曾强盛了1000万年。嗯，你知道，就是你会在《星际迷航》、非反乌托邦科幻书籍、电影或剧集中看到的那类东西。嗯，所以我只是，我有，我有一种好奇心哲学，就是，我只想知道正在发生什么。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "And and in order to know what's going on, we we must have u an an increase in the in the scope and scale of consciousness, we must we must expand uh consciousness. We must grow. We must grow humanity and we must extend humanity in order to comprehend the and to to understand the universe or even what what question should we should ask about the answer that is the universe.",
+      "textZh": "而，而为了知道正在发生什么，我们，我们必须，呃，扩大意识的范围和规模，我们必须，我们必须拓展，呃，意识。我们必须成长。我们必须壮大人类，而且必须将人类延伸出去，以便领会并，并理解宇宙，甚至弄清对于那个答案就是宇宙的事物，我们应该提出什么问题。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Um you know Doug Douglas Adams book the hitchhikers guide to the galaxy is actually a a deep book on philosophy disguised as humor. Um and what the point he was trying to make in that book was that u the questions are the really the hard part. The answer is the universe. Like the answer is everything you see around you. But but but one of the questions that we don't know to ask. >> Yeah. >> Um now now some of the questions I guess I we I do know.",
+      "textZh": "嗯，你知道，道格·道格拉斯·亚当斯的书《银河系漫游指南》实际上是一本披着幽默外衣的深刻哲学著作。嗯，而他试图在那本书中表达的观点是，呃，问题才是真正困难的部分。答案就是宇宙。比如，答案就是你在周围看到的一切。但，但是，但是，在那些我们不知道该如何提出的问题中，有一个。>> 是的。>> 嗯，现在，现在有些问题，我想我，我们确实知道。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "I'd like to know is the standard model of physics correct about the origins of the universe? Are we actually 13. 8 billion years old? Um how does the universe end? Does it end in a heat death or in some other way? Um, you know, >> a black hole. >> We might be. >> Um, >> Elon, can you talk about >> the whole sort of simulation question? Are we a simulation? Maybe. >> Where does the uh where do you think we find the answer first?",
+      "textZh": "我想知道，物理学标准模型对宇宙起源的描述正确吗？我们真的已有138亿年历史吗？嗯，宇宙会如何终结？它会以热寂终结，还是以其他某种方式终结？嗯，你知道，>> 一个黑洞。>> 我们可能是。>> 嗯，>> 埃隆，你能谈谈 >> 整个模拟问题吗？我们是一个模拟吗？也许吧。>> 那么，呃，你认为我们会先在哪里找到答案？"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "In AI or in the stars? Because you're pursuing both obviously. >> Yeah. I I I don't know if if I I hope I hope more people can get behind a philosophy of curiosity. >> Yeah. >> Because I think it's very exciting. >> Yeah. >> Um and and and and inherently optimistic. Um you like because there's there's this amazing sense of wonder about the nature of the universe. And when you just when you uncover some secret in the universe, that's amazing.",
+      "textZh": "在 AI 中，还是在群星之中？因为显然这两方面你都在探索。>> 是的。我，我，我不知道是否，如果我，我希望，我希望更多人能够支持一种好奇心哲学。>> 是的。>> 因为我认为它非常令人兴奋。>> 是的。>> 嗯，而且，而且，而且，而且从本质上说是乐观的。嗯，你会喜欢，因为宇宙的本质会带来这种惊人的奇妙感。而当你，只要当你揭开宇宙中的某个秘密时，那太不可思议了。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "And you're like a whole world of understanding is opened up. I mean, we we used to not even know where all the continents were. Um, you know, used to be like just the map would be there be dragons and like all we know is that when they sailed in that direction, they didn't come back. >> I mean, the moon base, >> that's all that's all they knew.",
+      "textZh": "而你会觉得，一个完整的理解世界向你敞开了。我的意思是，我们，我们过去甚至不知道所有大陆在哪里。嗯，你知道，过去就像，地图上只会写着“此处有龙”，而且，就像，我们只知道当人们朝那个方向航行时，他们没有回来。>> 我的意思是，月球基地，>> 那就是，那就是他们知道的一切。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "I I kind of feel like the moon base or just going to the moon for real this time would be a big step in the right direction. You still have the moon uh planned. What's the status of that? Is is that still on the agenda? >> Yeah, I I think it I think having I think we want to try to reach new heights as a civilization. >> Yeah.",
+      "textZh": "我，我有点觉得，月球基地，或者这次真正登上月球，会是朝正确方向迈出的一大步。你仍有月球，呃，计划。它目前是什么状态？那，那仍在议程上吗？>> 是的，我，我认为它，我认为拥有，我认为我们想努力让文明达到新的高度。>> 是的。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": ">> So, I think it's it's fine to go to the moon, but but we should go to the moon in order to establish a lunar base, like a a lunar research base. >> Yeah. Um, I mean there are parts of the moon that are perhaps older than parts of of Earth. Um, and we we we might understand more about the nature of the universe if we had a science base on the moon. >> Um, that would be very cool.",
+      "textZh": ">> 所以，我认为去月球没问题，但，但是我们应该为了建立月球基地而去月球，比如一座，一座月球研究基地。>> 是的。嗯，我的意思是，月球的某些部分可能比地球的某些部分更加古老。嗯，如果我们在月球上建立科学基地，我们，我们，我们或许能对宇宙的本质有更多了解。>> 嗯，那会非常酷。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "And then we we obviously want to go beyond the moon uh to Mars and uh build a self-sustaining city on Mars.",
+      "textZh": "然后，我们显然希望越过月球，呃，前往火星，并且，呃，在火星上建设一座能够自给自足的城市。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "the I I I do think that uh that that there is a fork in the road of human destiny where um if we can establish a self-sustaining city on Mars with the the key test being if the resupply shifts from Earth stop coming for any reason does Mars continue to to prosper or does it die out >> at the point at which Mars is able to uh prosper and grow on its own the probable lifespan of consciousness is dramatically greater.",
+      "textZh": "我我我确实认为，呃，人类命运走到了一个岔路口，嗯，如果我们能在火星上建立一座自给自足的城市，关键检验标准是，如果由于任何原因，来自地球的补给班次不再到来，火星是会继续繁荣，还是会消亡？>> 当火星能够，呃，凭自身繁荣和发展时，意识可能延续的寿命将大幅增加。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "because we are no longer dependent on everything going right on Earth. You know, there's there's always some possibility of self annihilation on Earth with the World War II or or a supervirus or um or or a meteor like extin, you know, that destroyed the dinosaurs. We know from the fossil record that there've been many mass mass extinction events.",
+      "textZh": "因为我们不再依赖地球上的一切都正常运转。你知道，地球上始终存在某种自我毁灭的可能性，比如第二次世界大战，或或一种超级病毒，或，嗯，或或像灭绝那样的陨石，你知道，就是毁灭恐龙的那种。我们从化石记录中知道，曾经发生过许多大规模大规模灭绝事件。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "So uh the question that I sort of was wondering about is will civilization will the civilizational arc continue to ascend such that we can make Mars self- sustaining before the civil civilizational ark descends >> um because the the window of opportunity to make life multilanetary exists now for the first time in the 4 and a half billion year history of earth. >> Yeah. Elon, let's assume that we get there and you're there.",
+      "textZh": "所以，呃，我有点一直在思考的问题是，文明是否会，文明的弧线是否会继续上升，使我们能在文明文明方舟下降之前让火星实现自给自足？>> 嗯，因为让生命成为“multilanetary”的机会窗口，现在在地球45亿年的历史上首次出现。>> 是的。埃隆，我们假设我们实现了，而你也在那里。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": ">> Um, you know, you'd be the elder statesman. You'd have the moral authority of Mars. How do you run Mars? >> But I just there's this point that I I think I I want to just emphasize again that that's that's it's more important than the form of governance on Mars or who's there in the early days.",
+      "textZh": ">> 嗯，你知道，你会是资深政治家。你会拥有火星的道德权威。你要如何治理火星？>> 但我只是——有一点，我我认为我我想再次强调，那那就是，它比火星上的治理形式，或早期谁在那里，更重要。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "What really matters is that Mars um is self- sustaining that we are truly a multilanet species and s such that we've achieved planetary redundancy so that that if if something and obviously we should do everything possible to make sure life on Earth is great but there's always some risk that of an annihilation event on Earth. >> Yeah. >> Um like I said self annihilation or some natural disaster.",
+      "textZh": "真正重要的是，火星，嗯，能够自给自足，我们真正成为一个多行星物种，并并且我们实现了行星冗余，这样，如果如果发生了什么——显然，我们应该尽一切可能确保地球上的生活很美好——但地球上始终存在某种毁灭性事件的风险。>> 是的。>> 嗯，就像我说的，自我毁灭或某种自然灾害。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "Um and uh and so the the probable lifespan of consciousness increases dramatically as soon as uh as soon as we are multilanet species with the key test being can Mars survive if the resupply ships stop coming. So so getting like the first missions to Mars are not that important. The what matters is can you get sufficient tonnage tonnage to Mars such that Mars can prosper on its own.",
+      "textZh": "嗯，而且，呃，所以，一旦，呃，一旦我们成为多行星物种，意识可能延续的寿命就会大幅增加，关键检验标准是：如果补给飞船不再抵达，火星能否存续。因此因此，完成最初几次火星任务并没有那么重要。真正重要的是，你能否将足够的吨位吨位运到火星，使火星能够凭自身繁荣。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Um, and that means it has to have all of the ingredients of civilization. It it it's not just that you need to build, for example, a chip factory on Mars or ship fab on Mars, but you you need the ability to build. >> Do you do you have a sense of the time scale? Like, let's assume Starship is at a state starting in, you know, 2026. Then there's going to be a bunch of testing. Obviously, there's going to be a bunch of early testing.",
+      "textZh": "嗯，而这意味着它必须具备文明的所有要素。这这这不只是说你需要在火星上建造，比如说，一座芯片工厂，或者火星上的船舶制造厂，而是你你需要具备建造的能力。>> 你你对时间尺度有概念吗？比如，我们假设星舰从，你知道，2026年开始达到某种状态。然后会有一大堆测试。显然，会有一大堆早期测试。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "We only have certain launch windows. So, there's a bunch of time constraints. Is that is this a 50-year thing in your mind? Is it a 150 year thing? Is it something that is for our generation or is it our children's generation? Where do you see that point if it's optimally possible? You know, if things go and break our way, >> um I think it can be done in in 30 years. Um >> wow.",
+      "textZh": "我们只有特定的发射窗口。所以，有一大堆时间限制。在你看来，这是件要花50年的事吗？是件要花150年的事吗？这是属于我们这一代人的事，还是属于我们子女那一代人的事？如果能以最理想的方式实现，你认为那个节点在哪里？你知道，如果事情进展顺利、局面朝有利于我们的方向发展，>> 嗯，我认为30年内可以做到。嗯。>> 哇。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "So if provided there's an exponential increase in the in the tonnage to Mars with each successive Mars transfer window, which is every two years. So every two years the the planets align and you can you can transfer to Mars. Um, so I I think in roughly 15, but maybe as few as 10, but 10 to 15ish Mars transfer windows.",
+      "textZh": "所以，前提是每一个接续而来的火星转移窗口，运往火星的吨位都呈指数级增长，而火星转移窗口每2年出现一次。所以每2年，这这些行星就会排列到合适的位置，你就可以可以转移到火星。嗯，所以我我认为大约需要15个，但也许少至10个，也就是大约10到15个火星转移窗口。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "If you're um seeing exponential increases in the tonnage to Mars with each Mars transfer window, then it should be possible to make Mars self-sustaining um in in about call it roughly 25 years. >> Amazing. That's incredible. All right, ladies and gentlemen, Elon Musk, we'll see you when we're back in town. We miss you. We'll >> see you in person next time. >> Thank you, brother. All right.",
+      "textZh": "如果你，嗯，看到每个火星转移窗口运往火星的吨位都呈指数级增长，那么应该有可能在，嗯，就算大约25年内让火星实现自给自足。>> 太棒了。真不可思议。好了，女士们先生们，埃隆·马斯克，我们回城时再见。我们想念你。我们会 >> 下次当面见你。>> 谢谢你，兄弟。好了。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T20:46:08.245Z",
+    "reviewedAt": "2026-09-12T21:25:46.976Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:55.663Z",
+  "transcriptSource": "https://podcasts.happyscribe.com/all-in-with-chamath-jason-sacks-friedberg/elon-musk-3-years-of-x-openai-lawsuit-bill-gates-grokipedia-the-future-of-everything",
+  "sourceHash": "90a850042b888b486e821f9d59548491e5db7394030ff2e73aa067ee6cdbecb6"
+}

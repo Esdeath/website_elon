@@ -1,0 +1,9 @@
+{
+  "id": "dialogue-video",
+  "title": "A dialogue",
+  "summary": "A compact interview transcript.",
+  "text": "Host (00:00:03): Welcome to the interview.\n\nElon Musk (00:01:02): Thank you for having me.",
+  "transcriptSource": "assemblyai",
+  "embedUrl": "https://www.youtube.com/embed/abcDEF12345",
+  "sourceLabel": "Example"
+}

@@ -1,0 +1,27 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL;
+---
+
+<BaseLayout title="版权、纠错与下架" description="提交马斯克中文档案的翻译纠错、版权主张或下架请求。" excludeFromSearch>
+  <article class="prose prose-page shell">
+    <h1>版权、纠错与下架</h1>
+    <p>本站是用于检索与研究的非官方档案。视频、演讲、访谈和英文文字的权利归原作者、出版者或相关权利人所有；本站生成的中文翻译不改变原内容的权利归属。</p>
+
+    <h2>提交纠错</h2>
+    <p>发现错译、漏译、说话人标注错误或来源链接失效时，请提供记录网址、具体段落和建议改法。我们会优先处理会改变事实、数字或原意的问题。</p>
+
+    <h2>版权与下架请求</h2>
+    <p>权利人可以申请更正署名、移除正文或下架整条记录。请求中请说明你的身份、涉及的网址、权利依据及希望采取的措施。</p>
+
+    {contactEmail ? (
+      <p><a class="button" href={`mailto:${contactEmail}`}>发送邮件至 {contactEmail}</a></p>
+    ) : (
+      <p><strong>联系邮箱将在网站正式发布前公布。</strong></p>
+    )}
+
+    <h2>处理原则</h2>
+    <p>收到信息完整的请求后，我们会核对来源并尽快回复。存在明确权利争议时，可以先暂时隐藏相关内容，再完成进一步核验。</p>
+  </article>
+</BaseLayout>

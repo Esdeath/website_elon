@@ -1,0 +1,598 @@
+{
+  "id": "kudlow-doge-2025-musk",
+  "slug": "kudlow-doge-2025-musk",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2025-03-10",
+  "titleEn": "Kudlow",
+  "titleZh": "库德洛",
+  "summaryEn": "In a rare TV interview with Larry Kudlow, Musk says DOGE has gained access to nearly every agency, calls government-funded NGOs the \"biggest source of fraud\", and admits running it is making his companies harder to run.",
+  "summaryZh": "在与拉里·库德洛的一次罕见电视采访中，马斯克表示，DOGE 已经获得了几乎所有机构的访问权限，称政府资助的非政府组织是“最大的欺诈来源”，并承认管理 DOGE 让他的公司更难经营。",
+  "sourceUrl": "https://www.foxbusiness.com/video/6369857710112",
+  "sourceLabel": "Fox Business — Kudlow",
+  "archiveUrl": "https://elonmuskarchive.org/video/kudlow-doge-2025-musk",
+  "thumbnailUrl": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/0da56b2a-49f1-4cf2-b279-d177ebe0b0e8/5f5524a0-8fce-44a2-ba8b-ba8a34873027/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+  "org": "Tesla",
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "All right, well, welcome to the show in a special interview with Mr. Elon Musk, who of course is famed Trump advisor, CEO of Tesla, SpaceX, chair of X Corp. Elon, thank you for doing this. We appreciate it.",
+      "textZh": "好的，欢迎来到节目。今天是对埃隆·马斯克先生的一次特别采访，他当然是著名的特朗普顾问、Tesla 和 SpaceX 的首席执行官、X Corp. 的董事长。埃隆，感谢你接受采访。我们对此表示感谢。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "Thanks for having me.",
+      "textZh": "谢谢邀请我。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Among other things, everyone's attacking you for your position. What are you doing in the government? There was a cyber attack on X today, which shut it down and may have been foreign sourced. It's a big story. You wanna give us a moment on that?",
+      "textZh": "除此之外，所有人都在因为你的职位而攻击你。你在政府里做什么？今天 X 遭到了一次网络攻击，导致它关闭，而且攻击源头可能在国外。这是个大新闻。你愿意花一点时间谈谈吗？"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "Well, we're not sure exactly what happened, but there was a massive cyber attack to try to bring down the X system with IP addresses originating in the Ukraine area.",
+      "textZh": "嗯，我们还不确定究竟发生了什么，但有人发动了一次大规模网络攻击，试图让 X 系统瘫痪，所用 IP 地址源自乌克兰地区。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Well, so that's your suspicion. Is the website, is the internet up? Is it up yet?",
+      "textZh": "好，所以这是你的怀疑。网站、互联网恢复了吗？已经恢复了吗？"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "It's up yet.",
+      "textZh": "已经恢复了。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "It's up yet, okay, good. But I just was looking back. Let me guess if I get this right. They're setting fire to various Tesla charging stations near Boston. Shots were fired at a Tesla dealer in Oregon, various non-violence-- - Shots fired, not a metaphor.",
+      "textZh": "已经恢复了，好，很好。但我刚才回顾了一下。让我猜猜我说得对不对。他们在波士顿附近放火焚烧多座 Tesla 充电站。俄勒冈州一家 Tesla 经销店遭到枪击，各种非暴力——有人开枪，不是比喻。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Shots fired, yes. Downtown New York, marching against the Tesla's showroom. Your stock is way down. You've been criticized, left and right.",
+      "textZh": "有人开枪，是的。纽约市中心，人们游行反对 Tesla 的展厅。你的股票大幅下跌。你受到了来自左翼和右翼的批评。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "But look on the right side.",
+      "textZh": "但要看看右边。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "I mean, why are you doing this?",
+      "textZh": "我是说，你为什么要这么做？"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Always look on the right side of life.",
+      "textZh": "永远要看生活的右边。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Yes. (laughing) - What's that?",
+      "textZh": "是的。（笑）——那是什么？"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Yes.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "How's your day?",
+      "textZh": "你今天过得怎么样？"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "What motivates you to do this?",
+      "textZh": "是什么促使你这么做？"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Was the offer good?",
+      "textZh": "条件好吗？"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "It's tough sledding.",
+      "textZh": "这事推进得很艰难。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Yeah, it is tough sledding. But I think we're doing the right thing here. There's been a tremendous amount of waste and fraud in the government. When you're part of the government, you saw a lot of that. If you look at the inspector general reports and the government accountability office, there have been many orders that have pointed out that there's a tremendous amount of waste and fraud in the government.",
+      "textZh": "是的，这事推进得很艰难。但我认为我们正在做正确的事。政府中一直存在大量浪费和欺诈。当你是政府的一员时，你看到了很多这类事情。如果你查看监察长报告和政府问责局的资料，就会发现有许多命令指出，政府中存在大量浪费和欺诈。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "In fact, there was a report issued by the GAO at the government accountability office last year. So during the Biden administration, which estimated the federal government fraud to be half a trillion dollars. So just because that's not a Trump administration thing, it's a Biden administration thing.",
+      "textZh": "事实上，政府问责局，也就是 GAO，去年发布了一份报告。因此，那是在拜登政府期间，报告估计联邦政府欺诈金额达到 5000 亿美元。所以这并不是特朗普政府的说法，而是拜登政府的说法。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "So what we're trying to do is get that number down to a much smaller figure, save money for the American taxpayer, stop money being spent on things that I think very few taxpayers would agree makes sense. Transgender animal surgeries are, why are we spending, why are American tax dollars being spent on this? And the president's gone through a long list of absurd things.",
+      "textZh": "所以我们正在努力做的是把这个数字降到小得多的数额，为美国纳税人省钱，阻止资金被花在我认为极少有纳税人会认同其合理性的事情上。跨性别动物手术，为什么我们要花钱，为什么美国纳税人的钱要花在这上面？而且总统已经逐一列举了一长串荒谬的事情。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "Why are there 20 million people who are definitely dead marked as alive in the social security database? Why were hundreds of millions of dollars of small business administration loans were given out to people age 11 and under, according to the social security? Like these must be some very enterprising eight-year-olds.",
+      "textZh": "为什么社会保障数据库中有 2000 万名确定已经死亡的人却被标记为活着？根据社会保障资料，为什么有数亿美元的小企业管理局贷款发放给了年龄在 11 岁及以下的人？比如，这些 8 岁小孩一定非常有进取心。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "That's some pretty strong 150-year-olds.",
+      "textZh": "那些 150 岁的人可真强壮。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Yes, exactly. As the president said, we have an enormous number of people marked as alive in 160. He didn't know the country was that healthy.",
+      "textZh": "是的，完全正确。正如总统所说，我们有数量极其庞大的人在 160 时被标记为活着。他不知道这个国家如此健康。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "Yes, yes.",
+      "textZh": "是的，是的。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "So demystify this. How do you do it? Okay, how big is your team?",
+      "textZh": "所以请揭开这件事的神秘面纱。你们是怎么做的？好吧，你的团队有多大？"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "Yeah.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Where's your recruit most of them from? And what is it that makes you choose the Treasury or Social Security or USAID? Has it worked? Let the public know, please.",
+      "textZh": "你主要从哪里招募他们？是什么让你选择财政部、社会保障局或美国国际开发署？奏效了吗？请让公众了解一下。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "Right, well, we just basically follow the money. We look at the president's executive orders and we also just follow the money. We started looking closely at USAID because they were completely violating the president's executive orders to suspend foreign aid. What's called foreign aid, but in our view is a lot of corruption. So what we saw there is just a trans amount of money being sent to non-governmental organizations.",
+      "textZh": "对，嗯，我们基本上就是追踪资金。我们查看总统的行政命令，同时也就是追踪资金。我们开始仔细调查美国国际开发署，因为他们完全违反了总统暂停对外援助的行政命令。那被称为对外援助，但在我们看来，其中很多是腐败。所以我们在那里看到的是，一笔数量为跨性别的资金被送往非政府组织。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "But actually, this, by the way, is I think one of the biggest sources of fraud in the world. Is government funded non-governmental organizations? This is a gigantic fraud loophole where the government can give money to an NGO and then that there are no controls over that NGO. So they've given billions dollars. In fact, we estimate tens of billions of dollars to NGOs that are essentially scams. And we try to put a stop to that.",
+      "textZh": "但实际上，顺便说一句，我认为这是世界上最大的欺诈来源之一。是政府资助的非政府组织吗？这是一个巨大的欺诈漏洞，政府可以把钱交给一个非政府组织，而后这个非政府组织不受任何管控。所以他们已经给出了数十亿美元。事实上，我们估计，有数百亿美元流向了本质上是骗局的非政府组织。而我们试图制止这种情况。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "I do want to interrupt. Secretary of State Rubio just come out and I think he tweeted today. He has accepted over 80% of your money. recommendations to shut down in USAID. So your review and analysis was spot on.",
+      "textZh": "我确实想打断一下。国务卿鲁比奥刚刚出来表态，我想他今天发了推文。他已经接受了你们超过80%的资金。关于在美国国际开发署关闭项目的建议。所以你们的审查和分析完全正确。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "Yes, so I think when people criticize, say, what Doge is doing, we say, well, which part specifically? Because we put all of the actions of the Doge team on the Doge.gov website and on the Doge handle on X. So we post the receipts. So it's like this action has been taken, this action has been taken. When we get criticism, we say, of what? Which line do you disagree with? Like which cut saving do you disagree with? And then people usually can't think of any.",
+      "textZh": "是的，所以我认为，当人们批评，比如说，DOGE正在做的事情时，我们会说，嗯，具体是哪一部分？因为我们把DOGE团队的所有行动都放在了Doge.gov网站以及X上的DOGE账号上。所以我们公布凭据。也就是说，采取了这项行动，采取了这项行动。当我们受到批评时，我们会问，批评什么？你不同意哪一项？比如，你不同意削减哪项开支所带来的节省？然后人们通常想不出任何一项。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "No.",
+      "textZh": "不。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "It's transparent line by line.",
+      "textZh": "它逐项透明。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "It's transparent line by line.",
+      "textZh": "它逐项透明。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Which is quite remarkable.",
+      "textZh": "这相当了不起。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "Right. And with respect to the Treasury, for example, the main recommendations we suggested, which have not been implemented, was that any payments going out of the Treasury, especially the Treasury's main payment computer, which is called PAM, things like payments account manager or something like that, but it's like almost five trillion a year. So about a billion an hour that the payments be coded with the congressional appropriation and that there be an explanation for the payment. Very basic stuff. And just doing that, we estimate we'll save a hundred billion dollars a year.",
+      "textZh": "对。以财政部为例，我们提出的主要建议尚未落实，那就是财政部支付出去的任何款项，尤其是财政部的主要支付计算机，它叫PAM，类似于支付账户管理器之类的东西，但它每年处理将近5万亿美元。所以大约每小时10亿美元，这些付款要用国会拨款项目编码，并且要附上付款说明。非常基本的东西。仅仅这样做，我们估计每年就能节省1000亿美元。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "You're not really, let me see if I get this right, particularly with Social Security. You're not really changing policy. You're auditing the fiscal mechanisms to make sure that from point A gets to point B and that's where it's supposed to get to. In some cases it doesn't get there or in some cases it may go over there. But it's not a policy exercise. You're not changing laws. But any business would do in a profit and loss audit.",
+      "textZh": "你们其实并不是，让我看看我理解得对不对，尤其是在社会保障方面。你们其实并不是在改变政策。你们是在审计财政机制，以确保资金从A点到达B点，而且到达它应该去的地方。在某些情况下，它没有到达那里，或者在某些情况下，它可能流去了那边。但这不是一次政策行动。你们不是在修改法律。而是任何企业都会做的损益审计。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "I think what we're adding here is caring and competence. And there's a massive amount of fraud of basically people submitting social security numbers for social security benefits, unemployment, small business administration loans. And medical, those are fake social security numbers. They're still in somebody else's social security number. And we're trying to put a stop to all that. And that's the number which is estimated to be on the order of 10% of federal expenditures, which is half a trillion dollars.",
+      "textZh": "我认为，我们在这里增加的是关心和能力。而且存在海量欺诈，基本上就是有人提交社会安全号码来领取社会保障福利、失业救济、联邦小企业管理局贷款。还有医疗，那些是假的社会安全号码。它们仍然在别人的社会安全号码里。我们正努力制止这一切。而这个数字估计约占联邦支出的10%，也就是5000亿美元。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "A huge number.",
+      "textZh": "一个巨大的数字。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Yeah.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "You're working with the agency heads. You're working with the cabinet secretary.",
+      "textZh": "你们在与各机构负责人合作。你们在与内阁部长合作。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "Yes.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "I saw Howard Lutnik was on TV yesterday saying you were partnering with them, is that fair?",
+      "textZh": "我看到霍华德·卢特尼克昨天在电视上说你们正在与他们合作，是这样吗？"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "Yeah, what we do is in consultation with the cabinet secretaries and with their departments. So we're really trying to sort of refer to ourselves as tech support. We're really helping the department get a handle on things. Because what actually happens here is you've got this sort of vast federal bureaucracy and then you've got a very thin layer on top of the politically appointed officials. And what does happen is that the bureaucracy, frankly, is in control. And they largely ignore the politically appointed people.",
+      "textZh": "是的，我们所做的事情都会与内阁部长及其部门协商。所以我们其实努力把自己称为技术支持。我们实际上是在帮助各部门掌握情况。因为这里实际发生的情况是，你有这样一个庞大的联邦官僚体系，然后在它上面有一层非常薄的政治任命官员。而实际发生的情况是，坦率地说，官僚体系掌握着控制权。而且他们基本上无视政治任命的人员。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "Why should the bureaucracy?",
+      "textZh": "官僚体系为什么应该？"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "I'm sure you must have seen that.",
+      "textZh": "我相信你肯定见过这种情况。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "I mean, I've lived with this twice. I worked for Reagan many years ago and I worked for Trump in the first term. It's like a permanent bureaucracy. I might add it's a permanently liberal bureaucracy.",
+      "textZh": "我的意思是，我经历过2次。许多年前我为里根工作过，特朗普第1个任期时我也为他工作过。它就像一个永久性的官僚体系。我还要补充一句，这是一个永久性的自由派官僚体系。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "Yes, very much so.",
+      "textZh": "是的，非常如此。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "And it's not a bureaucracy that necessarily enforces or implements presidential policy.",
+      "textZh": "而且这个官僚体系不一定会执行或落实总统的政策。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "They don't. In fact, they try their best to thwart presidential policy. So the president is the elected representative of the people. And if the president cannot get things implemented as a reflection of the world of the people, then what we have is not a democracy. We have a bureaucracy. We have rule of the bureau, not rule of the people. The defeat here is the bureaucracy and have rule of the people. And as you mentioned, the bureaucracy is overwhelmingly a Democrat. So Washington DC was 92 and a half percent, I believe, voted for Kamala. So this overwhelmingly a deep blue situation.",
+      "textZh": "他们不会。事实上，他们竭尽全力阻挠总统的政策。所以总统是人民选出的代表。如果总统无法把事情落实，以反映人民的世界，那么我们拥有的就不是民主制度。我们拥有的是官僚体系。我们是由各局统治，而不是由人民统治。这里要击败的是官僚体系，实现人民的统治。正如你提到的，官僚体系压倒性地属于民主党。所以我相信，华盛顿特区有92.5%的人投票支持卡玛拉。因此，这是一个压倒性深蓝的局面。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "How do you pick your next targeted agency or department?",
+      "textZh": "你们如何选择下一个作为目标的机构或部门？"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Well, we're trying to act broadly across all departments. So it's not just one department at a time. But-- - Are you in all of them now?",
+      "textZh": "嗯，我们正努力在所有部门广泛开展工作。所以，并不是一次只处理一个部门。但是——\n- 你们现在已经进驻所有部门了吗？"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "All of them?",
+      "textZh": "全部？"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "Pretty much, yeah.",
+      "textZh": "差不多吧，是的。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "Yes, oh.",
+      "textZh": "是的，哦。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "We're trying to make the government more efficient across the board.",
+      "textZh": "我们正努力全面提高政府效率。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "Habics your team.",
+      "textZh": "Habics，你的团队。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "Over 100 at this point.",
+      "textZh": "目前已经超过100人。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "100.",
+      "textZh": "100。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "Get to 200.",
+      "textZh": "增加到200人。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "You're gonna get to 200.",
+      "textZh": "你们会增加到200人。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Yeah, okay. And you're recruiting from where?",
+      "textZh": "是，好吧。那你是从哪里招募人员的？"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "More or less.",
+      "textZh": "差不多吧。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Basically, it's software people, information security, software people, and finance. It's basically, yeah, finance and technology. And frankly, I can't believe I'm here today. We're doing this. It's kind of bizarre. But I kind of think that the, we've got this enormous federal budget deficit. And it's a true trillion dollar deficit. It keeps growing. Our interest payments are higher than our defense department budget.",
+      "textZh": "基本上，就是软件人员、信息安全人员、软件人员，还有金融人员。基本上，对，就是金融和技术。坦率地说，我简直不敢相信自己今天会在这里。我们正在做这件事。挺离奇的。但我有点觉得，这个，我们有如此庞大的联邦预算赤字。而且这是真正的1万亿美元赤字。它还在不断增长。我们的利息支出比国防部预算还高。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "That's I think was the real wake up call for me, was looking at seeing that the interest payments, the national debt, exceeded the defense department budget. And that was only growing over time. Which meant, if we didn't do something about this, then there won't be any money for anything. We'll just be servicing debt.",
+      "textZh": "我认为这才是真正给我敲响警钟的事，就是看到国债的利息支出超过了国防部预算。而且随着时间推移，它只会继续增长。这意味着，如果我们不对此采取行动，那么就不会有任何钱用于任何事情。我们将只能偿付债务。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "And you know how to read an income statement. And you know how to read a balance sheet. You've had some business experience, I'm kidding. But you know about this stuff.",
+      "textZh": "而且你知道怎么看损益表。你也知道怎么看资产负债表。你有过一些商业经验，我开玩笑的。但你了解这些东西。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "Yeah, I mean really, I just don't want America to go bankrupt.",
+      "textZh": "是，我的意思是，说真的，我只是不想让美国破产。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "So it's a call to action. You're hearing a call to action?",
+      "textZh": "所以这是一项行动号召。你听到了一项行动号召？"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "Yeah.",
+      "textZh": "是。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "You're giving up your other stuff? I mean, how are you running your other businesses?",
+      "textZh": "你要放下其他那些事吗？我是说，你怎么管理其他企业？"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "With great difficulty. Yeah, I mean.",
+      "textZh": "非常困难地管理。是，我是说。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "But there's no turning back, you're saying?",
+      "textZh": "但你的意思是，已经没有回头路了？"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "I'm just here trying to make government more efficient, eliminate waste and fraud. And so far we're making good progress, actually. So our savings at this point, exceed $4 billion a day. So it's very significant.",
+      "textZh": "我只是在这里努力让政府提高效率，消除浪费和欺诈。到目前为止，我们实际上进展良好。所以截至目前，我们每天节省的金额超过40亿美元。因此，这是非常可观的。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "You think you wind up getting to a trillion dollars?",
+      "textZh": "你觉得你们最终能达到1万亿美元吗？"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "Yeah, savings.",
+      "textZh": "是的，节省额。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "I mean, unless we're stopped, we will get to a trillion dollars of savings.",
+      "textZh": "我的意思是，除非我们被阻止，否则我们将实现节省1万亿美元。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "And that stuff can be translated. I mean, we've been talking, we had Russell vote, the OMB Director on earlier, through very rescission authority, impoundment authority. But I believe you said earlier, an audit that will not gather dust on shelves is actually going to wind up with real savings. Bend the base, spending base line down.",
+      "textZh": "而且这些可以转化为实际成果。我的意思是，我们一直在讨论，我们之前请到了行政管理和预算局局长拉塞尔·沃特，通过非常的撤销拨款权、拒绝拨款权。但我相信你之前说过，一项不会在书架上积灰的审计，实际上最终会带来真正的节省。让基数，让支出基线降下来。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "Yeah. There've been many good audits, like I said, done by inspector generals and by government accountability office. And they just haven't been implemented, nothing's been done. I think the GAO identified there was 17 million dead people in the Social Security database several years ago. 20 million, but nobody did anything about it. And I mean, I think you can sort of look at this as a complaint minimization optimization.",
+      "textZh": "是的。正如我所说，监察长和政府问责局做过许多很好的审计。但这些审计就是没有得到落实，什么也没做。我想，政府问责局几年前发现，社会保障数据库中有1700万名已故人员。2000万，但没有人对此采取任何行动。而且我的意思是，我认为你大致可以把这看作一种投诉最小化优化。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "So basically, if the government sends money out to whether it's wasteful or fraudulent, nobody complains if they receive money, but they do complain if they don't receive money. And the people that complain the loudest are the ones receiving the fraudulent money.",
+      "textZh": "所以基本上，如果政府把钱发出去，无论这属于浪费还是欺诈，收到钱的人都不会抱怨，但收不到钱的人会抱怨。而抱怨得最响的人，正是那些收到欺诈款项的人。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "Yeah. I mean, just like I said, the goal here is let's not have America go bankrupt with waste and fraud. So that's what I'm here for. And we're making good progress.",
+      "textZh": "是的。我的意思是，就像我说的，这里的目标是不要让美国因为浪费和欺诈而破产。所以这就是我来这里的目的。而且我们正在取得良好进展。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "Yes, you are. You're gonna go another year? Yeah, I think so.",
+      "textZh": "是的，确实如此。你还会再干1年吗？是的，我想会的。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Final report, middle of next year.",
+      "textZh": "最终报告，明年年中。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "Well, we're just getting things done as opposed to writing a report.",
+      "textZh": "嗯，我们只是在把事情办成，而不是写一份报告。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "Reports don't mean anything. You gotta actually take action.",
+      "textZh": "报告没有任何意义。你必须真正采取行动。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "Yes.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "So the, I mean, the waste important in entitlements spending, which is most of the federal spending is entitlements. So that's like the big one to eliminate. That's the sort of half trillion, maybe 600, 700 billion a year. That is also a mechanism by which the Democrats attract and retain illegal immigrants by essentially paying them to come here and then turning them into voters.",
+      "textZh": "所以，这个，我是说，福利项目支出中的浪费很重要，而联邦支出的大部分都是福利项目。所以，那就像是要消除的最大一项。那大概是5000亿美元，也许每年6000亿、7000亿美元。这也是民主党吸引并留住非法移民的一种机制，实际上就是付钱让他们来这里，然后把他们变成选民。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Yes.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "So this is why the Democrats are so upset about the situation because they're losing, you know, if we turn off this gigantic money magnet for illegal immigrants, then they will leave and they'll lose voters.",
+      "textZh": "所以这就是为什么民主党对这种情况如此不满，因为他们正在失去，你知道，如果我们关掉这个吸引非法移民的巨型金钱磁铁，那么他们就会离开，而民主党也会失去选民。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "If you have President Sport, he said, so again, yesterday he completely supports your operation.",
+      "textZh": "如果你有斯波特总统，他说，所以再说一遍，昨天他完全支持你的行动。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "Yeah, well, thanks. Without the President's support, we couldn't make any progress here. But yeah, I mean, where you'll see the biggest outcry is from the Democrats who are, they don't want the waste important to be turned off because it is a gigantic magnet to attract illegal immigrants and have them stay in the country. I mean, you see some of the crazy stuff?",
+      "textZh": "是的，好吧，谢谢。没有总统的支持，我们在这里不可能取得任何进展。不过，是的，我是说，你会看到最强烈的抗议来自民主党人，他们，他们不希望重要的浪费被关掉，因为这是一个巨大的磁铁，会吸引非法移民，并让他们留在这个国家。我是说，你看到那些疯狂的事情了吗？"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "There's a lot of money from FEMA, which is meant, FEMA is an agency that's meant to take care of Americans in distress. And a bunch of their money was being sent to pay for luxury hotels in New York for illegal immigrants. And that was happening even after the President was elected, even after he signed an executive order saying that needs to stop.",
+      "textZh": "联邦紧急事务管理局有很多资金，而它本应，联邦紧急事务管理局是一个本应照顾身处困境的美国人的机构。而他们的一大笔钱却被用来为非法移民支付纽约的豪华酒店费用。而且即使在总统当选之后，甚至在他签署行政命令说这必须停止之后，这种情况仍在发生。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "So we actually made sure that that money did stop going 'cause this obviously is outrageous that American taxpayer money is meant on luxury hotels for illegals. Why was that being done? It was because the Democrats are trying to import voters, basically.",
+      "textZh": "所以我们实际上确保了那笔钱确实不再流出，因为美国纳税人的钱被花在非法移民的豪华酒店上，这显然令人愤慨。为什么要这么做？基本上，这是因为民主党人正试图输入选民。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "Yes.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "I agree.",
+      "textZh": "我同意。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Yeah, and that's also why there's no voter ID in California and New York State. You're not allowed to show voter ID. Isn't this even saying?",
+      "textZh": "是啊，这也是为什么加利福尼亚州和纽约州没有选民身份证。你不被允许出示选民身份证。这难道甚至是在说？"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "Insane.",
+      "textZh": "疯了。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "Yeah.",
+      "textZh": "是啊。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "I'd say that as a New Yorker.",
+      "textZh": "作为一个纽约人，我会这么说。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "Insane.",
+      "textZh": "疯了。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "Insane.",
+      "textZh": "疯了。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "And it violates, the entire Constitution and the principles behind it.",
+      "textZh": "而且它违反了，整部宪法以及其背后的原则。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "Yes.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "Producers the element to get out. I don't want to end this interview 'cause it's too much fun.",
+      "textZh": "制片人们，要出去的要素。我不想结束这次采访，因为实在太有趣了。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "Yeah.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "Can I just ask you one thing, 20 seconds? Nothing to do with doge. Can you rescue the astronauts?",
+      "textZh": "我能只问你一件事吗，20秒？与 DOGE 无关。你能救回那些宇航员吗？"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "Yes, we're bringing them back in a few weeks.",
+      "textZh": "能，我们会在几周后把他们接回来。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "There's not near enough attention being paid to this. You'll go and get them back.",
+      "textZh": "这件事远没有得到足够的关注。你会去把他们接回来。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "We're gonna get them back.",
+      "textZh": "我们会把他们接回来。"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "God bless.",
+      "textZh": "愿上帝保佑。"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "Thank you.",
+      "textZh": "谢谢。"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "Thank you for all your service, Elon Musk. We appreciate it very much.",
+      "textZh": "感谢你所做的一切，埃隆·马斯克。我们非常感激。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "I appreciate it.",
+      "textZh": "我很感激。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "Take care.",
+      "textZh": "保重。"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "Thank you.",
+      "textZh": "谢谢。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T22:02:57.297Z",
+    "reviewedAt": "2026-09-12T22:36:58.404Z"
+  },
+  "fetchedAt": "2026-09-12T07:10:21.083Z",
+  "transcriptSource": "https://www.rev.com/transcripts/elon-musk-fox-interview",
+  "sourceHash": "61c41a73521cb1bd3f006f1f65f3159e2058eec9fd54e74a6a56f06f710234db"
+}

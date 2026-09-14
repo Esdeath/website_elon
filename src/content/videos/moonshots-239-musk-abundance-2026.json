@@ -1,0 +1,285 @@
+{
+  "id": "moonshots-239-musk-abundance-2026",
+  "slug": "moonshots-239-musk-abundance-2026",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2026-03-18",
+  "titleEn": "Abundance Summit",
+  "titleZh": "富足峰会",
+  "summaryEn": "Live with Peter Diamandis at the 2026 Abundance Summit, Elon Musk discusses Grok 4.20, the AI \"hard takeoff,\" recursive self-improvement, Optimus 3 and the path to a post-scarcity, universal-high-income economy.",
+  "summaryZh": "在2026年丰盛峰会上与彼得·戴曼迪斯进行现场对谈，埃隆·马斯克讨论了Grok 4.20、AI“硬起飞”、递归式自我改进、Optimus 3，以及通往后稀缺、全民高收入经济的道路。",
+  "sourceUrl": "https://www.youtube.com/watch?v=N5KCm_55xeQ",
+  "sourceLabel": "Moonshots with Peter Diamandis (Abundance Summit 2026)",
+  "archiveUrl": "https://elonmuskarchive.org/video/moonshots-239-musk-abundance-2026",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/N5KCm_55xeQ",
+  "thumbnailUrl": "https://i.ytimg.com/vi/N5KCm_55xeQ/hqdefault.jpg",
+  "org": "xAI",
+  "durationSec": 1445,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "audience and as you can see still trying to monetize hope. Yeah, yeah, you look like you're in great shape. I'm doing great. Last time I saw you >> sort of youth serum things going on or what? It's it's our longevity X prize. We're we're getting there, buddy. We're getting there. I think I think in our last conversation you're getting on board with the idea of extended longevity, yes? Uh Yeah. Okay. [laughter] I'll leave it at that. Some degree.",
+      "textZh": "观众，而且如你们所见，还在努力把希望变现。是啊，是啊，你看起来状态非常好。我很好。我上次见到你的时候 >> 是在做某种青春血清之类的东西吗？这是我们的长寿X大奖。我们，我们快做到了，伙计。我们快做到了。我想，我想在我们上次的谈话中，你开始赞同延长寿命这个想法了，对吗？呃，是啊。好吧。[笑声] 我就说到这里。某种程度上。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "I mean like I don't know if we want everyone to live forever or whatever, but I think uh health span and and not you know, having an extended period [clears throat] of senescence where where you're just drooling on yourself sounds like a good idea. We we want to avoid that. Yeah. So, first off, congratulations on the merger of SpaceX and xAI. Baller move. Uh going to power humanity's first Dyson swarm? So, I'm curious uh Uh it truly truly is.",
+      "textZh": "我的意思是，我不知道我们是否希望每个人都永远活下去之类的，但我认为，呃，健康寿命，还有不要，你知道，经历一段漫长的[清嗓子]衰老期，在那期间你只会对着自己流口水，听起来是个好主意。我们，我们想避免那种情况。是的。那么，首先，祝贺SpaceX和xAI合并。真是大手笔。呃，要为人类的第一个戴森群供能吗？所以，我很好奇，呃，呃，它确实，确实是。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "What's your timeline for launching these data centers and how much bandwidth do you think you can get in the first year? Give us a sense of the speed at which you're going to be making this happen. Uh yeah, so SpaceX is um has filed SpaceX is in a quiet period. I I can't actually uh tell you things that would cause a problems. Uh yeah. >> [laughter] >> I'll I'll leave it I'll leave it at that. I appreciate that.",
+      "textZh": "你启动这些数据中心的时间表是什么，第一年你认为能获得多少带宽？让我们了解一下你将以多快的速度推动这件事。呃，是的，所以SpaceX，嗯，已经提交了，SpaceX正处于静默期。我，我实际上不能，呃，告诉你们那些会引起问题的事情。呃，是的。>> [笑声] >> 我就，我就不说了，我就说到这里。对此我很感谢。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "But I can't wait for uh for the speed. You know, we had a conversation here on Monday with with Eric Schmidt uh and with one of the leads from one of the other hyper scalers. I won't mention who, but I'm curious where you feel we are in recursive self-improvement. Are we there? Do you see Grok doing recursive self-improvement at this point? And how and what's the timeline for AGI and ASI? Give us a sense of that.",
+      "textZh": "但我迫不及待想看到，呃，看到这种速度。你知道，我们周一在这里和埃里克·施密特，呃，以及另一家超大规模云服务商的一位负责人进行了一场对话。我不会说是谁，但我很好奇，你认为我们在递归式自我改进方面处于什么阶段。我们实现了吗？你是否看到Grok目前正在进行递归式自我改进？还有，AGI和ASI的时间表如何？让我们了解一下。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Yeah, I I I think we're we've been on recursive improvement for a while here. Um you say if if it's really if you mean by like recursive self-improvement without a human in the loop. Is that what you mean? I do. I I on the on the AI software side. I mean humans are gradually getting less and less in the loop on the recursive self-improvement. So, you know, every successive model uh is is built by the one before it.",
+      "textZh": "是的，我，我，我认为我们已经进行递归式改进有一段时间了。嗯，你说，如果，如果它真的是，如果你所谓的是那种没有人类参与其中的递归式自我改进。你是这个意思吗？是的。我，我指的是AI软件这边。我的意思是，在递归式自我改进中，人类正逐渐越来越少地参与其中。所以，你知道，每一代后续模型，呃，都是由它前面的那个模型构建的。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "So, that that that that is happening to a large degree, but it's it's not yet fully automated. Um it may be there end of this year, but I'm not going to wait until the next year. Do you see a hard takeoff at that point? We're in the hard takeoff. Okay. Right now. Yes. I mean, look at I mean at this point I go to sleep, there's some massive AI breakthrough, and when I wake up there's another one. Yes. Yeah, it's hard to keep track, honestly.",
+      "textZh": "所以，那，那，那，那在很大程度上确实正在发生，但它，它还没有完全自动化。嗯，到今年年底可能会实现，但我不会等到下一年。你认为那时会出现硬起飞吗？我们正处于硬起飞之中。好吧。就是现在。是的。我的意思是，你看，我是说现在我去睡一觉，就会出现某个重大的AI突破，而等我醒来时，又会出现另一个。是的。是啊，说实话，很难跟上。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "It's a It's a bit of a head spinner. Yeah, well, I think a lot of that head spinning is happening from you, too. Yeah. Uh Well, you know, Grok is doing pretty well, and in some metrics by some metrics it's the best. For example, it's uh the best at predicting things, which I you know, it's arguably the the best metric for intelligence. Um the new Grok 4. 20 is it's really really good. Um we're we're currently behind on coding.",
+      "textZh": "这有点让人脑袋转不过来。是啊，好吧，我觉得很多这种让人脑袋转不过来的事情也是你造成的。是的。呃，好吧，你知道，Grok表现得相当不错，而且按某些指标，按某些指标它是最好的。例如，它，呃，最擅长预测事物，而我，你知道，可以说这是衡量智能的最佳指标。嗯，新的Grok 4. 20真的，真的很好。嗯，我们目前在编程方面落后。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Um The reason I was put put late for this was that I was just in a giant sort of all hands sort of on coding, just going through all of the things that need to happen to uh essentially catch up and exceed uh our competitors on uh coding. Um which I think I think we'll do. I feel Yeah, we'll we should probably get there by the middle of this year.",
+      "textZh": "嗯，我之所以被、被弄得为此迟到，是因为我刚刚参加了一场大型的、某种全员参与的、某种关于编程的会议，逐一梳理为了，呃，从本质上赶上并超越，呃，我们在，呃，编程方面的竞争对手而需要完成的所有事情。嗯，我认为，我认为我们会做到。我觉得，是的，我们，我们大概应该能在今年年中实现。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "Um And uh And then I I think people don't don't quite realize just how much intelligence there will be or you know, just how far it will exceed human intelligence. To a degree that is uh impossible to fully understand. Um but you can certainly imagine a situation where we Let's say if let's say a million times more energy is harnessed uh than all of Earth's current electricity usage.",
+      "textZh": "嗯，而且，呃，而且我，我认为人们没有，没有完全意识到届时会有多么庞大的智能，或者，你知道，它会在多大程度上超越人类智能。达到一种，呃，不可能完全理解的程度。嗯，但你当然可以想象这样一种情形：我们，假设，如果假设利用的能源是，呃，地球目前全部用电量的100万倍。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "That would still only be roughly a millionth of the sun's energy output. So, essentially if you increase Earth's economy by a factor of a million, it's still roughly a trillion So, since we're a trillionth of the sun's energy, if you increase Earth's economy in in in terms of electricity usage by roughly a million, you'll be roughly 1 millionth only of the sun's energy harnessed.",
+      "textZh": "那仍然只相当于太阳能量输出的大约100万分之一。所以，从本质上说，如果你把地球经济扩大100万倍，它仍然大约是1万亿，所以，既然我们是太阳能量的1万亿分之一，如果你把地球经济按用电量计算扩大大约100万倍，你所利用的仍然只会大约是太阳能量的100万分之一。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "But what is it What is What is an economy or an intelligence using a million times more electricity than all of Earth's civilization think about or look like or do? It's going to be something pretty magnificent. Uh The challenge will be even vaguely appreciating that level of intelligence. Uh but it's it's safe to say it will it will solve everything you can possibly think of. Yes. >> Uh longevity being, you know, You're certainly one of them.",
+      "textZh": "但是，一个使用着地球全部文明用电量100万倍的经济体或智能会思考什么、看起来是什么样，或者会做什么？那会是相当宏伟的东西。呃，挑战将是如何哪怕只是大致理解那种水平的智能。呃，但可以肯定地说，它会，它会解决你所能想到的一切问题。是的。>> 呃，长寿是其中之一，你知道，你当然是其中之一。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Um And um I I I do enjoy your unrelenting optimism. Um Thank you, pal. I see you I see you if you uh Hope. Hope. Yeah, exactly. You've taken to heart monetizing hope, uh which is pretty funny. Yeah, it was it was It was Grok's It was Grok's marketing advice to me when you roasted me on >> [laughter] >> Right. Okay. Grok was seeing you and saying you monetize hope.",
+      "textZh": "嗯，而且，嗯，我，我，我确实很欣赏你坚持不懈的乐观。嗯，谢谢你，伙计。我看到你，我看到你，如果你，呃，希望。希望。是的，没错。你把将希望变现这件事铭记于心了，呃，这挺好笑的。是的，那是，那是，那是Grok的，那是Grok给我的营销建议，当时你在……上吐槽我。>> [笑声] >> 对。好吧。Grok看着你，说你把希望变现。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "But hey, if you you're going to manage to further monetizing misery >> Yes, but yes. Um For sure. Yeah. Um But but yeah, just the the when you when you have AI AI and robots are going to increase the the like economic output or or by by so many orders of magnitude we we we cannot possibly comprehend it. We're likely in the very short time to become a minority, then a vast minority, then a microscopic minority of intelligence on this planet.",
+      "textZh": "但是，嘿，如果你你打算设法进一步将痛苦货币化的话 >> 是的，不过，是的。嗯，当然。对。嗯，但是但是，是的，只是这个这个，当你当你拥有AI时，AI和机器人将把这个这个，比如经济产出提升提升如此多个数量级，以至于我们我们我们根本无法理解。我们很可能在非常短的时间内成为这个星球上智能中的少数，然后是极少数，再然后是微不足道的少数。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Um Yes, not even on this planet, but in the solar system. >> Yes, for sure. Because um Like like if if you know, your best case outcome for uh Earth for intelligence is roughly 1 billionth of the sun's energy. Uh that's your best case outcome. Uh if you if you if you generate intelligence only on Earth. Intercept it, right? Yes.",
+      "textZh": "嗯，是的，甚至不只是在这个星球上，而是在太阳系中。>> 是的，当然。因为嗯，比如比如，如果如果你知道，对于地球而言，智能的最佳情形结果大约是太阳能量的10亿分之一。呃，那就是你的最佳情形结果。呃，如果你如果你如果你只在地球上产生智能。截获它，对吧？是的。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "Yes, cuz roughly one roughly half a billionth of the sun's energy hits Earth, and that's the vast majority of energy that that's out there um that that we can access. Uh so uh really the intelligence in the solar system will be many orders of magnitude greater than the intelligence on Earth itself. How May I ask you a question, Elon? Um how far out can you see? How many years out can you make reasonable predictions right now?",
+      "textZh": "是的，因为太阳能量中大约有大约20亿分之一照射到地球，而那是外界存在的、嗯、我们可以获取的能量中的绝大部分。呃，所以，呃，实际上太阳系中的智能将比地球本身的智能高出许多个数量级。怎么……我可以问你一个问题吗，埃隆？嗯，你能看得多远？你目前能对多少年以后作出合理预测？"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "It's hard to predict the the path exactly, especially if it cuz often things are kind of an S curve or a series of S curves where it starts off slow grows exponentially hits linear zone and then goes logarithmic.",
+      "textZh": "很难准确预测这个这个路径，尤其是如果它，因为事情往往有点像一条S曲线或一系列S曲线，起初缓慢，然后呈指数增长，进入线性区，之后转为对数增长。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Um that generally has been what what I've seen with the breakthroughs in in AI AI for example is you'll you'll there'll be some breakthrough it'll do have an S curve but and then looks like it's just going to go to infinity but then you hit logarithmic returns until there's another breakthrough. Yeah. Um so progress in AI is just a sort of series of you know sort of overlapping S curves um or connected S curves.",
+      "textZh": "嗯，总体来说，这就是我在AI、AI领域的突破中所看到的情况，例如你会你会，会出现某项突破，它会确实呈现一条S曲线，但是然后看起来它就要一路走向无穷大，可随后回报会转为对数增长，直到下一项突破出现。对。嗯，所以AI的进步就是某种一系列，你知道，某种彼此重叠的S曲线，嗯，或者相互连接的S曲线。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Um I mean there was a point where you could probably predict out a decade or two decades. What are your thoughts now? >> Yeah. Okay, this is going to sound pretty crazy. That's okay. We we've been we've been talking about crazy all night. >> there's a separate acceptable audience to wild prognostications. Yes. Um >> [snorts] >> I'd say the economy is 10 times this its current size in 10 years. Greater than. Okay.",
+      "textZh": "嗯，我是说，曾经有一段时间，你大概可以预测未来10年或20年。你现在有什么看法？>> 对。好吧，这听起来会相当疯狂。没关系。我们我们整晚一直一直在谈疯狂的事。>> 对于大胆的预测，另有一群能够接受它们的观众。是的。嗯 >> [哼声] >> 我会说，10年后经济规模会达到目前的10倍。超过。好。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "Um Yeah, you >> really saying something. Yeah, you said triple digit growth in in 5 plus years from now on on GDP. And 10x the economy. But in terms of your ability to >> Like I I I feel like that's uh that's that's a 10x in roughly 10 years um I feel is a I I actually feel like comfortable prediction uh with There's obviously if there's like World War or something um that that could put a kink in those plans uh or those expectations. Yeah.",
+      "textZh": "嗯，对，你 >> 真是说了不得了的话。对，你说从现在起5年多以后，GDP会有3位数增长。经济规模达到10倍。但就你的能力而言 >> 比如，我我我觉得那是，呃，那是那是大约10年达到10倍，嗯，我觉得这是一个我我实际上觉得可以放心作出的预测，呃，前提是——显然，如果发生类似世界大战之类的事情，嗯，那那可能会打乱这些计划，呃，或者这些预期。对。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "Uh but in the absence of World War current trends continue I would say the the economy 10x in 10 years. Love it. Can you give us an We had a bunch of robots >> have a base on the moon. Yes. And we'll And we'll have >> have people on Mars. And we'll have mass drivers on the moon. Yes. Um I think so. In 10 years, I think I think we'll have a mass driver on the moon in 10 years. I love it. Uh Gerard K. O'Neill's vision uh being fulfilled.",
+      "textZh": "呃，但如果没有世界大战，当前趋势继续下去，我会说经济规模将在10年内达到10倍。太棒了。你能不能给我们一个……我们有一群机器人 >> 在月球上建有基地。是的。而且我们会，而且我们会 >> 有人类登上火星。而且我们会在月球上拥有质量投射器。是的。嗯，我想会的。10年内，我想我想我们会在10年内在月球上拥有一台质量投射器。我太喜欢了。呃，杰拉德·K·奥尼尔的愿景，呃，正在实现。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "Uh we had uh four robots on stage here this year um on the at the Abundance Summit. I I look forward to Optimus. I'm curious, Optimus 3 timeline and in [clears throat] particular when can I buy one or two? When's uh when do you expect Optimus to go into commercial uh for commercial sale? Or will you be leasing it? Well, we're in the final stages of completion of Optimus 3, which is really going to be by far the most advanced robot in the world.",
+      "textZh": "呃，我们今年在这里的Abundance峰会舞台上有，呃，4个机器人。嗯，我我期待着Optimus。我很好奇Optimus 3的时间表，以及尤其是[清嗓子]我什么时候可以买1个或2个？什么时候，呃，你预计Optimus会进入商业，呃，进行商业销售？还是你会出租它？嗯，我们正处于完成Optimus 3的最后阶段，它确实会成为遥遥领先的全球最先进机器人。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "Nothing's even close. Yeah. Um In fact, I haven't even seen any seen any demos of robots that are as good as Optimus 3, frankly. Maybe they're out there or they're secret or something, I don't know, but um You know, I I I have to make sure I'm saying things that are reasonably public as well, of course. Uh Of course. We're streaming this on X. Yeah. Okay, this is pretty public knowledge, I guess. >> Yes.",
+      "textZh": "没有任何东西能接近。对。嗯，事实上，坦率地说，我甚至没有见过任何任何与Optimus 3一样出色的机器人演示。或许它们确实存在，或者属于机密什么的，我不知道，但是，嗯，你知道，我我我当然也必须确保我说的事情是适度公开的。呃，当然。我们正在X上直播这个。对。好吧，我想这算是相当公开的信息。>> 是的。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": ">> [laughter] >> Um Yeah, I I I think we'll start production on Optimus 3 this summer. Um but but very slow at first. Yeah. Um like it you know the sort of classic S curve ramp of manufacturing units versus time. Um and then probably reach high volume production around summer next year. Uh and then um you know, we'll we'll have Optimus 4 you know, the design likely next year.",
+      "textZh": ">> [笑声] >> 嗯，对，我我我想我们会在今年夏天开始生产Optimus 3。嗯，但是但是一开始会非常慢。对。嗯，比如，你知道，就是那种制造数量随时间增长的经典S曲线爬坡。嗯，然后大概会在明年夏天左右实现大批量生产。呃，然后，嗯，你知道，我们我们会有Optimus 4，你知道，其设计很可能在明年。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "I got to try to release a new robot design every year and I'm an improved robot design every year. When when Dave Blunden and I were at the Gigafactory, uh it was extraordinary experience, 11 and a half million square feet for the Tesla. And then I think you said you're building out 9 and a half million square feet for Optimus there as well, which is uh which is extraordinary. Um let's let's >> 9 square feet [clears throat] round numbers. Yeah.",
+      "textZh": "我得设法每年发布一种新的机器人设计，而且我是一种每年改进的机器人设计。当戴夫·布伦登和我在超级工厂时，呃，那是一次非凡的体验，Tesla占地1150万平方英尺。然后我想你说过，你还在那里为Optimus扩建了950万平方英尺，这，呃，这非常了不起。嗯，让我们让我们 >> 9平方英尺，[清嗓子]取整数。对。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Yeah. Yeah. I had to That'll be that'll be that'll be quite That that's going to be a a a a a new factory design, too. Like it's still not different from other factories. How far before we have robots building robots? I mean, you automated so much of the Gigafactory already uh where there are humans playing a small role. Do the robots just play the role that humans are playing in that regard? Uh we still have a lot of humans building things. Mhm.",
+      "textZh": "对。对。我不得不……那会，那会，那会相当……那，那也会是一种全新的工厂设计。就像它仍然与其他工厂没有不同。距离让机器人制造机器人还有多久？我是说，你已经把超级工厂的很大一部分自动化了，呃，人类只在其中扮演很小的角色。在这方面，机器人是否只要扮演人类现在所扮演的角色？呃，我们仍然有很多人在制造东西。嗯。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "Um you know, Tesla direct employees are uh building things uh or like basically people in the factory are either building or managing people who are building. Uh roughly 100,000. Uh so we have a lot of people. Is it To- Tesla total head count is around 150k. Of of which 2/3 are, you know, in the factory in one form or another. And then our suppliers there's probably uh maybe a a million or two million people in our suppliers type of thing.",
+      "textZh": "嗯，你知道，Tesla的直属员工里，呃，从事制造工作的人，或者说，基本上工厂里的人要么在制造，要么在管理从事制造的人。呃，大约100,000人。呃，所以我们有很多人。是不是……Tes-Tesla的总员工人数约为150k。其中2/3，你知道，以这样或那样的形式在工厂里工作。然后是我们的供应商，我们的供应商那边可能大概有，呃，也许100万或200万人，类似这样的规模。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "So, it's it's a lot of people. Um What what we do expect that is that is that the output per per person at Tesla becomes very, very high. Yeah. So, we're not planning any like layoffs or reductions in personnel. In fact, we will increase our head count. Um But, the output per human at Tesla is going to get nutty high. When we were to Like you can't really believe it, you know.",
+      "textZh": "所以，人非常多。嗯，我们确实预期的是，是，是Tesla的人均产出会变得非常、非常高。对。所以，我们没有计划进行任何类似裁员或人员缩减的事。事实上，我们会增加员工人数。嗯，但是，Tesla每个人的产出将高得离谱。当我们要……就像你真的无法相信，你知道。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "When we were together um we discussed the idea of sustainable abundance on our podcast and you reinforced the idea that we have a coming age of universal high income uh which has become a point of discussion beyond UBI. But, I'm just wondering if you have any thoughts on how we get there. Have you reflected on that any further?",
+      "textZh": "我们上次见面时，嗯，我们在播客上讨论了可持续富足的理念，而你进一步强调了我们即将进入一个全民高收入的时代，呃，这已经成为一个超越UBI的讨论话题。但是，我只是想知道，你对于我们如何到达那里有没有什么想法。你后来有没有进一步思考过这件事？"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "And and more so, you know, we talked about a time frame of civil unrest, you know, two, three, four, five years uh probably uh a lot of COVID-like checks in the interim until we get to a demonetization uh and a you know, deflation that leads us to UHI. Any more reflections on that? Cuz that's a really People need that hope and that vision. Yeah. >> I mean, to be clear, I don't I don't I don't think we should be sort of complacent.",
+      "textZh": "而且更进一步说，你知道，我们谈到了发生社会动荡的一段时期，你知道，2、3、4、5年，呃，可能，呃，在此期间会有很多类似新冠时期的支票，直到我们走向去货币化，以及一种，你知道，把我们引向UHI的通货紧缩。对此还有更多思考吗？因为那真的是……人们需要那种希望和愿景。对。>> 我是说，需要说明的是，我不，我不，我不认为我们应该有点自满。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "We need to We do need to be careful because the future is a range of possible outcomes and uh they're not all great. Um But, I I at this point I I I I do agree with you that it's it's likely to be great. Um you know, it's probably 80% likely, maybe more likely to be great. And uh and I and I do think we'll have universal high income.",
+      "textZh": "我们需要……我们确实需要谨慎，因为未来存在一系列可能的结果，而，呃，它们并不全都美好。嗯，但是，我，我目前，我，我，我，我确实同意你的看法，它很可能会很美好。嗯，你知道，大概有80%的可能性会很美好，也许可能性还要更高。而且，呃，而且我，而且我确实认为我们会实现全民高收入。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "We're we're We're just issuing money to people, you know, and and they are really just uh because the output of goods and services will far so far exceed the money supply that um you know, that that that effectively have deflation cuz just deflation is just the ratio of the outputs of goods and services to the money supply.",
+      "textZh": "我们，我们，我们只是在向人们发放货币，你知道，而，而他们实际上只是，呃，因为商品和服务的产出将远远、远远超过货币供应量，所以，嗯，你知道，那，那，那实际上就会出现通货紧缩，因为通货紧缩就是商品和服务产出与货币供应量之间的比率。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "Um so, that that's uh so if you if you if the rate of growth of of goods and services far exceeds the rate of growth of the money supply, which I predict will happen, uh then uh you'll have deflation. Yes. And a lot of a lot of people spinning up new companies, competing against each other, driving the price down, and increasing the variability and deflation. Faster and faster.",
+      "textZh": "嗯，所以，那就是，呃，所以如果你，如果你，如果商品和服务的增长率远远超过货币供应量的增长率，而我预测这会发生，呃，那么，呃，就会出现通货紧缩。是的。而且会有很多、很多人创办新公司，彼此竞争，压低价格，并增加多样性和通货紧缩。越来越快。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Yeah, it's basically AI and robots are going to make so much stuff and provide so many services that uh they'll actually run out of things to do for the humans. They'll just run out of things to do for the humans. And then they they'll you know, there's there's only so much that humans can even express that they want.",
+      "textZh": "对，基本上，AI和机器人将制造如此多的东西、提供如此多的服务，以至于，呃，它们实际上会没有什么事情可以再为人类做了。它们就是会没有什么事情可以再为人类做了。然后它们，它们会，你知道，人类甚至能够表达出来的欲望终究是有限的。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "So, you go back to my example of like if you go a million times greater than the US economy, you you've long since saturated all human desire. Uh you know, like maybe like even if you go a thousand times more than our current economy, thousand times, you you you've probably already saturated saturated the human anything people can think of that they want. So, do do you think the the value of money is going to significantly decrease?",
+      "textZh": "所以，回到我的例子，比如，如果你达到美国经济规模的100万倍，那你早就满足了人类的全部欲望。呃，你知道，比如也许，即使你达到我们当前经济规模的1000倍，1000倍，你，你，你大概也已经满足了、满足了人类所能想到的任何想要的东西。那么，你，你认为货币的价值会显著下降吗？"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Will it Will we go post-capitalist? Yeah, I think money will stop being relevant at some point in the future. So, just as you're becoming a >> it's it's it's it's probably something like an in-banks uh culture sort of future. Um And I I think the AI down the road will really not use uh human currency. It will just care about uh power and mass, wattage and tonnage. Yeah. It's kind of ironic then, right?",
+      "textZh": "它会……我们会进入后资本主义时代吗？对，我认为在未来的某个时候，货币将不再重要。所以，就在你正成为一个……>> 它，它，它，它可能会是某种类似因班克斯文化的未来。嗯，而且我，我认为未来的AI确实不会使用，呃，人类货币。它只会关心，呃，功率和质量、瓦数和吨数。对。那就有点讽刺了，对吧？"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "Just as you're becoming a multi-trillionaire, money starts to have less value. Um Yeah. Pretty much. Um Uh yeah. You know, this this all this stuff is just really just trillionaire sort of represents like some percentage ownership in companies that I have >> Yeah. uh you know, built and it's not like sitting in a bank account, you know, it's just it's just literally I own a percentage of the companies.",
+      "textZh": "就在你正成为一个数万亿富翁时，货币开始变得没那么有价值。嗯。对。差不多。嗯。呃，对。你知道，这所有、所有这些东西其实只是……数万亿富翁这种说法代表的只是我对那些公司的某个持股百分比，>> 对。呃，你知道，那些公司是我建立的，这并不像钱放在银行账户里，你知道，这只是，这真的只是我拥有这些公司的一定比例。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "The companies are doing lots of useful things. The value of the company grows. I own a percentage of the companies and that's the sums up to that number which seems high. Yeah. You know, it's I I I was interviewed by somebody who was asking me about your your drive, what drives you. And I said Elon's driven to solve problems. He's driven to make life in the world better by just solving the biggest problems over and over and over again.",
+      "textZh": "这些公司在做很多有用的事情。公司的价值增长。我拥有这些公司的一定比例，而这些加起来就得出了那个看起来很高的数字。对。你知道，我，我，我接受过某个人的采访，他问我关于你的、你的动力，是什么驱动着你。我说，埃隆受到解决问题的驱动。他受到让世界上的生活变得更美好的驱动，方式就是一遍又一遍又一遍地解决最大的问题。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "And if someone else were solving them, he wouldn't need to. But no one else is solving them. So, I just want to say, >> Yeah. thank you for that, pal. Thank you for that. Uh you're welcome. Um >> [applause] >> I >> [applause] >> I I am curious. Do you think that democracy and our modern institutions can keep up with a supersonic tsunami coming our way? Are they just going to fall in its way? They're just going to break down. How do we deal?",
+      "textZh": "如果有其他人在解决这些问题，他就不需要去做。但没有其他人在解决。所以，我只想说，>> 对。谢谢你这么说，伙计。谢谢你这么说。呃，不客气。嗯。>> [掌声] >> 我……>> [掌声] >> 我，我很好奇。你认为民主和我们的现代制度能够跟上正向我们袭来的超音速海啸吗？它们只会挡在它的路上吗？它们只会崩溃吗？我们该如何应对？"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "I mean, it's called the singularity for a reason, you know, which [laughter] is that it's hard to predict what happens in the in the singularity. I mean, Grok's logo is the singularity. >> I love it. It's a beautiful logo behind you, by the way. It's gorgeous. Yeah, thank you. Uh yeah. It It's sort of the light The light The The The halo around a a black hole is that the mass and light are falling in type of thing.",
+      "textZh": "我是说，它被称为奇点是有原因的，你知道，也就是[笑声]很难预测奇点中会发生什么。我是说，Grok的标志就是奇点。>> 我喜欢。顺便说一下，你身后的标志很漂亮。太华美了。对，谢谢。呃，对。它有点像光……光……黑洞周围的……的……的光环，也就是质量和光正在落入其中之类的。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Um It's hard It's hard to know what happens inside the singularity. Um but it's going to be very interesting. I We're going to live in The future will be very entertaining. Of that I'm confident. >> Yes. Um And uh I I think also like AI and robotics also I mean we're going to solve our budget deficit, frankly, and and not just go bankrupt as a country.",
+      "textZh": "嗯，很难，很难知道奇点内部会发生什么。嗯，但那会非常有意思。我——我们将生活在……未来会非常有娱乐性。对此我很有信心。>> 是的。嗯，而且，呃，我还认为，像人工智能和机器人技术也会——我是说，坦率地说，我们将解决预算赤字问题，而且不会让这个国家就这么破产。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Um So I I'm I'm You know, you've had an influence on me in that I'm like just I've just decided to be more optimistic. It's like we just should be more optimistic. >> Thank you, pal. >> I wasn't an optimist, but I was like maybe dwelling a little too much on the negative stuff. It's all It's all upside being an optimist. And a realist a little bit. Yeah. Yeah, yeah, exactly.",
+      "textZh": "嗯，所以我，我，我……你知道，你对我产生了影响，让我就像是……我刚刚决定要更加乐观。就像是，我们就是应该更加乐观。>> 谢谢你，老兄。>> 我以前不是一个乐观主义者，但我当时可能有点过于纠结那些负面的东西。做一个乐观主义者全是好处。再稍微现实一点。对。对，对，完全正确。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "You don't want to be complacent or just assume everything's going to go well, but try to make it go well. Um But I mean, there will be some pretty amazing things that happen.",
+      "textZh": "你不能自满，也不能只是想当然地认为一切都会顺利，而是要努力让它顺利。嗯，但是，我是说，会有一些相当惊人的事情发生。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "So, if you've got uh humanoid robots that are that have very high dexterity and uh and and and are incredibly smart, it means that everyone on Earth will have access to better medical care than than uh than the richest person on Earth, which by the way, I would say like, you know, if I'm allegedly the richest person in the world I think actually sovereigns are richer than me, by the way.",
+      "textZh": "所以，如果你拥有，呃，具备极高灵巧度，而且，呃，而且而且而且聪明得不可思议的人形机器人，那就意味着地球上的每个人都能获得比，比，呃，比地球上最富有的人更好的医疗服务。顺便说一句，我会说，像是，你知道，如果据称我是世界上最富有的人，我其实觉得主权统治者比我更富有，顺便说一句。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "But But it's like I like you know, I like I had to have like an like a neck surgery three times cuz the first two ones were done wrong. You know, like this is I'm like what the you know. Um >> [laughter] >> So And and I'm like my back still hurts a little bit. I'm like can AI please solve back pain? That would be a huge win. And I think it will. Yep. So you know, back pain sucks.",
+      "textZh": "但，但就像是我，我，你知道，我就像是不得不做了，像是，一种，像是，3次颈部手术，因为前2次都做错了。你知道，就像这真是……我就像是，搞什么，你知道。嗯。>> [笑声] >> 所以，而且而且，我就像是，我的背现在仍然有点疼。我就像是，人工智能能不能拜托解决背痛？那将是一场巨大的胜利。而且我认为它会做到。是的。所以，你知道，背痛糟透了。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "I think that's maybe like a you know, someone asked why do people get grumpy when they get older? It's cuz back pain. You know, it's like if your back hurts all the time you can't sleep well, you're going to be grumpy. We had uh Um but You you We had David Sinclair on stage this morning and he's going into human trials with ERW 100 his partial epigenetic reprogramming.",
+      "textZh": "我觉得那也许就像是一个，你知道，有人问，人们为什么年纪越大脾气越坏？是因为背痛。你知道，就像是，如果你的背一直疼，你就睡不好，你就会脾气暴躁。我们有，呃，嗯，但是，你，你……今天早上我们请了David Sinclair上台，他正准备让他的部分表观遗传重编程疗法ERW 100进入人体试验。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "And uh one of the one of the papers recently published shows it uh enables joint repair. And so back pain may be one of the things that uh it eliminates. So Uh That'll be amazing. Yeah, for sure. For sure. >> Every honestly average happiness level for humans would just go up so tremendously if you just solve back pain because it's not a question of of if you will get back pain, it's when you know, you'll get back pain.",
+      "textZh": "而且，呃，其中一篇……其中一篇最近发表的论文显示，它，呃，能够促进关节修复。所以背痛可能是它能消除的问题之一。所以，呃，那会非常棒。对，当然。当然。>> 每个……说真的，只要解决背痛，人类的平均幸福水平就会大幅提升，因为问题不在于你是否、是否会背痛，而在于什么时候会，你知道，你会背痛的。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "I I I keep on invite I keep on inviting you to come down to Fountain Life in in in Dallas. We'll we'll help you out, but sometime when you have time. >> you have like what do you I understand like you can get like MRI and CAT scans and everything, but like what do you do with that? You know, it's like I'm happy to happy to send you the list. I'll I'll DM you the list of therapeutics. >> some or something. Yeah, exactly.",
+      "textZh": "我，我，我一直在邀……我一直邀请你来达拉斯的Fountain Life。我们会，我们会帮助你，不过等你什么时候有时间。>> 你们有，比如……你们做什么？我明白，比如可以做MRI和CAT扫描以及所有检查，但做完后你们怎么处理？你知道，就像是……>> 我很乐意，很乐意把清单发给你。我会，我会私信你那份疗法清单。>> 一些……或是什么。对，没错。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": ">> [laughter] >> Uh you know, um listen, you've been so generous. Next up on stage with me is one of another great Moonshot entrepreneur Ben Lam who runs Colossal uh the de-extinction company. Uh you know, the woolly mammoth and 15 other species. I heard I heard you say you might want a mini woolly mammoth. Is that Is that true? >> Yeah, I think it'd be really cool to have a pet miniature woolly mammoth. That'd be pretty epic. Okay.",
+      "textZh": ">> [笑声] >> 呃，你知道，嗯，听着，你一直非常慷慨。接下来和我一起登台的是另一位伟大的“登月计划”企业家Ben Lam，他经营着Colossal，呃，那家物种复活公司。呃，你知道，就是长毛猛犸象和另外15个物种。我听见，我听见你说你可能想要一只迷你长毛猛犸象。那是，那是真的吗？>> 对，我觉得养一只宠物迷你长毛猛犸象会真的很酷。那会相当了不起。好的。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "I'll I'll put a word in with you for you with uh with with Ben. >> [laughter] >> They're very adorable. Little things just running around trumpeting away and it's like look at this this >> [laughter] >> would be a great little pet. Amazing. And also I can somebody please do Jurassic Park in real life? I'd definitely go out even if there was some risk of death. That'd be super cool.",
+      "textZh": "我会，我会跟你……为你跟，呃，跟，跟Ben说一声。>> [笑声] >> 它们非常可爱。小家伙们到处跑着，发出象鸣，就像是，看看这个，这个……>> [笑声] >> 会是一只很棒的小宠物。太棒了。另外，能不能请谁在现实生活中建一个侏罗纪公园？即使有一定的死亡风险，我也肯定会去。那会超级酷。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "I think if anybody's going to do that it's it's Ben Lam in Colossal. He's re- he's engineering living life products. Someone asked him recently if he can make a Pikachu and he said probably. I think Yeah. Well, Jurassic Jurassic World or whatever that would be great. All right, I'll ask him. Elon, so grateful for you coming and joining us and sharing. Thank you my Thank you my friend. Let's give it up for Elon Musk. I have the power.",
+      "textZh": "我认为，如果有谁能做到，那就是Colossal的Ben Lam。他正在重新……他正在设计活体生命产品。最近有人问他能不能造出一只皮卡丘，他说很可能可以。我觉得……对。好吧，侏罗纪……侏罗纪世界或者随便叫什么，那会很棒。好了，我会问他的。埃隆，非常感谢你前来加入我们并和大家分享。谢谢你，我的……谢谢你，我的朋友。让我们为埃隆·马斯克鼓掌。我拥有力量。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "Nothing's going to stop us. >> [music] >> You have the power.",
+      "textZh": "没有什么能阻止我们。>> [音乐] >> 你拥有力量。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T21:48:36.008Z",
+    "reviewedAt": "2026-09-12T22:42:32.572Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:31.664Z",
+  "transcriptSource": "https://whatsuptesla.com/2026/03/13/elon-musk-surprise-remote-talk-at-2026-abundance-summit-my-full-verbatim-transcript/",
+  "sourceHash": "e1ea19196d09a303ed4e593d70875f38f0f157adeb4ffb7447df8c1e2502be3c"
+}

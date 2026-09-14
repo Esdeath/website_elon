@@ -1,0 +1,155 @@
+{
+  "id": "talking-tech-with-marques-brownlee-2018-08-15",
+  "slug": "talking-tech-with-marques-brownlee-2018-08-15",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2018-08-15",
+  "titleEn": "Talking Tech with Marques Brownlee",
+  "titleZh": "与马奎斯·布朗利聊科技",
+  "summaryEn": "MKBHD sits down with Musk at the Fremont factory to talk Tesla tech, future products and a cheaper car.",
+  "summaryZh": "MKBHD在弗里蒙特工厂与马斯克坐下来交谈，讨论Tesla技术、未来产品以及一款更便宜的汽车。",
+  "sourceUrl": "https://www.youtube.com/watch?v=MevKTPN4ozw",
+  "sourceLabel": "Marques Brownlee",
+  "archiveUrl": "https://elonmuskarchive.org/video/talking-tech-with-marques-brownlee-2018-08-15",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/MevKTPN4ozw",
+  "thumbnailUrl": "https://i.ytimg.com/vi/MevKTPN4ozw/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 1074,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "[Music] what's up guys i'm qbhd here and just got back from sunny california where we spent some time with possibly the busiest man alive elon musk but he was super generous with his time and we did this sort of a sit-down chat at the tesla factory and then also did a sort of a factory tour which will be a separate video coming soon but a ton of things we could have talked about since we were at tesla at that time basically our topics ranged from talking about tesla products to our love for tesla to tech and the future all wrapped into one so this is that chat thanks for watching enjoy all right first of all thanks for uh taking the time sitting down on your very busy schedule i'm sure good to see you yeah good to see you uh this is a this is a really",
+      "textZh": "[音乐] 大家怎么样，我是QBHD，刚从阳光明媚的加利福尼亚回来，我们在那里和可能是世上最忙的人埃隆·马斯克待了一段时间，但他非常慷慨地抽出了时间，我们在Tesla工厂进行了一次这种坐下来聊天，然后还进行了一次类似工厂参观的活动，那会成为另一个很快发布的视频，不过因为我们当时在Tesla，可以聊的事情非常多，基本上我们的主题从讨论Tesla产品，到我们对Tesla的热爱，再到科技和未来，全都融在了一起，所以这就是那次聊天，感谢观看，请欣赏。好了，首先，感谢你，呃，在我确信你非常繁忙的日程中抽出时间坐下来。很高兴见到你。是的，很高兴见到你。呃，这是一个，这是一个非常"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "interesting place to be we're kind of in like a bird's eye view of seeing a couple a couple different things happening behind us in the factory these occasionally move which is cool those are empty door carriers so like they were carried doors to cars to get assembled and then they're on their way back to pick up some more doors nice so uh i think most people know you as the boss the face of tesla uh the decision maker for those who just for some context what is your how do you spend time at tesla what do you do uh yeah that's a good question i think probably a lot of people don't realize i'm like basically in the factory in design or engineering meetings or production um so that's like 89 of the time i think sometimes people think i spend a lot of time",
+      "textZh": "有意思的地方，我们有点像是从鸟瞰视角看到身后工厂里正在发生的几件、几件不同的事情。这些东西偶尔会移动，这很酷。那些是空的车门运载架，就是说，它们之前把车门运到汽车那里进行装配，现在正在返回去再取一些车门。不错。所以，呃，我想大多数人都知道你是老板，是Tesla的门面，呃，是决策者。只是给那些人一些背景信息，你是怎样的，你在Tesla怎样安排时间？你都做些什么？呃，是的，这是个好问题。我想可能很多人没有意识到，我基本上都在工厂里，参加设计或工程会议，或者处理生产，嗯。所以我想这大概占了89的时间。有时候人们觉得我花了很多时间"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "on twitter sure i don't know what gave why why they would think that that's crazy um but uh actually it's like that's like almost nothing um most of my time spent um at least the last several months especially going around the factory um and then working on say uh the paint shop the body shop where we weld up the body um the uh final assembly where we put all the parts together um and and then if i'm not here i'm either i'm at the gigafactory in nevada okay so p100d owner undefeated in stoplight races for a while now uh rich over here in audio okay model three pre uh pre-order okay waiting for his and brandon behind the camera also waiting for model three okay what what version are you waiting for long range long range and and what color okay that is",
+      "textZh": "在Twitter上。当然。我不知道是什么让他们，为什么他们会那么想，那太疯狂了。嗯，不过，呃，实际上那就像，那几乎什么都不算。嗯，我的大部分时间，嗯，至少过去几个月，尤其是在工厂里四处走动，嗯，然后处理比如，呃，喷漆车间、我们把车身焊接起来的车身车间，嗯，呃，还有我们把所有零部件组装到一起的总装环节，嗯。而且如果我不在这里，我要么，我就在内华达州的超级工厂。好的。所以，P100D车主，有一阵子在红绿灯起步赛中保持不败，呃，这边负责音频的Rich。好的，Model 3预，呃，预订者。好的，正在等他的车，而镜头后面的Brandon也在等Model 3。好的。你，你在等哪个版本？长续航版。长续航版，还有，还有什么颜色？好的，那是"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "a that is a good combo i got blue uh rear wheel drive nice nice okay cool so my question is how aside from making great products how do you get people excited about tesla there's a lot of people i know and that i talk to who are just intrigued and interested and excited about tesla as a company the thing i really focus on at tesla is like we really put all of our money into an attention to trying to make the product as compelling as possible so um because i think that really the way to um sell any product is through word of mouth so if one somebody gets the car they really like it they and and actually the key is like to have a product that people love um and and generally people that um if they're party or touring friends or whatever um you'll talk about",
+      "textZh": "一个，那是个很好的组合。我选了蓝色，呃，后轮驱动。不错，不错。好的，很酷。所以我的问题是，除了制造出色的产品之外，你怎样让人们对Tesla感到兴奋？我认识并交谈过的很多人都对Tesla这家公司感到好奇、感兴趣并且兴奋。我在Tesla真正专注的事情是，我们确实把所有的钱和注意力都投入到努力让产品尽可能有吸引力上。所以，嗯，因为我认为实际上销售任何产品的方式都是依靠口碑。所以如果一个，有人拿到了车，他们真的很喜欢，他们，而且实际上关键在于，要有一款人们热爱的产品，嗯，而且一般来说，人们，嗯，如果他们在聚会或者带朋友参观之类的，嗯，你会谈到"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "the things that you love but you know if you just like something it's okay you're not gonna care that much but if you get the reactions from the highs and the lows yeah you gotta make sure you really you're gonna you're gonna talk you know and and then that'll generate work turns word of mouth and that's basically how how our sales have have grown like we don't we're not spending money on advertising or endorsements or uh and um so anyone like buys our car they just bought it because they they like the car and you know it's like it's genuine um no discounts i actually even pay full retail price for my own cars okay um yeah and um yeah and we're really focused on trying to make the cars more affordable which is real really tough like in order to make the",
+      "textZh": "你热爱的东西。但你知道，如果你只是喜欢某样东西，它还可以，你不会那么在意；但如果你能从高峰和低谷中获得那些反应，是的，你必须确保自己真的，你会，你会去谈论，你知道，然后那就会产生口口相传，变成口碑，而这基本上就是我们的销量如何，如何增长起来的。就像我们没有，我们没有花钱做广告或代言，或者，呃，而且，嗯。所以任何买我们汽车的人，都只是因为他们，他们喜欢这辆车才买的，而且你知道，这就像，这是真实的，嗯，没有折扣。我实际上甚至会按完整零售价购买自己的汽车。好的。嗯，是的，而且，嗯，是的，我们真的专注于努力让汽车变得更实惠，这真的，真的很难。就像为了让"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "cars affordable you really um you need high volume see the economy's a scale and because the other car companies make a lot more cars than we do they got way better economies of scale so as we're gradually able to build up um and do do more cars higher volume then we can volume force progressively like less money and then make um make the cars available to white wide range people but it's super honestly like the car industry is like a super this is like super competitive it's like one of the it's like insanely competitive so far i think i read a really interesting or i think i heard it actually from an earnings call but something interesting you said is one of the top five most frequent trade-ins for model 3 is a prius right yeah uh which starts at you",
+      "textZh": "汽车价格亲民，你确实，嗯，需要很大的产量，你看规模的经济，而且因为其他汽车公司生产的汽车比我们多得多，它们拥有好得多的规模经济。所以随着我们逐渐能够扩大，嗯，并生产更多汽车、达到更高产量，我们就能通过产量迫使价格逐步，像是，变得更低，然后让，嗯，让更广泛的人群能够买到这些汽车。但老实说，汽车行业是一个超级，这就像超级有竞争力，它就像是其中一个，它的竞争激烈得不可思议。到目前为止，我想我读到过一个非常有趣的，或者其实我想我是从一次财报电话会议上听到的，但你说过一件有意思的事，Model 3最常见的5款置换车型之一是普锐斯，对吧？对。呃，它的起售价是，你"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "know 20 something thousand dollars and they obviously have massive economies of scale do you think there's room i mean tesla has model three model s and road stirring up is there room for possibly an even less expensive quality electric car experience um yeah absolutely um i think i think in order for us to get to like let's say ultimately getting like a 25 000 car um that that's uh that's something we could we could do but it's probably if we really work really hard i think maybe we could do that in three years does it come with time and scale or just yeah it's a bit of both yeah cause like the the key to making things affordable is is like designing it is it's like design and technology improvements as well as scale so if you think of like say um phones",
+      "textZh": "知道，20多千美元，而它们显然拥有巨大的规模经济。你认为还有空间吗，我是说，Tesla有Model 3、Model S，还有道路搅动起来，有没有可能提供一种价格甚至更低、品质优良的电动汽车体验？嗯，是的，绝对有。嗯，我认为，我认为为了让我们达到，比如说，最终推出一款25 000美元的汽车，嗯，那是，呃，那是我们可以，我们可以做到的事情，但它可能，如果我们真的非常努力，我想也许我们可以在3年内做到。这是随时间和规模而来，还是只是……是的，两者都有一点。是的，因为让东西价格亲民的关键，就像是设计它，它就像是设计和技术改进，以及规模。所以如果你想想，比如说，嗯，手机"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "um like the very earliest like the earliest cell phones like i'm probably like dating myself here but uh like the original wall street where the guy's like walking down the beach and he's got like the it's like on a giant phone he's carrying like a briefcase kind of thing they're massive like massive massive phone yeah and like all i could do is phone yep yep and like had like 30 minutes of battery life and that kind of thing um now at that time uh in the absence of technology improvements like no amount of money no amount of scale could have made that phone affordable that'd be a lot of engineering iterations a lot of design iterations um and we're probably i don't know on the 30th version of a cell phone or and and with each successive design iteration",
+      "textZh": "嗯，比如最早期的，像最早的手机，我这么说可能暴露年龄了，不过，像最初那部《华尔街》里，那个人走在海滩上，拿着那种，就像一部巨大的电话，他还提着一种像公文包一样的东西，它们非常大，真的非常非常大的电话，对，而且能做的就只有打电话。对，对，而且电池续航大概只有30分钟之类的。嗯，在那个时候，如果没有技术进步，再多的钱、再大的规模也不可能让那种电话变得价格亲民。那需要大量的工程迭代、大量的设计迭代。嗯，我们现在可能，我不知道，已经到了手机的第30个版本之类的，而随着每一次后续的设计迭代"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "uh you can add more capability you can design you can integrate more things you figure out better ways to produce it so it actually gets better and cheaper but it's like it's like a natural progression of any new technology that it takes multiple versions and a large volume in order to make it affordable gotcha is there anything in the near future of tesla that you're really excited about yeah there's a lot of things actually um we're really like we've got definitely way more product ideas than we have resources to execute we're just talking about this uh with with my team uh just like hey guys what you know what should we focus on and now in the past we've only done one car at a time um and but as you know as we go into the future we've got to like basically",
+      "textZh": "呃，你可以增加更多功能，可以进行设计，可以整合更多东西，也能找到更好的生产方式，所以它实际上会变得更好、更便宜。但这就像，就像任何新技术的自然发展过程，都需要经历多个版本并达到很大的产量，才能让价格变得亲民。明白了。Tesla近期有什么让你特别兴奋的东西吗？有，其实有很多。嗯，我们的产品想法肯定远远多于我们有资源去落实的。我们刚才还在和我的团队讨论这件事，就像，嘿，各位，你们知道，我们该专注于什么？过去我们一次只做一款车。嗯，但正如你知道的，随着我们走向未来，我们基本上得"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "figure out how to walk and chew gum it's like it's like okay how do we do two products at the same time but still have enough resources that both products are great right um and so we're gonna you know we're gonna try to do you know two products um one of them for sure is is like the model y you know sort of compact suv um comparable price point to the to the model three uh then there's uh the semi the pickup truck and the and the next generator yeah like addiction roast is kind of like dessert we got to talk about that yeah yeah it's super exciting but it's like and i think there's definitely some value to doing it to show that an electric car can be faster than a gasoline car in every way yes so i think there's like you know because it's still this",
+      "textZh": "弄清楚怎么一边走路一边嚼口香糖。就像，就像，好吧，我们怎么同时做2款产品，同时又有足够的资源让2款产品都很出色，对吧？嗯，所以我们会，你知道，我们会尝试做，你知道，2款产品。嗯，其中一款肯定就是Model Y，你知道，算是一款紧凑型SUV，价格与Model 3相当。呃，然后还有Semi、皮卡，以及，以及下一个发电机。对，像“成瘾烘焙”有点像甜点，我们得谈谈这个。对，对，它让人非常兴奋，不过就像，而且我认为做这件事肯定有一定价值，可以证明电动汽车在各个方面都能比汽油车更快。是的。所以我觉得这就像，你知道，因为仍然存在这种"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "sort of like halo effect of of of the gasoline sports cars because like in terms of top speed they're still have the best top speed yeah so that halo effect that i was gonna basically every metric possible seems like really ambitious like there's a lot of things that people people like me kind of accept that like i love my electric car but i i know it's not going to put down lap times 30 laps in just because there's yeah so rejection exactly we got to work on that yeah in fact i was actually um i was just talking to the team i was like uh you know i think we got some headroom there yeah um oh and are we gonna talk about track mode yeah sure yeah because i had a very short experience with trackman with model 3 yeah so i love so obviously roadster is going",
+      "textZh": "汽油跑车的某种光环效应，因为就最高速度而言，它们仍然拥有最出色的最高速度。对。所以那种光环效应，我本来要说，基本上每一项可能的指标，听起来都真的雄心勃勃。人们，像我这样的人，有很多事情会多少接受，比如我喜欢我的电动汽车，但我知道它没法跑出单圈成绩，连续跑30圈，仅仅因为存在……对，所以“拒绝”，没错，我们得解决这个问题。对。事实上我刚才其实，嗯，我刚刚在和团队谈，我当时说，呃，你知道，我觉得我们在这方面还有一些余地。对。嗯，哦，我们要谈谈赛道模式吗？对，当然。对，因为我非常短暂地体验过Model 3的“田径运动员”。对，所以我喜欢，所以显然Roadster将会"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "to be yeah that that halo car and if we're confident it's going to be an amazing car i hope it's that car to beat essentially yeah but then bringing track mode down to model 3 brings that fun experience to a lot of more people that involved exactly yeah so so it's kind of like um you know like uh like we're like basically a bunch of nerds here so um um obviously i don't give away yeah but like like the you know so we're tracking we want to uh open up a lot of settings it's like you can adjust settings and it's kind of like an expert user mode and and you can sort of um adjust traction control uh adjust like battery temperature um uh um you know breakthrough like you can basically configure a bunch of things um and we'll tell you like hey you know if you",
+      "textZh": "成为，对，成为那款光环车型，而且我们有信心它会是一款了不起的汽车。我希望它本质上就是那款需要被击败的车。对。不过，把赛道模式下放到Model 3，就能把那种有趣的体验带给多得多的人，那涉及……没错，对。所以，所以这有点像，嗯，你知道，像，呃，像我们这里基本上就是一群书呆子，所以，嗯，嗯，显然我不会透露。对，不过像，像那个，你知道，所以我们在跟进，我们想，呃，开放很多设置。就像你可以调整设置，它有点像专家用户模式，而且你可以算是，嗯，调整牵引力控制，呃，调整比如电池温度，嗯，呃，嗯，你知道，“突破”，比如你基本上可以配置很多东西。嗯，而且我们会告诉你，比如，嘿，你知道，如果你"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "do this it's a bit risky like you're gonna wear out your brakes a little sooner it's like you might blow a circuit you know like like but like it'll be clear like you know uh but let's see this is the risk that you're taking yeah it's kind of like if you have a graphics card on your computer you can like go in there and you can change the settings and you can like overclock things yeah and like okay but you know so that's going to be all that will be in track mode and you'll be able to see that and mess with it yeah that's cool yeah be cool and you can like try different things and wait um yeah it'd be fun a little more on roadster because i had a i made a video about it just after the event i was sad i couldn't be there but i'm a day one deposit because",
+      "textZh": "这么做，会有一点风险，比如你的刹车会更早磨损。就像你可能会烧坏一条电路，你知道，像，像，不过风险会说得很清楚，比如，你知道，呃，但看看，这就是你要承担的风险。对。这有点像，如果你的电脑里有一块显卡，你可以进去修改设置，也可以进行超频。对。然后就像，好吧，不过你知道，所以这些全都会包含在赛道模式里，你将能够看到这些设置并摆弄它们。对，那很酷。对，会很酷，而且你可以尝试不同的东西，然后等着。嗯，对，会很好玩。再多谈一点Roadster，因为我在活动刚结束后做了一个关于它的视频。我很遗憾没能到场，但我是第一天就付了订金，因为"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "i was that excited okay uh but i was wondering after you made that announcement one you said i think i quote plenty of space what does that mean oh you mean like it's like like it won't be cramped inside like you're like basically um if you're if you're a tall dude you'll be able to sit in there i'll tell you it's six more and a half okay so i feel like if you're comfortable in there a lot of people will be yeah and and then like my brother's six four so is he comfortable in it yeah yeah yeah okay yeah all right and france is like six three i don't know he's pretty tall and then my other question was uh the side mirrors this has been a theme in in the past with prototypes and cars that we've seen before they come out they don't have mirrors regulatory",
+      "textZh": "我当时就是那么兴奋。好吧。呃，不过我想知道，你在发布之后，其中一个，你说过，我想我引用的是，“充足的空间”，那是什么意思？哦，你是说，比如，车内不会很局促，比如你基本上，嗯，如果你是个高个子，也能坐进去。我告诉你，是6再加半个。好吧，所以我觉得如果你坐在里面很舒服，很多人也都会很舒服。对，而且，而且我弟弟身高6英尺4英寸，所以他坐在里面舒服吗？对，对，对。好吧，对，好的。而France大概是6英尺3英寸，我不知道，他挺高的。然后我的另一个问题是，呃，外后视镜。这在过去一直是一个反复出现的情况，我们在原型车以及正式推出前看到的汽车上，它们都没有后视镜，监管"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "they have to have mirrors is there an advantage to not having mirrors or is there is it just aerodynamic or is there more to it now it's it's actually surprisingly um how the mirrors particularly at high speeds can have um quite a big effect on the drag of a car they're like little air brakes basically like typical car uh side mirrors reduce a highway range by around five percent wow yeah that's it's pretty intense you see in a wind tunnel like you can see you know when you see like the sort of smoke trails in the wind tunnel you can see just how much yeah they're like they're just like air brakes to be aerodynamic you actually want kind of like a teardrop uh shape so it's like it's it doesn't end in like a bluff right because it creates a low pressure",
+      "textZh": "它们必须装后视镜，不装后视镜有什么优势吗，还是说这只是为了空气动力学，还是现在还有更多原因？其实非常出人意料的是，嗯，后视镜，尤其是在高速时，会对汽车的风阻产生相当大的影响。它们基本上就像小型空气制动器，典型的汽车，呃，侧后视镜会让高速公路续航里程减少约5%。哇。对，那相当厉害。你在风洞里能看到，比如你知道，当你在风洞里看到那种烟流轨迹时，你就能看出到底有多明显。对，它们就像，它们就像空气制动器。为了符合空气动力学，你其实需要一种类似水滴的，呃，形状，所以它就像，它不会以一个钝面结束，对吧，因为那会产生一个低压"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "zone behind the the mirror and so you'd have like have a kind of a almost like a cone behind the mirror or or blend it with the body or something like that okay so it's like they're actually surprisingly draggy now a manufacturer is required to have side view mirrors but i i believe that a uh the owner is not like you're i think you're like okay you can modify things like at least in the us you can if you uh the owner can modify things the rule is about manufacturing not driving very much about manufacturers are very tightly constrained okay um it's actually one thing that makes it very hard to to make a car that looks good and has a good performance and aerodynamics because it's like you got you got all these constraints and there's so many rules you",
+      "textZh": "区，位于后视镜的后方，所以你得，比如在后视镜后面做一个几乎像锥体一样的东西，或者把它和车身融合起来之类的。好的，所以它们其实出人意料地会产生很大风阻。现在，制造商被要求安装侧后视镜，但我，我相信，呃，车主并没有被这样要求，比如你，我想你可以，好的，你可以改装一些东西，至少在美国可以，如果你，呃，车主可以改装一些东西。规定针对的是制造，而不是驾驶。很大程度上，制造商受到非常严格的限制。好的。嗯，这其实是让一辆车既好看，又有良好性能和空气动力学表现变得非常困难的原因之一，因为就像，你有，你有所有这些限制，而且有那么多规定是你"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "need to follow um so it's very challenging to make a car uh look good my other question about roadster um the specs are insane they're ludicrous some might say yeah uh so the flat either the only thing beyond later course is plaid so so 0 to 60 in 1.",
+      "textZh": "需要遵守的。嗯，所以要让一辆车，呃，看起来好看非常具有挑战性。我关于 Roadster 的另一个问题，嗯，它的参数太疯狂了，简直荒谬，有些人可能会这么说。对。呃，所以，平的任一个，唯一比“荒谬”更高的是“格纹”，所以，所以从0加速到60用时1."
+    },
+    {
+      "id": "p-0018",
+      "textEn": "9 seconds but more importantly i was interested in is the 200 kilowatt hour battery and the 600 plus mile range is are these numbers assuming an improvement in available technology by 2020 or are they something you can achieve now but don't have the manufacturing capacity to or is it somewhere in between yeah so um i think it like basically uh it's like two uh model s uh 3100 packs yeah but but you're really just doubling the the internals that the set the cells inside so there's like a lot of stuff that's related to the pack and the packaging and safety and all that sort of stuff that um is uh not related to the cell so you can double the the number of modules inside and at with but it would still be like maybe an 80 increase in the volume of the the",
+      "textZh": "9秒，但更重要的是，我感兴趣的是200千瓦时电池和600多英里的续航里程。这些数字是假定到2020年可用技术会有所进步，还是现在就能实现、只是没有相应的制造能力，还是介于两者之间？对，所以，嗯，我觉得它基本上，呃，就像2个，呃，Model S，呃，3100电池包。对，但，但你其实只是把内部结构，也就是里面的电芯，增加1倍。所以有很多东西与电池包、封装和安全以及诸如此类的东西有关，嗯，它们，呃，与电芯无关。所以你可以把里面的模组数量增加1倍，同时，但它的体积仍然可能只增加80，这个，这个"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "packs like the floor would get four four or five inches higher if if it was current technology so but um but we would we we think we'll probably get um another maybe 20 10 at least 10 maybe 20 improvement because we'll use like think about like an expensive car is we can use the the state-of-the-art the most advanced equipment like it's kind of like with uh with computers like they've come out with a new like graphics card or or cpu it's like initially it's expensive um and so but then over time that that price drops down and people like wonder is it like do you have like automation do you have people it's like we have both um you know it's like a cyborg but like integrated sidewalk thing yeah actually like one of the biggest constraints for us is is",
+      "textZh": "电池包，比如地板会高出4、4或5英寸，如果用的是当前技术的话，所以，但是，嗯，但是我们会，我们认为我们可能会再获得，嗯，另外也许20、10，至少10，也许20的改进，因为我们会使用，比如想想昂贵汽车的情况，我们可以使用最先进的、最高级的设备，这有点像，呃，电脑，比如他们推出了一款新的，比如显卡或或 CPU，它一开始是很贵的，嗯，所以但随后随着时间推移，那个那个价格会降下来，而人们会，比如想知道，是像，你们有自动化吗，你们有人吗，就像我们两者都有，嗯，你知道，这就像一个赛博格，但比如集成式人行道之类的，对，实际上，比如我们面临的最大限制之一是，是"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "like being able to hire enough people that's what i was gonna ask so like there's a lot of working man parking there's a lot of parking here yeah if you have a lot of robots and a lot of people in the factory what do people do that robots can't do and obviously there's a lot that robots can do as far as lifting and moving things but as far as precision maybe there's things they can do that humans can't do do you have a ratio off the top of your head maybe as far as people versus machines um you know it varies massively depending upon what part of the production process um right so some parts of it are like 80 to 90 automated and then some parts of it are like uh only 10 to 20 or what are those what are those parts that humans do better than humans are",
+      "textZh": "比如能否雇到足够多的人，这正是我想问的，所以比如这里有很多工人的停车位，这里有很多停车位，对，如果工厂里有很多机器人和很多人，那人们会做哪些机器人做不了的事，显然，就搬起和移动东西而言，机器人能做很多事，但就精度而言，也许有些事它们能做到而人类做不到，你能不能不假思索地说出一个大概比例，也许是人员与机器的比例，嗯，你知道，这会因生产流程的不同环节而有巨大差异，嗯，对，所以有些环节大约有80到90实现了自动化，而有些环节则，比如只有10到20，或者那些是什么，那些是什么人类比人类做得更好的环节是"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "really good at adaptation um and rapid evolution and like doing like little like finicky things like like that um like for general assembly like one of the mistakes we made uh that was like pretty pretty big mistake was trying to automate uh general assembly which is where you put the parts together you know like some of the things it's like like trying to connect uh a hose that's like sort of dangling around i see and and you're like the robot's like gonna find the hose grab it like then connect it to another hose at that point it's like really hard yeah like a person can just go all right they're done gotcha yeah that makes a lot of sense yeah and it's like when you see it it's like wow it's super super obvious and then we try to have robots do this",
+      "textZh": "真的很擅长适应，嗯，还有快速进化，以及做那些小而麻烦的事情，像那样，嗯，比如总装，我们犯过的一个错误，呃，那是个相当、相当大的错误，就是试图把总装自动化，那里是把各个零件组装到一起的地方。你知道，有些事情就像试着连接一根有点晃来晃去的软管，我明白，然后你会想，机器人要找到软管、抓住它，然后把它连接到另一根软管上。到那一步就真的很难。是啊，一个人只要直接这样，好了，完成了。懂了。是啊，这非常说得通。是啊，而且你看到的时候会觉得，哇，这实在是太、太明显了，然后我们却试着让机器人来做这个。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "and it's like robots like grabbing the wrong thing and like trying to stick it over here and it's like oh the the the hose was here when the rover threw it was here and so now it like tries to grab air and then like smashes into the car it's like you don't want that we yeah it was a comedy virus uh tragedy of ours like personally you could say like this thing needs to connect to that thing and and then however they they arrive a person can figure it out the robot would be like uh and then as far as uh tesla's overall master plan is what it was originally called so you start with the low volume high priced roadster then you move on model s higher volume lower price to model three as far as i know that's where the master plan ended yeah that was like part",
+      "textZh": "然后就会出现机器人抓错东西，试着把它插到这里，然后就会变成，哦，软管原本在这里，漫游车把它扔出去时它在这里，所以现在它试着去抓空气，然后撞到车上，你不会想要那样。我们，是啊，那是我们的喜剧病毒，呃，我们的悲剧。比如对人来说，你可以说，这个东西需要连接到那个东西，然后不管它们最后处于什么位置，人都能想办法弄好；机器人就会，呃。然后，就Tesla的总体宏图而言，这是它最初的叫法，所以你先从产量低、价格高的Roadster开始，然后转向产量更高、价格更低的Model S，再到Model 3。据我所知，宏图到这里就结束了。是啊，那就像是第"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "one yeah i mean we went model x in there which uh uh you know it was that wasn't that was like that was definitely an exercise in hubris uh the now the x is an amazing car and it's like um but it's like we kind of got carried away with the art i hear it's very difficult to make yeah we could carry it away without the carrier with arden technology it's like obviously you want great art you want great technology but we did get a little distracted from our mission which is to like advance the cores of electric vehicles um and and it probably delayed us a little bit with the model 3 as well so i guess my last question in here would be just as far as the tesla master plan part one coming to an end is it now just a matter of steering the ship towards new opportunities",
+      "textZh": "1部分。是啊，我是说，我们在中间加入了Model X，呃，呃，你知道，那不是，那就像，那绝对是一次傲慢的实践。呃，现在X是一辆很棒的车，而且它就像，嗯，但我们有点被艺术冲昏了头。我听说它非常难制造。是啊，我们可以在没有承载者的情况下被雅顿技术带走。显然你想要伟大的艺术，也想要伟大的技术，但我们确实有点偏离了我们的使命，也就是推进电动汽车的核心，嗯，而且这可能也让Model 3稍微推迟了一点。所以我想我在这里的最后一个问题是，既然Tesla宏图第1部分即将结束，现在是否只需要把这艘船驶向新的机会？"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "you see there's not a lot of companies making a 35 000 electric car and a quarter million dollar supercar and a semi truck and doing them all really well right do you guys see yourself just keeping a tight ship and picking your your choices here and there yeah that's why we um what i'm saying really like it's it's a it's a tough strategic call between focus and like being wanting to do a bunch of different models like we we i think we want to try doing two at the same time um like we've only ever done one at the same time before do two and then and then um if we get got that if you're good with that then we could just try doing three at a time like a lot of the other manufacturers they'll do like you know 12 at a time yeah so if they're way bigger than",
+      "textZh": "你看，没有多少公司既制造一辆35 000美元的电动汽车，又制造一辆25万美元的超级跑车和一辆半挂卡车，而且每一样都做得非常好，对吧？你们认为自己会继续严格管理，并时不时做出选择吗？是啊，这就是为什么我们，嗯，我真正想说的是，在专注与想做一大堆不同车型之间，这是一个艰难的战略抉择。比如我们，我们，我想我们想试着同时做2款，嗯，比如我们以前一直都只同时做1款。先做2款，然后，然后，嗯，如果我们做到了，如果你觉得那样没问题，那么我们可以试着同时做3款。比如很多其他制造商，他们会，你知道，同时做12款。是啊，所以如果他们比我们大得多"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "us weird awesome yeah i wish you the best of luck with it and thanks for taking the time to sit down yeah thanks thank you all right cool appreciate it",
+      "textZh": "我们。奇怪。太棒了。对，我祝你在这件事上一切顺利，也谢谢你抽时间坐下来聊聊。对，谢谢，谢谢。好，酷，非常感谢。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T01:44:40.879Z",
+    "reviewedAt": "2026-09-13T02:32:19.091Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:36.065Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=MevKTPN4ozw",
+  "sourceHash": "fb47aa1df724aafd5f320abcfd053fbc0014befc8470f303f16511fed5d33c9b"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "before-the-flood-2016-10-27",
+  "slug": "before-the-flood-2016-10-27",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2016-10-27",
+  "titleEn": "Before the Flood",
+  "titleZh": "洪水泛滥之前",
+  "summaryEn": "Musk gives Leonardo DiCaprio a tour of the Gigafactory and explains how renewable energy and storage can replace fossil fuels.",
+  "summaryZh": "马斯克带莱昂纳多·迪卡普里奥参观超级工厂，并解释可再生能源和储能如何取代化石燃料。",
+  "sourceUrl": "https://www.youtube.com/watch?v=iZm_NohNm6I",
+  "sourceLabel": "National Geographic",
+  "archiveUrl": "https://elonmuskarchive.org/video/before-the-flood-2016-10-27",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/iZm_NohNm6I",
+  "thumbnailUrl": "https://i.ytimg.com/vi/iZm_NohNm6I/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 165,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "I mean the fossil fuel industry is the biggest industry in the world they have more money and more influence than any other sector so I mean the more that there can be sort of popular Uprising against that the the better but I think the scientific fact of the matter is we are unavoidably headed towards some level of of harm so the sooner we can take action the less harm will result wow holy crap that's a good robot waa what is your Grand Vision for all of this the point of of the gigafactory is to get the cost of batteries down to the point where it's affordable right batteries are critical to a sustainable energy future the sun doesn't shine all the time so got to store it in a battery how is this going to help developing nations that have massive populations",
+      "textZh": "我是说，化石燃料行业是世界上最大的行业，他们比任何其他行业都有更多资金和更大影响力，所以我是说，越是能出现某种反对它的民众起义，就、就越好。但我认为，事情的科学事实是，我们不可避免地正走向某种程度的、的伤害，所以我们越早采取行动，造成的伤害就越小。哇，我的天，那是个很棒的机器人。哇啊。你对这一切的宏大愿景是什么？超级工厂的、的意义是把电池成本降到负担得起的程度，对吧？电池对可持续能源的未来至关重要。太阳并非一直照耀，所以必须把能量储存在电池里。这将如何帮助那些人口庞大、"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "that need to have power so the advantage of solar and batteries is that you can avoid building electricity plants at all so you could be a remote Village and have solar panels that charge a battery pack that then supplies power to the to the whole village without ever having to run thousands of miles of high voltage cable all over the place it's like what happened with uh landline phones versus cellular phones in a lot of developed countries they just didn't do the landline phones they just went straight to cellula and we actually did the calculations say like what would it take to transition the whole world to uh sustainable energy what kind of throughput would you actually need um and you need 100 Giga factories 100 of these 100 of these yes that would",
+      "textZh": "需要电力的发展中国家？所以太阳能和电池的优势是，你完全可以避免建设发电厂。因此，你可以身处一个偏远村庄，拥有太阳能板为电池组充电，然后由电池组向、向整个村庄供电，而完全不必在各处铺设数千英里的高压电缆。这就像，呃，固定电话与移动电话之间发生的情况一样。在许多发达国家，他们根本没有建设固定电话网络，而是直接转向了移动通。我们实际上还做过计算，比如，要让全世界转向，呃，可持续能源，需要什么？你实际需要多大的产能，嗯，你需要100座超级工厂。100座这样的？100座这样的。是的，那将会"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "make the United States no the whole world the whole world the whole world all energy that's it yeah that sounds it's manageable that sounds manageable yeah the gig Factory when it's complete it'll have the largest footprint of any building in the world counting multiple levels could be as much as 15 million sare ft so Tesla can't build 100 uh gigafactories the thing that's really going to make difference is if companies that are much bigger than Tesla do the same thing if the big industrial companies in China and the US and and Europe the big car companies if they also do this then collectively we can accelerate the transition to sustainable energy and if Government sets the rules to favor sustainable energy we can get there really quickly but it's really",
+      "textZh": "让美国——不，是全世界，全世界，全世界，所有能源。就这样？对。听起来可以做到。听起来可以做到。对。超级工厂建成后，将拥有世界上所有建筑中最大的占地面积；如果把多层计算在内，可能高达1500万萨尔英尺。所以Tesla不可能建造100座，呃，超级工厂。真正会带来改变的是，比Tesla大得多的公司也做同样的事。如果中国、美国和、和欧洲的大型工业公司，那些大型汽车公司，也这样做，那么我们共同就能加速向可持续能源转型。而且如果政府制定有利于可持续能源的规则，我们就能非常迅速地实现目标。但这确实是"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "fundamental unless there's a price put on carbon we're never going to be able to make the transition that we need to in time correct yeah the only way to do that is basically with a carbon tax",
+      "textZh": "根本性的：除非给碳定价，否则我们永远无法及时完成我们所需要的转型。没错。对。做到这一点的唯一办法，基本上就是征收碳税。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T17:24:57.017Z",
+    "reviewedAt": "2026-09-12T17:46:10.377Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:10.945Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=iZm_NohNm6I",
+  "sourceHash": "9a9593f12384a082add907425322a9c2df1ce10026c25090f45ce4b5aece6ffd"
+}

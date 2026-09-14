@@ -1,0 +1,78 @@
+{
+  "id": "falcon-9-droneship-landing-2016-04-08",
+  "slug": "falcon-9-droneship-landing-2016-04-08",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2016-04-08",
+  "titleEn": "Falcon 9 Droneship Landing",
+  "titleZh": "Falcon 9 无人船着陆",
+  "summaryEn": "Coverage of SpaceX's historic first Falcon 9 first-stage landing at sea on the CRS-8 mission narrated with Musk's reaction.",
+  "summaryZh": "SpaceX 在 CRS-8 任务中首次实现 Falcon 9 一级火箭海上着陆这一历史性事件的报道，并配有马斯克的反应。",
+  "sourceUrl": "https://www.youtube.com/watch?v=1sJlFzUQVmY",
+  "sourceLabel": "Bloomberg Originals",
+  "archiveUrl": "https://elonmuskarchive.org/video/falcon-9-droneship-landing-2016-04-08",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/1sJlFzUQVmY",
+  "thumbnailUrl": "https://i.ytimg.com/vi/1sJlFzUQVmY/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 102,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Launch Commentator",
+      "startSec": 0.88,
+      "textEn": "Engine ignition. Liftoff of the Falcon 9 rocket. With science for today and for deep space exploration tomorrow. Falcon 9 has cleared the towers.",
+      "textZh": "发动机点火。Falcon 9 火箭升空。承载着服务于当今以及未来深空探索的科学任务。Falcon 9 已越过发射塔。",
+      "speakerZh": "发射解说员"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Mission Control",
+      "startSec": 28.88,
+      "textEn": "Impact chill has begun.",
+      "textZh": "冲击冷却已经开始。",
+      "speakerZh": "任务控制中心"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Mission Control",
+      "startSec": 36.94,
+      "textEn": "Landing legs have deployed.",
+      "textZh": "着陆腿已展开。",
+      "speakerZh": "任务控制中心"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Mission Control",
+      "startSec": 48.38,
+      "textEn": "Of course. I still love you. We have a Falcon 9 on board.",
+      "textZh": "“当然我依然爱你”号。我们船上有一枚 Falcon 9。",
+      "speakerZh": "任务控制中心"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Mission Control",
+      "startSec": 61.59,
+      "textEn": "Landing operators Moving to procedure 11.100 on recovery net.",
+      "textZh": "着陆操作人员，在回收通信网转入程序 11.100。",
+      "speakerZh": "任务控制中心"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Launch Commentator",
+      "startSec": 74.31,
+      "textEn": "Waiting for the engine.",
+      "textZh": "等待发动机。",
+      "speakerZh": "发射解说员"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T07:57:27.128Z",
+    "reviewedAt": "2026-09-12T08:01:42.815Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:19.765Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "871e883051eeedba4e4924eb30af93dca417bb8f7b9fcfd1ea244674cc9e8176"
+}

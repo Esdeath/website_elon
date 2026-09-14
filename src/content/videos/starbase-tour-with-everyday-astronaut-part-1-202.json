@@ -1,0 +1,1090 @@
+{
+  "id": "starbase-tour-with-everyday-astronaut-part-1-202",
+  "slug": "starbase-tour-with-everyday-astronaut-part-1-202",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2021-07-30",
+  "titleEn": "Starbase Tour with Everyday Astronaut — Part 1",
+  "titleZh": "与日常宇航员一起参观星舰基地——第 1 部分",
+  "summaryEn": "Tim Dodd tours the SpaceX Starbase factory with Musk discussing Starship manufacturing, Raptor engines and design philosophy.",
+  "summaryZh": "蒂姆·多德参观 SpaceX 星舰基地工厂，马斯克在途中讨论星舰制造、猛禽发动机和设计理念。",
+  "sourceUrl": "https://www.youtube.com/watch?v=t705r8ICkRw",
+  "sourceLabel": "Everyday Astronaut",
+  "archiveUrl": "https://elonmuskarchive.org/video/starbase-tour-with-everyday-astronaut-part-1-202",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/t705r8ICkRw",
+  "thumbnailUrl": "https://i.ytimg.com/vi/t705r8ICkRw/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 3197,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Hi, it's me, Tim Dodd, the Everyday Astronaut. Welcome to STARBASE Texas. This is where SpaceX is building testing, and even launching their mars bound rocket Star ship. Today, I'm gonna take you inside the gates and show you things that have never been shared outside of SpaceX. First of all, we have the ultimate tour guide, Elon Musk, who answers all of my questions and gives us unbelievable insights to the rockets development.",
+      "textZh": "嗨，是我，蒂姆·多德，日常宇航员。欢迎来到得克萨斯州的星舰基地。这里是 SpaceX 建造、测试，甚至发射其飞往火星的火箭星舰的地方。今天，我要带你进入大门里面，向你展示一些从未在 SpaceX 之外公开过的东西。首先，我们有终极导游埃隆·马斯克，他回答了我的所有问题，并让我们对火箭的研发有了令人难以置信的深入了解。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "We talked and walked around for over two hours. So I'll be cutting this up into three parts. The first two are at the Star Base factory and the last one is at the launch pad. Each section has a goldmine of valuable information. So make sure you're subscribed. You've got your notifications on and you've got your note pads ready to jot some notes.",
+      "textZh": "我们边聊边四处走了超过 2 个小时。所以我会把它剪成 3 个部分。前 2 个部分在星舰基地工厂，最后 1 个部分在发射台。每个部分都有大量宝贵信息。所以一定要订阅。打开通知，并准备好记事本来记些笔记。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Now heads up, we talk about some pretty advanced concepts and subject matter that can be pretty intimidating on first listen, but don't worry, I've got you covered with lots of informational videos here on my channel. So perhaps if you are new to Star ship or really all of this stuff, consider watching my complete guide to Star ship, that'll be a really good overview for you for some of the things that we talk about here in this conversation.",
+      "textZh": "现在先提醒一下，我们会谈到一些相当高深的概念和主题，第一次听时可能会让人觉得相当难懂，但不用担心，我的频道里有很多信息类视频可以帮到你。所以，如果你刚开始了解星舰，或者其实刚开始了解所有这些东西，可以考虑观看我的星舰完整指南，它会为你很好地概述我们在这次对话中谈到的一些内容。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "And I'll also be linking to some of my other videos that will help out with some of the stuff that we talk about as well. Now you might notice, we mention Soviet rocket engines quite a bit in this conversation. Maybe it's because I was wearing my new Soyuz shirt that you can get at everydayastronaunt. com/shop, or perhaps it's because I've been working on a complete history and family tree of Soviet rocket engines for almost two years now.",
+      "textZh": "我也会附上我的其他一些视频的链接，这些视频也会帮助理解我们谈到的一些内容。现在你可能会注意到，我们在这次对话中多次提到苏联火箭发动机。也许是因为我穿着我的新款联盟号衬衫，你可以在 everydayastronaunt. com/shop 买到；也可能是因为我已经用了将近 2 年时间，制作一部关于苏联火箭发动机完整历史和谱系的视频。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "And that video is currently in the works and it will be out when it's done. And one last thing, this video is broken up into sections and we have links in the description for those sections. We also will occasionally be putting up a little map, courtesy of ring Watchers on Twitter that will help you keep your bearings as we're walking around. I think that'll help quite a bit.",
+      "textZh": "那部视频目前正在制作中，做好时就会发布。最后还有一件事，这部视频被分成了多个章节，我们在简介中提供了这些章节的链接。我们偶尔也会显示一张小地图，由 Twitter 上的 ring Watchers 提供，它会在我们四处走动时帮助你辨明方位。我认为那会相当有帮助。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "And we also have an article version of kind of our conversation and some of the key points that we bring up over at everydayastronaut. com. There is a link in the description to that as well. Okay, enough talking, let's go hang out with Elon.",
+      "textZh": "此外，在 everydayastronaut. com 上，我们还发布了某种文章版的对话内容，以及我们提出的一些要点。简介中也有它的链接。好了，聊得够多了，我们去找埃隆吧。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "Is it the camera? Probably with the camera, and then somebody else for the camera.",
+      "textZh": "是摄像机吗？可能是带着摄像机，然后再由另一个人负责摄像机。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "[Tim] It's just camera envy at this point. He saw me with this and he's like listen- - I'll get my camera out.",
+      "textZh": "[蒂姆] 到这会儿纯粹就是嫉妒相机了。他看到我拿着这个，就说，听着——我也把相机拿出来。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "[Tim] Yeah, you take a video of me.",
+      "textZh": "[蒂姆] 对，你给我拍段视频。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "So I can take a video of this, of you guys taking the video.",
+      "textZh": "这样我就能拍下这个，拍下你们拍视频的过程。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Make sure this is going through there. Just shoot the screen the whole time. I don't want anything else.",
+      "textZh": "确保这个画面能从那里拍进去。全程只拍屏幕。我不要别的任何东西。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "All right, so this is... Okay, so this is I'm being videoed here. And then the video of the video. This is the video on the video of the video.",
+      "textZh": "好了，所以这是……好，所以这是我正在这里被拍。然后是拍视频的视频。这是拍视频的视频里的视频。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Go back there. (laughs) - So I feel like I got here maybe at about the most exciting peak of insanity.",
+      "textZh": "回到那里去。（笑）——所以我觉得，我来这里的时候可能正赶上疯狂程度最令人兴奋的巅峰。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "It's definitely a very exciting time, 'cause we are in kind of a final push to complete the launch pad system, stage zero, essentially. So we're saying that the launch system, the tower and the, you know, the chopstick arms to catch the rocket are as complex as either of the stages.",
+      "textZh": "这绝对是一个非常激动人心的时刻，因为我们基本上正处于完成发射台系统，也就是零级系统的最后冲刺阶段。所以我们是说，发射系统、塔架，以及那个，你知道，用来接住火箭的筷子臂，复杂程度不亚于任何一级。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "[Tim] Really?",
+      "textZh": "[蒂姆] 真的吗？"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Yeah, absolutely, if not more. We could produce boosters and ships way easier than we could make the launch site. So therefor I'll say it is harder suddenly than any single booster or ship.",
+      "textZh": "对，绝对如此，甚至可能更复杂。我们制造助推器和飞船，要比建造发射场容易得多。因此我会说，它突然比任何单个助推器或飞船都更难。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "I think that's one of the things people don't even realize is the manufacturing out here, that's kind of one of the things that you harp on so much is how, you know, how that's so important and that's in the long scheme, the hardest part of all of this is just manufacturing.",
+      "textZh": "我觉得人们甚至没有意识到的一件事，就是这里的制造工作，这也是你一直反复强调的事情之一，就是它有多么，你知道，它有多么重要，而且从长远来看，这一切当中最难的部分就是制造。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "I think, currently a factory is underrated and design is overrated. So people generally think that, like this Eureka moment of like you come up with this idea and that's it, now it's good. But the design like this, literally a thousand percent, maybe 10000% more work that goes into the production system than the thing itself. So say like how much effort we put into say designing Raptor versus deciding the manufacturing system it's 10 to a 100 times more effort to design the manufacturing system than the engine.",
+      "textZh": "我认为，目前工厂被低估了，而设计被高估了。所以人们通常会认为，就像那种尤里卡时刻一样，你想出了这个点子，然后就成了，现在就没问题了。但像这样的设计，投入生产系统的工作量实际上比产品本身多1000%，也许多10000%。所以比如说，我们投入多少精力设计猛禽发动机，相比之下，决定制造系统所需的精力是设计发动机的10到100倍。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "[Tim] Even of a Raptor?",
+      "textZh": "[蒂姆] 即便是猛禽发动机也是这样？"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "Oh yeah, absolutely. Especially with Raptor. Quote basically the amount of effort that goes into the design rounds down to zero.",
+      "textZh": "哦，对，绝对如此。尤其是猛禽发动机。基本上可以说，投入设计的工作量四舍五入后等于零。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "[Tim] Right, right.",
+      "textZh": "[Tim] 对，对。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "Relative to the amount of the effort that goes into the manufacturing system. And if this was not true, I'd like 1000 Raptors please. Oh, you can't make them? Oh, okay.",
+      "textZh": "相对于投入制造系统的工作量而言。如果事实不是这样，那我想要1000台猛禽发动机，谢谢。哦，你们造不出来？哦，好吧。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "[Tim] Right, right.",
+      "textZh": "[Tim] 对，对。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "So this is like just very fundamentally underappreciated. If people have not been in manufacturing, especially manufacturing of something that's relatively new, then they don't understand. And they think the design is the hard part, and they think production is like a copier or something like that. This is completely false.",
+      "textZh": "所以这一点从根本上被严重低估了。如果人们没有从事过制造，尤其是制造某种相对较新的东西，那他们就不会明白。他们认为设计才是困难的部分，还认为生产就像复印机之类的东西。这完全是错的。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "[Tim] It's definitely not as sexy as the end thing. Like, you know, the end product is very sexy and you know, that's what draws people's attention, but the whole back end of it is what makes it possible.",
+      "textZh": "[Tim] 它确实不像最终成品那么性感。比如，你知道，最终产品非常性感，而且你知道，那才是吸引人们注意力的东西，但背后的整个环节才是让它成为可能的东西。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "I can't emphasize enough, I'm trying to correct the misperception that design is the hard part. It is not the hard part. There have been lots of great rocket engines designed. You've spend a lot of time looking at the Russian rocket engine designs. There's some amazing Russian rocket engine designs. They've been doing stage combustion for a long time. And they've done, I don't know, hundreds of different designs, literally.",
+      "textZh": "无论怎么强调都不为过，我是在努力纠正那种认为设计才是困难部分的误解。它不是困难的部分。人们已经设计过很多很棒的火箭发动机。你花了很多时间研究俄罗斯的火箭发动机设计。有一些非常出色的俄罗斯火箭发动机设计。他们做分级燃烧已经很长时间了。而且他们已经做过，我不知道，实际上有数百种不同的设计。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "So the hard part is not, can you design a stage combustion engine? This has been done. Now admittedly, ours is a higher pressure than before, and it is a full flow stage combustion, but that's a relatively minor increments relative to what the Russians have already done. What is super hard about Raptor is, how do we make a Raptor where the cost per ton of thrust is under a thousand dollars?",
+      "textZh": "所以困难的部分并不是，你能不能设计出一台分级燃烧发动机？这已经有人做到了。当然，必须承认，我们的压力比以前更高，而且是全流量分级燃烧，但与俄罗斯人已经做到的事情相比，这些只是相对较小的增量。猛禽发动机极其困难的地方在于，我们怎样才能制造出一台每吨推力成本低于1000美元的猛禽发动机？"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "Yeah, I mean, we definitely don't wanna cut, the fundamental thing that needs to be fixed is the cost per ton to orbit. So things that address the cost per ton to orbit are good. If humanity will be a multi-planet species, if we get cost per ton to orbit to a point where we can afford to become a space race civilization and a multiplanar species.",
+      "textZh": "对，我的意思是，我们绝对不想削减，必须解决的根本问题是每吨入轨成本。所以，能解决每吨入轨成本问题的事情就是好事。如果人类将成为一个多行星物种，如果我们把每吨入轨成本降到一个能让我们负担得起成为太空竞赛文明和多平面物种的水平。"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "[Tim] Right.",
+      "textZh": "[Tim] 对。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "So this is, at it's heart, it is a fundamentally an optimization of cost per ton to orbit and then ultimately cost per ton to the surface of Mars.",
+      "textZh": "所以这件事的核心，从根本上说就是优化每吨入轨成本，最终则是优化每吨运抵火星表面的成本。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "[Tim] Right.",
+      "textZh": "[Tim] 对。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "Well, if you're working on getting the cost of, even when you're starting to think of it as dollars, dollar per ton of thrust, I don't know if anyone's ever considered that as a key metric. That's a new thing that I've never thought about, never considered, well, not even...",
+      "textZh": "嗯，如果你正在设法降低成本，甚至开始用美元来考虑它，以每吨推力多少美元来衡量，我不知道以前是否有人把它当作一项关键指标。这是我从未想过、从未考虑过的新东西，嗯，甚至没有……"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "[Tim] Raptor is kind of unique. And now you start also thinking about instead of thrust to weight ratio, when you have a fixed diameter and fixed circle area, you're also worried about the nozzle exit to thrust ratio as being a pretty strong consideration too.",
+      "textZh": "[Tim] 猛禽发动机有点独特。而且现在你也开始考虑，不再只是看推重比，当直径和圆形面积固定时，你也很在意喷管出口与推力之比，这也是一项相当重要的考量。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "Yeah, you basically end up pulling up all the area under the rocket. So for this version, we have 29 engines. There is a lot of beeping. I'm not sure having this many things beep is actually helpful.",
+      "textZh": "对，基本上最后会把火箭下面的所有面积都用上。所以这个版本有29台发动机。哔哔声太多了。我不确定让这么多东西都发出哔哔声实际上有没有帮助。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "[Tim] It's a sensory overload.",
+      "textZh": "[Tim] 这让感官超负荷了。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "It's like everything around you is crying Wolf.",
+      "textZh": "就好像你周围的一切都在喊“狼来了”。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "If everything's in danger, nothing is danger - - And you're just got to turn it out. Yeah, exactly. So it's pretty silly, but- - [ Tim] So this is obviously the nose of booster 4.",
+      "textZh": "如果一切都有危险，那就没有什么是危险的——而你只能把它关掉。对，没错。所以这挺傻的，但是——[Tim] 所以这显然是4号助推器的头部。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "[Elon] This is basically, that's the inter stage and the fuel tank of booster 4.",
+      "textZh": "[埃隆] 这基本上，这就是级间段和4号助推器的燃料箱。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "What are the little... So obviously that's where the grid fins go, right? And then what's the thing in between them?",
+      "textZh": "那些小小的……所以很明显，那就是安装栅格翼的地方，对吧？那它们中间的东西是什么？"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "that's basically, that's actually the Mount point. There are two. It's debatable whether this is the right design or not. In fact, it's like the whole design is wrong, just a matter of how wrong. But that's one of the load points for picking up the booster. It's just like tiny little, it looks small, but it's actually not that small, like close up it's this thing is just high in the air. Like all your sense of perspective is wrong.",
+      "textZh": "那基本上，那其实是安装点。有2个。这个设计是否正确是有争议的。事实上，就像整个设计都是错的，只是错得有多严重的问题。但那是吊起助推器的其中1个承重点。它就像小小的，看起来很小，但其实没那么小，像是靠近看，这东西就是高高地悬在空中。就像你所有的透视感都错了。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "And when this lands, it has like basically the density of a beer can. An empty beer can. With like some mass, you know, with the engine is obviously- - [Tim] What is the dry mass, are you under 200 tonnes?",
+      "textZh": "而当它着陆时，它基本上有着啤酒罐那样的密度。一个空啤酒罐。带着一些质量，你知道，发动机显然是——[Tim] 干质量是多少，低于200吨吗？"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "We should be under 200 tonnes. (machines beeping) The mass is a moving target. You often say like, what are propellant residuals when you land? That's a big deal. Like both how much margin on what you have and what are the unusable propellant. Like you can't just go to zero margin, you know? Because you're the things going to like, crater. And it should be under 200 tonnes though.",
+      "textZh": "我们应该能低于200吨。（机器发出哔哔声）质量是一个不断变化的目标。你经常会说，比如着陆时剩余的推进剂是多少？这很重要。比如你拥有的裕度有多少，以及无法使用的推进剂有多少。比如你不能直接降到零裕度，你知道吗？因为你的东西会，就像，砸出一个坑。不过它应该低于200吨。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "But as a rough rule of thumb, like the engines, including mountain mass are roughly two tonnes. So that's 29 engines at 58 tonnes. Then the sort of the fuel tank itself, and the oxygen tank, it's probably on the order of... Well, it's a little heavy right now. So maybe it's like 80 tonnes or so. Then you've got the inner stage, we've got the grid fins, batteries and a bunch of other things.",
+      "textZh": "但作为一个粗略的经验法则，比如这些发动机，包括山体质量在内大约是2吨。所以29台发动机就是58吨。然后是燃料箱本身，还有氧气箱，大概是……嗯，现在有点重。所以可能是大约80吨。然后还有内级、栅格翼、电池和一堆其他东西。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "So that's around 20 tonnes, and then you got propellant residuals, which might be on the order of 20 tonnes too. All of that should come to, I don't know, call it 160 to 200 tonnes depending on the sort of final mass numbers. But like right now everything is too heavy, like avionics too heavy.",
+      "textZh": "所以那大约是20吨，然后还有推进剂残留，可能也大约是20吨。所有这些加起来应该是，我不知道，就算160到200吨吧，取决于最终的质量数字。但现在所有东西都太重了，比如航空电子设备太重。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "[Tim] The avionics even?",
+      "textZh": "[蒂姆] 连航空电子设备也重吗？"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Yeah.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "[Tim] I thought it was just a little- - I mean, it should be, but the grid fins are electrically powered so we have batteries that are energy optimized instead of power optimized. So like this grid fins only let things work for like two or three minutes. So it's very different from like an electric car, which you wanna have several hours of driving. So it is really, we need power optimized batteries, not energy optimized batteries. This is just a short term thing. So the battery mass can probably drop by maybe a factor of 10. So that's just one example.",
+      "textZh": "[蒂姆] 我以为只是有点——我的意思是，本来应该是，但栅格翼是电力驱动的，所以我们的电池是针对能量优化，而不是针对功率优化。所以像这些栅格翼只能让东西工作大约2或3分钟。因此这和电动汽车非常不同，电动汽车是希望能行驶几个小时。所以实际上，我们需要的是功率优化型电池，而不是能量优化型电池。这只是短期的情况。所以电池质量也许可以降至大约十分之一。这只是一个例子。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "[Tim] Should we back up a little bit so there's little- - Yeah, less banging.",
+      "textZh": "[蒂姆] 我们要不要稍微往后退一点，这样就少一点——对，少一点撞击声。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "And then we're trying to get that crane in here and do work.",
+      "textZh": "然后我们正试着把那台起重机弄进这里来干活。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "[Tim] You got a lot of people on set right now.",
+      "textZh": "[蒂姆] 你们现在现场有很多人。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "Yeah, I mean, that residuals number is a super big deal on the mass though, because the booster is designed to have 3,600 tonnes of propelling, which is an almost 80% liquid oxygen by mass, like 78%- - [Tim] 'Cause you burn at what? Is it 3,71- - 3.5, 3.7.",
+      "textZh": "对，我的意思是，不过那个残留量对质量而言是个超级重大的问题，因为助推器设计为装有3,600吨推进物，其中按质量计几乎80%是液氧，比如78%——[蒂姆] 因为你们燃烧时是多少？是3,71——3.5，3.7。"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "[Tim] Okay, yeah.",
+      "textZh": "[蒂姆] 好的，对。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "And you wanna bias in favor of oxygen because oxygen is dancer and cheaper. So in terms of improving your payload and you know, reducing cost per ton, oxygen is basically plants make it for free and plankton. So it's basically like electricity cost of separation and distillation.",
+      "textZh": "而且你会想偏向使用氧气，因为氧气是舞者，也更便宜。所以就提高有效载荷，以及，你知道，降低每吨成本而言，氧气基本上是植物和浮游生物免费制造的。所以基本上只有分离和蒸馏所需的电费。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "[Tim] Right. Now, remind me though. Is it like, as far as the ratio goes, fuel OF ratio having a lighter molecule. Do we kind of want that to be spewing out faster or something, 'cause it's less reaction. It can be accelerated quicker or faster.",
+      "textZh": "[蒂姆] 对。不过，再提醒我一下。就这个比例而言，燃料氧燃比采用较轻的分子。我们是不是有点希望它喷出得更快之类的，因为它的反应更少。它可以更快或更迅速地加速。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "Yeah, There's a trade off between... Well, I mean, would you tend to get limited by is you don't wanna go too close to stoichiometric 'cause the heats basically melt your engine. So that tends to limit you on trying to go to higher OF, that's the actual thing limiting you. You tend to hit the stoichiometric melting point before you rollover on ISP.",
+      "textZh": "对，这之间存在权衡……嗯，我的意思是，你往往受到的限制是，你不想太接近化学计量比，因为热量基本上会熔化你的发动机。所以这往往会限制你尝试采用更高的氧燃比，这才是真正限制你的因素。你往往会在比冲开始回落之前先达到化学计量熔点。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "[Tim] Okay, okay.",
+      "textZh": "[蒂姆] 好的，好的。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "Generally.",
+      "textZh": "一般来说。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "[Tim] That makes sense.",
+      "textZh": "[蒂姆] 这说得通。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "[Tim] And remind me of the grid fins. Do they still fold in?",
+      "textZh": "[蒂姆] 再提醒我一下栅格翼的情况。它们仍然会折叠起来吗？"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "No.",
+      "textZh": "不会。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "[Tim] No, is that gonna be permanently that way?",
+      "textZh": "[蒂姆] 不会，那以后会一直这样吗？"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Yeah. I have a rule just implement rigorously is the sort of five step process. First make your requirements less dumb, your requirements are definitely dumb. It does not matter who gave them to you. It's particularly dangerous, if a smart person gave you the requirements, because you might not question them enough.",
+      "textZh": "对。我有一条要严格执行的规则，就是那种5步流程。首先，让你的需求没那么蠢，你的需求肯定是蠢的。是谁把需求交给你的并不重要。如果需求是聪明人给你的，那尤其危险，因为你可能不会充分质疑它们。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "[Tim] Yeah, you might take it as like gospel. Like you have to do this.",
+      "textZh": "[蒂姆] 对，你可能会把它当成福音。就像你必须这么做。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Everyone's wrong, no matter who you are, everyone's wrong some of the time. So mega requirements is less dumb, then try very hard to delete the part or process. This is actually very important. If you're not occasionally adding things back in, you are not leading enough. The bias tends to be very strongly towards, let's add this part of the process step in case we need it.",
+      "textZh": "每个人都会犯错，无论你是谁，每个人有时都会犯错。所以超大需求没那么蠢，然后非常努力地尝试删除这个部件或流程。这实际上非常重要。如果你不是偶尔把东西加回来，那你领导得还不够。偏向往往非常强烈地倾向于：让我们把这个流程步骤加进去，以防我们需要它。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "But you can basically make in case arguments for so many things, and for a rocket that is trying to achieve, try to be the first fully reusable rocket, there's never been a fully reusable rocket people don't understand. Like this is like the holy grail of rocketry, okay? And so you have to run a tight margins because if you don't run tight margins, you're gonna get nothing to orbit.",
+      "textZh": "但你基本上可以为很多事情提出“以防万一”的论点，而对于一枚正在努力实现、努力成为第一枚完全可重复使用火箭的火箭来说，此前从来没有过完全可重复使用的火箭，人们并不明白。就像，这是火箭技术的圣杯，明白吗？所以你必须把裕度卡得很紧，因为如果你不把裕度卡紧，就什么也送不进轨道。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "So you've got to delete the part or process step, it's super important. And you can like hedge your bets. So that's why the grid fins for example, do not fold down because that's a whole extra mechanism that we don't need.",
+      "textZh": "所以你必须删掉那个零件或工序，这一点极其重要。当然也可以留一点余地。因此，举例来说，栅格翼不会折叠，因为那会增加一整套我们不需要的机构。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "[Tim] And they just compensated for by having strong enough engine authority to steer it in the little atmosphere.",
+      "textZh": "[蒂姆] 而它们只是通过让发动机拥有足够强的控制能力、在稀薄的大气中操纵它来进行补偿。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "Actually our simulation show, we don't really need any extra engine authority. As long as the grid fins, you know, basically follow the flow, they're not really disturbing the flow, it's really here nor there. As long as they don't have a high angle of attack, it doesn't matter.",
+      "textZh": "实际上，我们的模拟显示，我们并不真的需要任何额外的发动机控制能力。只要栅格翼，你知道，基本上顺着气流走，不真正扰乱气流，那就无关紧要。只要它们没有很大的攻角，就没关系。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "[Tim] A few degrees or something within a degree or two.",
+      "textZh": "[蒂姆] 几度左右，或者在1度或2度以内。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "But in any case, it's the thing we could add later. So now these grid fins are humongous. We will go see them. But they're like, I mean, like a dinosaur bear trap. It's like you've build a bear trap or a dinosaur, that's what these things look like. And if you have a whole mechanism for folding them, that's like clearly a part that we don't need. So this is a good design decision that actually I didn't come up with it, and it was like, great.",
+      "textZh": "但无论如何，这是我们以后可以添加的东西。所以现在这些栅格翼大得惊人。我们会去看看它们。但它们就像，我是说，像一个捕恐龙的捕熊夹。就像你造了一个捕熊夹，或者一只恐龙，这些东西看起来就是那样。如果你还要有一整套折叠它们的机构，那显然就是一个我们不需要的零件。所以这是一个很好的设计决策，其实不是我想出来的，而我当时就觉得，太好了。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "But it followed the principle of like fleet partly lead the process. I was like, great, good idea, let's not fold them. Why are we folding them, anyway? It's so random. Whatever requirement or constraint you have, it must come with a name, not a department.",
+      "textZh": "但它遵循了类似于舰队部分地引领流程的原则。我当时想，太好了，好主意，我们别折叠它们了。反正我们为什么要折叠它们？太随意了。无论你有什么要求或约束条件，它都必须带着一个人的名字，而不是一个部门的名字。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "'Cause you can't ask the departments, you have to ask a person, and that person who's putting forward, the requirement or constraint must agree that they must take responsibility for that requirement. Otherwise you could have a requirement that basically an intern two years ago randomly came up with, off the cuff and they're not even have the company anymore. But it came from the, let's say, air loads department.",
+      "textZh": "因为你不能去问部门，你必须去问一个人，而提出这项要求或约束条件的人必须同意，他们必须为这项要求承担责任。否则，你可能会有一项要求，基本上是2年前某个实习生一时随口随机想出来的，而他们甚至已经不在公司了。但它来自，比如说，气动载荷部门。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "They're like, actually there's no one at our current department that currently agrees with that. This has by the way it happened several times.",
+      "textZh": "他们会说，实际上，我们现在这个部门里没有任何人目前赞同那项要求。顺便说一下，这种事已经发生过好几次了。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "[Tim] So again, it could be literally thought of...",
+      "textZh": "[蒂姆] 所以还是那样，它真的可能被认为是……"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "this could be, it's every department.",
+      "textZh": "这可能是，这是每个部门都会有的情况。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "[Tim] It can be thought of as gospel again, but it might be something that's just totally in passing. Or someone played too much Kerbel and had fins at the top of the rocket. And then it just, you know, it did this.",
+      "textZh": "[蒂姆] 它也可能再次被奉为圭臬，但它也许只是什么人完全随口一提的东西。或者某个人玩 Kerbel 玩得太多了，于是在火箭顶部装了翼片。然后它就，你知道，变成了这样。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "These things are often just way more silly than you think. Anyway, so step one, make your requirements less dumb. Step two, delete the part or process step. If you're not deleting a part or process step, at least 10% of the time, basically if you're not adding things back in 10% of the time, you're clearly not deleting enough. And then only the third step is simplify or optimize. The third step.",
+      "textZh": "这些事情往往比你想象的愚蠢得多。总之，第1步，让你的要求没那么愚蠢。第2步，删掉零件或工艺步骤。如果你没有至少在10%的时候删掉一个零件或工艺步骤，基本上，如果你没有在10%的时候把东西加回来，那你显然删得还不够。然后只有到了第3步，才是简化或优化。第3步。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "The reason it's the third step is 'cause it's very common, possibly the most common error of a smart engineer is to optimize the thing that should not exist. And say, well, why would you do that? Well, everyone has been trained in high school and college that you gotta answer the question, convergent logic. So you can't tell a professor, your question is dumb. You will get a bad grade. You have to ask the question.",
+      "textZh": "之所以把它列为第3步，是因为聪明工程师一个非常常见、甚至可能是最常见的错误，就是去优化本不该存在的东西。你会说，嗯，你为什么会那么做？嗯，每个人在高中和大学接受的训练都是：你必须回答问题，采用收敛逻辑。所以你不能对教授说，你的问题很蠢。你会得低分。你必须提出问题。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "So everyone is basically, without knowing it, they got like mental straight jacket on that is they'll work on optimizing the thing that should simply not exist. I'll give you an example for way back in the day of Falcon 1. So in the original sort of like when Tom Mueller and I were like batting around, like, okay, what should this rocket look like? I think I was literally in like Tom's kitchen or something.",
+      "textZh": "所以，基本上每个人都在不知不觉中穿上了某种精神紧身衣，也就是说，他们会努力优化本来就根本不该存在的东西。我给你举个很久以前 Falcon 1 的例子。所以最初的时候，大概就是 Tom Mueller 和我来回琢磨，比如，好吧，这枚火箭应该是什么样子？我觉得当时我真的就在 Tom 的厨房之类的地方。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "And we had like the spreadsheet and like, okay, we need to like make minimally viable rockets, like with half a tonne or whatever something like that. And then initially the spreadsheet had, we had an NOT / MMH upper stage, so sort of hypergol, upper stage kind of like a varient of the TRW LMD.",
+      "textZh": "然后我们有个电子表格，比如，好吧，我们需要制造最小可行火箭，比如能运载0.5吨之类的，大概如此。然后最初的电子表格里有，我们有一个 NOT / MMH 上面级，也就是某种自燃推进剂上面级，有点像 TRW LMD 的一个变体。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "[Tim] Which I think Tom worked on, right?",
+      "textZh": "[蒂姆] 我想 Tom 参与过它，对吧？"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Well, we trained Tom worked on it, he's not that old. It was like a baby, you know, (laughs). A very advanced baby. But his mentors did work on the LMD. So, you know, lunar module descent engine. Basically a pintel injector- - [Tim] That's right, 'cause that's where the pintel injector comes from.",
+      "textZh": "嗯，我们训练 Tom 参与过它，他没那么老。当时还是个婴儿，你知道吧，（笑）。一个非常先进的婴儿。但他的导师们确实参与过 LMD。所以，你知道，登月舱下降发动机。基本上就是一个针栓式喷注器——— [蒂姆] 没错，因为针栓式喷注器就是从那里来的。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "You can also deep it and everything. Now the problem with that is, how much this NTO/MMH costs. It's super expensive, okay. It's like a rare chemical. So even if you're like, you know, if Edison and Tesla had a baby and that baby was smarter than both of them combined and said, your job is to optimize an NTO/MMH Upper stage, you're screwed, okay? So like nitrogen tetroxide or monomethyl hydrazine are super expensive and they're also toxic.",
+      "textZh": "你也可以让它变深以及做其他一切。现在它的问题是，这种 NTO/MMH 要花多少钱。它超级昂贵，好吧。它就像一种稀有化学品。所以即使你是，你知道，如果 Edison 和 Tesla 生了一个孩子，而且那个孩子比他们俩加起来还聪明，然后有人说，你的工作是优化一个 NTO/MMH 上面级，那你也完蛋了，好吧？所以像四氧化二氮或单甲基肼都超级昂贵，而且也有毒。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "[Tim] They're super nasty, yeah. It's the handling costs alone are pretty appreciable.",
+      "textZh": "[蒂姆] 它们非常危险，是的。光是处理成本就相当可观。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "I mean, I do think like saving safety is over-corrected on the NTO/MMH. It went from like, nobody had any protection and breathe the fumes all day to it's cyanide. And neither of those are true, it's not cyanide. You won't die. Bill Gerstenmaier told me like this story of like, when he started at NASA, they actually, I think passed around like a cup of like hydrazine so that everyone knew what hydrazine smell.",
+      "textZh": "我的意思是，我确实觉得，比如在 NTO/MMH 上，挽救安全被矫枉过正了。它从比如没人采取任何防护、整天吸入烟雾，变成了它就是氰化物。而这两种说法都不是真的，它不是氰化物。你不会死。Bill Gerstenmaier 给我讲过这样一个故事，比如他刚开始在 NASA 工作时，他们实际上，我想，传了一杯类似肼的东西，好让每个人都知道肼闻起来是什么味道。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "[Tim] Nooo.... So like, 'cause it has like a lot more rotten egg smell or something like that. So he literally opened a cup of hydrazine and like, obviously he's still alive. So that's an example of like, don't optimize this thing that shouldn't exist. We should not have NTO/MMH upper stage.",
+      "textZh": "[蒂姆] 不……所以，比如，因为它有更浓的臭鸡蛋气味之类的。所以他真的打开了一杯肼，而且，显然他还活着。所以这是一个例子，比如，不要优化这个本就不该存在的东西。我们不应该有 NTO/MMH 上面级。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Now Dragon does have that, but that's because Dragon's got to do a lot of like nuanced firings of the Draco engines, you know, with very short pulse durations. And trying to have something that's not hypergolic is very difficult and it can be done, like, not hypergolic and not cryogenic. Now you options tend to suck. So, you know, they start going down the peroxide barking up peroxide tree or something like that. Or super esoteric mono props.",
+      "textZh": "现在 Dragon 确实采用了那个，但这是因为 Dragon 必须让 Draco 发动机进行大量精细的点火，你知道，脉冲持续时间非常短。而试图采用某种非自燃推进剂是非常困难的，但也可以做到，比如，既非自燃也非低温。现在你的选项往往都很糟糕。所以，你知道，他们开始沿着过氧化物这棵树找错方向，或者类似的东西。或者采用极其冷门的单组元推进剂。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "And that's like the again back to big money.",
+      "textZh": "而那就像是再次回到大笔资金。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "[Tim] That's step three.",
+      "textZh": "[Tim] 那是第 3 步。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "Yeah, so exactly. Thanks to these quite laborious, sorry for the laborious explanation here, and then finally you get to step four, which is accelerate cycle time. You're moving too slowly, go faster, but don't go faster until you've worked on the other three things first. If you're digging and you're great, don't dig it faster, stop digging your grave. But you can always make me go faster. And then the final step is automate. And now I have personally made the mistake of going backwards on all five steps multiple times. So I have to repeat this.",
+      "textZh": "对，正是这样。多亏了这些相当费力的——抱歉这里解释得这么费劲——然后你终于到了第4步，也就是加快周期时间。你动作太慢了，快一点，但在先处理完其他3件事之前，不要加快。如果你在挖，而且挖得很棒，不要挖得更快，别再给自己挖坟了。不过你随时都可以让我加快速度。然后最后一步是自动化。而我本人现在已经多次犯过把所有5个步骤倒着做的错误。所以我必须重复这一点。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "[Tim] Well on Model 3 Yes, multiple times, but on Model 3. Where literally I automated, accelerated, simplified and then deleted. But like one example I've talked about before, is like the, they were these like fiberglass mats, on top of the bottle three battery pack, they were in between the full pan and the battery.",
+      "textZh": "[蒂姆] 嗯，在 Model 3 上，是的，多次，但在 Model 3 上。我确实是先自动化、加速、简化，然后删除。不过，就像我以前谈过的一个例子，是那个……有一些类似玻璃纤维垫的东西，放在 3号瓶电池包上方，它们夹在整个盘体和电池之间。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "And it was one point Chuck in the battery pack production line and I was like, basically living on the battery factory production line, like probably fixed the line. 'Cause it was like choking the entire Model 3 production program. So the first mistake was we should not have... I like try to fix the automation, like make the robot better, make it like move faster, shorter path, increase the torque, delete the reverse 720 degrees on the bolt.",
+      "textZh": "有一度是电池包生产线上的 Chuck，而我当时基本上就住在电池工厂的生产线上，大概是在修生产线。因为它当时扼住了整个 Model 3 生产项目。所以第1个错误是，我们本来就不该……我当时试图修好自动化，比如让机器人变得更好，让它移动得更快，路径更短，增大扭矩，删掉螺栓上反向旋转720度的动作。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "'Cause that's unnecessary. Just go forward fast on a 20% rate at a 100% rate. And instead of spackeling glue on the entire battery pack, just put little dabs of glue because the fiberglass mask was sandwiched between the battery pack and the floor plan anyway. So all you need is like somebody to hold it in place until put the backpack into the car. So automating was a mistake. Then accelerating was mistake. Then optimizing was a mistake.",
+      "textZh": "因为那没必要。只要以20%的速率快速向前，再以100%的速率。而且不要把胶泥涂满整个电池包，只需点上几小滴胶，因为反正玻璃纤维面罩也是夹在电池包和平面图之间的。所以你只需要有人把它固定在原位，直到把背包放进车里。因此，自动化是个错误。然后加速是个错误。然后优化也是个错误。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "And finally I said, what the hell are these mats for? And I asked the, the battery safety team, 'cause I was like, what are these mats for? I said are they for fire protection or something? They said, \"No, they are for noise and vibration. \"So you don't get that.\" And I said, \"But you're the battery department.\" And I asked a NVA noise vibration analysis team, what's it for, they said fire safety.",
+      "textZh": "最后我说，这些垫子到底是干什么用的？我问了那个，那个电池安全团队，因为我当时就在想，这些垫子是干什么用的？我说，它们是用来防火之类的吗？他们说：“不是，它们是用来降噪减振的。这样你就不会有那个。”我说：“但你们是电池部门。”然后我问了 NVA 噪声振动分析团队这是做什么用的，他们说是为了消防安全。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "So literally it was like being in a Goldberg cartoon. It was like actually, I feel like I'm in a Goldberg cartoon quite frequently. So I'm like, you know, are we in like some simulation where I'm like trapped in some like Kafka esq. / Goldberg cartoon situation, but that's what it feels like a lot. So then finally, okay, great.",
+      "textZh": "所以确实就像身处一部戈德堡漫画。实际上，我觉得自己相当频繁地身处戈德堡漫画中。所以我就在想，你知道，我们是不是处在某种模拟中，而我被困在某种卡夫卡式／戈德堡漫画般的情境里，但很多时候感觉就是这样。那么最后，好吧，很好。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "Let's try a car with the fiberglass mats and without, and they put a microphone in both, and see if you could tell the difference. You can not. In fact, I was like, which one is which? So we just deleted them and just bypass this $2 million robot cell as a complete pile of none sense. Another mistake that has to happen in production is too much in-process testing.",
+      "textZh": "我们来试试一辆装了玻璃纤维垫的车和一辆没装的，他们在两辆车里都放一个麦克风，看看你能不能分辨出差异。你分辨不出来。事实上，我当时就在问，哪一辆是哪一辆？所以我们直接删掉了它们，并直接绕过这个价值200万美元的机器人单元，它完全就是一堆毫无意义的东西。生产中还会出现的另一个错误，是过程内测试太多。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "So when you were first setting up a production line, you don't know where things are breaking. You don't know where things are breaking, so you'll test like working process at various steps and 'cause you wanna isolate where's the mistake occurring? So a very common issue with production lines is to not remove the end process testing after you diagnose where the problems are.",
+      "textZh": "所以，当你最初建立一条生产线时，你不知道东西在哪里坏掉。你不知道东西在哪里坏掉，所以你会在不同步骤测试工作过程，因为你想找出错误发生在哪里。因此，生产线一个非常常见的问题，就是在诊断出问题所在后，没有移除末端过程测试。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "So basically if you have like a very high acceptance, like if things are getting to end of line testing and are passing, then you don't need to do in-process testing. But what used to happened is they'll be like an initial development engineering team that will be like basically debugging the production line, but then they will forget to take out the in-process testing steps.",
+      "textZh": "所以基本上，如果你的验收率非常高，比如东西到了生产线末端测试时都能通过，那么你就不需要做过程内测试。但以前发生的情况是，会有一个初始开发工程团队，基本上负责给生产线排错，但随后他们会忘记移除过程内测试步骤。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "So then what happens is the in-process tester will often choke the cycle time. Choke took the line production time. It'll be like the limiter and also have some number of false positives and false negatives. But they'll be like false positive, like then you're like rejecting good parts.",
+      "textZh": "所以接下来发生的情况是，过程内测试设备往往会拖慢生产节拍。拖慢了生产线的生产时间。它会成为限制因素，而且还会产生一定数量的假阳性和假阴性。但它们会是假阳性，比如随后你就在剔除合格零件。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "So really in volume production, if things are working well, you're really just taking a risk, will this subsystem be rejected in the training production process or at the end. And so you just really wanna move things pretty much, almost always to just test at the end line, and that's it. Maybe there's like one or two in-process steps that are hard to test an end of line, but basically remove almost everything.",
+      "textZh": "所以实际上，在批量生产中，如果一切运行良好，你其实只是在冒一个风险：这个子系统会在培训生产过程中被剔除，还是在末端被剔除。因此，你其实希望几乎总是把这些东西移到只在生产线末端测试，仅此而已。也许会有1或2个过程内步骤很难在生产线末端测试，但基本上要移除几乎所有步骤。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "And there is another thing with battery pack where, this is so crazy. Like one of the things the battery pack has to do is to resist water ingress, so it has to be leak proof. So if you drive through deep water, water doesn't come into the battery pack you're short of battery back. You might have seen some of the videos of like people driving Teslas in like extremely flooded waters, where it's like half underwater.",
+      "textZh": "电池包还有另一件事，这太疯狂了。比如，电池包必须做到的一件事就是抵御进水，所以它必须防漏。因此，如果你开车穿过深水，水不会进入电池包，你就不会让电池背部短路。你可能看过一些视频，比如人们开着 Tesla 穿过积水极其严重的水域，车子就像有一半在水下。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "Yeah, like there was literally a guy, I believe in Kazakhstan literally drove a model S through a submerged water tunnel. All the other cars were out and he basically steered the car with the wheels and use the wheel rotation, like a boat and drove out the tunnel. So it's important to have the battery pack resists water ingress.",
+      "textZh": "对，比如确实有一个人，我相信是在哈萨克斯坦，确实开着一辆 Model S 穿过一条被水淹没的隧道。其他所有车都出去了，而他基本上用车轮操纵汽车，并利用车轮的转动，像船一样驶出了隧道。所以，让电池包抵御进水很重要。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "But then instead of us doing a pressure test on the battery pack, we were actually pressurizing the inside of the battery pack which was the wrong direction. And the battery pack lid was glued. But, you know, we basically had resin that was not cured. And so we were just blurting out the resin, which doesn't a dumb sense. 'Cause you should actually be drawing your vacuum on the front of pack and not pressurizing it.",
+      "textZh": "但后来，我们没有对电池包进行压力测试，实际上却在给电池包内部加压，而方向是错的。电池包盖是粘上去的。但你知道，我们基本上使用的是尚未固化的树脂。所以我们只是把树脂喷了出去，这根本说不通。因为你实际上应该在电池包前部抽真空，而不是给它加压。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "And especially not pressurizing it when there's uncured resin is what's holding down the battery pack. So the pack was failing quite often on the pressurization tests, which should have been a vacuum test.",
+      "textZh": "尤其是在固定电池包的是未固化树脂时，更不应该给它加压。所以电池包在加压测试中经常失败，而那本该是真空测试。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "[Tim] Oh, speaking of grid fins.",
+      "textZh": "[蒂姆] 哦，说到栅格翼。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "Yeah, great.",
+      "textZh": "对，太棒了。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "[Tim] Look at that. Man, that thing is huge.",
+      "textZh": "[蒂姆] 看那个。天啊，那东西太大了。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "Yeah, that's right so it's like a- - [Tim] Dinosaur bear trap?",
+      "textZh": "对，没错，所以它就像一个——[蒂姆] 恐龙捕熊夹？"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "Dinosaur bear trap.",
+      "textZh": "恐龙捕熊夹。"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "[Tim] Oh, wait, that'd just a dinosaur trap wouldn't it?",
+      "textZh": "[蒂姆] 哦，等等，那不就是个恐龙陷阱吗？"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "This is a dinosaur trap.",
+      "textZh": "这是个恐龙陷阱。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "[Tim] That's insane, honestly.",
+      "textZh": "[蒂姆] 说真的，这太疯狂了。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "This thing could catch a T-Rex. (laughs) - [Tim] Oh my gosh, that's crazy. And of course it's got the serrated teeth, which helping the transonic regimes, right?",
+      "textZh": "这东西能抓住一只霸王龙。（笑）——[蒂姆] 我的天，这太疯狂了。当然，它还有锯齿状的齿，这有助于跨声速状态，对吧？"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "Yeah.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0115",
+      "textEn": "[Tim] Is there any other reason for the teeth other than that?",
+      "textZh": "[蒂姆] 除此之外，这些齿还有其他作用吗？"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "No it's just, well, it actually helps in transonic and subsonic, but the effectiveness is better if you've got a pointy , if it's more pointy basically. There is a lot of pointy-ness, Sorry, hey Marvin. So he just gets crushed under a...",
+      "textZh": "没有，只是，嗯，它实际上在跨声速和亚声速时都有帮助，但如果有一个尖尖的，如果它基本上更尖，效果会更好。这里有很多尖锐的东西，抱歉，嘿，马文。所以他就被压在一个……下面了。"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "[Tim] Wow, so how heavy are these guys?",
+      "textZh": "[蒂姆] 哇，那这些家伙有多重？"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "These are, I like... actually I don't know the number off hand, but probably at least three tonnes, I'm guessing. When I say it's like a moving target, this is not the, like I wouldn't take this to the bank. Like it's not, you know... There's quite a lot of mass we can get out of this.",
+      "textZh": "这些，我想……其实我现在不知道具体数字，但我猜至少有3吨。当我说它像个不断变化的目标时，这不是，我不会拿这个打包票。就是说，它不是，你知道……我们可以从这里面减掉相当多的质量。"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "[Tim] It's just good enough for now. Like that's- - Yeah, it's good enough now. But like, you know, we're basically just needs to be like enough control authority to get this through the atmosphere and positioned well enough so that when the engines light, the engine can correct whatever error is left after that we couldn't take out what the grid fins.",
+      "textZh": "[Tim] 只是目前够用。就像那——对，现在够用了。但就像，你知道，我们基本上只需要足够的控制能力，让它穿过大气层并充分调整好位置，这样当发动机点火时，发动机就能修正格栅翼无法消除的任何剩余误差。"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "[Tim] Man, that is crazy. Those are huge. It looks like the motor will mount to the lever arm there, is that just...",
+      "textZh": "[Tim] 天啊，这太疯狂了。那些东西太大了。看起来电机会安装在那里的杠杆臂上，那只是……"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "So this is, yeah... This will react to onto the dome, basically a fuel dome. So there's like kind of like a C channel around the fuel dome at the top. And there's a motor that's gonna rotate this with a gearbox and that's basically the load will agree reacted between the circular feature that you see there. And the sort of, I shouldn't say C channel, sort of a L channel on the dome. So it's just a simple sort of ring on the dome.",
+      "textZh": "所以这个是，对……这个基本上会把反作用力传到穹顶上，也就是燃料穹顶。所以顶部的燃料穹顶周围有点像一个C形槽。然后会有一台电机通过齿轮箱带动这个旋转，负载基本上会由你在那里看到的圆形结构与穹顶上的那种——我不该说C形槽，算是L形槽——共同承受。所以它就是穹顶上的一个简单圆环。"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "[Tim] And then is that so, what I'm seeing there, where there's the rope is actually a through on the end here, is that the lever arm for the thing? Or is that just...",
+      "textZh": "[Tim] 然后那是，所以，我在那里看到的，绳子所在的位置实际上是穿过这里末端的，那是这个东西的杠杆臂吗？还是只是……"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "Yeah.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "[Tim] ahh I see is slides over, it's like...",
+      "textZh": "[Tim] 啊，我明白了，它会滑过去，就像……"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "Yeah.",
+      "textZh": "对。"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "[Tim] Okay.",
+      "textZh": "[Tim] 好的。"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "That's where the motor will interact, so yeah.",
+      "textZh": "那就是电机会作用的位置，所以，对。"
+    },
+    {
+      "id": "p-0128",
+      "textEn": "[Tim] Wow.",
+      "textZh": "[Tim] 哇。"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "But it's just basically, it's using like Model 3 motors basically.",
+      "textZh": "但它基本上就是，它用的基本上是类似Model 3的电机。"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "[Tim] Yeah, which is so cool.",
+      "textZh": "[Tim] 对，这太酷了。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "Yeah, might as well use it.",
+      "textZh": "对，不妨用它。"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "[Tim] So you mentioned, you know, really trying to simplify it. There's been talks that they're not... Did you say it on Twitter that you're gonna eliminate the cold gas thrusters or hot gas thrusters on the B4, for the first orbital test?",
+      "textZh": "[蒂姆] 所以你提到过，你知道，确实在努力简化它。一直有说法称他们不会……你是不是在 Twitter 上说过，在首次轨道测试中，你们会取消 B4 上的冷气推进器或热气推进器？"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "Yeah, well we can move to like maybe a quieter location. I'm pretty sure we can cut the weight of that in half, like that's, you know, we're not even really trying to optimize the gauge. That's just basically plate. That's just like cut plates welded together. First just got to like making that thing work and then we'll optimize it.",
+      "textZh": "是的，好吧，我们可以换到一个也许更安静的地方。我很确定我们能把那个的重量减半，就像，你知道，我们甚至还没有真正尝试优化板材厚度。那基本上就是板材。那就只是切割后焊接在一起的板材。首先只需要让那东西能运作，然后我们会优化它。"
+    },
+    {
+      "id": "p-0134",
+      "textEn": "[Tim] Yeah, of course. Which again is some of the Soviet union was so good. It was like minimum viable product basically, get it good enough to fly and test it. And obviously you guys did that with Starship, big time with 8, 9, 10, 11, 15 was like, let's just get it out there, see what works, see what doesn't and iterate, you know?",
+      "textZh": "[Tim] 是的，当然。这也正是苏联有些方面非常擅长的地方。基本上就像最小可行产品，让它好到足以飞行并进行测试。显然你们在星舰上也是这么做的，特别是8、9、10、11、15，就像，让我们先把它弄出去，看看什么有效、什么无效，然后迭代，你知道吗？"
+    },
+    {
+      "id": "p-0135",
+      "textEn": "Yeah, and if you look at like the various reasons, like why we blew up Starship is like, and you looked at the risk list, none of the reasons that blew up are on the risk list.",
+      "textZh": "是的，如果你看看各种原因，比如我们为什么把星舰炸掉了，再看看风险清单，导致爆炸的原因没有一个在风险清单上。"
+    },
+    {
+      "id": "p-0136",
+      "textEn": "[Tim] Really?",
+      "textZh": "[蒂姆] 真的吗？"
+    },
+    {
+      "id": "p-0137",
+      "textEn": "Yeah, it was like, no, maybe you can argue like, one of them maybe was on somebody's risk list, but it wasn't brought up beforehand, if you can put it that way. I mean, there's a crazy amount of new technology happening here and it's all evolving simultaneously, we need to iron out like the unknowns sort of thing. Yeah, the unknown are the big ones.",
+      "textZh": "是的，就像，不，也许你可以说，其中一个可能在某个人的风险清单上，但之前没人提出来过，如果可以这么说的话。我的意思是，这里正在出现数量惊人的新技术，而且它们全都在同时演进，我们需要解决那种未知因素之类的问题。是的，未知因素才是大问题。"
+    },
+    {
+      "id": "p-0138",
+      "textEn": "[Tim] Is that the new flaps for 20 down there?",
+      "textZh": "[Tim] 那边的是20的新襟翼吗？"
+    },
+    {
+      "id": "p-0139",
+      "textEn": "Yeah.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0140",
+      "textEn": "[Tim] So remind me the numbering scheme. 'Cause you were talking about version two Raptor, the other day, what we've seen so far, and are those original version two yet, like the green nozzles, those aren't version two yet, right? Have you started making version two?",
+      "textZh": "[Tim] 所以再提醒我一下编号方案。因为前几天你谈到了第2版 Raptor，我们目前看到的那些，那些已经是最初的第2版了吗，比如绿色喷管，那些还不是第2版，对吧？你们已经开始制造第2版了吗？"
+    },
+    {
+      "id": "p-0141",
+      "textEn": "We've made parts of version two. So we've made the thrust chamber assembly. And we have, I think pretty much finished the design of the pumps, we're gonna make the pumps. So hopefully we'll have either Raptor 2 in about a month we might be testing the first one.",
+      "textZh": "我们已经制造了第2版的一些部件。所以我们已经制造了推力室总成。而且我想，我们差不多已经完成了泵的设计，我们将制造这些泵。所以希望我们会在大约1个月内拥有 Raptor 2，我们可能会测试第1台。"
+    },
+    {
+      "id": "p-0142",
+      "textEn": "[Tim] Okay, and will that be, you said it you're going to be kind of producing stuff or the prototypes are kind of gonna be always in Hawthorne that eventually gonna be moving mass production to McGregor.",
+      "textZh": "[Tim] 好的，那会是，你说过你们将会进行某种生产，或者原型机将会一直放在 Hawthorne，最终会把大规模生产转移到 McGregor。"
+    },
+    {
+      "id": "p-0143",
+      "textEn": "Yeah, we're doing volume production of Raptor and McGregor. We will keep California factory operating basically for development engines and the Raptor vacuum version.",
+      "textZh": "是的，我们正在批量生产 Raptor 和 McGregor。我们基本上会让加州工厂继续运营，用于开发发动机和 Raptor 真空版。"
+    },
+    {
+      "id": "p-0144",
+      "textEn": "[Tim] So if you're reaching 230 tonne on version two, what's that gonna be at, like 330 bar?",
+      "textZh": "[Tim] 所以，如果第2版能达到230吨，那会是在多少压力下，比如330巴？"
+    },
+    {
+      "id": "p-0145",
+      "textEn": "But technically, I think 298, but I think we should come on, we've got like get two more bar out of that thing.",
+      "textZh": "但从技术上说，我想是298，但我想我们应该，得了吧，我们得让那东西再多出2巴。"
+    },
+    {
+      "id": "p-0146",
+      "textEn": "[Tim] Wait, wait, so even only 300, big air quotes on 300, you're getting to 230 already?",
+      "textZh": "[Tim] 等等，等等，所以即使只有300，给300加上大大的引号，你们就已经达到230了？"
+    },
+    {
+      "id": "p-0147",
+      "textEn": "Yeah, but then we're opening the throats and reducing the area ratio. The extra thrust is like, there's a slight, I think we lose two or three seconds of ISP, but we gain a lot more in thrust. And the increase in thrust outweighs the slight drop in ISP.",
+      "textZh": "是的，但之后我们会扩大喉部并降低面积比。额外推力就像，会有轻微的，我想我们的比冲会损失2或3秒，但我们会获得大得多的推力。推力的增加超过了比冲的小幅下降。"
+    },
+    {
+      "id": "p-0148",
+      "textEn": "[Tim] Yeah, especially on the first stage. yeah.",
+      "textZh": "[Tim] 是的，尤其是在第1级上。是的。"
+    },
+    {
+      "id": "p-0149",
+      "textEn": "I mean basically any thrust to weight below one is worthless.",
+      "textZh": "我的意思是，基本上任何低于1的推重比都毫无价值。"
+    },
+    {
+      "id": "p-0150",
+      "textEn": "[Tim] It's worthless, yeah. So if we go from .4 to .5, it's a massive leap compared to even... Yeah, yeah.",
+      "textZh": "[Tim] 毫无价值，是的。所以如果我们从.4提高到.5，与甚至……相比，这是一次巨大的飞跃。是的，是的。"
+    },
+    {
+      "id": "p-0151",
+      "textEn": "[Tim] Okay, so that makes total sense. So the Rap Vac currently what that for thrust? Is it still around that same number about 200 tons?",
+      "textZh": "[Tim] 好的，所以这完全说得通。那么目前的 Rap Vac，它的推力是多少？仍然在差不多相同的数字，大约200吨吗？"
+    },
+    {
+      "id": "p-0152",
+      "textEn": "The Raptor vacuum, or RVac as we put it We will actually be the 230 ton gross number is the thrust at sea level of the sea level version of version two of the... It's essentially it's like helpful to certainly like quibble about like, why are you talking about thrust in tonnes? That's not technically a scientific thing. It's because you can do the math in your head really easily if you have a rocket in tonnes and thrust in tonnes.",
+      "textZh": "Raptor 真空版，或者像我们写的 RVac，我们实际上会是，230吨这个总数是第2版的……海平面版本在海平面上的推力。基本上，这样确实有助于纠结，比如，你为什么用吨来谈论推力？严格来说，那不是科学的说法。因为如果火箭重量用吨、推力也用吨，你就可以很容易地进行心算。"
+    },
+    {
+      "id": "p-0153",
+      "textEn": "[Tim] Right, of course, - That's why, and Newton has got like divide by 10 all the time. Which is like annoying. And then you only get kilograms now you've got to like divide by 10,000 to get tons. Which is ridiculous. Okay, so you're like, this is absurd. Only a fool would use Newtons in my opinion, if you're designing a rocket. And especially big rockets, 'cause you just like have a zillion Newtons. But if you measure things in tons and you measure thrust in tons, now you know thrust weight very easily.",
+      "textZh": "[Tim] 对，当然，——所以才会这样，而且牛顿还总是得除以10之类的。这就很烦人。然后你现在只得到千克，还得除以10,000才能得到吨。这太荒谬了。好吧，所以你就会觉得，这太荒唐了。在我看来，如果你在设计火箭，只有傻瓜才会用牛顿。尤其是大型火箭，因为你动不动就会有无数个牛顿。但如果你用吨来衡量东西，也用吨来衡量推力，那现在你就能非常轻松地知道推重比了。"
+    },
+    {
+      "id": "p-0154",
+      "textEn": "[Tim] Is that like the only Imperial thing you measure then?",
+      "textZh": "[Tim] 那是你们测量时唯一使用的英制单位吗？"
+    },
+    {
+      "id": "p-0155",
+      "textEn": "No, these are still metric tonnes.",
+      "textZh": "不，这些仍然是公吨。"
+    },
+    {
+      "id": "p-0156",
+      "textEn": "[Tim] Okay, that makes sense. I was getting nervous for a second.",
+      "textZh": "[Tim] 好吧，这就说得通了。我刚才有那么一会儿都紧张了。"
+    },
+    {
+      "id": "p-0157",
+      "textEn": "The pressure is in bar, 'cause everybody kinda knows like what's one atmosphere. So but Pascal's another trash unit. I hate Pascals. That's why it's so tiny, it's absurd.",
+      "textZh": "压力用巴表示，因为大家大致都知道1个大气压是什么概念。所以，但帕斯卡又是一个垃圾单位。我讨厌帕斯卡。正因为它太小了，简直荒谬。"
+    },
+    {
+      "id": "p-0158",
+      "textEn": "[Tim] We did have a whole segment of units that Elon hates and it's just (laughs).",
+      "textZh": "[Tim] 我们确实有过一整段讲埃隆讨厌的单位，然后那简直就是（笑）。"
+    },
+    {
+      "id": "p-0159",
+      "textEn": "It's like units that make understanding things more harder instead of easier. But everyone understands like a bar or an atmosphere essentially. And everyone like crew can get their mind around a tonne. Like you have an intuitive sense for a ton. Like your car is like two tons.",
+      "textZh": "就是那些让理解事物变得更困难、而不是更容易的单位。但基本上所有人都能理解1巴或1个大气压。每个人，比如团队成员，都能理解1吨是什么概念。你对1吨有一种直观的感觉。比如你的车大约有2吨。"
+    },
+    {
+      "id": "p-0160",
+      "textEn": "[Tim] You have some grasp, you have some context.",
+      "textZh": "[Tim] 你多少有些概念，有些参照。"
+    },
+    {
+      "id": "p-0161",
+      "textEn": "Yeah, if you got hit by a tonne, you'd know what that meant. If you got hit by a Pascal, that's like, I dunno a mouse fart. (laughs) That's like one Pascal. There's another important principle, which is that, you really want everyone to be chief engineer. So if everyone is chief engineer means that people need to understand the system at a high level to know when they are making a bad optimization.",
+      "textZh": "对，如果你被1吨的东西撞到，你就会知道那意味着什么。如果你被1帕斯卡撞到，那就像，我不知道，老鼠放了个屁。（笑）那大概就是1帕斯卡。还有一项重要原则，那就是，你真的希望每个人都是总工程师。所以，如果每个人都是总工程师，就意味着人们需要从高层面理解整个系统，从而知道自己什么时候做出了糟糕的优化。"
+    },
+    {
+      "id": "p-0162",
+      "textEn": "It's like, like when they are like, because we've done this many times where we've like put immense effort into reducing the engine mass, but hardly any effort into reducing proponent residuals or like order of magnitude, less evidence reducing proponent residuals. And then you land with a literal ton of unused fuel. And actually we still kind of do that with Falcon 9. It has about a tonne of unused fuel upon landing, which is pretty annoying.",
+      "textZh": "就像，就像当他们，就像，因为这种情况我们已经经历过很多次了：我们投入巨大精力来降低发动机质量，却几乎没有投入任何精力来减少提议者残余物，或者说，减少提议者残余物的证据少了一个数量级。然后你着陆时，真的还剩下1吨没用掉的燃料。事实上，我们在猎鹰9号上仍然有点这样。它着陆时大约有1吨没用掉的燃料，这相当烦人。"
+    },
+    {
+      "id": "p-0163",
+      "textEn": "[Tim] Oh, that's still not much in the grand scheme of everything. It's still not much, but that is in context. So it still is quite a bit though.",
+      "textZh": "[Tim] 哦，从整体来看，那仍然不算多。仍然不算多，但那要结合具体情况来看。不过这仍然是相当多的。"
+    },
+    {
+      "id": "p-0164",
+      "textEn": "Yeah, but like we spend so much effort getting a ton out of engines, like, you know, that sort of whatever, like 130 kilograms per engine, like that's, yeah So that's like 120 ish.",
+      "textZh": "对，但我们花了那么多精力从发动机上减掉1吨，比如，你知道，大概就是那种，每台发动机130千克之类的，比如那就是，对，所以大概是120。"
+    },
+    {
+      "id": "p-0165",
+      "textEn": "[Tim] Wow, look, the sunsets out here are pretty hard to beat. That's insane. God, that's amazing. So congrats on the HLS solidify a little more today.",
+      "textZh": "[Tim] 哇，看，这里的日落真的很难被超越。太不可思议了。天啊，太美了。那么，恭喜HLS今天又落实了一些。"
+    },
+    {
+      "id": "p-0166",
+      "textEn": "That was cool. The GAO was a staunch defender of good contracting.",
+      "textZh": "那很酷。GAO坚定地捍卫了良好的合同订立。"
+    },
+    {
+      "id": "p-0167",
+      "textEn": "Can we head over and check out the mock-up there? Because there's still a lot that we don't know about HLS publicly, at least. I assume that, you know, a decent amout more.",
+      "textZh": "我们能过去看看那边的模型吗？因为至少就公开信息而言，我们对 HLS 仍有很多不了解的地方。我猜，你知道，还有相当多。"
+    },
+    {
+      "id": "p-0168",
+      "textEn": "I don't know if I do, but...",
+      "textZh": "我不知道我是否了解，不过……"
+    },
+    {
+      "id": "p-0169",
+      "textEn": "Well, first off, I guess the most obvious one that I'm excited is those thrusters.",
+      "textZh": "嗯，首先，我想最明显、最让我兴奋的就是那些推进器。"
+    },
+    {
+      "id": "p-0170",
+      "textEn": "So the thrusters are a good example of running that algorithm I just mentioned, laboriously mentioned, which is, a question to the requirements, making requirements based on deleted part. When we're looking at, what does the booster actually need to do with stage separation? If you put rotation into the stack like before you turn off the main engines. So they both rotating. They're gonna rotate and just- - [Tim] Wait, sorry. Like pitching and yawing or rolling?",
+      "textZh": "所以这些推进器是运行我刚才提到的那个算法的一个很好例子，我费劲提到的那个，也就是，质疑需求，根据被删除的部件制定需求。当我们考虑，助推器在级间分离时实际上需要做什么？如果你在关闭主发动机之前就让整个箭体开始旋转。那么它们两个都在旋转。它们会旋转，然后就—— — [Tim] 等等，抱歉。是像俯仰和偏航，还是滚转？"
+    },
+    {
+      "id": "p-0171",
+      "textEn": "So like you got the integrated stack. We do this with...",
+      "textZh": "所以，你看，这就是集成后的整个组合体。我们会用……来做这个"
+    },
+    {
+      "id": "p-0172",
+      "textEn": "[Tim] with Starlink!",
+      "textZh": "[蒂姆] 用星链！"
+    },
+    {
+      "id": "p-0173",
+      "textEn": "with Starlink. So we rotate the stage and- - [Tim] And kind of fling it out.",
+      "textZh": "用星链。所以我们会旋转这个级，然后—— [蒂姆] 然后算是把它甩出去。"
+    },
+    {
+      "id": "p-0174",
+      "textEn": "Yes, but they basically have different amounts of an inertia, essentially rotational maybe to linear inertia. They basically move at different rates. So if you rotate the thing, depending on where you are, you will move at a different speed. And so it automatically separates if you rotate and then separate. So there's no actual separation mechanism for the Starlink satellites and they technically can bump into each other and occasionally do, but if they bump into each other, for like one mile an hour, doesn't matter. So there's bounce off.",
+      "textZh": "是的，但它们基本上具有不同大小的惯性，本质上可能是转动惯性相对于线性惯性。它们基本上以不同的速率移动。所以如果你旋转这个东西，根据你所处的位置，你会以不同的速度移动。因此，如果你先旋转再分离，它就会自动分开。所以星链卫星没有实际的分离机制，而且严格来说它们可能会相互碰撞，偶尔也确实会，但如果它们以大约每小时1英里的速度相撞，那无所谓。所以就是弹开。"
+    },
+    {
+      "id": "p-0175",
+      "textEn": "[Tim] It's already made it through the pretty harsh environments of launch.",
+      "textZh": "[蒂姆] 它已经挺过了发射时相当严酷的环境。"
+    },
+    {
+      "id": "p-0176",
+      "textEn": "Yeah, it's fine. But like, I'm pretty sure this is like, this might be the only ride, we were like literally tussling 60 satellites off with like a hay, bundle of hay, like dry, you know? Dumping the rods that hold them down. Like a hay bale and just flinging them. And it's fine, then they just separate, split up and go to their position.",
+      "textZh": "是的，没问题。但比如，我很确定这就像，这可能是唯一一次搭载，我们简直就像在甩下一捆干草那样，把60颗卫星甩出去，就像一捆干草，干的，你知道吗？把压住它们的杆子扔掉。就像把一捆干草直接甩出去。没问题，然后它们就会分离、散开并前往各自的位置。"
+    },
+    {
+      "id": "p-0177",
+      "textEn": "So we've got to stage step, instead of asking the attitude control thrusters, the reaction control thrusters to do the booster rotation, which has a lot of force. You have the main engines initiate rotation. Now this is quite complex space ballet. 'Cause everything has got to happen in just the right way. But you basically initiate the rotation of the stack, kind of stop the main engines. Then the two will actually separate by themselves.",
+      "textZh": "所以我们必须进行分级步骤，不再要求姿态控制推进器、反作用控制推进器来完成助推器的旋转，因为这需要很大的力。你让主发动机开始旋转。现在，这是相当复杂的太空芭蕾。因为所有事情都必须以恰到好处的方式发生。但基本上，你先让整个组合体开始旋转，然后算是关停主发动机。接着两者实际上会自行分离。"
+    },
+    {
+      "id": "p-0178",
+      "textEn": "And you need like a little bit, we have like cold gas ACS, or reaction control system. It's like, depending on who you ask, it's a reaction control system, or an attitude control system. So it's basically like small maneuvering thrusters So you fire those on the ship that gives you a little bit of maneuvering.",
+      "textZh": "而且你需要一点点，我们有冷气体 ACS，也就是反作用控制系统。这个嘛，取决于你问谁，它可以叫反作用控制系统，也可以叫姿态控制系统。所以它基本上就是小型机动推进器。你在飞船上启动它们，就能获得一点机动能力。"
+    },
+    {
+      "id": "p-0179",
+      "textEn": "And then on the booster, we actually have quite a lot of ullage gas, like basically you've got a lot of hot gaseous oxygen and hot methane, which actually have, you know, if you've got a big enough area, it's got decent thrust and vacuum.",
+      "textZh": "然后在助推器上，我们实际上有相当多的气枕气体，基本上就是有大量高温气态氧和高温甲烷，而这些实际上，你知道，如果作用面积足够大，在真空中就能产生可观的推力。"
+    },
+    {
+      "id": "p-0180",
+      "textEn": "[Tim] The actual- - The vents. But literally you use to vent to vent the stage.",
+      "textZh": "[蒂姆] 实际的——那些排气口。但实际上你就是用它们来排气，给级段排气。"
+    },
+    {
+      "id": "p-0181",
+      "textEn": "[Tim] Yeah, so not in a separate bottle, but literally like the ullage of the main tanks.",
+      "textZh": "[蒂姆] 对，所以不是装在单独的气瓶里，而实际上就是主贮箱的气枕空间。"
+    },
+    {
+      "id": "p-0182",
+      "textEn": "Yes.",
+      "textZh": "是的。"
+    },
+    {
+      "id": "p-0183",
+      "textEn": "[Tim] Okay.",
+      "textZh": "[蒂姆] 好。"
+    },
+    {
+      "id": "p-0184",
+      "textEn": "So just use the ullage as your thrusters and just control the orientation of the venting. So it is not just venting out sideways, but it is venting in a direction that will just work. Which can be sideways sometimes. Anyway, we've got like basically a lot of gas in this thing, which would have to actually just vent to vacuum anyway. 'Cause it's got too much gas. And that's just extra mass that you don't need.",
+      "textZh": "所以就是利用气枕气体来提供推力，并控制排气的方向。因此它不只是向侧面排出，而是朝一个正好能起作用的方向排出。有时也可能是侧向的。总之，这里面基本上有大量气体，而这些气体无论如何实际上都得直接排入真空。因为气体太多了。而且那只是你不需要的额外质量。"
+    },
+    {
+      "id": "p-0185",
+      "textEn": "So if you've got basically enough control authority because of the kicking the whole stack over before main engine cut off, plus using the ullage gas to vent, you don't need a separate hot gas thruster system. You don't even need a cold gas thruster system. You already have hot gas. Question the requirements, delete the part.",
+      "textZh": "所以，如果通过在主发动机关机前把整个箭体组合踢转过去，再加上利用贮箱余隙气体排放，基本上能获得足够的控制能力，你就不需要单独的热气推进器系统。你甚至不需要冷气推进器系统。你已经有热气了。质疑需求，删除部件。"
+    },
+    {
+      "id": "p-0186",
+      "textEn": "[Tim] But this is only for the booster, right?",
+      "textZh": "[蒂姆] 但这只适用于助推器，对吧？"
+    },
+    {
+      "id": "p-0187",
+      "textEn": "Yes. Although arguably, now you mentioned it, it might be wise to do this for the ship too.",
+      "textZh": "对。不过可以说，既然你现在提到了，飞船或许也应该这么做。"
+    },
+    {
+      "id": "p-0188",
+      "textEn": "[Tim] You'd think that- - At least mostly well- - [Tim] Because the tanks are what, six or eight bar or something? The main tanks?",
+      "textZh": "[蒂姆] 你会觉得——至少大部分情况下，嗯——[蒂姆] 因为贮箱是多大压力来着，6巴或8巴之类的？主贮箱？"
+    },
+    {
+      "id": "p-0189",
+      "textEn": "Yeah, there'll be like six-ish bar.",
+      "textZh": "对，大概会是6巴左右。"
+    },
+    {
+      "id": "p-0190",
+      "textEn": "[Tim] And so one of those would be pretty low pressure, low ISP gas thrusters. If you're only doing the gas from there, or is there some trick you can do to...",
+      "textZh": "[蒂姆] 所以其中一个会是压力相当低、比冲较低的气体推进器。如果你只使用来自那里的气体，还是说你们有什么办法可以……"
+    },
+    {
+      "id": "p-0191",
+      "textEn": "In vacuum, like it's this different in atmosphere. Like six bar in vacuum is actually decent. It's like common to have thrusters in space, thrusters that are, let's say eight bar, like the Draco thrusters for that maneuver dragon are operating around chamber pressure of around eight or nine bar.",
+      "textZh": "在真空中，这跟在大气中不一样。真空中的6巴其实相当不错。太空中的推进器通常会是，比如说8巴，像用于“龙”飞船机动的德拉科推进器，其工作燃烧室压力大约为8或9巴。"
+    },
+    {
+      "id": "p-0192",
+      "textEn": "[Tim] What?",
+      "textZh": "[蒂姆] 什么？"
+    },
+    {
+      "id": "p-0193",
+      "textEn": "Yeah. Like dragon is still in PSI. So it's like 120, 130 PSI. Technically it's a pressure pulse, but you know, so 120 PSI is like roughly eight bar ish, maybe eight and a half bar. So it's not that far from the tank pressure.",
+      "textZh": "对。就像“龙”飞船仍然用PSI。所以大概是120、130 PSI。严格来说它是一个压力脉冲，不过你知道，120 PSI大致是8巴左右，也许是8.5巴。所以它离储箱压力并没有那么远。"
+    },
+    {
+      "id": "p-0194",
+      "textEn": "[Tim] Right. So you don't even need to store the gas in an even higher, like in a bottle that's like 200 bar or something. You don't even need to do that to operate RCS.",
+      "textZh": "[蒂姆] 对。所以你甚至不需要把气体储存在压力更高的地方，比如一个压力为200巴之类的气瓶里。你甚至不需要那样做就能操作RCS。"
+    },
+    {
+      "id": "p-0195",
+      "textEn": "No, if you've got a hot gas, first of all it's like, we really want the ullage gas to be as hot as possible up to the point where it is impacting the strength of a hull. Like we don't wanna soften the metal so much that it pops basically. So the hotter the gas is the higher the ISP. So having hot gas is good and it's already there and you already have the pressure vessel and you're gonna choke it away anyway.",
+      "textZh": "不，如果你有热气体，首先，就像是，我们确实希望气枕气体尽可能热，直到它开始影响壳体强度的程度。就像我们不想让金属软化到基本上会爆开的程度。所以气体越热，比冲就越高。因此有热气体是好事，而且它已经在那里了，你也已经有了压力容器，反正你都要把它节流排掉。"
+    },
+    {
+      "id": "p-0196",
+      "textEn": "So obviously you just use for attitude to control. So like, obviously... Initially you can't do this with the ship because everything's cryo, but once the ship is mostly empty and you drive to orbit, it also is in the same situation with a lot of hot gas. So actually we should really be the vast majority of our maneuverings should be with the hot gas that's in the ship. Thanks, now we are gonna fix that.",
+      "textZh": "所以显然你就用它来控制姿态。所以，就像，显然……一开始你不能在飞船上这么做，因为所有东西都是低温的，但一旦飞船大部分已经空了，而且你驶入轨道，它也会处于同样的情况，里面有大量热气体。所以实际上，我们绝大多数的机动确实都应该使用飞船里的热气体。谢谢，现在我们要去解决这个问题了。"
+    },
+    {
+      "id": "p-0197",
+      "textEn": "[Tim] So the thrusters on HLS that are gonna be around the ring, the renders showed like 24 or something of like- - Those are different. That's for landing on the moon.",
+      "textZh": "[蒂姆] 所以HLS上那些将围绕圆环布置的推进器，渲染图里显示大概有24个之类的——那些不一样。那是用于在月球着陆的。"
+    },
+    {
+      "id": "p-0198",
+      "textEn": "[Tim] Okay, yeah, yeah. Are those pressure fed? Like, what are those? Do you have a name for them yet or anything?",
+      "textZh": "[蒂姆] 好的，对，对。那些是挤压供给的吗？就像，那些是什么？你们已经给它们取名字了吗，或者怎么样？"
+    },
+    {
+      "id": "p-0199",
+      "textEn": "Let's just say like, this is the tentative design right now. But with the agreement with NASA, I think we may see that design evolve and it may be better actually. Like a big question here is like, can you land on the moon with the main engines or do you need a separate thruster system that's way up there. Like basically, if you land with the main engine, you're gonna dig a big ditch in the moon and then fall over.",
+      "textZh": "这么说吧，这目前是暂定设计。但随着与NASA达成协议，我认为我们可能会看到那个设计发生演变，而且实际上可能会变得更好。这里一个大问题是，你能不能用主发动机在月球着陆，还是需要一个位于很高处的独立推进器系统。基本上，如果你用主发动机着陆，你会在月球上挖出一条大沟，然后翻倒。"
+    },
+    {
+      "id": "p-0200",
+      "textEn": "'Cause you landed in a ditch that you dug. It's like literally dig your own grave. That would be obviously bad. So we don't wanna dig our own grave and then fall in it.",
+      "textZh": "因为你降落在自己挖的沟里。这简直就像是在自掘坟墓。那显然会很糟糕。所以我们不想自掘坟墓，然后掉进去。"
+    },
+    {
+      "id": "p-0201",
+      "textEn": "But more analysis is like, I think we could probably land with the main engine and not dig a grave and die it, but we would have to prove that, you know, get something that's like, I don't know, the consistency of like lunar regolith and like something that's like a good- - [Tim] A good analog.",
+      "textZh": "但进一步分析的话，就像，我觉得我们很可能可以用主发动机着陆，而不会挖出一个坟墓并死在里面，但我们必须证明这一点，你知道，找一些，就像，我不知道，质地类似月球表土的东西，再找某种不错的——[蒂姆] 一个不错的模拟物。"
+    },
+    {
+      "id": "p-0202",
+      "textEn": "Analog of that, and then like land the ship in that and see how big is the hole that we're digging. If you've got low pressure engines that have high up naturally, you're not gonna dig a hole basically. So that's kind of like the sure thing. But I think if we can prove that the main engines do not dig a giant hole, then we can land with the main engines and then not have- - [Tim] Any of those, the ring. What about the, are you gonna have any sea level Raptors on the lunar variant or we only have vacuum optimized?",
+      "textZh": "它的模拟物，然后让飞船在上面着陆，看看我们挖出的洞有多大。如果你有位于高处的低压发动机，自然基本上就不会挖出洞。所以那算是比较稳妥的方案。但我认为，如果我们能证明主发动机不会挖出一个巨大的洞，那我们就可以用主发动机着陆，然后就不必有——[蒂姆] 那些中的任何一个，那个圆环。那关于，你们会在月球型号上配置任何海平面版猛禽发动机吗，还是只配置真空优化版？"
+    },
+    {
+      "id": "p-0203",
+      "textEn": "[Tim] Because I assume like on a normal star ship, even at stage separation, you'll probably light all six at first, just to minimize gravity loss or something, right? So you'll still fire all six then probably shut down the sea levels and let the back of them optimize, you know, like they probably do what like, half the second stage burn time or something with sea level or if you?",
+      "textZh": "[蒂姆] 因为我猜，像正常的星舰，即使在级间分离时，你大概也会先点燃全部6台，只是为了尽量减少重力损失之类的，对吧？所以你还是会让全部6台工作，然后大概关掉海平面发动机，让它们后面的部分进行优化，你知道，就像它们大概会在第二级燃烧时间的一半左右使用海平面发动机，或者如果你？"
+    },
+    {
+      "id": "p-0204",
+      "textEn": "Well, so the vacuum engines don't gimbal. So you'd have to have some things to provide the control authority. I mean, technically you could say like, well, if you're in a low disturbance situation, like the moon has no atmosphere. Man, this is beeping city.",
+      "textZh": "嗯，所以真空发动机不会万向摆动。因此你必须有一些东西来提供控制能力。我的意思是，严格来说你可以这么说，嗯，如果你处于低扰动环境，比如月球没有大气层。天啊，这里简直是哔哔声之城。"
+    },
+    {
+      "id": "p-0205",
+      "textEn": "[Tim] You wanna move on?",
+      "textZh": "[蒂姆] 你想继续往前走吗？"
+    },
+    {
+      "id": "p-0206",
+      "textEn": "Yeah. If you're not facing like a lot of atmospheric disturbances, then you need much less control authority and you could probably land with three just by differential throttling and three engines. But if you lost any of the engines, you'd be toast. So probably make sense to, I don't know, probably keep the same config, you know?",
+      "textZh": "对。如果你没有面对很多大气扰动，那么你需要的控制能力要小得多，而且你大概可以仅靠3台发动机进行差动节流来着陆。但如果损失了其中任何1台发动机，你就完了。所以可能还是有道理的，我不知道，大概保持相同配置，你知道？"
+    },
+    {
+      "id": "p-0207",
+      "textEn": "Or like you can even just have one in the middle that would offer, you know, a decent amount of gimbal authority and all that.",
+      "textZh": "或者，比如你甚至可以只在中间放1台，那会提供，你知道，相当可观的万向摆动控制能力以及所有那些。"
+    },
+    {
+      "id": "p-0208",
+      "textEn": "It's based on how much optimization we're aiming for here.",
+      "textZh": "这取决于我们在这里追求多大程度的优化。"
+    },
+    {
+      "id": "p-0209",
+      "textEn": "[Tim] 'Cause you're only going to make one of these things, right? Or are you planning on like, is NASA wanting multiple or, oh, my word. So by the way, I think there's a good chance that ITAR and comms might not want all of this. Wait until you see part two is unbelievable. And I promise I'm going to get it to as soon as I can. Thank you Elon, for spending so much time with me and allowing me to ask all of the questions I had. It was amazing.",
+      "textZh": "[Tim] 因为你们只会造这种东西中的1个，对吧？还是说你们计划，比如，NASA 是想要多个，还是，哦，我的天。顺便说一句，我觉得 ITAR 和通信方面很可能不会希望所有这些内容都放出来。等你看到第2部分吧，简直难以置信。我保证会尽快把它带给大家。谢谢你，埃隆，花这么多时间和我交流，还允许我提出我所有的问题。太棒了。"
+    },
+    {
+      "id": "p-0210",
+      "textEn": "And thanks to the teams at SpaceX for allowing me to share this all with you. And thanks to Cosmic Perspective for helping shoot this and just kind of helping out all the time. Find them on YouTube and on Patreon as well. And I owe a huge thank you to my Patreon supporters for helping make this and everything else we do here at Everyday Astronaut possible.",
+      "textZh": "也感谢 SpaceX 的团队允许我与大家分享这一切。还要感谢 Cosmic Perspective 帮忙拍摄，并且一直提供各种帮助。大家可以在 YouTube 上找到他们，也可以在 Patreon 上找到他们。我还要特别感谢我的 Patreon 支持者，是他们的帮助让这期内容以及我们在 Everyday Astronaut 这里所做的其他一切成为可能。"
+    },
+    {
+      "id": "p-0211",
+      "textEn": "If you want access to our discord channel, where we're probably going to be talking about this conversation a lot or live streams or lots of other fun stuff, head on over to patreon. com/everydayastronaut. And while you're online, be sure and check out our awesome web store. You can find shirts like this, the R7 / semyorka / the predecessor to Soyuz new shirt that we have that is awesome. As well as our new Mars hats.",
+      "textZh": "如果你想进入我们的 Discord 频道，我们大概会在那里大量讨论这次对话，或者直播或许多其他有趣的东西，那就前往 patreon. com/everydayastronaut。当你上网时，也一定要看看我们超棒的网店。你可以找到像这件一样的衬衫，R7 / 谢苗尔卡 / 联盟号的前身，这是我们推出的一款超棒的新衬衫。还有我们的新款火星帽。"
+    },
+    {
+      "id": "p-0212",
+      "textEn": "We can also find some classics like the full flow stage combustion cycle shirt and hoodie and the future martian shirts and schematics collection and lots of other fun stuff. So head on over to everydayastronaut. com/shop. Thanks everybody, that's gonna do it for me. I'm Tim Dodd, the Everyday Astronaut, bringing space down to earth, for everyday people. (upbeat music)",
+      "textZh": "我们还可以找到一些经典款，比如全流量分级燃烧循环衬衫和连帽衫、未来火星人衬衫和示意图系列，以及许多其他有趣的东西。所以请前往 everydayastronaut. com/shop。谢谢大家，我这边就到这里。我是 Tim Dodd，Everyday Astronaut，把太空带到地球，带给普通人。（欢快的音乐）"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T02:11:41.748Z",
+    "reviewedAt": "2026-09-13T06:55:15.366Z"
+  },
+  "fetchedAt": "2026-09-12T07:13:50.530Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=t705r8ICkRw",
+  "sourceHash": "e100eab2294221f78c93ae8b32d0786694eb234ee699b3d008813115fd458f64"
+}

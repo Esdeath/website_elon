@@ -1,0 +1,55 @@
+{
+  "id": "big-think-2015-10-02",
+  "slug": "big-think-2015-10-02",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2015-10-02",
+  "titleEn": "Big Think",
+  "titleZh": "Big Think",
+  "summaryEn": "Musk explains how Tesla and SolarCity together accelerate an integrated sustainable-energy solution.",
+  "summaryZh": "马斯克解释了Tesla和SolarCity如何共同加速实现一体化的可持续能源解决方案。",
+  "sourceUrl": "https://www.youtube.com/watch?v=jpcJ3jX-2DA",
+  "sourceLabel": "Big Think",
+  "archiveUrl": "https://elonmuskarchive.org/video/big-think-2015-10-02",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/jpcJ3jX-2DA",
+  "thumbnailUrl": "https://i.ytimg.com/vi/jpcJ3jX-2DA/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 150,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "The reason I put so much time and effort into creating Tesla was because, it's always said to me that the transportation won't go electric and should go electric, but we have an unpriced externality in the negative effects of gasoline and on the environment and also in the wars that we fight and national security and that kind of thing. Whenever you have an unpriced externality you can't quite rely on the market to do the right thing.",
+      "textZh": "我投入如此多时间和精力创建Tesla的原因是，因为，一直有人对我说交通运输不会电动化，而它应该电动化，但汽油对环境的负面影响，以及我们打的战争和国家安全之类的问题，都构成了一个未被计价的外部成本。只要存在未被计价的外部成本，你就不能完全依靠市场去做正确的事。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "So in order to have electric vehicles come sooner than they otherwise would... electric vehicles were always going to be the long-term transportation mechanism, but to make that day come sooner, you have to bridge the gap with innovation. That was the goal with Tesla is to try to serve as a catalyst to accelerate the day, the day of electric vehicles.",
+      "textZh": "所以，为了让电动汽车比原本更早到来……电动汽车一直都会是长期的交通运输机制，但要让那一天更早到来，你就必须通过创新来弥合差距。这就是Tesla的目标，即努力充当催化剂，加速那一天，也就是电动汽车时代的到来。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "And I think when all is said and done, I am hopeful that historians will look back on Tesla and say that Tesla advanced that by at least 10 years, which that would be a huge victory of mine... in my mind. SolarCity, of course, is on the energy production side of things because it doesn't help if we have sustainable consumption of energy, but then that energy isn't produced in a sustainable way.",
+      "textZh": "而且我认为，等一切尘埃落定后，我希望历史学家回顾Tesla时会说，Tesla将这一进程至少推进了10年，那将是我的一场巨大胜利……在我看来。SolarCity当然处于能源生产这一端，因为如果我们的能源消费是可持续的，但能源却不是以可持续方式生产的，那也无济于事。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "I feel quite strongly that solar power will be the single largest source of electricity generation by midpoint of the century. In fact, just a simple extrapolation of the growth of solar power would for sure, that that's obviously going to be the case. And also when you consider that the earth is almost entirely solar powered today and that the fact that we're not a frozen ice ball at say 4 degrees kelvin and it's just due to the sun.",
+      "textZh": "我非常确信，到本世纪中叶，太阳能将成为最大的单一发电来源。事实上，只要对太阳能的增长作一个简单的外推，就肯定会得出，这显然将成为现实。此外，当你考虑到如今地球几乎完全由太阳能驱动，以及我们没有变成一个温度比如说只有4开尔文的冰冻冰球，而这完全是因为太阳。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "And the whole ecosystem is powered by the sun. There's just an itty bitty amount of energy that we need to do complicated human things. It's a tiny amount of energy really compared to what the sun puts on the earth every day. And we just need to capture a little bit of that and turn it into electricity. So we have to try to accelerate that with innovation. And that's what SolarCity is about.",
+      "textZh": "而整个生态系统都由太阳提供能量。我们用来做复杂人类活动所需的能量只有那么一丁点。与太阳每天投射到地球上的能量相比，这点能量确实微不足道。我们只需要捕获其中的一小部分，并将其转化为电力。所以我们必须努力通过创新来加速这一进程。而这正是SolarCity要做的事。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T16:54:00.685Z",
+    "reviewedAt": "2026-09-12T17:29:09.682Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:36.213Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=jpcJ3jX-2DA",
+  "sourceHash": "3c8ede6a005b3ade9c99d44fd9db4bb45d732f0a43ca3bff098a703f78b4fa35"
+}

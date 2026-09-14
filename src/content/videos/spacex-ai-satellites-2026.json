@@ -1,0 +1,1030 @@
+{
+  "id": "spacex-ai-satellites-2026",
+  "slug": "spacex-ai-satellites-2026",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2026-06-08",
+  "titleEn": "SpaceX Technical Talk: AI Satellites at Scale",
+  "titleZh": "SpaceX技术演讲：规模化AI卫星",
+  "summaryEn": "Elon Musk and the SpaceX team give a technical talk on manufacturing, launching and operating AI satellites at scale — the orbital compute backbone of the merged SpaceX AI, from Starship cadence to the AI-1 satellite and gigawatt-class power in space.",
+  "summaryZh": "埃隆·马斯克和SpaceX团队就规模化制造、发射和运营AI卫星进行技术演讲，这些卫星是合并后的SpaceX AI的轨道计算骨干；内容从星舰的发射频率，一直到AI-1卫星和太空中的吉瓦级电力。",
+  "sourceUrl": "https://www.youtube.com/watch?v=yG5Quo6xA74",
+  "sourceLabel": "SpaceX",
+  "archiveUrl": "https://elonmuskarchive.org/video/spacex-ai-satellites-2026",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/yG5Quo6xA74",
+  "thumbnailUrl": "https://i.ytimg.com/vi/yG5Quo6xA74/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 1877,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Moderator",
+      "startSec": 0.16,
+      "textEn": "All right, well hello everybody and welcome. Hanging out. I got Elon and Ian Dahl with our Starlink team, figured we'd check in. It's been a typical Space X year. Launched a brand new vehicle, acquired xai, now Space X. I announced a terror sized chip building project.",
+      "textZh": "好了，大家好，欢迎各位。一起聊聊。我请来了埃隆和我们星链团队的伊恩·达尔，想着我们来了解一下近况。这是典型的 SpaceX 一年。发射了一款全新的飞行器，收购了 xAI，现在是 SpaceX。我宣布了一个恐怖规模的芯片制造项目。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 18.64,
+      "textEn": "And so yeah, never a dull moment.",
+      "textZh": "所以，是啊，从来没有无聊的时候。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Moderator",
+      "startSec": 20.48,
+      "textEn": "Yeah, never a dull moment, typical year. And so let's kind of wanted to connect some of the dots on how this all feeds into making life multi planetary. Starting to climb up the Kardashev scale, maybe show off some cool new AI SAT stuff. It's kind of start galaxy sized and bring people in with the Kardashev scale.",
+      "textZh": "对，从来没有无聊的时候，典型的一年。所以我们算是想把其中一些点串联起来，看看这一切如何共同推动生命遍布多个行星。开始沿着卡尔达肖夫等级向上攀升，也许展示一些很酷的新 AI 卫星设备。算是从星系规模开始，再用卡尔达肖夫等级把大家带入话题。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 40.89,
+      "textEn": "What's the big picture?",
+      "textZh": "整体图景是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Moderator",
+      "startSec": 41.77,
+      "textEn": "What's the big picture? What is the Kardashev scale?",
+      "textZh": "整体图景是什么？什么是卡尔达肖夫等级？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 45.21,
+      "textEn": "Like how do you decide what progress the civilization has made? That's the most objective metric that any alien species say visiting us would calibrate how, how much progress we've made as a civilization. And one of the most objective ways to do that is the amount of power that is any given civilization has been able to harness.",
+      "textZh": "比如，你怎么判断一个文明取得了什么进步？这是任何造访我们的外星物种用来衡量我们作为一个文明取得了多少进步的最客观指标。而最客观的方法之一，就是看任何特定文明能够驾驭的能量有多少。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 76.24,
+      "textEn": "And there was a Russian physicist actually by the name of Kardashev who thought about this and it's good, I think it's a good way to characterize it, which is you can have, you can, you can assess how well a civilization is harnessing the power available on the planet. That's type one. And then type two would be how much of the stars power are you harnessing? And then type 3 would be how much of the galaxy's power are you harnessing?",
+      "textZh": "实际上有一位名叫卡尔达肖夫的俄罗斯物理学家思考过这个问题，而且这很好，我认为这是一个很好的描述方式，也就是说，你可以，你可以，你可以评估一个文明在驾驭行星上可用能量方面做得有多好。这是1型。然后2型是，你正在驾驭恒星能量的多少？然后3型是，你正在驾驭星系能量的多少？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 111.86,
+      "textEn": "These are very objective and measurable numbers. So right now we're very low on the Kardashev 1 scale. Like if you say like what proportion of our planet's power are we harnessing? It's a very, very tiny number.",
+      "textZh": "这些都是非常客观且可测量的数字。所以目前我们在卡尔达肖夫1级上处于非常低的位置。比如，如果你问，我们正在驾驭地球能量的多大比例？那是一个非常、非常小的数字。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 131.46,
+      "textEn": "And basically we're harnessing almost nothing of our, our star's power. So the sun is truly an immense thing. It is. It is difficult with words to characterize just how immense the sun is. But this gives you sort of a sense of scale.",
+      "textZh": "而且基本上，我们几乎没有驾驭我们的，我们的恒星的任何能量。所以太阳确实是一个极其庞大的东西。它是。很难用语言描述太阳究竟有多么庞大。但这能让你大致感受到它的尺度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Moderator",
+      "startSec": 149.87,
+      "textEn": "Yeah, it's, it's, it's a big difficulty jump going from level one to level two.",
+      "textZh": "对，从1级到2级，这是，这是，这是一次难度大幅跃升。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 155.31,
+      "textEn": "Very big difficulty jump. Yes. And level three, and we don't even know how to do level three. Really, we'll get. Yeah, yeah, exactly. AI will figure it out. Yes. One way to appreciate the size of the sun is to think about how heavy is the sun compared to all the rest of the mass in the solar system. So the sun is about 99.86% of all mass in the solar system, it's everything. And then of the remaining 1, you know, 0.14% most of that is Jupiter 1 planet.",
+      "textZh": "难度跃升非常大。是的。还有3级，而我们甚至还不知道怎么达到3级。真的，我们会做到。对，对，完全正确。AI 会弄明白的。是的。体会太阳大小的一种方式，是想想太阳与太阳系中其余所有质量相比有多重。所以太阳约占太阳系全部质量的99.86%，它就是一切。而在剩下的1，你知道，0.14%中，大部分是木星，1颗行星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Moderator",
+      "startSec": 187.76,
+      "textEn": "So we're still lightweight.",
+      "textZh": "所以我们仍然是轻量级的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 190,
+      "textEn": "Yes. The entire mass of Earth is in the tiny miscellaneous category where we're like, Earth is a tiny dust mote compared to the sun.",
+      "textZh": "是的。地球的全部质量都属于那个微小的杂项类别，我们会说，与太阳相比，地球就是一粒微小的尘埃。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Moderator",
+      "startSec": 200.48,
+      "textEn": "But how much energy are we talking like coming from the sun, especially compared to what we're using here on Earth?",
+      "textZh": "但我们说的能量到底有多少，比如来自太阳的能量，尤其是与我们在地球上使用的能量相比？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 208.8,
+      "textEn": "It feels like, yeah, the incident solar energy on the cross section of the Earth is roughly a half billionth of the sun's power output.",
+      "textZh": "感觉是，没错，入射到地球横截面上的太阳能大约是太阳功率输出的二十亿分之一。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 219.96,
+      "textEn": "And the vast majority of that we cannot use because 70% of Earth is water. Technically our planet should be called water because there is 70% water. And I think an alien civilization visiting us would be like, why are they calling it Earth when it is mostly water?",
+      "textZh": "而其中绝大部分我们都无法利用，因为地球的70%是水。严格来说，我们的星球应该叫水球，因为有70%是水。而且我觉得，造访我们的外星文明会想，既然这里大部分是水，他们为什么把它叫作地球？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Moderator",
+      "startSec": 236.52,
+      "textEn": "We're the Greenlands, not green of the gala of the solar system.",
+      "textZh": "我们是格陵兰，不是太阳系盛会的绿色。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 241,
+      "textEn": "Yeah, a bunch of the even we're 70% water and 30% less land. A bunch of it is, you know, Antarctica or you know, Siberia type of thing. Very northern Canada type of thing. Very difficult to not, not places people typically want to live. And you're not going to get a lot of solar power in the, at the poles. So the actual usable area of land that where you can get solar power is quite small anyway. In order to ascend the Kardashev scale, in order to get to any meaningful percentage of the sun's energy harnessed, you have to go to space.",
+      "textZh": "是啊，即便我们有70%的水和少了30%的陆地，其中还有很大一部分是，你知道，南极洲，或者你知道，西伯利亚那类地方。加拿大极北地区那类地方。非常难以，不，不是人们通常想住的地方。而且在，在两极你也得不到很多太阳能。所以真正可用的、能够获取太阳能的陆地区域无论如何都相当小。为了在卡尔达肖夫等级上攀升，为了达到对太阳能量任何有意义的利用比例，你必须进入太空。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 283.93,
+      "textEn": "If you wanted to get to say a millionth of the power output of the sun, you would have to increase civilizational energy harnessed by much more than a million.",
+      "textZh": "如果你想达到，比如说太阳功率输出的百万分之一，你就必须把文明所利用的能量提高远远超过100万倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 298.64,
+      "textEn": "So we currently use much less than a trillionth of the power output of the sun. And a trillion is a million times a million.",
+      "textZh": "所以我们目前使用的能量远远不到太阳功率输出的万亿分之一。而1万亿是100万乘以100万。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 308.72,
+      "textEn": "So, so basically there's, we're basically practically nowhere on, on the sort of the Kardashev 2 scale. Practically nowhere.",
+      "textZh": "所以，所以基本上，我们基本上实际上在，在所谓的卡尔达肖夫2级尺度上几乎还没起步。几乎还没起步。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Moderator",
+      "startSec": 316.68,
+      "textEn": "So on Kardashev scale we're all still non existent.",
+      "textZh": "所以在卡尔达肖夫等级上，我们所有人仍然不存在。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 321.4,
+      "textEn": "We're not registered.",
+      "textZh": "我们还没被登记在册。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 322.72,
+      "textEn": "We're like not a, you know, we're not even. Yeah, we're not registering not even a Microsoft. Yeah, we're no. And so to actually one Microsoft would be an epic, epic achievement relative to where we are right now.",
+      "textZh": "我们就像不算一个，你知道，我们甚至都不算。对，我们还没被检测到，甚至连一个微软都算不上。对，我们不算。所以，相对于我们现在所处的位置，真正达到一个微软将会是一项史诗般的、史诗般的成就。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Moderator",
+      "startSec": 338.93,
+      "textEn": "Something to aspire to.",
+      "textZh": "值得为之努力。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 340.29,
+      "textEn": "Yeah, yeah, that's our goal. And like this is I think both simultaneously an incredibly adventurous goal relative to where we are and yet not particularly adventurous as a percentage of the sun's energy to try to achieve power harness being one millionth of what the sun outputs. And so to actually start a. Microsoft",
+      "textZh": "对，对，那就是我们的目标。而且我认为，相对于我们目前所处的阶段，这同时是一个极具冒险性的目标；但如果按太阳能量的百分比来看，尝试实现对太阳输出功率的百万分之一加以利用，却又算不上特别冒险。所以，要真正开始一个。微软",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Moderator",
+      "startSec": 364.74,
+      "textEn": "actually start getting there though. We're not just going to throw solar arrays in space, try to soak up a bunch of the sun. Like there has to be a need, like you want to go up there and do something meaningful. And obviously until this point in human history, like there hasn't really been a need. What has changed to make us think that, like, maybe now's the time to start trying to notch a percentage point or two?",
+      "textZh": "不过，要真正开始朝那个方向迈进。我们不只是要把太阳能阵列扔进太空，试图吸收大量太阳能。必须有某种需求，比如你想上去做一些有意义的事情。显然，直到人类历史上的这一刻，其实一直没有真正的需求。发生了什么变化，让我们觉得，也许现在是时候开始尝试提升1个百分点或2个百分点了？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 388.31,
+      "textEn": "I mean, getting to a percent of",
+      "textZh": "我是说，达到1%的",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Moderator",
+      "startSec": 391.19,
+      "textEn": "the sun's energy, maybe not a percent. Let's go like we'll move the decimal point back.",
+      "textZh": "太阳的能量，也许不是1%。我们这样吧，把小数点往回移一位。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 395.99,
+      "textEn": "You're an extremely thick ass civilization. If you get to 1% of the sun's energy. And I'm like, wow, that civilization is going to be vastly more powerful than us, to say the least.",
+      "textZh": "如果你达到了太阳能量的1%，那你就是一个极其牛逼的文明。我会想，哇，至少可以说，那个文明会比我们强大得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 409.55,
+      "textEn": "So in order to start to make some progress on the Kardashian scale, we need to launch satellites to, to, to orbit Earth and capture solar power. And that avoids the need to build massive power plants on Earth and deal with cooling, because cooling is actually much easier in space than it is on Earth. You can just radiate to the vacuum.",
+      "textZh": "所以，为了开始在卡戴珊尺度上取得一些进展，我们需要把卫星发射到、到、到地球轨道，捕获太阳能。这样就不必在地球上建造巨型发电厂，也不必处理冷却问题，因为实际上在太空中冷却比在地球上容易得多。你可以直接向真空辐射热量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 437.34,
+      "textEn": "And so what we're proposing here and what we intend to do is to try to climb the Kardashev scale to be kind of like a respectable civilization. So when the aliens, hopefully there are aliens out there and they maybe finally decide to talk to us, you know, where we have some respectable amount of the sun's energy being used, that's not like totally pathetic, which is the current situation.",
+      "textZh": "所以，我们在这里提出并打算去做的，就是努力攀升卡尔达肖夫等级，成为一个还算体面的文明。这样，当外星人——希望外面真的有外星人——最终也许决定和我们交谈时，你知道，我们已经利用了相当可观的太阳能量，不至于显得完全可悲，而目前的情况就是如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Moderator",
+      "startSec": 468.82,
+      "textEn": "And so before we start sending data centers, sending all this to space, there are some limiting factors that we got to get there that would traditionally make it so like this is almost impossible.",
+      "textZh": "所以，在我们开始把数据中心、把这一切送入太空之前，还存在一些限制因素，我们必须克服它们才能走到那一步；按传统情况，这些因素几乎会让这件事变得不可能。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 480.74,
+      "textEn": "Yeah. What does it take to scale? Yeah, so things it takes to scale are you need to have a large mass to orbit capability, which is what starship will give us, that large mass. So you know, you ultimately need to send millions of tons to orbit and beyond, and you need the power associated with that. So if you want to put 100 gigawatts or ultimately a terawatt into space from Earth, you need, you will at some point need a terawatt of solar, and then you're going to need a terawatt of AI chips.",
+      "textZh": "对。实现规模化需要什么？对，实现规模化所需要的是，你得具备将大质量载荷送入轨道的能力，而这正是星舰将赋予我们的，也就是那种大质量运载能力。所以，你知道，最终你需要把数百万吨送入轨道及更远的地方，并且需要与之配套的电力。因此，如果你想从地球向太空部署100吉瓦，或者最终部署1太瓦，你就需要——在某个时候，你将需要1太瓦的太阳能，然后还需要1太瓦的AI芯片。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 513.6,
+      "textEn": "So the three things you need are master orbit, a lot of solar power, and, and radiators, of course, and a lot of ships.",
+      "textZh": "所以，你需要的3样东西是主轨道、大量太阳能，当然还有散热器，以及大量飞船。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Moderator",
+      "startSec": 522.56,
+      "textEn": "All right, well, let's start ticking down the list. So master orbit, that's where starship comes in. Yeah, we just had first flight v3 was awesome. I know you were there. It was crazy to see that rocket launch.",
+      "textZh": "好，那我们就开始逐项过一遍清单。所以主轨道，这就是星舰发挥作用的地方。对，我们刚刚完成了v3的首次飞行，太棒了。我知道你当时在那里。亲眼看到那枚火箭发射，太疯狂了。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 537.2,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Moderator",
+      "startSec": 537.6,
+      "textEn": "And like long time coming. What's kind of what Starship's kind of purpose of being, what is it going to be doing?",
+      "textZh": "而且真是等了很久。星舰存在的目的大致是什么，它将要做些什么？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 545.14,
+      "textEn": "Yeah, so Starship is going to, it's going to revolutionize space really. It's, it's the first rocket design that is capable of full and rapid reusability. Now reusability is the fundamental breakthrough that is necessary to make life multi planetary as well as to ascend the Kardashev scale. You simply cannot ascend the Kardashev scale unless you have a reusable spacecraft. And you cannot extend life to the moon, to Mars and rest the solar system without a reusable rocket.",
+      "textZh": "对，所以星舰将会——它真的会彻底改变太空领域。它是第1种能够实现完全且快速重复使用的火箭设计。可重复使用是让生命成为多行星物种以及攀升卡尔达肖夫等级所必需的根本性突破。除非拥有可重复使用的航天器，否则你根本不可能攀升卡尔达肖夫等级。而如果没有可重复使用的火箭，你也无法把生命扩展到月球、火星和太阳系的其余地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 578.6,
+      "textEn": "The cost is simply prohibitive. You can't, you can't make enough rockets unless you fly, unless you can refly them just like any other mode of transport. You can imagine that if, if we had to throw away airplanes every time we flew, flying would be far too expensive and basically no one would be flying airplanes.",
+      "textZh": "成本高得让人根本无法承受。你无法——你无法制造足够多的火箭，除非你让它们飞行，除非你能让它们像其他任何交通工具一样再次飞行。你可以想象，如果、如果我们每次飞行后都必须扔掉飞机，那么飞行的成本就会高得多，基本上不会有任何人乘坐飞机。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Moderator",
+      "startSec": 595.4,
+      "textEn": "You're doing a whole lot more driving.",
+      "textZh": "你要多开很多车。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 596.9,
+      "textEn": "Rapid reusability. Yes.",
+      "textZh": "快速可重复使用。是的。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 600.34,
+      "textEn": "Every mode of transport is reusable without which is simply not viable as a transport system. So cars, planes, boats, horses, bicycles are all obviously reusable with rockets. It's much harder to make a rocket reusable because Earth has a deep gravity well and a thick atmosphere. And these make it just barely possible to achieve reusability with a rocket. And there have been, you know, many prior attempts to create a fully reusable rocket.",
+      "textZh": "每一种交通方式都是可重复使用的，没有这一点，它根本无法成为可行的交通系统。所以汽车、飞机、船、马、自行车显然都可以重复使用。对于火箭而言，让火箭可重复使用要困难得多，因为地球有很深的重力井和浓厚的大气层。而这些条件使火箭实现可重复使用仅仅勉强成为可能。而且，你知道，此前已经有过很多制造完全可重复使用火箭的尝试。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 635.57,
+      "textEn": "And they, most of those attempts have been abandoned partway through because they, they didn't think they could succeed. In order to achieve full reusability, everything's got to be perfect. The engines, the structure, the avionics, the choice of propellant.",
+      "textZh": "而它们，其中大多数尝试都在中途被放弃了，因为他们，他们认为自己不可能成功。要实现完全可重复使用，一切都必须完美。发动机、结构、航空电子设备、推进剂的选择。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 654.3,
+      "textEn": "You've got it. You've got to go to extreme measures for mass optimization, which is why we have the tower catch the rocket. Instead of putting on landing legs which are heavy, the rocket can simply be caught by the tower. And we haven't achieved full reusability yet, but we do expect to achieve that hopefully later this year with Starship. And then you've got to achieve full reusability naval if you want to go step beyond that, which is make it rapidly reusable such that the rocket lands, it gets caught by the tower, gets put back on the launch stand and can be flown again without any refurbishment or laborious inspection.",
+      "textZh": "你必须做到。你必须采取极端措施来优化质量，这就是为什么我们让发射塔捕获火箭。火箭不用安装沉重的着陆腿，而是可以直接被发射塔捕获。而我们还没有实现完全可重复使用，但我们确实预计有望在今年晚些时候通过星舰实现这一目标。然后，如果你想再向前迈进一步，就必须实现海军式的完全可重复使用，也就是让它能够快速重复使用，使火箭着陆、被发射塔捕获、重新放回发射台，并且无需任何翻修或费力的检查就能再次飞行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 690.56,
+      "textEn": "Like an aircraft.",
+      "textZh": "就像飞机一样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Moderator",
+      "startSec": 691.48,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 692.4,
+      "textEn": "This is incredibly difficult. This is the first time that there's ever been A rocket where that is possible. That's what makes Starship so profound. It also happens to be the, the largest flying object ever made, the heaviest flying object ever made. The most powerful moving object of any kind of B3 is more than double the thrust of it. The Saturn 5 moon rocket by version four will be pretty much three times the thrust of a Saturn 5 moon rocket.",
+      "textZh": "这难度高得令人难以置信。这是有史以来第1次出现能够做到这一点的火箭。正是这一点让星舰如此意义深远。它还恰好是有史以来制造的，最大的飞行物体，有史以来制造的最重飞行物体。任何类型中最强大的移动物体 B3 的推力是它的2倍以上。到第4版时，土星5号登月火箭的推力将差不多是土星5号登月火箭的3倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 722.34,
+      "textEn": "And we expect this, we expect Starship to be flying more than once per hour down the road.",
+      "textZh": "而且我们预计，我们预计未来星舰每小时将飞行超过1次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Moderator",
+      "startSec": 728.32,
+      "textEn": "One of the fun facts from Flight 12, that was actually the heaviest payload Space X has ever flown, and that's still just a fraction of what V3 can do. So yes, I mean once we're flying massive amounts really rapidly, I mean we already fly the majority of payload to space with Falcon.",
+      "textZh": "关于第12次飞行，有一个有趣的事实，那实际上是 SpaceX 有史以来运送的最重有效载荷，而这仍然只是 V3 能力的一小部分。所以是的，我是说，一旦我们真正开始非常快速地运送大量质量，我是说，我们已经用猎鹰运送了大多数进入太空的有效载荷。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Moderator",
+      "startSec": 752.24,
+      "textEn": "Do people even really understand what mass orbit becomes? 1 Starship is flying, it's, it's many",
+      "textZh": "人们真的理解质量入轨会变成什么样吗？1 艘星舰正在飞行，它是，它是很多",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 760.39,
+      "textEn": "orders magnitude greater than what is the case today. So Even with Falcon 9, Falcon Heavy, SpaceX delivers almost 90% of all Earth mass to orbit. I think somewhere between 85 and 90% right now. And then most of the remaining mass I think is, is launched by China. And then the rest of the world, including the rest of the US is, is the remaining, I don't know, 5 to 7%.",
+      "textZh": "个数量级，高于如今的情况。所以，即使只算猎鹰9号和猎鹰重型，SpaceX 也将地球上所有入轨质量的近90%送入轨道。我想目前大约在85%到90%之间。然后我认为，剩余质量中的大部分，是由中国发射的。然后世界其他地区，包括美国其他部分，占剩下的，我不知道，5%到7%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 789.33,
+      "textEn": "Now with, with Starship, we'll be aiming to go from somewhere around 2500 tons a year to orbit to millions of tons per year to orbit and to do so in a pretty short period of time. So we think probably we can get to a million tons to orbit per year in about three years thereabouts.",
+      "textZh": "现在，有了，有了星舰，我们的目标是把每年大约2500吨的入轨质量提高到每年数百万吨，并且在相当短的时间内做到这一点。所以我们认为，大概可以在约3年左右的时间里达到每年将100万吨送入轨道的水平。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Moderator",
+      "startSec": 815.58,
+      "textEn": "Starship. Starship is going to take care of the master orbit limiting factor.",
+      "textZh": "星舰。星舰将解决限制主轨道的因素。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 820.94,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Moderator",
+      "startSec": 821.38,
+      "textEn": "And then power generation. So first and Ian, maybe you can help people probably struggle to visualize a little bit when you say like data center in space. Like we're not going to slap engines on a building and fly it up there. Like these actually look like pretty different. And so kind of walk through how you take something that's in a giant building on the ground and turn it into something that's functional in space.",
+      "textZh": "然后是发电。那么首先，Ian，也许你可以帮助一下大家，当你说像太空中的数据中心时，人们大概有点难以想象。就像我们不会给一栋建筑装上发动机，然后把它飞到那里。就像这些东西实际上看起来相当不同。所以请大致讲讲，你如何把地面上一栋巨型建筑里的东西，变成能在太空中运行的东西。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 846.29,
+      "textEn": "Yeah, I think it's, it's pretty interesting. A lot of people don't actually know what, what the inside of a data center even looks like, right?",
+      "textZh": "是的，我觉得这，这相当有意思。很多人其实根本不知道，数据中心内部到底是什么样子，对吧？",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 851.89,
+      "textEn": "Yeah. And it's like mythical place where the Internet's in the cloud.",
+      "textZh": "对。而且它就像一个神话般的地方，互联网存在于云端。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 856.85,
+      "textEn": "Yeah. Some people envision wire, some people envision boxes. But like effectively it comes down to a set number of chips. And the things that we need to launch into space are actually quite small when we look at it. The more challenging part is figuring out how to get, how do you get the power for it. And that's where a lot of what we've worked on for existing like Starlink technology, the solar arrays are what we want to utilize that expertise to be able to build a satellite that can actually launch the critical components of the data center in space.",
+      "textZh": "对。有些人想象的是电线，有些人想象的是盒子。但实际上，归根结底就是一定数量的芯片。而当我们审视需要发射到太空中的东西时，它们其实相当小。更具挑战性的部分是弄清楚如何获得、你要如何为它供电。而这正是我们希望利用在现有星链技术方面积累的大量经验，比如太阳能电池阵列，来制造一颗真正能把数据中心的关键组件发射到太空中的卫星。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 890.35,
+      "textEn": "Space itself.",
+      "textZh": "太空本身。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 893.31,
+      "textEn": "We like to look at this and say like what is, what is the actual engineering problem here? And, and it's, it's really a combination of delivering power and then taking the waste heat and energy away and sending it into the vacuum of space, as you mentioned.",
+      "textZh": "我们喜欢审视这件事，然后问，真正的工程问题是什么？而且，而且它，它其实是输送电力，然后带走废热和能量，并像你提到的那样将其散发到太空真空中，这两者的结合。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 907.15,
+      "textEn": "Yeah. Now the, the AI satellite is actually much simpler than a Starlink satellite. A Starlink satellite has, has gigantic phased array antennas. It's got, you know, parabolic antennas, it's got a lot of laser links. It's a, it's, it's much more complicated than an AI satellite. And a satellite is essentially a lot of solar cells, radiator, and you still need some laser links, but you don't have all of the super complex antennas that you have on a Starlink satellite.",
+      "textZh": "对。现在，AI 卫星实际上比星链卫星简单得多。星链卫星有、有巨大的相控阵天线。它有，你知道，抛物面天线，还有很多激光链路。它、它、它比 AI 卫星复杂得多。而一颗卫星本质上就是大量太阳能电池、散热器，而且你仍然需要一些激光链路，但不需要星链卫星上那些极其复杂的天线。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 946.78,
+      "textEn": "So I mean given the two, the easier one to design for is the, the AI satellite.",
+      "textZh": "所以我的意思是，二者之中，更容易设计的是、是 AI 卫星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Moderator",
+      "startSec": 952.94,
+      "textEn": "Yeah, it's just a little bit bigger.",
+      "textZh": "对，只是大了一点。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 955.18,
+      "textEn": "It's bigger.",
+      "textZh": "它更大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Moderator",
+      "startSec": 956.06,
+      "textEn": "Just makes stuff bigger. Yeah, I was like, so we've got, this is our AI one. You guys want to walk us through?",
+      "textZh": "就是把东西做大。对，我当时就想，所以我们有了这个，这是我们的 AI 版。你们想带我们过一遍吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 963.98,
+      "textEn": "Yeah, so, so the first thing that we're, we're really looking at here is like first you've got to make something compelling, right. And we thought that the right place to start is around 150 kilowatt, like peak power level. But as we look at the workloads with, with our experience with xai, we get to actually see that, that we can also support about 120 kilowatts of average compute.",
+      "textZh": "对，所以，所以我们在这里首先真正考虑的是，你首先得做出有吸引力的东西，对吧。我们认为合适的起点是大约 150 千瓦，也就是峰值功率水平。但结合我们在 xAI 方面的经验来看这些工作负载，我们实际上发现，我们也能支持大约 120 千瓦的平均计算功率。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 986.51,
+      "textEn": "There's a difference. What we're showing here is kind of a draft version of the first one of the SpaceX AI satellite, an AI one I guess you could call it, and seems like a reasonable place to start is 150kW peak power, 120kW sustained power. And to give you a sense of what does that actually look like in terms of the size of the radiator, size of the solar panels. The assumptions here are 250 watts per square meter for the solar array and about 1400 watts per square meter for the radiator.",
+      "textZh": "这两者有区别。我们在这里展示的算是 SpaceX 第一款 AI 卫星的草案版本，我想你可以称它为 AI 1；一个合理的起点似乎是 150kW 峰值功率、120kW 持续功率。为了让你了解就散热器尺寸和太阳能电池板尺寸而言，它实际上是什么样子，这里的假设是太阳能电池阵列每平方米 250 瓦，散热器每平方米大约 1400 瓦。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 1022.76,
+      "textEn": "So the radiators, these are double sided radiators are radiating both sides. They're oriented knife edge to the sun and, and and it's 1400 watts per square meter is a very achievable goal over time. We think we can probably do above 250 watts per square meter and above 1400 watts per square meter for the solar panels, radiators, respectively. But this gives you like pretty much what the satellite's going to look like.",
+      "textZh": "所以这些散热器是双面散热器，两面都在散热。它们以刀刃朝向太阳，而且，而且而且每平方米 1400 瓦是一个随着时间推移很容易实现的目标。我们认为，太阳能电池板和散热器应该分别能做到每平方米超过 250 瓦和每平方米超过 1400 瓦。但这基本上让你看到了卫星会是什么样子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 1052.86,
+      "textEn": "It's a lot of solar panels, radiator, and then everything else is pretty small, like the virus.",
+      "textZh": "它有很多太阳能电池板、散热器，然后其他一切都相当小，比如病毒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 1057.9,
+      "textEn": "And these are like evolutions of things that we have actually already launched in our Starlink constellation to date. Yeah, that's really, I think the cool part to me is that we're looking at solar technology that we already are going to use on the V3 Starlink vehicle. So, so I'm really excited to then just take those and make it bigger.",
+      "textZh": "而这些就像是我们迄今实际上已经发射到星链星座中的东西的演进版本。对，我认为对我来说真正很酷的地方在于，我们考虑的是已经准备在 V3 星链飞行器上使用的太阳能技术。所以，所以我真的很兴奋，接下来只要拿来把它们做大就行。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1080.86,
+      "textEn": "Yeah. Part of what we want, what we want to convey here is that there's not some magic that's necessary that doesn't exist for the satellites. As Ian said, this is a lot of, this is technology we've already made for the Starlink V3 satellites. So it's, we basically, we don't think this is a, a super hard problem compared to things we already do. There would also be something on the order of a terabyte of connectivity of laser link connectivity from the, from the satellite.",
+      "textZh": "对。我们在这里想传达的一部分是，卫星并不需要某种尚不存在的魔法。正如伊恩所说，这很大程度上是、这是我们已经为星链 V3 卫星制造出来的技术。所以，它，我们基本上不认为与我们已经在做的事情相比，这是一个、一个超级困难的问题。卫星还会有大约 1 太字节的激光链路连接能力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1114.38,
+      "textEn": "The 150 kilowatt peak power level is roughly matches what say an Nvidia GV300 rack would do so. But a GV300 with 72 GPUs, its peak power I think is around 140 kilowatts. But it's rarely, it's almost impossible to get it to be at that peak power. A more reasonable operating envelope would be around 120kW average power, but it can peak up to 150. So that's, it's basically think of it as a rack of compute in space. And then you can connect these racks of compute to either each other or the laser links or directly to the Starlink constellations.",
+      "textZh": "150 千瓦的峰值功率水平大致相当于，比如说，一台 Nvidia GV300 机架的水平。所以。但一台配有 72 个 GPU 的 GV300，它的峰值功率我想大约是 140 千瓦。但它很少、几乎不可能达到那个峰值功率。更合理的运行区间大约是 120kW 平均功率，但它的峰值可以达到 150。所以，这，基本上可以把它想成太空中的一个计算机架。然后你可以把这些计算机架连接到彼此、激光链路，或者直接连接到星链星座。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1160.35,
+      "textEn": "So you can close the link with the Starlink constellation and then Starlink can then send that data to the ground using the existing KA and KU antennas on the, on the vehicle. It also has laser to laser links to the ground as well. So and this, this would not be at a particularly high latency. You know, we're talking about, you know, maybe being around 6 to 800 kilometers above the earth and light travels 300 kilometers per millisecond.",
+      "textZh": "所以你可以与星链星座建立链路，然后星链可以利用飞行器上现有的 KA 和 KU 天线将这些数据发送到地面。它也有通往地面的激光到激光链路。所以，而且这、这不会有特别高的延迟。你知道，我们谈的是，你知道，可能位于地球上方约 6 到 800 公里，而光每毫秒传播 300 公里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1196.34,
+      "textEn": "So that's, it's about, you know, three milliseconds away, basically. It's not, not very far.",
+      "textZh": "所以，那基本上就是，你知道，大约 3 毫秒的距离。并、并不太远。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Moderator",
+      "startSec": 1202.02,
+      "textEn": "We'll worry about that too much then.",
+      "textZh": "那我们到时候就会太担心这个了。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1203.62,
+      "textEn": "It's not. Sometimes people want to think there's going to be some like, high latency. I'm like, yeah, it's no. Speed of lightning was pretty fast.",
+      "textZh": "不会。有时人们想当然地认为会有某种，比如说，很高的延迟。我就说，对，不会。闪电的速度相当快。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Moderator",
+      "startSec": 1210.24,
+      "textEn": "Light moves pretty fast.",
+      "textZh": "光传播得相当快。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Elon Musk",
+      "startSec": 1212.84,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 1213.8,
+      "textEn": "I think the cool thing also is the, the radiators themselves are about the same size as the existing solar arrays for the V3 vehicle.",
+      "textZh": "我认为还有一点很酷，就是散热器本身与 V3 飞行器现有太阳能电池阵列的尺寸大致相同。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 1222.84,
+      "textEn": "Kind of, kind of in that realm",
+      "textZh": "差不多、差不多就在那个范围内",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 1224.28,
+      "textEn": "where we're flying today.",
+      "textZh": "也就是我们目前实际飞行的那个量级。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1225.32,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Moderator",
+      "startSec": 1226.28,
+      "textEn": "So, I mean, they got, they got about a 70 meter wingspan. So these are fairly large. We're talking about building a lot of them and putting them up there. But you like to say like spaces in the name. Like there's, there's a lot of space up there. And so even when you're talking thousands or even, you know, up to a million satellites. Yeah, you got plenty of room to move around up there.",
+      "textZh": "所以，我的意思是，它们有，它们的翼展大约是70米。所以这些东西相当大。我们讨论的是建造很多这种东西，然后把它们送上去。但你喜欢说，比如名字里就有太空。比如上面有，有很大的空间。所以，即使你说的是数千颗，甚至，你知道，多达100万颗卫星。是的，上面也有足够的空间供它们四处移动。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Elon Musk",
+      "startSec": 1248.81,
+      "textEn": "Yeah, space is really big. So it's not like, it's not like space is going to get crowded. Space is enormous. Like, if you zoom in close to the satellite, it looks big, but if you actually look at it relative, relative to the Earth, the satellites are so tiny you can, you can't even see them. So they're very, very tiny compared to us.",
+      "textZh": "是的，太空真的很大。所以并不是说，并不是说太空会变得拥挤。太空极其广阔。比如，如果你拉近镜头看卫星，它看起来很大，但如果你真的把它与地球相对、相对照来看，卫星是如此微小，你根本、根本看不见它们。所以与我们相比，它们非常、非常微小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Moderator",
+      "startSec": 1271.47,
+      "textEn": "And I mean, we have 10, about 10,000 starlinks in orbit right now. We've got a pretty good idea of how to operate just really large constellations and do it safely now. Right.",
+      "textZh": "而且我的意思是，我们现在有10，大约10,000颗星链卫星在轨。我们相当清楚该如何运行真正非常庞大的星座，并且如今能安全地这样做。对吧。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 1283.79,
+      "textEn": "We are the only operator that has any experience of that scale. It's, it's a great thing that, you know, we have this background so we know how tightly we can pack the satellites and, and, and, and fly them safely. That's, that's a number one goal. When, when we look at the constellation,",
+      "textZh": "我们是唯一拥有这种规模的任何经验的运营商。这、这是一件很棒的事，你知道，我们有这样的背景，所以我们知道能把卫星排列得多紧密，并且、并且、并且、并且让它们安全飞行。那、那是首要目标。当、当我们审视这个星座时，",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Moderator",
+      "startSec": 1298.48,
+      "textEn": "we're going to be building a lot of satellites and we're going to be building them here in Bastrop. Right. So we've, we've got this, which. Yeah, so we're in that building kind of in the middle, which.",
+      "textZh": "我们将制造很多卫星，而且我们将在巴斯特罗普这里制造它们。对。所以我们、我们有这个，它。是的，所以我们就在中间附近的那栋楼里，它。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 1309.8,
+      "textEn": "Yeah, we're sitting in that building right now.",
+      "textZh": "是的，我们现在就坐在那栋楼里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Moderator",
+      "startSec": 1311.44,
+      "textEn": "This is my first time here. The building is massive. Like, you come around the corner, you see it through the trees and you're like, oh, wow. But we're about to kind of put this building to shame, aren't we?",
+      "textZh": "这是我第一次来这里。这栋楼非常庞大。比如，你转过拐角，透过树林看到它，你会想，哦，哇。但我们马上就要让这栋楼相形见绌了，不是吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 1323.29,
+      "textEn": "Yes, we're going to. In fact, we already have the solar manufacturing facility. It's under construction already. And, and then we will be building out the air production building soon. And yeah, so we expect to have the air production, the solar Production and all of that operating at some reasonable volume by the end of next year.",
+      "textZh": "是的，我们会的。事实上，我们已经有了太阳能制造设施。它已经在建设中了。然后、然后我们很快会扩建空气生产大楼。是的，所以我们预计到明年年底，空气生产、太阳能生产以及所有这些都将以某种合理的产量投入运营。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Moderator",
+      "startSec": 1353.12,
+      "textEn": "So if anybody wants to work on AI satellites, this is kind of going to become the hub of that. We're also so I mean like right behind us the machines are humming. We're still making all of our user terminals for Starlink here. That's not going anywhere. In fact we're turning on new production lines for new units, right?",
+      "textZh": "所以，如果有人想从事AI卫星方面的工作，这里差不多将成为这方面的中心。我们也还在，所以我的意思是，就在我们身后，机器正嗡嗡运转。我们仍在这里制造星链的所有用户终端。这不会迁走。事实上，我们正在为新设备启用新的生产线，对吧？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 1371.75,
+      "textEn": "Yes. In fact these are the new Starlink terminals which we made in much higher volume than the current terminals. You know, ultimately we think there's probably going to be a few hundred million Starlink terminals out there. And then our Starlink direct to cell Constellation will connect directly to people's cell phones and enable high bandwidth communication directly from your phone of space.",
+      "textZh": "是的。事实上，这些是新的星链终端，我们制造它们的产量比当前终端高得多。你知道，最终我们认为外面可能会有几亿台星链终端。然后，我们的星链手机直连星座将直接连接人们的手机，并支持直接从你的太空手机进行高带宽通信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Moderator",
+      "startSec": 1397.74,
+      "textEn": "All right, we're, we're two limiting factors down. We've got master orbit got putting solar and Pew third one's chips.",
+      "textZh": "好了，我们、我们已经解决了2个限制因素。我们有主轨道，已经部署太阳能和皮尤，第3个是芯片。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 1406.22,
+      "textEn": "Yes. So at least in the beginning we can obviously launch the, the chips that are already being made. So our current reference design is for Nvidia Ruben chips or could be either GV300 or, or even chips and we'll also have reference design for TPU's and essentially you can put up, put any, any existing chips into, into orbit. But the current industry seems to be, it seems like it's going to get to maybe around 100 gigawatts a year of AI computer.",
+      "textZh": "是的。所以至少在一开始，我们显然可以发射那些、那些已经在制造的芯片。因此，我们目前的参考设计采用英伟达Ruben芯片，或者可以是GV300，或者、或者甚至芯片，而且我们还会有TPU的参考设计，基本上你可以把、把任何、任何现有芯片送入、送入轨道。但目前这个行业似乎、似乎将达到每年约100吉瓦的AI计算。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 1451.19,
+      "textEn": "But it, that doesn't answer the question of well, how do you get to a Terrawatt? That's why you need a tariff.",
+      "textZh": "但这、这并没有回答这个问题：那么，你要如何达到1太瓦？这就是为什么你需要一项关税。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 1459.99,
+      "textEn": "Always looking a step bigger.",
+      "textZh": "总是着眼于更大一步。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1461.47,
+      "textEn": "Yeah, yeah. In order to get to the next order of magnitude you need a gigantic ship factory to give you a sense of scale here. We expect that the tariff AB is going to be around 100 million square feet which is 10 times the size of the Tesla Gigafactory Texas.",
+      "textZh": "是的，是的。为了达到下一个数量级，你需要一座巨型船舶工厂，让你了解一下这里的规模。我们预计，tariff AB将约为1亿平方英尺，相当于Tesla得州超级工厂面积的10倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Moderator",
+      "startSec": 1484.71,
+      "textEn": "And what aside from just, you know, I'm going to need Starship point to point to get from one end to the other. Aside from just the size, what's going to make this unique different from any other chip building operation on the planet?",
+      "textZh": "那么，除了，你知道，我需要用星舰进行点对点运输，才能从一端到另一端。除了规模之外，是什么会让它独一无二，有别于地球上任何其他芯片制造业务？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1498.79,
+      "textEn": "Well I think over time there's going to be a lot of technology evolution with the tariff app. But fundamentally it's about scale. So even if there were no fundamental technology breakthroughs and you simply, you could simply scale the existing chip making technology with a lot of difficulty to a terawatt of chip output per year. That's if you look at it just from the logic die standpoint, that's, that's a, that's like having a billion chips per year with a kilowatt per radical.",
+      "textZh": "嗯，我认为随着时间推移，关税应用会出现大量技术演进。但从根本上说，这关乎规模。所以，即使没有任何根本性的技术突破，而你只是，你可以非常困难地把现有芯片制造技术扩展到每年1太瓦的芯片产出。如果只从逻辑裸片的角度来看，那就，那就，那就像是每年拥有10亿颗芯片，每个激进派1千瓦。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1534.58,
+      "textEn": "So a billion full radical equivalent chips, each doing a kilowatt. And then you're going to need a lot of memory to go with that.",
+      "textZh": "所以是10亿颗完全激进派等效芯片，每颗以1千瓦运行。然后你还需要大量内存与之配套。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Moderator",
+      "startSec": 1543.74,
+      "textEn": "A lot of people today even think orbital data centers were like a decade away.",
+      "textZh": "如今很多人甚至认为，轨道数据中心还要大约10年才能实现。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1549.02,
+      "textEn": "Yeah, I think we want to try to give people a sense of, of the time frame we, at least the time frame we're aiming for. I mean, you know, people should take this with a grain of salt to some degree, because this is, this is just our best guess. So this is not a, this is not a promise of what we'll do. This is what we, what we are going to try to do and think we probably can do, which is to get to roughly an annualized rate of a gigawatt per year by the end of next year in terms of space.",
+      "textZh": "是的，我想我们希望尽量让人们了解，了解这个时间框架，至少是我们瞄准的时间框架。我的意思是，你知道，人们在某种程度上应该对此持保留态度，因为这，这只是我们最好的猜测。所以这不是，这不是对我们将做什么的承诺。这是我们，我们将努力去做、并认为我们或许能够做到的事情，也就是到明年年底，就太空而言，达到每年大约1吉瓦的年化速率。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 1580.16,
+      "textEn": "AI compute and then aspirationally scale that by an order of magnitude per year. So in two and a half years, hitting an annualized rate of 10 gigawatts a year to space, and three and a half years, maybe 100 gigawatts. And then depending upon what progress there is in chip making in the rest of the world, and with the tariff going beyond that to scale to a terawatt per year, which is a thousand gigawatts, which is, that's twice the current electricity consumption of the United States.",
+      "textZh": "AI算力，然后有抱负地每年将其扩大一个数量级。所以在2年半内，向太空输送达到每年10吉瓦的年化速率；在3年半内，也许达到100吉瓦。然后，取决于世界其他地区在芯片制造方面取得什么进展，以及随着关税进一步发展，将规模扩大到每年1太瓦，也就是1000吉瓦，这相当于美国当前电力消耗的2倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 1612.91,
+      "textEn": "I think there will be an appetite for that, but we'll see.",
+      "textZh": "我认为会有这方面的需求，但我们拭目以待。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1616.67,
+      "textEn": "It's a lot of satellites. I don't know what you think about, but we do a lot of simulations or something. Yeah.",
+      "textZh": "卫星数量很多。我不知道你怎么看，但我们会做很多模拟之类的。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Moderator",
+      "startSec": 1624.11,
+      "textEn": "So after we've, you know, worked through all the limiting factors, we've kind of topped out what we can do on Earth, what is the next step to again try and actually notch maybe some percentage points towards becoming Kardashev Level 2.",
+      "textZh": "所以，在我们，你知道，解决了所有限制因素之后，我们在地球上能做的事情差不多已经到顶了，那么下一步是什么，才能再次尝试真正向成为卡尔达肖夫2级文明迈进，或许提升几个百分点。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1642.03,
+      "textEn": "Why stop there? Why think small? Because the terawatt actually is very small.",
+      "textZh": "为什么止步于此？为什么格局这么小？因为太瓦实际上非常小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Moderator",
+      "startSec": 1647.47,
+      "textEn": "Think small.",
+      "textZh": "往小了想。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 1647.989,
+      "textEn": "That's nothing small. So there is, in order to get to another three orders of magnitude to 1000x from a terawatt per year, the only way that we can really see that you can achieve that is on the Moon with a mass driver, essentially where you do local production of photovoltaics and solar and radiators on the Moon, maybe you bring the chips from Earth or you could conceivably make the chips on the Moon and you need most of the mass to be made on the Moon so you don't have to transport it to the Moon from Earth.",
+      "textZh": "那可一点也不小。所以，要在每年1太瓦的基础上再提高3个数量级，达到1000倍，我们真正能想到的唯一实现方式是在月球上使用质量加速器；本质上，就是在月球上就地生产光伏设备、太阳能设备和散热器。也许芯片可以从地球运过去，或者可以设想在月球上制造芯片，而且大部分质量都需要在月球上制造，这样就不必从地球运输到月球。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Elon Musk",
+      "startSec": 1687.68,
+      "textEn": "And, and then because the Moon has no atmosphere and only 16 Earth's gravity. You can, you can get, you can accelerate the satellites into deep space without a rocket. So you can basically shoot them into space using an electromagnetic gun, like a, like a rail gun type. I mean just, it's basically a linear electric motor is the way to think about it.",
+      "textZh": "而且，而且因为月球没有大气层，重力只有地球重力的16倍。你可以，你可以让，你可以不用火箭就把卫星加速送入深空。所以基本上可以用电磁炮把它们射入太空，类似，类似轨道炮那种。我的意思是，它基本上就是一台直线电动机，可以这么理解。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Moderator",
+      "startSec": 1711.03,
+      "textEn": "I was like, I think we can show people.",
+      "textZh": "我当时想，我觉得我们可以展示给大家看。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 1789.72,
+      "textEn": "Sa.",
+      "textZh": "萨。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Moderator",
+      "startSec": 1821.08,
+      "textEn": "I mean, if that doesn't get you excited for the future, I don't really know what will.",
+      "textZh": "我的意思是，如果这都不能让你对未来感到兴奋，那我真不知道还有什么能了。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 1825.96,
+      "textEn": "I'm fired up to sit to see a mass driver on the moon. That would be very cool. Yeah. Sci fi future. Yeah. Yeah. It would also mean that if we're, if we're bringing that amount of mass to the moon, it would mean that anyone who wants to go to the moon will be able to go to the moon and I think that'll be pretty cool. Yeah.",
+      "textZh": "我非常期待坐着看到月球上的质量投射器。那会非常酷。对。科幻般的未来。对。对。这也意味着，如果我们，如果我们要把那么多质量运到月球，那就意味着任何想去月球的人都能去月球，我觉得那会非常酷。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Moderator",
+      "startSec": 1843.09,
+      "textEn": "And I'm going to be jumping first in line to get up there.",
+      "textZh": "而我会第一个排队上去。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 1846.89,
+      "textEn": "Yeah, I mean, you know, everyone should go to the moon at least once. I think. Just once.",
+      "textZh": "对，我的意思是，你知道，每个人一生至少都应该去一次月球。我觉得。就一次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 1850.77,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 1851.41,
+      "textEn": "You can move there if you want. Go live on the moon.",
+      "textZh": "如果你愿意，可以搬到那里。去月球上生活。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Moderator",
+      "startSec": 1853.89,
+      "textEn": "We'll see. Thanks guys for chatting with me for a little bit.",
+      "textZh": "到时候再看吧。谢谢各位和我聊了一会儿。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 1858.13,
+      "textEn": "All right.",
+      "textZh": "好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Moderator",
+      "startSec": 1859.41,
+      "textEn": "Excited to see a whole new, whole new kind of satellite. Whole bunch more starship launches, more chips, more solar, more everything. It's a big future, but I'm excited to see everybody at this company go out and build.",
+      "textZh": "很期待看到一种全新的、全新类型的卫星。更多得多的星舰发射、更多芯片、更多太阳能、更多的一切。这是一个宏大的未来，但我很期待看到这家公司的每个人都行动起来，去把它建成。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1873.61,
+      "textEn": "All right, sounds good.",
+      "textZh": "好，听起来不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Ian Dahl (Starlink)",
+      "startSec": 1874.49,
+      "textEn": "It's exciting.",
+      "textZh": "令人兴奋。",
+      "speakerZh": "伊恩·达尔（星链）"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 1875.93,
+      "textEn": "Thanks, guys.",
+      "textZh": "谢谢各位。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T22:58:01.317Z",
+    "reviewedAt": "2026-09-12T23:10:36.042Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:29.162Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "c6af547f4d448ec276350900a8ff088b6c20c7247bdfd372bf5a5c9e1fb3aa12"
+}

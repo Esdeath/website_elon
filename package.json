@@ -1,0 +1,40 @@
+{
+  "name": "musk-zh-archive",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "npm run validate && npm test && astro check && astro build && pagefind --site dist && npm run test:search",
+    "preview": "astro preview",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "test:search": "tsx scripts/test-pagefind.ts",
+    "test:watch": "vitest",
+    "validate": "tsx scripts/validate-content.ts",
+    "sync": "tsx scripts/sync.ts",
+    "sync:fetch": "tsx scripts/fetch-videos.ts",
+    "sync:translate": "tsx scripts/translate-videos.ts",
+    "sync:review": "tsx scripts/review-translations.ts"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.3",
+    "@fontsource-variable/ibm-plex-sans": "^5.2.7",
+    "@lucide/astro": "^0.544.0",
+    "astro": "^5.13.5",
+    "cheerio": "^1.1.2",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^24.3.1",
+    "pagefind": "^1.4.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}

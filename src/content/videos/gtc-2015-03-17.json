@@ -1,0 +1,179 @@
+{
+  "id": "gtc-2015-03-17",
+  "slug": "gtc-2015-03-17",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2015-03-17",
+  "titleEn": "GTC",
+  "titleZh": "GTC",
+  "summaryEn": "NVIDIA's Jen-Hsun Huang interviews Musk about deep learning, autonomous driving and the future of self-driving cars at the GPU Technology Conference.",
+  "summaryZh": "NVIDIA 的黄仁勋在 GPU 技术大会上采访马斯克，探讨深度学习、自动驾驶以及无人驾驶汽车的未来。",
+  "sourceUrl": "https://www.youtube.com/watch?v=TDm6Snkle70",
+  "sourceLabel": "NVIDIA",
+  "archiveUrl": "https://elonmuskarchive.org/video/gtc-2015-03-17",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/TDm6Snkle70",
+  "thumbnailUrl": "https://i.ytimg.com/vi/TDm6Snkle70/hqdefault.jpg",
+  "durationSec": 1315,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "foreign I can't imagine someone who enjoys cars and building cars and building self-driving cars and figuring out where the future of cars is going to go and has broken every rule in building cars and somehow managed to have created just an amazing company I still remember the first car I bought from him my only question for Elon at the time was are you going to be around to service this car if something happened to it and he says no trust me and look what happened what an amazing achievement I have all three versions of his cars it just gets better and better not only does it get better and better each version gets better and better it just Delights me to no end when I get an OTA in the morning you know and and I read it and oh wow all these features",
+      "textZh": "外国，我无法想象有这样一个人，他热爱汽车、制造汽车、制造无人驾驶汽车，并琢磨汽车的未来将走向何方，而且打破了汽车制造领域的每一条规则，却不知怎么成功创建了一家令人惊叹的公司。我仍然记得我从他那里买的第一辆车，当时我问埃隆的唯一一个问题是，如果这辆车出了什么事，你还会在这里为它提供维修服务吗？他说，不，相信我，而看看后来发生了什么，多么惊人的成就。我拥有他这3个版本的汽车，它就是越来越好，不仅是越来越好，每个版本都越来越好。早上收到 OTA 时，它总能让我欣喜不已，你知道，然后，然后我读了一下，哦，哇，这么多功能"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "I didn't even pay for it I'm not suggesting that I'm willing to pay more for it but ladies and gentlemen ladies and Gentlemen please welcome Tesla CEO founder Elon Musk foreign I've never seen anybody walk the slope how are you welcome welcome guys Elon Musk now now uh you know we made it a point not to not to rehearse anything and so as I just want to just as a as a as a just a reminder you're you're my last thing okay okay could you not ruin the whole thing all right all right so remember now speaking of that speaking of that I think everybody would like to before we get into all of the good stuff okay um and they want to go directly to the juicy stuff okay okay and the juicy stuff is this uh look you know um uh you were quote as a saying that that",
+      "textZh": "我甚至都没为它付钱，我不是在暗示我愿意为它多付钱，但是女士们先生们，女士们先生们，请欢迎 Tesla 首席执行官、创始人埃隆·马斯克。外国，我从没见过有人走这个斜坡，你好吗，欢迎，欢迎各位。埃隆·马斯克。现在，现在，呃，你知道，我们特意决定什么都不排练，所以我只是想，只是作为一个，作为一个，作为一个，只是提醒一下，你是我的最后一件事，好吧，好吧，你能不能别毁了整件事。好的，好的，所以现在记住，说到这个，说到这个，我想在我们进入所有精彩内容之前，大家都想先，好吧，嗯，而且他们想直接进入劲爆的内容，好吧，好吧，而劲爆的内容是这个，呃，听着，你知道，嗯，呃，有人引用你的话说，那个，那个"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "artificial intelligence is more dangerous than nuclear weapons and I said potentially and and well it goes on it goes on and just go on you say you say that it's like summoning the demon could be how do you consolidate rationalize the the conflict between artificial intelligence of course deep learning that that obviously is going to be very important to self-driving cars how do you think through that well I don't think we have a tour about uh autonomous cars because that's sort of like a narrow form of AI um and instantly not something I think is very difficult actually I think the to to do autonomous driving to a degree that's much safer than a person is much easier than people think yeah right um and uh yeah I I think it can just become normal like",
+      "textZh": "人工智能比核武器更危险，而我说的是有可能，而且，而且，好吧，还有后文，还有后文，就继续吧，你说，你说这就像召唤恶魔，可能是。你如何整合、合理解释人工智能之间的这种，这种冲突？当然还有深度学习，它显然对无人驾驶汽车会非常重要，你是如何思考这个问题的？嗯，我认为我们不必对，呃，自动驾驶汽车展开讨论，因为那算是一种狭义形式的人工智能，嗯，而且立刻不是我认为非常困难的东西。实际上，我认为要，要实现比人类安全得多的自动驾驶，比人们想象的容易得多。是吧，嗯，还有，呃，是的，我认为它可以就这样变得很平常，就像"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "it'd be like an elevator like no they used to have elevator operators um and then we you know we developed some simple circuitry to have elevators just automatically come to the floor that you you're at and you can just press the button nobody needs to operate the elevator um if the car is just going to be like that and the elevators these days are even smart I mean it knows it knows where to position an elevator so so that if you were to need an elevator it's pretty close to you cars in the future will be pretty smart about that too yeah you'll be able to tell your car like take me home uh go here go there anything and it'll just do it yeah at an order of magnitude safer than a person in fact in the in the distant future I think it's probably going to",
+      "textZh": "它会像电梯一样，比如，不，他们过去有电梯操作员，嗯，然后我们，你知道，我们开发了一些简单的电路，让电梯自动来到你，你所在的楼层，而你只需按下按钮，不需要任何人操作电梯。嗯，如果汽车也会变成那样，而如今的电梯甚至很智能，我是说，它知道，它知道该把电梯停在什么位置，这样如果你需要电梯，它就在离你很近的地方。未来的汽车在这方面也会非常智能。是的，你可以告诉你的车，比如送我回家，呃，去这里、去那里，任何地方，而它就会照做。是的，而且会比人类安全一个数量级。事实上，在，在遥远的未来，我认为很可能会"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "be people may outlaw driving cars because it's too dangerous like you can't have a person driving a two-ton death machine if we if we have the right type of intelligence in a car we we also don't have to make the cars that heavy I would think you know cars are getting heavier and heavier and it's got more and more stuff in it because it needs to survive all these incredible collisions and things like that if I wonder if if we were to to design cars that that just simply don't Collide as much I wonder if we could we could relax on some of those laws and and make cars more fuel efficient and lighter and better to drive you could definitely do that if you could count on not not having an accident then you can get get rid of a huge amount of the crash structure",
+      "textZh": "是，人们可能会禁止驾驶汽车，因为那太危险了，比如你不能让一个人驾驶一台2吨重的死亡机器。如果我们，如果我们的汽车拥有正确类型的智能，我想，我们也不必把汽车造得那么重。你知道，汽车正变得越来越重，里面装的东西也越来越多，因为它需要在所有这些难以置信的碰撞之类的事故中承受下来。如果，我想知道，如果我们要设计那种，那种根本不会发生那么多碰撞的汽车，我想知道我们是否可以，我们可以放宽其中一些法规，并让汽车更节能、更轻，也更好驾驶。如果你能确信不会，不会发生事故，你绝对可以这么做，那么你就能去掉大量的碰撞防护结构"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "and the airbags and uh it'll be we're a long way from that because there's always going to be some for a very long time there'll be some amount of Legacy cars on the road um and I think it is important to just appreciate uh the size of the automotive industrial base like it's not as though like when somebody makes an autonomous car that suddenly all the cars will be autonomous it's like there's two billion of them okay so the the total total number of cars and trucks on the road is 2 billion in climbing the capacity of of car and truck production is about 100 million a year so if tomorrow all cars were autonomous it would take 20 years to replace the fleet assuming the fleet stayed the same size arguably it could get smaller if things are autonomous but",
+      "textZh": "以及安全气囊，还有，呃，我们距离那一步还很遥远，因为始终都会有一些，在很长一段时间里，道路上都会有一定数量的老旧汽车。嗯，而且我认为，认识到汽车工业基础的规模非常重要，比如，并不是说某个人造出一辆自动驾驶汽车，突然间所有汽车都会自动驾驶。比如，汽车有20亿辆，好吧。所以道路上的汽车和卡车总数，总总数是20亿辆，而且还在增加。汽车和卡车的产能约为每年1亿辆。所以即使明天所有汽车都是自动驾驶汽车，也需要20年才能替换整个车队，假设车队规模保持不变。可以说，如果实现自动驾驶，车队规模可能会缩小，但是"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "still it's it it's still you know maybe 15 years or something and it's not all gonna transition immediately it'll take quite a while so I mean and it's the same for electrification of cars um changing that industrial base to be electric I mean if if all cars were suddenly or fall cars produced were electric tomorrow it would still take 20 years to replace the fleet and right now it's less than one percent so now you you um you're you mentioned just now about about self-driving cars being easier than people think now you have your vision of how to go from where we are today now my model my p85d has Lane detection and and so it gets a little you know when I get close to a to a lane it detects the the uh the speed signs and it uses a uses a computer vision",
+      "textZh": "尽管如此，它，它仍然，你知道，可能需要15年之类的时间，而且不会全部立刻完成转型，需要相当长的时间。所以，我是说，汽车电动化也是如此。嗯，把那个工业基础转变为电动化，我是说，如果，如果所有汽车突然都，或者明天生产的所有汽车都是电动汽车，仍然需要20年才能替换整个车队，而目前这个比例还不到1%。所以现在你，你，嗯，你刚才提到自动驾驶汽车比人们想象的更容易。现在，你对于如何从我们今天所处的位置向前发展有自己的设想。现在我的 Model，我的 P85D 有车道检测，所以当我靠近一条，靠近一条车道时，它会稍微，你知道，它会检测这个，呃，限速标志，而且它使用，使用计算机视觉"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "technology to do that and but and that's today's Adas what is your what is your roadmap you know how is that different than other people's roadmap how do you think about how to get to self-driving cars yeah well um you you kind of need the the hardware Foundation the sort of sensor and Computing foundation and then you can keep uploading new software at least you can with the Tesla because it's always connected um so the car that you have you'll notice like it it's the features are steadily improving um we now you know have uh active cruise control so it'll it'll use a radar and Camera Fusion to track the car in front of you um it's also looking at with a some things that are coming out it looks at the brake lights so it anticipates that the car's got",
+      "textZh": "技术来做到这一点，而，但是，而这就是今天的 ADAS。你的，你的路线图是什么？你知道，它和其他人的路线图有什么不同？你如何考虑怎样实现无人驾驶汽车？是的，嗯，你，你大概需要这个，这个硬件基础，即某种传感器和计算基础，然后你就可以不断上传新软件，至少 Tesla 可以这样做，因为它始终保持联网。嗯，所以你拥有的那辆车，你会注意到，比如，它的功能在稳步改进。嗯，我们现在，你知道，拥有，呃，主动巡航控制，所以它会，它会融合使用雷达和摄像头来追踪你前方的汽车。嗯，它还会观察，随着一些即将推出的东西，它会观察刹车灯，所以它会预判那辆车已经"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "the brake lights are active it's going to get basically smarter and smarter even with the current Hardware Suite so the car Hardware Suite is 360 degree ultrasonic sensors that go up to about just over five meters it's a forward camera and a Ford radar so we'll we'll make even with just just that sensor Suite we can actually make a huge progress in autonomy we can certainly make the car steer itself on on a freeway and you know do Lane changes um it's really autonomy is about what level of reliability and safety uh do you want um even with the current census wheat we could make the cargo fully autonomous but only to but but not to a level of reliability that would be safe in say um a uh complex uh Urban environment at 30 miles an hour with the lane markings",
+      "textZh": "刹车灯亮起了。即使使用当前这套硬件，它基本上也会变得越来越智能。所以这套汽车硬件包括360度超声波传感器，探测距离最高略超5米，还有一个前置摄像头和一个福特雷达。所以我们，我们即使只使用，只使用这套传感器，也确实可以在自动驾驶方面取得巨大进展。我们当然可以让汽车在，在高速公路上自行转向，而且，你知道，完成变道。嗯，自动驾驶真正关乎的是，你想要什么级别的可靠性和安全性。呃，即使使用当前的传感器小麦，我们也可以让货物完全自动驾驶，但只能达到，但是，但是达不到足以在比如，嗯，一个，呃，复杂的，呃，城市环境中以每小时30英里的速度安全行驶的可靠性水平，并且有车道标线"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "out there and children could be playing and things could be coming at you from the side so in order to solve that you need a a bigger sensor suite and you need more computing power um and I think what you're doing actually with the the tegres in the future is super interesting and will really be a big enabler for autonomous driving so I think you know Nvidia is doing really great stuff on that front I appreciate that yeah and so some of the challenges that you see what are the what are some of the technological hurdles that and there's all kinds of researchers in the room there all kinds of engineers in the room what are some what are some of the technological hurdles that you think are really important for us to go tackle um surely surely uh we're going",
+      "textZh": "外面可能有孩子在玩，也可能有东西从侧面向你过来，所以为了解决这个问题，你需要一套，一套更大的传感器套件，还需要更强的计算能力。嗯，我认为你们未来在 tegres 方面实际正在做的事情非常有趣，而且确实会成为自动驾驶的一大推动因素。所以我觉得，你知道，Nvidia 在这方面做得真的很棒。我很感激。是的，那么，在你看到的一些挑战中，有哪些，有哪些技术障碍——现场有各种各样的研究人员，也有各种各样的工程师——你认为有哪些，有哪些技术障碍是我们真正需要着手攻克的？嗯，当然，当然，呃，我们将会"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "to get to some better cruise controls on highways but beyond that what are some of the things that you would like us to go focus on the tackle for the car industry um well it's it your work gets tricky is is just the um is is that sort of urban environment around 30 or 40 miles an hour so like right right now it's fairly easy to deal with say things that are sub five to ten miles an hour because we can do that do that with the Ultrasonics we just make sure it doesn't hit anything right you know because you can always this is the right thing to do largely why would you want to hit anything with you yeah exactly so at five to ten miles an hour you can stop uh within the range of the Ultrasonics um and then then uh from let's say 10 miles an hour to um they're",
+      "textZh": "在高速公路上实现一些更好的巡航控制，但除此之外，对于汽车行业，你还希望我们重点着手解决哪些事情？嗯，好吧，它是，它，你的工作变得棘手的地方就是，就是，嗯，就是那种时速约30或40英里的城市环境。所以，比如现在，应对时速低于5到10英里的情况相当容易，因为我们可以用超声波传感器做到这一点。我们只要确保它不会撞到任何东西，对吧？你知道，因为你总是可以——这基本上是正确的做法。你为什么会想用你自己去撞任何东西？是啊，没错。所以在时速5到10英里时，你可以在超声波传感器的探测范围内停下来。嗯，然后，然后，呃，从比方说时速10英里到，嗯，它们"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "called sort of 50 miles an hour that that area in in complex um Suburban environments that's that's where uh you can get a lot of um unexpected things happening like let's say there's a like a road closure or a manhole cover open children playing as a big issue bicycles um once you get above 50 miles an hour and you're in kind of a freeway environment then it also gets easier again like the the the the set of possibilities is much reduced um so like so Highway cruise is easy low speed is easy intermediate is hard um and so being able to recognize what you're seeing and make the right decision in in the Suburban environment in that 10 10 miles an hour to 50 mile an hour zone is is the challenging portion um but but I really think like it's I mean I almost",
+      "textZh": "被称为大约时速 50 英里，在复杂的，嗯，郊区环境中的那一段，那才是，呃，可能发生许多，嗯，意外情况的地方。比如说，可能有道路封闭，或者井盖打开，孩子玩耍是一个大问题，还有自行车。嗯，一旦超过时速 50 英里，而且你处于类似高速公路的环境中，事情又会变得更容易，比如，可能性的范围会大幅缩小。嗯，所以，比如，高速公路巡航很容易，低速很容易，中间速度很难。嗯，因此，在郊区环境中，在时速 10，10 英里到 50 英里的区间里，能够识别你所看到的东西并作出正确决定，才是具有挑战性的部分。嗯，但是，但是我真的认为，比如，这，我是说，我几乎"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "this may sound a little complacent but I almost view it as like a solved problem like we know exactly what to do and we'll be there in a few years right just just like Mars that's kind of the the the the the spirit of of innovators I mean in a lot of ways in your mind you kind of you kind of see things solvable or arguably arguably solved and and a lot of it is is really about getting there yeah we'll take autonomous cars for granted in in quite a short period of time it's amazing how comfortable you get and how quickly you get comfortable with it um so now what about government government policies like one of the things that I would like to do is I would I would just like to keep working on my email as I'm driving to work sure you know there's there's",
+      "textZh": "这听起来可能有点自满，但我几乎把它看作一个已经解决的问题。比如，我们确切地知道该做什么，几年后就能做到，对吧？就，就像火星一样。这算是创新者的，那种，那种，那种，那种精神。我的意思是，在很多方面，在你的脑海中，你算是，你算是认为事情是可以解决的，或者可以说，可以说已经解决了，而其中很大一部分其实就是抵达那里。是的，我们会在相当短的时间内把自动驾驶汽车视为理所当然。你会变得多么适应，以及你会多么迅速地适应它，真的很惊人。嗯，那么政府呢，政府政策呢？比如，我想做的一件事是，我只是想在开车上班时继续处理我的电子邮件。当然，你知道，有，有"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "a 30.",
+      "textZh": "一个30。"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "somebody will do that already like I said I would like to do it without without uh without breaking the law yeah yeah so so where where where do you where do you think government intervention Falls in in some of this stuff because you know obviously if your car drives by itself and it does it even better than people you would like it to drive by itself but largely the laws don't allow you to do that today right absolutely so how do we cross that bridge and and how do you think about government intervention regulations right so I think um it'll be from the point at which a car is definitely safer than a person um that there's probably at least another two or three years after that before Regulators will allow that to be the case because they will want",
+      "textZh": "已经有人会那么做了。就像我说的，我希望在不，不，呃，不违法的情况下这么做。是的，是的。那么，那么政府干预在这些事情中的定位，你，你认为在哪里？因为，你知道，很显然，如果你的车能自行驾驶，而且甚至比人开得更好，你会希望它自行驾驶，但总体而言，现行法律并不允许你这么做，对吧？完全正确。那么，我们要如何跨过这座桥？你又如何看待政府干预和监管？对。所以我认为，嗯，从汽车明确比人更安全的那个时间点开始，嗯，之后可能至少还要再过 2 或 3 年，监管机构才会允许这种情况成为现实，因为他们会想要"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "to see a large amount of statistical proof that is not merely as safe as a person but much safer so I think what you can do is you can run run it in Shadow mode and essentially say okay this is this is what the computer would have done in all these circumstances and was there a crash or was there not like what are the false positives about false negatives and then it's you know it's achieve a large population group and then and then make a really clear statistical argument with the regulators and then they're going to digest that observe it for a while see if they agree with it and and then I think they will because the evidence will be overwhelming yeah and the evidence is actually already quite overwhelming that if you if you uh if you uh would just",
+      "textZh": "看到大量统计证据，证明它不仅仅和人一样安全，而是安全得多，所以我认为你可以做的是，你可以让它以影子模式运行，然后基本上说，好吧，在所有这些情况下，这就是……这就是计算机会做的事情，究竟发生了碰撞还是没有，比如误报情况如何，漏报情况如何，然后它，你知道，它覆盖一个庞大的人群，然后……然后向监管机构提出一个非常清晰的统计论证，之后他们会消化这些信息，观察一段时间，看看自己是否认同，然后……然后我认为他们会认同，因为证据将是压倒性的。对，而且实际上证据已经相当充分了，如果你……如果你，呃，如果你，呃，只是会"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "would have noticed a brake light in front of you in the highway and you didn't you didn't crash into a rear end collision right so a lot of laser safe you know ideally ideally hopefully people don't don't overreact with this with this unknown technology um and uh and prematurely regulate no premature regulations oh I think when it comes to Public Safety I think there's there's an argument for being you know quite cautious and and making sure that things are okay before before there's a change and um I mean I don't think it's the case that right now there's a fully autonomous system and Regulators I'm not approving it that that could really be a substitute for people but they will be in a few years now as we get more computerized technology into these",
+      "textZh": "会注意到高速公路上你前方的刹车灯，而你没有……你没有撞上去造成追尾，对吧，所以很多激光安全，你知道，理想情况下，理想情况下，希望人们不会对这种……这种未知技术反应过度，嗯，并且，呃，并且过早监管。不要过早监管。哦，我认为在公共安全方面，我认为确实有理由保持，你知道，相当谨慎，并且……并且在作出改变之前……之前确保一切没问题，而且，嗯，我的意思是，我不认为目前的情况是，已经存在一个完全自动驾驶系统，而监管机构不批准它，不批准那个真正能够替代人的系统，但几年后它们会出现。现在，随着我们把更多计算机化技术引入这些"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "cars and this car becomes really a software-defined car I mean a lot of your engineers are software Engineers I mean absolutely one of the great things about Tesla you guys right here in Silicon Valley you're rich with software engineers and and you have that that computer sensibility about architecting a computer properly designing the software properly designing the software for many generations of car so it refines and gets better and better and it has been getting better I mean the software from the first time you sent me my Tesla to the now it's just like it's unrecognizable software right big improvements I mean that's why the first thing we try to do is establish the the hardware platform make sure that we have the the sensors and compute power",
+      "textZh": "汽车，而这辆车真正变成一辆软件定义的汽车，我是说，你们的很多工程师都是软件工程师。我是说，当然。Tesla 的一大优势就是，你们这些人就在硅谷，这里软件工程师资源丰富，而且……而且你们拥有那种计算机思维，知道如何正确构建计算机架构、正确设计软件、为许多代汽车正确设计软件，因此它会不断完善，变得越来越好，而且它一直在变得更好。我的意思是，从你第一次把我的 Tesla 送给我时的软件到现在，它简直像是完全认不出来的软件了，对吧。巨大的改进。我的意思是，这就是为什么我们努力做的第一件事，是建立……建立硬件平台，确保我们拥有……拥有传感器和计算能力"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "um and and so we do that first even though the software is only taking advantage of a small percentage of the sensor was in compute power and then we do continuous updates to make the car more and more capable and we're going to see a lot of that happen later this year if I didn't have an announcement on Thursday morning I would be saying a lot more of it yeah the audience doesn't understand why they have to wait until Thursday morning you tweeted it already you're announcing you're going to do an OTA what kind of announcement is that I'm going to do an OTA on on Thursday that's like a new product announcement these days it's just it's just that well it's just saying that there's going to be a call on Thursday morning and I'll describe what it's going",
+      "textZh": "嗯，而且……而且所以我们首先做这件事，尽管软件只利用了传感器和计算能力的一小部分，然后我们持续进行更新，让汽车的能力越来越强，而今年晚些时候，我们会看到很多这样的事情发生。如果我不是周四早上要发布一项消息，我会多说很多。是啊，观众不明白为什么他们必须等到周四早上。你已经发推文了，你要宣布你将进行一次 OTA，这算是什么消息？我将在……在周四进行一次 OTA，如今这就像是发布新产品一样。这只是……这只是，嗯，这只是说周四早上会有一个电话会议，我会说明它将会"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "to be in version 6.",
+      "textZh": "会出现在第6版中。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "2 for anyone who's interested that's so awesome though I'm interested I get excited every time I get an OTA and it's you know one of the things that was really interesting is in the beginning when we first built the first Tesla together the Tegra in it we thought was more than enough and recently you said can we just squeeze more performance out of that platform and it just happened in literally two years you know several versions of your software updates all of a sudden the Computing platform is not powerful enough right and and it's because you want to add more features and a lot of features these days are based on software true yeah and so so um one last question and it's it has to do with I guess uh something that that a lot of people are very concerned",
+      "textZh": "2，给任何感兴趣的人。不过那太棒了，我很感兴趣。我每次收到 OTA 都会很兴奋，而且，你知道，其中一件非常有意思的事是，最开始我们一起制造第一辆 Tesla 时，我们认为里面的 Tegra 已经绰绰有余，而最近你说，我们能不能从那个平台再挤出一些性能，而这真的只用了2年时间，你知道，在你们软件的几个更新版本之后，突然之间计算平台就不够强大了，对吧。而且……而且这是因为你想添加更多功能，而如今很多功能都是基于软件的。确实。是啊，所以……所以，嗯，最后一个问题，它涉及，我想，呃，一件……一件很多人非常担心"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "about which is your card becomes a software platform and software platforms get hacked how do you think about that how do you think about security and what are some of the things that we could do to try to make make uh make the car more resilient to to uh security attacks yeah I think that that becomes really important when the cars are fully autonomous I mean the way the cars work right now um every system in the car it's assumed could actually have a mechanical failure of some kind or a logic failure a fundamental logic failure so you can always overwhelm the the breaking of the car with your foot and you can overwhelm the steering wheel with your hands so uh but but when when there isn't a steering wheel there isn't you know brake pedal or something",
+      "textZh": "的事，也就是你的汽车变成了一个软件平台，而软件平台会遭到黑客攻击。你怎么看待这个问题？你怎么看待安全性？我们可以做些什么，来努力让……让，呃，让汽车更能抵御……抵御，呃，安全攻击？是啊，我认为，当汽车实现完全自动驾驶时，这会变得非常重要。我的意思是，汽车目前的工作方式是，嗯，假定车内的每个系统实际上都有可能发生某种机械故障，或者逻辑故障，一种根本性的逻辑故障，所以你始终可以用脚压过汽车的制动系统，也可以用手压过方向盘。所以，呃，但是……但是当……当没有方向盘，没有，你知道，刹车踏板或其他东西时"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "in the like you know many years from now then it's really really dangerous you know because uh but I bet even as it is right now where we spend most of our time on is making sure that it's it's very difficult to do um a multi-car hack like if you have direct access to a car just like if you've got direct access to a computer or any even a conventional car you can do a lot of things to it um but that that's less of a concern than somebody being able to hack an arbitrary car or multiple cars so that's what we focus our energy on is making sure that that in that way it's it's a lot like a like a cell phone or a laptop uh you know you you focus on making sure that they they can't or that it's very difficult for there to be any kind of system-wide hack so",
+      "textZh": "在比如，你知道，从现在起很多年以后，那就真的真的很危险，你知道，因为，呃，但我敢说，即使是现在这种情况，我们花最多时间做的，也是确保实施多车黑客攻击非常困难。比如，如果你能直接接触一辆车，就像你能直接接触一台电脑，甚至任何传统汽车一样，你可以对它做很多事情，嗯，但相比之下，更值得担忧的是有人能够入侵任意一辆车或多辆车。所以我们集中精力做的，就是确保在这方面，它很像手机或笔记本电脑，呃，你知道，你要专注于确保它们不能，或者说让任何形式的全系统入侵都非常困难，所以"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "we put a lot of effort into that and we have third parties try to attack it um and then certain parts of the the car at the very fundamental level like the Drive Unit controller uh or the steering controller have an additional level of security so somebody may be able to uh you know hack something that's uh cosmetic but it's much harder to hack something that's that's actually physically dangerous there's multiple levels of security yeah and so this way if you if you weren't able to penetrate maybe the infotainment system it doesn't allow you quickly as a result of that right I may display a funny message or something but it would not you would not be able to then control the steering or the the motor yeah well the future of cars is so exciting and the",
+      "textZh": "我们为此投入了大量精力，也让第三方尝试攻击它，嗯，然后汽车的某些部件，在非常基础的层面，比如驱动单元控制器，呃，或者转向控制器，都有额外一层安全防护。所以有人也许能够，呃，你知道，入侵某种装饰性的东西，但要入侵真正具有物理危险性的东西就困难得多。有多层安全防护。对。所以这样一来，如果你，如果你无法攻破也许是信息娱乐系统，它不会让你因此很快就，对吧，它可能会显示一条有趣的消息之类的，但它不会，你无法随后控制转向或电机。对。嗯，汽车的未来太令人兴奋了，而且"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "work that you guys are doing are so exciting and it's it's it's great to see you guys pioneering these computerized cars I mean a lot of people think about think about Tesla as the electric car and I but I think it's obviously more than that it's an electric car but it's a whole computer platform on top of that yeah I think I think Tesla's I mean Tes is sort of the leader in electric cars but I think will also sort of be the leader of an autonomous cars at least autonomous cars that people can buy and and we're so we're I mean if there's anybody's interested in working on autonomous cars we'd love to have you work at Tesla by the way so we're going to put a lot of effort into Automotive uh or autonomous driving because it's going to be the default thing",
+      "textZh": "你们正在做的工作太令人兴奋了，看到你们开创这些计算机化汽车真的，真的，真的很棒。我的意思是，很多人想到，想到 Tesla 时，会把它看作电动汽车，而我，但我认为它显然不止于此。它是一辆电动汽车，但在此之上，它还是一个完整的计算机平台。对，我认为，我认为 Tesla 的，我是说 Tes 算是电动汽车领域的领导者，但我认为也会算是自动驾驶汽车领域的领导者，至少是人们可以买到的自动驾驶汽车。而且我们，所以我们，我的意思是，如果有人有兴趣从事自动驾驶汽车工作，顺便说一下，我们很希望你来 Tesla 工作。所以我们将为汽车，呃，或者说自动驾驶投入大量精力，因为它将成为默认的事物"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "yeah um and it could save a lot of lives yeah to save a lot of lives and hopefully hopefully one of these days I could it would be nice if nvidia's campus has no parking lot yeah right that it drops us off and it meanders off to a place where the land's a little cheaper and you know and Parks a whole bunch of cars there and and when it's time to go home yeah someone had to come it will be extremely transformative that's for sure um but yeah I mean when it comes to AI I'm not really worried about sort of narrow AI like like autonomous cars or like you know a smart air conditioning unit at the house or something it's more like sort of the deep intelligent stuff that is where we need to be cautious like I actually think there's many potential flavors of",
+      "textZh": "对，嗯，而且它可以挽救很多生命。对，挽救很多生命。而且希望，希望有一天我能，如果 NVIDIA 的园区没有停车场，那会很好。对吧？它把我们送下车，然后慢慢开到一个土地便宜一点的地方，你知道，把一大堆车停在那里，然后到了回家的时间，对，就得有人过来。它肯定会带来极具变革性的影响，嗯，但对，我的意思是，说到 AI，我其实并不担心那种狭义 AI，比如，比如自动驾驶汽车，或者像，你知道，家里的智能空调设备之类的。更像是那种深层智能的东西，那才是我们需要谨慎对待的地方。比如我其实认为 AI 有许多潜在的类型"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "AI um and you know it's odd that we're at we're so close to the Advent of AI like it's it seems strange that we would be alive in this in this time um well come back every year come back every year and you'll see the the work that this this group is going to do I mean there's so much deep learning work being done here you have a lot of Engineers here as well and I they're they're uh it's fantastic to see the the whole Community focused on advancing this field and along the way we're going to spin off a whole bunch of new capabilities as you know that's going to make cars just safer and more fun to drive long before we have to get to to essentially a self-driving car right there's going to be a lot of versions along the way that's just going to bring joy",
+      "textZh": "嗯，而且你知道，很奇怪的是，我们正处于，我们如此接近 AI 的到来，比如，感觉很奇怪，我们会活在这个，这个时代。嗯，那就每年都回来，每年都回来，你会看到这个，这个群体将要完成的工作。我的意思是，这里正在开展如此多的深度学习工作，你们这里也有很多工程师，而且我，他们，他们，呃，看到整个社群都专注于推动这个领域发展，真是太棒了。在此过程中，我们还会衍生出一大批新的能力，正如你所知道的，早在我们必须达到本质上的自动驾驶汽车之前，这些能力就会让汽车变得更安全、驾驶起来更有趣，对吧？在这个过程中还会有很多版本，它们就是会带来快乐"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "to a lot of people yeah absolutely I just hope there's something left for us humans to do well I'm not gonna let let go of my steering wheel you know I've got none on craziness mode and the sports story mode is that the way you have it you you get driven to work now no I well I I drive half the time actually and which mode do you have it in I always have it insane mode yeah all right all right thank you all right foreign the engineer of Engineers Elon Musk okay let me summarize very quickly we announced four things today we had really exciting show really exciting event a lot of it's going to focus on deep learning you guys know why now deep learning is so important deep learning is so important to us and the tools that we're going to create so that we",
+      "textZh": "对很多人来说，是的，绝对如此。我只希望还能给我们人类留点事情做。嗯，我不会放开我的方向盘，你知道，我在疯狂模式下一个都没开，而运动故事模式就是你用的方式吗？你现在是被车载着去上班吗？不，我，嗯，我其实有一半时间自己开。那你用的是哪种模式？我一直用疯狂模式。好的，好的，谢谢。好的，外国的。工程师中的工程师，埃隆·马斯克。好，让我非常快速地总结一下。我们今天宣布了4件事。我们举办了一场非常激动人心的展示，非常激动人心的活动。其中很多内容将聚焦于深度学习。你们现在知道为什么了，深度学习如此重要。深度学习对我们以及我们将要创造的工具如此重要，这样我们"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "can create the future together first I announced Titan X the world's fastest GPU I announced digits def box a GPU deep learning platform so that data scientists could plug it in Get Right to Work Pascal is going to be 10 times faster than Maxwell in deep learning as a result of three fundamental Technologies on top of the Pascal architecture 3D memory mixed mode precision and MV link those three capabilities in on top of the Pascal architecture will give us a 10x boost and then I talked about the Nvidia Drive PX a developers platform that enjoys the ability to bring deep learning to augment today's Adas and start us down the Journey of creating more exciting cars in the future a deep learning platform for self-driving cars everybody have a great GTC thank",
+      "textZh": "就能共同创造未来。首先，我发布了世界上最快的 GPU Titan X。我发布了 DIGITS def box，一个 GPU 深度学习平台，让数据科学家可以把它接上，立即开始工作。由于 Pascal 架构之上的3项基础技术，Pascal 在深度学习方面将比 Maxwell 快10倍：3D 内存、混合模式精度和 MV Link。这3项能力加在 Pascal 架构之上，将为我们带来10倍提升。然后我谈到了 Nvidia Drive PX，这是一个开发者平台，具备引入深度学习的能力，以增强当今的 Adas，并让我们踏上未来打造更令人兴奋的汽车的旅程，一个面向自动驾驶汽车的深度学习平台。祝大家度过一个精彩的 GTC，谢谢"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "you thank you",
+      "textZh": "你 谢谢你"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T22:40:58.552Z",
+    "reviewedAt": "2026-09-12T22:51:40.391Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:45.537Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=TDm6Snkle70",
+  "sourceHash": "5eb0c94ee3a0f106844ae0c5fba2505626ee916e17946e8b1216e0ef95a1ffec"
+}

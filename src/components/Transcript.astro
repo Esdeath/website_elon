@@ -1,0 +1,220 @@
+---
+import { Clock3 } from "@lucide/astro";
+import { formatTimestamp } from "../lib/display";
+import type { VideoEntry } from "../lib/types";
+
+interface Props {
+  video: VideoEntry;
+  canSeek?: boolean;
+}
+
+const { video, canSeek = false } = Astro.props;
+---
+
+{video.contentKind === "none" || video.segments.length === 0 ? (
+  <section class="transcript-empty" aria-labelledby="transcript-heading">
+    <h2 id="transcript-heading">暂无可用正文</h2>
+    <p>源档案没有提供文字记录。本站不会根据标题或视频内容生成替代文本。</p>
+  </section>
+) : (
+  <section class="transcript" aria-labelledby="transcript-heading">
+    <div class="transcript-heading">
+      <div>
+        <h2 id="transcript-heading">
+          <span data-lang-block="zh">中文实录</span>
+          <span data-lang-block="en" data-pagefind-ignore hidden lang="en">Transcript</span>
+        </h2>
+        <p>{video.segments.length} 个段落</p>
+      </div>
+      <a href="#detail-top">返回顶部</a>
+    </div>
+
+    <div data-lang-block="zh">
+      {video.segments.map((segment, index) => (
+        <article class:list={["transcript-segment", { dialogue: video.contentKind === "dialogue" }]}>
+          <header>
+            <h3 id={`segment-${index + 1}`}>{segment.speakerZh || segment.speakerEn || `第 ${index + 1} 段`}</h3>
+            {segment.startSec !== undefined && canSeek && (
+              <button type="button" data-seek={segment.startSec} title="跳到视频中的这个位置">
+                <Clock3 size={14} stroke-width={1.8} aria-hidden="true" />
+                {formatTimestamp(segment.startSec)}
+              </button>
+            )}
+            {segment.startSec !== undefined && !canSeek && (
+              <span class="timestamp"><Clock3 size={14} stroke-width={1.8} aria-hidden="true" /> {formatTimestamp(segment.startSec)}</span>
+            )}
+          </header>
+          <p lang={segment.textZh ? undefined : "en"}>{segment.textZh || segment.textEn}</p>
+        </article>
+      ))}
+    </div>
+
+    <div data-lang-block="en" data-pagefind-ignore hidden lang="en">
+      {video.segments.map((segment, index) => (
+        <article class:list={["transcript-segment", { dialogue: video.contentKind === "dialogue" }]}>
+          <header>
+            <h3 id={`segment-en-${index + 1}`}>{segment.speakerEn || segment.speakerZh || `Paragraph ${index + 1}`}</h3>
+            {segment.startSec !== undefined && canSeek && (
+              <button type="button" data-seek={segment.startSec} title="Jump to this point in the video">
+                <Clock3 size={14} stroke-width={1.8} aria-hidden="true" />
+                {formatTimestamp(segment.startSec)}
+              </button>
+            )}
+            {segment.startSec !== undefined && !canSeek && (
+              <span class="timestamp"><Clock3 size={14} stroke-width={1.8} aria-hidden="true" /> {formatTimestamp(segment.startSec)}</span>
+            )}
+          </header>
+          <p>{segment.textEn}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+)}
+
+<script>
+  const seek = (seconds: number) => {
+    const container = document.querySelector<HTMLElement>("[data-lazy-video]");
+    if (!container) return;
+    const iframe = container.querySelector<HTMLIFrameElement>("iframe");
+
+    if (!iframe) {
+      container.dispatchEvent(new CustomEvent("archive:seek", { detail: seconds }));
+      return;
+    }
+
+    const message = JSON.stringify({ event: "command", func: "seekTo", args: [seconds, true] });
+    iframe.contentWindow?.postMessage(message, "https://www.youtube-nocookie.com");
+  };
+
+  document.querySelectorAll<HTMLButtonElement>("[data-seek]").forEach((button) => {
+    button.addEventListener("click", () => {
+      seek(Number(button.dataset.seek || 0));
+    });
+  });
+</script>
+
+<style>
+  .transcript-heading {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    align-items: end;
+    margin-top: 46px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .transcript-heading h2,
+  .transcript-empty h2 {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 1.65rem;
+  }
+
+  .transcript-heading p {
+    margin: 4px 0 0;
+    color: var(--muted);
+    font-size: 0.78rem;
+  }
+
+  .transcript-heading a {
+    color: var(--muted);
+    font-size: 0.78rem;
+  }
+
+  .transcript-segment {
+    display: grid;
+    grid-template-columns: minmax(112px, 0.28fr) minmax(0, 1fr);
+    gap: 28px;
+    padding-block: 27px;
+    border-bottom: 1px solid var(--line);
+    scroll-margin-top: 20px;
+  }
+
+  .transcript-segment header {
+    min-width: 0;
+  }
+
+  .transcript-segment h3 {
+    margin: 0 0 9px;
+    overflow-wrap: anywhere;
+    font-family: var(--sans);
+    font-size: 0.79rem;
+    font-weight: 650;
+    line-height: 1.45;
+    scroll-margin-top: 20px;
+  }
+
+  .transcript-segment button {
+    display: inline-flex;
+    gap: 5px;
+    align-items: center;
+    min-height: 28px;
+    border: 0;
+    border-radius: 3px;
+    padding: 3px 7px;
+    color: var(--signal);
+    background: var(--signal-soft);
+    font-size: 0.73rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .timestamp {
+    display: inline-flex;
+    gap: 5px;
+    align-items: center;
+    color: var(--muted);
+    font-size: 0.73rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .transcript-segment button:hover {
+    color: var(--surface);
+    background: var(--signal);
+  }
+
+  .transcript-segment > p {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 1.03rem;
+    line-height: 1.95;
+    overflow-wrap: anywhere;
+  }
+
+  .transcript-segment:not(.dialogue) {
+    grid-template-columns: 72px minmax(0, 1fr);
+  }
+
+  .transcript-empty {
+    margin-top: 42px;
+    border-block: 1px solid var(--line-dark);
+    padding: 46px 0;
+  }
+
+  .transcript-empty p {
+    max-width: 55ch;
+    margin: 12px 0 0;
+    color: var(--muted);
+    font-family: var(--serif);
+    line-height: 1.8;
+  }
+
+  @media (max-width: 640px) {
+    .transcript-segment,
+    .transcript-segment:not(.dialogue) {
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+
+    .transcript-segment header {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      align-items: center;
+    }
+
+    .transcript-segment h3 {
+      margin: 0;
+    }
+  }
+</style>

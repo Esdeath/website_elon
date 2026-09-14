@@ -1,0 +1,3078 @@
+{
+  "id": "tesla-solarcity-acquisition-call-2016-06-22",
+  "slug": "tesla-solarcity-acquisition-call-2016-06-22",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2016-06-22",
+  "titleEn": "Tesla–SolarCity Acquisition Call",
+  "titleZh": "Tesla–SolarCity 收购电话会议",
+  "summaryEn": "Musk hosts the investor conference call laying out the rationale for Tesla's proposed acquisition of SolarCity and his vision of a single integrated sustainable-energy company.",
+  "summaryZh": "马斯克主持投资者电话会议，阐述 Tesla 拟议收购 SolarCity 的理由，以及他对一家统一整合的可持续能源公司的愿景。",
+  "sourceUrl": "https://www.youtube.com/watch?v=dm3q5ABMP14",
+  "sourceLabel": "Electrek.co",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-solarcity-acquisition-call-2016-06-22",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/dm3q5ABMP14",
+  "thumbnailUrl": "https://i.ytimg.com/vi/dm3q5ABMP14/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 5581,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Operator",
+      "startSec": 0.48,
+      "textEn": "Good day, ladies and gentlemen, welcome to the Tesla Motors conference call. At this time, all participants are in",
+      "textZh": "大家好，女士们、先生们，欢迎参加 Tesla Motors 电话会议。此时，所有与会者均处于",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Analyst",
+      "startSec": 5.88,
+      "textEn": "a listen only mode.",
+      "textZh": "仅收听模式。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Operator",
+      "startSec": 7.2,
+      "textEn": "Later we will conduct the question and answer session and instructions will follow at that time. If anyone should require assistance during the call, please press Star then zero on your touchtone telephone. As a reminder, this conference may be recorded. I would like to introduce your host for today's conference, Mr. Jeff Evanson, Investor Relations, Tesla Motors.",
+      "textZh": "稍后我们将进行问答环节，届时会提供相关操作说明。如果有人在电话会议期间需要协助，请在按键式电话上先按星号键，再按0。提醒一下，本次会议可能会被录音。现在请允许我介绍今天会议的主持人，Tesla Motors 投资者关系负责人 Jeff Evanson 先生。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 25.67,
+      "textEn": "So you may begin.",
+      "textZh": "那么，您可以开始了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 28.55,
+      "textEn": "Thank you Terea and good morning everyone. Welcome to Tesla's call to discuss the rationale for our offer to acquire SolarCity. I'm joined today by Elon Musk, Tesla Chairman and CEO Todd Marin, Tesla General Counsel J.B. strabo, our CTO and CFO Jason Wheeler. Yesterday we announced our offer to acquire SolarCity in filings with the SEC and through a blog post available at www.tes.",
+      "textZh": "谢谢你，Terea，大家早上好。欢迎参加 Tesla 的电话会议，讨论我们收购 SolarCity 的要约所依据的理由。今天与我一同出席的有 Tesla 董事长兼首席执行官埃隆·马斯克、Tesla 总法律顾问 Todd Marin、我们的首席技术官 J.B. strabo，以及首席财务官 Jason Wheeler。昨天，我们通过提交给美国证券交易委员会的文件宣布了收购 SolarCity 的要约，并发布了一篇可在 www.tes. 查阅的博客文章。",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 59.81,
+      "textEn": "during our call this morning, we'll discuss some of our business outlook and make other forward looking statements. These are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent Form 10Q filed with the SEC.",
+      "textZh": "在今天上午的电话会议期间，我们将讨论部分业务展望，并作出其他前瞻性陈述。这些陈述基于我们截至今天的预测和预期。由于多项风险和不确定性，包括我们最近向美国证券交易委员会提交的10-Q表格中提到的风险和不确定性，实际事件或结果可能存在重大差异。",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 86.32,
+      "textEn": "We're going to start today's call with some comments by Todd and then Elon, followed by Q and A. So go ahead and press Star one now to get into the queue to ask a question. And with that I'll pass it over to you, Todd.",
+      "textZh": "今天的电话会议将先由Todd发表一些意见，然后是埃隆，接着是问答环节。所以现在请按星号键再按1，进入提问队列。那么，Todd，我把话交给你。",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 102.24,
+      "textEn": "Good morning everyone. Thanks, Jeff.",
+      "textZh": "大家早上好。谢谢，Jeff。",
+      "speakerZh": "Tesla顾问"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 104.32,
+      "textEn": "So I just wanted to briefly touch",
+      "textZh": "所以我只是想简要谈谈",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 105.76,
+      "textEn": "on some of the process points and",
+      "textZh": "一些流程方面的要点，以及",
+      "speakerZh": "Tesla顾问"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Todd Maron (General Counsel)",
+      "startSec": 107.96,
+      "textEn": "why yesterday's announcement might have looked somewhat different to people who normally see these kinds of announcements. It's actually somewhat of an easy explanation, but it is somewhat of a unique situation. So usually I know that everyone is used to seeing an announcement when there is actually a definitive agreement that is reached and not just simply an offer. And obviously in our situation, we were only announcing an offer and then as a result, you didn't receive the same kind of information that you would receive when an agreement is reached, such as the agreement itself and detailed financial information about the combined company.",
+      "textZh": "为什么昨天的公告在通常看到这类公告的人看来可能有些不同。其实解释起来比较容易，但这确实是一种有些独特的情况。所以通常，我知道大家习惯于在确实达成最终协议时看到公告，而不是只有一项要约。显然，在我们的情形中，我们宣布的只是一项要约，因此，你们没有收到达成协议时会收到的同类信息，例如协议本身以及有关合并后公司的详细财务信息。",
+      "speakerZh": "托德·马龙（总法律顾问）"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Todd Maron (General Counsel)",
+      "startSec": 145.26,
+      "textEn": "The reason for that is that Elon is a 5% stockholder in SolarCity and he's required by the securities laws to keep the market informed through a Schedule 13D filing about his plans with respect to those holdings. And because of Tesla's decision to make an offer to SolarCity and Elon's support for that decision, it was appropriate to amend his schedule 13D to update the market even though no definitive agreement had yet been reached.",
+      "textZh": "原因是，埃隆是SolarCity持股5%的股东，证券法要求他通过提交附表13D，让市场及时了解他对于这些持股的计划。而由于Tesla决定向SolarCity提出要约，并且埃隆支持这一决定，因此即使尚未达成最终协议，修改他的附表13D以向市场提供最新信息也是适当的。",
+      "speakerZh": "托德·马龙（总法律顾问）"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Todd Maron (General Counsel)",
+      "startSec": 172.29,
+      "textEn": "It's obviously our hope to engage in a due diligence process with SolarCity and ultimately reach that agreement. And all that information that you would customarily see at that time, including the agreement itself, and detailed financial information about the combined companies would be provided then. But the result of this is that this is actually a more transparent process because you're essentially seeing behind the curtains more than you would ordinarily see in a transaction because you're actually getting additional information up front at the offer stage and getting an advanced look at the strategic business rationale for the deal.",
+      "textZh": "显然，我们希望与SolarCity开展尽职调查流程，并最终达成那项协议。届时通常会看到的所有信息，包括协议本身以及有关合并后公司的详细财务信息，都会在那时提供。但这样做的结果是，这实际上是一个更加透明的流程，因为与通常在一项交易中能看到的情况相比，你们实质上看到了更多幕后信息，因为你们实际上在要约阶段就预先获得了额外信息，并提前了解了这项交易的战略业务理由。",
+      "speakerZh": "托德·马龙（总法律顾问）"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Todd Maron (General Counsel)",
+      "startSec": 207.64,
+      "textEn": "And so with that, I'll actually pass it over to Elon so that he can speak more about the strategic rationale for the deal and why we do think that combining the two companies makes sense here.",
+      "textZh": "那么接下来，我把话交给埃隆，请他进一步谈谈这项交易的战略理由，以及为什么我们确实认为将两家公司合并在这里是合理的。",
+      "speakerZh": "托德·马龙（总法律顾问）"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 220.12,
+      "textEn": "Sure, I did touch on most of this yesterday, but I think what this call is mostly going to be about is getting into maybe some of the detailed questions that people have.",
+      "textZh": "当然，我昨天确实谈到了其中大部分内容，但我认为这次电话会议主要可能是深入讨论大家提出的一些详细问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Analyst",
+      "startSec": 232.97,
+      "textEn": "The,",
+      "textZh": "这个，",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 236.41,
+      "textEn": "as I said yesterday, there's kind of three parts to, and as I said at the actually powerwall presentation last year, so just as part of why I think this is really quite an obviously correct move, is that in order to solve sustainable energy question, we need sustainable energy production, which is going to come primarily in the form of solar, overwhelmingly in the form of solar in our view. Then combine that with stationary storage and electric vehicle and you have a complete solution to a sustainable energy future.",
+      "textZh": "正如我昨天所说，这大致包含3个部分，而且正如我去年在实际上Powerwall发布会上所说的，所以我认为这确实显然是正确行动的部分原因，就是要解决可持续能源问题，我们需要可持续能源生产，而在我们看来，这将主要以太阳能的形式出现，绝大多数将以太阳能的形式出现。然后，将其与固定式储能和电动汽车结合起来，你就获得了迈向可持续能源未来的完整解决方案。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 273.71,
+      "textEn": "Those are the three parts that are needed and, and those are the three things that I think Tesla should be providing.",
+      "textZh": "这就是所需要的3个部分，而且，而且我认为这就是Tesla应该提供的3样东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 283.95,
+      "textEn": "And it just became increasingly obvious that as we're developing the powerwall and new versions of the powerwall, as we integrate more of the inverter, electronics and intelligence in the powerwall, it really, you really need to take the solar panels and the solar system into account when doing that. Otherwise you duplicate a lot of hardware that doesn't work together as well. It's more expensive, the installation cost is substantially higher.",
+      "textZh": "而且，随着我们开发Powerwall和新版本的Powerwall，随着我们把更多逆变器、电子设备和智能功能集成到Powerwall中，一点变得越来越明显，那就是在这样做时，确实，你确实需要把太阳能板和太阳能系统考虑进去。否则，你会重复配置大量无法很好协同工作的硬件。这样成本更高，安装成本也高出很多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 320.92,
+      "textEn": "You've got to put the installer power wall, install the solar panels. If you've got an electric car, you've got to install the wall connector. And at home charging system, there's potentially three visits. There's at least two visits. And then in terms of the sales process itself, when we're selling somebody the powerwall, very often, if not almost always, they're curious about solar and want to do the same thing. So then not being able to sell them Solar directly at SolarCity, sorry, Tesla through our stores, is pretty inefficient.",
+      "textZh": "你得让安装人员安装Powerwall，安装太阳能板。如果你有电动汽车，你还得安装壁挂式连接器。再加上家庭充电系统，可能需要上门3次。至少也要上门2次。而且就销售流程本身而言，当我们向某人销售Powerwall时，他们往往，即使不是几乎总是，也会对太阳能感到好奇，并希望做同样的事。所以，无法在SolarCity——抱歉，是Tesla——通过我们的门店直接向他们销售太阳能产品，效率非常低。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 364.34,
+      "textEn": "But as you look ahead to say Model 3 and a $35,000 car, well that same person at the same moment we could sell them roughly an equivalent amount value of solar panels and a powerwall, effectively doubling, almost doubling the sale at that time and then putting it all in at the same time.",
+      "textZh": "但如果展望一下，比如Model 3和一辆35,000美元的汽车，那么在同一时刻，我们可以向同一个人销售价值大致相当的太阳能板和一台Powerwall，实际上让当时的销售额翻倍，几乎翻倍，然后同时完成所有安装。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 394.36,
+      "textEn": "So I think the, the word synergy is bad, it's like almost sort of a dirty word. But I think it's, I think these synergies are really just common sense. Like obviously it's more efficient to do this as an integrated system at the sale and at the installation and in terms of just general maintenance and managing the customer relationship.",
+      "textZh": "所以我认为，“协同效应”这个词不太好，它几乎有点像一个脏词。但我认为，我认为这些协同效应其实就是常识。比如显然，在销售和安装时将其作为一个集成系统来做效率更高，在一般维护以及管理客户关系方面也是如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 420.13,
+      "textEn": "And yeah, I think that makes it kind of a pretty obvious thing to do. And it's quite difficult to create integrated product if you're forced to be at an arm's length and be two different companies.",
+      "textZh": "而且，是的，我认为这使它成为一件相当显而易见应该做的事。如果你被迫保持一定距离，并且是两家不同的公司，就很难打造集成产品。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 443.76,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 448.24,
+      "textEn": "If we give a special deal to SolarCity and SolarCity is not part of Tesla, then why are we doing that?",
+      "textZh": "如果我们给予SolarCity特殊待遇，而SolarCity又不是Tesla的一部分，那么我们为什么要这么做？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 458.32,
+      "textEn": "So we can do that if SolarCity is part of Tesla. We can't do it if a separate company.",
+      "textZh": "所以，如果SolarCity是Tesla的一部分，我们就可以这么做。如果是独立的公司，我们就不能这么做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 465.97,
+      "textEn": "So it just makes things, the execution I think a lot easier and cleaner and more effective. So that's why I said yesterday, I think it's really kind of a no brainer if we didn't do this, it would make Tesla's execution harder and worse.",
+      "textZh": "所以这只是让事情，让执行工作在我看来容易得多、更清晰、更有效。所以这就是为什么我昨天说，我认为这确实算是一件不假思索就该做的事；如果我们不这么做，就会让Tesla的执行工作变得更困难、更糟糕。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 488.15,
+      "textEn": "And I think the tide of history very strongly supports will be a sustainable energy future, primarily solar and virtually entirely electric vehicles. And there'll be things that temporarily interrupt that type of industry but in the long term it will overwhelm everything. And our goal is to accelerate the advent of that future as fast as possible and this helps us accelerate it. So that's the reason.",
+      "textZh": "而且我认为，历史潮流非常强有力地表明，未来将是一个可持续能源的未来，主要依靠太阳能，车辆也几乎将全部是电动汽车。会有一些事情暂时打断这类行业的发展，但从长远来看，它将压倒一切。我们的目标是尽可能快地加速那个未来的到来，而这会帮助我们加速实现它。所以，这就是原因。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 528.8,
+      "textEn": "And yeah, so yeah, and I think there have been some questions about like does this sort of really increase our debt position or lever up the bank our balance sheet. It really doesn't, I think really encourage people to take a close look at SolarCity.",
+      "textZh": "而且，是的，所以，是的，我想也有人提出过一些问题，比如，这是否真的会增加我们的债务状况，或者提高银行——我们资产负债表的杠杆率。实际上并不会，我确实非常鼓励大家仔细研究一下SolarCity。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 558.94,
+      "textEn": "What really matters is the recourse debt. Obviously the non recourse debt is, is not what matters and the cash flows generating that solicitity will generate it covers what's required with the recourse debt. So they are headed to cash flow positive situation for the next three to six months at the outside.",
+      "textZh": "真正重要的是追索权债务。显然，无追索权债务并不是、并不是重要的部分，而solicitity产生的现金流会产生它，足以覆盖追索权债务所需的金额。所以最迟在未来3到6个月内，他们将进入现金流为正的状态。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 599.6,
+      "textEn": "And that's where the company's been steering itself, reducing their growth rate to some degree to achieve that cash flow positive position. But they're very clearly on their way to getting there in short order. So actually we expect it to be a net cash generator, not a user of cash, particularly when taking into Account the dramatic reduction in the cost of sales of source systems sold through our store. Through our stores.",
+      "textZh": "这正是公司一直在引导自己前往的方向，在一定程度上降低增长率，以实现现金流为正的状态。但他们显然正在迅速接近这个目标。所以实际上，我们预计它将成为净现金创造者，而不是现金使用者，尤其是考虑到通过我们的门店销售的来源系统，其销售成本会大幅下降。通过我们的门店。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 642.09,
+      "textEn": "The biggest factor in SolarCity's increasing cost per watt in Q1 was their sales cost. So as soon as you they quite a big increase in sales cost that'll go radically another direction with sales through Tesla.",
+      "textZh": "SolarCity第一季度每瓦成本上升的最大因素是其销售成本。所以，只要你——他们的销售成本大幅增加，而通过Tesla销售后，情况会彻底转向另一个方向。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 665.98,
+      "textEn": "And then",
+      "textZh": "然后",
+      "speakerZh": "Tesla顾问"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 669.18,
+      "textEn": "I'd love to talk more about what's going to happen on the product side. Obviously that would be. I think that would shed a lot of light on this deal and why.",
+      "textZh": "我很想更多谈谈产品方面将会发生什么。显然，那将会是。我认为那会让这笔交易以及其中的原因清晰很多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 680.71,
+      "textEn": "I think it makes total sense and really is a no brainer. But I can't talk about material non public plans except that I'm very optimistic about those plans and that While to date SolarCity has not been significantly differentiated on the product side to the solar panels themselves, they certainly will be in the fairly near future. And actually if you just listen carefully to what Solisa has been saying in its earnings calls and its announcements that I think should be also pretty clear like that Solsay is saying that there's going to be significant product differentiation.",
+      "textZh": "我认为这完全合理，而且确实是不假思索就能做出的选择。但我不能谈论重大的非公开计划，只能说我对那些计划非常乐观，而且尽管迄今为止SolarCity在产品方面，也就是太阳能电池板本身，并没有显著的差异化，但在不久的将来肯定会有。事实上，如果你只是仔细听听Solisa在财报电话会议和公告中所说的内容，我认为应该也会相当清楚，比如Solsay正在表示，将会出现显著的产品差异化。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 743.26,
+      "textEn": "There's the Slivo acquisition, which we think is the best technology out there for high efficiency, low cost solar panels",
+      "textZh": "还有对 Slivo 的收购，我们认为这是目前高效率、低成本太阳能板领域最好的技术",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 754.8,
+      "textEn": "and",
+      "textZh": "而且",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 755.6,
+      "textEn": "at the same time very significantly improving the aesthetics of the solar panels.",
+      "textZh": "同时还能非常显著地改善太阳能板的美观度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 762.8,
+      "textEn": "I think there's quite a radical difference between having solar panels on your roof that actually make your house look better versus ones that do not.",
+      "textZh": "我认为，让屋顶上的太阳能板真正使你的房子看起来更漂亮，与装上那些不能做到这一点的太阳能板相比，存在相当根本性的差异。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 778.99,
+      "textEn": "I think it's going to be a night and day difference and the slow Sleevo development allows for that. So.",
+      "textZh": "我认为这将会有天壤之别，而缓慢的 Sleevo 开发使这成为可能。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 791.47,
+      "textEn": "We can't go into the details of those because making future product announcements that are really exciting obviously affect future product sales and the full extent of that is not yet public information.",
+      "textZh": "我们不能详细谈论这些，因为发布真正令人兴奋的未来产品公告，显然会影响未来的产品销售，而完整情况目前还不是公开信息。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 812.52,
+      "textEn": "But I do believe it fits together very well with Tesla's plans on the Powerwall and power pack side.",
+      "textZh": "但我确实认为，它与 Tesla 在 Powerwall 和 Powerpack 方面的计划非常契合。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 825.16,
+      "textEn": "So we can turn it over to questions at this point.",
+      "textZh": "那么现在我们可以进入提问环节。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 829.41,
+      "textEn": "All right, thanks, Elon. Terea, why don't we go to the first question please?",
+      "textZh": "好的，谢谢你，埃隆。Terea，请让我们开始第一个问题，好吗？",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Operator",
+      "startSec": 835.81,
+      "textEn": "Certainly our first question comes from the line of Brian Johnson of Barclays. Your line is now open.",
+      "textZh": "当然。我们的第一个问题来自巴克莱的布莱恩·约翰逊。您的线路现在已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 842.05,
+      "textEn": "Yes, thank you.",
+      "textZh": "好的，谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Analyst",
+      "startSec": 842.89,
+      "textEn": "I have about three questions.",
+      "textZh": "我大约有3个问题。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 845.65,
+      "textEn": "One for Elon, we started the general",
+      "textZh": "一个给埃隆，我们开始了一般的",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Analyst",
+      "startSec": 848.05,
+      "textEn": "counsel and Jason for Todd.",
+      "textZh": "法律顾问，还有给托德的杰森。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Analyst",
+      "startSec": 852.45,
+      "textEn": "You talked in the letter about two of the directors not voting.",
+      "textZh": "你们在信中谈到有2名董事没有投票。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 857.62,
+      "textEn": "Can you give us a sense? Because this will come out in the",
+      "textZh": "能否给我们一个大概的情况？因为这最终会出现在",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Analyst",
+      "startSec": 859.98,
+      "textEn": "proxy eventually of the discussions between the two companies. Is there actually a committee of independent directors? How independent do you consider the remaining directors? Do they have any personal ownership of SolarCity and the other things that are",
+      "textZh": "委托书中，涉及两家公司之间的讨论。实际上是否设有一个独立董事委员会？你认为其余董事的独立性如何？他们是否个人持有 SolarCity 的股份，以及其他那些",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 874.7,
+      "textEn": "likely to relate to the board issues?",
+      "textZh": "可能与董事会问题有关的事项？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 877.86,
+      "textEn": "So this is.",
+      "textZh": "那么这是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 878.86,
+      "textEn": "Todd, this is a little bit tracks back to what I was saying earlier about the stage of the process that we're in. But when a deal is announced, if that happens, all this stuff will come out in terms of exactly what the process was at every point. The key points now are that Elon and Antonio, since they're on both boards, have recused themselves from the board process of voting on the transaction. And they've also committed to if there's a deal that the disinterested shareholders would vote on that deal, with the majority of those disinterested shares determining the outcome of the vote.",
+      "textZh": "托德，这多少可以追溯到我之前所说的、我们目前所处的流程阶段。但如果一项交易得到宣布，假如这真的发生，那么所有这些信息都会披露出来，包括整个流程在每一个节点具体是怎样的。现在的关键点是，埃隆和安东尼奥因为同时担任双方董事会的董事，已经回避了董事会对该交易进行投票的流程。他们还承诺，如果达成交易，将由无利益关联股东对该交易进行投票，并由这些无利益关联股份中的多数决定投票结果。",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 916.51,
+      "textEn": "But beyond that, it's really too early in the process to get into all",
+      "textZh": "但除此之外，目前在流程中确实还为时过早，无法讨论所有",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Todd Maron (General Counsel)",
+      "startSec": 921.67,
+      "textEn": "the different details, but rest assured, that",
+      "textZh": "不同的细节，但请放心，那些",
+      "speakerZh": "托德·马龙（总法律顾问）"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 923.51,
+      "textEn": "will all come out once there's actually a definitive agreement that's reached. At this point, it's probably more appropriate to just focus on the business rationale",
+      "textZh": "都会在真正达成最终协议后披露出来。现阶段，可能更适合只关注商业理由",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 932.35,
+      "textEn": "for why this deal makes sense.",
+      "textZh": "也就是为什么这项交易是合理的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Analyst",
+      "startSec": 935.55,
+      "textEn": "And just when you say recruits from voting to the that also mean recused from discussion and not present in the room when this was brought up.",
+      "textZh": "还有，当你说从投票中征募时，那是否也意味着回避讨论，并且在提出此事时不在场。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 943.64,
+      "textEn": "No, it was recused from voting.",
+      "textZh": "不，只是回避投票。",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Analyst",
+      "startSec": 946.04,
+      "textEn": "Okay, for Jason, given your talk earlier in the year about kind of focusing on cash and even stipulating perhaps that SolarCity could reach some sort of cash breakeven by fourth quarter, how does this change your view of the pro forma company in terms of their cash usage and their need to potentially go back to the capital markets, either debt or equity, to finance the ongoing business?",
+      "textZh": "好的，给杰森的问题，鉴于你今年早些时候谈到要重点关注现金，甚至可能表示 SolarCity 到第四季度能够实现某种现金收支平衡，这会如何改变你对合并后公司的看法，包括其现金使用情况，以及其是否可能需要重返资本市场，通过债务或股权为持续经营的业务融资？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Analyst",
+      "startSec": 974.76,
+      "textEn": "Yes, sure.",
+      "textZh": "好的，当然。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 976.12,
+      "textEn": "On the Tesla side, I stick with the statements that we made on previous earnings calls. On the SolarCity side, as Todd has laid out, we're just at the beginning",
+      "textZh": "在 Tesla 方面，我坚持我们在之前财报电话会议上所作的陈述。在 SolarCity 方面，正如托德所阐述的，我们现在才刚刚开始",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Analyst",
+      "startSec": 985.36,
+      "textEn": "of the process now, and the only",
+      "textZh": "这一流程，而唯一的",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 988.88,
+      "textEn": "information, you know, I've had access to is what's publicly available.",
+      "textZh": "信息，你知道，我能够获取的就是公开信息。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Analyst",
+      "startSec": 992.57,
+      "textEn": "So I don't have anything to say",
+      "textZh": "所以我没什么可说的",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 995.05,
+      "textEn": "about the pro forma combined entity at this point. And we'll start to look at that as we get into the full due diligence now.",
+      "textZh": "关于目前备考合并实体的情况。随着我们现在开始全面尽职调查，我们将开始研究这个问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Analyst",
+      "startSec": 1006.17,
+      "textEn": "And I guess due diligence question, it was probably scoped out before you did the deal. You know, when you survey Tesla owners, you know, what percent have solar already, what percent are in states where solar would make sense and sort of just what are some of the basic kind of merger synergies in terms of customer overlap and customer potential that you guys look at?",
+      "textZh": "我想问一个尽职调查方面的问题，这可能在你们进行这笔交易之前就已经界定过了。你知道，当你们调查 Tesla 车主时，有百分之多少已经安装了太阳能系统，有百分之多少位于适合使用太阳能的州，以及你们关注的、客户重叠和潜在客户方面的一些基本合并协同效应究竟有哪些？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 1036.58,
+      "textEn": "Well,",
+      "textZh": "嗯，",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1039.38,
+      "textEn": "I think the way to think about this is not to kind of look in the rearview mirror, but to look through the windshield.",
+      "textZh": "我认为，看待这件事的方式不是去看后视镜，而是透过挡风玻璃向前看。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1049.95,
+      "textEn": "Only about 1% of U.S. homes have solar.",
+      "textZh": "美国只有大约 1% 的住宅安装了太阳能系统。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1054.67,
+      "textEn": "So you have a massive addressable market that's unserved.",
+      "textZh": "所以，你们面对的是一个尚未得到服务的庞大潜在市场。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1063.23,
+      "textEn": "At least 40 to 60 million households that were solar. Where they could do solar if they wanted to. So if the economics were right and they liked the aesthetics and it was easy to do, then they would do it.",
+      "textZh": "至少有 4000 万至 6000 万户家庭是太阳能的。他们如果愿意，就可以使用太阳能。所以，如果经济性合适，他们喜欢其外观，而且实施起来很容易，那么他们就会这么做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1081.44,
+      "textEn": "So the future market there is really gigantic.",
+      "textZh": "所以，那里的未来市场确实极其庞大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 1089.44,
+      "textEn": "And yeah, on the cash front, we don't expect SolarCity to have a material impact on future cash needs.",
+      "textZh": "还有，是的，在现金方面，我们预计 SolarCity 不会对未来的现金需求产生重大影响。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1101.61,
+      "textEn": "Yeah, don't think it's going to make much of a difference, really.",
+      "textZh": "是的，确实不认为这会带来多大差别。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1109.85,
+      "textEn": "Positive cash flow really by the end of the year.",
+      "textZh": "实际上到年底就会实现正现金流。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Analyst",
+      "startSec": 1113.13,
+      "textEn": "And just final. You talked a little bit yesterday, but how does this affect the, how do you make sure that your personal time between this and of course a rocket business, given the MA synergies that you're trying to get, given the sales, the service overlap, that's kind of a whole separate line of processes and kind of grunt work on the ground from launching a new model car. How do you actually get both the integration of a sales and service system for solar and cars and batteries done at the same time?",
+      "textZh": "最后一个问题。你昨天稍微谈到过这一点，但这会如何影响，这与当然还有火箭业务之间，你如何确保个人时间的分配？考虑到你们试图获得的并购协同效应，考虑到销售和服务方面的重叠，这算是与推出一款新车型完全不同的一整套流程和一线苦活。你究竟如何同时完成太阳能、汽车和电池的销售与服务体系整合？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Analyst",
+      "startSec": 1148.21,
+      "textEn": "You've got a, by your own admission, aggressive launch schedule for the Model 3.",
+      "textZh": "按你自己的说法，你们为 Model 3 制定了一个激进的上市时间表。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 1155.09,
+      "textEn": "Well, I mean my intuition about this could be wrong, but from my standpoint, this makes Tesla's future execution easier, not harder because it's just getting increasingly unwieldy. To work with SolarCity on an arm's length basis, we really need to have an integrated product.",
+      "textZh": "嗯，我的直觉可能是错的，但从我的角度来看，这会让 Tesla 未来的执行更容易，而不是更难，因为事情正变得越来越难以处理。要以独立交易原则与 SolarCity 合作，我们确实需要拥有一个一体化产品。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 1178.4,
+      "textEn": "The powerwall and the power pack need to be designed together with the solar system. So it's a one piece thing and we really can't do that if we're two separate companies.",
+      "textZh": "Powerwall 和 Powerpack 需要与太阳能系统共同设计。这样它就是一个整体，而如果我们是两家独立的公司，就确实无法做到这一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1198.72,
+      "textEn": "We've got to then to treat SolarCity like they're any other company, which is extremely unwieldy.",
+      "textZh": "那么，我们就必须把 SolarCity 当作任何其他公司一样对待，而这极其难以处理。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 1208.91,
+      "textEn": "So from my standpoint, this makes the execution easier, but not harder.",
+      "textZh": "所以从我的角度来看，这会让执行更容易，而不是更难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Elon Musk",
+      "startSec": 1215.15,
+      "textEn": "And I think Solid City's got a great future independent of Tesla, but it obviously Tesla does, but being able to integrate things at the product level, at the consumer experience level, the utility level, the commercial level, actually, it makes it easier, not harder.",
+      "textZh": "而且我认为，固体城市即便独立于 Tesla 也有很好的未来，但它显然，Tesla 确实如此，不过，能够在产品层面、消费者体验层面、公用事业层面以及商业层面进行整合，实际上会让事情更容易，而不是更难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 1250.27,
+      "textEn": "That's why we're doing this. You can select why. Why should companies exist at all? What's the point of having companies?",
+      "textZh": "这就是我们这样做的原因。你可以选择为什么。公司究竟为什么要存在？设立公司的意义是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 1259.94,
+      "textEn": "The point is that a given company is going to create a more compelling good or service.",
+      "textZh": "意义在于，一家特定的公司将创造出更具吸引力的商品或服务。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 1271.3,
+      "textEn": "For the end customer and then so should the companies be two separate containers or one container? And if there is one container, we can make a more compelling product and work together easier. So that's the reason for it. So I think that speaks to the sort of fundamental economic goodness of the transaction and it will be harder if we remain two different companies.",
+      "textZh": "为最终客户提供，然后，公司应该是两个独立的容器，还是一个容器？如果是在一个容器里，我们就能打造出更具吸引力的产品，也能更轻松地合作。所以，这就是这样做的原因。因此，我认为这说明了这笔交易在根本经济层面上的益处，而如果我们仍然是两家不同的公司，事情就会更难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 1305.25,
+      "textEn": "Okay, thank you,",
+      "textZh": "好的，谢谢，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Operator",
+      "startSec": 1308.93,
+      "textEn": "thank you. And our next question comes from Charlie Anderson of Daugherty and Company. Your line is now open.",
+      "textZh": "谢谢。下一个问题来自 Daugherty and Company 的查理·安德森。您的线路现已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Operator",
+      "startSec": 1318.69,
+      "textEn": "Okay, and our next question comes from the line of Brian Johnson of Barclays. Your line is now open.",
+      "textZh": "好的，下一个问题来自巴克莱的布赖恩·约翰逊。您的线路现已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Analyst",
+      "startSec": 1326.85,
+      "textEn": "Well, I already asked a question.",
+      "textZh": "嗯，我已经问过一个问题了。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 1329.97,
+      "textEn": "Yeah, Treea, why don't we go to the next caller, please try Charlie again.",
+      "textZh": "是的，特里娅，我们接下一位来电者吧，请再试着接通查理。",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Operator",
+      "startSec": 1337.67,
+      "textEn": "Okay, our next question comes from the line of Charlie Anderson of Daughterly and Company. Your line is now open.",
+      "textZh": "好的，下一个问题来自 Daughterly and Company 的查理·安德森。您的线路现已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Analyst",
+      "startSec": 1343.43,
+      "textEn": "Yeah, good morning. Thanks for taking my questions.",
+      "textZh": "好的，早上好。感谢回答我的问题。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 1346.07,
+      "textEn": "So I wondered if shareholders of Tesla will have a synergies number in mind",
+      "textZh": "所以我想知道，Tesla 的股东心中是否会有一个协同效应数字",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Analyst",
+      "startSec": 1353.43,
+      "textEn": "when they vote and if you guys have any early look at what synergies could be and are you expecting much in the way of cost and just thinking about the incremental cost of combining",
+      "textZh": "当他们投票时，以及你们是否已经初步了解可能会有哪些协同效应，还有你们是否预计成本方面会有很多变化，以及考虑到合并",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1364.66,
+      "textEn": "the products, what will that be? It sounds like some of the work has already been done to combine the products, but just any thoughts on that would be helpful.",
+      "textZh": "这些产品的增量成本，那会是多少？听起来合并这些产品的一些工作已经完成了，不过对此的任何看法都会有帮助。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Analyst",
+      "startSec": 1375.22,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1375.7,
+      "textEn": "We can give estimates because obviously this is still the early stages and there are estimates based on kind of what stands to reason.",
+      "textZh": "我们可以给出估算，因为显然这仍处于早期阶段，而且这些估算是基于某种合乎情理的推断。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1384.5,
+      "textEn": "But, but looking ahead, particularly to next year, selling Model 3 something on the order of a $35,000 car.",
+      "textZh": "但是，但是展望未来，尤其是明年，销售 Model 3，大约是一款35,000美元的汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1395.71,
+      "textEn": "If we're selling powerwalls and solar systems of comparable value and doing so in the same sales footprint with the same person, the first order approximation, our cost of sales should drop in half, as would solar cities correspondingly. Maybe it's not entirely in half, maybe",
+      "textZh": "如果我们销售价值相当的 Powerwall 和太阳能系统，并且在同一个销售网点由同一个人来销售，那么按一阶近似计算，我们的销售成本应该会减半，SolarCity 相应地也会如此。也许并不完全是减半，也许",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Analyst",
+      "startSec": 1419.28,
+      "textEn": "it's",
+      "textZh": "是",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 1422.04,
+      "textEn": "30 to 40%, but it's a pretty, I think a very substantial drop on solar cities side and also a drop of a material drop on Tesla's side because you're basically selling, let's say almost twice as much in a single transaction as you otherwise would.",
+      "textZh": "30%到40%，但我认为，对 SolarCity 一方来说，这是一次相当、非常大幅的下降，对 Tesla 一方来说也会有下降，一次实质性的下降，因为你基本上是在单笔交易中卖出比原本多出、比如说接近1倍的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 1447.74,
+      "textEn": "And then on the installation setup side, it's one crew and one visit instead of two to three visits.",
+      "textZh": "然后在安装部署方面，是1支团队上门1次，而不是上门2到3次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1457.58,
+      "textEn": "The ongoing maintenance is kind of one point of contact and not sort of two or three points of contact.",
+      "textZh": "持续维护方面算是只有1个联系点，而不是差不多2个或3个联系点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 1467.74,
+      "textEn": "And the cost of the system itself is lower because we're not duplicating hardware, the hardware level.",
+      "textZh": "而且系统本身的成本更低，因为我们不会在硬件、硬件层面重复配置。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1478.14,
+      "textEn": "So I think that all makes a lot of sense.",
+      "textZh": "所以我认为这一切都非常合理。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Elon Musk",
+      "startSec": 1484.7,
+      "textEn": "Yeah. So the fundamental cost for both companies would go down maturely and yeah, it's, I mean, I think it's. One can argue about like, you know, is it sort of 20% reduction, 30% reduction, 40% reduction. But it's pretty significant and for sure better than if the companies were separate.",
+      "textZh": "是的。所以两家公司的基础成本都会成熟地下降，而且，是的，这，我是说，我认为这。人们可以争论，比如，你知道，究竟是大约降低20%、降低30%，还是降低40%。但幅度相当可观，而且肯定比两家公司分开时更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 1515.89,
+      "textEn": "Great. And then just another quick one from,",
+      "textZh": "很好。然后还有一个很简短的问题，来自，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Analyst",
+      "startSec": 1518.01,
+      "textEn": "from me, I wondered why now versus two years ago versus two years from now?",
+      "textZh": "来自我，我想知道，为什么是现在，而不是2年前，也不是2年后？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 1525.37,
+      "textEn": "Yeah, the reason now is because we've got, we're really ramping up powerwall and power pack, developing version two. And then we have our plans for version three, version four and so forth.",
+      "textZh": "是的，之所以是现在，是因为我们已经，我们确实正在扩大 Powerwall 和 Powerpack 的产能，开发第2版。然后我们还有第3版、第4版等等的计划。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 1546.42,
+      "textEn": "SolarCity also is preparing to come out with the solar panels that as a consequence of the Salivo transaction a couple years ago, that significantly improved the efficiency and the aesthetics of the roof.",
+      "textZh": "SolarCity 也正准备推出太阳能板，这是几年前 Salivo 交易带来的结果，它显著改善了屋顶的效率和美观度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 1568.5,
+      "textEn": "And",
+      "textZh": "而且",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 1570.87,
+      "textEn": "I think the aesthetics matter a lot. As you know, Tesla were super sensitive to aesthetics and I think solar cities, I think they're going to get there on their own, but I think that journey will be accelerated as part of Tesla as well.",
+      "textZh": "我认为美观度非常重要。如你所知，Tesla 对美学极其敏感，而我认为 SolarCity，我认为他们靠自己也会达到那个目标，但我认为，成为 Tesla 的一部分也会加快这一进程。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 1596.08,
+      "textEn": "It just sort of makes sense that if you had a solar system that made your house look better, lowered your cost of electricity and then gave you security against a power outage with the power pack and allowed you to go potentially completely off grid, then it's kind of a no brainer, like why wouldn't you do that?",
+      "textZh": "这就是有道理，如果你有一套太阳能系统，能让你的房子看起来更好，降低你的电力成本，然后通过 Powerpack 为你提供停电保障，并让你有可能完全脱离电网，那这几乎就是不假思索的选择，比如你为什么不这么做呢？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Analyst",
+      "startSec": 1630.89,
+      "textEn": "Thanks so much.",
+      "textZh": "非常感谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Operator",
+      "startSec": 1633.45,
+      "textEn": "Thank you. Our next question comes from Stacy Cha of Albert Freed. Your line is now open.",
+      "textZh": "谢谢。下一个问题来自 Albert Freed 的 Stacy Cha。您的线路现在已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Analyst",
+      "startSec": 1639.77,
+      "textEn": "Hi, good morning. Congratulations on the offer. A couple questions I think that people are kind of trying to digest. I think strategically elon that you've made your point clear, but I think the valuation is what the market is having issues with. You know, there are some questions about SolarCity's balance sheet and you mentioned about the debt. So how do you put that into context with the exchange ratio that you've offered, kind of not jeopardizing kind of the future of Tesla while you make this offer?",
+      "textZh": "嗨，早上好。祝贺你们提出这项要约。有几个问题，我认为大家还在设法消化。我认为从战略上说，埃隆，你已经清楚表达了你的观点，但我认为市场有疑虑的是估值。你知道，外界对 SolarCity 的资产负债表存在一些疑问，你也提到了债务。那么，你如何结合你们提出的换股比例来看待这一点，在提出这项要约的同时，大体上不危及 Tesla 的未来？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Elon Musk",
+      "startSec": 1687.49,
+      "textEn": "Well, I think Tesla's getting a pretty good current share price. I mean, Tesla doesn't decide what a company's share price of like market should be, the public market does. So we're just obviously keying off of what the public market price is, which is decided by people other than ourselves.",
+      "textZh": "嗯，我认为 Tesla 获得了一个相当不错的当前股价。我是说，Tesla 并不决定一家公司在市场上的股价应该是多少，这是由公开市场决定的。所以我们显然只是以公开市场价格为依据，而这个价格是由我们以外的人决定的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 1713.5,
+      "textEn": "And then there's I think quite a reasonable, neither high nor low acquisition premium that is being put forward subject to further diligence.",
+      "textZh": "然后，我认为目前提出的收购溢价相当合理，既不高也不低，但仍需进一步尽职调查。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 1727.74,
+      "textEn": "And",
+      "textZh": "而且",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1730.46,
+      "textEn": "I think it's, I think every element of it is very reasonable, like something that's out of whack about the proposal.",
+      "textZh": "我认为它是，我认为其中每一个要素都非常合理，比如这项提议中有些不协调的地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 1743.98,
+      "textEn": "It's sort of extremely normal to have an acquisition premium of that size.",
+      "textZh": "这种规模的收购溢价算是极其正常。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 1754.95,
+      "textEn": "Certainly quite a bit lower than for example, say LinkedIn. LinkedIn I think had a 50% premium.",
+      "textZh": "当然远低于例如 LinkedIn。LinkedIn 的溢价，我记得是50%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 1763.43,
+      "textEn": "Here we're talking about a sort of low 20s to maybe 30% premium. So it's more or less in line with the average acquisition premium for any given public market company.",
+      "textZh": "这里我们谈的是20%出头到也许30%的溢价。所以这或多或少符合任意一家公开市场公司的平均收购溢价。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 1784.27,
+      "textEn": "Like I said, extremely normal.",
+      "textZh": "正如我所说，极其正常。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Elon Musk",
+      "startSec": 1788.91,
+      "textEn": "And then just overall these, I think when people, when we're down the road, not even far down the road next year, particularly as you go further into the future, these numbers are going to seem like very small Very small numbers.",
+      "textZh": "然后总的来说，我认为当人们，当我们走到未来，并不遥远，就在明年，尤其是当你进一步走向未来时，这些数字看起来会非常小，非常小的数字。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 1812.6,
+      "textEn": "I think as a combined automotive and power storage and power generation company, I mean the potential is there for Tesla to be a trillion dollar company, a market cap company.",
+      "textZh": "我认为，作为一家汽车、电力储能和发电相结合的公司，我是说，Tesla 有潜力成为一家价值1万亿美元的公司，一家市值达到这个水平的公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 1833.98,
+      "textEn": "If we play a major role in transitioning the world to a new form of energy generation and storage and transport, that's what kind of happens. So that's one isn't going to be worried about whether it's a few hundred million dollars one way or the other here down the road, it's not really going to make a difference.",
+      "textZh": "如果我们在推动世界转向一种新的能源生产、储存和运输方式方面发挥重要作用，那就是会发生的事情。所以以后不会有人担心这里上下差了几亿美元，这其实不会造成什么影响。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Analyst",
+      "startSec": 1864.71,
+      "textEn": "Okay, I appreciate your candor about the trillion dollar market cap. I think that leads to the future value of SolarCity. But I guess the near term, because you're not voting your shares both on Tesla and SolarCity from, from my understanding of the how do you expect the near term kind of shareholders or near term focus shareholders to kind of vote this in, vote in favor of this? I'm assuming it's a simple majority.",
+      "textZh": "好的，感谢您坦率谈到1万亿美元的市值。我认为这就涉及 SolarCity 的未来价值。但我想问的是近期，因为据我对……的理解，您不会就自己在 Tesla 和 SolarCity 的持股参与投票，那么您预计那些着眼近期的股东，或者关注短期的股东，会怎样投票通过这件事、投票支持这件事？我假设是简单多数即可。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Analyst",
+      "startSec": 1901.73,
+      "textEn": "And so it's kind of a chicken and egg thing where your future, your expectation of the future is probably correct strategically. But near term people are having more time to digest this, not enough time to digest this and kind of looking more near term. And that's what the concern is, is getting to the finish line. So how do you see this getting to the finish line where you see shareholders on the SolarCity side being receptive to the exchange ratio, you reach a merger agreement and then further along Tesla shareholders being receptive to voting in favor of this because ultimately it's these two or three ducks, valuation of the exchange ratio and then understanding the future opportunity that will get this to the finish line on the shareholder side.",
+      "textZh": "所以这有点像先有鸡还是先有蛋的问题，您对未来的预期从战略上看可能是正确的。但短期内，人们有更多时间消化这件事，却又没有足够时间消化这件事，而且看得更为短期。这正是令人担忧的地方，也就是能否走到终点。那么您认为这件事要怎样才能走到终点，也就是说，SolarCity 一方的股东会接受换股比例，你们达成合并协议，之后 Tesla 股东也会愿意投票支持这件事，因为最终正是这2只或3只鸭子、换股比例的估值，以及对未来机会的理解，将使这件事在股东方面走到终点。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Elon Musk",
+      "startSec": 1961.13,
+      "textEn": "Shareholder vote.",
+      "textZh": "股东投票。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 1963.81,
+      "textEn": "Yeah, I mean the exchange ratio, obviously there's some bounds on the exchange rate here that if we exceed the bounds of reasonableness for any party, obviously it wouldn't happen. So the market cap of Seoul cities decided by the market, that's what it is, what investors think it is. And then the, the premium you don't get to acquire companies for zero premium, that's just not how it works.",
+      "textZh": "是的，我是说换股比例，显然这里的换股比率存在一定界限，如果我们超出任何一方认为合理的界限，显然这件事就不会发生。所以首尔各城市的市值是由市场决定的，它就是投资者认为的那个数值。然后是溢价，你不可能以零溢价收购公司，事情不是这样运作的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 2000.41,
+      "textEn": "And so some reasonable premium is appropriate in a situation like this, as it always is. And we're kind of right where premiums normally are and actually lower than some recent prominent premiums paid like the LinkedIn one, which I believe was on the order of 50%. So I think that it's a reasonable market cap with a reasonable premium and maybe equivalent around the edges a little bit. But I don't think anything's like out of whack there.",
+      "textZh": "所以在这种情况下，一定程度的合理溢价是恰当的，就像一贯如此。我们的溢价基本处于通常水平，实际上还低于近期一些引人注目的交易所支付的溢价，比如 LinkedIn 那笔交易，我记得大约是50%。所以我认为，这是合理的市值加上合理的溢价，也许在边缘部分略微等值。但我不认为这里有什么失常的地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 2044.41,
+      "textEn": "And at the End this will definitely be up to the, you know, you guys who own shares. Like I said, I'll recuse myself from the shareholder vote.",
+      "textZh": "最终，这肯定将取决于，你知道，你们这些持有股份的人。就像我说的，我会回避股东投票。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 2059.26,
+      "textEn": "It has to be a majority of non me shareholders.",
+      "textZh": "必须获得除我以外的股东的多数支持。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 2068.62,
+      "textEn": "But like I said, I'm doing this because I think it makes things better in the future, not worse for everyone.",
+      "textZh": "但就像我说的，我这样做是因为我认为这会让未来的一切对所有人都变得更好，而不是更糟。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Elon Musk",
+      "startSec": 2080.56,
+      "textEn": "And so I'd really recommend voting in favor of this because I think anyone who doesn't vote in favor of this is going to be voting against their best interests.",
+      "textZh": "所以我确实建议投票支持这件事，因为我认为，任何不投票支持这件事的人，都是在投票反对自己的最佳利益。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 2092.319,
+      "textEn": "But we will certainly abide by the shareholder vote. So if there's a great deal of unhappiness, we want to move forward.",
+      "textZh": "但我们肯定会遵从股东投票。因此，如果存在非常强烈的不满，我们希望继续推进。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Elon Musk",
+      "startSec": 2100.48,
+      "textEn": "But I just really want to emphasize that I have zero doubt about this. Zero.",
+      "textZh": "但我确实想强调，我对此毫不怀疑。毫不怀疑。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 2110.45,
+      "textEn": "Arguably we should have done it sooner, but I think doing it now is it gives us enough time to create a compelling integrated product, assuming it doesn't take forever to close.",
+      "textZh": "可以说，我们本应更早这样做，但我认为现在做这件事，这让我们有足够时间打造一款有吸引力的集成产品，前提是完成交易不会耗时无限长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Elon Musk",
+      "startSec": 2126.93,
+      "textEn": "Give us time to create a, a very compelling integrated product and bring that to significant scale next year.",
+      "textZh": "给我们时间打造一款、一款非常有吸引力的集成产品，并在明年将其推向显著规模。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Analyst",
+      "startSec": 2135.33,
+      "textEn": "Okay, so when you say you have no doubt, so you believe the special committee independent board, when they do their due diligence, you know, and reverse due diligence on both companies that they'll reach, you'll be able to reach your agreement. That seems very likely.",
+      "textZh": "好的，那么当您说自己毫不怀疑时，也就是说，您相信独立董事会的特别委员会在开展尽职调查，以及对两家公司进行反向尽职调查时，他们会达成，您将能够达成协议。这看起来非常有可能。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Elon Musk",
+      "startSec": 2155.01,
+      "textEn": "Support level. Yeah, I mean, like the board opinion is unanimous in both companies. So I mean, unless there's something discovered that I have no idea about or, you know, just.",
+      "textZh": "支持程度。是的，我是说，两家公司的董事会意见都是一致的。所以我的意思是，除非发现了某些我完全不知道的事情，或者，你知道，只是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 2175.77,
+      "textEn": "Or that nobody on the board has any idea about, which is extremely unlikely,",
+      "textZh": "或者是董事会里没有任何人知道的事情，而这种可能性极低，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 2180.33,
+      "textEn": "then",
+      "textZh": "那么",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Elon Musk",
+      "startSec": 2182.44,
+      "textEn": "that the board would, or the impounded board members would recommend in favor of completing a transaction somewhere in the price range range that was mentioned, most likely. And then it would be up to the shareholder vote to say, excluding me to say yes or no.",
+      "textZh": "董事会，或者被扣押的董事会成员，很可能会建议赞成在所提到的价格区间范围内完成交易。然后就要由股东投票决定，除我之外，表决赞成还是反对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Elon Musk",
+      "startSec": 2201.56,
+      "textEn": "And yeah, so I think that's about as fair as one can make it.",
+      "textZh": "对，所以我认为这已经是一个人所能做到的最公平程度了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Operator",
+      "startSec": 2208.05,
+      "textEn": "Great.",
+      "textZh": "很好。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Analyst",
+      "startSec": 2208.25,
+      "textEn": "Thank you very much. Congratulations again.",
+      "textZh": "非常感谢。再次祝贺。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 2211.41,
+      "textEn": "Thanks. Yeah, I mean, if anybody here thinks like, hey, there's some better way to do this, like morally better way to do this or better way to do this from an execution standpoint, like, let me know. And we've tried to do this in the way that's, in a way that's as fair as possible and really going beyond what's legally required and to make it as, you know, not just legally correct, but morally correct.",
+      "textZh": "谢谢。是的，我是说，如果这里有人认为，嘿，有什么更好的方式来做这件事，比如在道德上更好的方式，或者从执行角度看更好的方式，那就告诉我。我们一直努力以尽可能公平的方式来做这件事，并且实际上超越法律要求，使它，你知道，不仅在法律上正确，而且在道德上正确。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Operator",
+      "startSec": 2256.8,
+      "textEn": "Thank you. And our next question comes from the line of Colin Rusch of Oppenheimer and Company. Your line is now open.",
+      "textZh": "谢谢。我们的下一个问题来自 Oppenheimer and Company 的 Colin Rusch。您的线路现已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Analyst",
+      "startSec": 2263.46,
+      "textEn": "Thanks so much.",
+      "textZh": "非常感谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Elon Musk",
+      "startSec": 2264.18,
+      "textEn": "At what point are we going to",
+      "textZh": "我们要到什么时候才会",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Analyst",
+      "startSec": 2265.14,
+      "textEn": "get financial details here? Clearly there's been an awful lot of cross pollination with the boards, former CFO of SolarCity is on the board of Tesla. JB is on the board of SolarCity. There's been a lot of sharing. To have a price year without some sort of scope of return on capital I think would be incredibly important for us. And so when are we going to get that information? And without you're begging off the detailing on synergies, but I think getting specific about return on capital for Tesla shareholders will be essential to getting this done.",
+      "textZh": "在这里获得财务细节？显然，双方董事会之间一直存在大量交叉交流，SolarCity 的前首席财务官在 Tesla 董事会任职。JB 在 SolarCity 董事会任职。双方进行了大量共享。在没有某种资本回报范围的情况下给出一个年度价格，我认为这对我们会极其重要。那么我们什么时候能获得这些信息？而且在没有……你们又对协同效应的细节避而不谈，但我认为，具体说明 Tesla 股东的资本回报，对于促成这件事将至关重要。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Analyst",
+      "startSec": 2301.49,
+      "textEn": "When are we going to get that information?",
+      "textZh": "我们什么时候能获得这些信息？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Elon Musk",
+      "startSec": 2302.61,
+      "textEn": "Yeah, I agree, I agree. As Todd was saying, we kind of have to do this in a bit of an unwieldy way because I'm largest shareholder of both companies. If that wasn't the case, we could do a lot of this and kind of present you with like the full and final details of the proposed merger and what you know.",
+      "textZh": "是的，我同意，我同意。正如 Todd 所说，我们不得不以一种有点笨拙的方式来做这件事，因为我是两家公司的最大股东。如果情况不是这样，我们本可以完成其中很多工作，然后向你们展示拟议合并的全部最终细节，以及你知道的内容。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Elon Musk",
+      "startSec": 2335.34,
+      "textEn": "But before we, since I'm larger both companies, we have to tell you at the beginning of the process, not the end.",
+      "textZh": "但在我们之前，因为我在两家公司都更大，我们必须在流程开始时告诉你们，而不是在结束时。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Elon Musk",
+      "startSec": 2346.1,
+      "textEn": "So we will certainly have all that done for you. But the reason it's not just all in a neat package is because this is sort of an odd case where we have to tell you at the start of the process before we have all the answers, rather than at the end of the process, but definitely get all that information. I'm confident it will be extremely compelling.",
+      "textZh": "所以我们当然会为你们把这一切都做好。但之所以没有把所有内容整齐地打包在一起，是因为这算是一种特殊情况，我们必须在流程开始、还没有所有答案之前就告诉你们，而不是等到流程结束时，不过你们肯定会获得所有这些信息。我相信它会极具吸引力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Analyst",
+      "startSec": 2381.81,
+      "textEn": "Okay, and then the second question is around Salivo. So there's actually a lot going on in terms of manufacturing for solar at this point with Asian manufacturers reducing cost well in excess of what expectations have been been. And certainly there's folks that are getting around the import duties. You know, even with the potential savings on installation costs with the extra efficiency at Salivo, you know, it looks like, you know, there isn't going to be that much of a cost advantage.",
+      "textZh": "好的，然后第2个问题与 Salivo 有关。因此，目前太阳能制造领域实际上发生了很多事情，亚洲制造商降低成本的幅度远远超出了此前的预期。当然，也有人正在绕过进口关税。你知道，即使考虑到 Salivo 的额外效率可能带来的安装成本节省，看起来，你知道，也不会有那么大的成本优势。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Analyst",
+      "startSec": 2411.83,
+      "textEn": "Just from a raw cost perspective, when you look at a price point for solar panels coming into the US that SolarCity would buy, you know, can you talk a little bit about, you know, you're begging off some of the product details here, but you know, what, what you're expecting Tesla to be able to bring to that engineering process to improve that cost trajectory. Because by the time you get that Salivo factory up and running, there's going to be, I think at least a 15 cent cost disadvantage for their target cost at this point.",
+      "textZh": "仅从原始成本角度来看，当你考察 SolarCity 会购买的、进入美国市场的太阳能电池板价格点时，你知道，你能否稍微谈谈，你知道，你们在这里对一些产品细节避而不谈，但你知道，你预计 Tesla 能为该工程流程带来什么，以改善那条成本轨迹。因为等到你们让那座 Salivo 工厂投入运营时，我认为届时其目标成本将至少存在15美分的成本劣势。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Analyst",
+      "startSec": 2439.69,
+      "textEn": "And I think there's something that needs to get done there to make that a compelling offering.",
+      "textZh": "而且我认为，需要在那里做些事情，才能使它成为一个有吸引力的产品。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Elon Musk",
+      "startSec": 2447.01,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Elon Musk",
+      "startSec": 2449.01,
+      "textEn": "So Tesla, we're putting a lot of effort into becoming the world's best manufacturer. And I really mean that. That's like I'm highly confident we will be the world's best manufacturer. Just as we, I said we would build the world's best car. We did that at SpaceX. I said we built the world's best rocket. We did that. We're going to be the world's best manufacturer, not by a small margin, but by a margin that people don't even think is possible.",
+      "textZh": "所以在 Tesla，我们正投入大量精力，力求成为世界上最优秀的制造商。而且我是认真的。就是说，我非常有信心，我们会成为世界上最优秀的制造商。就像我们，我曾说过我们会制造世界上最好的汽车。我们做到了。在 SpaceX 也是如此。我说过我们制造了世界上最好的火箭。我们做到了。我们将成为世界上最优秀的制造商，不是以微小优势，而是以人们甚至认为不可能达到的优势。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Elon Musk",
+      "startSec": 2486.87,
+      "textEn": "I believe in taking first principles physics based approach to analysis. And my analysis of the situation is that dramatic improvements are possible on the automotive side and on the photovoltaic side.",
+      "textZh": "我相信采用基于第一性原理物理学的方法进行分析。我对情况的分析是，无论在汽车方面还是在光伏方面，都有可能实现巨大的改进。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "Elon Musk",
+      "startSec": 2508.02,
+      "textEn": "An important advantage of the Slievo technology is that it has significantly higher efficiency than the very low cost Chinese panels.",
+      "textZh": "Slievo 技术的一个重要优势是，其效率显著高于成本非常低廉的中国电池板。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "Elon Musk",
+      "startSec": 2519.7,
+      "textEn": "So on the same surface area roof, you can get as much as a third more power.",
+      "textZh": "所以在表面积相同的屋顶上，你可以获得多达1/3的额外电力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 2527.7,
+      "textEn": "And",
+      "textZh": "而且",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "Elon Musk",
+      "startSec": 2530.19,
+      "textEn": "then aesthetically speaking, the siva panels look better. They look a lot better.",
+      "textZh": "然后从美观角度来说，siva 电池板看起来更好。它们看起来好得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Elon Musk",
+      "startSec": 2540.43,
+      "textEn": "And if it's done right, we can make your roof look better with solar panels than without.",
+      "textZh": "而且如果做得好，我们可以让你装上太阳能电池板的屋顶比不装时看起来更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Elon Musk",
+      "startSec": 2552.67,
+      "textEn": "This is a night and day difference.",
+      "textZh": "这是天壤之别。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Elon Musk",
+      "startSec": 2556.83,
+      "textEn": "If you've got a, let's say somebody's got a $400,000 house, if you make the roof look ugly, then arguably you've made that house worth 5% less or some non 0% less valuable. On the other hand, if you make the roof look beautiful, you've made the house more valuable. And maybe that's plus 5% or some non zero plus percent in the value of the house.",
+      "textZh": "如果你有一栋，比如说，某人有一栋价值400,000美元的房子，如果你让屋顶看起来很难看，那么可以说，你让那栋房子的价值降低了5%，或者某个非0%的比例。另一方面，如果你让屋顶看起来很漂亮，你就让房子更值钱了。也许是增加5%，或者房屋价值增加某个非零的百分比。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "Elon Musk",
+      "startSec": 2587.75,
+      "textEn": "If it is something on the order of 5%, then the value delta there is called $40,000 or maybe it's only like 2 or 3% and it's 20,000. It's like there's.",
+      "textZh": "如果这个比例大约是5%，那么这里的价值差就可以说是40,000美元；或者也许只有2%或3%，那就是20,000美元。就像是有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Elon Musk",
+      "startSec": 2609.98,
+      "textEn": "Quite a big value delta. So being able to have higher power, that looks great. And I think at costs that are at least as good, if not better than what's coming from anywhere else in the world, that's obviously a winning outcome. And that's the outcome that we will pursue and I think we'll get there.",
+      "textZh": "相当大的价值差。因此，能够拥有更高的功率，而且看起来很棒。并且我认为其成本至少能与世界其他任何地方的产品一样好，如果不是更低的话，那显然就是一个成功的结果。这正是我们将追求的结果，而且我认为我们会做到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Analyst",
+      "startSec": 2632.59,
+      "textEn": "Okay, I'll follow up on that. I think my question was more around the process technology at Salivo than the ultimate",
+      "textZh": "好的，我接着问一下。我想我的问题更多是关于Salivo的工艺技术，而不是最终的",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Elon Musk",
+      "startSec": 2641.07,
+      "textEn": "fundamentals of the.",
+      "textZh": "……的基本原理。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "Analyst",
+      "startSec": 2642.19,
+      "textEn": "Yeah, the fundamentals of the process technology, you know, and where you're going to get the cost out. I think there are a variety of detailed questions I can come back with you with, but my follow up question on that is just, you know, fundamentally solarcity is a specialty construction and specialty finance entity at its heart. And so as you look at Tesla being evaluated, manufacturer of a variety of products, and a technology company moving into what we see as a fundamentally different business.",
+      "textZh": "对，工艺技术的基本原理，你知道，以及你们将从哪里降低成本。我想我可以带着各种具体问题再来找你们，但我对此的后续问题只是，你知道，从根本上说，SolarCity本质上是一家专业建筑和专业金融实体。所以，当你们看待被评估为多种产品制造商、并且是一家正进入我们认为根本不同的业务的科技公司的Tesla时。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Analyst",
+      "startSec": 2674.37,
+      "textEn": "Where are you seeing the Synergies come back to Tesla other than the sales side, Is there something to do on that specialty finance expertise that you would be bringing in house and the actual boots on the ground? The footprint of SolarCity is incredibly important to actually closing sales and delivering things versus the footprint of Tesla's customer base, which is very different than the concentrated footprint at SolarCity.",
+      "textZh": "除了销售方面，你们认为协同效应会从哪里回到Tesla？对于你们将引入内部的专业金融专长以及实际的一线人员，是否有什么可做的？SolarCity的布局对于真正完成销售和交付产品至关重要，而Tesla客户群的布局与SolarCity的集中式布局非常不同。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Analyst",
+      "startSec": 2700.19,
+      "textEn": "How are you seeing the value come back to Tesla other than just in the cost of customer acquisition?",
+      "textZh": "除了客户获取成本之外，你们认为价值将如何回到Tesla？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Elon Musk",
+      "startSec": 2706.99,
+      "textEn": "Yeah, I mean, I think the biggest asset that we'd be acquiring is the installers, the installation team of SolarCity and all the people trained in doing the permitting and the paperwork and all the complexities that exist in municipalities throughout the country and understanding how to deal with 37 different roof types and having efficient logistics infrastructure for doing the installations.",
+      "textZh": "是的，我的意思是，我认为我们将收购的最大资产是安装人员、SolarCity的安装团队，以及所有接受过许可办理和文书工作培训的人员，还有全国各地市政机构中存在的各种复杂情况，了解如何应对37种不同的屋顶类型，并且拥有高效的安装物流基础设施。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "Elon Musk",
+      "startSec": 2746.96,
+      "textEn": "And then I think there's some strengths in the cell city sales side that we can take advantage of and.",
+      "textZh": "然后我认为，cell city在销售方面有一些优势可供我们利用，并且。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "Elon Musk",
+      "startSec": 2762.88,
+      "textEn": "Yeah, so, but I really don't. I do want to emphasize, like, I think the SLEVO technology is going to make quite a big difference.",
+      "textZh": "是的，所以，但我真的不。我确实想强调，我认为SLEVO技术将带来相当大的影响。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "Elon Musk",
+      "startSec": 2778.04,
+      "textEn": "And I don't see any fundamental cost issues that prevent it from being at or lower cost per watt than any other panel in the world.",
+      "textZh": "而且我看不到任何根本性的成本问题，会妨碍它实现与世界上任何其他面板相当或更低的每瓦成本。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0185",
+      "speakerEn": "Elon Musk",
+      "startSec": 2794.12,
+      "textEn": "Okay, thanks. I spent time in the, in the SolarCity Slivo pilot plant in the Bay Area and so I'm not familiar with this and my observation is there are dramatic improvements.",
+      "textZh": "好的，谢谢。我在湾区的SolarCity Slivo试点工厂待过一段时间，所以我对此并不熟悉，而我的观察是，存在显著的改进。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "Elon Musk",
+      "startSec": 2813.44,
+      "textEn": "If it's not some physical thing that's preventing it from being super competitive, it's actually a relatively straightforward manufacturing process.",
+      "textZh": "如果没有某种物理因素阻碍它拥有超强竞争力，那么它实际上是一个相对简单直接的制造过程。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "Elon Musk",
+      "startSec": 2829.51,
+      "textEn": "Okay, thanks a lot.",
+      "textZh": "好的，非常感谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0188",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 2832.23,
+      "textEn": "All right, Elon and Todd, it's Jeff. I've had a number of people emailing in questions about process here, possible timeline. Todd or Elon, if you want to speak to. Kind of a recap of who needs to vote, who's recused and how and when. Diligence disclosure, the shareholder votes might happen. That might be helpful.",
+      "textZh": "好的，埃隆和托德，我是杰夫。我收到了一些人发来的邮件，询问这里的流程和可能的时间表。托德或埃隆，如果你们愿意谈谈。大致回顾一下谁需要投票、谁需要回避，以及如何和何时进行。尽职调查披露、股东投票可能会在何时进行。这可能会有所帮助。",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 2862.19,
+      "textEn": "Sure, I can take that if you want. So, on the Tesla side, the board has approved going forward with the offer, which is why we made the announcement",
+      "textZh": "当然，如果你愿意，我可以来回答。那么，在Tesla这边，董事会已经批准继续推进这项要约，这就是我们发布公告的原因",
+      "speakerZh": "Tesla顾问"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "Todd Maron (General Counsel)",
+      "startSec": 2872.43,
+      "textEn": "that an offer was made.",
+      "textZh": "即已经提出了一项要约。",
+      "speakerZh": "托德·马龙（总法律顾问）"
+    },
+    {
+      "id": "p-0191",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 2874.83,
+      "textEn": "Elon and Antonio, being directors on both boards, recused themselves from, from the vote on that. We're now in a stage where we've delivered the offer to SolarCity. SolarCity will set up their board process on their end and decide how to do this so that it's done, as Elon said, not only legally but morally correctly, I'm sure. And then we'll move into a diligence phase very quickly. Hopefully diligence can take place promptly so in the next two, three weeks and we can get to a place where everything makes sense, that there's a signed merger agreement.",
+      "textZh": "埃隆和安东尼奥同时担任双方董事会的董事，因此回避了对此事的投票。我们目前所处的阶段是，已经向 SolarCity 提交了要约。SolarCity 将在其内部启动董事会流程，并决定如何推进此事，以确保如埃隆所说，不仅在法律上正确，在道德上也正确，我相信会如此。然后我们将很快进入尽职调查阶段。希望尽职调查能够迅速进行，在接下来的2、3周内完成，这样我们就能推进到一切都合理、签署合并协议的阶段。",
+      "speakerZh": "Tesla顾问"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 2908.35,
+      "textEn": "And at that point everyone would receive the merger agreement as well as the typical disclosures that would be provided at that time, combined financials, proxy statements and everything. And we'd move to a shareholder vote. We're now getting a little bit further",
+      "textZh": "届时，每个人都会收到合并协议，以及届时通常会提供的披露材料，包括合并财务报表、委托书等所有资料。然后我们将进入股东投票阶段。现在说得有点更远了",
+      "speakerZh": "Tesla顾问"
+    },
+    {
+      "id": "p-0193",
+      "speakerEn": "Elon Musk",
+      "startSec": 2923.23,
+      "textEn": "out, so it's harder to predict with",
+      "textZh": "，所以更难以有把握地预测",
+      "speakerZh": "Tesla顾问"
+    },
+    {
+      "id": "p-0194",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 2924.99,
+      "textEn": "certainty, but the hope would be that there would be a shareholder vote on each side in the next few months.",
+      "textZh": "，但希望双方都能在未来几个月内举行股东投票。",
+      "speakerZh": "Tesla顾问"
+    },
+    {
+      "id": "p-0195",
+      "speakerEn": "Operator",
+      "startSec": 2934.92,
+      "textEn": "Thank you. And our next question comes from the line of Joseph Spock of RBC Capital Markets. Your line is now open.",
+      "textZh": "谢谢。下一个问题来自 RBC Capital Markets 的 Joseph Spock。您的线路现已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0196",
+      "speakerEn": "Analyst",
+      "startSec": 2942.44,
+      "textEn": "Thanks. So I guess I just wanted to get your sense on how much of a play you think the SolarCity bet is on lower storage costs, meaning we've seen some proposed changes to net metering laws. And, and if that sort of continues or there's more of that, does how long does the business model work? Do you need to see the falling storage cost for it to work? And is your confidence in that the reason to go forward with the deal?",
+      "textZh": "谢谢。我想我只是想了解一下，您认为对 SolarCity 的这次押注在多大程度上是押注储能成本下降，也就是说，我们已经看到一些针对净计量法规的拟议修改。而且，而且如果这种情况继续下去，或者出现更多这种情况，这种商业模式能维持多久？是否需要看到储能成本下降，它才能奏效？您对此的信心是否就是推进这笔交易的原因？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0197",
+      "speakerEn": "Elon Musk",
+      "startSec": 2980.34,
+      "textEn": "Yeah, the storage costs are going to drop really dramatically with each passing year. And I think the.",
+      "textZh": "是的，储能成本将逐年大幅下降。而且我认为。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0198",
+      "speakerEn": "Elon Musk",
+      "startSec": 2994.74,
+      "textEn": "Exclusion of certain situations, like Nevada, maybe Arizona, which we're working to mitigate, it'll be ahead of the net metering situation.",
+      "textZh": "除某些情况外，比如内华达州，或许还有亚利桑那州，我们正在努力缓解这些情况，它会领先于净计量方面的局势。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0199",
+      "speakerEn": "Elon Musk",
+      "startSec": 3008.5,
+      "textEn": "In New York, a reasonable deal has been arranged. And basically this gets ahead of the net metering situation, call it roughly the two to three year time frame.",
+      "textZh": "在纽约，已经达成了一项合理的安排。而且基本上，这会抢在净计量局势之前，大致可以说是在2至3年的时间范围内。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0200",
+      "speakerEn": "Elon Musk",
+      "startSec": 3021.48,
+      "textEn": "It's definitely important for long term. And although some utilities will exaggerate the impact of solar on the grid, ultimately the impact of solar on the grid beyond a certain localized percentage does have an impact and you do need to buffer the power.",
+      "textZh": "这对长期而言无疑很重要。尽管一些公用事业公司会夸大太阳能对电网的影响，但归根结底，当太阳能在局部地区所占比例超过某个水平后，确实会对电网产生影响，你确实需要对电力进行缓冲。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0201",
+      "speakerEn": "Elon Musk",
+      "startSec": 3038.53,
+      "textEn": "So they have a value argument. It's just exaggerated. So it's obviously very important for the long term and yeah, it's going to work together. Well, I mean, this is what the world needs. This is the ultimate solution for Earth. What we're talking about here, solar power, stationary storage, electric cars, this is Earth's solution and we're going to try to make that happen as fast as possible. And the fundamental good of Solar City and Tesla will be measured by the degree to which we accelerate that transition.",
+      "textZh": "所以他们的论点有其道理。只是有所夸大。因此，这对长期而言显然非常重要，而且，是的，它们会协同运作。嗯，我的意思是，这正是世界所需要的。这是地球的终极解决方案。我们在这里谈论的太阳能、固定式储能、电动汽车，这就是地球的解决方案，而我们将努力尽快使其成为现实。SolarCity 和 Tesla 带来的根本益处，将根据我们在多大程度上加速了这一转型来衡量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0202",
+      "speakerEn": "Elon Musk",
+      "startSec": 3074.81,
+      "textEn": "So we're going to try to make it happen as fast as possible.",
+      "textZh": "所以我们将努力尽快使其成为现实。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0203",
+      "speakerEn": "Elon Musk",
+      "startSec": 3079.049,
+      "textEn": "And I think we'll have a meaningful impact on that time frame and then",
+      "textZh": "而且我认为我们将对这一时间范围产生实质性影响，然后",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0204",
+      "speakerEn": "Analyst",
+      "startSec": 3085.05,
+      "textEn": "maybe just two real quick ones if the deal is consummated. Have you given any thought or plan to provide segmented balance sheet or cash flow just to provide a little bit more transparency on each line? And then on a Technical point, you will do that? Yeah.",
+      "textZh": "如果交易完成，或许再问两个很快的问题。你们是否考虑过或计划提供分部资产负债表或现金流量表，以便让每条业务线都更加透明一些？然后从技术角度来说，你们会那样做吗？是的。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0205",
+      "speakerEn": "Elon Musk",
+      "startSec": 3104.79,
+      "textEn": "I mean, I do think it's valuable to have transparency. So.",
+      "textZh": "我的意思是，我确实认为透明度是有价值的。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0206",
+      "speakerEn": "Elon Musk",
+      "startSec": 3114.95,
+      "textEn": "We will want to show that transparency as much as we can.",
+      "textZh": "我们会希望尽可能展现这种透明度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0207",
+      "speakerEn": "Elon Musk",
+      "startSec": 3121.12,
+      "textEn": "For some cases it's going to be like, where exactly should the cost be allocated? But I do think it would be great if it's like a black box that people can't figure out and then have to like somehow parse out what pieces are what.",
+      "textZh": "在某些情况下，问题会是，成本究竟应该分配到哪里？但我确实认为，如果它像一个人们无法弄清楚的黑箱，然后不得不以某种方式解析哪些部分分别是什么，那会很棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0208",
+      "speakerEn": "Elon Musk",
+      "startSec": 3137.52,
+      "textEn": "So we don't want to have an information discount to the stock because people are uncertain. So I think that's having clearer information gives people a better understanding of the value of the company. Various pieces. It will inevitably lead some people to reach conclusions they maybe shouldn't reach or they're premature. But I do believe in transparency.",
+      "textZh": "所以我们不希望因为人们不确定，而让股票出现信息折价。因此我认为，信息越清晰，人们就越能理解公司的价值。各个部分。它不可避免地会让一些人得出他们或许不该得出的结论，或者说那些结论还为时过早。但我确实相信透明度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0209",
+      "speakerEn": "Analyst",
+      "startSec": 3163.07,
+      "textEn": "And then from a technical standpoint, you talked about some greater seamlessness between entities. Would you also consider allowing vehicle to grid support?",
+      "textZh": "然后从技术角度来看，您谈到了各实体之间更高程度的无缝衔接。您是否也会考虑支持车辆向电网供电？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0210",
+      "speakerEn": "Elon Musk",
+      "startSec": 3177.78,
+      "textEn": "I think we've debated this since the early days of the roadster. I mean, very early proto roadsters that we had would do vehicle to grid.",
+      "textZh": "我想，从 Roadster 的早期阶段起，我们就一直在讨论这个问题。我的意思是，我们当时非常早期的 Roadster 原型车就可以实现车辆向电网供电。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0211",
+      "speakerEn": "Elon Musk",
+      "startSec": 3189.78,
+      "textEn": "But you do get a lot of complications with that. If you backflow power through car into the wall, when is the car allowed to do that? When is it not?",
+      "textZh": "但这样做确实会带来许多复杂问题。如果让电力通过汽车反向流入墙上的线路，汽车什么时候可以这样做？什么时候不可以？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0212",
+      "speakerEn": "Elon Musk",
+      "startSec": 3204.65,
+      "textEn": "I mean, how much do you allow the car battery to be drawn down? And then people, I think were pretty upset if the lights are on in the house, but they can't drive their car because otherwise all the power in the house shuts down. So I think the right solution is to decouple it into vehicle, stationary battery and solar.",
+      "textZh": "我的意思是，你允许汽车电池的电量被消耗到什么程度？而且我认为，如果房子里的灯还亮着，人们却不能开车，因为否则房子里的所有电力都会中断，他们会非常不满。所以我认为，正确的解决方案是将其拆分为车辆、固定式电池和太阳能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0213",
+      "speakerEn": "Elon Musk",
+      "startSec": 3230.61,
+      "textEn": "And then some need to supplement that power at the grid level by having utility scale solar battery installations.",
+      "textZh": "然后还需要通过公用事业规模的太阳能电池装置，在电网层面补充一部分电力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0214",
+      "speakerEn": "Elon Musk",
+      "startSec": 3243.97,
+      "textEn": "Because you don't always have enough surface area on a house or certainly for an apartment building, you don't have enough surface area. So you got to kind of ground mount the utility scale solar battery system and feed that to the grid.",
+      "textZh": "因为住宅的表面积并不总是足够，而对公寓楼来说，表面积肯定不够。所以你得把公用事业规模的太阳能电池系统安装在地面上，再向电网供电。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0215",
+      "speakerEn": "Elon Musk",
+      "startSec": 3260.79,
+      "textEn": "But if anyone that's seen my powerwall presentation, it's remarkable how little land you need to power the entire United States. It's crazy. Like a little corner of Texas or Utah, that's all the United States power.",
+      "textZh": "但如果有人看过我的 Powerwall 演示，就会发现，为整个美国供电所需的土地少得惊人。太疯狂了。就像得克萨斯州或犹他州的一个小角落，那就足以供应整个美国的电力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0216",
+      "speakerEn": "Elon Musk",
+      "startSec": 3276.73,
+      "textEn": "And then there's like one pixel inside that box that I showed, which is the box of how much land area you need to power the United States. That was like a little box, like I said, fits into the little Texas panhandle or corner Utah. And inside that box is one pixel. That's the size, that's the surface area the battery packs needed to support the entire United States, one pixel.",
+      "textZh": "然后，我展示的那个方框里面大概有1个像素，那个方框表示为美国供电需要多大的土地面积。那就像是一个小方框，正如我所说，可以放进得克萨斯州狭长地带的一小块地方，或者犹他州的一个角落。而在那个方框里面有1个像素。那就是为整个美国提供支持所需电池组的大小，也就是所需表面积，1个像素。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0217",
+      "speakerEn": "Elon Musk",
+      "startSec": 3304.58,
+      "textEn": "So anyway, we're going to try to build that as fast as we can the US but throughout the world.",
+      "textZh": "所以不管怎样，我们会尽可能快地在美国建设它，也会在全世界建设。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0218",
+      "speakerEn": "Analyst",
+      "startSec": 3314.02,
+      "textEn": "Thanks.",
+      "textZh": "谢谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0219",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 3316.42,
+      "textEn": "And that video, by the way, is available on our website of Elon's presentation on Tesla energy products. Elon, we are at the half hour mark here. We have nine more questioners in queue, so I'll defer to you as to",
+      "textZh": "顺便说一下，埃隆关于 Tesla 能源产品的演示视频可以在我们的网站上观看。埃隆，现在已经到半小时这个时间点了。队列中还有9位提问者，所以我交由你来",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0220",
+      "speakerEn": "Elon Musk",
+      "startSec": 3336.2,
+      "textEn": "determine how far along you want to go.",
+      "textZh": "决定你想继续多久。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0221",
+      "speakerEn": "Elon Musk",
+      "startSec": 3341.64,
+      "textEn": "Let's definitely, yeah, try to answer everyone's questions and like I said, I really would encourage people to think about the long term. Where is this all headed? And I think if you think about like the long term, there's really no question about the convergence of Tesla and SolarCity. It's really just a question of what timing is appropriate for that convergence. And the, you know, it's basically SolarCity's product roadmap and Tesla's product roadmap, which obviously, you know, very significant paramount product information which I wish I could tell you about.",
+      "textZh": "我们当然要，嗯，尽量回答每个人的问题，而且就像我说的，我真的会鼓励大家从长远角度思考。这一切将走向何方？我认为，如果你从长远角度考虑，Tesla 与 SolarCity 的融合确实毫无疑问。真正的问题只是什么时机适合进行这种融合。而且，那个，你知道，这基本上关系到 SolarCity 的产品路线图和 Tesla 的产品路线图，其中显然有，你知道，非常重要、极为关键的产品信息，我真希望能告诉你们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0222",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 3387.34,
+      "textEn": "Can't.",
+      "textZh": "不能。",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0223",
+      "speakerEn": "Elon Musk",
+      "startSec": 3390.22,
+      "textEn": "The timing is, if anything we're, you know, maybe we should have done this sooner, but I certainly don't think we're doing it too early.",
+      "textZh": "至于时机，如果真要说什么的话，我们，你知道，也许本该更早这样做，但我当然不认为我们做得太早了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0224",
+      "speakerEn": "Elon Musk",
+      "startSec": 3402.38,
+      "textEn": "And then what, what's the long term picture? Long term picture is a world with sustainable power generation, with stationary storage to buffer that power and then electric cars.",
+      "textZh": "那么，长期图景是什么？长期图景是这样一个世界：拥有可持续的电力生产，以固定式储能来缓冲这些电力，然后还有电动汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0225",
+      "speakerEn": "Elon Musk",
+      "startSec": 3418.81,
+      "textEn": "And Tesla is going to be the leader in all three. So if you believe that that's the future we're headed towards, which everything points to that being true. And really, like gasoline cars, we have to look back on gasoline cars like we look back on steam engines. It was like a phase, it was a bit weird.",
+      "textZh": "而 Tesla 将在这3个领域都成为领导者。所以，如果你相信这就是我们正在迈向的未来，而一切都表明确实如此。实际上，谈到汽油车，我们将来回望汽油车，就会像现在回望蒸汽机一样。那就像是一个阶段，有点奇怪。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0226",
+      "speakerEn": "Elon Musk",
+      "startSec": 3444.01,
+      "textEn": "And we're going to look back on fossil fuel power generation the same way. It was a weird phase.",
+      "textZh": "我们也会以同样的方式回望化石燃料发电。那是一个奇怪的阶段。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0227",
+      "speakerEn": "Elon Musk",
+      "startSec": 3452.25,
+      "textEn": "Now we want to get out of that weird phase as soon as we can. And this is all about accelerating us getting out of this idiosyncratic moment in history when we were digging up sort of Cambrian level fossils and burning them, I think you'd be telling your grandchildren, like, yeah, you won't believe in what we used to do. It's like we used to dig up the liquidized remains of, of dinosaurs and old plants and put them in cars and burn them to move and did the same thing with the power plants.",
+      "textZh": "现在，我们希望尽快摆脱那个奇怪的阶段。而这一切都是为了加快我们摆脱历史上这个特殊时刻的速度，那时我们挖出某种寒武纪层位的化石，然后把它们烧掉。我想你会告诉你的孙辈，比如，是啊，你不会相信我们过去都做些什么。就像我们过去会挖出恐龙和古老植物液化后的遗骸，把它们放进汽车里燃烧，从而让汽车移动，发电厂也做同样的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0228",
+      "speakerEn": "Elon Musk",
+      "startSec": 3492.87,
+      "textEn": "And like that sounds crazy.",
+      "textZh": "而且，那听起来很疯狂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0229",
+      "speakerEn": "Elon Musk",
+      "startSec": 3496.67,
+      "textEn": "That's what it's going to be in the future, obviously. So we're trying to have the non weird future get here as fast as possible.",
+      "textZh": "显然，未来人们就是会这样看待它。所以我们正努力让那个不奇怪的未来尽快到来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0230",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 3510.12,
+      "textEn": "All right, Terrea, let's go to the next question please.",
+      "textZh": "好的，Terrea，请接下一个问题。",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0231",
+      "speakerEn": "Operator",
+      "startSec": 3513.32,
+      "textEn": "Certainly our next question comes from Tyler Frank of Robert Baird. Your line is now open.",
+      "textZh": "当然，我们的下一个问题来自 Robert Baird 的泰勒·弗兰克。您的线路现已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0232",
+      "speakerEn": "Analyst",
+      "startSec": 3519.56,
+      "textEn": "Hey guys, it's actually Ben Kala from Baird Elon, I was just wondering, I understand working together and being cumbersome by separate entities, but could you just talk us through what the difference is of actually owning SolarCity versus maybe doing some kind of JV or some other kind of entity like that to help you guys work through some of the issues?",
+      "textZh": "嗨，各位，实际上我是 Baird 的本·卡拉。埃隆，我只是想问，我理解双方合作以及作为独立实体会很繁琐，但你能否为我们解释一下，真正拥有 SolarCity，与或许成立某种合资企业或其他类似实体来帮助你们处理一些问题相比，有什么区别？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0233",
+      "speakerEn": "Elon Musk",
+      "startSec": 3544.72,
+      "textEn": "Yeah, I mean, the problem is that I think we just, we hit the, you know, it's like we don't have a good basis for doing some special deal with SolarCity because there's effectively a conflict of interest. Like, ironically, conflict of interest goes away for one company, but it doesn't go away for two separate companies.",
+      "textZh": "是的，我的意思是，问题在于，我认为我们只是，我们遇到了那个，你知道，就像我们没有一个与 SolarCity 达成某种特殊交易的良好基础，因为实际上存在利益冲突。具有讽刺意味的是，对于一家公司，利益冲突会消失，但对于两家独立的公司，它不会消失。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0234",
+      "speakerEn": "Elon Musk",
+      "startSec": 3573.45,
+      "textEn": "So, like, there's not really a good rationale for just offering a special deal and only working with one company that I also happen to own.",
+      "textZh": "所以，怎么说呢，其实没有什么充分的理由去专门提供一项特殊交易，而且只与一家碰巧也是我拥有的公司合作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0235",
+      "speakerEn": "Elon Musk",
+      "startSec": 3584.25,
+      "textEn": "You know, just, it's. I don't think we have a good moral legal basis for behaving in a special way to SolarCity unless we're. It's actually one company.",
+      "textZh": "你知道，就是，这个。我认为我们没有充分的道德和法律依据以特殊方式对待 SolarCity，除非我们是。它实际上是一家公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0236",
+      "speakerEn": "Analyst",
+      "startSec": 3600.55,
+      "textEn": "Got it. And then one more, if I can, could you just rank some of the things that you talked about in the order you look at it as far as revenue synergies from cross selling, the technical synergies of being able to work with on both the manufacturer, the panel side as well as the battery side, and then maybe the third one bucket being cost synergies. And then if I forgot any out there, maybe list those as well in kind of the order that you're thinking of them.",
+      "textZh": "明白了。然后如果可以的话，我还有一个问题，您能否把您谈到的一些事项排个序，说明您如何看待交叉销售带来的收入协同效应、能够同时在制造商、面板方面以及电池方面开展合作所带来的技术协同效应，然后第三类或许是成本协同效应。如果我还遗漏了什么，也请按照您考虑它们的大致顺序列出来。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0237",
+      "speakerEn": "Analyst",
+      "startSec": 3634.27,
+      "textEn": "Thanks.",
+      "textZh": "谢谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0238",
+      "speakerEn": "Elon Musk",
+      "startSec": 3636.47,
+      "textEn": "Yeah, I mean, I think we'll have a more definitive answer for you once this process wraps up.",
+      "textZh": "是的，我是说，我想等这个流程结束后，我们会给您一个更明确的答案。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0239",
+      "speakerEn": "Elon Musk",
+      "startSec": 3646.22,
+      "textEn": "So, I mean, I regard what I'm saying here as anecdotal, but it's kind of the way I think about it from a gut standpoint is first and foremost, do we offer what allows us to offer the most compelling product to consumers and businesses.",
+      "textZh": "所以，我是说，我认为我在这里说的只是经验之谈，但从直觉角度来说，我大致是这样考虑的：首要的是，我们是否提供了能让我们向消费者和企业提供最具吸引力产品的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0240",
+      "speakerEn": "Elon Musk",
+      "startSec": 3672.79,
+      "textEn": "And a seamlessly integrated product that all just works together that's better. Like, you don't want to have to have a heterogeneous systems integration problem.",
+      "textZh": "以及一种无缝集成、一切都能协同运作、更加出色的产品。比如，你不会希望面对异构系统集成问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0241",
+      "speakerEn": "Elon Musk",
+      "startSec": 3692.96,
+      "textEn": "That's basically where the interfaces break down and then people are sort of pointing fingers like, this didn't work, no yours thing didn't work. If it's just one integrated system, there's no finger pointing. You can iron out all the bugs and it just works.",
+      "textZh": "基本上就是接口会在那里出问题，然后人们就会互相指责，比如，这个没起作用，不，是你的东西没起作用。如果只有一个集成系统，就不会有人互相指责。你可以解决所有缺陷，然后它就能正常运作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0242",
+      "speakerEn": "Elon Musk",
+      "startSec": 3713.52,
+      "textEn": "And you're not wondering, should I blame the solar company or the battery company or the. Who knows? It's just like sort of a pain in the butt to try to figure that out if you're the end customer.",
+      "textZh": "而且你不会疑惑，我该怪太阳能公司，还是电池公司，或者那个。谁知道呢？如果你是终端客户，要设法弄清楚这一点简直就是件麻烦事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0243",
+      "speakerEn": "Elon Musk",
+      "startSec": 3726.18,
+      "textEn": "And I think we can guide the integrated product to be the right to just be right to be better.",
+      "textZh": "而且我认为，我们可以引导集成产品，使其成为正确的产品，就是做到正确，做到更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0244",
+      "speakerEn": "Elon Musk",
+      "startSec": 3736.66,
+      "textEn": "So that's kind of from that standpoint more than anything else.",
+      "textZh": "所以，与其他任何事情相比，主要还是出于这个角度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0245",
+      "speakerEn": "Elon Musk",
+      "startSec": 3742.9,
+      "textEn": "And then in addition, there's just obvious cost savings to be had. If in the same store we can sell twice as much dollar volume, like, well, it's the same store not selling twice as much stuff.",
+      "textZh": "除此之外，显然还能节省成本。如果我们能在同一家门店实现2倍的销售额，那么，嗯，还是同一家门店，并不是卖出2倍那么多的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0246",
+      "speakerEn": "Elon Musk",
+      "startSec": 3761.26,
+      "textEn": "And if with the installation crew, if they're now able to knock out three things in a single visit rather than schedule two or three separate visits, that's also way better.",
+      "textZh": "而且就安装团队而言，如果他们现在一次上门就能完成3件事，而不必安排2次或3次单独上门，那也会好得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0247",
+      "speakerEn": "Elon Musk",
+      "startSec": 3783.03,
+      "textEn": "You know, one can argue this sort of how much better is it? It's definitely some percentage better. That's material, which is kind of, I mean, that's kind of like the threshold for making a decision. It's obviously going to be a lot better. Like if you just cut the visits down to, you know, from two or three to one. Okay, you've probably cut your transport, labor and logistics cost maybe in half, something like that.",
+      "textZh": "你知道，人们可以争论这到底能好多少？肯定会好某个百分比。这是重大的，也就是，我是说，这有点像作出决定的门槛。显然会好很多。比如，如果你直接把上门次数从，你知道，2次或3次减少到1次。好吧，你大概能把运输、人工和物流成本削减一半左右，差不多这样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0248",
+      "speakerEn": "Elon Musk",
+      "startSec": 3819.21,
+      "textEn": "And if you have a seamlessly integrated product, you can have less servicing costs and things are going to break down less.",
+      "textZh": "而且如果你拥有无缝集成的产品，就可以降低服务成本，东西发生故障的次数也会减少。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0249",
+      "speakerEn": "Elon Musk",
+      "startSec": 3829.42,
+      "textEn": "It's just the thing you'd want to buy. If you're the end customer, why would you want to buy anything else?",
+      "textZh": "这就是你会想买的东西。如果你是终端客户，为什么还会想买其他任何东西？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0250",
+      "speakerEn": "Operator",
+      "startSec": 3841.18,
+      "textEn": "Thank you. And our next question comes from Brian Brinkman of JP Morgan. Your line is not open.",
+      "textZh": "谢谢。下一个问题来自摩根大通的 Brian Brinkman。您的线路尚未接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0251",
+      "speakerEn": "Elon Musk",
+      "startSec": 3850.2,
+      "textEn": "This is Samik here on behalf of Ryan. Just a quick one from us. Have you had conversations about this offer already with the largest disinterested shareholders of Tesla? And what's your sense in terms of, do they see the same value in combining the two businesses as you do? And what's your sense about how they'll vote on this?",
+      "textZh": "我是 Samik，代表 Ryan 提问。我们只有一个简短的问题。您是否已经与 Tesla 最大的无利益关系股东就这项要约进行过交谈？您的感觉如何，他们是否像您一样看到了合并这两项业务的相同价值？您觉得他们会如何对此投票？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0252",
+      "speakerEn": "Elon Musk",
+      "startSec": 3875.25,
+      "textEn": "Well, everybody, we wanted to make sure everyone heard about it at the same time. So we've not discussed it with anyone because we wanted investors small and large to hear about it at the same time.",
+      "textZh": "嗯，各位，我们希望确保所有人都在同一时间听到这件事。因此，我们没有与任何人讨论过，因为我们希望无论大小投资者都在同一时间听到这件事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0253",
+      "speakerEn": "Elon Musk",
+      "startSec": 3891.41,
+      "textEn": "Now, Seva, apart from that, over the years, has this idea been bandied about with some of our largest shareholders, institutional shareholders? Yeah, I mean, there have been discussions and I think, I think some of them see it as like a natural thing to do and. But I mean, it's interesting to sort of look at the feedback that I've received since we made the announcement yesterday.",
+      "textZh": "那么，Seva，除此之外，多年来，这个想法是否曾与我们的一些最大股东、机构股东讨论过？是的，我是说，确实有过讨论，而且我认为，我认为他们中的一些人把它视为一件自然而然要做的事。而且。但我是说，看看我们昨天发布公告以来我收到的反馈，也挺有意思的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0254",
+      "speakerEn": "Elon Musk",
+      "startSec": 3934.36,
+      "textEn": "Anyone who's product focused sent me sort of a congratulatory note and like, why didn't you do it sooner? Sort of message.",
+      "textZh": "任何专注于产品的人都给我发了某种祝贺留言，还有类似“你为什么不早点这么做？”这样的信息。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0255",
+      "speakerEn": "Elon Musk",
+      "startSec": 3947.24,
+      "textEn": "And then people that are sort of more finance focused, they were like a lot more worried about it in the long run. The value of a company is defined by the value of its products and services. That's real Important to bear in mind that's why companies exist. They shouldn't exist otherwise.",
+      "textZh": "然后，那些更专注于财务的人则对长期情况担心得多。一家公司的价值由其产品和服务的价值决定。牢记这一点真的很重要，这就是公司存在的原因。否则它们就不应该存在。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0256",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 3967.55,
+      "textEn": "And",
+      "textZh": "而且",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0257",
+      "speakerEn": "Elon Musk",
+      "startSec": 3970.03,
+      "textEn": "the value of the company will follow the value of the product. A company that starts making lousy products is pretty soon going to have a lousy valuation.",
+      "textZh": "公司的价值会跟随产品的价值。一家开始制造糟糕产品的公司很快就会得到糟糕的估值。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0258",
+      "speakerEn": "Elon Musk",
+      "startSec": 3982.02,
+      "textEn": "A company that makes great products pretty soon going to have a great valuation because that's how the system is set up and it's how it should be set up.",
+      "textZh": "一家制造出色产品的公司很快就会得到很高的估值，因为这个体系就是这样设置的，而且它也应该这样设置。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0259",
+      "speakerEn": "Elon Musk",
+      "startSec": 3993.78,
+      "textEn": "Great, thank you. Thanks.",
+      "textZh": "很好，谢谢。谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0260",
+      "speakerEn": "Operator",
+      "startSec": 3997.78,
+      "textEn": "Thank you. And our next question comes from Patrick Archambault of Goldman Sachs. Your line is now open.",
+      "textZh": "谢谢。下一个问题来自高盛的 Patrick Archambault。您的线路现已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0261",
+      "speakerEn": "Analyst",
+      "startSec": 4004.9,
+      "textEn": "Great. Yeah, thanks a lot for taking my question.",
+      "textZh": "很好。是的，非常感谢您接受我的提问。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0262",
+      "speakerEn": "Analyst",
+      "startSec": 4008.44,
+      "textEn": "So look, I think a lot has been laid out about the strategic vision for this longer term, but I wanted to piggyback on one of the earlier questions and just get a sense of the possible financial sense it makes kind",
+      "textZh": "所以，我认为关于这一长期战略愿景已经阐述了很多，但我想接着此前的一个问题，了解一下它在财务上可能有多合理，大概",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0263",
+      "speakerEn": "Elon Musk",
+      "startSec": 4028.2,
+      "textEn": "of in the shorter term.",
+      "textZh": "在较短期内的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0264",
+      "speakerEn": "Analyst",
+      "startSec": 4031.08,
+      "textEn": "And correct me if I'm wrong, I don't cover SolarCity, but my understanding is",
+      "textZh": "如果我说错了请纠正我，我不负责研究 SolarCity，但据我了解",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0265",
+      "speakerEn": "Elon Musk",
+      "startSec": 4035.61,
+      "textEn": "the storage plus",
+      "textZh": "储能加",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0266",
+      "speakerEn": "Analyst",
+      "startSec": 4039.05,
+      "textEn": "solar piece of that business is actually quite small. You've had places like the Rocky Mountain Institute put out fairly detailed studies on combining solar plus storage that suggests the levelized cost of energy won't be lower than the current available price for maybe",
+      "textZh": "太阳能这部分业务实际上相当小。像落基山研究所这样的机构发布过相当详细的研究，探讨太阳能加储能的组合，研究表明，其平准化能源成本可能要到",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0267",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 4063.63,
+      "textEn": "call it five to 10 years.",
+      "textZh": "姑且说5到10年后，才会低于目前可获得的价格。",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0268",
+      "speakerEn": "Analyst",
+      "startSec": 4065.63,
+      "textEn": "But you guys sound very confident that",
+      "textZh": "但你们听起来非常有信心，认为",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0269",
+      "speakerEn": "Elon Musk",
+      "startSec": 4068.75,
+      "textEn": "this makes sense sooner.",
+      "textZh": "这会更早变得合理。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0270",
+      "speakerEn": "Analyst",
+      "startSec": 4070.75,
+      "textEn": "So I just wanted to get your view on that.",
+      "textZh": "所以我只是想了解一下你们对此的看法。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0271",
+      "speakerEn": "Elon Musk",
+      "startSec": 4075.23,
+      "textEn": "Yeah, I think the important thing is to bear in mind it's a big world out there and there are places where the cost of energy is much higher than other places.",
+      "textZh": "是的，我认为需要牢记的重要一点是，世界很大，有些地方的能源成本远高于其他地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0272",
+      "speakerEn": "Elon Musk",
+      "startSec": 4087.19,
+      "textEn": "Like for example in Hawaii, energy costs are very high because they have to ship in all of the fuel for their power plants. So it's very expensive. And the economics of solar plus battery make overwhelming sense for places like Hawaii and a lot of actually island nations out there. And really any place that's got expensive energy costs or even moderately expensive energy costs, and it's going to make sense for many parts of Europe, many parts of the United States and yeah, so.",
+      "textZh": "比如说在夏威夷，能源成本非常高，因为他们发电厂所需的全部燃料都必须运进来。所以成本非常昂贵。而太阳能加电池的经济效益对于夏威夷这样的地方，以及实际上许多岛国而言，都极其合理。实际上，任何能源成本昂贵、甚至只是中等偏高的地方都适用，而且这在欧洲许多地区、美国许多地区都会是合理的，是的，就是这样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0273",
+      "speakerEn": "Elon Musk",
+      "startSec": 4131.8,
+      "textEn": "And then over time it's going to make sense for everywhere. Everywhere is going to be.",
+      "textZh": "然后随着时间推移，它会在所有地方都变得合理。所有地方都会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0274",
+      "speakerEn": "Elon Musk",
+      "startSec": 4139.9,
+      "textEn": "I mean, there'll be some wind, of course, some geothermal hydro, and there'll be some long tail of before the final coal plant finally stops operating, the final natural gas plant stops operating. I mean those might last, there'll be some long tailgate, it's going to look like an S curve as is typical for new technology adoption. So it's like in the beginning of the S curve people tend to under predict what's going to happen and then it goes through an exponential growth phase.",
+      "textZh": "我的意思是，当然会有一些风能、一些地热和水电，而且在最后一家燃煤电厂最终停止运行、最后一家天然气电厂停止运行之前，还会拖着一条长尾。我的意思是，那些可能会持续存在，会有某种长尾门，它看起来会像一条S曲线，这也是新技术采用的典型形态。所以在S曲线的初始阶段，人们往往会低估将要发生的事情，随后它会经历一个指数增长阶段。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0275",
+      "speakerEn": "Elon Musk",
+      "startSec": 4180.85,
+      "textEn": "Then an approximately Linear growth phase.",
+      "textZh": "然后是一个近似线性的增长阶段。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0276",
+      "speakerEn": "Elon Musk",
+      "startSec": 4184.77,
+      "textEn": "Usually people over predict what's going to happen in the steep linear portion of the growth phase. And then it goes back into a logarithmic sort to complete the S shape.",
+      "textZh": "通常，人们会高估增长阶段中陡峭线性部分将要发生的事情。然后它又回到一种对数式增长，以完成S形。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0277",
+      "speakerEn": "Elon Musk",
+      "startSec": 4197.949,
+      "textEn": "That's what happened with the Internet, for example, cell phones.",
+      "textZh": "例如，互联网和手机就是这样发展的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0278",
+      "speakerEn": "Elon Musk",
+      "startSec": 4202.669,
+      "textEn": "Same thing will happen here",
+      "textZh": "这里也会发生同样的事情",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0279",
+      "speakerEn": "Analyst",
+      "startSec": 4207.469,
+      "textEn": "and I guess within the United States. Do you think five years is a reasonable time frame for the economics to start to.",
+      "textZh": "那么我想，就美国而言。你认为5年是一个合理的时间框架，让经济性开始变得。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0280",
+      "speakerEn": "Elon Musk",
+      "startSec": 4217.56,
+      "textEn": "Oh yeah, absolutely.",
+      "textZh": "哦，是的，绝对是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0281",
+      "speakerEn": "Analyst",
+      "startSec": 4218.68,
+      "textEn": "On a map scale.",
+      "textZh": "在地图规模上。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0282",
+      "speakerEn": "Elon Musk",
+      "startSec": 4222.52,
+      "textEn": "I mean it just needs to be on a scale that allows our factory to operate at maximum capacity.",
+      "textZh": "我的意思是，它只需要达到能让我们的工厂满负荷运转的规模。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0283",
+      "speakerEn": "Elon Musk",
+      "startSec": 4234.12,
+      "textEn": "So we think the factory is going to be operating at maximum capacity as far into the future as we can see.",
+      "textZh": "所以我们认为，在我们能够预见的未来，工厂都将满负荷运转。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0284",
+      "speakerEn": "Elon Musk",
+      "startSec": 4244.53,
+      "textEn": "Like it's, this is all about production.",
+      "textZh": "比如，这一切都关乎生产。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0285",
+      "speakerEn": "Elon Musk",
+      "startSec": 4250.29,
+      "textEn": "My meetings yesterday were all about guys, we need to figure out how to ramp up our production of cells, batteries, obviously cars faster.",
+      "textZh": "我昨天的会议全都在讨论，各位，我们需要想办法更快地提高电芯、电池，当然还有汽车的产量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0286",
+      "speakerEn": "Elon Musk",
+      "startSec": 4263.89,
+      "textEn": "And addressing every limiting factor that we can.",
+      "textZh": "并解决我们能够解决的每一个限制因素。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0287",
+      "speakerEn": "Elon Musk",
+      "startSec": 4271.26,
+      "textEn": "You know, I know I mentioned like this whole thing about manufacturing a machine that builds a machine. It's like, let me tell you, like order of magnitude improvements are what I think can be achieved. Won't get there right away, but by version 3 of the machine that builds the machine order of magnitude.",
+      "textZh": "你知道，我知道我提过这整件事，就是制造一台制造机器的机器。我的意思是，让我告诉你，我认为可以实现数量级的提升。不会立刻达到，但到制造机器的机器的第3版时，数量级。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0288",
+      "speakerEn": "Elon Musk",
+      "startSec": 4295.59,
+      "textEn": "That's the sort of, you know, compared to car manufacturing. You look at that and you're like, it'll seem like an alien dreadnought. You'll be like, what the hell is that?",
+      "textZh": "这有点像，你知道，与汽车制造相比。你看到它时会觉得，它看起来就像一艘外星无畏舰。你会说，这到底是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0289",
+      "speakerEn": "Elon Musk",
+      "startSec": 4308.95,
+      "textEn": "And it's just like it blows my mind that people don't realize just how much improvement potential is.",
+      "textZh": "而且，人们没有意识到改进潜力究竟有多大，这简直让我难以置信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0290",
+      "speakerEn": "Elon Musk",
+      "startSec": 4322.71,
+      "textEn": "And I mean this is thick. We're doing a high school level physics necessary to figure this out. It's not mega complicated. Just go to a factory and say do a volumetric density calculation. Say what percentage of volume inside this building is doing useful stuff versus either air or not doing useful stuff? You'll be shocked at how tiny that percentage is. Like low single digits.",
+      "textZh": "而且我的意思是，这是厚的。要弄明白这一点，我们用到的是高中水平的必要物理知识。并不是极其复杂。只要去一家工厂，做一下体积密度计算。问问这栋建筑内部的体积中，有多少百分比在做有用的事情，而不是空气或没有做有用的事情？你会震惊于这个百分比有多么小。大概是低个位数。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0291",
+      "speakerEn": "Elon Musk",
+      "startSec": 4347.97,
+      "textEn": "Then what is the velocity, what is the exit velocity of the product? How fast are things moving out the exit? You know, what's the sort of mass flow or the M dot of the factory? It's like whoa, it's really low. Like the fastest car finance in the world. The car exit velocity is basically grandma with a walker. That's real slow.",
+      "textZh": "然后，速度是多少，产品的出口速度是多少？东西以多快的速度从出口出来？你知道，工厂的质量流量，也就是M上加点，大概是多少？就像，哇，真的很低。就像世界上最快的汽车金融。汽车的出口速度基本上就是拄着助行器的老奶奶。那真的很慢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0292",
+      "speakerEn": "Elon Musk",
+      "startSec": 4376.7,
+      "textEn": "0.2 meters per second. That's really, really slow.",
+      "textZh": "0.2米/秒。那真的、真的很慢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0293",
+      "speakerEn": "Elon Musk",
+      "startSec": 4385.66,
+      "textEn": "So it could do way better than that.",
+      "textZh": "所以它可以做得比这好得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0294",
+      "speakerEn": "Elon Musk",
+      "startSec": 4391.82,
+      "textEn": "Like the fastest person can run 10 meters per second faster than 10 meters per second. So why, why is car exit velocity only 0.2 meters per second? That's ridiculous.",
+      "textZh": "比如跑得最快的人可以达到10米/秒，比10米/秒还快。那么为什么，为什么汽车的出口速度只有0.2米/秒？这太荒谬了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0295",
+      "speakerEn": "Elon Musk",
+      "startSec": 4405.04,
+      "textEn": "And then why is the volumetric efficiency of a car factory?",
+      "textZh": "然后，为什么一家汽车工厂的体积效率是？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0296",
+      "speakerEn": "Elon Musk",
+      "startSec": 4415.12,
+      "textEn": "Usually it's in the mid to low Single digits. I mean, that's very low. Why shouldn't it be? At least volumetric density of 30 or 40%, maybe 30% seems very, very achievable.",
+      "textZh": "通常处于中低个位数。我的意思是，那非常低。为什么不该是？至少达到30%或40%的体积密度，也许30%看起来非常、非常容易实现。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0297",
+      "speakerEn": "Elon Musk",
+      "startSec": 4433.61,
+      "textEn": "Nobody would design a chip that had volumetric efficiency of 2% would look ridiculous. And yet they designed factories that way.",
+      "textZh": "没有人会设计体积效率只有2%的芯片，那看起来会很荒谬。然而，他们却以这种方式设计工厂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0298",
+      "speakerEn": "Analyst",
+      "startSec": 4448.25,
+      "textEn": "Are these efficiencies that you are looking to put in place for your next Tesla plant, or are these things we",
+      "textZh": "这些是你们打算在下一座Tesla工厂落实的效率提升吗，还是这些东西我们",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0299",
+      "speakerEn": "Elon Musk",
+      "startSec": 4454.64,
+      "textEn": "can see in Fremont? At some stage in the near future, you'll see things moving in that direction. I mean, with level three, I think we're, you know, we're aspiring to get to version 0.5 of Alien Dreadnought level of where alien driven level is like version three.",
+      "textZh": "能在弗里蒙特看到？在不久的将来某个时候，你会看到事情朝那个方向发展。我的意思是，对于3级，我认为我们，你知道，我们希望达到外星无畏舰水平的0.5版，而外星驱动水平大概是第3版。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0300",
+      "speakerEn": "Elon Musk",
+      "startSec": 4482.58,
+      "textEn": "So you'll certainly see that direction. Where it's most obvious is in the cell production.",
+      "textZh": "所以你肯定会看到那个方向。最明显的地方是在电芯生产中。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0301",
+      "speakerEn": "Elon Musk",
+      "startSec": 4488.74,
+      "textEn": "So, I mean, our engineering team has worked very closely with Panasonic to make dramatic improvements to the cell manufacturing efficiency.",
+      "textZh": "所以，我的意思是，我们的工程团队一直与松下密切合作，大幅提升电芯制造效率。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0302",
+      "speakerEn": "Elon Musk",
+      "startSec": 4498.1,
+      "textEn": "We think we're probably approaching 3x, the efficiency of the best plant in the world. So that's pretty good. A lot of room for improvement.",
+      "textZh": "我们认为，我们的效率可能正接近全球最佳工厂的3倍。所以这相当不错。还有很大的改进空间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0303",
+      "speakerEn": "Elon Musk",
+      "startSec": 4513.71,
+      "textEn": "Cells are going through that thing like bullets from a machine gun.",
+      "textZh": "电芯通过那台设备时，就像机枪射出的子弹一样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0304",
+      "speakerEn": "Elon Musk",
+      "startSec": 4517.79,
+      "textEn": "In fact, the exit rate of cells will be faster than bullets from a machine gun.",
+      "textZh": "事实上，电芯的出口速率会比机枪射出子弹的速率还快。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0305",
+      "speakerEn": "Analyst",
+      "startSec": 4526.03,
+      "textEn": "Well, we look forward to the next time you take us around.",
+      "textZh": "好的，我们期待你下次带我们参观。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0306",
+      "speakerEn": "Elon Musk",
+      "startSec": 4530.11,
+      "textEn": "Yeah. Come to the Gigafactory party. It's an eye opener.",
+      "textZh": "是啊。来参加超级工厂的派对吧。会让你大开眼界。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0307",
+      "speakerEn": "Operator",
+      "startSec": 4537.31,
+      "textEn": "Thank you. Our next question comes from Colin Langland of ubs. Your line is now open.",
+      "textZh": "谢谢。下一个问题来自瑞银的科林·兰兰德。您的线路现在已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0308",
+      "speakerEn": "Analyst",
+      "startSec": 4542.43,
+      "textEn": "Oh, great. Thanks for taking my question. A lot of analysts that cover SolarCity are highlighting major liquidity concerns of the company. You sounded pretty confident that that was going to turn cash flow positive. What do you think they're seeing differently? And are you concerned at all that the cash burn may increase after the deal?",
+      "textZh": "哦，太好了。感谢回答我的问题。许多关注SolarCity的分析师都在强调该公司存在严重的流动性问题。你听起来相当确信它将转为现金流为正。你认为他们看到了什么不同之处？交易完成后，现金消耗可能增加，你对此完全不担心吗？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0309",
+      "speakerEn": "Elon Musk",
+      "startSec": 4565.23,
+      "textEn": "Well, I think once the deal is done, the cash burn is likely to reduce because of reduced cost of sales and general operational efficiencies. There's a lot of things that's duplicated that are duplicated.",
+      "textZh": "嗯，我认为交易一旦完成，现金消耗很可能会减少，因为销售成本会降低，整体运营效率也会提高。有很多事情是重复的，是重复的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0310",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 4579.67,
+      "textEn": "So",
+      "textZh": "所以",
+      "speakerZh": "Tesla顾问"
+    },
+    {
+      "id": "p-0311",
+      "speakerEn": "Elon Musk",
+      "startSec": 4581.87,
+      "textEn": "we expect costs to decrease and to increase the positive cash flow from the Soul City acquisition.",
+      "textZh": "我们预计成本会下降，并提高收购灵魂之城所带来的正现金流。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0312",
+      "speakerEn": "Elon Musk",
+      "startSec": 4594.17,
+      "textEn": "Yeah, I mean, might take like a few months for those to come into effect, but pretty short order, let's say six months after the acquisition is complete, I would expect those efficiencies to become. To be there and be significant,",
+      "textZh": "是的，我的意思是，这些举措可能需要几个月才能生效，但会相当快，比如说收购完成6个月后，我预计这些效率会变得。会切实存在并且意义重大，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0313",
+      "speakerEn": "Analyst",
+      "startSec": 4614.77,
+      "textEn": "kind of. Actually, my second question. So in terms of the time horizon, in terms of delivering on goals and promises, particularly around this acquisition, you actually think the synergies would be achieved within six months of post closing? It would be that quick?",
+      "textZh": "算是吧。其实，我的第2个问题。那么，就实现目标和承诺的时间范围而言，特别是围绕这项收购，你真的认为协同效应会在交割后的6个月内实现吗？会那么快吗？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0314",
+      "speakerEn": "Elon Musk",
+      "startSec": 4631.73,
+      "textEn": "Yeah, I think from the point at which it is Once the deal is done, yes.",
+      "textZh": "是的，我认为从它所处的时间点来看，交易一旦完成，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0315",
+      "speakerEn": "Elon Musk",
+      "startSec": 4638.38,
+      "textEn": "It should be meaningful and noticeable by the second full quarter after the acquisition is completed.",
+      "textZh": "到收购完成后的第2个完整季度，效果应该会很显著，而且可以察觉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0316",
+      "speakerEn": "Elon Musk",
+      "startSec": 4650.38,
+      "textEn": "I'm highly confident that that would be the case. Yeah.",
+      "textZh": "我高度确信情况会是这样。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0317",
+      "speakerEn": "Analyst",
+      "startSec": 4654.46,
+      "textEn": "Okay. Well, thank you for taking my question.",
+      "textZh": "好的。嗯，感谢您回答我的问题。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0318",
+      "speakerEn": "Operator",
+      "startSec": 4658.38,
+      "textEn": "Thank you. Our next question comes from Patrick Dobin of Credit Please. Your line is now open.",
+      "textZh": "谢谢。下一个问题来自 Credit Please 的 Patrick Dobin。您的线路现在已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0319",
+      "speakerEn": "Tesla Advisor",
+      "startSec": 4663.56,
+      "textEn": "Hi.",
+      "textZh": "你好。",
+      "speakerZh": "Tesla 顾问"
+    },
+    {
+      "id": "p-0320",
+      "speakerEn": "Analyst",
+      "startSec": 4663.92,
+      "textEn": "Thanks for taking the questions here. I guess a question for Elon or Todd. Why not pursue a less capital intensive model, at least in the near term, and proceed with more of a marketing or sales relationship between the entities? I guess for the cross sell opportunity and installation efficiencies of the integrated systems, it seems like. I think you used the term special deals, but those seem to be the norm between entities.",
+      "textZh": "感谢回答这里的这些问题。我想有一个问题要问埃隆或 Todd。为什么不采用资本密集度较低的模式，至少在短期内如此，并在这些实体之间建立更多的营销或销售关系？我想，对于交叉销售机会以及集成系统的安装效率，看起来似乎。我想你用了“特殊交易”这个说法，但那些似乎是实体之间的常态。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0321",
+      "speakerEn": "Analyst",
+      "startSec": 4691.8,
+      "textEn": "If they're beneficial for both, I guess. Are there any legal impediments to having approached some of these synergies in that fashion?",
+      "textZh": "我是说，如果它们对双方都有利的话。以这种方式实现其中一些协同效应，是否存在任何法律障碍？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0322",
+      "speakerEn": "Elon Musk",
+      "startSec": 4705.2,
+      "textEn": "I think we would certainly face them if we did that. I think.",
+      "textZh": "我认为，如果我们那样做，肯定会面临这些障碍。我认为。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0323",
+      "speakerEn": "Elon Musk",
+      "startSec": 4711.76,
+      "textEn": "Yeah. I mean, I just don't think. I think morally and legally we find it very difficult to defend a unique relationship that just favored SolarCity. If we're separate companies, if we're one company, then obviously that's fine. But separate companies, we can't do that.",
+      "textZh": "是的。我的意思是，我只是不认为。我认为，无论在道德上还是法律上，我们都会发现，很难为一种只偏向 SolarCity 的独特关系辩护。如果我们是同一家公司，那显然没问题。但作为两家独立的公司，我们不能那样做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0324",
+      "speakerEn": "Analyst",
+      "startSec": 4741.33,
+      "textEn": "Okay, my second question. Everyone's focused on capital and cash flow here, I guess. Elon, from your perspective, would Tesla be receptive or would there be any plans to provide capital to SolarCity in the interim during the kind of pending acquisition? Obviously I'm thinking about it more from the SolarCity side, but given what saw with Vivint and SunEdison, the pending acquisition disrupted some access to the capital markets in the interim.",
+      "textZh": "好的，我的第二个问题。我想，大家这里关注的都是资本和现金流。埃隆，从您的角度看，在这种等待收购完成的过渡期间，Tesla 是否愿意，或者是否有任何计划向 SolarCity 提供资金？显然，我更多是从 SolarCity 的角度来考虑，但鉴于我们在 Vivint 和 SunEdison 身上看到的情况，待完成的收购在此期间扰乱了它们进入资本市场的渠道。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0325",
+      "speakerEn": "Analyst",
+      "startSec": 4773.6,
+      "textEn": "I'm just trying to understand SolarCity's near term path and what you'd be willing to do from a Tesla standpoint. Thank you.",
+      "textZh": "我只是想了解 SolarCity 的短期路径，以及从 Tesla 的立场看，你们愿意做些什么。谢谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0326",
+      "speakerEn": "Analyst",
+      "startSec": 4783.04,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0327",
+      "speakerEn": "Elon Musk",
+      "startSec": 4783.84,
+      "textEn": "Since SolarCity is constrained in the short term from just going out and raising equity itself, Tesla would provide branch loan if needed. I actually don't think it's going to be needed to be clear, because, I mean that's something, that's something appropriate to do. So we will be there if needed, but I don't think we'll be needed. Okay, thank you.",
+      "textZh": "由于 SolarCity 短期内无法直接出去自行筹集股本，如果需要，Tesla 会提供分支贷款。说清楚一点，我实际上认为不会需要，因为，我的意思是，那是某种，那是适合做的事情。所以如果需要，我们会提供支持，但我认为不会需要我们。好的，谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0328",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 4817.65,
+      "textEn": "We have three other callers with questions, so let's try to wrap them up quick. So if everybody can be brief, that would be great. We're coming up on 90 Minutes here.",
+      "textZh": "还有另外3位来电者有问题，所以我们尽量快速结束。如果大家都能简短一些，那就太好了。我们这里快到90分钟了。",
+      "speakerZh": "Jeff Evanson（投资者关系）"
+    },
+    {
+      "id": "p-0329",
+      "speakerEn": "Operator",
+      "startSec": 4831.49,
+      "textEn": "Thank you. Our next question comes from Dana hall of Bloomberg News. Your line is now open.",
+      "textZh": "谢谢。下一个问题来自彭博新闻社的 Dana Hall。您的线路现在已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0330",
+      "speakerEn": "Analyst",
+      "startSec": 4838.05,
+      "textEn": "Yes, good morning.",
+      "textZh": "是的，早上好。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0331",
+      "speakerEn": "Elon Musk",
+      "startSec": 4839.17,
+      "textEn": "Could you talk a little bit about",
+      "textZh": "您能稍微谈谈",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0332",
+      "speakerEn": "Analyst",
+      "startSec": 4840.41,
+      "textEn": "how you envision this impacting Tesla's retail footprint going forward? And, and if The Tesla stores are now selling solar panels and power walls. Is this sort of an effective Enron around your dealership metals?",
+      "textZh": "您设想这将如何影响 Tesla 未来的零售布局？还有，还有，如果 Tesla 门店现在销售太阳能电池板和 Powerwall。这算不算是围绕你们经销店金属的一种有效安然模式？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0333",
+      "speakerEn": "Elon Musk",
+      "startSec": 4857.27,
+      "textEn": "That's an interesting question.",
+      "textZh": "这是个有趣的问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0334",
+      "speakerEn": "Elon Musk",
+      "startSec": 4860.23,
+      "textEn": "Yeah, we're not limited in stores in terms of selling solar and station storage.",
+      "textZh": "是的，就销售太阳能和固定式储能而言，我们不受门店方面的限制。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0335",
+      "speakerEn": "Elon Musk",
+      "startSec": 4870.07,
+      "textEn": "We could do that and then potentially offer, just have the car there in a gallery format, something like that. So it does open up additional options on the retail front. Actually, now that you mentioned it,",
+      "textZh": "我们可以那样做，然后可能提供，只是以展厅形式把车放在那里，诸如此类。所以这确实在零售方面带来了更多选择。其实，既然你提到了，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0336",
+      "speakerEn": "Analyst",
+      "startSec": 4888.37,
+      "textEn": "I'm just wondering whether a car dealer association can say that it's a dealership, if it's selling more than cars, if it's also selling solar panels and power walls, and if it's going to change the look of the stores significantly enough that helps you guys out with that.",
+      "textZh": "我只是想知道，如果一家门店销售的不只是汽车，还销售太阳能电池板和 Powerwall，而且门店的外观会发生足够显著的变化，从而在这方面帮助到你们，那么汽车经销商协会是否还能说它是一家经销店。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0337",
+      "speakerEn": "Elon Musk",
+      "startSec": 4905.58,
+      "textEn": "Yeah, I think we'll still be prevented from actually including a car transaction even if it's part of a broader store.",
+      "textZh": "是的，我认为，即使它是一家业务范围更广的门店，我们实际上仍会被禁止在其中进行汽车交易。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0338",
+      "speakerEn": "Elon Musk",
+      "startSec": 4915.34,
+      "textEn": "But usually there's not a limit on having galleries where you simply display the car and have information about it.",
+      "textZh": "但通常并不限制设立仅用于展示汽车并提供相关信息的展厅。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0339",
+      "speakerEn": "Elon Musk",
+      "startSec": 4926.34,
+      "textEn": "And we could still conclude transactions for solar and batteries.",
+      "textZh": "而且我们仍然可以完成太阳能和电池的交易。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0340",
+      "speakerEn": "Elon Musk",
+      "startSec": 4934.42,
+      "textEn": "Yeah, so I mean, something like that. It does open up additional possibilities. Now that you mentioned it.",
+      "textZh": "是的，所以我的意思是，类似那样。这确实带来了更多可能性。既然你提到了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0341",
+      "speakerEn": "Analyst",
+      "startSec": 4939.94,
+      "textEn": "Thanks.",
+      "textZh": "谢谢。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0342",
+      "speakerEn": "Operator",
+      "startSec": 4942.5,
+      "textEn": "Thank you. Our next question comes from Station Shaw of Albert Freed. Your line is now open.",
+      "textZh": "谢谢。我们的下一个问题来自 Albert Freed 的 Station Shaw。您的线路现已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0343",
+      "speakerEn": "Analyst",
+      "startSec": 4949.63,
+      "textEn": "Hi, I just have a follow up. So you mentioned the positives of rolling up SolarCity and you know, I think somebody earlier mentioned in so many words that, you know, the analysts have been saying that this is a bailout of SolarCity. So you know, can you just mention if shareholders don't vote for this, what happens? You mentioned that SolarCity in the next three to six months should be net cash generator. So it's not as bleak as some of these analysts have been saying.",
+      "textZh": "你好，我只是想追问一下。所以你提到了整合 SolarCity 的积极面，而且你知道，我想之前有人用各种说法提到，你知道，分析师们一直说这是在救助 SolarCity。所以，你知道，能否请你说一下，如果股东不投票支持，会发生什么？你提到 SolarCity 在未来3到6个月内应该会成为净现金创造者。所以情况并不像其中一些分析师一直说的那么黯淡。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0344",
+      "speakerEn": "Analyst",
+      "startSec": 4987.26,
+      "textEn": "SolarCity would be in a position if they don't vote for the potential transaction with Tesla. And then secondly, what does this, you know, what does this deal mean for your gigafactory? Does it have any change? Timeline has changed because you're going to have more of a capacity or not. Thank you. Sure.",
+      "textZh": "如果他们不投票支持与 Tesla 的潜在交易，SolarCity 将处于一种境地。其次，这对你的超级工厂意味着什么，你知道，这笔交易对你的超级工厂意味着什么？会有什么变化吗？时间表已经改变，因为你们会有更多产能，还是没有。谢谢。好的。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0345",
+      "speakerEn": "Elon Musk",
+      "startSec": 5009.35,
+      "textEn": "I don't know where this bailout stuff comes from because I mean, Tesla's not the one deciding what the market value of Sol City is. It's, you know, the stock market is. So Seoul City could certainly raise capital equity on its current valuation without any problem.",
+      "textZh": "我不知道这种救助的说法从何而来，因为，我是说，并不是 Tesla 在决定 Sol City 的市场价值。是，你知道，是股市在决定。所以 Seoul City 完全可以按照其当前估值筹集股权资本，不会有任何问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0346",
+      "speakerEn": "Elon Musk",
+      "startSec": 5037.77,
+      "textEn": "So. And Solid City is headed to like a very, very healthy place from a cash flow standpoint in short order. So, you know, next three to five months getting to cash flow positive. So if a company's around the corner from being cash flow positive and has the ability to raise equity capital on its own, I don't see how an acquisition is in any way bailout. That's obviously a false description.",
+      "textZh": "所以。而且从现金流角度来看，Solid City 很快就会迈向一个非常、非常健康的状态。所以，你知道，未来3到5个月就会实现正现金流。所以，如果一家公司即将实现正现金流，并且有能力自行筹集股权资本，我看不出收购怎么会以任何方式算是救助。这显然是一种错误的描述。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0347",
+      "speakerEn": "Elon Musk",
+      "startSec": 5078.74,
+      "textEn": "And then the gigafactory kind of proceeds independently of SolarCity. Except that obviously we would gear the product, the storage product would be geared towards a SolarCity type system.",
+      "textZh": "然后，超级工厂基本上独立于 SolarCity 推进。只不过显然我们会调整产品，储能产品会面向 SolarCity 类型的系统进行调整。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0348",
+      "speakerEn": "Elon Musk",
+      "startSec": 5098.31,
+      "textEn": "And this wouldn't be something that would be explicitly exclusionary to other solar companies, by the way. It would just be that other solar companies would have to match the SolarCity product in order to use our battery product most effectively. So it's not about sort of trying to shut up other solar companies. It's just about being able to guide the product to where it needs to go and then, you know, we'll do the right thing with other solar companies if they're also guiding their products to match.",
+      "textZh": "顺便说一下，这并不意味着会明确排斥其他太阳能公司。只是其他太阳能公司必须与 SolarCity 的产品相匹配，才能最有效地使用我们的电池产品。所以这并不是要设法让其他太阳能公司闭嘴。只是为了能够引导产品走向它需要去的方向，然后，你知道，如果其他太阳能公司也在引导其产品实现匹配，我们也会正确对待它们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0349",
+      "speakerEn": "Elon Musk",
+      "startSec": 5140.98,
+      "textEn": "So we're not going to basically be a jerk to other solar companies.",
+      "textZh": "所以我们基本上不会对其他太阳能公司表现得像个混蛋。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0350",
+      "speakerEn": "Elon Musk",
+      "startSec": 5147.38,
+      "textEn": "This is really about being laser focused on having the most compelling consumer solution.",
+      "textZh": "这实际上是要高度专注于提供最具吸引力的消费者解决方案。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0351",
+      "speakerEn": "Elon Musk",
+      "startSec": 5159.47,
+      "textEn": "Yeah, that's I think the right thing to do.",
+      "textZh": "是的，我认为那是正确的做法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0352",
+      "speakerEn": "Analyst",
+      "startSec": 5164.59,
+      "textEn": "Okay, thank you very much. Congratulations, Gan.",
+      "textZh": "好的，非常感谢。恭喜，Gan。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0353",
+      "speakerEn": "Elon Musk",
+      "startSec": 5167.87,
+      "textEn": "Thanks.",
+      "textZh": "谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0354",
+      "speakerEn": "Operator",
+      "startSec": 5168.99,
+      "textEn": "Thank you. And our next question comes from Hank Elder of Goldman Sachs. The line is now open.",
+      "textZh": "谢谢。我们的下一个问题来自高盛的 Hank Elder。线路现已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0355",
+      "speakerEn": "Analyst",
+      "startSec": 5175.23,
+      "textEn": "Hey guys, this is actually Brian Lee on for Hank. I have just three housekeeping questions more along the deal itself and, and in the interest of time, I'll just run through these quickly. First is, given SolarCity's relationships with various lenders and tax equity fund structures, I was hoping you could talk to any visibility into potential change in control provisions and or exposure to clawback provisions on solar tax credits that might exist.",
+      "textZh": "嘿，各位，其实我是代 Hank 提问的 Brian Lee。我只有3个事务性问题，更多是关于交易本身的，而且为了节省时间，我会快速把这些问题过一遍。第一个是，鉴于 SolarCity 与各类贷款方以及税务股权基金结构之间的关系，我希望你们能谈谈，是否能看清可能存在的控制权变更条款，以及／或者太阳能税收抵免追回条款方面的风险敞口。",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0356",
+      "speakerEn": "Analyst",
+      "startSec": 5203.64,
+      "textEn": "Second question would be as part of the due diligence, will the board consider other alternatives to SolarCity? And that, and then third one, and I'll pass it on, is are there any collars or caps on the stock exchange ratio being proposed? And if not, what's the rationale for that?",
+      "textZh": "第二个问题是，作为尽职调查的一部分，董事会会考虑 SolarCity 之外的其他选择吗？然后，第三个问题，问完我就交给下一位，拟议的股票交换比率是否设有任何上下限？如果没有，其理由是什么？",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0357",
+      "speakerEn": "Elon Musk",
+      "startSec": 5223.17,
+      "textEn": "As to the beginning, really this is kind of the beginning of the analysis, not the end. And normally it would be a lot closer to the end because large shelter in both companies, it's, you know, it's something we have to talk about at the beginning where we don't have all the answers, but then we will compile those and present those to shareholders for their decision in the months to come.",
+      "textZh": "关于一开始，实际上这算是分析的开端，而不是终点。通常它会更接近终点，因为两家公司都有大型避税安排，这，你知道，是我们必须在一开始就讨论的事情，而这时我们还没有所有答案，但随后我们会汇总这些答案，并在未来几个月提交给股东，由他们作出决定。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0358",
+      "speakerEn": "Elon Musk",
+      "startSec": 5254.83,
+      "textEn": "So obviously part of that diligence process would be talking to the lenders, making sure they're comfortable. I think it's a good idea. Pretty sure they will, but we got to talk to them and yeah, and then in terms of other companies, we did consider that and it's part of the initial diligence process. But we think SolarCity is the best company out there.",
+      "textZh": "所以，显然该尽职调查流程的一部分会是与贷款方交谈，确保他们对此感到放心。我认为这是个好主意。相当确定他们会放心，但我们得和他们谈谈，没错，然后就其他公司而言，我们确实考虑过，而这是初步尽职调查流程的一部分。但我们认为 SolarCity 是目前最好的公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0359",
+      "speakerEn": "Elon Musk",
+      "startSec": 5290.17,
+      "textEn": "And it's good, but it's sort of a leader in the field.",
+      "textZh": "而且它很好，不过它算是该领域的领导者。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0360",
+      "speakerEn": "Elon Musk",
+      "startSec": 5297.05,
+      "textEn": "It has this labo technology.",
+      "textZh": "它拥有这种拉博技术。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0361",
+      "speakerEn": "Elon Musk",
+      "startSec": 5302.25,
+      "textEn": "The product direction, we believe, is correct in terms of making rapid progress towards a highly differentiated product.",
+      "textZh": "我们认为，在朝着高度差异化产品快速推进方面，这一产品方向是正确的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0362",
+      "speakerEn": "Elon Musk",
+      "startSec": 5318.91,
+      "textEn": "There's no other company out there that's like that at all.",
+      "textZh": "目前完全没有其他公司是这样的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0363",
+      "speakerEn": "Operator",
+      "startSec": 5327.79,
+      "textEn": "Thank you. And our next question comes from Trip Chari of Global Equities Research. Your line is now open.",
+      "textZh": "谢谢。我们的下一个问题来自 Global Equities Research 的 Trip Chari。您的线路现已接通。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0364",
+      "speakerEn": "Analyst",
+      "startSec": 5335.79,
+      "textEn": "Thank you. I have a quick question for Ilan. I was just wondering, like, how does",
+      "textZh": "谢谢。我有一个简短的问题想问伊兰。我只是想知道，比如，怎么会",
+      "speakerZh": "分析师"
+    },
+    {
+      "id": "p-0365",
+      "speakerEn": "Elon Musk",
+      "startSec": 5340.63,
+      "textEn": "this acquisition plays out with the opportunities that Tesla may find in micro grids and grid space?",
+      "textZh": "收购将如何影响 Tesla 可能在微电网和电网领域发现的机会？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0366",
+      "speakerEn": "Elon Musk",
+      "startSec": 5355.26,
+      "textEn": "Yeah, I mean, we want to have.",
+      "textZh": "是的，我是说，我们想要拥有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0367",
+      "speakerEn": "Elon Musk",
+      "startSec": 5360.86,
+      "textEn": "I think it's always good to like, productize things. So it's kind of like you can click here and buy your micro grid.",
+      "textZh": "我认为把东西产品化总是好的。所以这有点像，你可以点击这里，购买你的微电网。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0368",
+      "speakerEn": "Elon Musk",
+      "startSec": 5373.35,
+      "textEn": "Versus having a tailored situation all over the place. If you can productize can just happen real fast. And so I think like productizing microgrid, just click here and you get a microgrid. It just works. That's. I think that's a good way to go.",
+      "textZh": "而不是到处都有定制化的情形。如果你能产品化，就能非常快地实现。因此我认为，比如把微电网产品化，只需点击这里，你就能获得一个微电网。它就是能用。那是。我认为那是个不错的方向。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0369",
+      "speakerEn": "Elon Musk",
+      "startSec": 5396.96,
+      "textEn": "You know, I think consumers obviously appreciate things that are easy, simple, fast.",
+      "textZh": "你知道，我认为消费者显然喜欢容易、简单、快速的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0370",
+      "speakerEn": "Elon Musk",
+      "startSec": 5405.84,
+      "textEn": "But actually corporate customers, utilities, they appreciate that too, because they don't have to go through this big, laborious process. And it's a pain in the butt for them. It blows their mind when they can just sort of click a button and then we installed their thing and it works.",
+      "textZh": "但实际上，企业客户、公用事业公司也很欣赏这一点，因为他们不必经历这个庞大而费力的流程。这对他们来说很麻烦。当他们只需点一下按钮，然后我们就为他们安装好设备，而且它能正常运行时，他们都惊呆了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0371",
+      "speakerEn": "Elon Musk",
+      "startSec": 5428.58,
+      "textEn": "Just because the product's big doesn't mean that the whole process needs to be complex. Bigness and complexity are not the same thing.",
+      "textZh": "产品体积大，并不意味着整个流程就需要很复杂。体积大和复杂不是一回事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0372",
+      "speakerEn": "Elon Musk",
+      "startSec": 5443.06,
+      "textEn": "So I think some of our utility customers have been quite pleasantly surprised by just how easy it is to implement, and it's going to get a lot easier in the future.",
+      "textZh": "所以我认为，我们的一些公用事业客户对实施起来竟然如此容易感到相当惊喜，而且未来还会容易得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0373",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 5459.23,
+      "textEn": "All right, I think that's the end of the questions. Thank you, Todd, Elon and the rest of the team. Thank you, Terea, and thank you, investors, for all the interest. If you have any closing remarks. Elon, otherwise we can end it there.",
+      "textZh": "好的，我想问题就到这里。谢谢Todd、埃隆以及团队的其他成员。谢谢你，Terea，也感谢各位投资者的关注。埃隆，如果你有什么结束语，可以说一下；否则我们就到此结束。",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0374",
+      "speakerEn": "Elon Musk",
+      "startSec": 5476.49,
+      "textEn": "No, I think those are a lot of great questions. And then obviously we'll have a lot more information as the diligence process concludes, hopefully reasonably near future.",
+      "textZh": "没有，我认为这些都是非常好的问题。显然，随着尽职调查流程结束，我们会有更多信息，希望是在相当近的将来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0375",
+      "speakerEn": "Elon Musk",
+      "startSec": 5492.41,
+      "textEn": "But I think it's easy to get sort of mired in the details. But if I think the right thing is to sort of look up into the future and say, where is this headed? What are the macro trends?",
+      "textZh": "但我认为，人们很容易有点陷在细节里。但如果我认为正确的做法是稍微抬起头来展望未来，并问：这将走向何方？宏观趋势是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0376",
+      "speakerEn": "Elon Musk",
+      "startSec": 5511.77,
+      "textEn": "Does this action match where the tides of history are going? And that's really what's going to make the difference in the long term.",
+      "textZh": "这一行动是否符合历史潮流的方向？而这才是真正会在长期产生影响的因素。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0377",
+      "speakerEn": "Elon Musk",
+      "startSec": 5526.26,
+      "textEn": "So I just encourage people to think in that way.",
+      "textZh": "所以我只是鼓励人们以这种方式思考。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0378",
+      "speakerEn": "Jeff Evanson (IR)",
+      "startSec": 5532.58,
+      "textEn": "All right, thank you.",
+      "textZh": "好的，谢谢。",
+      "speakerZh": "杰夫·埃文森（投资者关系）"
+    },
+    {
+      "id": "p-0379",
+      "speakerEn": "Elon Musk",
+      "startSec": 5533.46,
+      "textEn": "Everybody, have a great day.",
+      "textZh": "祝大家今天愉快。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0380",
+      "speakerEn": "Operator",
+      "startSec": 5536.9,
+      "textEn": "Ladies and gentlemen, thank you for your participation on today's conference. This concludes your program. You may now disconnect. Everyone, have a great day.",
+      "textZh": "女士们、先生们，感谢各位参加今天的电话会议。本次会议到此结束。现在可以断开连接。祝大家今天愉快。",
+      "speakerZh": "接线员"
+    },
+    {
+      "id": "p-0381",
+      "speakerEn": "Elon Musk",
+      "startSec": 5551.47,
+      "textEn": "Sa.",
+      "textZh": "萨。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T00:06:43.626Z",
+    "reviewedAt": "2026-09-13T00:50:46.174Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:26.009Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "2610fd6dfa1fd5e49fe399c90af72c62bdca860a2197a7099b7aabef6c0f5151"
+}

@@ -1,0 +1,358 @@
+{
+  "id": "terafab-2026",
+  "slug": "terafab-2026",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2026-03-21",
+  "titleEn": "Terafab",
+  "titleZh": "Terafab",
+  "summaryEn": "At the Seaholm Power Plant in Austin, Elon Musk unveils Terafab — a joint Tesla/SpaceX chip megafactory aiming to produce over a terawatt of AI compute per year.",
+  "summaryZh": "在奥斯汀的西霍姆发电厂，埃隆·马斯克发布了 Terafab——一座由 Tesla 与 SpaceX 联合建设的芯片超级工厂，目标是每年生产超过1太瓦的 AI 算力。",
+  "sourceUrl": "https://www.youtube.com/watch?v=HW6O3k6QqQc",
+  "sourceLabel": "Tesla / SpaceX",
+  "archiveUrl": "https://elonmuskarchive.org/video/terafab-2026",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/HW6O3k6QqQc",
+  "thumbnailUrl": "https://i.ytimg.com/vi/HW6O3k6QqQc/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 1306,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 0.32,
+      "textEn": "Important announcement to make, which is the most epic chip building exercise in history by far.",
+      "textZh": "有一项重要声明要宣布，这是迄今为止史上最宏大的芯片建设行动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 13.52,
+      "textEn": "This is really going to take things to the next level. So, yeah, a level probably people aren't even contemplating right now. This is not in the, I'd call this sort of an out of context problem. It's not in their context. So we're going to adjust the context by a few orders of magnitude here. See, it's, it's a joint effort.",
+      "textZh": "这确实会把事情提升到一个新的层级。所以，是的，一个人们目前可能根本没有设想过的层级。这并不在，我会称其为一种脱离语境的问题。它不在他们的语境之中。所以我们要在这里把这个语境调整几个数量级。你看，这是，这是一次联合行动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 35.57,
+      "textEn": "I'm pressing the button, but the button's not working. Oh, there we go. Okay. So yeah, we aspire to be a galactic organ, galactic civilization. So I think the future that everyone, well, most people I think would agree is the most exciting is one where we are out there among the stars, where we are not forever confined to one planet, that we become a multi planet planet species. Like the best science, science fiction that you've ever read, you know, Star Trek or Ian Banks or Asimov or Heinlein.",
+      "textZh": "我正在按按钮，但按钮没有反应。哦，好了。好的。所以，是的，我们渴望成为一个银河器官，银河文明。所以我认为，每个人，嗯，我想大多数人都会认同，最令人兴奋的未来，是我们置身群星之间，不会永远受困于一颗行星，成为一个多行星行星物种。就像你读过的最优秀的科学，科幻小说，你知道，《星际迷航》、伊恩·班克斯、阿西莫夫或海因莱因。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 73.63,
+      "textEn": "And we want to make that real. Yeah, not just fiction, turn science fiction to science fact. That's the glorious, exciting future that I certainly look forward to. And it's worth considering. Sort of like how would you rate civilizations? You know, there's so there was a physicist, I think it was Russian in the 60s, Kardashev, he thought about at a high level, how would you consider any given civilization? And he said, well, if you're type one, you're using most of the energy of your planet.",
+      "textZh": "而我们想让它成为现实。是的，不只是虚构，而是把科幻变成科学事实。那是我当然期待的、辉煌而令人兴奋的未来。而且这值得思考。有点像，你会如何评定文明？你知道，有那么，所以有一位物理学家，我想他是60年代的俄罗斯人，卡尔达肖夫，他从宏观层面思考过，你会如何看待任何一个特定文明？他说，嗯，如果你是1型文明，你就在利用你所在行星的大部分能量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 111.9,
+      "textEn": "And we actually still have quite a ways to go to be properly a type 1. We're still using a tiny fraction of the, the Sun's energy that reaches our planet. See, there we go.",
+      "textZh": "而实际上，我们距离真正成为1型文明还有相当长的路要走。我们仍然只使用了抵达我们这颗行星的，太阳能量中的极小一部分。你看，好了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 125.4,
+      "textEn": "But the Earth only receives about half a billionth of the Sun's energy. So the sun is truly enormous. The sun is 99.8% of all mass in the solar system. So sometimes people will ask me, like, what about other power sources of power on Earth? Like, what about fusion on Earth? Well, that is unfortunately very small because the sun is 99.8% of mass in the solar system and Jupiter is about 0.1%. And Earth is in the miscellaneous category.",
+      "textZh": "但地球接收到的只有太阳能量的大约20亿分之1。所以太阳确实极其巨大。太阳占太阳系全部质量的99.8%。所以人们有时会问我，比如，地球上的其他电力来源的电力呢？比如地球上的核聚变呢？嗯，很遗憾，那非常微小，因为太阳占太阳系质量的99.8%，而木星约占0.1%。地球则属于杂项类别。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 161.35,
+      "textEn": "We are, I think, as Carl Sagan I think might have said, Earth is like a tiny dust mote in a vast darkness. Very, very small. The sun is enormous. So the way to actually scale civilization is to scale power in space. This is necessarily true because we actually capture such a tiny amount of the Sun's energy on Earth because we're just this tiny dust mode. Another way to think of it is roughly like electricity Production on Earth of all of civilization is only about a trillionth of the Sun's energy, which means if you increase civilizational power output by a million, you would still only be a millionth of the Sun's energy.",
+      "textZh": "我想，正如卡尔·萨根可能说过的那样，地球就像浩瀚黑暗中的一粒微尘。非常，非常小。太阳极其巨大。所以，真正扩大文明规模的方法是在太空中扩大能源规模。这必然是事实，因为我们在地球上实际捕获的太阳能量是如此之少，因为我们只是这个微小的尘埃模式。另一种思考方式是，地球上整个文明的发电量大约只有太阳能量的1万亿分之1，这意味着，即使你把文明的功率输出提高100万倍，也仍然只有太阳能量的100万分之1。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 209.22,
+      "textEn": "I mean it's, it's all inspiring to consider that just how tiny we are in the grand scheme of things. And yeah, we, we often get sort of caught up in the sort of these sort of squabbles on Earth that are really very sort of minor things in the, when you consider the, the grandness of the universe. And so I think it is important actually to consider the grandness of the universe and what we can do that is much greater than what we've done before, as opposed to worry about sort of small squabbles on Earth type of thing.",
+      "textZh": "我的意思是，想想从全局来看我们是多么渺小，这一切都令人振奋。而且，是的，我们，我们经常算是陷入地球上的算是这些算是争执，它们其实是非常算是微不足道的事情，在这个，当你考虑到宇宙的，宇宙的宏大时。所以我认为，真正思考宇宙的宏大，以及我们能做些什么远超以往所为的事情，确实很重要，而不是去担忧算是地球上的小争执之类的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 244.6,
+      "textEn": "Not much point in that. Yeah, we want to be a civilization that expands to the galaxy with spaceships that anyone can go anywhere they want at any time. That would be epic. And have a city on the moon, cities on Mars, populate the solar system and send spaceships to other star systems. That sounds like the best possible future.",
+      "textZh": "那没多大意义。是的，我们想成为一个向银河系扩张的文明，拥有任何人都能随时去往任何想去之处的宇宙飞船。那会非常壮观。还要在月球上建一座城市，在火星上建多座城市，让人类遍布太阳系，并向其他恒星系统派遣宇宙飞船。这听起来就是最理想的未来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 272.82,
+      "textEn": "So to do that we need to harness the power of the sun. And so a terafab, while it is enormous, a terawatt of computer per year is enormous by our sort of civilizational standards. It is still just one step along the way of being even a Kardashev. You still have a long way to go to even be a Kardashev 2 level civilization and you're not even registering as a Kardashev. 3. So it's a very big thing by current human standards, but still small in the grand scheme and, but very difficult for humans.",
+      "textZh": "所以，要做到这一点，我们需要利用太阳的能量。而一座 Terafab，尽管规模庞大，每年1太瓦的计算机按我们这类文明标准来看规模巨大，但它仍然只是迈向甚至成为卡尔达肖夫文明的道路上的一步。要达到卡尔达肖夫2级文明，你仍有很长的路要走，而作为卡尔达肖夫。3级文明，你甚至都还没有显现出来。所以，按当前人类标准来看，这是一件非常重大的事，但从全局来看仍然很小，而且，但对人类来说非常困难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 309.77,
+      "textEn": "So to, to accomplish this very difficult goal really requires a combination of efforts of SpaceX, XAI and Tesla working together to create this epic Terrafor project. So, And you know, Tesla, Next, AI and SpaceX have all done amazing things that people did not think would be done before. So there's the Giga Texas Fab here, there's the Optimus robot that's being built, there's a global supercharging network. There's really quite a lot.",
+      "textZh": "所以，要，要实现这个非常困难的目标，确实需要 SpaceX、xAI 和 Tesla 协同努力，共同打造这个宏大的 Terrafor 项目。所以，而且你知道，Tesla、Next、AI 和 SpaceX 都完成过人们以前认为无法完成的惊人壮举。这里有得州超级晶圆厂，有正在制造的 Optimus 机器人，还有全球超级充电网络。确实有非常多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 351.37,
+      "textEn": "And it wasn't that long ago when people thought electric cars wouldn't amount to anything. And there were basically no electric cars for sale when Tesla started and people said it was impossible. And Now Tesla's making 2 million electric cars a year.",
+      "textZh": "而就在不久前，人们还认为电动汽车成不了气候。Tesla 创立时，基本没有电动汽车在售，人们说这是不可能的。而现在 Tesla 每年生产200万辆电动汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 371.47,
+      "textEn": "And then Xai, although it's a new company now part of SpaceX, has also built the first gigawatt scale compute cluster which in record time. Jensen Huang from Nvidia said he'd never seen anything built so fast in his life before. So a great compliment from Nvidia. And then SpaceX. Well, I guess you can read it for yourself. You already know, I mean, the reusable rockets. People said that reusable rockets weren't possible and even if you did do them, they wouldn't be economically feasible.",
+      "textZh": "然后是 xAI，虽然它是一家现在已成为 SpaceX 一部分的新公司，但它也建成了首个吉瓦级计算集群，而这个以创纪录的时间。英伟达的黄仁勋说，他这辈子从未见过任何东西建得这么快。所以，这是来自英伟达的高度赞誉。然后是 SpaceX。嗯，我想你们可以自己看。你们已经知道了，我是说，可重复使用火箭。人们曾说可重复使用火箭是不可能的，即使真的造出来，也不具备经济可行性。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 403.72,
+      "textEn": "So we did them and then we made them economically feasible. And now we've landed over 500 times. And then we did the Falcon Heavy, now we're doing Starship. And Starship is a critical piece of the puzzle because in order to start scale compute and scale power, you have to go to space, which means that you need massive payload to space. And Starship will enable that. So this gives you sort of just a sense of scale. We've got Optimus there, Optimus for scale, and optimus is about 511.",
+      "textZh": "所以我们造出来了，然后又让它们具备了经济可行性。现在我们已经着陆超过500次。之后我们造了猎鹰重型火箭，现在我们正在造星舰。而星舰是拼图中至关重要的一块，因为要开始扩大计算规模和能源规模，就必须进入太空，这意味着你需要将大规模载荷送入太空。星舰将使之成为可能。所以这只是让你们大致感受一下尺度。那里有 Optimus，用 Optimus 作为比例参照，而 Optimus 大约是511。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 436.76,
+      "textEn": "So it gives you a sense of the size of the Starship V3 rocket. The Sasha V4 will be much longer. Actually, the Sasha V4 will, will make Starship V3 look kind of short. So we'll, we'll expand with Starship V3 to 200 tons of payload to orbit from 100 tons. We'll start with V3 and then you can see that just the, that's just a rough approximation of the, the AI, the mini version of the AISAT. So that's roughly 100 kilowatts.",
+      "textZh": "所以，这能让你感受到星舰 V3 火箭的尺寸。萨莎 V4 会长得多。实际上，萨莎 V4 会，会让星舰 V3 显得有点短。所以我们会，我们会通过星舰 V3，把送入轨道的有效载荷从100吨扩大到200吨。我们会从 V3 开始，然后你可以看到，就只是，那个只是对那个，那个 AI，也就是 AISAT 迷你版本的粗略近似图。所以那大约是100千瓦。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 467.17,
+      "textEn": "It's showing the solar panels and the radiator to scale. So. So for some reason there's been a bizarre debate about radiators in space. It's safe to say SpaceX knows how to do heat rejection in space. With 10,000 satellites in orbit, might know a thing or two. So you can see the radiator is actually quite small relative to the solar panels. And we call that the Minisat, since that's just 100 kilowatts. We expect future satellites to probably go to the megawatt range.",
+      "textZh": "它按比例展示了太阳能电池板和散热器。所以。所以，不知为何，关于太空中的散热器一直存在一场离奇的争论。可以肯定地说，SpaceX 知道如何在太空中散热。有10,000颗卫星在轨，可能还是懂一两件事的。所以你可以看到，相对于太阳能电池板，散热器其实相当小。我们称之为 Minisat，因为那只有100千瓦。我们预计未来的卫星可能会达到兆瓦级。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 499.01,
+      "textEn": "No.",
+      "textZh": "不。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 505.17,
+      "textEn": "So in order to get to the terawatt of compute per year, you need about 10 million tons to orbit per year, and at 100 kilowatts per ton. So we're confident this is feasible, like no new physics or impossible things are required to get there. So I'm confident actually that SpaceX will get to 10 million tons to orbit per year. And then we're building up to a terawatt of solar. So that solves the, well, will solve the solar problem, the power generation.",
+      "textZh": "所以，要达到每年1太瓦的算力，你每年需要将大约1000万吨送入轨道，并且每吨为100千瓦。所以我们相信这是可行的，比如不需要任何新物理学或不可能实现的东西就能做到。所以实际上我相信，SpaceX 将达到每年将1000万吨送入轨道的水平。然后我们正在逐步提升到1太瓦的太阳能。所以这解决了，嗯，将会解决太阳能问题，也就是发电问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 538.19,
+      "textEn": "So then the key missing Ingredient is therefore a terawatt of compute. So this announcement is about solving the key missing ingredient. To give you a sense of what we're talking about, the current output of AI compute is roughly 20 gigawatts per year. This chart explains why we need to build the terafab, because all of the rest of the output from Earth is about 2% of what we need. So if you add up all the fabs on Earth combined, they're only about 2% of what we need for the terawatt project or terafab project.",
+      "textZh": "所以，那么缺少的关键要素就是1太瓦的算力。因此，这项发布是为了解决这个缺少的关键要素。为了让你了解我们所谈的规模，目前 AI 算力的产出约为每年20吉瓦。这张图解释了为什么我们需要建造太瓦晶圆厂，因为地球上其余所有产出大约只相当于我们所需的2%。所以，如果把地球上所有晶圆厂加在一起，它们也只相当于太瓦项目或太瓦晶圆厂项目所需的大约2%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 581.21,
+      "textEn": "So. So, you know, we certainly want our existing supply chain to be clear. We're very grateful to our existing supply chain to Samsung, tsmc, Micron and others, and we would like them to expand as quickly as they can, and we will buy all of their chips. I have said these exact words to them, but there's a maximum rate at which they're comfortable expanding, but that rate is much less than we would like. And so we either build the terafab or we don't have the chips, and we need the chips.",
+      "textZh": "所以。所以，你知道，我们当然希望向现有供应链说明清楚。我们非常感谢现有供应链，包括三星、台积电、美光及其他公司，而且我们希望他们尽可能快地扩产，我们会买下他们所有的芯片。我已经对他们说过一模一样的话，但他们能够放心接受的扩产速度有一个上限，而这个速度远低于我们的期望。所以，我们要么建造太瓦晶圆厂，要么就没有芯片，而我们需要芯片。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 623.07,
+      "textEn": "So we're going to build terafab.",
+      "textZh": "所以我们要建造 Terafab。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 633.59,
+      "textEn": "And we're starting off with an advanced technology FAB here in Austin, and.",
+      "textZh": "而我们将从奥斯汀这里的一座先进技术晶圆厂起步，并且。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 645.17,
+      "textEn": "I believe Governor Abbott is in the audience. I'd like to thank Governor Abbott and the state of Texas for their support.",
+      "textZh": "我相信阿博特州长就在观众席中。我要感谢阿博特州长和得克萨斯州的支持。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 656.05,
+      "textEn": "So in the advanced technology fab, we will have all of the equipment necessary to make a chip of any kind, logical memory, and we will also have all of the equipment necessary to make the lithography masks. So in a single building, we can create a lithography mask, make the chip, test the chip, make another mask, and have an incredibly fast recursive loop for improving the chip design. To the best of my knowledge, this doesn't exist anywhere in the world where you've got everything necessary to build logic, memory and do packaging and test it, and then do the masks, improve the masks, and just keep looping it.",
+      "textZh": "所以，在这座先进技术晶圆厂里，我们将拥有制造任何种类芯片所需的全部设备，包括逻辑芯片、存储芯片，而且还将拥有制造光刻掩模所需的全部设备。所以，在一栋建筑内，我们可以制作光刻掩模、制造芯片、测试芯片、制作另一块掩模，并形成一个速度快得惊人的递归循环来改进芯片设计。据我所知，世界上任何地方都不存在这样的设施：你拥有构建逻辑芯片、存储芯片、进行封装并测试所需的一切，然后制作掩模、改进掩模，并且就这样不断循环。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 697.67,
+      "textEn": "So we're not just going to do conventional compute in this. I think there's some very interesting new physics that is potentially that actually I'm confident will work. It's just a question of when. So this is going to. We're really going to push the limit of physics in compute, and we're going to try a bunch of wild and crazy things which you can do if you've got that fast iteration loop that I can't emphasize enough the importance of being able to make a chip, test it, and then make and then change the design, do another one and have that in a Single building.",
+      "textZh": "所以我们不会只在这里做传统计算。我认为存在一些非常有意思的新物理学，它们有可能，实际上我相信会奏效。问题只是什么时候。所以这将会。我们真的会把计算领域的物理极限推向极致，而且我们会尝试一大堆狂野而疯狂的东西；如果你拥有那种快速迭代循环，就可以这么做。我怎么强调这一点的重要性都不为过：能够制造芯片、测试芯片，然后制造，然后改变设计、再做一个，并且让这一切都在一栋建筑内完成。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 733.67,
+      "textEn": "I think that our recursive improvement with that situation is probably an order of magnitude better than anything else in the world.",
+      "textZh": "我认为，在那种情况下，我们的递归改进能力可能比世界上其他任何东西都高出一个数量级。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 749.11,
+      "textEn": "So, broadly speaking, we expect to make two kinds of chips. One will be optimized for edge inference. So that'll be used primarily in Optimus and in the cars, but, but especially in Optimus because I expect the robots, humanoid robots, to be made 10 to 100 times more than the volume of cars. So, you know, if vehicle production, vehicle production, earth is about 100 million vehicles a year, and I expect humanoid robot production to be somewhere between a billion and 10 billion units a year.",
+      "textZh": "所以，广义上讲，我们预计会制造两种芯片。一种将针对边缘推理进行优化。所以它将主要用于 Optimus 和汽车，但、但尤其会用于 Optimus，因为我预计机器人，也就是人形机器人，其产量将是汽车产量的 10 到 100 倍。所以，你知道，如果车辆产量，车辆产量，地球每年大约是 1 亿辆，而我预计人形机器人的年产量将在 10 亿到 100 亿台之间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 785.08,
+      "textEn": "So it's a lot. So yeah, Tesla's going to make a very significant percentage of those is our goal. And then we need a high power chip that is designed for space that takes into account the more difficult environment in space. Where you've got high power, you have high energy ions, photons, you got electron buildup. It's a hostile environment in space. So you want to design the chip, you want to optimize it for space, and you also want to generally run it a little hotter than you would normally run a chip on Earth to minimize the radiator mass.",
+      "textZh": "所以数量非常大。所以，是的，我们的目标是让 Tesla 制造其中非常显著的一部分。然后，我们需要一种为太空设计的高功率芯片，把太空中更为严酷的环境考虑在内。在那里你有高功率，有高能离子、光子，还有电子积聚。太空是一个恶劣的环境。所以你需要设计芯片，需要针对太空优化它，而且通常还需要让它以比通常在地球上运行芯片时略高的温度运行，以尽量减少散热器的质量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 825.3,
+      "textEn": "So there are just a bunch of constraints that you design something differently in space than you would on the ground. And for the space compute, my guess is that is the vast majority of the compute because you, you're power constrained on Earth. That's why I think it's probably 100 to 200 gigawatts a year of terrestrial chips and probably on the order of a terawatt of chips in space, just because of power constraints on the ground.",
+      "textZh": "所以，存在一大堆限制条件，导致你在太空中设计某个东西的方式不同于在地面上的设计方式。至于太空算力，我猜那将占算力的绝大部分，因为你，你在地球上受到电力限制。这就是为什么我认为地面芯片可能是每年100到200吉瓦，而太空中的芯片可能达到大约1太瓦，仅仅是因为地面上的电力限制。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 859.1,
+      "textEn": "That's probably how it ends up. Space has this advantage that it's always sunny, it's very nice.",
+      "textZh": "最终大概就是这样。太空有这个优势，那里总是阳光明媚，非常宜人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 866.5,
+      "textEn": "So I actually think that the cost of AI and deploying AI in space will drop below the cost of terrestrial AI much sooner than most people expect. I think it may be only two or three years before it is actually lower cost to send AI chips to space than it is on the ground. Because in space you don't need much in the way of batteries because of it's always sunny. And the solar power you get, you're going to get at least five or more times the solar power you get in space versus the ground because you don't have atmospheric attenuation or a day, night cycle or seasonality.",
+      "textZh": "所以我实际上认为，AI以及在太空部署AI的成本，将会比大多数人预期的更早降到地面AI的成本以下。我认为可能只需2年或3年，把AI芯片送入太空的成本实际上就会低于把它们部署在地面上的成本。因为在太空中你不太需要电池，因为那里总是阳光普照。而且你所获得的太阳能，你在太空中获得的太阳能至少是地面上的5倍或更多，因为那里没有大气衰减，也没有昼夜循环或季节性。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 906.55,
+      "textEn": "And you're always normal to the sun. So you're really maximizing the solar power at that point. And space solar actually costs less than terrestrial solar because you don't need heavy glass or framing to protect it from extreme weather events. So as soon as the cost to orbit drops to a low number, it immediately makes extremely compelling sense to put AI in space. It becomes a no brainer, basically. Moreover, as you go to space you get increased economies of scale and things get easier over time.",
+      "textZh": "而且你始终正对太阳。所以在那种情况下，你确实是在最大限度地获取太阳能。而太空太阳能实际上比地面太阳能成本更低，因为你不需要沉重的玻璃或框架来保护它免受极端天气事件的影响。所以，一旦进入轨道的成本降到一个很低的数值，把AI部署到太空马上就会变得极其有吸引力。这基本上成了一件不假思索就能决定的事。此外，随着你进入太空，规模经济会增强，事情也会随着时间推移变得更容易。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 941.57,
+      "textEn": "Whereas as you try to put more and more power on the ground, you run out of space and you start using up the easy spots and, and then you get next level numby. Nobody wants the thing in their backyard. So then, so actually increasing power on Earth has, becomes harder over time and more expensive over time, but in space it becomes actually cheaper and easier over time. These are very important points. So.",
+      "textZh": "而当你试图在地面上部署越来越多的电力时，你会耗尽空间，并开始用完那些容易利用的地点，然后你就会遇到更高一级的“纳姆比”。没人希望那东西出现在自家后院。所以，实际上在地球上增加电力已经，会随着时间推移变得更困难、成本也更高，但在太空中，实际上会随着时间推移变得更便宜、更容易。这些都是非常重要的要点。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 980.65,
+      "textEn": "Yeah, Sam sa.",
+      "textZh": "是的，Sam sa。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 1079.32,
+      "textEn": "So what you just saw there was because of course you're asking what's on your mind is well, what do you do after a tariff app? Don't think small. Well, yeah, good point. So we, how do you get to a petawatt is the obvious next question. And you get there by having an electromagnetic mass driver on the moon with robots, with Octomi and obviously lots of humans. And with that you can send a petawatt, you can create a petawatt of compute and send that to deep space because on the moon, moon has no atmosphere and has one sixth Earth gravity.",
+      "textZh": "所以你们刚才看到的，是因为你们脑子里当然正在问，好吧，在一个关税应用之后要做什么？别往小了想。嗯，对，说得好。所以我们，下一个显而易见的问题是，怎样达到1拍瓦。要达到这一点，就要在月球上建造一台电磁质量投射器，配备机器人、Octomi，显然还要有很多人。有了这些，你就可以发送1拍瓦，你可以创造1拍瓦的算力并把它送往深空，因为在月球上，月球没有大气，而且重力是地球的六分之一。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 1124.09,
+      "textEn": "So you can, you don't need rockets on the moon, you can literally accelerate it to escape velocity from the surface and that dramatically drops the cost once again of harnessing power and enables you to go a thousand times bigger than a terawatt. So for sure the future I want to see, I want just to live long enough to see the mass driver on the moon because that's going to be incredibly epic. Yeah, That should hopefully get us to a millionth of the sun's energy at least humbling to think about that.",
+      "textZh": "所以你可以，你在月球上不需要火箭，你真的可以从月球表面把它加速到逃逸速度，而这会再次大幅降低获取能源的成本，并使你能够达到1太瓦的1000倍。所以我肯定想看到那样的未来，我只希望自己能活得足够久，看到月球上的质量投射器，因为那将会无比壮观。是的，那应该有望让我们至少达到太阳能量的百万分之一，想到这一点令人感到渺小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 1166.129,
+      "textEn": "But a millionth of the sun's energy would be a million times bigger than Earth's economy. So it's good from that perspective. And then yeah, you expand beyond that to the planets, to the other stars and create the most exciting possible future than that. I can imagine.",
+      "textZh": "但太阳能量的百万分之一，将会相当于地球经济的100万倍。所以从这个角度看是件好事。然后，是的，你会在此基础上扩展到各个行星、其他恒星，并创造出最令人兴奋的可能未来，比那个还要令人兴奋。这是我能想象到的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 1191.22,
+      "textEn": "This looks a bit like the opening in Idiocracy with Mike Judge, unlocking an age of amazing abundance. So yeah, obviously the elements of that are sustainable energy, space travel and AI and robotics that bring amazing abundance to everyone. And it's really the, it's really the only path to amazing abundance is AI and AI and robotics. Which is not to say it can't go wrong hopefully, you know, but I think it'll probably go Right?",
+      "textZh": "这看起来有点像迈克·贾奇的《蠢蛋进化论》的开场，开启一个惊人富足的时代。所以，是的，其中的要素显然包括可持续能源、太空旅行，以及为所有人带来惊人富足的AI和机器人技术。而且这确实是，通往惊人富足的唯一道路确实是AI、AI和机器人技术。这并不是说它不可能出问题，希望如此，你知道，但我认为它大概会走上正轨？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 1222.94,
+      "textEn": "And it'll be a future that you, that you love. And it's the best future I can think of, at least. And then we go beyond the moon, beyond Mars, and we sail through the rings of Saturn. Now, wouldn't it be amazing if you could buy a trip to Saturn? Or frankly, if you just have a trip to Saturn, I think things will just be free in the future. It sounds nuts, but, you know, if you've got an AI robotics economy that is anywhere close to a million times the size of the current Earth economy, literally any need you possibly want can be met.",
+      "textZh": "而那将是一个你，你会喜爱的未来。至少，这是我能想到的最美好的未来。然后我们会超越月球、超越火星，航行穿过土星环。现在，如果你可以买一次前往土星的旅行，那不是很棒吗？或者坦率地说，如果你只是拥有一次前往土星的旅行，我认为未来一切都会免费。这听起来很疯狂，但你知道，如果你拥有一个规模接近当前地球经济100万倍的AI机器人经济，那么你可能想要的任何需求真的都能得到满足。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 1256.67,
+      "textEn": "If you can think of it, you can have it. So I think Ian Banks in his culture books has it pretty much right. Where there actually isn't money in the future and there's abundance for everyone. If you can think of it, you can have it. That's it. Which means anyone could have a trip to Saturn. It won't be just a few people. If you want it, you can have it. Yeah. So, Yeah, join us on this journey and help us design incredible chips and make incredible chips and build a terawatt of chips, a terawatt of solar and 10 million tons to orbit per year.",
+      "textZh": "只要你能想到，你就能拥有。所以我认为伊恩·班克斯在他的“文化”系列书籍中基本说对了。未来实际上将不再有金钱，而且每个人都能享有富足。只要你能想到，你就能拥有。就是这样。这意味着任何人都可以去土星旅行。不会只有少数人能去。如果你想要，你就能拥有。是的。所以，是的，加入我们的这段旅程，帮助我们设计不可思议的芯片、制造不可思议的芯片，并打造1太瓦的芯片、1太瓦的太阳能，以及每年将1000万吨送入轨道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 1300.66,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T01:14:57.180Z",
+    "reviewedAt": "2026-09-13T02:04:23.872Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:29.865Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "9ae97858292a285be69dbf6f8f425f6c5affe8f593da50416817f6786e849f36"
+}

@@ -1,0 +1,312 @@
+---
+import { getCollection } from "astro:content";
+import { ArrowLeft, ExternalLink, FileText, ShieldCheck } from "@lucide/astro";
+import LanguageSwitch from "../../components/LanguageSwitch.astro";
+import LazyVideo from "../../components/LazyVideo.astro";
+import Transcript from "../../components/Transcript.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  CONTENT_LABELS,
+  TRANSLATION_LABELS,
+  TYPE_LABELS,
+  formatDate,
+  formatDuration,
+  privacyEmbedUrl,
+  videoThumbnail,
+  videoYear,
+} from "../../lib/display";
+import type { VideoEntry } from "../../lib/types";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("videos");
+  return entries.map((entry) => ({ params: { slug: entry.data.slug }, props: { video: entry.data } }));
+}
+
+interface Props {
+  video: VideoEntry;
+}
+
+const { video } = Astro.props;
+const title = video.titleZh || video.titleEn;
+const description = video.summaryZh || video.summaryEn || `${title}的中文实录与英文原文。`;
+const thumbnail = videoThumbnail(video);
+const embedUrl = privacyEmbedUrl(video.embedUrl);
+const statusLabel = TRANSLATION_LABELS[video.translation.status];
+const jsonLd = embedUrl
+  ? {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      name: title,
+      alternateName: video.titleEn,
+      description,
+      uploadDate: video.date,
+      thumbnailUrl: thumbnail,
+      embedUrl,
+      contentUrl: video.sourceUrl,
+      inLanguage: ["zh-CN", "en"],
+      isBasedOn: video.archiveUrl,
+    }
+  : {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: title,
+      alternativeHeadline: video.titleEn,
+      description,
+      datePublished: video.date,
+      inLanguage: ["zh-CN", "en"],
+      isBasedOn: [video.sourceUrl, video.archiveUrl],
+    };
+---
+
+<BaseLayout title={title} description={description} image={thumbnail} jsonLd={jsonLd}>
+  <article
+    class="detail-page"
+    id="detail-top"
+    data-pagefind-body
+    data-pagefind-filter={`type:${TYPE_LABELS[video.type]}`}
+  >
+    <header class="detail-head">
+      <div class="shell">
+        <a class="back-link" href="/">
+          <ArrowLeft size={17} stroke-width={1.8} aria-hidden="true" />
+          返回影像目录
+        </a>
+        <p class="meta-line">
+          <time datetime={video.date} data-pagefind-meta="date[datetime]">{formatDate(video.date)}</time>
+          <span>{TYPE_LABELS[video.type]}</span>
+          {video.org && <span data-pagefind-filter="org">{video.org}</span>}
+          {video.durationSec !== undefined && <span>{formatDuration(video.durationSec)}</span>}
+        </p>
+        <div data-lang-block="zh">
+          <h1
+            data-pagefind-meta="title"
+            data-pagefind-filter={`year:${videoYear(video.date)}`}
+            lang={video.titleZh ? undefined : "en"}
+          >{title}</h1>
+        </div>
+        <div data-lang-block="en" data-pagefind-ignore hidden lang="en">
+          <h1>{video.titleEn}</h1>
+        </div>
+      </div>
+    </header>
+
+    <div class="detail-layout shell">
+      <aside class="media-column" aria-label="视频与来源">
+        <LazyVideo embedUrl={video.embedUrl} thumbnailUrl={thumbnail} sourceUrl={video.sourceUrl} title={title} />
+        <div class="source-actions">
+          <a href={video.sourceUrl} target="_blank" rel="noreferrer">
+            <ExternalLink size={16} stroke-width={1.8} aria-hidden="true" />
+            原始来源
+          </a>
+          <a href={video.archiveUrl} target="_blank" rel="noreferrer">
+            <FileText size={16} stroke-width={1.8} aria-hidden="true" />
+            英文档案页
+          </a>
+        </div>
+        <dl class="record-note">
+          <div><dt>资料编号</dt><dd>{video.id}</dd></div>
+          <div><dt>正文类型</dt><dd>{CONTENT_LABELS[video.contentKind]}</dd></div>
+          <div><dt>翻译状态</dt><dd><span class="status" data-status={video.translation.status}>{statusLabel}</span></dd></div>
+        </dl>
+      </aside>
+
+      <div class="reading-column">
+        <div class="reading-tools">
+          <LanguageSwitch />
+          <p><ShieldCheck size={16} stroke-width={1.8} aria-hidden="true" /> 机器翻译，已尽力保留原意与数字</p>
+        </div>
+
+        {(video.summaryZh || video.summaryEn) && (
+          <section class="abstract" aria-labelledby="abstract-title">
+            <h2 id="abstract-title">内容摘要</h2>
+            <p data-lang-block="zh" lang={video.summaryZh ? undefined : "en"}>{video.summaryZh || video.summaryEn}</p>
+            <p data-lang-block="en" data-pagefind-ignore hidden lang="en">{video.summaryEn}</p>
+          </section>
+        )}
+
+        <Transcript {video} canSeek={Boolean(embedUrl)} />
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .detail-page {
+    --media-width: minmax(380px, 0.92fr);
+  }
+
+  .detail-head {
+    border-bottom: 1px solid var(--line-dark);
+    background: var(--surface);
+  }
+
+  .detail-head .shell {
+    padding-block: 33px 44px;
+  }
+
+  .back-link {
+    display: inline-flex;
+    gap: 7px;
+    align-items: center;
+    margin-bottom: 42px;
+    color: var(--muted);
+    font-size: 0.82rem;
+    text-decoration: none;
+  }
+
+  .back-link:hover {
+    color: var(--launch);
+  }
+
+  .detail-head h1 {
+    max-width: 1000px;
+    margin: 18px 0 0;
+    font-family: var(--serif);
+    font-size: 4.35rem;
+    font-weight: 680;
+    line-height: 1.18;
+    overflow-wrap: anywhere;
+  }
+
+  .detail-layout {
+    display: grid;
+    grid-template-columns: var(--media-width) minmax(0, 1.38fr);
+    gap: clamp(38px, 6vw, 84px);
+    align-items: start;
+    padding-top: 48px;
+  }
+
+  .media-column {
+    position: sticky;
+    top: 24px;
+  }
+
+  .source-actions {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    border: 1px solid var(--line-dark);
+    border-top: 0;
+    background: var(--surface);
+  }
+
+  .source-actions a {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+    justify-content: center;
+    min-height: 46px;
+    border-inline-end: 1px solid var(--line);
+    font-size: 0.8rem;
+    text-decoration: none;
+  }
+
+  .source-actions a:last-child {
+    border-inline-end: 0;
+  }
+
+  .source-actions a:hover {
+    color: var(--launch);
+  }
+
+  .record-note {
+    margin: 24px 0 0;
+    border-top: 1px solid var(--line-dark);
+    font-size: 0.76rem;
+  }
+
+  .record-note div {
+    display: grid;
+    grid-template-columns: 86px minmax(0, 1fr);
+    gap: 12px;
+    padding-block: 10px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .record-note dt {
+    color: var(--muted);
+  }
+
+  .record-note dd {
+    min-width: 0;
+    margin: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .reading-tools {
+    display: flex;
+    justify-content: space-between;
+    gap: 18px;
+    align-items: center;
+    min-height: 52px;
+    padding-bottom: 13px;
+    border-bottom: 1px solid var(--line-dark);
+  }
+
+  .reading-tools p {
+    display: inline-flex;
+    gap: 7px;
+    align-items: center;
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.74rem;
+  }
+
+  .abstract {
+    padding: 34px 0 38px;
+    border-bottom: 1px solid var(--line-dark);
+  }
+
+  .abstract h2 {
+    margin: 0 0 13px;
+    font-size: 0.82rem;
+    font-weight: 650;
+  }
+
+  .abstract p {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 1.1rem;
+    line-height: 1.9;
+  }
+
+  @media (max-width: 980px) {
+    .detail-layout {
+      grid-template-columns: 1fr;
+    }
+
+    .media-column {
+      position: static;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .detail-head h1 {
+      font-size: 2.85rem;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .detail-head .shell {
+      padding-block: 25px 32px;
+    }
+
+    .back-link {
+      margin-bottom: 30px;
+    }
+
+    .detail-head h1 {
+      font-size: 2.15rem;
+    }
+
+    .detail-layout {
+      gap: 34px;
+      padding-top: 28px;
+    }
+
+    .reading-tools {
+      align-items: flex-start;
+      flex-direction: column;
+      padding-bottom: 17px;
+    }
+  }
+</style>

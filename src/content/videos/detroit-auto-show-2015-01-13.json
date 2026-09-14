@@ -1,0 +1,39 @@
+{
+  "id": "detroit-auto-show-2015-01-13",
+  "slug": "detroit-auto-show-2015-01-13",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2015-01-13",
+  "titleEn": "Detroit Auto Show",
+  "titleZh": "底特律车展",
+  "summaryEn": "Musk speaks to press at the 2015 Detroit Auto Show, urging other automakers to accelerate electric-vehicle programs as gas prices fall.",
+  "summaryZh": "马斯克在2015年底特律车展上对媒体发表讲话，敦促其他汽车制造商在油价下跌之际加快电动汽车项目。",
+  "sourceUrl": "https://www.youtube.com/watch?v=c-rWEC90Cjk",
+  "sourceLabel": "Associated Press",
+  "archiveUrl": "https://elonmuskarchive.org/video/detroit-auto-show-2015-01-13",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/c-rWEC90Cjk",
+  "thumbnailUrl": "https://i.ytimg.com/vi/c-rWEC90Cjk/hqdefault.jpg",
+  "durationSec": 99,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "the need for sustainable transport is incredibly High um I mean even in the face of uh massively declining oil prices I think it actually becomes more urgent that uh that the auto manufacturers uh transition to electric and put a put a huge amount of effort behind their electric vehicle programs uh as uh as you know we've uh at Tesla we've open sourced our patents so we're trying to be as helpful as possible uh for the Advent of electric vehicles um we've also said that our supercharge Network we're happy to have other car makers uh use that supercharge Network um and um we're really doing doing everything we can to accelerate the Advent of sustainable cars well we're working very hard to to grow grow the rates as I said our our weekly production rate",
+      "textZh": "对可持续交通的需求高得令人难以置信。嗯，我的意思是，即使面对，呃，大幅下跌的油价，我认为这实际上也变得更加紧迫，即，呃，汽车制造商，呃，向电动化转型，并在其电动汽车项目上投入、投入巨大努力。呃，正如、正如你们所知，我们，呃，在Tesla已经开放了我们的专利，所以我们正努力为电动汽车的到来提供尽可能多的帮助。嗯，我们也说过，对于我们的超级充电网络，我们乐意让其他汽车制造商，呃，使用那个超级充电网络。嗯，而且，嗯，我们确实正在做、正在做我们能做的一切，以加快可持续汽车的到来。好吧，我们正非常努力地去、去提高、提高速率。正如我所说，我们的、我们的每周生产率"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "uh year-over-year is has increased 100% And for for for a manufacturer of a large complex object that that is a huge percentage growth um and we're going to try to increase It Again by 100% year-over-year in terms of the the weekly production rate beginning start of the year to the end of the year you have like a 10 to 20 year Horizon here where you want to I mean you want to go to Mars I want to enable I want to enable uh large numbers of people in cargo to go to Mars so it's not sort of about me personally want to make a journey back to Mars I mean that would be nice on a personal level but I do think it is important um that we as a species of civilization are on a path to become a true space a true space fairing civilization and a multiplet species",
+      "textZh": "呃，同比增长了100%。而对于、对于、对于一个大型复杂物体的制造商来说，那、那是一个巨大的百分比增幅。嗯，我们会努力让它再次同比增长100%，就每周生产率而言，是从年初到年末。你这里有大约10到20年的时间跨度，你想要，我的意思是，你想去火星。我想让，我想让，呃，大量身处货物中的人能够前往火星，所以这并不算是关于我个人想返回火星旅行。我的意思是，从个人角度来说那会很不错，但我确实认为，嗯，重要的是，我们作为一个文明物种，正走在成为一个真正的太空、一个真正的太空整流罩文明和一个多重态物种的道路上。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T16:44:20.743Z",
+    "reviewedAt": "2026-09-12T17:32:02.130Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:45.665Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=c-rWEC90Cjk",
+  "sourceHash": "5cc69fbfa7e4e3c7de1e70a8dbc201fa6a5a33aef9048248cc7294d6dc2969fb"
+}

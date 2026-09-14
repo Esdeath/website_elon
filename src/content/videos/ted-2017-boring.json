@@ -1,0 +1,1284 @@
+{
+  "id": "ted-2017-boring",
+  "slug": "ted-2017-boring",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2017-04-28",
+  "titleEn": "TED",
+  "titleZh": "TED",
+  "summaryEn": "On the TED stage, Elon Musk presents The Boring Company, tunnels, solar energy, self-driving cars and the Mars vision.",
+  "summaryZh": "在 TED 舞台上，埃隆·马斯克介绍了 The Boring Company、隧道、太阳能、自动驾驶汽车以及火星愿景。",
+  "sourceUrl": "https://www.youtube.com/watch?v=zIwLWfaAg-8",
+  "sourceLabel": "TED",
+  "archiveUrl": "https://elonmuskarchive.org/video/ted-2017-boring",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/zIwLWfaAg-8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/zIwLWfaAg-8/hqdefault.jpg",
+  "durationSec": 2451,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Chris Anderson:\nElon, hey, welcome back to TED. It's great to have you here.",
+      "textZh": "克里斯·安德森：\n埃隆，嗨，欢迎回到 TED。很高兴你能来。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "Elon Musk: Thanks for having me.",
+      "textZh": "埃隆·马斯克：谢谢邀请我。"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "CA",
+      "textEn": "So, in the next half hour or so, we're going to spend some time exploring your vision for what\nan exciting future might look like, which I guess makes\nthe first question a little ironic: Why are you boring?",
+      "textZh": "那么，在接下来的半小时左右，我们会花些时间探索你对一个激动人心的未来可能是什么样子的愿景，我想这让第1个问题显得有点讽刺：你为什么要挖洞？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "EM",
+      "textEn": "Yeah. I ask myself that frequently. We're trying to dig a hole under LA, and this is to create the beginning of what will hopefully\nbe a 3D network of tunnels to alleviate congestion. So right now, one of the most\nsoul-destroying things is traffic. It affects people\nin every part of the world. It takes away so much of your life. It's horrible. It's particularly horrible in LA.",
+      "textZh": "是啊。我经常问自己这个问题。我们正试图在洛杉矶地下挖一个洞，这是为了开创一个有望缓解拥堵的3D隧道网络。所以当下，最摧残灵魂的事情之一就是交通。它影响着世界各地的人们。它夺走了你人生中的大量时间。太可怕了。在洛杉矶尤其可怕。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "CA",
+      "textEn": "I think you've brought with you the first visualization\nthat's been shown of this. Can I show this?",
+      "textZh": "我想你带来了首个对外展示的相关可视化演示。我可以播放吗？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "EM",
+      "textEn": "Yeah, absolutely.\nSo this is the first time -- Just to show what we're talking about. So a couple of key things\nthat are important in having a 3D tunnel network. First of all, you have to be able to integrate the entrance\nand exit of the tunnel seamlessly into the fabric of the city. So by having an elevator, sort of a car skate,\nthat's on an elevator, you can integrate the entrance\nand exits to the tunnel network just by using two parking spaces. And then the car gets on a skate. There's no speed limit here, so we're designing this to be able\nto operate at 200 kilometers an hour.",
+      "textZh": "当然可以。\n所以这是第1次——只是为了展示我们正在谈论的东西。要拥有一个3D隧道网络，有几个关键点非常重要。首先，你必须能够将隧道的入口和出口无缝融入城市结构之中。因此，利用一部升降机，也就是一个位于升降机上的汽车滑板，你只需要占用2个停车位，就能把隧道网络的入口和出口融入城市。然后汽车驶上滑板。这里没有速度限制，所以我们正将其设计为能够以每小时200公里的速度运行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "CA",
+      "textEn": "How much?",
+      "textZh": "多少？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "EM",
+      "textEn": "200 kilometers an hour,\nor about 130 miles per hour. So you should be able\nto get from, say, Westwood to LAX in six minutes -- five, six minutes.",
+      "textZh": "每小时200公里，或者大约每小时130英里。所以你应该能够在6分钟内从，比如说，韦斯特伍德抵达洛杉矶国际机场——5、6分钟。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "(Applause)",
+      "textZh": "（掌声）"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "CA",
+      "textEn": "So possibly, initially done, it's like on a sort\nof toll road-type basis.",
+      "textZh": "所以最初建成时，可能会类似于某种收费公路模式。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "EM",
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "CA",
+      "textEn": "Which, I guess,\nalleviates some traffic from the surface streets as well.",
+      "textZh": "我想，这也缓解了地面街道上的一部分交通压力。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "EM",
+      "textEn": "So, I don't know\nif people noticed it in the video, but there's no real limit\nto how many levels of tunnel you can have. You can go much further deep\nthan you can go up. The deepest mines are much deeper\nthan the tallest buildings are tall, so you can alleviate any arbitrary\nlevel of urban congestion with a 3D tunnel network. This is a very important point. So a key rebuttal to the tunnels\nis that if you add one layer of tunnels, that will simply alleviate congestion,\nit will get used up, and then you'll be back where you started,\nback with congestion. But you can go to any\narbitrary number of tunnels, any number of levels.",
+      "textZh": "所以，我不知道大家在视频中有没有注意到，但隧道能有多少层实际上并没有限制。向下可以达到的深度远远超过向上可以达到的高度。最深的矿井比最高建筑的高度深得多，因此，你可以用一个3D隧道网络缓解任意程度的城市拥堵。这一点非常重要。所以，反对隧道的一个关键论点是，如果增加1层隧道，它只会暂时缓解拥堵，随后会被用满，然后你又会回到起点，再次陷入拥堵。但你可以建造任意数量的隧道、任意数量的层级。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "CA",
+      "textEn": "But people -- seen traditionally,\nit's incredibly expensive to dig, and that would block this idea.",
+      "textZh": "但人们——传统上来看，挖掘的成本高得难以置信，这会让这个想法无法实现。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "EM",
+      "textEn": "Yeah. Well, they're right. To give you an example,\nthe LA subway extension, which is -- I think it's\na two-and-a-half mile extension that was just completed\nfor two billion dollars. So it's roughly a billion dollars a mile\nto do the subway extension in LA. And this is not the highest\nutility subway in the world. So yeah, it's quite difficult\nto dig tunnels normally. I think we need to have\nat least a tenfold improvement in the cost per mile of tunneling.",
+      "textZh": "是的。嗯，他们说得没错。举个例子，洛杉矶地铁延长线，也就是——我想是一条2.5英里长的延长线，刚刚以20亿美元的成本完工。所以，在洛杉矶修建地铁延长线，每英里的成本大约是10亿美元。而这还不是世界上效用最高的地铁。所以没错，通常来说，挖隧道相当困难。我认为，我们至少需要让每英里的隧道开挖成本改善10倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "CA",
+      "textEn": "And how could you achieve that?",
+      "textZh": "那你怎么才能做到这一点？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "EM",
+      "textEn": "Actually, if you just do two things, you can get to approximately\nan order of magnitude improvement, and I think you can go beyond that. So the first thing to do\nis to cut the tunnel diameter by a factor of two or more. So a single road lane tunnel\naccording to regulations has to be 26 feet,\nmaybe 28 feet in diameter to allow for crashes\nand emergency vehicles and sufficient ventilation\nfor combustion engine cars. But if you shrink that diameter\nto what we're attempting, which is 12 feet, which is plenty\nto get an electric skate through, you drop the diameter by a factor of two and the cross-sectional area\nby a factor of four, and the tunneling cost scales\nwith the cross-sectional area. So that's roughly a half-order\nof magnitude improvement right there. Then tunneling machines currently tunnel\nfor half the time, then they stop, and then the rest of the time\nis putting in reinforcements for the tunnel wall. So if you design the machine instead to do continuous\ntunneling and reinforcing, that will give you\na factor of two improvement. Combine that and that's a factor of eight. Also these machines are far from being\nat their power or thermal limits, so you can jack up the power\nto the machine substantially. I think you can get\nat least a factor of two, maybe a factor of four or five\nimprovement on top of that. So I think there's a fairly\nstraightforward series of steps to get somewhere in excess\nof an order of magnitude improvement in the cost per mile, and our target actually is -- we've got a pet snail called Gary, this is from Gary the snail\nfrom \"South Park,\" I mean, sorry, \"SpongeBob SquarePants.\"",
+      "textZh": "实际上，只要做2件事，就能实现大约1个数量级的改善，而且我认为还可以做得更好。所以，首先要做的是将隧道直径缩小到原来的1/2或更小。按照规定，单车道公路隧道的直径必须达到26英尺，也许是28英尺，以便应对车祸、容纳应急车辆，并为内燃机汽车提供充分的通风。但如果把直径缩小到我们正在尝试的12英尺，这对于让电动滑板平台通过来说绰绰有余，那么直径就缩小到原来的1/2，横截面积缩小到原来的1/4，而隧道开挖成本是随横截面积变化的。所以，仅这一点就大约实现了半个数量级的改善。然后，目前隧道掘进机有一半时间在掘进，接着停下来，其余时间则用于安装隧道壁的加固结构。因此，如果把机器设计成能够连续掘进并同时加固，就能带来2倍的改善。两者结合起来就是8倍。此外，这些机器距离其功率或热极限还远得很，因此你可以大幅提高机器的功率。我认为，在此基础上至少还能获得2倍，也许4倍或5倍的改善。所以我认为，通过一系列相当直接的步骤，每英里成本的改善幅度可以达到超过1个数量级，而我们的目标其实是——我们养了一只叫加里的宠物蜗牛，这个名字来自《南方公园》里的蜗牛加里，我是说，抱歉，是《海绵宝宝》。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "So Gary is capable of -- currently he's capable\nof going 14 times faster than a tunnel-boring machine.",
+      "textZh": "所以，加里能够——目前它的速度能达到隧道掘进机的14倍。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "CA",
+      "textEn": "You want to beat Gary.",
+      "textZh": "你想打败加里。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "EM",
+      "textEn": "We want to beat Gary.",
+      "textZh": "我们想打败加里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "He's not a patient little fellow, and that will be victory. Victory is beating the snail.",
+      "textZh": "它可不是个有耐心的小家伙，而那将是胜利。胜利就是打败蜗牛。"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "CA",
+      "textEn": "But a lot of people imagining,\ndreaming about future cities, they imagine that actually\nthe solution is flying cars, drones, etc. You go aboveground. Why isn't that a better solution? You save all that tunneling cost.",
+      "textZh": "但许多人在想象、梦想未来城市时，他们认为真正的解决方案是飞行汽车、无人机等等。你可以到地面上方去。为什么那不是更好的解决方案？这样就省下了所有隧道开挖成本。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "EM",
+      "textEn": "Right. I'm in favor of flying things. Obviously, I do rockets,\nso I like things that fly. This is not some inherent bias\nagainst flying things, but there is a challenge with flying cars in that they'll be quite noisy, the wind force generated\nwill be very high. Let's just say that if something's\nflying over your head, a whole bunch of flying cars\ngoing all over the place, that is not an anxiety-reducing situation.",
+      "textZh": "对。我支持会飞的东西。显然，我造火箭，所以我喜欢会飞的东西。这并不是对会飞的东西存在某种固有偏见，但飞行汽车面临一个挑战，那就是它们会相当吵，产生的风力也会非常大。这么说吧，如果有什么东西正在你头顶飞过，一大群飞行汽车到处飞来飞去，那可不是一种能减轻焦虑的情境。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "You don't think to yourself,\n\"Well, I feel better about today.\" You're thinking,\n\"Did they service their hubcap, or is it going to come off\nand guillotine me?\" Things like that.",
+      "textZh": "你不会对自己说：“嗯，我觉得今天好过多了。”你会想：“他们检修过轮毂盖吗？还是它会掉下来，像断头台一样把我斩了？”诸如此类的事。"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "CA",
+      "textEn": "So you've got this vision of future cities with these rich,\n3D networks of tunnels underneath. Is there a tie-in here with Hyperloop? Could you apply these tunnels\nto use for this Hyperloop idea you released a few years ago.",
+      "textZh": "所以，你设想的未来城市地下拥有这种丰富的3D隧道网络。这和超级高铁有什么联系吗？你能把这些隧道用于几年前公布的超级高铁构想吗？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "EM",
+      "textEn": "Yeah, so we've been\nsort of puttering around with the Hyperloop stuff for a while. We built a Hyperloop test track\nadjacent to SpaceX, just for a student competition, to encourage innovative\nideas in transport. And it actually ends up being\nthe biggest vacuum chamber in the world after the Large Hadron Collider, by volume. So it was quite fun to do that,\nbut it was kind of a hobby thing, and then we think we might -- so we've built a little pusher car\nto push the student pods, but we're going to try seeing\nhow fast we can make the pusher go if it's not pushing something. So we're cautiously optimistic we'll be able to be faster\nthan the world's fastest bullet train even in a .8-mile stretch.",
+      "textZh": "是的，所以我们一直在断断续续地摆弄超级高铁的东西，已经有一段时间了。我们在SpaceX旁边建了一条超级高铁测试轨道，只是用于一项学生竞赛，以鼓励交通领域的创新想法。实际上，按容积计算，它最终成了继大型强子对撞机之后全球最大的真空室。所以做这件事相当有趣，但它有点像个业余项目，然后我们想，我们也许会——所以我们造了一辆小型助推车来推动学生制作的舱体，但我们准备试试看，在不推动任何东西的情况下，能让这辆助推车跑多快。所以我们谨慎地乐观认为，即使只有0.8英里的路段，我们也能比世界上最快的高速列车更快。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "CA",
+      "textEn": "Whoa. Good brakes.",
+      "textZh": "哇。刹车得够好。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "EM",
+      "textEn": "Yeah, I mean, it's -- yeah. It's either going to smash\ninto tiny pieces or go quite fast.",
+      "textZh": "是啊，我是说，它——对。它要么撞得粉碎，要么跑得相当快。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "CA",
+      "textEn": "But you can picture,\nthen, a Hyperloop in a tunnel running quite long distances.",
+      "textZh": "但这样一来，你就可以设想超级高铁在隧道中运行相当长的距离。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "EM",
+      "textEn": "Exactly. And looking at tunneling technology, it turns out that\nin order to make a tunnel, you have to -- In order to seal against the water table, you've got to typically design\na tunnel wall to be good to about five or six atmospheres. So to go to vacuum is only one atmosphere, or near-vacuum. So actually, it sort of turns out\nthat automatically, if you build a tunnel that is good enough\nto resist the water table, it is automatically\ncapable of holding vacuum.",
+      "textZh": "没错。再看隧道技术，事实证明，要建造一条隧道，你必须——为了封住地下水层，通常必须把隧道壁设计成能够承受大约5或6个大气压。因此，要达到真空状态只相差1个大气压，或者说近真空状态。所以实际上，结果算是表明，如果你修建的隧道足以抵御地下水层，它自然就具备保持真空的能力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "CA",
+      "textEn": "Huh.",
+      "textZh": "哦。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "EM",
+      "textEn": "So, yeah.",
+      "textZh": "所以，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "CA",
+      "textEn": "And so you could actually picture, what kind of length tunnel\nis in Elon's future to running Hyperloop?",
+      "textZh": "那么你实际可以设想一下，埃隆未来会修建多长的隧道来运行超级高铁？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "EM",
+      "textEn": "I think there's no real length limit. You could dig as much as you want. I think if you were to do something like a DC-to-New York Hyperloop, I think you'd probably want\nto go underground the entire way because it's a high-density area. You're going under\na lot of buildings and houses, and if you go deep enough, you cannot detect the tunnel. Sometimes people think,\nwell, it's going to be pretty annoying to have a tunnel dug under my house. Like, if that tunnel is dug more than about three or four\ntunnel diameters beneath your house, you will not be able\nto detect it being dug at all. In fact, if you're able\nto detect the tunnel being dug, whatever device you are using, you can get a lot of money\nfor that device from the Israeli military, who is trying to detect\ntunnels from Hamas, and from the US Customs and Border patrol\nthat try and detect drug tunnels. So the reality is that earth is incredibly good\nat absorbing vibrations, and once the tunnel depth\nis below a certain level, it is undetectable. Maybe if you have a very sensitive\nseismic instrument, you might be able to detect it.",
+      "textZh": "我认为长度实际上没有限制。你想挖多长就可以挖多长。我认为，如果要建造类似从华盛顿特区到纽约的超级高铁，你很可能会希望全程都在地下，因为那是一个高密度地区。你要从许多建筑和房屋下方穿过，而且只要挖得足够深，你就无法探测到隧道。有时人们会想，嗯，在我家下面挖隧道会很烦人。比如，如果那条隧道位于你家下方超过约3或4个隧道直径的深度，你将完全无法察觉它正在被挖掘。事实上，如果你能够探测到隧道正在被挖掘，那么无论你使用的是什么设备，都可以靠那台设备从以色列军方那里赚到很多钱，他们正试图探测哈马斯的隧道；也可以从试图探测运毒隧道的美国海关与边境巡逻队那里赚到很多钱。所以现实是，土壤极其善于吸收振动，一旦隧道位于某一深度以下，它就无法被探测到。也许，如果你有一台非常灵敏的地震仪器，或许能探测到它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "CA",
+      "textEn": "So you've started\na new company to do this called The Boring Company. Very nice. Very funny.",
+      "textZh": "所以你创办了一家名为The Boring Company的新公司来做这件事。非常不错。非常有趣。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "EM",
+      "textEn": "What's funny about that?",
+      "textZh": "这有什么好笑的？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "CA",
+      "textEn": "How much of your time is this?",
+      "textZh": "这占用你多少时间？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "EM",
+      "textEn": "It's maybe ... two or three percent.",
+      "textZh": "大概是……2%或3%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "CA",
+      "textEn": "You've called it a hobby. This is what an Elon Musk\nhobby looks like.",
+      "textZh": "你称它为一种爱好。这就是埃隆·马斯克的\n爱好呈现出来的样子。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "EM",
+      "textEn": "I mean, it really is, like -- This is basically interns\nand people doing it part time. We bought some second-hand machinery. It's kind of puttering along,\nbut it's making good progress, so --",
+      "textZh": "我的意思是，它确实就是，比如说——这基本上是实习生\n和兼职参与的人在做。我们买了一些二手机械。它算是在慢慢推进，\n但进展不错，所以——",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "CA",
+      "textEn": "So an even bigger part of your time is being spent on electrifying\ncars and transport through Tesla. Is one of the motivations\nfor the tunneling project the realization that actually, in a world where cars are electric\nand where they're self-driving, there may end up being\nmore cars on the roads on any given hour than there are now?",
+      "textZh": "所以，你更多的时间都花在了通过 Tesla 推动汽车\n和交通运输电动化上。隧道项目的动机之一\n是否是意识到，实际上，在一个汽车实现电动化\n并且能够自动驾驶的世界里，任何一个小时内道路上的汽车\n最终可能都会比现在更多？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "EM",
+      "textEn": "Yeah, exactly. A lot of people think\nthat when you make cars autonomous, they'll be able to go faster\nand that will alleviate congestion. And to some degree that will be true, but once you have shared autonomy\nwhere it's much cheaper to go by car and you can go point to point, the affordability of going in a car\nwill be better than that of a bus. Like, it will cost less than a bus ticket. So the amount of driving that will occur\nwill be much greater with shared autonomy, and actually traffic will get far worse.",
+      "textZh": "对，正是如此。很多人认为，\n当汽车实现自动驾驶后，它们就能开得更快，\n而这会缓解拥堵。在某种程度上，这会是真的，但一旦有了共享自动驾驶，\n坐车出行会便宜得多，而且你可以点到点出行，那么乘车出行的价格\n会比坐公交车更划算。比如说，它会比一张公交车票还便宜。所以随着共享自动驾驶的出现，驾车出行量\n将会大得多，而交通状况实际上会糟糕得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "CA",
+      "textEn": "You started Tesla\nwith the goal of persuading the world that electrification\nwas the future of cars, and a few years ago,\npeople were laughing at you. Now, not so much.",
+      "textZh": "你创办 Tesla 时的目标\n是说服全世界相信，电动化\n才是汽车的未来，而就在几年前，\n人们还在嘲笑你。现在，就没那么多人笑了。",
+      "speakerZh": "CA"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "EM",
+      "textEn": "OK.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "I don't know. I don't know.",
+      "textZh": "我不知道。我不知道。"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "CA",
+      "textEn": "But isn't it true that pretty much\nevery auto manufacturer has announced\nserious electrification plans for the short- to medium-term future?",
+      "textZh": "但几乎\n每家汽车制造商都已经宣布了\n针对近期至中期未来的重大电动化计划，难道不是吗？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "EM",
+      "textEn": "Yeah. Yeah. I think almost every automaker\nhas some electric vehicle program. They vary in seriousness. Some are very serious\nabout transitioning entirely to electric, and some are just dabbling in it. And some, amazingly,\nare still pursuing fuel cells, but I think that won't last much longer.",
+      "textZh": "是的。是的。我认为几乎每家汽车制造商\n都有某种电动汽车项目。它们的认真程度各不相同。有些非常认真地\n要全面转向电动汽车，\n有些只是在浅尝辄止。还有一些，令人惊讶的是，\n仍在发展燃料电池，\n但我认为那不会持续太久。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "CA",
+      "textEn": "But isn't there a sense, though, Elon, where you can now just declare victory\nand say, you know, \"We did it.\" Let the world electrify,\nand you go on and focus on other stuff?",
+      "textZh": "不过，埃隆，难道不会有这样一种感觉吗：你现在完全可以宣布胜利，\n然后说，你知道，“我们做到了。”让全世界实现电动化，\n而你继续去专注于其他事情？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "EM",
+      "textEn": "Yeah. I intend to stay with Tesla\nas far into the future as I can imagine, and there are a lot of exciting\nthings that we have coming. Obviously the Model 3 is coming soon. We'll be unveiling the Tesla Semi truck.",
+      "textZh": "是的。在我所能想象的未来里，\n我打算尽可能一直留在Tesla，\n而且我们还有很多令人兴奋的\n项目即将到来。显然，Model 3很快就要来了。我们还将发布Tesla Semi卡车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "CA",
+      "textEn": "OK, we're going to come to this. So Model 3, it's supposed\nto be coming in July-ish.",
+      "textZh": "好，我们会谈到这个。那么Model 3，预计\n大概会在7月推出。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "EM",
+      "textEn": "Yeah, it's looking quite good\nfor starting production in July.",
+      "textZh": "是的，目前看来很有希望\n在7月开始生产。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "CA",
+      "textEn": "Wow. One of the things\nthat people are so excited about is the fact that it's got autopilot. And you put out this video a while back showing what that technology\nwould look like.",
+      "textZh": "哇。人们如此兴奋的原因之一，\n就是它配备了自动驾驶功能。而且你不久前发布了这段视频，展示了这项技术\n会是什么样子。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "EM",
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "CA",
+      "textEn": "There's obviously autopilot\nin Model S right now. What are we seeing here?",
+      "textZh": "显然，Model S现在已经配备了自动驾驶功能。我们在这里看到的是什么？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "EM",
+      "textEn": "Yeah, so this is using\nonly cameras and GPS. So there's no LIDAR\nor radar being used here. This is just using passive optical,\nwhich is essentially what a person uses. The whole road system\nis meant to be navigated with passive optical, or cameras, and so once you solve cameras or vision, then autonomy is solved. If you don't solve vision,\nit's not solved. So that's why our focus is\nso heavily on having a vision neural net that's very effective for road conditions.",
+      "textZh": "是的，所以这里使用的\n只有摄像头和GPS。因此这里没有使用激光雷达\n或雷达。这里只使用被动光学技术，\n本质上也就是人所使用的方式。整个道路系统\n原本就是为了让人通过被动光学，或者说摄像头，来通行的，\n所以一旦解决了摄像头或视觉问题，\n自动驾驶问题也就解决了。如果视觉问题没有解决，\n那它就没有解决。所以这就是为什么我们如此着重于\n打造一个在道路条件下非常有效的视觉神经网络。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "CA",
+      "textEn": "Right. Many other people\nare going the LIDAR route. You want cameras plus radar is most of it.",
+      "textZh": "对。许多其他人\n正在走激光雷达路线。你想采用的主要是摄像头加雷达。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "EM",
+      "textEn": "You can absolutely\nbe superhuman with just cameras. Like, you can probably do it\nten times better than humans would, just cameras.",
+      "textZh": "绝对可以只用摄像头\n就达到超人的水平。比如，可能只用摄像头，\n就能比人类做得好10倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "CA",
+      "textEn": "So the new cars being sold right now\nhave eight cameras in them. They can't yet do what that showed. When will they be able to?",
+      "textZh": "所以现在正在销售的新车\n里面装有8个摄像头。它们还不能做到刚才展示的那样。什么时候能做到？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "EM",
+      "textEn": "I think we're still on track\nfor being able to go cross-country from LA to New York by the end\nof the year, fully autonomous.",
+      "textZh": "我认为我们仍有望\n在年底前实现从洛杉矶横跨美国前往纽约，\n全程完全自动驾驶。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "CA",
+      "textEn": "OK, so by the end\nof the year, you're saying, someone's going to sit in a Tesla\nwithout touching the steering wheel, tap in \"New York,\" off it goes.",
+      "textZh": "好，所以你的意思是，到\n年底，会有人坐进一辆Tesla，\n不用碰方向盘，输入“纽约”，车就出发了。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "EM",
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "CA",
+      "textEn": "Won't ever have to touch the wheel --\nby the end of 2017.",
+      "textZh": "完全不需要碰方向盘——\n到2017年年底。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "EM",
+      "textEn": "Yeah. Essentially,\nNovember or December of this year, we should be able to go all the way\nfrom a parking lot in California to a parking lot in New York, no controls touched at any point\nduring the entire journey.",
+      "textZh": "是的。基本上，\n在今年11月或12月，我们应该能够从加利福尼亚州的一个停车场\n一路开到纽约的一个停车场，整个行程中任何时候\n都不需要触碰任何操控装置。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "(Applause)",
+      "textZh": "（掌声）"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "CA",
+      "textEn": "Amazing. But part of that is possible because you've already got a fleet\nof Teslas driving all these roads. You're accumulating a huge amount\nof data of that national road system.",
+      "textZh": "太惊人了。但这之所以能够实现，部分原因是你已经有一支Tesla车队\n行驶在所有这些道路上。你正在积累有关这个全国道路系统的\n海量数据。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "EM",
+      "textEn": "Yes, but the thing\nthat will be interesting is that I'm actually fairly confident\nit will be able to do that route even if you change the route dynamically. So, it's fairly easy -- If you say I'm going to be really good\nat one specific route, that's one thing, but it should be able to go,\nreally be very good, certainly once you enter a highway, to go anywhere on the highway system in a given country. So it's not sort of limited\nto LA to New York. We could change it\nand make it Seattle-Florida, that day, in real time. So you were going from LA to New York. Now go from LA to Toronto.",
+      "textZh": "是的，但有意思的是，\n其实我相当有信心，\n即使动态更改路线，它也能走完那段路程。所以，这相当容易——如果你说我要在\n某一条特定路线上表现得非常好，那是一回事，\n但它应该能够行驶，而且确实表现得非常好，当然，一旦驶入高速公路，\n它就能前往某个国家高速公路系统内的任何地方。所以它并不是仅仅局限于\n从洛杉矶到纽约。我们可以改变它，\n让它从西雅图开到佛罗里达，就在当天，实时更改。所以你原本要从洛杉矶前往纽约。现在改成从洛杉矶前往多伦多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "CA",
+      "textEn": "So leaving aside\nregulation for a second, in terms of the technology alone, the time when someone\nwill be able to buy one of your cars and literally just take the hands\noff the wheel and go to sleep and wake up and find that they've arrived, how far away is that, to do that safely?",
+      "textZh": "那么先把法规问题\n放到一边，单从技术角度来说，什么时候人们\n能够买一辆你们的车，然后真的直接把手\n从方向盘上拿开，睡上一觉，醒来后发现已经抵达目的地；要安全地做到这一点，还需要多久？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "EM",
+      "textEn": "I think that's about two years. So the real trick of it\nis not how do you make it work say 99.9 percent of the time, because, like, if a car crashes\none in a thousand times, then you're probably still not going\nto be comfortable falling asleep. You shouldn't be, certainly.",
+      "textZh": "我认为大约还要2年。所以真正的难点\n不在于怎样让它在比如99.9%的情况下正常工作，\n因为，比如说，如果一辆车每1000次中\n有1次发生碰撞，\n那你可能还是无法安心入睡。你当然不应该睡。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "It's never going to be perfect. No system is going to be perfect, but if you say it's perhaps -- the car is unlikely to crash in a hundred lifetimes,\nor a thousand lifetimes, then people are like, OK, wow,\nif I were to live a thousand lives, I would still most likely\nnever experience a crash, then that's probably OK.",
+      "textZh": "它永远不会完美。没有任何系统会是完美的，但如果你说它可能——这辆车即使经历100辈子，\n或1000辈子，也不太可能发生碰撞，\n那人们就会想，好吧，哇，\n如果我能活1000辈子，\n我很可能依然永远不会经历碰撞，\n那大概就可以了。"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "CA",
+      "textEn": "To sleep. I guess the big concern of yours\nis that people may actually get seduced too early\nto think that this is safe, and that you'll have some horrible\nincident happen that puts things back.",
+      "textZh": "可以睡觉。我想你最担心的是，\n人们实际上可能会过早受到诱惑，\n认为这是安全的，\n然后发生某起可怕的事故，导致事情倒退。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "EM",
+      "textEn": "Well, I think that the autonomy system\nis likely to at least mitigate the crash, except in rare circumstances. The thing to appreciate\nabout vehicle safety is this is probabilistic. I mean, there's some chance that any time\na human driver gets in a car, that they will have an accident\nthat is their fault. It's never zero. So really the key threshold for autonomy is how much better does autonomy\nneed to be than a person before you can rely on it?",
+      "textZh": "嗯，我认为自动驾驶系统\n至少很可能会减轻碰撞，\n极少数情况除外。关于车辆安全，需要认识到的\n一点是，这涉及概率。我的意思是，每当\n人类驾驶员坐进汽车时，\n都有一定概率发生\n由他们负有责任的事故。这个概率永远不会是零。所以对自动驾驶而言，真正的关键门槛是：自动驾驶需要比人类\n好多少，你才能依赖它？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "CA",
+      "textEn": "But once you get\nliterally safe hands-off driving, the power to disrupt\nthe whole industry seems massive, because at that point you've spoken\nof people being able to buy a car, drops you off at work,\nand then you let it go and provide a sort of Uber-like\nservice to other people, earn you money, maybe even cover the cost\nof your lease of that car, so you can kind of get a car for free. Is that really likely?",
+      "textZh": "但一旦真正实现了\n安全的脱手驾驶，\n它颠覆整个行业的力量似乎非常巨大，\n因为到那时，按照你所说，人们可以买一辆车，\n让它送你去上班，\n然后让它离开，向其他人提供一种类似Uber的\n服务，替你赚钱，\n甚至可能足以支付这辆车的租赁费用，\n所以你算是可以免费获得一辆车。这真的有可能吗？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "EM",
+      "textEn": "Yeah. Absolutely\nthis is what will happen. So there will be a shared autonomy fleet where you buy your car and you can choose\nto use that car exclusively, you could choose to have it be used\nonly by friends and family, only by other drivers\nwho are rated five star, you can choose to share it sometimes\nbut not other times. That's 100 percent what will occur. It's just a question of when.",
+      "textZh": "是的。这绝对\n会成为现实。因此将会出现一个共享自动驾驶车队，\n你买下自己的车，可以选择\n只供自己使用，\n也可以选择只让亲朋好友使用，\n或者只让评分为5星的其他驾驶者\n使用；你可以选择有时共享，\n其他时候不共享。这是100%会发生的。问题只是什么时候。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "CA",
+      "textEn": "Wow. So you mentioned the Semi and I think you're planning\nto announce this in September, but I'm curious whether there's\nanything you could show us today?",
+      "textZh": "哇。那么你提到了Semi，\n我想你计划在9月发布它，\n但我很好奇，今天有没有什么\n可以展示给我们看的？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "EM",
+      "textEn": "I will show you\na teaser shot of the truck.",
+      "textZh": "我会给你们看一张\n这辆卡车的预告图。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "It's alive.",
+      "textZh": "它是活的。"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "CA",
+      "textEn": "OK.",
+      "textZh": "好。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "EM",
+      "textEn": "That's definitely a case\nwhere we want to be cautious about the autonomy features. Yeah.",
+      "textZh": "那绝对是一种\n我们希望谨慎对待自动驾驶功能的情况。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "CA",
+      "textEn": "We can't see that much of it, but it doesn't look like\njust a little friendly neighborhood truck. It looks kind of badass. What sort of semi is this?",
+      "textZh": "我们看不到它太多细节，但它看起来并不像\n只是一辆友好的社区小卡车。它看起来有点霸气。这是哪种半挂卡车？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "EM",
+      "textEn": "So this is a heavy duty,\nlong-range semitruck. So it's the highest weight capability and with long range. So essentially it's meant to alleviate\nthe heavy-duty trucking loads. And this is something which\npeople do not today think is possible. They think the truck doesn't have enough\npower or it doesn't have enough range, and then with the Tesla Semi we want to show that no, an electric truck actually can out-torque any diesel semi. And if you had a tug-of-war competition, the Tesla Semi\nwill tug the diesel semi uphill.",
+      "textZh": "所以这是一款重型、\n长途半挂卡车。也就是说，它具备最高的载重能力和长续航。所以从本质上说，它旨在缓解\n重型卡车运输负荷。而这是如今\n人们认为不可能实现的事情。他们认为卡车没有足够的\n动力，或者没有足够的续航，而我们想通过 Tesla Semi 表明，不是这样，电动卡车实际上可以在扭矩上胜过任何柴油半挂卡车。而如果进行一场拔河比赛，Tesla Semi\n会把柴油半挂卡车拖上坡。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "(Applause)",
+      "textZh": "（掌声）"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "CA",
+      "textEn": "That's pretty cool.\nAnd short term, these aren't driverless. These are going to be trucks\nthat truck drivers want to drive.",
+      "textZh": "这太酷了。\n而且短期内，这些车并非无人驾驶。这些将会是卡车司机\n想要驾驶的卡车。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "EM",
+      "textEn": "Yes. So what will be\nreally fun about this is you have a flat torque RPM curve\nwith an electric motor, whereas with a diesel motor or any kind\nof internal combustion engine car, you've got a torque RPM curve\nthat looks like a hill. So this will be a very spry truck. You can drive this\naround like a sports car. There's no gears.\nIt's, like, single speed.",
+      "textZh": "是的。所以这件事真正有趣的地方在于，\n电动机拥有一条平坦的扭矩-转速曲线，\n而柴油发动机或任何类型的\n内燃机汽车的扭矩-转速曲线\n看起来像一座山。所以这会是一辆非常敏捷的卡车。你可以像驾驶跑车一样\n开着它四处行驶。它没有挡位。\n它就像是单速的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "CA",
+      "textEn": "There's a great movie\nto be made here somewhere. I don't know what it is\nand I don't know that it ends well, but it's a great movie.",
+      "textZh": "这里某个地方藏着一部可以拍成的精彩电影。我不知道它是什么，也不知道它是否有个好结局，但它是一部精彩的电影。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "EM",
+      "textEn": "It's quite bizarre test-driving. When I was driving the test prototype\nfor the first truck. It's really weird,\nbecause you're driving around and you're just so nimble,\nand you're in this giant truck.",
+      "textZh": "试驾起来相当怪异。当时我在驾驶第一辆卡车的\n测试原型车。那真的很奇怪，\n因为你开着它四处行驶时，它非常灵活，\n而你却身处这辆巨型卡车之中。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "CA",
+      "textEn": "Wait, you've\nalready driven a prototype?",
+      "textZh": "等等，你已经\n开过原型车了？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "EM",
+      "textEn": "Yeah, I drove it\naround the parking lot, and I was like, this is crazy.",
+      "textZh": "是的，我开着它\n在停车场里转了转，然后我当时想，这太疯狂了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "CA",
+      "textEn": "Wow. This is no vaporware.",
+      "textZh": "哇。这可不是只停留在宣传中的东西。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "EM",
+      "textEn": "It's just like,\ndriving this giant truck and making these mad maneuvers.",
+      "textZh": "这就像是，\n开着这辆巨型卡车，做出这些疯狂的机动动作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "CA",
+      "textEn": "This is cool.\nOK, from a really badass picture to a kind of less badass picture. This is just a cute house\nfrom \"Desperate Housewives\" or something. What on earth is going on here?",
+      "textZh": "这很酷。\n好，从一张非常霸气的图片转到一张没那么霸气的图片。这只是一栋来自《绝望主妇》\n之类作品里的可爱房子。这里到底是怎么回事？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "EM",
+      "textEn": "Well, this illustrates\nthe picture of the future that I think is how things will evolve. You've got an electric car\nin the driveway. If you look in between\nthe electric car and the house, there are actually three Powerwalls\nstacked up against the side of the house, and then that house roof is a solar roof. So that's an actual solar glass roof.",
+      "textZh": "嗯，这展现了\n我认为事物将会如何演变的未来图景。车道上停着一辆电动汽车。\n如果你看电动汽车和房子之间，\n实际上有3个 Powerwall 叠放在房子侧面，然后那栋房子的屋顶是太阳能屋顶。所以那是一个真正的太阳能玻璃屋顶。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "CA",
+      "textEn": "OK.",
+      "textZh": "好的。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "EM",
+      "textEn": "That's a picture of a real --\nwell, admittedly, it's a real fake house. That's a real fake house.",
+      "textZh": "那是一张真实的——\n好吧，不可否认，它是一栋真正的假房子。那是一栋真正的假房子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "CA",
+      "textEn": "So these roof tiles, some of them have in them\nbasically solar power, the ability to --",
+      "textZh": "所以这些屋顶瓦片，其中一些里面\n基本上有太阳能，能够——",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "EM",
+      "textEn": "Yeah. Solar glass tiles where you can adjust\nthe texture and the color to a very fine-grained level, and then there's\nsort of microlouvers in the glass, such that when you're looking\nat the roof from street level or close to street level, all the tiles look the same whether there is a solar cell\nbehind it or not. So you have an even color from the ground level. If you were to look at it\nfrom a helicopter, you would be actually able\nto look through and see that some of the glass tiles have\na solar cell behind them and some do not. You can't tell from street level.",
+      "textZh": "是的。太阳能玻璃瓦片，你可以把\n纹理和颜色调到非常精细的程度，而且玻璃中还有\n某种微型百叶结构，这样当你从街道高度\n或接近街道的高度看屋顶时，无论后面有没有太阳能电池，\n所有瓦片看起来都一样。所以从地面高度看，颜色是均匀的。如果你从直升机上看，\n实际上就能\n看穿并看到，有些玻璃瓦片后面有\n太阳能电池，有些则没有。从街道高度看不出来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "CA",
+      "textEn": "You put them in the ones\nthat are likely to see a lot of sun, and that makes these roofs\nsuper affordable, right? They're not that much more expensive\nthan just tiling the roof.",
+      "textZh": "你把它们装在那些\n可能会获得大量阳光的位置，这就让这些屋顶\n非常实惠，对吧？它们并不比仅仅给屋顶铺瓦\n贵多少。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "EM",
+      "textEn": "Yeah. We're very confident\nthat the cost of the roof plus the cost of electricity -- A solar glass roof will be less\nthan the cost of a normal roof plus the cost of electricity. So in other words, this will be economically a no-brainer, we think it will look great, and it will last -- We thought about having\nthe warranty be infinity, but then people thought, well, that might sound\nlike were just talking rubbish, but actually this is toughened glass. Well after the house has collapsed and there's nothing there, the glass tiles will still be there.",
+      "textZh": "是的。我们非常有信心，\n屋顶的成本加上电费——太阳能玻璃屋顶的成本将低于\n普通屋顶的成本加上电费。所以换句话说，这在经济上将是一个显而易见的选择，我们认为它会很好看，而且它会持续——我们曾考虑把\n质保期定为无限期，但后来人们觉得，嗯，那听起来可能\n像是我们只是在胡说八道，但实际上这是钢化玻璃。哪怕房子早已倒塌，那里什么都没有了，玻璃瓦片仍然会在那里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "(Applause)",
+      "textZh": "（掌声）"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "CA",
+      "textEn": "I mean, this is cool. So you're rolling this out\nin a couple week's time, I think, with four different roofing types.",
+      "textZh": "我是说，这很酷。所以我想，你们会在几周后\n推出这个产品，并提供4种不同的屋顶类型。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "EM",
+      "textEn": "Yeah, we're starting off\nwith two, two initially, and the second two\nwill be introduced early next year.",
+      "textZh": "是的，我们会先从\n2种开始，最初是2种，另外2种\n将在明年年初推出。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "CA",
+      "textEn": "And what's the scale of ambition here? How many houses do you believe\ncould end up having this type of roofing?",
+      "textZh": "那么这里的目标规模有多大？你认为最终会有多少栋房子\n采用这种屋顶？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "EM",
+      "textEn": "I think eventually almost all houses will have a solar roof. The thing is to consider\nthe time scale here to be probably on the order of 40 or 50 years. So on average, a roof\nis replaced every 20 to 25 years. But you don't start replacing\nall roofs immediately. But eventually,\nif you say were to fast-forward to say 15 years from now, it will be unusual to have a roof\nthat does not have solar.",
+      "textZh": "我认为最终几乎所有房子都会有太阳能屋顶。这里需要考虑的是，\n时间跨度可能大约是40或50年。因此平均而言，屋顶\n每20到25年更换一次。但你不会立刻开始更换\n所有屋顶。但最终，\n如果你快进到，比如说15年后，屋顶\n没有太阳能反而会很不寻常。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "CA",
+      "textEn": "Is there a mental model thing\nthat people don't get here that because of the shift in the cost,\nthe economics of solar power, most houses actually have\nenough sunlight on their roof pretty much to power all of their needs. If you could capture the power, it could pretty much\npower all their needs. You could go off-grid, kind of.",
+      "textZh": "这里是否有一种人们没有理解的思维模型，\n那就是由于成本的变化，\n以及太阳能的经济性，大多数房子的屋顶实际上都有\n足够的阳光，基本上可以满足它们的全部能源需求。如果你能捕获这些能量，它基本上就能\n满足它们的全部需求。可以说，你可以脱离电网。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "EM",
+      "textEn": "It depends on where you are and what the house size is\nrelative to the roof area, but it's a fair statement to say that most houses in the US\nhave enough roof area to power all the needs of the house.",
+      "textZh": "这取决于你在哪里，以及房屋面积\n与屋顶面积的相对大小，但可以合理地说，美国大多数房子\n都有足够的屋顶面积来满足房子的全部能源需求。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "CA",
+      "textEn": "So the key to the economics of the cars, the Semi, of these houses is the falling price\nof lithium-ion batteries, which you've made a huge bet on as Tesla. In many ways, that's almost\nthe core competency. And you've decided that to really, like, own that competency, you just have to build\nthe world's largest manufacturing plant to double the world's supply\nof lithium-ion batteries, with this guy. What is this?",
+      "textZh": "所以，汽车、Semi 和这些房子在经济性方面的关键，是锂离子电池价格的下降，而 Tesla 对此下了巨大的赌注。在许多方面，那几乎是\n核心能力。而你已经决定，要真正地，可以说，掌握这种能力，就必须建造\n世界上最大的制造厂，使全球锂离子电池供应量翻倍，\n就是这个。这个是什么？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "EM",
+      "textEn": "Yeah, so that's the Gigafactory, progress so far on the Gigafactory. Eventually, you can sort of roughly see that there's sort of\na diamond shape overall, and when it's fully done,\nit'll look like a giant diamond, or that's the idea behind it, and it's aligned on true north. It's a small detail.",
+      "textZh": "是的，那就是超级工厂，这是超级工厂迄今为止的进展。最终，你大致可以看出，它整体上有点像\n菱形，完全建成后，\n它会看起来像一颗巨大的钻石，或者说，这就是背后的构想，而且它按照正北方向对齐。这是个小细节。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "CA",
+      "textEn": "And capable of producing, eventually, like a hundred gigawatt hours\nof batteries a year.",
+      "textZh": "而且最终能够每年生产大约100吉瓦时的\n电池。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "EM",
+      "textEn": "A hundred gigawatt hours.\nWe think probably more, but yeah.",
+      "textZh": "100吉瓦时。\n我们认为可能会更多，不过，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "CA",
+      "textEn": "And they're actually\nbeing produced right now.",
+      "textZh": "而且它们现在实际上\n已经在生产了。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "EM",
+      "textEn": "They're in production already.\nCA: You guys put out this video. I mean, is that speeded up?",
+      "textZh": "它们已经投入生产了。\n克里斯·安德森：你们发布了这段视频。我是说，那是加速播放的吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "EM",
+      "textEn": "That's the slowed down version.",
+      "textZh": "那是慢放版本。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "CA",
+      "textEn": "How fast does it actually go?",
+      "textZh": "它实际上运行得有多快？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "EM",
+      "textEn": "Well, when it's running at full speed, you can't actually see the cells\nwithout a strobe light. It's just blur.",
+      "textZh": "嗯，当它全速运行时，如果没有频闪灯，你实际上看不清那些电芯。\n看到的只是一片模糊。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "CA",
+      "textEn": "One of your core ideas, Elon,\nabout what makes an exciting future is a future where we no longer\nfeel guilty about energy. Help us picture this. How many Gigafactories, if you like,\ndoes it take to get us there?",
+      "textZh": "埃隆，关于如何构成一个令人兴奋的未来，\n你的核心想法之一，是一个我们不再\n因能源而感到内疚的未来。帮我们想象一下。可以说，需要多少座超级工厂\n才能让我们到达那里？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "EM",
+      "textEn": "It's about a hundred, roughly. It's not 10, it's not a thousand. Most likely a hundred.",
+      "textZh": "大约是100座。不是10座，不是1000座。最有可能是100座。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "CA",
+      "textEn": "See, I find this amazing. You can picture what it would take to move the world\noff this vast fossil fuel thing. It's like you're building one, it costs five billion dollars, or whatever, five to 10 billion dollars. Like, it's kind of cool\nthat you can picture that project. And you're planning to do, at Tesla --\nannounce another two this year.",
+      "textZh": "你看，我觉得这令人惊叹。你可以想象，要让世界摆脱\n这种庞大的化石燃料事物，需要做些什么。就像你正在建造其中1座，它要花50亿美元，或者随便多少，50亿到100亿美元。就是说，能够设想这个项目\n还挺酷的。而且你正计划在 Tesla——\n今年再宣布2座。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "EM",
+      "textEn": "I think we'll announce locations for somewhere between two\nand four Gigafactories later this year. Yeah, probably four.",
+      "textZh": "我想我们会在今年晚些时候公布2到4座超级工厂的选址。是的，可能是4座。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "CA",
+      "textEn": "Whoa.",
+      "textZh": "哇。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0136",
+      "textEn": "(Applause) No more teasing from you for here? Like -- where, continent? You can say no.",
+      "textZh": "（掌声）你就不能再透露一点了吗？比如——哪里，哪个大陆？你可以说不。"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "EM",
+      "textEn": "We need to address a global market.",
+      "textZh": "我们需要面向全球市场。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "CA",
+      "textEn": "OK.",
+      "textZh": "好的。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0139",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0140",
+      "textEn": "This is cool. I think we should talk for -- Actually, global market. I'm going to ask you one question\nabout politics, only one. I'm kind of sick of politics,\nbut I do want to ask you this. You're on a body now\ngiving advice to a guy --",
+      "textZh": "这很酷。我觉得我们应该谈谈——其实，全球市场。我要问你一个\n关于政治的问题，就一个。我有点厌倦政治了，\n但我的确想问你这个。你现在加入了一个机构，\n为一个人提供建议——"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "EM",
+      "textEn": "Who?",
+      "textZh": "谁？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "CA",
+      "textEn": "Who has said he doesn't\nreally believe in climate change, and there's a lot of people out there\nwho think you shouldn't be doing that. They'd like you to walk away from that. What would you say to them?",
+      "textZh": "一个说过自己并不\n真正相信气候变化的人，而外面有很多人\n认为你不应该这么做。他们希望你退出。你会对他们说什么？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "EM",
+      "textEn": "Well, I think that first of all, I'm just on two advisory councils where the format consists\nof going around the room and asking people's opinion on things, and so there's like a meeting\nevery month or two. That's the sum total of my contribution. But I think to the degree\nthat there are people in the room who are arguing in favor\nof doing something about climate change, or social issues, I've used the meetings I've had thus far to argue in favor of immigration\nand in favor of climate change.",
+      "textZh": "嗯，我想首先，我只是加入了2个顾问委员会，会议形式就是\n让大家依次发言，询问每个人对一些事情的看法，\n所以大概每1个月或2个月开1次会。这就是我贡献的全部。但我认为，只要会议室里\n有人主张\n为气候变化或社会问题采取行动，我就在迄今参加的会议上支持移民，\n并支持气候变化。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0144",
+      "textEn": "(Applause)",
+      "textZh": "（掌声）"
+    },
+    {
+      "id": "p-0145",
+      "textEn": "And if I hadn't done that, that wasn't on the agenda before. So maybe nothing will happen,\nbut at least the words were said.",
+      "textZh": "而如果我没有那么做，这些事此前并不在议程上。所以也许什么都不会发生，\n但至少这些话说出来了。"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "CA",
+      "textEn": "OK.",
+      "textZh": "好的。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0147",
+      "textEn": "(Applause)",
+      "textZh": "（掌声）"
+    },
+    {
+      "id": "p-0148",
+      "textEn": "So let's talk SpaceX and Mars. Last time you were here, you spoke about what seemed like\na kind of incredibly ambitious dream to develop rockets\nthat were actually reusable. And you've only gone and done it.",
+      "textZh": "那么我们来谈谈SpaceX和火星。上次你来这里时，你谈到一个看起来\n雄心大得令人难以置信的梦想，要开发出\n真正能够重复使用的火箭。而你居然真的做到了。"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "EM",
+      "textEn": "Finally. It took a long time.",
+      "textZh": "终于做到了。花了很长时间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "CA",
+      "textEn": "Talk us through this.\nWhat are we looking at here?",
+      "textZh": "给我们讲讲这个。\n我们在这里看到的是什么？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "EM",
+      "textEn": "So this is one of our rocket boosters coming back from\nvery high and fast in space. So just delivered the upper stage at high velocity. I think this might have been\nat sort of Mach 7 or so, delivery of the upper stage.",
+      "textZh": "这是我们的一枚火箭助推器从\n太空中非常高、速度非常快的地方返回。刚刚以高速送出了上面级。我想送出上面级时，\n它的速度可能大约是7马赫。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0152",
+      "textEn": "(Applause)",
+      "textZh": "（掌声）"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "CA",
+      "textEn": "So that was a sped-up --",
+      "textZh": "所以那是一段加速播放的——",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "EM",
+      "textEn": "That was the slowed down version.",
+      "textZh": "那是放慢速度的版本。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0155",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "CA",
+      "textEn": "I thought that was\nthe sped-up version. But I mean, that's amazing, and several of these failed before you finally\nfigured out how to do it, but now you've done this,\nwhat, five or six times?",
+      "textZh": "我还以为那是\n加速版。但我是说，这太惊人了，而且其中有几次失败了，最后你才终于\n弄明白该怎么做，但现在你已经这样做了，\n多少，5 次还是 6 次？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "EM",
+      "textEn": "We're at eight or nine.",
+      "textZh": "我们已经有 8 次或 9 次了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "CA",
+      "textEn": "And for the first time, you've actually reflown\none of the rockets that landed.",
+      "textZh": "而且你们第一次真正把一枚已经着陆的火箭\n重新飞了一次。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "EM",
+      "textEn": "Yeah, so we landed the rocket booster and then prepped it for flight again\nand flew it again, so it's the first reflight\nof an orbital booster where that reflight is relevant. So it's important to appreciate\nthat reusability is only relevant if it is rapid and complete. So like an aircraft or a car, the reusability is rapid and complete. You do not send your aircraft\nto Boeing in-between flights.",
+      "textZh": "是的，所以我们让火箭助推器着陆，然后为再次飞行做好准备\n并让它再次飞行，所以这是轨道级助推器的首次复飞，\n而且这次复飞具有实际意义。所以有一点很重要，那就是要认识到，\n只有能够快速且完全地重复使用，重复使用才有意义。就像飞机或汽车一样，重复使用是快速且完全的。你不会在两次飞行之间把飞机\n送回波音。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "CA",
+      "textEn": "Right. So this is allowing you\nto dream of this really ambitious idea of sending many, many, many people to Mars in, what, 10 or 20 years time, I guess.",
+      "textZh": "对。所以这让你能够设想这个真正雄心勃勃的构想：在，怎么说，10 年或 20 年后，我想，把非常、非常、非常多的人送上火星。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "EM",
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "CA",
+      "textEn": "And you've designed\nthis outrageous rocket to do it. Help us understand\nthe scale of this thing.",
+      "textZh": "而且你设计了这枚惊人的火箭来实现它。请帮助我们理解\n这个东西的规模。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "EM",
+      "textEn": "Well, visually\nyou can see that's a person. Yeah, and that's the vehicle.",
+      "textZh": "嗯，从视觉上看，\n你可以看到那是一个人。对，而那是飞行器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0164",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "CA",
+      "textEn": "So if that was a skyscraper, that's like, did I read that,\na 40-story skyscraper?",
+      "textZh": "所以如果那是一栋摩天大楼，那就像是，我没看错吧，\n一栋40层的摩天大楼？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "EM",
+      "textEn": "Probably a little more, yeah. The thrust level of this is really -- This configuration is about four times\nthe thrust of the Saturn V moon rocket.",
+      "textZh": "可能还要再高一点，对。它的推力水平确实——\n这个构型的推力大约是土星5号登月火箭的4倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "CA",
+      "textEn": "Four times the thrust of the biggest\nrocket humanity ever created before.",
+      "textZh": "是人类此前制造过的最大型火箭\n推力的4倍。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "EM",
+      "textEn": "Yeah. Yeah.",
+      "textZh": "对。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "CA",
+      "textEn": "As one does.\nEM: Yeah.",
+      "textZh": "一般都会这么做。\n埃隆·马斯克：对。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0170",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0171",
+      "textEn": "In units of 747, a 747 is only about\na quarter of a million pounds of thrust, so for every 10 million pounds of thrust, there's 40 747s. So this would be the thrust equivalent\nof 120 747s, with all engines blazing.",
+      "textZh": "以 747 为单位，一架 747 的推力只有大约\n25 万磅，所以每 1000 万磅推力，就相当于 40 架 747。因此，这相当于\n120 架 747 的推力，所有发动机全部喷火。"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "CA",
+      "textEn": "And so even with a machine\ndesigned to escape Earth's gravity, I think you told me last time this thing could actually\ntake a fully loaded 747, people, cargo, everything, into orbit.",
+      "textZh": "所以，即使是这样一台\n为摆脱地球引力而设计的机器，我想你上次告诉过我，这东西实际上可以把\n一架满载的 747，包括人员、货物和所有东西，送入轨道。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "EM",
+      "textEn": "Exactly. This can take\na fully loaded 747 with maximum fuel, maximum passengers,\nmaximum cargo on the 747 -- this can take it as cargo.",
+      "textZh": "没错。它可以装载一架满载的 747，燃油加到最大量、乘客人数达到上限、货物载量达到上限——它可以把这架 747 当作货物运载。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "CA",
+      "textEn": "So based on this, you presented recently\nthis Interplanetary Transport System which is visualized this way. This is a scene you picture in, what,\n30 years time? 20 years time? People walking into this rocket.",
+      "textZh": "所以基于此，你最近展示了这个星际运输系统，它是这样呈现的。这是你设想的一个场景，会在多长时间后，30 年？20 年？人们正走进这枚火箭。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "EM",
+      "textEn": "I'm hopeful it's sort of\nan eight- to 10-year time frame. Aspirationally, that's our target. Our internal targets\nare more aggressive, but I think --",
+      "textZh": "我希望时间范围大概是 8 到 10 年。从愿景上说，这是我们的目标。我们的内部目标更加激进，但我认为——",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0176",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "CA",
+      "textEn": "OK.",
+      "textZh": "好的。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "EM",
+      "textEn": "While vehicle seems quite large and is large by comparison\nwith other rockets, I think the future spacecraft will make this look like a rowboat. The future spaceships\nwill be truly enormous.",
+      "textZh": "虽然这枚运载火箭看起来相当大，而且与其他火箭相比确实很大，但我认为未来的航天器会让它看起来像一艘划艇。未来的宇宙飞船将会真正无比巨大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "CA",
+      "textEn": "Why, Elon? Why do we need to build a city on Mars with a million people\non it in your lifetime, which I think is kind of\nwhat you've said you'd love to do?",
+      "textZh": "为什么，埃隆？为什么我们需要在你有生之年在火星上建造一座有100万人口的城市，我想这差不多就是你说过自己很想做的事？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "EM",
+      "textEn": "I think it's important to have a future that is inspiring and appealing. I just think there have to be reasons that you get up in the morning\nand you want to live. Like, why do you want to live? What's the point? What inspires you? What do you love about the future? And if we're not out there, if the future does not include\nbeing out there among the stars and being a multiplanet species, I find that it's incredibly depressing if that's not the future\nthat we're going to have.",
+      "textZh": "我认为，拥有一个鼓舞人心、令人向往的未来很重要。我只是觉得，人早晨起床并想要活下去，总得有些理由。比如，你为什么想活着？意义是什么？什么能激励你？你喜欢未来的什么？而如果我们没有走出去，如果未来不包括走向群星之间，不包括成为一个多行星物种，那么，倘若我们将要拥有的未来并非如此，我会觉得这令人无比沮丧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0181",
+      "textEn": "(Applause)",
+      "textZh": "（掌声）"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "CA",
+      "textEn": "People want to position this\nas an either or, that there are so many desperate things\nhappening on the planet now from climate to poverty\nto, you know, you pick your issue. And this feels like a distraction. You shouldn't be thinking about this. You should be solving what's here and now. And to be fair, you've done\na fair old bit to actually do that with your work on sustainable energy. But why not just do that?",
+      "textZh": "人们想把这说成一道非此即彼的选择题，说现在地球上正发生着许多亟待解决的事情，从气候到贫困，再到，你知道，任何你关注的问题。而这感觉像是在分散注意力。你不应该考虑这个。你应该解决此时此地的问题。公平地说，你在可持续能源方面的工作，确实已经为此做了相当多的事情。但为什么不就只做这个呢？",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "EM",
+      "textEn": "I think there's -- I look at the future\nfrom the standpoint of probabilities. It's like a branching\nstream of probabilities, and there are actions that we can take\nthat affect those probabilities or that accelerate one thing\nor slow down another thing. I may introduce something new\nto the probability stream. Sustainable energy\nwill happen no matter what. If there was no Tesla,\nif Tesla never existed, it would have to happen out of necessity. It's tautological. If you don't have sustainable energy,\nit means you have unsustainable energy. Eventually you will run out, and the laws of economics\nwill drive civilization towards sustainable energy, inevitably. The fundamental value\nof a company like Tesla is the degree to which it accelerates\nthe advent of sustainable energy, faster than it would otherwise occur.",
+      "textZh": "我认为存在——我是从概率的角度看待未来的。它就像一条不断分支的概率之流，而我们可以采取一些行动，去影响这些概率，或是加速一件事，或是减缓另一件事。我可能会为概率之流引入一些新事物。无论如何，可持续能源都会成为现实。如果没有 Tesla，如果 Tesla 从未存在过，出于必要性，它也必须成为现实。这是同义反复。如果你没有可持续能源，就意味着你拥有的是不可持续能源。最终你会将其耗尽，而经济规律将不可避免地推动文明走向可持续能源。像 Tesla 这样的公司的根本价值，在于它能在多大程度上加速可持续能源时代的到来，使其比原本出现得更快。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0184",
+      "textEn": "So when I think, like, what is the fundamental good\nof a company like Tesla, I would say, hopefully, if it accelerated that by a decade,\npotentially more than a decade, that would be quite a good thing to occur. That's what I consider to be the fundamental\naspirational good of Tesla.",
+      "textZh": "所以，当我思考，像 Tesla 这样的公司的根本益处是什么时，我会说，希望它能将这一进程加速10年，可能超过10年，那将是一件相当好的事。这就是我所认为的 Tesla 在愿景层面的根本益处。"
+    },
+    {
+      "id": "p-0185",
+      "textEn": "Then there's becoming a multiplanet\nspecies and space-faring civilization. This is not inevitable. It's very important to appreciate\nthis is not inevitable. The sustainable energy future\nI think is largely inevitable, but being a space-faring civilization\nis definitely not inevitable. If you look at the progress in space, in 1969 you were able\nto send somebody to the moon. 1969. Then we had the Space Shuttle. The Space Shuttle could only\ntake people to low Earth orbit. Then the Space Shuttle retired, and the United States\ncould take no one to orbit. So that's the trend. The trend is like down to nothing. People are mistaken when they think that technology\njust automatically improves. It does not automatically improve. It only improves if a lot of people\nwork very hard to make it better, and actually it will, I think,\nby itself degrade, actually. You look at great civilizations\nlike Ancient Egypt, and they were able to make the pyramids, and they forgot how to do that. And then the Romans,\nthey built these incredible aqueducts. They forgot how to do it.",
+      "textZh": "然后是成为一个多行星物种和航天文明。这并非必然。认识到这并非必然非常重要。我认为，可持续能源的未来在很大程度上是必然的，但成为一个航天文明绝对不是必然的。如果你看看航天领域的进展，1969年，你能够把人送上月球。1969年。然后我们有了航天飞机。航天飞机只能把人送入近地轨道。后来航天飞机退役了，美国便无法将任何人送入轨道。所以这就是趋势。这个趋势就像是一路下降到什么都没有。人们以为技术会自动进步，这是错误的。它不会自动进步。只有很多人非常努力地让它变得更好，它才会进步，而事实上，我认为，它实际上会自行退化。你看看古埃及这样的伟大文明，他们曾经能够建造金字塔，后来却忘了该怎么做。然后是罗马人，他们建造了这些不可思议的引水渠。他们也忘了该怎么做。"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "CA",
+      "textEn": "Elon, it almost seems,\nlistening to you and looking at the different\nthings you've done, that you've got this unique\ndouble motivation on everything that I find so interesting. One is this desire to work\nfor humanity's long-term good. The other is the desire\nto do something exciting. And often it feels like you feel\nlike you need the one to drive the other. With Tesla, you want\nto have sustainable energy, so you made these super sexy,\nexciting cars to do it. Solar energy, we need to get there, so we need to make these beautiful roofs. We haven't even spoken\nabout your newest thing, which we don't have time to do, but you want to save humanity from bad AI, and so you're going to create\nthis really cool brain-machine interface to give us all infinite memory\nand telepathy and so forth. And on Mars, it feels\nlike what you're saying is, yeah, we need to save humanity and have a backup plan, but also we need to inspire humanity, and this is a way to inspire.",
+      "textZh": "埃隆，听你说话，再看看你做过的种种事情，几乎让人觉得，你做每件事都有一种独特的双重动机，我觉得这非常有意思。一个是希望为人类的长期福祉而努力。另一个是渴望做一些令人兴奋的事情。而且常常让人感觉，你觉得需要用其中一个来驱动另一个。对于 Tesla，你希望实现可持续能源，所以你为此制造了这些极其性感、令人兴奋的汽车。太阳能，我们需要实现它，所以我们需要打造这些漂亮的屋顶。我们甚至还没谈到你最新做的事情，我们也没有时间谈，但你希望把人类从有害的 AI 手中拯救出来，所以你要创造这种非常酷的脑机接口，让我们所有人都拥有无限的记忆力和心灵感应等等。至于火星，感觉你所说的是，没错，我们需要拯救人类，并且准备一个备用方案，但我们也需要激励人类，而这就是一种激励方式。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "EM",
+      "textEn": "I think the value\nof beauty and inspiration is very much underrated, no question. But I want to be clear. I'm not trying to be anyone's savior. That is not the -- I'm just trying to think about the future and not be sad.",
+      "textZh": "我认为，美和灵感的价值被严重低估了，这一点毫无疑问。但我想说清楚。我并不是想成为任何人的救世主。那并不是——我只是在努力思考未来，并且不为之感到悲伤。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0188",
+      "textEn": "(Applause)",
+      "textZh": "（掌声）"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "CA",
+      "textEn": "Beautiful statement. I think everyone here would agree that it is not -- None of this is going\nto happen inevitably. The fact that in your mind,\nyou dream this stuff, you dream stuff that no one else\nwould dare dream, or no one else\nwould be capable of dreaming at the level of complexity that you do. The fact that you do that, Elon Musk,\nis a really remarkable thing. Thank you for helping us all\nto dream a bit bigger.",
+      "textZh": "说得真美。我想在场的每个人都会认同，这并不是——这一切都不会必然发生。你能在头脑中梦想这些事，梦想那些其他人不敢梦想的事，或是其他人没有能力以你所达到的复杂程度去梦想的事。埃隆·马斯克，你能做到这一点，确实非常了不起。感谢你帮助我们所有人把梦想放大了一些。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "EM",
+      "textEn": "But you'll tell me if it ever\nstarts getting genuinely insane, right?",
+      "textZh": "但如果这一切真的开始变得疯狂，你会告诉我的，对吧？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0191",
+      "textEn": "(Laughter)",
+      "textZh": "（笑声）"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "CA",
+      "textEn": "Thank you, Elon Musk.\nThat was really, really fantastic. That was really fantastic.",
+      "textZh": "谢谢你，埃隆·马斯克。\n这真的、真的太精彩了。真的太精彩了。",
+      "speakerZh": "克里斯·安德森"
+    },
+    {
+      "id": "p-0193",
+      "textEn": "(Applause)",
+      "textZh": "（掌声）"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T07:47:07.590Z",
+    "reviewedAt": "2026-09-13T08:12:34.132Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:08.725Z",
+  "transcriptSource": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring/transcript",
+  "sourceHash": "93a898afb2b1e985d3ba1ea1a97cab941ef786da1cc9ed1e6c0ab0e700210313"
+}

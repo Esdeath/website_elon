@@ -1,0 +1,3038 @@
+{
+  "id": "tesla-shareholder-meeting-2023-05-16",
+  "slug": "tesla-shareholder-meeting-2023-05-16",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2023-05-16",
+  "titleEn": "Tesla Shareholder Meeting",
+  "titleZh": "Tesla 股东大会",
+  "summaryEn": "Tesla's official 2023 annual shareholder meeting with Musk's company update on the drivetrain, FSD and Cybertruck.",
+  "summaryZh": "Tesla 官方举行的 2023 年度股东大会，马斯克介绍了公司在动力总成、FSD 和 Cybertruck 方面的最新情况。",
+  "sourceUrl": "https://www.youtube.com/watch?v=bZNL_8bUz6A",
+  "sourceLabel": "Tesla",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-shareholder-meeting-2023-05-16",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/bZNL_8bUz6A",
+  "thumbnailUrl": "https://i.ytimg.com/vi/bZNL_8bUz6A/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 6593,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 17.04,
+      "textEn": "Good afternoon, everyone.",
+      "textZh": "大家下午好。",
+      "speakerZh": "马丁·维耶查（投资者关系）"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 21.28,
+      "textEn": "Good afternoon everyone, and welcome to Tesla's 2023 annual shareholder meeting in Austin, Texas.",
+      "textZh": "大家下午好，欢迎来到得克萨斯州奥斯汀参加 Tesla 2023 年度股东大会。",
+      "speakerZh": "马丁·维耶查（投资者关系）"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 31.12,
+      "textEn": "My name is Martin Vieja, I'm vice President of Investor relations and I will be the chair of today's meeting. First of all, I really wanted to thank everyone who continues to do this trip on annual basis and shows up every time. It's really quite something that we have a following as dedicated as this, so thank you very much for that.",
+      "textZh": "我叫马丁·维耶哈，是投资者关系副总裁，我将担任今天会议的主席。首先，我真的想感谢所有每年都继续踏上这段旅程、每次都会到场的人。我们拥有如此投入的一群追随者，这真的很了不起，所以非常感谢大家。",
+      "speakerZh": "马丁·维耶查（投资者关系）"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 53.85,
+      "textEn": "I also wanted to thank our first time visitors. I know that many of you won a lottery to come for the first time to a festival shareholder meeting.",
+      "textZh": "我也想感谢第一次来访的各位。我知道你们当中很多人抽中了签，得以第一次前来参加一场节庆股东大会。",
+      "speakerZh": "马丁·维耶查（投资者关系）"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 67.13,
+      "textEn": "You'll probably notice that unlike many other shareholder meetings of other companies, this one tends to be a bit more fun. So hope you enjoy that. But the last thing I really wanted to say is that just thank you so much for all your support over the years. We really feel like you're part of our mission, you know, part of our, you know, story, and it's something we truly, truly value. So thank you so much for that.",
+      "textZh": "你们可能会注意到，与许多其他公司的股东大会不同，这场大会往往会更有趣一些。所以希望你们享受其中。但我真正想说的最后一件事，就是非常感谢大家多年来给予的所有支持。我们真的觉得你们是我们使命的一部分，你知道，是我们的，你知道，故事的一部分，而这是我们真正、真正珍视的。所以非常感谢大家。",
+      "speakerZh": "马丁·维耶查（投资者关系）"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 95.75,
+      "textEn": "There will be two parts of today's meeting. First, the formal part of the meeting where we will cover items that stockholders have been asked to vote on, as well as any other matters that are properly presented. And after the voting, I will introduce Tesla's co founder and CEO and technoking Elon Musk, who will give a presentation about Tesla's year in review. But at this time, I'd like to thank the members of the Tesla team and the board who are here with us here today.",
+      "textZh": "今天的会议将分为两个部分。首先是会议的正式部分，我们将讨论已请股东投票表决的事项，以及任何其他得到适当提出的事务。投票结束后，我将介绍 Tesla 的联合创始人、首席执行官兼技术之王埃隆·马斯克，他将就 Tesla 的年度回顾进行演讲。但现在，我想感谢今天来到这里与我们共聚一堂的 Tesla 团队成员和董事会成员。",
+      "speakerZh": "马丁·维耶查（投资者关系）"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 127.57,
+      "textEn": "Representative from PricewaterhouseCoopers, Tesla's independent auditor, present with us as well. But before we begin, I'd like to introduce you to Tesla's chair, Robin Denholm, who would like to say a few words.",
+      "textZh": "Tesla 的独立审计机构普华永道的代表也与我们一同在场。但在开始之前，我想向大家介绍 Tesla 董事长罗宾·德诺姆，她想讲几句话。",
+      "speakerZh": "马丁·维耶查（投资者关系）"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 147.74,
+      "textEn": "I'm a little bit shorter, so. Hello everyone.",
+      "textZh": "我个子矮一点，所以。大家好。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 153.34,
+      "textEn": "On behalf of the board, I am really honored to welcome you all here today to the 2023 Annual Shareholder Meeting. It's wonderful for me to see everyone in the room today and also the many investors that have joined us today via the virtual livestream. It's our third straight year of having the annual meeting here in Austin. At the first meeting, the factory was still in the early stages of development, with equipment being installed and commissioned.",
+      "textZh": "我谨代表董事会，非常荣幸地欢迎大家今天来到这里参加 2023 年度股东大会。今天能见到会场里的每一个人，以及通过线上直播加入我们的众多投资者，我感到非常高兴。这是我们连续第 3 年在奥斯汀举行年度会议。第一次开会时，工厂仍处于开发初期，设备正在安装和调试。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 186.44,
+      "textEn": "During the 2022 meeting, production had started to ramp as we produced about 1600 vehicles that week. And now, less than a year later, we have more than tripled the amount, having achieved production of 5,000 cars in a single week.",
+      "textZh": "在 2022 年会议期间，产量已经开始提升，我们那一周生产了约 1600 辆汽车。而现在，不到 1 年后，我们已经将这一数字提高到 3 倍以上，实现了单周生产 5,000 辆汽车。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 210.36,
+      "textEn": "A huge concept. Congratulations to the Texas team. And on top of that, we are getting ready to Roll out our first cybertrucks.",
+      "textZh": "一个巨大的概念。祝贺得克萨斯团队。除此之外，我们正准备推出首批 Cybertruck。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 225.25,
+      "textEn": "This exponential trajectory of the gigafactory here in Texas is a reflection of Tesla as a whole.",
+      "textZh": "得克萨斯州这座超级工厂的指数级发展轨迹正是 Tesla 整体状况的写照。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 234.21,
+      "textEn": "In 2022 was another record breaking year for us with deliveries and growing by 40% year over year. And that trend has continued in the first quarter of 2023. We would not be able to achieve this growth without the dedication of our amazing employees. I've been fortunate enough over the years to actually travel to many of our locations, all of the gigafactories around the world. And, and I can tell you that I've witnessed firsthand how our exceptional employees in our global talent across the world has together achieved our mission or furthered our mission of accelerating the world's transition to sustainable energy.",
+      "textZh": "2022 年对我们来说又是一个打破纪录的年份，交付量同比增长 40%。这一趋势在 2023 年第一季度延续了下来。如果没有我们出色员工的投入，我们不可能实现这样的增长。这些年来，我非常有幸实际走访了我们的许多地点，包括世界各地的所有超级工厂。而且，而且我可以告诉大家，我亲眼见证了我们遍布全球的优秀员工和全球人才如何共同实现了我们的使命，或者说进一步推进了我们加速世界向可持续能源转型的使命。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 283.62,
+      "textEn": "Huge round of applause please.",
+      "textZh": "请大家热烈鼓掌。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 288.66,
+      "textEn": "This year here in Texas, we also had our very first investor day where we introduced our company leaders from design to engineering, to supply chain, manufacturing, energy and charging. And they each spoke about the role of their teams in making our mission come to life. And I was thrilled that investors were able to hear directly from this outstanding leadership team that Elon has been able to put together over many, many years.",
+      "textZh": "今年，我们还在得克萨斯州举行了首次投资者日，介绍了公司从设计、工程到供应链、制造、能源和充电各领域的领导者。他们分别讲述了各自团队在让我们的使命成为现实方面所发挥的作用。投资者能够直接听到这支由埃隆历经很多、很多年组建起来的杰出领导团队发言，我感到非常激动。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 321.68,
+      "textEn": "It is on the strength of their leadership and the hard work of our dedicated employees around the world that I believe we are not only weather the macroeconomic environment that we've seen this year, but also continue to be in the strongest position ever to advance Tesla's mission. As a startup. Tesla proved that electric vehicles could be fun with the Roadster. They could even be better than gas powered vehicles in every single way with the S and X and could be all of these things as well as affordable with the Model 3 and Model Y which last quarter became the best selling vehicle of any kind in Europe and the best selling non pickup vehicle in the United States.",
+      "textZh": "正是凭借他们强有力的领导，以及我们世界各地尽职员工的辛勤工作，我相信我们不仅经受住我们今年所见的宏观经济环境，而且还继续处于有史以来推进 Tesla 使命的最有利位置。作为一家初创企业。Tesla 用 Roadster 证明了电动汽车可以充满乐趣。凭借 S 和 X，它们甚至可以在每一个方面都胜过燃油汽车；而凭借 Model 3 和 Model Y，它们不仅可以具备这一切，也可以负担得起。Model 3 和 Model Y 上季度成为欧洲所有类别中最畅销的汽车，以及美国最畅销的非皮卡汽车。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 378.9,
+      "textEn": "And today, as one of the world's largest global companies, we plan to change the paradigm again by forging the path to achieving a global sustainable energy economy as set out at our investor day in our master plan.",
+      "textZh": "而今天，作为全球规模最大的公司之一，我们计划再次改变范式，按照投资者日上在我们的宏图计划中所阐述的那样，开辟一条实现全球可持续能源经济的道路。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Shareholder",
+      "startSec": 396.18,
+      "textEn": "3.",
+      "textZh": "3.",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 398.19,
+      "textEn": "As Tesla grows, so do our customers positive impact on carbon emissions. When I stood here last year, I proudly announced that in 2021, our customers avoided emitting 8.4 million metric tons of greenhouse gas emissions, the equivalent of over 20 billion miles driven by internal combustion engine vehicles. Today I can tell you that in 2022, our customers avoided releasing over 13.4 million metric tonnes of greenhouse gases into the atmosphere.",
+      "textZh": "随着 Tesla 的发展，我们的客户对碳排放产生的积极影响也在增长。去年我站在这里时，自豪地宣布，2021 年，我们的客户避免了 840 万公吨的温室气体排放，相当于内燃机汽车行驶超过 200 亿英里产生的排放。今天我可以告诉大家，2022 年，我们的客户避免了向大气中排放超过 1340 万公吨的温室气体。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 437.29,
+      "textEn": "The equivalent of over 33 billion miles of driving of internal combustion vehicles.",
+      "textZh": "相当于内燃机汽车行驶超过 330 亿英里。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 447.53,
+      "textEn": "That that's an almost 60% increase in total emission savings year over year. Putting more of our products in customers hands helps grow that number and our goals of making our products greener over time and further decarbonizing the electric grid will help multiply that effect. As part of that goal, I am delighted to say that as described in our recent impact report, our global supercharging Network was again 100% renewable in 2022.",
+      "textZh": "那那相当于避免的排放总量同比增长近 60%。让更多产品进入客户手中有助于提高这一数字，而我们让产品逐渐变得更加环保并进一步推动电网脱碳的目标，将有助于成倍放大这种效果。作为这一目标的一部分，我很高兴地宣布，正如我们最近的影响力报告所述，2022 年，我们的全球超级充电网络再次实现 100% 使用可再生能源。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 485.37,
+      "textEn": "We've been able to achieve all of this while maintaining. Sorry, maintaining industry margins, industry leading margins and generating strong cash flows over the last several years. Going forward, we will continue our focus on capital investment plans to support our future growth with investments in batteries, in vehicle production, including the next generation platform, in the building of our lithium refinery that we recently broke ground on, in the energy storage factories, in our sales and service footprint and in our charging network, among other things.",
+      "textZh": "我们在实现这一切的同时，也一直保持着。抱歉，保持着行业利润率、行业领先的利润率，并在过去几年中产生了强劲的现金流。展望未来，我们将继续专注于资本投资计划，通过对电池、车辆生产（包括下一代平台）、我们最近破土动工的锂精炼厂建设、储能工厂、销售和服务网络以及充电网络等方面的投资，为未来增长提供支持。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 528.8,
+      "textEn": "Before I hand it back to Martin, I would also like to thank Hiro Mizuno for his dedicated service to the Tesla shareholders and the Board these past three years. I would also like to express our enthusiasm on behalf of my fellow directors at the prospect of JB Straubal joining our Board.",
+      "textZh": "在把话筒交还给马丁之前，我还想感谢水野弘道过去 3 年来为 Tesla 股东和董事会所做的尽职服务。我也想代表董事会同仁，对 JB·斯特劳巴尔可能加入我们的董事会表达热切期待。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 557.46,
+      "textEn": "I don't have to tell you that his passion for Tesla and green tech will make him an important asset in our mission to accelerate the world's transition to sustainable energy. So again, on behalf of our full Board, thank you for your tremendous support and welcome to your 2023 shareholder meeting. And with that, I'll hand it back to Mart.",
+      "textZh": "无需我来告诉大家，他对 Tesla 和绿色科技的热情将使他成为我们加速世界向可持续能源转型这一使命中的重要资产。因此，我再次代表全体董事会，感谢大家给予的巨大支持，并欢迎各位参加你们的 2023 年股东大会。接下来，我把话筒交还给马特。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 589.99,
+      "textEn": "Thank you Robin.",
+      "textZh": "谢谢你，罗宾。",
+      "speakerZh": "马丁·维耶查（投资者关系）"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 592.55,
+      "textEn": "I will now call the meeting to order. Please refer to the meeting agenda that has been provided to you and post it on the virtual meeting site. The time is now 3:10pm Central Time and I declare the polls are now open.",
+      "textZh": "我现在宣布会议开始。请参阅已提供给各位的会议议程，并将其发布在虚拟会议网站上。现在是美国中部时间下午 3:10，我宣布投票现已开始。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 609.27,
+      "textEn": "We have already received over the last few weeks voting proxies from stockholders, meaning that almost all the votes that will be counted were already submitted before today. However, if you wish to vote your shares or change your prior vote, you may do so through the virtual meeting site. For those who are in person here today, ballots and ballot boxes were available to you at the check in Tesla's Board of Directors has appointed Computer Share Trust Company to serve to serve as Inspector of Elections.",
+      "textZh": "在过去几周里，我们已经收到了股东提交的委托投票，这意味着几乎所有将被计入的投票都已在今天之前提交。不过，如果您希望就所持股份投票或更改此前的投票，可以通过虚拟会议网站进行操作。对于今天亲临现场的各位，签到处已备有选票和投票箱，Tesla 董事会已任命 Computer Share Trust Company 担任、担任选举监察员。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 640.46,
+      "textEn": "Computershare has taken and signed an oath as Inspector and has certified that starting on April 6, 2023, the proxy materials or a notice of Internet availability of proxy materials were mailed or provided to all Tesla Stockholders of record. March 20, 2023.",
+      "textZh": "Computershare 已作为监察员宣誓并签字，并已证明，自 2023 年 4 月 6 日起，委托书材料或委托书材料互联网可用性通知已邮寄或提供给所有在册 Tesla 股东。2023 年 3 月 20 日。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 663.51,
+      "textEn": "We have majority of outstanding chairs represented at the meeting, so I declare that there's a quorum present at the meeting and we may proceed with the meeting. The items on the agenda are as follows. Number one. The election of Class 1 directors Elon Musk, Robin Denholm and JB Straubel to serve for a term of three years or until the respective successors are duly elected and qualified. Number two. To approve executive compensation on a non binding advisory basis.",
+      "textZh": "出席会议的流通在外椅子已占多数，因此我宣布本次会议达到法定人数，我们可以继续开会。议程事项如下。第 1 项。选举第 1 类董事埃隆·马斯克、罗宾·德诺姆和 JB·施特劳贝尔，任期为 3 年，或直至各自的继任者得到正式选举并具备任职资格。第 2 项。以不具约束力的咨询方式批准高管薪酬。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 698.31,
+      "textEn": "Number three. To approve the frequency of future votes on executive compensation on a non binding advisory basis. Number four. To ratify the appointment of PricewaterhouseCoopers LLP as Tesla's independent public registered accounting firm for the 2023 fiscal year. Number five. To vote on a stockholder proposal included in our proxy statement which relates to the reporting of key person risk. Number six. To vote on a stockholder proposal which the stockholders did not seek to have included in our proxy statement.",
+      "textZh": "第 3 项。以不具约束力的咨询方式批准未来就高管薪酬进行投票的频率。第 4 项。批准任命 PricewaterhouseCoopers LLP 为 Tesla 2023 财年的独立注册公共会计师事务所。第 5 项。就我们委托书中所载的一项股东提案进行投票，该提案涉及关键人物风险报告。第 6 项。就一项股东并未寻求纳入我们委托书的股东提案进行投票。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 736.38,
+      "textEn": "Tesla's board has recommended that our stockholders vote for each of the director nominees for the approval by non binding advisory board of executive compensation and the ratification of appointment of PwC as an independent registered public accounting firm for fiscal year 2023 and every three years for non binding advisory vote for the frequency of future votes on executive compensation with respect to stockholder proposal included in our proxy statement which relates to the reporting on the key man risk.",
+      "textZh": "Tesla董事会已建议我们的股东投票支持每一位董事候选人，批准关于高管薪酬的不具约束力的咨询表决，批准任命普华永道为2023财年的独立注册公共会计师事务所，并就未来高管薪酬表决的频率每3年进行一次不具约束力的咨询表决；关于纳入我们委托书、涉及关键人物风险报告的股东提案。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 775.28,
+      "textEn": "Karen Roberts Doughertier on behalf of Sumtris, is here to present this proposal. Ms. Roberts Doughertier, can you please identify yourself?",
+      "textZh": "凯伦·罗伯茨·多尔蒂尔代表Sumtris到场介绍这项提案。罗伯茨·多尔蒂尔女士，能请您说明自己的身份吗？",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 788,
+      "textEn": "I would like to invite you to speak. You will have three minutes.",
+      "textZh": "我想邀请您发言。您将有3分钟时间。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Shareholder",
+      "startSec": 797.05,
+      "textEn": "Hello. Thank you for having me here today. Under discussion is a shareholder proposal concerning key person risk at Tesla requiring Tesla's board to draft a report covering the steps taken to ameliorate the potential impacts of loss of key persons in the company. However, before I begin, I would first like to say thank you to Mr. Musk. For so many of us, you stepped into fields where we had so desperately wanted to see change.",
+      "textZh": "大家好。感谢各位邀请我今天来到这里。现在讨论的是一项有关Tesla关键人物风险的股东提案，要求Tesla董事会起草一份报告，涵盖为减轻公司关键人物流失的潜在影响而采取的措施。不过，在开始之前，我首先想对马斯克先生表示感谢。对我们许多人来说，您踏入了那些我们一直迫切希望看到改变的领域。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Shareholder",
+      "startSec": 824.26,
+      "textEn": "And through bringing in a talented team willing to put in long hours, you dragged reluctant industries kicking and screaming into a better future. And for that, thank you. Building up this juggernaut around us which, as you largely put it, runs itself these days.",
+      "textZh": "通过引进一支愿意长时间工作的优秀团队，你把那些不情愿的行业连踢带拽、又喊又叫地拖进了一个更美好的未来。为此，谢谢你。你在我们周围打造起了这台巨无霸，正如你大体上所说，它如今可以自行运转。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Shareholder",
+      "startSec": 841.3,
+      "textEn": "Thank you for that. And yet now, here we are today, at a time when Tesla's technological leadership should be on display the investment community largely sees as adrift with management focused on all the matters, not Tesla. Watching as Tesla's brand favorability dropped by 15 points last year. Something that costs us margins. We have such a spectacular product pipeline and a team that knows how to execute at scale with low cost of goods sold.",
+      "textZh": "谢谢。可是现在，今天，我们却处在这样一个时刻：Tesla 的技术领导地位本应得到彰显，但投资界普遍认为公司正随波漂流，管理层专注于所有其他事务，而不是 Tesla。眼看着 Tesla 的品牌好感度去年下降了 15 个百分点。这件事让我们付出了利润率方面的代价。我们拥有如此出色的产品管线，还有一支懂得如何以低销货成本进行规模化执行的团队。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Shareholder",
+      "startSec": 870.75,
+      "textEn": "Something that we are not being properly Recognized for it should go without saying, but apparently bears repeating, that if you cannot produce with low cogs, you have no future. When I look around the auto industry these days, I see a lot of companies that have no future. And that's a success on behalf of an incredible team here at Tesla that deserves recognition. When people look at this company, that's not what they see.",
+      "textZh": "这是我们没有得到恰当认可的事情。这本应是不言自明的，但显然值得重申：如果你不能以低销货成本进行生产，你就没有未来。如今，当我环顾汽车行业时，我看到很多没有未来的公司。而这是 Tesla 这里一支不可思议的团队所取得的成功，他们理应得到认可。当人们审视这家公司时，他们看到的却不是这些。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Shareholder",
+      "startSec": 893.07,
+      "textEn": "They see the company as a synonym for its CEO, and then the discussion turns to everything except for where it should be focused. It's my sincere hope that by introducing this proposal, we can not only accelerate the development of management at Tesla, but also increase its visibility. The fact that this company is so much more than its key persons is something that the public and the investment community should see.",
+      "textZh": "他们把这家公司视为其首席执行官的同义词，随后讨论就转向了除本应关注之处以外的一切。我真诚地希望，通过提出这项提案，我们不仅能够加快 Tesla 管理层的发展，还能提高其可见度。这家公司远不止其关键人物，这一事实是公众和投资界应该看到的。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Shareholder",
+      "startSec": 917.08,
+      "textEn": "A founder often finds their greatest success in ensuring the future of the company and the development of the management talent who can come after them. Think Tim Cook at Apple, Steve Ballmer at Microsoft and so forth. People who are ready from day one to execute without controversy, without distraction, and build a future for the company. I encourage the board should embrace this opportunity in the most public manner possible, to showcase the future being built right here, here, so that the discussion among the public and the investment committee resolves revolves around that and not around every public statement on every other topic made by the leadership.",
+      "textZh": "创始人往往会通过确保公司的未来，并培养能够接替他们的管理人才，取得自己最伟大的成功。想想 Apple 的蒂姆·库克、Microsoft 的史蒂夫·鲍尔默等等。这些人从第 1 天起就已准备好在没有争议、没有干扰的情况下执行，并为公司建设未来。我鼓励董事会应当以尽可能公开的方式把握这个机会，展示正在这里、就在这里建设的未来，从而让公众和投资委员会的讨论解决围绕于此，而不是围绕领导层就其他每个话题发表的每一项公开声明。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Shareholder",
+      "startSec": 959.94,
+      "textEn": "I strongly encourage the board, the shareholders, to support this proposal and for the board to embrace it. Thank you very much.",
+      "textZh": "我强烈鼓励董事会和股东支持这项提案，也鼓励董事会接受它。非常感谢。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 967.54,
+      "textEn": "Thank you. Ms. Roberts Law. The board is recommended that our stockholders vote against this proposal for the reasons set forth in our statement of opposition in our proxy statement.",
+      "textZh": "谢谢。罗伯茨·劳女士。基于我们在委托书中的反对声明所阐明的理由，董事会建议我们的股东投票反对这项提案。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 979.88,
+      "textEn": "Finally, as you saw, and investor advocates for social justice would like to raise a proposal from the floor. The proponents did not seek to have their proposal included in the proxy statement. The board recommends that our stockholders, who are entitled to vote on this proposal, vote against it. As a reminder, as is disclosed in a proxy statement, I've been advised by the proxy holders that they intend to vote all shares of stock over which they have discretionary authority against this proposal.",
+      "textZh": "最后，正如你们所看到的，以及社会正义投资者倡导者希望在现场提出一项提案。提案方并未寻求将其提案纳入委托书。董事会建议有权就这项提案投票的股东投票反对。提醒一下，正如委托书中所披露的，代理权持有人已告知我，他们打算将其拥有酌情决定权的全部股份投票反对这项提案。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 1012.35,
+      "textEn": "Only shareholders who are shareholders of record or have obtained a legal proxy made vote for this proposal after it is presented. Courtney Wicks, representing Investor Advocates for Support Social justice, is here to present the proposal. Ms. Wicks, I would like you to speak. You will have three minutes.",
+      "textZh": "这项提案提交后，只有登记在册的股东或已取得合法代理权的股东才可以投票。代表支持社会正义投资者倡导组织的考特尼·威克斯来到这里介绍这项提案。威克斯女士，我想请您发言。您有 3 分钟。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Shareholder",
+      "startSec": 1032.39,
+      "textEn": "Thank you. Good afternoon, Tesla board members, management, employees and shareholders. My name is Courtney Wicks and I am the Executive director for Investor Advocates for Social justice and I'm here on behalf of as you sew and the Sisters of the Good shepherd who have filed shareholder proposals in the past on child labor and and human rights abuses in Tesla's supply chain. I stand here today to call on shareholders to vote yes on requesting Tesla to conduct a third party report detailing the company's efforts to eradicate child enforced labor in its supply chain.",
+      "textZh": "谢谢。下午好，Tesla 董事会成员、管理层、员工和股东们。我叫考特尼·威克斯，是社会正义投资者倡导组织的执行董事。我在这里代表 As You Sew 和善牧修女会，这两个团体过去曾就 Tesla 供应链中的童工以及以及侵犯人权行为提交股东提案。我今天站在这里，是为了呼吁股东投赞成票，请求 Tesla 开展一份第三方报告，详细说明公司为根除其供应链中的儿童强制劳动所作的努力。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Shareholder",
+      "startSec": 1068.24,
+      "textEn": "The human rights risks that permeate throughout Tesla's value chain, when not adequately addressed, harm shareholder value and undermine Tesla's ability to lead the chance just transition. Growing attention and concern have been placed on child labor in cobalt mining in the Democratic Republic of the Congo as well as on forced labor in China's Xinjiang region. 70% of the world's cobalt needed for EV batteries are sourced in the DRC.",
+      "textZh": "贯穿 Tesla 整条价值链的人权风险，如果得不到充分处理，就会损害股东价值，并削弱 Tesla 引领机会公正转型的能力。刚果民主共和国钴矿开采中的童工问题，以及中国新疆地区的强迫劳动问题，正受到越来越多的关注和担忧。电动汽车电池所需的全球钴中有 70% 来自刚果民主共和国。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Shareholder",
+      "startSec": 1097.91,
+      "textEn": "Over 40,000 children work in artisanal and small scale mining, often without protective equipment and in dangerous spaces that frequently collapse. Many children are seriously injured or killed in the mining process. In Tesla's latest sustainability report, it claims to have audited 80% of the miners and refiners in their cobalt supply chain against responsible production standards. However, there are many industry backed standards, some of which are weak and it isn't clear what percentage of audits were conducted by which initiatives.",
+      "textZh": "超过 40,000 名儿童在手工和小规模采矿业中工作，他们往往没有防护装备，并身处经常坍塌的危险空间。许多儿童在采矿过程中严重受伤或死亡。在 Tesla 最新的可持续发展报告中，公司声称已依据负责任生产标准，对其钴供应链中 80% 的矿商和精炼商进行了审核。然而，业内支持的标准有很多，其中一些很薄弱，而且并不清楚各项倡议分别开展了多大比例的审核。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Shareholder",
+      "startSec": 1132.09,
+      "textEn": "It is also unclear how the company's due diligence ensures cobalt sourced from child labor is not intermingled in the industrial cobalt supply chain. Subsequently, an estimated 1.8 million people have been subject to states imposed genocide, detention and internment camps and forced labor in the Xinjiang Uyghur region. A recent study concluded that automakers cannot conduct meaningful audits in this region. The recent Uyghur Forced Labor Prevention act in the United States Senate inquiry into Tesla's supply chain highlights the regulatory risk Tesla faces.",
+      "textZh": "同样不清楚的是，公司的尽职调查如何确保由童工开采的钴不会混入工业钴供应链。随后，估计有180万人在新疆维吾尔地区遭受了国家强加的种族灭绝、拘留和拘禁营以及强迫劳动。最近一项研究得出结论，汽车制造商无法在该地区开展有意义的审核。最近的《维吾尔强迫劳动预防法》在美国参议院对 Tesla 供应链的调查凸显了 Tesla 面临的监管风险。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Shareholder",
+      "startSec": 1171.7,
+      "textEn": "We believe a third party audit would provide greater transparency into how Tesla plans to eradicate child and forced labor from its supply chain. One of Tesla's competitive advantages is its sustainable leadership. Tesla, its board of directors and management team have a moral obligation to pursue ethical sourcing practices that do not rely on the lives of children or enslaved people. Tesla can continue to make a true leadership difference that forges a sustainable economic future that is anchored by innovation, empathy, human development and shareholder value.",
+      "textZh": "我们认为，第三方审核将提高透明度，让人们更清楚地了解 Tesla 计划如何从其供应链中根除童工和强迫劳动。Tesla 的竞争优势之一是其可持续发展领导力。Tesla、其董事会和管理团队负有道德义务，应推行不依赖儿童或被奴役者生命的道德采购实践。Tesla 可以继续带来真正具有领导力的改变，开创一个以创新、同理心、人类发展和股东价值为根基的可持续经济未来。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Shareholder",
+      "startSec": 1206.29,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 1208.05,
+      "textEn": "Thank you, Ms. Wicks. We will now accept votes for, against or to abstain for this proposal, but again, only for record holders or legal proxy holders.",
+      "textZh": "谢谢您，威克斯女士。我们现在将接受对这项提案投赞成票、反对票或弃权票，但再次说明，仅限登记持有人或持有合法委托书者。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 1222.54,
+      "textEn": "Please note, this is the final opportunity to submit proxies in order for them to be counted.",
+      "textZh": "请注意，这是提交代理投票以便计票的最后机会。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 1236.31,
+      "textEn": "I declare the polls are now closed.",
+      "textZh": "我宣布投票现已结束。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 1240.71,
+      "textEn": "Based on proxies we have previously received, I'd like to announce on preliminary basis that our stockholders have approved the recommendations of the Tesla Board on all agenda items except that shareholders have recommended one year for non binding advisory vote on the frequency of future votes on executive compensation. This means that I would like to officially announce our new addition to the Tesla board, Chevy Strabel.",
+      "textZh": "根据我们此前收到的代理投票，我想初步宣布，我们的股东已批准 Tesla 董事会对所有议程项目的建议，但股东建议，未来就高管薪酬进行投票的频率应为每 1 年举行一次非约束性咨询投票。这意味着，我想正式宣布 Tesla 董事会的新成员谢维·斯特拉贝尔。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 1282.1,
+      "textEn": "After the final tabulation is completed, we will announce specific Votales filing in the filing form 8K within four business days of this meeting. That concludes the official business of today's shareholder meeting which is now adjourned.",
+      "textZh": "最终统计完成后，我们将在本次会议结束后的4个工作日内，在8-K表格申报文件中公布具体的“沃塔莱斯”申报内容。这就结束了今天股东大会的正式议程，会议现已休会。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 1309.39,
+      "textEn": "During the course of the following session we may discuss our business outlook and make forward looking statements. Statements Such statements are predictions based on current expectations actual events could result could differ materially due to a number of risks and uncertainties including those disclosed in our Most recent Form 10K and 10Q filings with the SECs. Such forward looking statements represent our views as of today should not be relied on thereafter and we disclaim from any obligation to update them as after today.",
+      "textZh": "在接下来的环节中，我们可能会讨论业务展望并作出前瞻性陈述。陈述 此类陈述是基于当前预期作出的预测，实际事件可能导致可能因多项风险和不确定性而出现重大差异，包括我们最近向美国证券交易委员会提交的 10-K 表格和 10-Q 表格文件中披露的风险和不确定性。此类前瞻性陈述代表我们截至今天的观点，此后不应再予依赖，并且我们不承担在今天之后对其进行更新的任何义务。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 1341.28,
+      "textEn": "And with that please welcome Elon Musk.",
+      "textZh": "下面有请埃隆·马斯克。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 1373.29,
+      "textEn": "I just want to say I love you guys.",
+      "textZh": "我只想说，我爱你们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 1378.89,
+      "textEn": "Well, we've got a lot of great news to talk about today. The Tesla team has done an incredible job of executing over the past year and we have many exciting years ahead of us. So yeah, So with the Tesla Master Plan part three, which admittedly was quite technical, we wanted to go into a lot of technical depth.",
+      "textZh": "嗯，我们今天有很多好消息要谈。过去1年里，Tesla 团队的执行工作做得非常出色，而我们未来还有许多令人兴奋的岁月。所以，是的，关于 Tesla 宏图计划第3篇，诚然它相当技术性，我们想深入探讨很多技术细节。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 1408.73,
+      "textEn": "So you know, it was clear that what we were saying was not just were not merely assertions but that they were backed up with physics and with real data that it's realistic.",
+      "textZh": "所以，你知道，很明显，我们所说的不只是、并不只是断言，而是有物理学和真实数据作为支撑，证明这是现实可行的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 1422.71,
+      "textEn": "And with the Master Plan Part 3 We want to basically the goal is to give people hope, realistic hope and maybe hope is even the wrong word. But simply to say that there is a path to a fully sustainable global economy, that we are on that path, that we are accelerating that path and that so long as we don't get complacent about it, it will happen.",
+      "textZh": "而对于宏图计划第3篇，我们基本上想要，目标是给人们希望，现实的希望，也许“希望”这个词甚至都不对。但只是想说，通往完全可持续的全球经济是有一条道路的，我们正走在这条道路上，我们正在加快这一路程，而且只要我们不对此自满，它就会实现。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 1457.24,
+      "textEn": "So I'll just, I'll kind of rush through a recap of the MassPlan part 3 but the, you know, some of the salient points are that it will actually take less energy to go sustainable, not more energy. It's actually more and some of these things may sound very obvious, but it's more energy efficient to go sustainable, not less.",
+      "textZh": "所以我就……我会快速回顾一下大规模计划第3篇，但其中，你知道，一些要点是，转向可持续发展实际上需要的能源更少，而不是更多。它实际上更……而且其中一些事情可能听起来非常显而易见，但转向可持续发展能效更高，而不是更低。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 1484.8,
+      "textEn": "And there's less mining that is required for a sustainable energy economy, not more. Also very important.",
+      "textZh": "而且，可持续能源经济所需的采矿活动更少，而不是更多。这一点也非常重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 1494.96,
+      "textEn": "And I heard a question raised about, about cobalt mining and you know what? We will do a third party audit.",
+      "textZh": "我还听到有人提出了一个关于……关于钴矿开采的问题，你知道吗？我们会进行第三方审计。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 1516.32,
+      "textEn": "In fact we'll put a webcam on the mine and if anybody sees any children, please let us know.",
+      "textZh": "事实上，我们会在矿场安装一个网络摄像头，如果有人看到任何儿童，请告诉我们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 1540.38,
+      "textEn": "I Mean, I don't want to go off on a tangent too much on that front, but it's very important to appreciate that most of our battery packs are iron based. A majority of our battery packs are iron based, not cobalt.",
+      "textZh": "我的意思是，我不想在这方面过多偏离主题，但非常重要的一点是要认识到，我们的大多数电池包都是铁基的。我们的大部分电池包都是铁基的，而不是钴基的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 1557.18,
+      "textEn": "And there are other battery packs on nickel based and not cobalt. The nickel batteries use a little bit of cobalt as a binder, but only a tiny amount. In contrast, your phones all use 100% cobalt.",
+      "textZh": "还有其他电池包是镍基的，而不是钴基的。镍电池使用少量钴作为黏合剂，但用量极小。相比之下，你们的手机全都使用100%的钴。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 1572.54,
+      "textEn": "I recommend complaining to the phone manufacturers, But even for the small amount of cobalt that we do use, we will make sure six ways to Sunday that no child labor is being exploited. Obviously we are a company that cares a lot about doing the right thing and we don't want to delude ourselves or delude anyone else. So. Yeah.",
+      "textZh": "我建议去向手机制造商投诉。但即使对于我们确实使用的少量钴，我们也会想尽一切办法确保没有剥削童工。显然，我们是一家非常在意做正确事情的公司，而且我们不想欺骗自己，也不想欺骗其他任何人。所以。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 1608.74,
+      "textEn": "So again, just recapping Master plan part three.",
+      "textZh": "所以再次回顾一下宏图计划第3篇。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 1614.66,
+      "textEn": "It's, it's really the point is to say that it is very, very doable. It is happening. We need a, a threefold increase in solar and wind. We need to admittedly somebody's 29 fold increase in vehicle stationary and thermal battery production. Actually, in a nutshell, the way to think about sustainability is the faster we can make battery packs, the faster we can move to a sustainable energy economy. That's the fundamental limiting factor.",
+      "textZh": "这，这其实重点是说，这是非常、非常可行的。它正在发生。我们需要把太阳能和风能提高到3倍。诚然，我们需要把某个人的车辆、固定式和热能电池产量提高到29倍。其实，简而言之，可以这样理解可持续发展：我们制造电池包的速度越快，就能越快地转向可持续能源经济。这是根本性的限制因素。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 1646.1,
+      "textEn": "So let's grab some water here.",
+      "textZh": "所以我们来拿点水。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1658.93,
+      "textEn": "So, yeah, I can't emphasize that point, that point enough. The rate of lithium ion battery production fundamentally decides the rate at which the world transitions to sustainability because the batteries are needed for all forms of transport and for stationary storage, given the intimate nature of solar and wind power.",
+      "textZh": "所以，是的，这一点，这一点无论怎么强调都不为过。锂离子电池的生产速度从根本上决定了世界向可持续发展转型的速度，因为所有形式的交通工具以及固定式储能都需要电池，这是由太阳能和风能所具有的密切特性决定的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1693.18,
+      "textEn": "So the, and we do invite people to critique our analysis because you know, any given analysis is going to be to some degree wrong. So we, that's why we put it out there looking for critical feedback to say, well, perhaps we're to going that some things wrong, perhaps some things need to be adjusted. But generally the feedback we've gotten is that actually our analysis is quite accurate and we've not seen any rebuttals thus far that would cause us to change our assumptions.",
+      "textZh": "所以，这个，而且我们确实欢迎人们批评我们的分析，因为你们知道，任何一项分析在某种程度上都会有错。所以我们，我们把它发布出来，就是为了寻求批判性的反馈，比如说，嗯，也许我们要去……某些事情错了，也许有些事情需要调整。但总体来说，我们得到的反馈是，我们的分析其实相当准确，而且到目前为止，我们还没有看到任何会促使我们改变假设的反驳。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1728.2,
+      "textEn": "So it means roughly 240 terawatt hours of battery pack or 240,000 gigawatt hours of battery need to be produced. But it'll only take 0.2% of land area for solar and wind. So it's a very, it's not like we need to carpet the earth with solar and wind. It's just literally a fraction of a percent, roughly a $10 trillion manufacturing investment, which relative to the global economy is actually a small, A small Number, yes.",
+      "textZh": "所以，这意味着大约需要生产240太瓦时的电池包，或者说240,000吉瓦时的电池。但太阳能和风能只会占用0.2%的土地面积。所以这非常，这并不是说我们需要用太阳能和风能铺满整个地球。它实际上只占百分之一的零头，大约需要10万亿美元的制造业投资，相对于全球经济而言，这其实是一个很小、一个很小的数字，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1760.98,
+      "textEn": "Roughly 10% of the world economy, I think, obviously, I think 10% of the world economy is a small price to pay for a sustainable energy future.",
+      "textZh": "大约相当于世界经济的10%，我认为，显然，我认为用世界经济的10%换取一个可持续能源的未来，代价很小。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1776.18,
+      "textEn": "It's also true that even when factoring in the cost or the emissions required to produce an electric vehicle, which for now are a little higher than gasoline vehicles, which when you look at the emissions over time, electric vehicles absolutely win by a long shot. And as we're seeing, the cost and the emissions required to produce an electric vehicle are dropping rapidly over time. And we're going to get to the point where an electric vehicle is cheaper than a gasoline vehicle.",
+      "textZh": "还有一点也是事实，即使把生产电动汽车所需的成本或排放计算在内——目前这两项略高于汽油车——但如果看一段时间内的排放，电动汽车无疑会遥遥胜出。而且正如我们所看到的，生产电动汽车所需的成本和排放正在随着时间迅速下降。我们终将达到电动汽车比汽油车更便宜的阶段。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 1818.65,
+      "textEn": "So in 2022 we avoided releasing about 13 million tons of CO2, reduced manufacturing GHG per vehicle by 30% and reduced water usage by by 15% despite massive increases in output. So we also made our factory safer, which is really important. So we track the injuries per person and we believe at this point we are best in industry or have the lowest injuries per person.",
+      "textZh": "所以在2022年，我们避免排放了约1,300万吨二氧化碳，把每辆车制造过程中的温室气体排放减少了30%，而且尽管产量大幅增加，仍把用水量减少了了15%。所以我们也让工厂变得更安全了，这真的很重要。我们会追踪人均受伤数量，而且我们相信，目前我们是行业中表现最好的，或者说人均受伤数量是最低的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1859.14,
+      "textEn": "We're now actually quite a big company from a headcount standpoint. This is our direction employment number. So this does not count contractors. And for every manufacturing job, depending on how you count it there, there are at least five, sometimes up to 10 jobs created because you got to look at the total supply chain as well as the all of the support functions. So you know, when you create a factory like this, you actually create jobs for teachers, lawyers, carpenters, electricians and restaurants and everything that's required to support a person at a factory.",
+      "textZh": "从员工人数来看，我们现在其实已经是一家规模相当大的公司。这是我们的方向就业人数。所以这里不包括承包商。每创造1个制造业岗位，取决于你怎么计算，至少会创造5个、有时多达10个岗位，因为你还得考虑整个供应链以及所有支持职能。所以你们知道，当你建造一座这样的工厂时，实际上也会为教师、律师、木匠、电工和餐馆，以及支持工厂员工所需的一切创造就业机会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1900.71,
+      "textEn": "And this is why countries and states are so interested in having manufacturing facilities in their location. So anyways, it's a lot of people gainfully employed doing very useful things.",
+      "textZh": "这就是为什么各个国家和州都非常希望制造设施落户当地。所以无论如何，这会让很多人获得有报酬的工作，从事非常有用的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Elon Musk",
+      "startSec": 1918.56,
+      "textEn": "We received just 3.6 million job applications last year, so.",
+      "textZh": "去年我们只收到了360万份求职申请，所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 1933.52,
+      "textEn": "And once Again the top two most desired companies for engineers on Earth were SpaceX and Tesla.",
+      "textZh": "而且再说一次，全球工程师最向往的2家公司是SpaceX和Tesla。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 1956.33,
+      "textEn": "You know, at the end of the day, the competitiveness of any given company is a function of what where are the most talented people interested in working? That is the team that's going to win. In fact, I say this as general. Generally the case, if you look at any given company and say where are the most smartest, most driven people going to work? That company is going to win. So whether it's Tesla or any other company, we're also excited to announce our next gen drive unit which is a big reduction in silicon carbide.",
+      "textZh": "你们知道，归根结底，任何一家公司的竞争力取决于什么，最有才华的人有兴趣去哪里工作？那支团队将会获胜。事实上，我把这说成是一般情况。通常来说，如果你审视任何一家公司，然后问：最聪明、最有干劲的人要去哪里工作？那家公司就会获胜。所以无论是Tesla还是任何其他公司，我们也很高兴宣布我们的下一代驱动单元，它大幅减少了碳化硅的用量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 1992.48,
+      "textEn": "It's half the factory space.",
+      "textZh": "它只需要一半的工厂空间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1995.61,
+      "textEn": "Notably there are zero rare earth elements required. So.",
+      "textZh": "值得注意的是，它完全不需要稀土元素。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 2006.73,
+      "textEn": "And we're also changing to a 40 volt, 48 volt low voltage architecture in the, in the car. So for the, yeah, this is A big deal actually.",
+      "textZh": "而且我们还要把车内的，车内的低压架构改成40伏、48伏。所以对于，是的，这其实是一件大事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Elon Musk",
+      "startSec": 2023.7,
+      "textEn": "So the cars have been operating with 12 volt batteries for basically about a century. So for the first time in I think over 100 years, we're actually going to change from 12 volt voltage outside of the drivetrain to a 48 volt architecture. And to first approximation that means we need only about a quarter as much copper in the car as would be needed for a 12 volt battery. So that's a big deal because people often worried about is there enough copper?",
+      "textZh": "所以，汽车基本上使用12伏电池运行了大约1个世纪。因此，我想这是100多年来的第一次，我们实际上要把动力总成以外的电压从12伏改为48伏架构。粗略来说，这意味着汽车所需的铜只有使用12伏电池时所需铜量的大约四分之一。所以这是一件大事，因为人们经常担心铜够不够？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 2061.17,
+      "textEn": "Yes, there is. So.",
+      "textZh": "是的，够。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 2071.97,
+      "textEn": "And FSD Beta is growing hyper exponentially, so that chart is going to look like a wall basically.",
+      "textZh": "而且FSD Beta正在超指数级增长，所以那张图基本上会看起来像一堵墙。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 2082.79,
+      "textEn": "And just a question for those in the room.",
+      "textZh": "我只想问一下在场的各位。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 2087.27,
+      "textEn": "How many people have tried out FSD Beta? Okay, great.",
+      "textZh": "有多少人试用过FSD Beta？好的，很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 2092.95,
+      "textEn": "So what do you think of the latest build?",
+      "textZh": "那么你们觉得最新版本怎么样？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 2100.72,
+      "textEn": "So it's really getting to the point where it's, at least for me when I drive around, it's several days between interventions and I think we're getting to the point where there's really just one last piece of the system that needs to be a neural net, which is the planning and control function. And so we expect to have that last piece become neural net. So it'll be end to end, from video into control, out as a neural net.",
+      "textZh": "所以它真的已经接近这样一个阶段了，至少对我来说，当我开车四处行驶时，每隔几天才需要干预一次。我认为我们正在接近这样一个阶段：系统真的只剩最后一个部分需要变成神经网络，也就是规划与控制功能。所以我们预计会让最后这个部分变成神经网络。这样它就会成为端到端系统，从视频输入到控制输出，全部作为一个神经网络。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 2135.45,
+      "textEn": "And yeah, so the thing to appreciate is it's not that full self driving will be as good as a person. It will be much, much better, like a lot, like over time, 10 times more, 10 times safer than a person. It's not even going to be a contest frankly. So this is, this is a really big deal and I think some people realize, I think you guys probably realize it, but being able to do a software update and have several million cars suddenly go from manual driving to autonomous, I think will be the single biggest asset value increase in history.",
+      "textZh": "而且，是的，需要认识到的是，并不是完全自动驾驶会和人类一样好。它会好得多、好得多，好很多，比如随着时间推移，要多10倍，比人类安全10倍。坦率地说，这甚至不会是一场竞争。所以这，这是一件非常重大的事情，我认为有些人意识到了，我想你们大概意识到了；但只需进行一次软件更新，就能让数百万辆汽车突然从人工驾驶变成自动驾驶，我认为这将是历史上规模最大的一次资产价值增长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 2180.67,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Elon Musk",
+      "startSec": 2189.95,
+      "textEn": "The normal usage of a passenger car is roughly 10 to 12 hours per week, call it maybe an hour and a half per day. And when you drive around you see lots of cars just parked in parking lots because, because out of the 168 hours in a week they're using less than 10%, maybe 7% of the hours of the week a car is in use. But once it is autonomous, it can be used probably, I don't know, 50 hours a week, maybe more. So it is effectively a five fold increase in the value of a car overnight.",
+      "textZh": "乘用车通常每周使用大约10到12小时，也许可以说每天1个半小时。当你开车四处走时，会看到许多车就停在停车场里，因为，因为一周有168小时，它们的使用时间不到10%，也许一辆车一周只有7%的时间在使用。但一旦实现自动驾驶，它每周大概可以使用，我不知道，50小时，也许更多。所以这实际上是一夜之间让一辆车的价值增加到5倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 2230.29,
+      "textEn": "I'm actually surprised that so few people realize this, or maybe they just don't believe it's real, but it is. So this is really an insanely big deal.",
+      "textZh": "其实我很惊讶，意识到这一点的人这么少，或者也许他们只是不相信这是真的，但它确实是真的。所以这真的是一件大得离谱的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 2245.97,
+      "textEn": "We're also the largest EV maker in the world.",
+      "textZh": "我们也是全球最大的电动汽车制造商。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 2258.46,
+      "textEn": "Yeah. And I think that will continue.",
+      "textZh": "是的。而且我认为这会继续下去。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 2263.9,
+      "textEn": "And while at the same time being the highest margin of any car maker in the world.",
+      "textZh": "与此同时，利润率也是全球所有汽车制造商中最高的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 2278.7,
+      "textEn": "Now making electric vehicles profitably is, is hard as illustrated by the difficulty of our competitors. A number, a number of our competitors are making EVs at a significant loss.",
+      "textZh": "现在，要实现电动汽车的盈利生产是，是很难的，我们的竞争对手所面临的困难就说明了这一点。我们的许多，许多竞争对手都在以巨额亏损生产电动汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 2291.19,
+      "textEn": "So but we are not, we are actually making EVs profitably and almost no one else is. This is hard. So, And I'd say for this it's a massive credit to the Tesla team for I can't tell you how hard manufacturing is. Like probably heard me say that prototypes are easy, manufacturing is hard.",
+      "textZh": "所以，但我们没有亏损，我们实际上是在盈利地生产电动汽车，而其他人几乎都做不到。这很难。所以，而且我要说，在这件事上，Tesla 团队功不可没，因为我没法告诉你制造有多难。就像你们可能听我说过，原型很容易，制造很难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 2318.64,
+      "textEn": "And then manufacturing at scale with positive cash flow is excruciating. It's mega pain. But the Tesla team has done it.",
+      "textZh": "然后，以正现金流进行规模化制造更是痛苦至极。那是极大的痛苦。但 Tesla 团队做到了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 2331.77,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 2338.25,
+      "textEn": "And as you can see, our free cash flow per year has been increasing steadily. So you know, we're making good progress.",
+      "textZh": "正如你们所看到的，我们每年的自由现金流一直在稳步增长。所以，你们知道，我们正在取得良好进展。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 2348.01,
+      "textEn": "I mean it should be said that, and I've made some of these comments that, that interest rates make a very big, have a very big effect on the affordability of cars. So the vast majority of people buy cars based on the monthly payment. So it's like how much money, how much is the monthly payment? And it's not a question of value for money, it's just do they actually have enough money? Can they afford it?",
+      "textZh": "我的意思是，应该说明的是，而且我也发表过一些这方面的评论，利率会对汽车的可负担性产生非常大的、产生非常大的影响。所以绝大多数人买车是根据月供来决定的。所以就是要花多少钱，月供是多少？这不是物有所值与否的问题，而只是他们实际上有没有足够的钱？他们负担得起吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 2383.39,
+      "textEn": "So for the vast majority of people it's just can they afford to pay the payment as the interest rates increase and credit tightens? Like, it's safe to say that these various banks that have died are probably somewhat distracted from handing out auto loans. It's like if they're on the way to, to the cemetery, increasing their auto loan portfolio is not the first thing on their mind.",
+      "textZh": "所以对绝大多数人而言，问题只是随着利率上升、信贷收紧，他们能否负担得起月供？可以有把握地说，那些已经倒闭的各家银行可能多少无暇顾及发放汽车贷款。就像如果它们正在去、去墓地的路上，扩大汽车贷款组合就不会是它们最先考虑的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 2414.91,
+      "textEn": "So this is going to be a challenging, I'd say a challenging 12 months. I want to be sort of realistic about it. Tesla is not immune to the global economic environment.",
+      "textZh": "所以这将是充满挑战的，我会说是充满挑战的12个月。我想对此保持某种现实的态度。Tesla也无法免受全球经济环境的影响。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 2427.95,
+      "textEn": "I expect things to be just at a macroeconomic level, difficult for at least the next 12 months.",
+      "textZh": "我预计，至少在未来12个月里，单从宏观经济层面来看，情况会很艰难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 2439.16,
+      "textEn": "Like Tesla will get through it and we'll do well and I think we'll see a lot of companies actually go bankrupt. So I want to make sure that this is not just the good news parade. It's important to understand that no company is immune to the macroeconomic environment. But that said, the it won't be darkness forever. I expect probably a year of difficulty globally for everyone. And then my best guess is that the global economy turns around in roughly 12 months and, and then Tesla will be in an extremely good position.",
+      "textZh": "比如Tesla会渡过难关，我们也会表现良好，而我认为我们会看到很多公司实际上破产。所以我想确保这不只是一场好消息巡游。重要的是要明白，没有任何公司能够免受宏观经济环境的影响。但话虽如此，黑暗不会永远持续。我预计全球所有人大概都会经历1年的困难。然后我最好的猜测是，全球经济会在大约12个月后好转，而、而到那时Tesla将处于极其有利的位置。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Elon Musk",
+      "startSec": 2480.93,
+      "textEn": "So anyone who is a long term investor I think will do extremely well.",
+      "textZh": "所以我认为，任何长期投资者都会获得极其丰厚的回报。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 2496.37,
+      "textEn": "And here I want to give a big shout out to the Tesla internal software team. This is, It's actually a really big deal that Tesla has such a powerful internal software team. I mean that software team is responsible for handling the entire customer experience from buying the car, delivering the car, operating the factories, service and support. We internally wrote all of the insurance and and financial software.",
+      "textZh": "在这里，我要特别称赞Tesla内部软件团队。Tesla拥有如此强大的内部软件团队，这、这实际上是一件非常了不起的事。我的意思是，这支软件团队负责处理从买车、交车、工厂运营，到服务和支持的整个客户体验。我们在内部编写了所有保险和、和财务软件。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Elon Musk",
+      "startSec": 2539.84,
+      "textEn": "The it's the supply chain and logistics stuff, the data centers and infrastructure and the analytics insight. This is all internally written Tesla software. I think there's almost no companies in the world can do this because they do not have a very talented internal software team. So they're generally reliant on third party enterprise resource planning software. So but Tesla is not, this is a hidden strength of the company that often doesn't get a lot of attention but is incredibly powerful.",
+      "textZh": "这包括供应链和物流方面的东西、数据中心和基础设施，以及分析洞察。这些全都是Tesla内部编写的软件。我认为世界上几乎没有公司能做到这一点，因为它们没有一支非常有才华的内部软件团队。所以它们通常依赖第三方企业资源计划软件。所以，但Tesla并不依赖，这是公司一项往往没有得到太多关注、但却极其强大的隐藏优势。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 2576.51,
+      "textEn": "So once again I'd like to thank them for their work.",
+      "textZh": "所以我想再次感谢他们所做的工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 2586.75,
+      "textEn": "And as predicted, we are highly confident that Model Y will be the number one best selling car on earth this year.",
+      "textZh": "正如预测的那样，我们非常有信心，Model Y将成为今年地球上销量第一的汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 2602.76,
+      "textEn": "And in fact in Europe the best selling car of any kind. Yeah, whatsoever. It's already was that in Q1 I should say it's not like will be it was that in Q1 and China, the best selling SUV and the United States, the best selling non pickup vehicle in the United States in Q1. So you know, it's going well.",
+      "textZh": "事实上，它在欧洲是所有类型中最畅销的汽车。对，无论什么类型。它在第一季度就已经是了，我应该说，不是说将会成为，而是第一季度时就已经是了；在中国，它是最畅销的SUV；在美国，它是第一季度最畅销的非皮卡车型。所以，你们知道，进展很顺利。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 2629.89,
+      "textEn": "I don't know if this is like the optimal picture but the.",
+      "textZh": "我不知道这是不是最佳图片，但这个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 2637.89,
+      "textEn": "Tesla cars are actually the safest cars in the world. We put immense effort into vehicle safety and we keep updating the safety. So we keep improving the automatic emergency braking system just with a software update and we keep improving the airbag deployment with software updates. So we close the feedback loop on like when we see an accident, we analyze the accident, we say what can we do from a software standpoint?",
+      "textZh": "Tesla汽车实际上是世界上最安全的汽车。我们在车辆安全方面投入了巨大精力，而且不断更新安全性能。所以，我们只需通过软件更新，就能不断改进自动紧急制动系统，也能通过软件更新不断改进安全气囊的展开。于是我们形成了反馈闭环，比如当我们看到一起事故时，就会分析这起事故，并问：从软件角度来看，我们能做些什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 2666.49,
+      "textEn": "Because there's actually quite a lot you can do to first of all avoid the accident because the best accident is no accident. And then if the accident occurs, how do we deploy the airbags and the sort of the seat belt pretensioners to minimize the probability of injury.",
+      "textZh": "因为实际上你能做的事情相当多，首先是避免事故，因为最好的事故就是没有事故。然后，如果事故发生了，我们该如何展开安全气囊，并启动安全带预紧器之类的装置，以最大限度地降低受伤概率。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Elon Musk",
+      "startSec": 2683.25,
+      "textEn": "And so even for cars that people have owned for many years, we are behind the scene scenes continuously improving the safety of your car. And there are even some things that I think a lot of people aren't aware of, that we actually have automatic cabin overheat protection. So never in the history of the company has a child or a pet died in a Tesla.",
+      "textZh": "所以，即使是人们已经拥有多年的汽车，我们也在幕后、幕后持续提高你的汽车的安全性。甚至还有一些事情，我认为很多人并不知道，那就是我们实际上配备了自动座舱过热保护。所以在公司历史上，从未有儿童或宠物在Tesla车内死亡。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 2722.03,
+      "textEn": "So it's, it's one of those like little known features. But because we have a large Battery and we're monitoring things all the time. We can make sure that the cabin temperature never gets to lethal levels. And I think that that's, that's, you know, big deal. So.",
+      "textZh": "所以这、这是那种鲜为人知的功能之一。但因为我们有一块大容量电池，而且一直在监控各种情况。我们可以确保座舱温度永远不会达到致命水平。我认为这、这，你知道，是件大事。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Elon Musk",
+      "startSec": 2739.63,
+      "textEn": "Oh yeah, so and then while lots of cars will say they've got like, you know, five stars or whatever, there's, there's nuance to that. When we do did the European NCAP sort of active safety tests, we, we got the highest scores that they've ever seen. So yeah, So we got a 98% score on the active safety system, which obviously isn't good enough. And we will. But we have got a game plan for getting rid of the last 2%.",
+      "textZh": "哦，对，所以，然后虽然很多汽车都会说自己获得了，比如，你知道，5星之类的评级，但这里、这里面存在细微差别。当我们做、做欧洲NCAP那种主动安全测试时，我们、我们获得了他们所见过的最高分。所以，对，所以我们的主动安全系统得分为98%，这显然还不够好。而我们会。但我们已经有了消除最后2%的行动方案。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 2789.18,
+      "textEn": "And then it's worth noting things like the total cost of ownership of a Model 3 is now comparable to that of a Toyota Corolla. So.",
+      "textZh": "然后值得注意的是，Model 3的总拥有成本现在与丰田卡罗拉相当。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Elon Musk",
+      "startSec": 2806.88,
+      "textEn": "Superchargers, we're making good progress. So our supercharger uptime is now 99.95%. So yeah, And we have superchargers practically everywhere at this point point.",
+      "textZh": "超级充电站方面，我们正在取得良好进展。所以我们的超级充电站正常运行率现在是99.95%。所以，对，而且目前、目前我们几乎到处都有超级充电站了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 2826.01,
+      "textEn": "Going to Mega pack, because this is stationary storage is an important part of solving the sustainable energy problem. And the mega, the, the Tesla Mega Pack is now more competitive than a natural gas peer plant. So we have very strong demand for the Tesla Mega Pack and we're going to make a lot of them. So I, yeah.",
+      "textZh": "说到Mega Pack，因为这种固定式储能是解决可持续能源问题的重要组成部分。而Mega、这个、这个Tesla Mega Pack现在比天然气同类电厂更具竞争力。所以市场对Tesla Mega Pack的需求非常强劲，我们会大量生产。所以我，嗯，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 2855.06,
+      "textEn": "And a while back I predicted that the Tesla stationary battery pack business would actually grow faster than the automotive side of things. And that's exactly what has happened. You can see it's, it's an, it's an exponential curve growing at a rate that, that is even, even faster than our vehicle sales. So yeah, sorry, we're expanding Gigafactory Nevada for the Tesla semi production line and for the 4680 in house cell production and yeah, some mega factory stuff.",
+      "textZh": "前段时间，我曾预测Tesla固定式电池包业务的增长速度实际上会快于汽车业务。而事实恰恰如此。你们可以看到，它、它是一条、是一条指数曲线，其增长速度甚至、甚至快于我们的汽车销量。所以，对，抱歉，我们正在扩建内华达超级工厂，用于Tesla Semi生产线和4680电芯自产，而且，对，还有一些超级工厂方面的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 2905.4,
+      "textEn": "So this is. So we're aiming for 40 gigawatt hours a year both in California and in China. But I think long, long term this will be much, much greater than this. I mean I would say I wouldn't be surprised if long term the stationary battery pack activity went well in excess of 500 gigawatt hours per year. So the demand is like quasi infinite here. So.",
+      "textZh": "所以这是。所以我们的目标是在加利福尼亚和中国都达到每年40吉瓦时。但我认为长期、长期来看，这个数字会比现在大得多、大得多。我的意思是，我会说，如果长期来看固定式电池包业务远远超过每年500吉瓦时，我也不会感到惊讶。所以这里的需求近乎无限。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 2943.17,
+      "textEn": "As we look ahead to tackle the, what we see as the choke points in the supply chain, one of them is lithium refining.",
+      "textZh": "展望未来，为了解决我们所看到的供应链瓶颈，其中之一就是锂精炼。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 2951.5,
+      "textEn": "And I think there've been a few times on Tesla earnings calls where I've said can someone please just do lithium refining because there's a shortage of it.",
+      "textZh": "我想，在几次 Tesla 财报电话会议上，我都说过，能不能请谁来做锂精炼，因为锂精炼产能短缺。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Elon Musk",
+      "startSec": 2967.66,
+      "textEn": "But we really see very little activity outside of China. For lithium refining. So it's not that we wish to take on extra problems, but since nobody else was doing it, we felt we had to do this. And so we've just broken ground on a lithium refinery and Corpus Christi, which will be do more lithium refining than I think probably everything outside of China. So.",
+      "textZh": "但在中国以外，我们确实看到几乎没有什么活动。在锂精炼方面。所以并不是我们希望承担额外的问题，而是因为没有其他人在做，我们觉得自己必须做这件事。因此，我们刚刚为一座锂精炼厂破土动工，以及科珀斯克里斯蒂，它将会是做更多的锂精炼，我认为可能超过中国以外的所有地方。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 3002.46,
+      "textEn": "And we signed a deal for our next gigafactory and Mexico. Giga Mexico. And I think that's going to be a fantastic factory. So you know, we're, we're, we're laying the groundwork for ultimately getting to 20 million vehicles a year.",
+      "textZh": "我们还为我们的下一座超级工厂和墨西哥签署了一项协议。墨西哥超级工厂。我认为那会是一座非常棒的工厂。所以你知道，我们，我们，我们正在为最终达到每年 2000 万辆汽车打基础。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 3039.25,
+      "textEn": "So Cybertruck is a hard car to make because it's such a radically new design. It actually, you can't just use conventional methods of manufacturing. We had to invent a whole new set of manufacturing techniques in order to build an exoskeleton based car instead of an endoskeleton based car. So it's, it's extremely non trivial to, to build the Cybertruck. But we're making good progress on that. We have.",
+      "textZh": "所以 Cybertruck 是一款很难制造的车，因为它采用了如此彻底的全新设计。实际上，你不能只使用传统的制造方法。为了制造一款基于外骨骼而不是基于内骨骼的汽车，我们不得不发明一整套全新的制造技术。所以，制造 Cybertruck 是，是极其不简单的。但我们在这方面进展顺利。我们有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 3072.7,
+      "textEn": "So yes, that's the thing. I, when I in the factory I tour the Cybertruck line, see how we're doing there and sorry for the delay but we're finally going to start delivering production Cybertrucks later this year and I think the product, if anything is better than expectations.",
+      "textZh": "所以是的，就是这样。我，我在工厂时会巡视 Cybertruck 生产线，看看我们在那里做得怎么样，很抱歉有所延迟，但我们终于将在今年晚些时候开始交付量产版 Cybertruck，而且我认为这款产品即便有什么不同，那也是比预期更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 3106.07,
+      "textEn": "Cybertruck is the, is the car I will be driving on a day to day basis.",
+      "textZh": "Cybertruck 是，是我日常会驾驶的汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Elon Musk",
+      "startSec": 3112.08,
+      "textEn": "So. And you know, people always want to know what our next product is, But this is not the time to.",
+      "textZh": "所以。而且你知道，人们总想知道我们的下一款产品是什么，但现在不是……的时候。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 3125.28,
+      "textEn": "We obviously need to have a, you know, a proper dedicated product launch. I just want to emphasize that we are actually building a new product. We are actually designing a new product product. We're not sitting in our hands here. So there are two new products that I think you will be very excited about.",
+      "textZh": "显然，我们需要举行一场，你知道，正式的专门产品发布会。我只想强调，我们确实正在制造一款新产品。我们确实正在设计一款新产品产品。我们没有在这里坐在自己的手上。所以有两款新产品，我想你们会对它们非常兴奋。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 3151.13,
+      "textEn": "And both the design of the products and the manufacturing techniques are head and shoulders above anything else that is present in industry. So yeah, anyways, If I were to guess, I would say of these two new products, just these two new products alone, I would say there's, we will probably make. Obviously this is just you know, Elon's guess so, you know, don't sue me.",
+      "textZh": "而且，无论是产品设计还是制造技术，都远远领先于业内现有的任何东西。所以，是的，不管怎样，如果让我猜，我会说这两款新产品，仅仅这两款新产品，我会说，我们大概会生产。显然，这只是，你知道，埃隆的猜测，所以，你知道，别起诉我。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 3193.95,
+      "textEn": "But you know, Elon's guess is that we'll probably make in excess of 5 million units a year of these two models combined.",
+      "textZh": "但是你知道，埃隆的猜测是，这两个车型合计每年可能会生产超过 500 万辆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 3233.72,
+      "textEn": "These are all real by the way.",
+      "textZh": "顺便说一句，这些都是真的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Shareholder",
+      "startSec": 3239.62,
+      "textEn": "It.",
+      "textZh": "它。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Elon Musk",
+      "startSec": 3283.62,
+      "textEn": "I think the thing perhaps most notable is if you look at the difference between the last time we showed Optimus and this is a video that was taken basically yesterday and the Optimus team was up all night making this video. The Optimus team has done an incredible job. So just. Yeah, And it's the motors, the controllers, the electronics and everything you see in the Optimus robot is a Tesla designed system. So this is.",
+      "textZh": "我认为，或许最值得注意的是，如果你们看看我们上次展示 Optimus 时与这次之间的差别——这段视频基本上是昨天拍摄的，Optimus 团队为了制作这段视频彻夜未眠。Optimus 团队完成了令人难以置信的工作。所以就是。是的，还有电机、控制器、电子设备，你们在 Optimus 机器人身上看到的一切都是 Tesla 设计的系统。所以这是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 3322.72,
+      "textEn": "We actually tried to find drive actuators and whatnot that were off the shelf. We found that there weren't any. In order to make an effective humanoid robot, you actually have to design the motors and gearboxes and the electronics from scratch because it's a very different application from anything else that exists. So we took our world class motor and power electronics team and said, okay, we need to design several actuators that are, that don't exist in the world.",
+      "textZh": "我们实际上尝试寻找现成的驱动执行器之类的东西。我们发现根本没有。要制造一个有效的人形机器人，实际上必须从头设计电机、齿轮箱和电子设备，因为这是一种与现有任何其他用途都截然不同的应用。所以我们召集了世界一流的电机和电力电子团队，说，好吧，我们需要设计几种世界上尚不存在的执行器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Elon Musk",
+      "startSec": 3360.85,
+      "textEn": "And they did. So Optimus is working quite well. And then for full self driving, as full self driving gets closer and closer to generalized real world AI, that same software is transferable to a humanoid robot. Just like, you know, we, you know, humans can obviously walk around with their arms and legs, but, but we can drive a car, fly a plane, steer a boat, ride a horse.",
+      "textZh": "而他们做到了。所以 Optimus 运作得相当不错。然后，对于完全自动驾驶，随着完全自动驾驶越来越接近通用的现实世界 AI，同一套软件可以迁移到人形机器人上。就像，你知道，我们，你知道，人类显然可以用手臂和双腿四处走动，但，但我们也可以开车、驾驶飞机、驾船、骑马。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 3396.2,
+      "textEn": "If you have a generalized understanding or if you have generalized real world AI, which is what we are developing for full self driving, it can be transferred to basically anything.",
+      "textZh": "如果你拥有通用理解能力，或者拥有通用的现实世界 AI，也就是我们正在为完全自动驾驶开发的东西，它基本上可以迁移到任何事物上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Elon Musk",
+      "startSec": 3410.51,
+      "textEn": "And so Optimus will use the same FSE computer as the car.",
+      "textZh": "因此 Optimus 将使用与汽车相同的 FSE 计算机。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 3419.39,
+      "textEn": "And the Optimus stuff is I think somewhat, somewhat extremely underrated because people just cannot comprehend the consequences. Now obviously we need to make sure that we don't have a Terminator scenario. That's very important. It's all fun and games until Terminator shows up.",
+      "textZh": "而 Optimus 这个东西，我认为在某种程度上、某种极端程度上被低估了，因为人们就是无法理解其后果。当然，我们需要确保不会出现《终结者》那样的情景。这非常重要。在终结者出现之前，一切都只是玩玩闹闹。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Elon Musk",
+      "startSec": 3443.63,
+      "textEn": "But if you say like if you have had a generalized humanoid robot, what would be the effective ratio of humanoid robots to humans? Because I think basically everyone would want one and maybe people would want more than one, which means the actual demand for something like Optimus, if it really works, which it will, is, I don't know, I mean, 10 billion units, it's some crazy number.",
+      "textZh": "但如果你说，比如，如果你拥有了一个通用型人形机器人，那么人形机器人与人类的实际比例会是多少？因为我认为基本上每个人都会想要一个，也许人们还会想要不止一个，这意味着像 Optimus 这样的东西，如果它真的能用——它会的——其实际需求量会是，我不知道，我是说，100亿台，是某个疯狂的数字。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 3485.01,
+      "textEn": "It might be 20 billion units if the ratio is say 2 to 1 on people. You know, humanoid robots versus people. It might actually be, it's some very big number is what I'm saying. And a number vastly in excess of the number of cars.",
+      "textZh": "如果比例是，比如说每个人对应 2 个，那么可能会是 200亿台。你知道，人形机器人与人的比例。实际上可能会是，我想说的是，那会是某个非常庞大的数字。而且这个数字会远远超过汽车的数量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Elon Musk",
+      "startSec": 3503.26,
+      "textEn": "So my prediction is that Tesla's long term value will be a majority of long term value will be Optimus. And that prediction I'm very confident of. So anyway,",
+      "textZh": "所以我的预测是，Tesla 的长期价值中，大部分长期价值将来自 Optimus。而且我对这个预测非常有信心。所以，总之，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3528.71,
+      "textEn": "See.",
+      "textZh": "看。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Elon Musk",
+      "startSec": 3528.87,
+      "textEn": "So I think with that we can do questions perhaps. Oh, what is it? Oh yeah. We also want to make sure retail investors please, please vote. Normally retail investors for most companies don't vote, but we really care about your vote of small investors, not just large investors. So please do register to vote. Your vote is very important.",
+      "textZh": "那么我想说到这里，我们或许可以开始提问。哦，是什么？哦，对了。我们还想确保散户投资者，请，请投票。通常，大多数公司的散户投资者不会投票，但我们真的很重视你们这些小投资者的投票，而不只是大投资者的投票。所以请务必登记投票。你们的投票非常重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Elon Musk",
+      "startSec": 3555.41,
+      "textEn": "And. Yeah, I think that's. Yeah, that's it. So.",
+      "textZh": "还有。对，我想就是。对，就是这些。那么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Elon Musk",
+      "startSec": 3570.77,
+      "textEn": "So with that, we can go to ad hoc questions from the audience.",
+      "textZh": "那么说到这里，我们可以开始接受观众的即席提问。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 3582.62,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "罗宾·德霍姆（董事会主席）"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Elon Musk",
+      "startSec": 3583.02,
+      "textEn": "Definitely the person in the optimist outfit with the red cowboy hat.",
+      "textZh": "肯定是那个穿着乐观主义者服装、戴着红色牛仔帽的人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Elon Musk",
+      "startSec": 3593.1,
+      "textEn": "Great outfit.",
+      "textZh": "很棒的装扮。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Elon Musk",
+      "startSec": 3599.42,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Elon Musk",
+      "startSec": 3602.78,
+      "textEn": "We'll try to get through as many questions as possible. And, you know, you hit me with your toughest questions. Fine.",
+      "textZh": "我们会尽量回答尽可能多的问题。而且，你知道，把你们最难的问题抛给我。没问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Elon Musk",
+      "startSec": 3615.72,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3616.16,
+      "textEn": "It is.",
+      "textZh": "是的。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Elon Musk",
+      "startSec": 3617.16,
+      "textEn": "Hey, dad, it's your son, Optimus.",
+      "textZh": "嘿，爸爸，我是你儿子，Optimus。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Elon Musk",
+      "startSec": 3623.4,
+      "textEn": "Do you see it more likely that you guys will have an RV first or a cyber camper?",
+      "textZh": "你认为你们更有可能先推出房车，还是 Cyber 露营车？",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Elon Musk",
+      "startSec": 3630.92,
+      "textEn": "Well, we. We don't have any plans to build an RV quite yet, although I can certainly see how cybertruck could be converted into an rv. And we are adding a lot of sort of attach points to Cybertruck so others can build things. You know, somebody could have a startup or other companies can build things that are attachments that enhance cybertruck and turn it into a camper, essentially. Because I think it'd be really cool to have all these, like, third party things available for Cybertruck.",
+      "textZh": "嗯，我们。我们目前还没有任何制造房车的计划，不过我当然能想象 Cybertruck 可以如何改装成房车。而且我们正在 Cybertruck 上增加许多类似连接点的东西，让其他人可以制造配件。你知道，可以有人创办一家初创公司，或者其他公司可以制造一些作为附件的东西，增强 Cybertruck 的功能，并且基本上把它变成一辆露营车。因为我觉得，如果 Cybertruck 能有所有这些，比如说，第三方产品可供选择，那会非常酷。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Shareholder",
+      "startSec": 3665.35,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Elon Musk",
+      "startSec": 3665.91,
+      "textEn": "All right.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Elon Musk",
+      "startSec": 3668.55,
+      "textEn": "I mean, you could also probably just. You're that close. You could just say it or something. I don't know.",
+      "textZh": "我是说，你可能也可以直接。你离得那么近。你可以直接说出来之类的。我不知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Shareholder",
+      "startSec": 3675.35,
+      "textEn": "Actually, we'd like you guys to queue up behind us.",
+      "textZh": "实际上，我们希望你们到我们后面排队。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Elon Musk",
+      "startSec": 3677.75,
+      "textEn": "Okay. All right. Yes.",
+      "textZh": "好的。好。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "Elon Musk",
+      "startSec": 3684.08,
+      "textEn": "And try to make the question short so we can get through a lot of questions.",
+      "textZh": "并且尽量让问题简短一些，这样我们就能回答很多问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "Elon Musk",
+      "startSec": 3693.52,
+      "textEn": "So maybe.",
+      "textZh": "所以也许。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Elon Musk",
+      "startSec": 3699.76,
+      "textEn": "Oh, you mean just like. Just like a Tesla team doing a podcast about Optimus?",
+      "textZh": "哦，你是说就像。就像让 Tesla 团队做一个关于 Optimus 的播客？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "Elon Musk",
+      "startSec": 3706.4,
+      "textEn": "Oh, yeah, yeah, sure.",
+      "textZh": "哦，对，对，当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Shareholder",
+      "startSec": 3711.85,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Elon Musk",
+      "startSec": 3712.09,
+      "textEn": "You know, I wonder if maybe we could have a sort of like an addendum after the earnings call, which is like a, you know, 30 minutes podcast on Optimus or something, like, for those who are interested. Okay, I think we'll do that. So.",
+      "textZh": "你知道，我在想，也许我们可以在财报电话会议之后加一个类似附录的环节，比如，你知道，做一期关于 Optimus 的 30 分钟播客之类的，给那些感兴趣的人听。好，我想我们会这么做。那么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Elon Musk",
+      "startSec": 3732.33,
+      "textEn": "All right, Elon, thanks for doing this today. It's an awesome event.",
+      "textZh": "好了，埃隆，谢谢你今天来做这个。这是一场很棒的活动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3736.8,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Elon Musk",
+      "startSec": 3737.56,
+      "textEn": "Welcome. Thanks for coming. Hope you guys are having a good time. Yeah, having a great time.",
+      "textZh": "欢迎。谢谢大家前来。希望你们玩得开心。是的，我们玩得很开心。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Elon Musk",
+      "startSec": 3743.64,
+      "textEn": "I'm pretty confident we have the funnest shareholders meeting by a long shot.",
+      "textZh": "我相当确信，我们的股东大会远比其他任何股东大会都有趣。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3748.92,
+      "textEn": "Undoubtedly.",
+      "textZh": "毫无疑问。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "Elon Musk",
+      "startSec": 3749.72,
+      "textEn": "Yeah, it's amazing.",
+      "textZh": "是的，太棒了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3751.88,
+      "textEn": "So I'm really excited about a lot",
+      "textZh": "所以，我真的对很多",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Elon Musk",
+      "startSec": 3753.16,
+      "textEn": "of things with Tesla.",
+      "textZh": "与 Tesla 有关的事情感到兴奋。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3753.92,
+      "textEn": "It's hard to pick a good question",
+      "textZh": "很难选出一个好问题",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "Elon Musk",
+      "startSec": 3755.12,
+      "textEn": "that is going to cover everything, but",
+      "textZh": "能够涵盖所有事情，但是",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3757,
+      "textEn": "with the energy side of the business,",
+      "textZh": "说到业务的能源方面，",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "Elon Musk",
+      "startSec": 3758.48,
+      "textEn": "I think it's hugely underrated. I mean, we got tons of problems with, I mean, California with rolling blackouts. How do you think you can incentivize people, you know, more for solar battery backup? And we've got the referral program has",
+      "textZh": "我认为它被严重低估了。我的意思是，我们面临大量问题，我是说，加州会轮流停电。你认为要怎样才能给人们更多激励，让他们采用太阳能和备用电池？而且我们的推荐计划也已经",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0185",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3771.15,
+      "textEn": "been beefed up as well.",
+      "textZh": "得到加强了。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "Elon Musk",
+      "startSec": 3772.19,
+      "textEn": "So you Know, what are your thoughts there?",
+      "textZh": "所以，你知道，你对此有什么看法？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3774.59,
+      "textEn": "How we can get people on board?",
+      "textZh": "我们怎样才能让人们参与进来？",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0188",
+      "speakerEn": "Elon Musk",
+      "startSec": 3776.43,
+      "textEn": "Yeah, actually one of the challenges in California and a few other places is that in order to have the power wall be, be like an uninterruptible power supply for the house, we have to actually have a switch that disconnects you from the utility. Otherwise you just, you know, send energy into the grid and it doesn't do anything. And that's actually been quite difficult with utilities. But I'd like to thank PG&E for recently helping us get approval for installing the backup switch for powerwall in California so that people can have uninterrupted power in California.",
+      "textZh": "是的，实际上，加州和其他几个地方所面临的一项挑战是，为了让 Powerwall 成为，成为类似住宅不间断电源的东西，我们实际上必须配备一个开关，将你与公用电网断开。否则，你只会，你知道，把电力输送到电网里，而它起不到任何作用。而这件事与公用事业公司协调起来实际上一直相当困难。不过，我要感谢 PG&E 最近帮助我们获得批准，可以在加州为 Powerwall 安装备援开关，这样加州的人们就能获得不间断电力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "Elon Musk",
+      "startSec": 3817.05,
+      "textEn": "And we're working on that in every jurisdiction. So I'm confident that's going to be a great long term situation. And then as I mentioned, Megapack is growing very rapidly and yeah, so things are, I mean, things are really growing like ridiculously fast on the, the energy storage front. So, yeah, I feel, I feel good about that situation. All right, next question or.",
+      "textZh": "而且我们正在每一个司法辖区推进这件事。所以我相信，从长远来看，情况会非常好。然后，正如我提到的，Megapack 正在非常迅速地增长，是的，所以情况，我是说，在储能方面，业务真的正以快得离谱的速度增长。所以，是的，我对这个情况感觉良好。好了，下一个问题，或者。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "Elon Musk",
+      "startSec": 3851.78,
+      "textEn": "Hello? Hey Elon. A lot of people have just kind",
+      "textZh": "喂？嘿，埃隆。很多人一直有点",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0191",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3854.46,
+      "textEn": "of been wondering, how are you doing?",
+      "textZh": "想知道，你过得怎么样？",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "Elon Musk",
+      "startSec": 3855.94,
+      "textEn": "So just wondering what's up? How you doing? How you feeling?",
+      "textZh": "所以只是想问问近况如何？你过得怎么样？感觉怎么样？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0193",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3858.7,
+      "textEn": "We saw you were partying in Cabo",
+      "textZh": "我们看到你最近在卡波参加派对",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0194",
+      "speakerEn": "Elon Musk",
+      "startSec": 3860.14,
+      "textEn": "recently, so just what. Must have been someone else.",
+      "textZh": "，所以只是想问什么。那一定是别人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0195",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 3864.92,
+      "textEn": "So how are you doing?",
+      "textZh": "所以你过得怎么样？",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0196",
+      "speakerEn": "Elon Musk",
+      "startSec": 3866.16,
+      "textEn": "Just human to human. How you doing? Well, I have to say it's been a, you know, roller coaster situation and you know, like, it's actually pretty rare for me to be at a party. So that's like the, you know, first party I've been at in a while and actually wasn't even going to go to it. Then my brother talked me into it, so. Thanks, Kimal.",
+      "textZh": "只是人与人之间地问一句。你过得怎么样？嗯，我不得不说，这一直是一个，你知道，像坐过山车一样的状况，而且你知道，实际上我参加派对是相当少见的。所以那算是，你知道，我一段时间以来参加的第一个派对，而且我其实本来甚至不打算去。后来我弟弟说服了我，所以。谢谢你，基马尔。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0197",
+      "speakerEn": "Elon Musk",
+      "startSec": 3896.77,
+      "textEn": "So yeah, I have to say, like, sometimes the work pain level is quite excruciating. And then on top of that I get dumped on in the press. So it's like, you know, it's not exactly super fun.",
+      "textZh": "所以，是的，我不得不说，有时候工作的痛苦程度相当令人难以忍受。而且除此之外，我还会遭到媒体抨击。所以这就像，你知道，并不是什么特别有趣的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0198",
+      "speakerEn": "Elon Musk",
+      "startSec": 3912.37,
+      "textEn": "But there was a short term distraction because I had to do like some major open heart surgery on Twitter to ensure the company's survival. But that I think Twitter is now in a stable place and obviously very excited to have Linda Yakirino join. And so I think Linda's going to do a great job running Twitter and I'll provide obviously guidance on, you know, technology development. But as you can see, I think Twitter at this point has released more new features in the last six months than it has in the last six years.",
+      "textZh": "但当时确实有一个短期的干扰，因为我不得不给 Twitter 做某种重大的开胸手术，以确保公司能够生存下来。但我认为 Twitter 现在已经处于稳定状态，而且显然，我非常高兴琳达·亚基里诺加入。所以我认为琳达会出色地运营 Twitter，而我显然会在技术开发方面提供指导。不过正如你们所看到的，我认为 Twitter 在过去6个月里推出的新功能，比过去6年推出的还要多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0199",
+      "speakerEn": "Elon Musk",
+      "startSec": 3953.78,
+      "textEn": "So, you know, obviously this is not a Twitter meeting, but the larger point is that I feel at this point I don't need to devote incremental time. The amount of time that Twitter will take going forward is relatively small compared to, compared to the last six months. So yeah, you know, apart from like, there's like some macroeconomic things that we can't do anything about. Overall, I feel very good about the health of the companies and I'm increasingly optimistic about the future.",
+      "textZh": "所以，你知道，显然这不是一场 Twitter 会议，但更重要的一点是，我觉得到了这个时候，我不需要再投入额外的时间。与过去6个月相比，Twitter 今后占用的时间会相对较少。所以，是的，你知道，除了一些我们无能为力的宏观经济因素之外，总体而言，我对这些公司的健康状况感觉非常好，而且我对未来越来越乐观。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0200",
+      "speakerEn": "Elon Musk",
+      "startSec": 3988.31,
+      "textEn": "Thanks for asking. It's kind of your ask.",
+      "textZh": "谢谢你提问。这算是你的请求。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0201",
+      "speakerEn": "Elon Musk",
+      "startSec": 3995.92,
+      "textEn": "Have you guys considered stretching out the financing terms on your auto business you talked about earlier? Consumers don't necessarily look at the sticker price they're paying. All they're concerned about is monthly payment. And one of the fundamental advantages of an EV is that it's substantially more durable. And so would you guys ever consider stretching terms out to 10 years? Especially in this rate environment, getting the, the shape of the yield curve, you know, extending the terms out that farther, you'd actually be capturing a lower cost of funds.",
+      "textZh": "你们是否考虑过延长你之前谈到的汽车业务融资期限？消费者未必会看他们支付的标价。他们关心的只有每月还款额。而电动汽车的一个根本优势是，它的耐用性要高得多。那么你们是否会考虑把期限延长到10年？尤其是在当前这种利率环境下，考虑到收益率曲线的形状，你知道，把期限延长到那么远，实际上可以获得更低的资金成本。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0202",
+      "speakerEn": "Elon Musk",
+      "startSec": 4025.77,
+      "textEn": "Yeah, I mean, the important thing to appreciate is that like that the vast majority of the financing is from banks. So it's kind of whatever the banks are prepared to do. I mean, this year I guess we'll do on the order of $100 billion of sales and we don't have $100 billion in, in cash to finance that. So the vast majority of it has got to come from banks.",
+      "textZh": "是的，我是说，需要认识到的重要一点是，绝大多数融资都来自银行。所以基本上取决于银行愿意怎么做。我是说，今年我估计我们的销售额大约会达到1000亿美元，而我们没有1000亿美元现金来为这些销售提供融资。所以绝大部分资金必须来自银行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0203",
+      "speakerEn": "Elon Musk",
+      "startSec": 4052.77,
+      "textEn": "So it's really the bank's choice of what they're willing to do.",
+      "textZh": "所以这实际上取决于银行愿意做什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0204",
+      "speakerEn": "Elon Musk",
+      "startSec": 4056.69,
+      "textEn": "And it has been tricky with banks recently because as I mentioned earlier, if you're a bank and you're not sure whether you're going to be alive or not, it's a pretty big distraction. And increasing your auto loan portfolio is very much a secondary priority. So it's just important to appreciate it's not up to Tesla, it's up to the banks. And there's not, there's not some easy solution where you can say have so called a captive financing arm, et cetera, because you have to securitize those loans and the market for securitizing them is, is, is weak.",
+      "textZh": "而最近与银行打交道一直很棘手，因为正如我之前提到的，如果你是一家银行，却不确定自己能不能活下去，这会造成相当大的干扰。扩大你的汽车贷款组合完全只能算次要优先事项。所以需要认识到，这不取决于 Tesla，而取决于银行。而且不存在某种简单的解决方案，比如你可以说设立所谓的自营金融部门等等，因为你必须将这些贷款证券化，而将它们证券化的市场很、很、很疲弱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0205",
+      "speakerEn": "Elon Musk",
+      "startSec": 4093.82,
+      "textEn": "There is no, I wish there was an easy path, but, but there isn't.",
+      "textZh": "没有，我希望存在一条简单的道路，但、但并不存在。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0206",
+      "speakerEn": "Elon Musk",
+      "startSec": 4100.27,
+      "textEn": "So, you know, I think it's important to remember that the economy moves in cycles and we've had a very long period of upcycle. The next 12 months will be, I think, difficult for everyone. And I think, you know, when Berkshire Hathaway had their annual meeting, Warren Charlie actually said like, hey, this, this year the Berkshire companies are going to make less money.",
+      "textZh": "所以，你知道，我认为需要记住，经济是周期性运行的，而我们已经经历了很长一段上行周期。我认为，接下来的12个月对所有人来说都会很艰难。而且我想，你知道，在伯克希尔·哈撒韦召开年会时，沃伦、查理实际上说过，嘿，今年伯克希尔旗下的公司赚的钱会更少。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0207",
+      "speakerEn": "Elon Musk",
+      "startSec": 4129.86,
+      "textEn": "And so, and you know, they're, they're Very well run organizations. And I think that's just generally true for the economy. So, you know, but, but if, but, but, but it's also important to remember that, you know, there, there are good times and, and there are dark times, but then the good times follow the dark times. So my advice would be don't look at the markets for the next 12 months.",
+      "textZh": "所以，而且你知道，它们、它们是管理得非常好的组织。而我认为对整体经济来说，情况通常就是如此。所以，你知道，但是、但是如果、但是、但是、但是，同样需要记住的是，你知道，会、会有好时候，也会、也会有黑暗时期，但在黑暗时期之后，好时候就会到来。所以我的建议是，未来12个月不要看市场。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0208",
+      "speakerEn": "Elon Musk",
+      "startSec": 4158.91,
+      "textEn": "If there's a dip, buy the dip.",
+      "textZh": "如果出现下跌，就逢低买入。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0209",
+      "speakerEn": "Elon Musk",
+      "startSec": 4163.55,
+      "textEn": "And I think you will not be sorry because, you know, there's just generally sort of a, there's an economic cycle to things, but things come back up. So my guess is tough times for a year. Like I said, just my guess. But then Tesla will emerge stronger than ever and the long term, if you say like, net present value of future cash flows will be incredible, in my opinion.",
+      "textZh": "而且我认为你不会后悔，因为，你知道，总的来说，事情存在某种经济周期，但它们会重新回升。所以我猜艰难时期会持续1年。正如我所说，这只是我的猜测。但之后 Tesla 会以前所未有的强大姿态走出来，而且从长期来看，如果你考虑未来现金流的净现值，在我看来，那将会非常惊人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0210",
+      "speakerEn": "Elon Musk",
+      "startSec": 4201.49,
+      "textEn": "Hey, Elon, meet Kevin here. Hey, how's it going? Good, thanks. So Tesla is the largest position in my ETF ticker pp and that's for pricing power. Right. And I'm curious, I really think that some of the features that you highlighted here, like the over the air airbag deployments of improving features, the safety features, are great things that we could be advertising for. I know you've heard this many before. I know you have.",
+      "textZh": "嘿，埃隆，我是 Meet Kevin。嘿，最近怎么样？很好，谢谢。Tesla 是我的 ETF 中最大的持仓，代码是 pp，代表定价权。对吧。而且我很好奇，我确实认为，你在这里强调的一些功能，比如通过无线更新部署安全气囊改进功能，那些安全功能，都是我们可以拿来宣传的好东西。我知道你以前听过很多次。我知道你听过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0211",
+      "speakerEn": "Elon Musk",
+      "startSec": 4228.94,
+      "textEn": "No, no, sorry. Go ahead, go ahead. Yeah. 525 bucks off every car this year is half a Netflix's advertising budget. Thousand bucks is the entire Netflix advertising budget. And I see their ads everywhere. Why not advertise these things that you told us here? I feel like nobody else knows about this. I just talked to Gordo, the Tesla",
+      "textZh": "不，不，抱歉。继续，继续。是的。今年每辆车拿出525美元，就相当于 Netflix 广告预算的一半。拿出1000美元就是 Netflix 的全部广告预算。而我到处都能看到他们的广告。为什么不宣传你在这里告诉我们的这些东西？我觉得其他人根本不知道这些。我刚刚和戈多聊过，这个 Tesla 的",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0212",
+      "speakerEn": "Shareholder",
+      "startSec": 4248.54,
+      "textEn": "bear, and he's still talking about 2016",
+      "textZh": "看空者，而他还在谈论2016年",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0213",
+      "speakerEn": "Elon Musk",
+      "startSec": 4251.35,
+      "textEn": "New York Times pieces. These people are in the past, man. That's like seven years ago at this point. Yeah, that's what I'm saying. Yeah. It's actually I talk to a lot of people and they still think that like Teslas are like super expensive and like. No, actually the starting price for a Tesla is below the average auto price in the US it's like.",
+      "textZh": "《纽约时报》的文章。这些人还活在过去，老兄。到现在那都已经是大约7年前了。是的，我说的就是这个。是的。其实我和很多人聊过，他们仍然认为 Tesla 的车超级贵之类的。不，实际上 Tesla 的起售价低于美国汽车的平均价格，大概是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0214",
+      "speakerEn": "Elon Musk",
+      "startSec": 4271.19,
+      "textEn": "And that's a good thing. I mean, I think it's, it's, it's good that it's that way. You know, like our goal, well, is always to make cars that are affordable to the general public. So. I hear you. I mean, I think, and it's indeed ironic that, you know, Twitter is like highly dependent on advertising. So, you know, here I am, it's like, you know, never used advertising really before and now have a company that's highly dependent on advertising.",
+      "textZh": "而这是一件好事。我是说，我认为这样、这样、这样很好。你知道，我们的目标，嗯，一直都是制造普通大众负担得起的汽车。所以。我明白你的意思。我是说，我认为，而且确实很讽刺的是，你知道，Twitter 高度依赖广告。所以，你知道，我现在就处在这种情况，就像，你知道，以前确实从来没用过广告，而现在却拥有一家高度依赖广告的公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0215",
+      "speakerEn": "Elon Musk",
+      "startSec": 4301.72,
+      "textEn": "So I guess I should say advertising is awesome and everyone should do it.",
+      "textZh": "所以我想我应该说，广告很棒，每个人都应该做广告。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0216",
+      "speakerEn": "Elon Musk",
+      "startSec": 4308.67,
+      "textEn": "But I think I hear your sort of larger point, which is that there are amazing features and functionality about Teslas that people just don't know about. And so, yeah, and although there's obviously a lot of people that follow, like say the Tesla account and my account, whatever, on Twitter, to some degree it is preaching to the choir and the choir is already convinced.",
+      "textZh": "但我想我明白你所说的那个更大的要点，也就是 Tesla 的车拥有一些了不起的功能和特性，而人们根本不知道。所以，是的，而且虽然显然有很多人在 Twitter 上关注，比如说 Tesla 的账号和我的账号之类的，但从某种程度上说，这是在向唱诗班布道，而唱诗班已经被说服了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0217",
+      "speakerEn": "Elon Musk",
+      "startSec": 4344.51,
+      "textEn": "So I think what you're saying does have some merits. And you know what? I believe in taking suggestions. So we'll try a little advertising and see how it goes.",
+      "textZh": "所以我认为你说的确实有一定道理。而且你知道吗？我相信应该采纳建议。所以我们会尝试投放一点广告，看看效果如何。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0218",
+      "speakerEn": "Elon Musk",
+      "startSec": 4363.71,
+      "textEn": "Okay?",
+      "textZh": "好吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0219",
+      "speakerEn": "Elon Musk",
+      "startSec": 4368.75,
+      "textEn": "Okay.",
+      "textZh": "好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0220",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 4371.15,
+      "textEn": "All right.",
+      "textZh": "好的。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0221",
+      "speakerEn": "Elon Musk",
+      "startSec": 4371.63,
+      "textEn": "I was, I wasn't, I wasn't expecting that level of enthusiasm, but okay, it sounds like our shareholders, if I read between the lines, subtle as it is, are saying we should probably do some advertising. Okay, Very well. All right.",
+      "textZh": "我当时，我没、我没想到大家会有这么高的热情，不过好吧，听起来我们的股东，如果我领会了这种尽管很含蓄的言外之意，是在说我们或许应该投放一些广告。好吧，非常好。好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0222",
+      "speakerEn": "Elon Musk",
+      "startSec": 4393.44,
+      "textEn": "Hi, Elon. Hi Tesla. Thank you for everything. So my question is regarding you recently add Steam to the car and that's great. We can play video games. Is Tesla currently developing the ability for other parties to develop apps for the car? For example, if we can buy actually",
+      "textZh": "嗨，埃隆。嗨，Tesla。谢谢你们所做的一切。那么我的问题是，关于你们最近把 Steam 加进车里，这很棒。我们可以玩电子游戏。Tesla 目前是否正在开发让其他方为汽车开发应用程序的能力？例如，如果我们真的可以买到",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0223",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 4409.12,
+      "textEn": "customizable teams for the operated heapsync of",
+      "textZh": "为已运行的 heapsync 提供可定制的团队的",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0224",
+      "speakerEn": "Elon Musk",
+      "startSec": 4411.68,
+      "textEn": "the car, I think you, you can make some revenue there like that space themes for the car or Lord of the Rings or stuff like that.",
+      "textZh": "这辆车，我认为你们，你们可以从中获得一些收入，比如汽车的太空主题，或者《指环王》之类的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0225",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 4418.09,
+      "textEn": "Do you have any interest in that right now?",
+      "textZh": "你们目前对此有兴趣吗？",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0226",
+      "speakerEn": "Elon Musk",
+      "startSec": 4421.33,
+      "textEn": "Well, I mean, the important. So I think the notion of having entertainment apps and whatnot becomes increasingly important as the cars achieve self driving because otherwise you can only really watch, play games or watch movies or whatever when the car is stationary, you know, which, you know, if it's charging or what, whatever, that then you can use it. But when it's, when it's at the point in which it's full stop driving, I think it's very much about entertainment and productivity.",
+      "textZh": "嗯，我是说，重要的。所以我认为，随着汽车实现自动驾驶，拥有娱乐应用程序之类的概念会变得越来越重要，因为否则你其实只能在汽车静止时观看、玩游戏或者看电影之类的，你知道，如果它在充电或什、什么的，那你就可以使用它。但当它，当它达到完全停止驾驶的阶段时，我认为这在很大程度上关乎娱乐和生产力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0227",
+      "speakerEn": "Elon Musk",
+      "startSec": 4453,
+      "textEn": "So I think that is something that might make sense in the future.",
+      "textZh": "所以我认为，这件事在未来可能是有意义的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0228",
+      "speakerEn": "Elon Musk",
+      "startSec": 4457.88,
+      "textEn": "The, but overwhelmingly the focus right now for Tesla software, apart from improving safety, is achieving full self driving and then getting full self driving to be much safer than human driving.",
+      "textZh": "这个，但目前 Tesla 软件压倒性的重点，除了提高安全性之外，就是实现完全自动驾驶，然后让完全自动驾驶比人类驾驶安全得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0229",
+      "speakerEn": "Elon Musk",
+      "startSec": 4472.53,
+      "textEn": "And then once, as we, once we achieve full self driving, I think that there could be a lot of opportunity for apps and whatnot.",
+      "textZh": "然后，一旦，随着我们，一旦我们实现完全自动驾驶，我认为应用程序之类的东西可能会有很多机会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0230",
+      "speakerEn": "Elon Musk",
+      "startSec": 4481.41,
+      "textEn": "So even in the car as it is today for a Model S and X, we've made sort of a full Steam integration. So you can actually just literally log on with a model SRX with your Steam account and play any game that is on Steam, which is a lot of games, which is pretty wild. I think a lot of people don't know that you can play with a keyboard or mouse, you can play with a joystick or Controller. You can also play Netflix, YouTube or anything else.",
+      "textZh": "所以，即使是现在的汽车，对于 Model S 和 X，我们也做了某种完整的 Steam 集成。所以你实际上真的可以在 model SRX 上登录你的 Steam 账户，玩 Steam 上的任何游戏，而那上面有很多游戏，这相当疯狂。我认为很多人不知道，你可以用键盘或鼠标玩，也可以用操纵杆或控制器玩。你也可以播放 Netflix、YouTube 或其他任何东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0231",
+      "speakerEn": "Elon Musk",
+      "startSec": 4514.08,
+      "textEn": "I mean for my little son X, he loves watching, you know, actually loves watching rocket videos in the, on the, in the rear screen of the Model S and X. So yeah, so it is something that we will do long term.",
+      "textZh": "我是说，我的小儿子 X，他喜欢看，你知道，实际上很喜欢在，在 Model S 和 X 的后排屏幕上看火箭视频。所以，是的，这是我们长期会做的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0232",
+      "speakerEn": "Elon Musk",
+      "startSec": 4533.38,
+      "textEn": "But, but what I'm saying is we already have a lot of stuff there and we'll do more as self driving becomes a reality. So.",
+      "textZh": "但是，但是我想说的是，我们已经在那里提供了很多东西，而且随着自动驾驶成为现实，我们还会做得更多。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0233",
+      "speakerEn": "Elon Musk",
+      "startSec": 4545.63,
+      "textEn": "Hey Elon, I'm John or Dr. Know It all on YouTube and I don't know it all, but anyway, my question is, as you guys move completely or finish the transition in full self driving from version 1.0 of the software to 2.0, what do you perceive of as the like potential stumbling blocks after that? Because it seems like that's the major, you know, kind of step change that needed to happen.",
+      "textZh": "嘿，埃隆，我是 John，或者是 YouTube 上的 Dr. Know It all，而我并非无所不知，不过不管怎样，我的问题是，随着你们完全推进或完成完全自动驾驶软件从 1.0 版本到 2.0 版本的过渡，在那之后，你认为可能的障碍会是什么？因为这似乎就是需要发生的主要的，你知道，某种阶跃式变化。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0234",
+      "speakerEn": "Shareholder",
+      "startSec": 4567.75,
+      "textEn": "And so.",
+      "textZh": "所以。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0235",
+      "speakerEn": "Elon Musk",
+      "startSec": 4568.12,
+      "textEn": "So you're almost done with that and what happens after that? And also, please let me interview you about full self driving. Like I'll spend two hours talking about just that. So thank you. Well, you can really think about full self driving as sort of a march of nines of reliability. So we need to get to the point where the probability of injury is lower than that of the average human driver and then ultimately probability of injury is much lower.",
+      "textZh": "所以你们差不多快完成那件事了，之后会发生什么？另外，也请允许我就完全自动驾驶采访你。比如我会花2小时只聊这个。所以谢谢。嗯，你完全可以把完全自动驾驶理解为一种向多个9的可靠性迈进的过程。所以我们需要达到这样一个程度：受伤概率低于普通人类驾驶员，然后最终让受伤概率低得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0236",
+      "speakerEn": "Elon Musk",
+      "startSec": 4600.43,
+      "textEn": "So even at the point at which the car is capable of driving itself, there's still actually a lot of work to do because you know, every year there's a million people that die in auto accidents. And I think probably everyone in this audience has friends and family that have died or been seriously injured in auto accidents. And for every there's like a million people that died, there's 10 million people roughly that are seriously permanently injured.",
+      "textZh": "所以，即使汽车已经能够自行驾驶，实际上仍然有很多工作要做，因为你知道，每年有100万人死于汽车事故。我想，在座的每个人可能都有朋友和家人在汽车事故中丧生或受重伤。而每有大约100万人死亡，就大约有1000万人受到严重的永久性伤害。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0237",
+      "speakerEn": "Elon Musk",
+      "startSec": 4629.95,
+      "textEn": "And so it matters that we, you know, if we can get that down by an order of magnitude, you know, there's like 900,000 lives saved per year, maybe 9 million severe injuries prevented per year. And so that really I think morally has to be our primary goal.",
+      "textZh": "所以这很重要，你知道，如果我们能把这个数字降低一个数量级，你知道，那就是每年挽救大约900,000条生命，或许每年避免900万起严重伤害。所以我认为，从道德上讲，这确实必须成为我们的首要目标。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0238",
+      "speakerEn": "Elon Musk",
+      "startSec": 4651.61,
+      "textEn": "And I guess I'm open to an interview on fsd.",
+      "textZh": "我想我愿意接受一次关于FSD的采访。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0239",
+      "speakerEn": "Elon Musk",
+      "startSec": 4661.45,
+      "textEn": "Two hours is a long time, but.",
+      "textZh": "2小时很长，不过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0240",
+      "speakerEn": "Elon Musk",
+      "startSec": 4664.97,
+      "textEn": "Okay. Okay. All right, I'll do an interview. It's got to be on Twitter, but sure.",
+      "textZh": "好的。好的。行，我会接受采访。必须在Twitter上，不过可以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0241",
+      "speakerEn": "Elon Musk",
+      "startSec": 4671.67,
+      "textEn": "All right.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0242",
+      "speakerEn": "Elon Musk",
+      "startSec": 4677.11,
+      "textEn": "Hi. Hi Elon. I'm Josh Phillips, long term retail investor. My question's about battery grade lithium supply in the next 10 years. You know, lithium experts all agree that mines are just not coming on online fast enough to meet battery supply. And actually Drew Baglino pointed this out recently. Some mines take 10 years plus to be permitted. And even GM has actually announced like Huge lithium deals that will like secure away supply from the rest of the industry.",
+      "textZh": "你好。你好，埃隆。我是乔希·菲利普斯，一名长期散户投资者。我的问题是关于未来10年的电池级锂供应。你知道，锂行业专家都认同，矿山投产的速度根本不够快，无法满足电池供应。实际上，德鲁·巴格利诺最近也指出了这一点。有些矿山需要10年以上才能获得许可。甚至通用汽车实际上也宣布了类似巨额锂交易，将从行业其他参与者那里锁走供应。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0243",
+      "speakerEn": "Elon Musk",
+      "startSec": 4703.12,
+      "textEn": "So what's Tesla's plans? To get more supply of lithium at the mine level outside of refining, but also at a deeper level than a traditional offtake. Because as we know, he who controls the spice controls the universe. Sure.",
+      "textZh": "那么Tesla有什么计划？除了精炼之外，如何在矿山层面获得更多锂供应，同时又比传统包销协议更深入？因为正如我们所知，谁控制了香料，谁就控制了宇宙。当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0244",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 4719.92,
+      "textEn": "So",
+      "textZh": "所以",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0245",
+      "speakerEn": "Elon Musk",
+      "startSec": 4724.09,
+      "textEn": "I actually think that the industry analysis is incorrect and the constraint is fundamentally that of processing.",
+      "textZh": "实际上，我认为行业分析并不正确，根本性的制约因素是加工。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0246",
+      "speakerEn": "Elon Musk",
+      "startSec": 4735.53,
+      "textEn": "So our refinery in Corpus Christi that we're building is primarily oriented towards refining spodumene, of which there is a truly vast amount in the world. About, I think about three quarters of our lithium comes from Australia. And frankly you could increase the rate at which the mines are operating. And the limiting factor is not how fast can you mine, but how fast can you, can you process? So the mines are only going to produce ore at the rate at which refineries can handle the ore or pointless.",
+      "textZh": "所以，我们正在科珀斯克里斯蒂建设的精炼厂主要面向锂辉石精炼，而全世界的锂辉石储量确实极其庞大。大约，我想我们大约四分之三的锂来自澳大利亚。坦率地说，你可以提高矿山的开采速度。而限制因素不是你能多快开采，而是你能多快，你能多快加工？所以矿山只会按照精炼厂能够处理矿石的速度来生产矿石，否则毫无意义。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0247",
+      "speakerEn": "Elon Musk",
+      "startSec": 4776.59,
+      "textEn": "So I think my opinion, and obviously I could, could be wrong about this, but is, is that it's, it's really not, not about the lithium or lithium is extremely common. Lithium is everywhere, in every, every country has got lithium. It's not like oil. So lithium is one of the most common elements on earth. But taking the lithium ore and refining it to battery grade is extremely difficult because the purity levels required for a battery are extremely high.",
+      "textZh": "所以我认为，我的看法是，显然我在这件事上可能、可能是错的，但就是，这真的不、不在于锂，或者说锂极其常见。锂无处不在，每个、每个国家都有锂。它不像石油。所以锂是地球上最常见的元素之一。但将锂矿石精炼到电池级极其困难，因为电池所要求的纯度水平极高。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0248",
+      "speakerEn": "Elon Musk",
+      "startSec": 4804.13,
+      "textEn": "If you have even a small impurity, then you will degrade the life of the cell dramatically. So you need ultra pure battery grade lithium. And that's why, that's why our focus is on refining as opposed to mining. Thank you.",
+      "textZh": "哪怕只有少量杂质，电芯的寿命也会大幅缩短。所以你需要超纯的电池级锂。这就是为什么，这就是为什么我们的重点是精炼，而不是采矿。谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0249",
+      "speakerEn": "Elon Musk",
+      "startSec": 4822.45,
+      "textEn": "Hi Elon, Thanks.",
+      "textZh": "你好，埃隆，谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0250",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 4824.21,
+      "textEn": "It's a great time here.",
+      "textZh": "在这里的时光很棒。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0251",
+      "speakerEn": "Elon Musk",
+      "startSec": 4826.14,
+      "textEn": "You spoke about safety in your presentation of the vehicles and I just want to say I'm thankful to you for",
+      "textZh": "你在车辆演示中谈到了安全，我只想说，我很感谢你",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0252",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 4832.1,
+      "textEn": "building such a safe vehicle because I'm",
+      "textZh": "制造了如此安全的车辆，因为我",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0253",
+      "speakerEn": "Elon Musk",
+      "startSec": 4833.82,
+      "textEn": "here today with my son. We drove in his Tesla 3 over here that he replaced with the one",
+      "textZh": "今天和我儿子一起来到了这里。我们开着他的Tesla 3来到这里，那辆车是他用来替换那一辆的",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0254",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 4839.78,
+      "textEn": "that he got rear ended significantly in and it destroyed the car. But we're able to be here today, so great.",
+      "textZh": "他开的那辆车曾被严重追尾，车被撞毁了。但我们今天还能来到这里，所以很棒。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0255",
+      "speakerEn": "Elon Musk",
+      "startSec": 4846.54,
+      "textEn": "Thank you very much. Absolutely.",
+      "textZh": "非常感谢。那当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0256",
+      "speakerEn": "Elon Musk",
+      "startSec": 4856.71,
+      "textEn": "So not sure where to look. Okay. Hey, how's it going? My name's Austin Gregory. I'll ask about this because I don't think it gets near enough. Love. I was wondering if there are any updates on the next gen Roadster? Actually, yeah, I know it's sort of like the cherry on top and all that stuff. You guys have a lot on your plate as you said before, but if there's any updates on like the release timeline, all that stuff, the SpaceX package maybe.",
+      "textZh": "所以不确定该看哪里。好的。嘿，最近怎么样？我叫奥斯汀·格雷戈里。我要问这件事，因为我觉得它得到的远远不够。喜爱。我想知道下一代Roadster有没有任何最新消息？实际上，是的，我知道它有点像锦上添花之类的东西。正如你之前所说，你们有很多事情要忙，但如果有任何关于发布时间表之类的最新消息，也许还有SpaceX套件。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0257",
+      "speakerEn": "Elon Musk",
+      "startSec": 4882.53,
+      "textEn": "Yeah, yeah, that'd be amazing.",
+      "textZh": "对，对，那会很棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0258",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 4884.01,
+      "textEn": "Thanks.",
+      "textZh": "谢谢。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0259",
+      "speakerEn": "Elon Musk",
+      "startSec": 4885.37,
+      "textEn": "Totally fair. And reasonable question, where is that thing?",
+      "textZh": "完全合理。这是个合理的问题，那东西在哪里？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0260",
+      "speakerEn": "Elon Musk",
+      "startSec": 4892.17,
+      "textEn": "So we expect to complete the engineering design of the next gen Tesla Roadster this year and hopefully start hopefully stock production. This is not a commitment, but hopefully stock production next year. So.",
+      "textZh": "所以，我们预计今年完成下一代Tesla Roadster的工程设计，并希望开始，希望进行库存生产。这不是承诺，但希望明年进行库存生产。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0261",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 4911.65,
+      "textEn": "But",
+      "textZh": "但是",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0262",
+      "speakerEn": "Elon Musk",
+      "startSec": 4914.05,
+      "textEn": "it is like, it is like, as you alluded to, it's not even the icing on the cake, it's the cherry on the icing on the cake. So I wouldn't expect it to be like, it's definitely not going to be a huge contributor to revenue. It will be a modest contribution, contributor to profitability, but it will be sick.",
+      "textZh": "就像，就像你提到的那样，它甚至不是蛋糕上的糖霜，而是蛋糕糖霜上的樱桃。所以我不会指望它会，比如，它肯定不会成为收入的巨大贡献者。它会对盈利有适度的贡献，成为贡献者，但它会酷毙了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0263",
+      "speakerEn": "Elon Musk",
+      "startSec": 4935.9,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0264",
+      "speakerEn": "Elon Musk",
+      "startSec": 4938.54,
+      "textEn": "And you know, there's some value to me running two companies because the next gen Roadster will have the SpaceX option package.",
+      "textZh": "而且你知道，我经营2家公司确实有一些价值，因为下一代Roadster将配备SpaceX选装套件。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0265",
+      "speakerEn": "Elon Musk",
+      "startSec": 4949.42,
+      "textEn": "So that'll make it truly next level. So.",
+      "textZh": "所以这会让它真正提升到一个全新的水平。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0266",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 4956.23,
+      "textEn": "Hey, Elon, Eva McMillan here. First of all, I want to thank you for making the absolute best, safest and most fun cars in the whole world.",
+      "textZh": "嗨，埃隆，我是伊娃·麦克米兰。首先，我想感谢你制造出了全世界绝对最好、最安全、最有趣的汽车。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0267",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 4969.67,
+      "textEn": "Cars in Florida. We are seeing many, many more cars",
+      "textZh": "佛罗里达州的汽车。我们看到汽车多了很多、很多",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0268",
+      "speakerEn": "Shareholder",
+      "startSec": 4975.11,
+      "textEn": "in Florida than a year ago.",
+      "textZh": "在佛罗里达州，比1年前。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0269",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 4976.87,
+      "textEn": "Matter of fact, cars are doubled.",
+      "textZh": "事实上，汽车数量翻了一番。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0270",
+      "speakerEn": "Shareholder",
+      "startSec": 4979.19,
+      "textEn": "So the question is, we all want Tesla insurance.",
+      "textZh": "所以问题是，我们都想要 Tesla 保险。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0271",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 4984.43,
+      "textEn": "Is it coming?",
+      "textZh": "它会推出吗？",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0272",
+      "speakerEn": "Elon Musk",
+      "startSec": 4985.95,
+      "textEn": "Oh, yeah, yeah. Actually that's a great question.",
+      "textZh": "哦，会，会。其实这是个很好的问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0273",
+      "speakerEn": "Elon Musk",
+      "startSec": 4989.95,
+      "textEn": "Okay. Zach says it's coming later this year. But I have to tell you, like one of the thorniest things in the United States is car insurance or insurance in general, because it's a state by state and every state's got different rules and regulations. So that's why it's not like rolled out nationwide. I think really there should be one national standard for insurance, especially car insurance. I think it would improve the cost, effective cost effectiveness of car insurance.",
+      "textZh": "好的。扎克说会在今年晚些时候推出。但我得告诉你，美国最棘手的事情之一就是汽车保险，或者说总体上的保险，因为它是各州分别管理的，而且每个州都有不同的规则和法规。所以这就是为什么它没有在全国范围内推出。我确实认为保险应该有一个全国统一的标准，尤其是汽车保险。我认为这会改善汽车保险的成本、有效成本效益。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0274",
+      "speakerEn": "Elon Musk",
+      "startSec": 5021.55,
+      "textEn": "But our intent is to roll out nationwide and ultimately internationally.",
+      "textZh": "但我们的目标是在全国范围内推出，并最终推向国际市场。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0275",
+      "speakerEn": "Elon Musk",
+      "startSec": 5027.31,
+      "textEn": "But there is a staggering amount of paperwork that is, that is needed to get it done. But as Zach said, we expect to offer Tesla insurance in Florida later this year. Thank you.",
+      "textZh": "但要把它办成，需要数量惊人的文书工作，需要，需要这些工作。但正如扎克所说，我们预计今年晚些时候会在佛罗里达州提供 Tesla 保险。谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0276",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 5041.48,
+      "textEn": "Thank you, Elon. Thank you, Elon. Alexandra Mertz. I am Tesla Boomer mama. Very happy to be here.",
+      "textZh": "谢谢你，埃隆。谢谢你，埃隆。我是亚历山德拉·默茨。我是 Tesla Boomer 妈妈。非常高兴来到这里。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0277",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 5051.08,
+      "textEn": "So very grateful to the Tesla team. And you of course, just want you to know we love the emotions every day, joy and less joy. But we're there shareholders. It's not easy. We're here not because it's easy, but because it's hard. So my question initially was on in house financing. You already answered that. And I want to congratulate you to the double investment grade rating. But then I asked my Twitter subscribers, I'm sure you're going to appreciate what they wanted to bring forward.",
+      "textZh": "所以非常感谢 Tesla 团队。当然也感谢你，只是想让你知道，我们热爱每天的种种情绪，喜悦以及不那么喜悦。但我们这些股东都在这里。这并不容易。我们来这里不是因为它容易，而是因为它很难。所以我最初的问题是关于内部融资的。你已经回答了这个问题。我还想祝贺你们获得双重投资级评级。但后来我问了我的 Twitter 订阅者，我相信你会喜欢他们想提出的问题。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0278",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 5078.64,
+      "textEn": "And that question made the cut.",
+      "textZh": "而那个问题入选了。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0279",
+      "speakerEn": "Shareholder",
+      "startSec": 5081.12,
+      "textEn": "Here we go.",
+      "textZh": "开始吧。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0280",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 5082.8,
+      "textEn": "Automotive, including sas peak margin, the same for energy. What number and by when do you have the best elon gas that we get there?",
+      "textZh": "汽车业务，包括 sas 的峰值利润率，能源业务也是如此。什么数字，什么时候？你有能让我们达到那里的最佳埃隆气体吗？",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0281",
+      "speakerEn": "Elon Musk",
+      "startSec": 5094.07,
+      "textEn": "Sorry, I'm not sure I fully understand the question.",
+      "textZh": "抱歉，我不确定自己完全理解这个问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0282",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 5095.83,
+      "textEn": "So this is the peak margin for automobile mart for automobile, including SAs and energy. And by when will we get there? Your guess? I know nobody will sue you.",
+      "textZh": "所以这是汽车市场的峰值利润率，汽车业务，包括 SAs 和能源业务。我们会在什么时候达到？你的猜测呢？我知道没人会起诉你。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0283",
+      "speakerEn": "Elon Musk",
+      "startSec": 5107.83,
+      "textEn": "Sorry, what's sas?",
+      "textZh": "抱歉，sas 是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0284",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 5109.11,
+      "textEn": "Well, service software, as a service.",
+      "textZh": "嗯，服务软件，作为一种服务。",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0285",
+      "speakerEn": "Elon Musk",
+      "startSec": 5111.03,
+      "textEn": "Oh, okay, you mean fs Self driving fsd?",
+      "textZh": "哦，好的，你是指 fs 自动驾驶 fsd？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0286",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 5118.23,
+      "textEn": "What's going to be the top automobile margin?",
+      "textZh": "汽车业务的最高利润率会是多少？",
+      "speakerZh": "罗宾·德诺姆（董事会主席）"
+    },
+    {
+      "id": "p-0287",
+      "speakerEn": "Elon Musk",
+      "startSec": 5121.99,
+      "textEn": "Oh yeah, yeah. I mean what I was saying earlier is that at the point at which you have a truly autonomous vehicle that can drive around with no one in it, the utility of the vehicle, I think as a rough guess is probably five times what it is today because people will drive an average of an hour and a half a day, perhaps so 10 hours a week. But if the car is autonomous, it can probably just speculation, but it probably can operate for a third of the hours in the week, which would mean 50 or more hours, thus a five fold increase.",
+      "textZh": "哦，对，对。我的意思是，我之前说的是，当你拥有一辆真正的自动驾驶汽车，可以在里面没人的情况下四处行驶时，我粗略估计，这辆车的效用可能会是今天的5倍，因为人们平均每天会开车1个半小时，也许每周10小时。但如果汽车能够自动驾驶，它可能——这只是推测——但它每周或许可以运行三分之一的时间，也就是50小时或更多，因此效用会提高5倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0288",
+      "speakerEn": "Elon Musk",
+      "startSec": 5159.68,
+      "textEn": "But the car costs the same.",
+      "textZh": "但汽车的成本是一样的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0289",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 5162.56,
+      "textEn": "Sure, I understand. But what is going to be the margin for Tesla then? Because you're obviously thinking you're going to sell much more FSD then, right? You may have a system in place of robo taxes, you may have a cut with fleets. So did you do any projections what the automotive peak margin for Tesla could be in two years, five years and the same for energy?",
+      "textZh": "当然，我明白。但那时 Tesla 的利润率会是多少？因为你显然认为届时会卖出多得多的 FSD，对吧？你可能会建立一套机器人税制度，也可能会与车队分成。所以你们是否做过预测，Tesla 的汽车业务峰值利润率在 2 年后、5 年后可能达到多少，能源业务又会是多少？",
+      "speakerZh": "罗宾·德霍姆（董事会主席）"
+    },
+    {
+      "id": "p-0290",
+      "speakerEn": "Elon Musk",
+      "startSec": 5189.61,
+      "textEn": "Well, I mean this is definitely, we're in sort of highly speculative territory here, but obviously if you've got a car that costs the same and has say I don't know, a 20 or 25% margin and suddenly is able to be used five times as much, then you might have 80% margins and the revenue would increase several fold. That's why I say it's the, it's probably going to be the biggest asset value step change in, in history of Earth.",
+      "textZh": "嗯，我的意思是，这确实是，我们现在算是进入高度推测的领域了，但显然，如果你有一辆成本相同的汽车，比如说，我不知道，利润率为 20% 或 25%，然后突然能够被使用 5 倍的时间，那么利润率可能会达到 80%，收入也会增长数倍。所以我才说，这可能会是地球历史上最大的资产价值阶跃式变化。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0291",
+      "speakerEn": "Elon Musk",
+      "startSec": 5231.32,
+      "textEn": "And, and energy does not have the energy just simply does not have such an increase in asset utilization. So I would expect energy to be, to remain at sort of a 20, 20, 20, 25% is to 30% margin.",
+      "textZh": "而且，而且能源业务并不具备，能源根本不具备这种资产利用率的提升。所以我预计能源业务会，会维持在大约 20%、20%、20%、25% 到 30% 的利润率。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0292",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 5248.04,
+      "textEn": "All right, so you said ask the tough questions. You're still good, right?",
+      "textZh": "好吧，你说过要问尖锐的问题。你还撑得住，对吧？",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0293",
+      "speakerEn": "Elon Musk",
+      "startSec": 5252.04,
+      "textEn": "Yeah. All right, cool.",
+      "textZh": "是的。好吧，很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0294",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 5253.56,
+      "textEn": "First of all though, as a family man, I just want to say there's a couple of things like a loop for tether of a, of a car seat going through the headrest, which would be super helpful. There's a couple other things that would be really nice. The Model Y is the only one you can do that in today. Maybe we could fix that. But when we're thinking about 4680 battery cells. Should we be thinking about the efficiency and the performance we're getting today, or is there some updated timeline path that we could see closer to battery day presented efficiency performance that we can look to in the future?",
+      "textZh": "不过首先，作为一个有家室的人，我只想说，有几项东西，比如设置一个环，让儿童安全座椅的固定带穿过头枕，这会非常有帮助。还有几项其他东西如果能有也会非常好。目前只有 Model Y 能做到这一点。也许我们可以解决这个问题。但当我们考虑 4680 电芯时，我们应该着眼于今天所获得的效率和性能，还是说有某种更新后的时间表或路径，让我们能看到更接近电池日所展示的效率和性能，并可在未来有所期待？",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0295",
+      "speakerEn": "Elon Musk",
+      "startSec": 5291.53,
+      "textEn": "Well, I think first of all, it's really important to express the difficulty of, you know, like, for Tesla to go from nothing to making a battery cell, that we aspire to be better than any other battery cell on earth, even when compared to companies where the only thing they do is make a battery cell is obviously not a trivial exercise.",
+      "textZh": "嗯，我认为首先，真正重要的是要说明这件事的难度，你知道，比如说，Tesla 从一无所有发展到制造电芯，而且我们希望它比地球上任何其他电芯都更好，即使与那些唯一业务就是制造电芯的公司相比也是如此，这显然不是一件轻而易举的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0296",
+      "speakerEn": "Elon Musk",
+      "startSec": 5316.68,
+      "textEn": "That said, we do see a path to very high energy density and higher energy density and lower cost than anything else out there.",
+      "textZh": "话虽如此，我们确实看到了一条实现非常高的能量密度、更高的能量密度，以及比市面上其他任何产品都更低成本的路径。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0297",
+      "speakerEn": "Elon Musk",
+      "startSec": 5329.11,
+      "textEn": "But it's a hard path. It's a very hard path. And normally it would be absurd for companies to attempt such a thing. And no other car company is really attempting to do anything like this in a serious way. So I guess technically byd, because they started out as a battery company, but yeah, so it's a very difficult thing to do, but I think we are tracking to success in that regard.",
+      "textZh": "但这是一条艰难的道路。是一条非常艰难的道路。通常来说，公司试图做这种事会很荒谬。而且没有其他汽车公司真正以严肃的方式尝试做类似的事情。所以我想严格来说比亚迪算是，因为他们最初是一家电池公司，不过，是的，所以这是一件非常难做的事，但我认为我们在这方面正朝着成功推进。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0298",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 5360.8,
+      "textEn": "Hey, Elon, first of all, thank you for undoubtedly making the world a better place for my son to live in.",
+      "textZh": "嘿，埃隆，首先，谢谢你无疑让这个世界变成了一个更适合我儿子生活的地方。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0299",
+      "speakerEn": "Elon Musk",
+      "startSec": 5366.32,
+      "textEn": "Thank you. Can't even be safe.",
+      "textZh": "谢谢。甚至都不能安全。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0300",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 5371.09,
+      "textEn": "Once cybertruck is fully ramped in Austin, what is the target production? And also there's some rumors that you're thinking about stepping down as CEO.",
+      "textZh": "一旦 Cybertruck 在奥斯汀全面爬产，目标产量是多少？另外还有一些传闻说，你正在考虑辞去首席执行官一职。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0301",
+      "speakerEn": "Elon Musk",
+      "startSec": 5379.17,
+      "textEn": "Please say it ain't so. It ain't so.",
+      "textZh": "请说事实并非如此。事实并非如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0302",
+      "speakerEn": "Elon Musk",
+      "startSec": 5394.45,
+      "textEn": "Yeah, So I think Tesla's going to play an important role in AI and AGI, and I think I need to oversee that to make sure it's good, because that's a thorny problem if there ever was one.",
+      "textZh": "是的，所以我认为 Tesla 将在 AI 和 AGI 领域发挥重要作用，我认为我需要监督这件事以确保它是好的，因为如果世上真有什么棘手的问题，那就是这个了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0303",
+      "speakerEn": "Elon Musk",
+      "startSec": 5420.77,
+      "textEn": "I think generally people do not. Very few people, even in the AI community, do not appreciate just how much capability Tesla has in AI.",
+      "textZh": "我认为总体而言，人们并没有。即使在 AI 社区，也极少有人没有意识到 Tesla 在 AI 方面究竟拥有多强的能力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0304",
+      "speakerEn": "Elon Musk",
+      "startSec": 5434.63,
+      "textEn": "It's by far the most advanced real world AI. There's no one even close.",
+      "textZh": "它遥遥领先，是最先进的现实世界 AI。没有任何人能与之接近。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0305",
+      "speakerEn": "Elon Musk",
+      "startSec": 5440.63,
+      "textEn": "And reality has the most degrees of freedom. So I got to make sure that's good.",
+      "textZh": "而现实拥有最多的自由度。所以我必须确保它是好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0306",
+      "speakerEn": "Elon Musk",
+      "startSec": 5451.92,
+      "textEn": "So. And you were saying, sorry, Cybertruck fully ramps. Oh, yeah.",
+      "textZh": "所以。你刚才说的是，抱歉，Cybertruck 全面爬产。哦，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0307",
+      "speakerEn": "Elon Musk",
+      "startSec": 5459.2,
+      "textEn": "So I said, you know, we'll start production later this year. We'll start handing over cars later this year. There will be an S curve of production. So it'll be slow at first and then. And then ramping up, and I guess we'll see what the demand is like. So, I mean, I think there's. We're likely to do probably a quarter million a year, I think maybe more. Again, very much dependent on what the demand is like. And it's you know, we don't just need to ramp up production, but we also need to improve the production cost, cost efficiency, which is going to be also a very, very hard thing.",
+      "textZh": "所以我说过，你知道，我们将在今年晚些时候开始生产。我们将在今年晚些时候开始交付车辆。产量将呈 S 曲线增长。所以一开始会很慢，然后。然后逐步爬升，我想我们会看看需求情况如何。所以，我的意思是，我认为有。我们很可能会做到每年大约 25 万辆，我想也许会更多。再说一次，这在很大程度上取决于需求情况。而且，你知道，我们不仅需要提高产量，还需要改善生产成本、成本效率，这也会是一件非常、非常困难的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0308",
+      "speakerEn": "Elon Musk",
+      "startSec": 5502.54,
+      "textEn": "So, but I'd say it's, you know, a quarter million a year is a reasonable guess. And it might be 500,000, I don't know, but we'll make as many as people want and can afford. And, but, and then, like I said, it's going to be hard to make the cost affordable because it is a new car, new manufacturing method. So in, in the grand scheme of things, relative to the production rate of all the other cars we make, it will be small, but, but still very cool.",
+      "textZh": "所以，不过我会说，你知道，每年 25 万辆是一个合理的估计。也可能是 500,000 辆，我不知道，但人们想要多少并且买得起多少，我们就会生产多少。而且，但是，然后，就像我说的，要让成本变得可负担会很困难，因为这是一款新车，采用了新的制造方法。所以从大局来看，相对于我们生产的所有其他汽车的产量，它会很小，但，但仍然非常酷。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0309",
+      "speakerEn": "Elon Musk",
+      "startSec": 5538.26,
+      "textEn": "Yeah. Thanks, Elon.",
+      "textZh": "是的。谢谢，埃隆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0310",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 5540.3,
+      "textEn": "Maybe three more questions.",
+      "textZh": "也许再问 3 个问题。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0311",
+      "speakerEn": "Elon Musk",
+      "startSec": 5541.26,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0312",
+      "speakerEn": "Shareholder",
+      "startSec": 5544.74,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0313",
+      "speakerEn": "Elon Musk",
+      "startSec": 5546.02,
+      "textEn": "Good day, Mr. Musk.",
+      "textZh": "您好，马斯克先生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0314",
+      "speakerEn": "Shareholder",
+      "startSec": 5547.42,
+      "textEn": "Hello, my name is Delia Archer, and this question aims to address Tesla's efforts in developing skilled workforce, attracting diverse talent, and promoting career opportunities within the company. When I look around, I see a lot of young faces and I think about internships and apprenticeships for students in high school and beyond. My question is, are there any plans to expand existing partnerships and explore new avenues for collaborations with educational institutions and nonprofit organizations to attract the next generation and vary career pathways?",
+      "textZh": "大家好，我叫迪莉娅·阿彻，这个问题旨在了解 Tesla 在培养熟练劳动力、吸引多元化人才以及推动公司内部职业机会方面所做的努力。当我环顾四周时，我看到很多年轻的面孔，这让我想到面向高中及以上阶段学生的实习和学徒项目。我的问题是，是否有计划扩大现有合作关系，并探索与教育机构和非营利组织合作的新途径，以吸引下一代人才并丰富职业发展路径？",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0315",
+      "speakerEn": "Elon Musk",
+      "startSec": 5583.43,
+      "textEn": "Yeah, actually we, with, with all of our gigafactories, we work with the local schools, actually from a high school level, community college and university, because it's incredibly important to foster the talent for the factories. As you saw from the employment numbers, we actually need a lot of people. Even though we've got a lot of automation, we still need a lot of people to operate the factories and really matters that they have the right training.",
+      "textZh": "是的，实际上，我们，我们所有的超级工厂都会与当地学校合作，实际上从高中层面开始，包括社区学院和大学，因为为工厂培养人才极其重要。正如你从就业人数中看到的，我们实际上需要很多人。即使我们拥有大量自动化设备，仍然需要很多人来运营工厂，而他们是否接受了正确的培训真的很重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0316",
+      "speakerEn": "Elon Musk",
+      "startSec": 5610.56,
+      "textEn": "So we're big believers in reaching out to educational institutions and because frankly, it's in our interest to do so. So thank you for asking the question. All right,",
+      "textZh": "所以我们非常相信要主动联系教育机构，坦率地说，因为这样做符合我们的利益。所以谢谢你提出这个问题。好了，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0317",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 5626.32,
+      "textEn": "Elon.",
+      "textZh": "埃隆。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0318",
+      "speakerEn": "Elon Musk",
+      "startSec": 5626.84,
+      "textEn": "Josh Fuller. I had originally thought, thought of asking about the fun police and pushing back on the boombox and allowing us to screech at people with goats again. But after seeing Optimus, I was inspired to ask does. Has anybody asked Optimus's opinion of Mars and does he have a ticket yet?",
+      "textZh": "乔什·富勒。我原本想过，想问问扫兴警察的事，反对他们限制外放扬声器，并允许我们再次用山羊声对着人尖叫。但看到 Optimus 后，我受到启发，想问问。有人问过 Optimus 对火星的看法吗，他拿到票了吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0319",
+      "speakerEn": "Elon Musk",
+      "startSec": 5649.55,
+      "textEn": "Well, you know, Optimus is not a deep thinker at this point.",
+      "textZh": "嗯，你知道，Optimus 目前还不是一个深刻的思考者。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0320",
+      "speakerEn": "Elon Musk",
+      "startSec": 5655.48,
+      "textEn": "So Optimus is still, you know, figuring out how to do basic stuff like it couldn't make, you know, cook some eggs or something quite yet.",
+      "textZh": "所以 Optimus 仍在，你知道，摸索如何做一些基本的事情，比如它还不能做，你知道，煎几个鸡蛋之类的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0321",
+      "speakerEn": "Elon Musk",
+      "startSec": 5669,
+      "textEn": "So we need to get Optimus to the point where it has reasonable agility and can and can do basic things.",
+      "textZh": "所以我们需要让 Optimus 达到具备足够的灵活性，并且能、能做基本事情的程度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0322",
+      "speakerEn": "Elon Musk",
+      "startSec": 5679.88,
+      "textEn": "And, you know, and we're aiming for, to start off doing simple tasks that are sort of boring and Repetitive or dangerous, basically jobs people don't want to do. So that's our goal and I'm confident we'll achieve that goal. And then we've got to figure out how to make it at scale, make sure that the robots, the robot is safe. I think it's going to be very important to have a local means of turning it off.",
+      "textZh": "而且，你知道，我们的目标是，先从做一些有些无聊、重复或危险的简单任务开始，基本上就是人们不想做的工作。所以这是我们的目标，我有信心我们会实现这个目标。然后我们必须弄清楚如何大规模生产它，确保这些机器人、这个机器人是安全的。我认为，拥有一种能在本地将其关闭的方式会非常重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0323",
+      "speakerEn": "Elon Musk",
+      "startSec": 5711.54,
+      "textEn": "So safety is going to be extremely important. I can't emphasize that enough. But right now it is not at an intelligence level where it's pondering questions like Mars, perhaps it will be one day.",
+      "textZh": "所以安全将极其重要。这一点我再怎么强调都不为过。但目前它的智能水平还没有达到会思考火星这类问题的程度，也许有一天会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0324",
+      "speakerEn": "Elon Musk",
+      "startSec": 5731.06,
+      "textEn": "Hi, good afternoon, Elon. My name is Luke Arsenault. I just want to start off by saying big thank you to you and the team of Tesla for all you guys do. It's been great to see and I'm so happy for you guys. My question is, with the rise in cybersecurity threats to operational technology and Internet of things, what steps is Tesla taking to protect the company itself and its products from these threats? Also, as a suggestion, because I know you like suggestions for the navigation, do you think we could do something on the UI that adds in when you're",
+      "textZh": "嗨，下午好，埃隆。我叫卢克·阿瑟诺。我首先只想向你和 Tesla 团队表示非常感谢，感谢你们所做的一切。看到这一切非常棒，我真为你们感到高兴。我的问题是，随着针对运营技术和物联网的网络安全威胁日益增加，Tesla 正在采取哪些措施来保护公司本身及其产品免受这些威胁？另外，提个建议，因为我知道你喜欢关于导航功能的建议，你觉得我们能不能在用户界面上做点什么，在你即将",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0325",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 5760.41,
+      "textEn": "about to take the off ramp to show a picture of that exit, kind",
+      "textZh": "驶入出口匝道时显示那个出口的图片，有点",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0326",
+      "speakerEn": "Elon Musk",
+      "startSec": 5763.85,
+      "textEn": "of like other map systems do? And then also. Oh, man, this is a lot of questions. One of my friends wanted to get a shotgun from you, if that's possible.",
+      "textZh": "像其他地图系统那样？然后还有。哦，天啊，问题太多了。我的一个朋友想从你那里得到一把霰弹枪，如果可以的话。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0327",
+      "speakerEn": "Elon Musk",
+      "startSec": 5772.33,
+      "textEn": "Okay, well, we are constantly improving the navigation system and being robust to hacking is incredibly important. In fact, we, we conduct a lot of sort of third party hacking contests to try to get the best hackers in the world to break into our cars. And actually no one has yet actually broken into a Tesla in a way that would allow you to really control the car in a significant way. But they have gotten to where they can honk the horn and mess with the infotainment system.",
+      "textZh": "好的，嗯，我们一直在不断改进导航系统，而具备抵御黑客攻击的能力极其重要。事实上，我们，我们举办了许多某种第三方黑客竞赛，试图让世界上最优秀的黑客攻入我们的汽车。实际上，还没有人真正以一种能让你在很大程度上真正控制汽车的方式攻入过 Tesla。但他们已经能做到按响喇叭和扰乱信息娱乐系统。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0328",
+      "speakerEn": "Elon Musk",
+      "startSec": 5810.38,
+      "textEn": "And I'd like to thank, thank them for their efforts.",
+      "textZh": "我想感谢、感谢他们所做的努力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0329",
+      "speakerEn": "Elon Musk",
+      "startSec": 5813.78,
+      "textEn": "So we take information security extremely seriously for navigation. Yeah, there's definitely things we can improve there, but really down the road, navigation visuals are not going to matter very much because the car is going to take you wherever you want to go.",
+      "textZh": "所以我们极其重视信息安全。至于导航，是的，我们肯定还有可以改进的地方，但从长远来看，导航画面其实不会有多重要，因为汽车会把你带到任何你想去的地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0330",
+      "speakerEn": "Elon Musk",
+      "startSec": 5834.1,
+      "textEn": "Yeah. As for pictures, I, I have to, I have to decline, unfortunately, because otherwise if I say I hate being, I actually hate being rude to people. So if I say yes to one person, then it's like selfies for a zillion. You know, it gets kind of, gets kind of crazy. So. But thanks for asking. Maybe we'll take one or two more questions actually. So.",
+      "textZh": "是的。至于合影，我，我不得不，我不得不遗憾地拒绝，因为否则如果我答应的话——我讨厌对人无礼，我其实非常讨厌对人无礼。所以如果我答应一个人，那就会变成拍无数张自拍。你知道，事情会变得有点，会变得有点疯狂。所以。不过谢谢你询问。实际上，也许我们再回答1或2个问题。那么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0331",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 5860.36,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0332",
+      "speakerEn": "Elon Musk",
+      "startSec": 5864.53,
+      "textEn": "I don't know.",
+      "textZh": "我不知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0333",
+      "speakerEn": "Shareholder",
+      "startSec": 5868.61,
+      "textEn": "Okay. What's your issue.",
+      "textZh": "好的。你有什么问题。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0334",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 5872.69,
+      "textEn": "Sorry, hello. I had a question on the efficiency. I don't know if you've been paying attention to Aptera and I was curious if you thought that was a space that you could see Tesla getting into as far as not just an efficient manufacturing process, but also the actual car itself.",
+      "textZh": "抱歉，你好。我有一个关于效率的问题。我不知道你是否一直在关注 Aptera，我很好奇，你是否认为这是 Tesla 可能进入的领域，不仅是在高效制造流程方面，也包括汽车本身。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0335",
+      "speakerEn": "Elon Musk",
+      "startSec": 5889.52,
+      "textEn": "In range I.",
+      "textZh": "在续航方面我。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0336",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 5892.8,
+      "textEn": "Or just buy.",
+      "textZh": "或者就买。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0337",
+      "speakerEn": "Elon Musk",
+      "startSec": 5893.92,
+      "textEn": "I'm not super familiar with them, but we have a lot of. We have a lot of products to get done. It's not like this is. It's never a shortage of ideas.",
+      "textZh": "我对他们不是特别熟悉，但我们有很多。我们有很多产品要完成。并不是说这。想法从来都不缺。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0338",
+      "speakerEn": "Shareholder",
+      "startSec": 5907.2,
+      "textEn": "Ideas.",
+      "textZh": "想法。",
+      "speakerZh": "股东"
+    },
+    {
+      "id": "p-0339",
+      "speakerEn": "Elon Musk",
+      "startSec": 5907.72,
+      "textEn": "Frankly, I find ideas to be somewhat trivial, but the execution of the idea is extremely, extremely difficult. And I said like, prototypes are easy. Production is hard production and cash flow positive is excruciating pain at a level you cannot believe. So it's not product ideas, they're irrelevant. That's what I think of them.",
+      "textZh": "坦率地说，我觉得想法多少有些微不足道，但执行想法却极其、极其困难。我说过，原型很容易。生产很难，而实现生产并取得正现金流，是一种痛苦到你无法想象的煎熬。所以问题不在于产品创意，它们无关紧要。这就是我对它们的看法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0340",
+      "speakerEn": "Elon Musk",
+      "startSec": 5933.6,
+      "textEn": "It's sort of like the idea of going to the moon. That's not. Who could. That's. That's irrelevant. Getting to the moon is the hard part.",
+      "textZh": "这有点像登月这个想法。那并不。谁能。那。那无关紧要。真正登上月球才是困难的部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0341",
+      "speakerEn": "Elon Musk",
+      "startSec": 5942.58,
+      "textEn": "So. Okay, so maybe one last question. Yeah, Elon, John Lopez from Orlando here. I've got two things for you real quick. The first one is with rideshare being a growing thing, especially with Tesla owners, are we going to get a guest mode option available for that? The second thing is, is as an X flat owner, I would really love to get track mode. As a what, sorry, X plaid.",
+      "textZh": "那么。好的，也许最后再问一个问题。好的，埃隆，我是来自奥兰多的约翰·洛佩兹。我有两件事想很快问你。第一件事是，随着网约车越来越普及，尤其是在 Tesla 车主中，我们会获得可用于此场景的访客模式选项吗？第二件事是，作为一名 X flat 车主，我真的非常希望能获得赛道模式。作为一名什么车主，抱歉，X Plaid。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0342",
+      "speakerEn": "Elon Musk",
+      "startSec": 5968.19,
+      "textEn": "Well, plaid has track mode. The Model X plaid does not though. Oh, oh, Model X.",
+      "textZh": "嗯，Plaid 有赛道模式。不过 Model X Plaid 没有。哦，哦，Model X。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0343",
+      "speakerEn": "Elon Musk",
+      "startSec": 5974.67,
+      "textEn": "Yeah, we can probably add that. Sure.",
+      "textZh": "好的，我们大概可以加上。当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0344",
+      "speakerEn": "Elon Musk",
+      "startSec": 5977.79,
+      "textEn": "Yeah, no problem.",
+      "textZh": "好的，没问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0345",
+      "speakerEn": "Elon Musk",
+      "startSec": 5980.35,
+      "textEn": "So rideshare is.",
+      "textZh": "那么网约车是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0346",
+      "speakerEn": "Elon Musk",
+      "startSec": 5985.87,
+      "textEn": "A bunch of these things will really not be relevant in a self driving world. You can summon the car and take you somewhere and if you want to add someone to that ride, you can if you want to. But overwhelmingly it is about achieving self driving. Full self driving. And you know, I think we're really getting to the final stages of full self driving where, I mean, I drove for several days around Austin just dropping pins in random locations and had zero safety interventions.",
+      "textZh": "在自动驾驶的世界里，这些东西中有很多其实都不再重要。你可以召唤车辆，让它带你去某个地方；如果你想让某个人加入这趟行程，也可以这么做。但最重要的还是实现自动驾驶。完全自动驾驶。而且，你知道，我认为我们确实正在进入完全自动驾驶的最后阶段，我的意思是，我连续几天在奥斯汀各处开车，只是在随机地点放置图钉，而且安全接管次数为零。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0347",
+      "speakerEn": "Elon Musk",
+      "startSec": 6021.89,
+      "textEn": "So it's really. Even in the city of San Francisco, which is very complex. I haven't had a safety intervention in a long time. So I think it's really getting to the point where admittedly I have been optimistic about this in the past, but I think this time.",
+      "textZh": "所以这确实。即使是在非常复杂的旧金山市，我也已经很久没有进行安全接管了。所以我认为确实快到那个时候了，诚然，我过去对此一直很乐观，但我认为这一次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0348",
+      "speakerEn": "Elon Musk",
+      "startSec": 6047.07,
+      "textEn": "All right, I won't say it. All right, fair enough. All right, Okay. I think it'll happen, you know, so.",
+      "textZh": "好吧，我不说了。好吧，有道理。好吧，好的。我认为它会实现的，你知道，所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0349",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 6066.75,
+      "textEn": "All right.",
+      "textZh": "好吧。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0350",
+      "speakerEn": "Elon Musk",
+      "startSec": 6067.55,
+      "textEn": "You want one last question? Sure.",
+      "textZh": "你想再问最后一个问题吗？当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0351",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 6074.52,
+      "textEn": "So first, congratulations on your decision to try advertising. We all want Tesla to pay Apple in market cap.",
+      "textZh": "那么首先，祝贺你决定尝试投放广告。我们都希望Tesla在市值上向苹果支付。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0352",
+      "speakerEn": "Elon Musk",
+      "startSec": 6082.92,
+      "textEn": "I Don't realize people wanted it that much. Okay, it's good that a lot of people agree.",
+      "textZh": "我没意识到人们这么想要它。好的，很多人都赞同，这很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0353",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 6087.56,
+      "textEn": "So earlier this year you cut prices on everything, 15, 20%. More recently you've been raising prices on Model Y, Model S, Model X. And can you just talk about the pricing strategy on Model Y going forward and keep it separate from the decision to bring out the next gen vehicles that we all agree is going to blow the doors off on volume, but just on Model Y, it's the best selling product in the world.",
+      "textZh": "那么，今年早些时候，你把所有产品的价格都下调了15%、20%。最近，你又一直在提高Model Y、Model S、Model X的价格。你能否谈谈未来Model Y的定价策略，并把它与推出下一代车型的决定分开来谈？我们都认同，下一代车型的销量将会极其惊人，但只谈Model Y，它是世界上最畅销的产品。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0354",
+      "speakerEn": "Elon Musk",
+      "startSec": 6112.15,
+      "textEn": "Can you just talk about strategy of",
+      "textZh": "你能不能谈谈",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0355",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 6113.63,
+      "textEn": "pricing going forward on that?",
+      "textZh": "它未来的定价策略？",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0356",
+      "speakerEn": "Elon Musk",
+      "startSec": 6115.99,
+      "textEn": "I mean it's pretty straightforward. I mean we see what the demand is and then we adjust pricing to meet the demand. Now the thing is that what is, you know what happens with other carmakers is that they're actually constantly adjusting pricing on cars. It's just not obvious. The, in the case of Tesla you can see immediately when there's a price change that occurs because we don't have any intermediaries, don't have any dealers.",
+      "textZh": "我的意思是，这相当直接。我的意思是，我们会观察需求情况，然后调整定价来匹配需求。现在，问题是，你知道，其他汽车制造商的情况是，他们实际上一直在调整汽车价格。只是并不明显。在Tesla的情况下，一旦发生价格变动，你马上就能看到，因为我们没有任何中间商，也没有任何经销商。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0357",
+      "speakerEn": "Elon Musk",
+      "startSec": 6143.6,
+      "textEn": "There's no, there's no manufactured manufacturers, just the reason retail price. So but the reality is actually at car dealers the prices are changing radically. I mean last year there were significant premiums above MSRP at sort of the conventional car dealer, you know, like, so you'd pay above MSRP last year and then this year I think things are below MSRP or close to it and then the manufacturers will then also offer incentives.",
+      "textZh": "没有，没有制造出来的制造商，只有理由零售价。所以，但现实是，汽车经销商那里的价格实际上正在剧烈变化。我的意思是，去年传统汽车经销商那里的价格明显高于厂商建议零售价，你知道，比如说，去年你要支付高于厂商建议零售价的价格，而今年，我认为价格低于厂商建议零售价或接近它，然后制造商还会提供优惠。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0358",
+      "speakerEn": "Elon Musk",
+      "startSec": 6177.87,
+      "textEn": "So what's actually happening is are very big price shifts by other car makers. They're just not obvious. Whereas with Tesla it's obvious.",
+      "textZh": "所以，其他汽车制造商实际正在进行的是非常大幅度的价格变动。只是这些变动并不明显。而Tesla的变动是明显的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0359",
+      "speakerEn": "Elon Musk",
+      "startSec": 6194.75,
+      "textEn": "So and this is necessary because demand fluctuates a lot. So something's got to be done to achieve a supply demand clearing point for volume.",
+      "textZh": "所以，这是必要的，因为需求波动很大。因此，必须采取某种措施，才能在销量方面达到供需出清点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0360",
+      "speakerEn": "Elon Musk",
+      "startSec": 6207.16,
+      "textEn": "So just people are reacting to something that's obvious as opposed to saying oh yes, every car company does this all the time. Tesla is no exception. That's the actual reality. So. All right,",
+      "textZh": "所以，人们只是对显而易见的事情作出反应，而不是说，哦，是的，每家汽车公司一直都这么做。Tesla也不例外。这才是实际情况。所以。好吧，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0361",
+      "speakerEn": "Robyn Denholm (Board Chair)",
+      "startSec": 6226.05,
+      "textEn": "Last question.",
+      "textZh": "最后一个问题。",
+      "speakerZh": "罗宾·德纳姆（董事会主席）"
+    },
+    {
+      "id": "p-0362",
+      "speakerEn": "Elon Musk",
+      "startSec": 6227.97,
+      "textEn": "I'll be really quick. Okay, so I will say I have been driving fsd. My wife drives fsd. There's a, a term called the wife test. My wife will only drive our kids on fsd. It's incredible. That's, that, that is a great, I mean the sort of significant other test is a very, a good test because there were, while there, there was like, you know, friends or significant others would be like, please don't put it on, it's too scary.",
+      "textZh": "我会非常简短。好的，所以我想说，我一直在使用 FSD 驾驶。我妻子也使用 FSD 驾驶。有一个，一个叫作“妻子测试”的说法。我妻子只会在开启 FSD 时载我们的孩子。太不可思议了。那，那，那是一个很棒的，我是说，这种重要他人测试是一个非常，一个很好的测试，因为曾经，曾经有一段时间，像是，你知道，朋友或重要他人会说，求你别打开它，太吓人了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0363",
+      "speakerEn": "Elon Musk",
+      "startSec": 6256.03,
+      "textEn": "But then it gets, it's getting to the point where, I mean it's, it's going to be Just smooth as silk. So in fact you'll be able to visually tell, perhaps even now you can visually tell if the car is being driven on FSD or manually. Because if it's being driven on fsd, it's, it's smooth, smooth and precise. And if you look at actual experience, if you actually closely observe cars going down the highway, people are constantly moving in their lanes.",
+      "textZh": "但后来它变得，它正在达到这样一个程度，我是说，它，它会变得如丝般顺滑。事实上，你将能够从视觉上分辨，或许即使现在，你也能从视觉上分辨这辆车是由 FSD 驾驶还是手动驾驶。因为如果它是由 FSD 驾驶的，它就会，很平稳、平稳且精准。而如果你观察实际情况，如果你真的仔细观察在高速公路上行驶的车辆，人们会不断地在车道内左右移动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0364",
+      "speakerEn": "Elon Musk",
+      "startSec": 6281.46,
+      "textEn": "So the cars are like doing this all the time when they're manually driven. If it's actually on fsd, it's dead center in the lane and it will actually get to the point where it is not merely, and maybe is at that point not merely safer than a person, but actually way smoother than manual driving.",
+      "textZh": "所以，汽车在手动驾驶时一直都像这样来回晃。如果实际上开启了 FSD，它会稳稳地处于车道正中央，而且它最终确实会达到这样一个程度：它不仅仅，而且或许在那时已经不仅仅是比人更安全，实际上还比手动驾驶平稳得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0365",
+      "speakerEn": "Elon Musk",
+      "startSec": 6305.77,
+      "textEn": "I just really, I can't say enough about the profundity of full self driving. It is just one of the biggest changes in history that will occur. It's not some feature. It's like a profound, it's really as profound as electrification.",
+      "textZh": "我真的，我怎么强调完全自动驾驶的深远意义都不为过。它将是历史上会发生的最大变革之一。它不是什么功能。它是一种深远的，它真的和电气化一样意义深远。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0366",
+      "speakerEn": "Elon Musk",
+      "startSec": 6328.26,
+      "textEn": "And we already have millions of the cars on the road that will literally achieve this with a software update. I mean that's like head explosion emoji, you know.",
+      "textZh": "而且我们已经有数百万辆汽车在路上行驶，它们真的只需一次软件更新就能实现这一点。我是说，这就像脑袋爆炸表情符号，你知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0367",
+      "speakerEn": "Elon Musk",
+      "startSec": 6340.66,
+      "textEn": "And I think probably a lot of people in this room realize it, but the rest, most of the rest of the world doesn't. Yeah.",
+      "textZh": "而且我认为这个房间里可能有很多人意识到了这一点，但其他人，世界上其余的大多数人并没有。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0368",
+      "speakerEn": "Elon Musk",
+      "startSec": 6356.83,
+      "textEn": "Given how incredible FSD is and how much, you know, merit you're giving to potential future margins of the car as well as how much an impact on society and given that they didn't even want you to say if it's going to happen this year, just you know, not to jinx it. Sure. Would it be possible to have just force some type of public facing, investor facing kind of timeline? So that way, you know, we, you mentioned V12 is coming, coming and that's you know, AI front end.",
+      "textZh": "鉴于 FSD 如此不可思议，以及你对汽车未来潜在利润率给予了多大的，你知道，重视，也鉴于它对社会的影响有多大，再考虑到他们甚至不希望你说它今年是否会实现，只是，你知道，免得说了不吉利。好的。有没有可能就是强制制定某种面向公众、面向投资者的时间线？这样的话，你知道，我们，你提到 V12 就要来了、就要来了，而那是，你知道，AI 前端。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0369",
+      "speakerEn": "Elon Musk",
+      "startSec": 6381.25,
+      "textEn": "Could we just see kind of a timeline on. This is the version we're at. These are the things we're working on and this is when we're, you know, eta. So we can kind of see that in real time instead of a maybe elon time.",
+      "textZh": "我们能不能就是看到某种时间线，说明。这是我们目前所处的版本。这些是我们正在做的事情，而这是我们将会在什么时候，你知道，预计完成。这样我们就能近乎实时地看到，而不是也许按埃隆时间来看。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0370",
+      "speakerEn": "Elon Musk",
+      "startSec": 6392.53,
+      "textEn": "So the, the thing that's been, you know, really difficult with full self driving is that it's, it's, it very often seems like it's about to happen until you realize that you're actually at a local maximum and that you need to re architect elements of the software to get out of the local maximum to then a higher local maximum. So it's been a sort of series of logarithmic curves and that's why it's been like, it seemed like oh, if you Just extrapolate this.",
+      "textZh": "所以，完全自动驾驶一直以来，你知道，真正困难的地方在于，它，它，它经常看起来像是马上就要实现了，直到你意识到自己实际上处于一个局部最大值，而你需要重新设计软件中的一些部分，以摆脱这个局部最大值，进而达到一个更高的局部最大值。所以它一直是一系列某种对数曲线，这就是为什么它一直像是，看起来好像，哦，如果你只是把这个趋势外推。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0371",
+      "speakerEn": "Elon Musk",
+      "startSec": 6426.9,
+      "textEn": "On a straight line, it gets self driving, except that it's not a straight line, it's logarithmic curve and it's sort of. And you start hitting these like local maximums where you'll sort of asymptote to a certain capability and then have to re architect things. So now I think we're finally at a high enough local maximum or will be this year. Where to the point where it is, I think probably safer than a person, meaning the probability of injury on average will be better than a person, even if someone pays no attention to the car.",
+      "textZh": "沿一条直线外推，它就能实现自动驾驶，但问题是它不是一条直线，而是一条对数曲线，而且它有点。然后你开始撞上这些类似局部最大值的地方，你会以某种方式渐近于某种能力，之后就必须重新设计一些东西。所以现在我认为，我们终于达到了一个足够高的局部最大值，或者今年将会达到。达到这样一个程度，我认为它可能比人更安全，也就是说，即使有人完全不注意车辆，平均受伤概率也会优于人类驾驶。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0372",
+      "speakerEn": "Elon Musk",
+      "startSec": 6462.84,
+      "textEn": "It is worth saying that right now for human supervised Tesla full self driving, it is dramatically safer than manual driving. It's like, I think like four times safer, maybe more so. It is already a massive safety improvement to have human supervised FSD right now. And I think we will get to the point where we're always going to be in some amount of local maximum, but I think we'll be in a local maximum that exceeds human level safety this year.",
+      "textZh": "值得一提的是，就目前由人类监督的 Tesla 完全自动驾驶而言，它远比手动驾驶安全。就像，我认为大约安全 4 倍，也许还不止。目前使用由人类监督的 FSD 已经能大幅提升安全性。而且我认为，我们将达到这样一个程度：我们总会处于某种程度的局部最大值，但我认为今年我们将处于一个超过人类安全水平的局部最大值。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0373",
+      "speakerEn": "Elon Musk",
+      "startSec": 6503.57,
+      "textEn": "Yeah, but I guess we'll see. So anyway, I want to thank you all for coming and so,",
+      "textZh": "对，不过我想我们会看到的。那么无论如何，我想感谢大家前来，所以，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0374",
+      "speakerEn": "Martin Viecha (IR)",
+      "startSec": 6515.7,
+      "textEn": "so.",
+      "textZh": "所以。",
+      "speakerZh": "马丁·维查（投资者关系）"
+    },
+    {
+      "id": "p-0375",
+      "speakerEn": "Elon Musk",
+      "startSec": 6529.7,
+      "textEn": "Just want to say, you know, your support is super appreciated and you know the. As I say, a friend in need is a friend indeed. And supporting Tesla when the chips are down, those are the real friends and you're them. So thank you.",
+      "textZh": "只想说，你知道，非常感谢你们的支持，而且你们知道这个。正如我所说，患难见真情。在Tesla处境艰难时支持Tesla的人，才是真正的朋友，而你们就是。所以，谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0376",
+      "speakerEn": "Elon Musk",
+      "startSec": 6556.75,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T04:08:33.844Z",
+    "reviewedAt": "2026-09-13T04:55:15.416Z"
+  },
+  "fetchedAt": "2026-09-12T07:12:32.763Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "6b28a6cdb591277c958f64aee0ebb44b7eac01f760dda670d6d05d1a3b4168d3"
+}

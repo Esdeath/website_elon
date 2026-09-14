@@ -1,0 +1,622 @@
+{
+  "id": "golden-steering-wheel-award-2019-11-12",
+  "slug": "golden-steering-wheel-award-2019-11-12",
+  "snapshotId": "2026-09-12",
+  "type": "speech",
+  "date": "2019-11-12",
+  "titleEn": "Golden Steering Wheel Award",
+  "titleZh": "金方向盘奖",
+  "summaryEn": "Musk accepts the Goldenes Lenkrad award and announces that Tesla's first European Gigafactory will be built near Berlin.",
+  "summaryZh": "马斯克领取金方向盘奖，并宣布 Tesla 的首座欧洲超级工厂将在柏林附近建造。",
+  "sourceUrl": "https://www.youtube.com/watch?v=PV2zS3R7VNI",
+  "sourceLabel": "SentientSystem",
+  "archiveUrl": "https://elonmuskarchive.org/video/golden-steering-wheel-award-2019-11-12",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/PV2zS3R7VNI",
+  "thumbnailUrl": "https://i.ytimg.com/vi/PV2zS3R7VNI/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 713,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Host",
+      "startSec": 22.48,
+      "textEn": "Audi r fear.",
+      "textZh": "奥迪 r 恐惧。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Host",
+      "startSec": 30.48,
+      "textEn": "BMW dryer.",
+      "textZh": "宝马烘干机。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Herbert Diess (VW)",
+      "startSec": 38.86,
+      "textEn": "Tesla model drive.",
+      "textZh": "Tesla 车型驾驶。",
+      "speakerZh": "赫伯特·迪斯（大众汽车）"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Herbert Diess (VW)",
+      "startSec": 57.34,
+      "textEn": "Plus tesla model drive.",
+      "textZh": "加上 Tesla 车型驾驶。",
+      "speakerZh": "赫伯特·迪斯（大众汽车）"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Host",
+      "startSec": 70.82,
+      "textEn": "Most points amongst all cars. Welcome and good evening. The CEO fontes life, elon musk.",
+      "textZh": "在所有汽车中得分最高。欢迎各位，晚上好。fontes life 的首席执行官，埃隆·马斯克。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Host",
+      "startSec": 83.22,
+      "textEn": "Good evening. It's a pleasure having you.",
+      "textZh": "晚上好。很高兴有你到场。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Host",
+      "startSec": 118.72,
+      "textEn": "Come over. Good evening, Mr. Musk, it's great to have you here. Robin will first tell us what the jewelry thought about the wonderful Tesla.",
+      "textZh": "过来吧。晚上好，马斯克先生，很高兴你能来到这里。罗宾会先告诉我们，珠宝对这辆出色的 Tesla 有何看法。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Jury Member",
+      "startSec": 127.18,
+      "textEn": "Yeah, thank you. So The TEFLA Model 3 maybe is the biggest surprise in our test field. The jury thinks The Tesla Model 3 is cool. But of course you get no points for just being cool.",
+      "textZh": "好的，谢谢。那么，TEFLA Model 3 或许是我们测试阵容中最大的惊喜。评审团认为 Tesla Model 3 很酷。但当然，仅仅因为很酷是拿不到分的。",
+      "speakerZh": "评审团成员"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Jury Member",
+      "startSec": 144.22,
+      "textEn": "You do so therefore The Tesla Model 3 scores for agility, for the equipment and for its low cost of ownership. And as you already said, overall The Tesla Model 3 collects more points than any other finalist. So congratulations.",
+      "textZh": "确实能拿到分，因此 Tesla Model 3 凭借灵活性、配置以及较低的持有成本获得了分数。正如你刚才所说，从总体来看，Tesla Model 3 的得分高于其他所有入围车型。所以恭喜。",
+      "speakerZh": "评审团成员"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Host",
+      "startSec": 163.38,
+      "textEn": "No wonder for you.",
+      "textZh": "对你来说毫不意外。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 168.18,
+      "textEn": "Well, thank you for this award. On behalf of the people of Tesla who worked really hard to make the Model 3. Thank you for this award.",
+      "textZh": "嗯，感谢你们颁发这个奖项。我谨代表那些为制造 Model 3 而非常努力工作的 Tesla 员工，感谢你们颁发这个奖项。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Jury Member",
+      "startSec": 176.58,
+      "textEn": "Great.",
+      "textZh": "太棒了。",
+      "speakerZh": "评审团成员"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 178.58,
+      "textEn": "And I actually have an announcement which I think we hopefully well received, that we've decided to put the Tesla Gigafactory Europe in the Berlin area.",
+      "textZh": "而且我确实有一项消息要宣布，我想我们希望它能受到欢迎，那就是我们已经决定把 Tesla 欧洲超级工厂设在柏林地区。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Host",
+      "startSec": 192.82,
+      "textEn": "That's news.",
+      "textZh": "这是新闻。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 194.34,
+      "textEn": "That's news.",
+      "textZh": "这是新闻。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Host",
+      "startSec": 194.94,
+      "textEn": "So you come up with this news tonight. This is wonderful. Yeah. Great. So we'll see you more often here in Berlin.",
+      "textZh": "所以你今晚带来了这则消息。这太棒了。是的。太好了。那么以后我们会更经常在柏林见到你。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 201.38,
+      "textEn": "Yeah, I kind of learn a lot.",
+      "textZh": "是的，我算是学到了很多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Host",
+      "startSec": 202.85,
+      "textEn": "Will you come then by the slow old fashioned plane or by hyperloop?",
+      "textZh": "那么到时候你会搭乘缓慢、老式的飞机过来，还是搭乘超级高铁？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 206.65,
+      "textEn": "I love Berlin.",
+      "textZh": "我爱柏林。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Host",
+      "startSec": 207.89,
+      "textEn": "Yeah, yeah.",
+      "textZh": "是的，是的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Host",
+      "startSec": 210.45,
+      "textEn": "When will you come by hyperloop?",
+      "textZh": "你什么时候会搭乘超级高铁过来？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 212.53,
+      "textEn": "I mean this might happen. Might come by rocket.",
+      "textZh": "我的意思是，这可能会发生。也可能搭火箭来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Host",
+      "startSec": 219.49,
+      "textEn": "You know, you were here I think in 2014, achieving the golden steering wheel for lifetime achievement. Then you came back for Model X and you promised to come back when Model 3 is going to have an award. What will you promise this time?",
+      "textZh": "你知道，我想你曾在 2014 年来到这里，获得终身成就金方向盘奖。后来你又为了 Model X 回来，而且承诺会在 Model 3 获奖时再回来。这一次你会承诺什么？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 234.9,
+      "textEn": "I mean if you. I give in, you know, I mean, here's the irony. In the future there may not be a steering wheel.",
+      "textZh": "我的意思是，如果你。我认输了，你知道，我的意思是，讽刺之处在于，未来可能不会有方向盘。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Host",
+      "startSec": 242.26,
+      "textEn": "Yeah, yeah, yeah, we talked about that already. Yeah. What will that be?",
+      "textZh": "是的，是的，是的，我们已经谈过这个了。是的。那会是什么？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 247.86,
+      "textEn": "I don't know.",
+      "textZh": "我不知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Host",
+      "startSec": 248.5,
+      "textEn": "Tell us what, I mean we have to design it. Tell us, what's your vision?",
+      "textZh": "告诉我们是什么，我的意思是，我们必须把它设计出来。告诉我们，你的构想是什么？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 253.3,
+      "textEn": "I don't know, like a hologram or something.",
+      "textZh": "我不知道，比如全息影像之类的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Host",
+      "startSec": 256.18,
+      "textEn": "Hologram, okay.",
+      "textZh": "全息影像，好吧。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 257.02,
+      "textEn": "Yeah, like the AI that's driving the car.",
+      "textZh": "是的，就像驾驶汽车的 AI。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Host",
+      "startSec": 261.26,
+      "textEn": "Okay, yeah, we try to visualize that. Yeah.",
+      "textZh": "好吧，是的，我们试着把它视觉化。是的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 263.54,
+      "textEn": "Throw in a hologram.",
+      "textZh": "加个全息影像。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Host",
+      "startSec": 264.78,
+      "textEn": "Wonderful. It's great to have you here and a good chance also to talk with you a little bit more.",
+      "textZh": "太棒了。很高兴你能来到这里，也正好有机会和你多聊一会儿。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Host",
+      "startSec": 283.58,
+      "textEn": "There's a little chit chat, talk with the boy.",
+      "textZh": "来点闲聊，和那个男孩谈谈。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Moderator",
+      "startSec": 288.68,
+      "textEn": "All right here in the middle.",
+      "textZh": "好，就在中间这里。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Moderator",
+      "startSec": 294.68,
+      "textEn": "So you know each other very well. We know. And you meet each other sometimes in California, I think. What are you doing when you meet you both? Telling stories about electro mobility, driving cars, testing, drinking.",
+      "textZh": "所以你们彼此非常熟悉。我们知道。我想你们有时会在加利福尼亚见面。你们两位见面时都做些什么？讲电动出行的故事、开车、测试、喝酒。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Jury Member",
+      "startSec": 310.68,
+      "textEn": "What Are you doing all those things?",
+      "textZh": "什么，你们所有这些事情都做吗？",
+      "speakerZh": "评审团成员"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 312.24,
+      "textEn": "I mean, of course we party like rock stars. It's crazy.",
+      "textZh": "我的意思是，我们当然会像摇滚明星一样开派对。太疯狂了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 319.5,
+      "textEn": "We talk about cars, you know, and the future. Cars.",
+      "textZh": "我们会聊汽车，你知道，还有未来。汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Moderator",
+      "startSec": 322.86,
+      "textEn": "Yeah. Herbert is pushing the Volkswagen Group into electromobility very, very hard. And the IDG3 is not here this year. Maybe next year. Are you inspired by Elon or is there no alternative for this new engine?",
+      "textZh": "是的。赫伯特正在非常、非常努力地推动大众汽车集团转向电动出行。IDG3 今年没有来到这里。也许明年。你是受到了埃隆的启发，还是说这种新发动机没有其他选择？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Herbert Diess (VW)",
+      "startSec": 342.78,
+      "textEn": "Yeah, first of all, I really, I wanted to congratulate you. Great achievement. Now with all this competition here in Germany, winning this award, I think it's a great achievement. We know each other, we don't meet so often. We know each other since a few years. And I would say that we share a vision which is that we only can achieve the CO2 targets and reduce carbon emissions through electric cars. And we also share a vision that the car becomes really an Internet device.",
+      "textZh": "是的，首先，我真的，我想祝贺你。了不起的成就。如今德国这里竞争如此激烈，还能赢得这个奖，我认为这是一项了不起的成就。我们彼此认识，我们见面的次数不算多。我们几年前就认识了。我想说，我们有一个共同愿景，那就是只有通过电动汽车，我们才能实现 CO2 目标并减少碳排放。我们还有一个共同愿景，那就是汽车真正成为一种互联网设备。",
+      "speakerZh": "赫伯特·迪斯（大众汽车）"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Herbert Diess (VW)",
+      "startSec": 376.32,
+      "textEn": "Always connected, always online. The car becomes really, really safe and totally environmentally friendly. And from time to time, yes, we meet because I think it's nice to follow up. I have to say I really, I thank you for pioneering, for pulling us, for pushing us. I think Elon is really the innovator which is driving us along. And so it's worthwhile to talk about batteries, the right concepts. And I always enjoy talking to him because he's really very visionary.",
+      "textZh": "始终连接，始终在线。汽车会变得真的、真的安全，并且完全环保。而且有时，是的，我们会见面，因为我认为跟进一下是件好事。我必须说，我真的，我感谢你开创先河，感谢你拉动我们、推动我们。我认为埃隆确实是带动我们前进的创新者。所以讨论电池和正确的理念是值得的。而且我一直很喜欢和他交谈，因为他确实非常有远见。",
+      "speakerZh": "赫伯特·迪斯（大众汽车）"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Moderator",
+      "startSec": 410.63,
+      "textEn": "Okay, but what's the main problem, Elon, in Germany, with the E mobility and in Europe, why is in Germany? So why we are so far behind? 10 years, maybe 8 years, 5 years? What do you say?",
+      "textZh": "好吧，但埃隆，德国在电动出行方面的主要问题是什么，在欧洲，为什么是在德国？那么为什么我们落后了这么多？10 年，也许 8 年，5 年？你怎么说？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 426.31,
+      "textEn": "Well, first of all, I don't think Germany is that far behind, you know, the. But I think it's always difficult when, you know, there's a lot of momentum around an old technology. There's a lot of infrastructure, a lot of capital and that kind of thing that's tied up in the older technology.",
+      "textZh": "嗯，首先，我不认为德国落后了那么多，你知道，那个。但我认为，当旧技术拥有很强的势头时，事情总是很困难。大量基础设施、大量资本以及诸如此类的东西都被锁定在旧技术上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 449.76,
+      "textEn": "And when this, when you have a new technology, the market is unproven. So then you say like, okay, does it really make sense to place a bet on this technology that's unproven? You know, when we started out at Tesla, everyone thought we were huge fools. I thought we were fools too, frankly, you know, but, you know, it was. I thought it was important to get to ultimately a sustainable energy future. And even if you discount the environmental situation, eventually we will run out of oil.",
+      "textZh": "而当这个，当你拥有一种新技术时，市场还未经验证。所以你就会说，好吧，把赌注押在这种未经验证的技术上真的合理吗？你知道，我们刚创办 Tesla 时，每个人都觉得我们是天大的傻瓜。坦率地说，我也觉得我们是傻瓜，你知道，但是，你知道，当时是。我认为最终迈向可持续能源的未来很重要。而且即使你不考虑环境状况，我们最终也会耗尽石油。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 479.8,
+      "textEn": "You know, it's a finite resource. You know, you can't recycle oil. It's not a recyclable thing. It's going to a lower energy state. So my original interest in electric cars, which goes back to almost high school, was really From a physics standpoint, we have to have something that is long term sustainable. From an economic standpoint, I thought this before of the environmental consequences of became more serious.",
+      "textZh": "你知道，它是一种有限资源。你知道，你无法回收石油。它不是一种可回收的东西。它会进入较低的能量状态。所以我最初对电动汽车产生兴趣，可以追溯到差不多高中时期，真正是从物理学角度出发，我们必须拥有某种能够长期持续的东西。从经济角度看，我在环境后果变得更加严重之前就这样想了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Moderator",
+      "startSec": 508.29,
+      "textEn": "What's the problem we have in the minister here.",
+      "textZh": "我们这里这位部长有什么问题。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Herbert Diess (VW)",
+      "startSec": 510.09,
+      "textEn": "So I think, I think this, this evening is very important because you now see electric cars really competitive. No winning. Winning the. I would say an open competition which shows that it's feasible. And Tesla is. That's why Tesla I think is very important for us because Elon is demonstrating that it works. No, it was customers. They like the cars also the surely loves the cars. The performance of the cars. It's fun.",
+      "textZh": "所以我认为，我认为这个，这个夜晚非常重要，因为你现在看到电动汽车确实具有竞争力。不，获胜。赢得了。我会说，一场公开竞争，这表明它是可行的。而 Tesla 是。这就是为什么我认为 Tesla 对我们非常重要，因为埃隆正在证明它行得通。不，是客户。他们喜欢这些汽车，当然也喜欢这些汽车。汽车的性能。很有趣。",
+      "speakerZh": "赫伯特·迪斯（大众汽车）"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Herbert Diess (VW)",
+      "startSec": 537.9,
+      "textEn": "It's not something where we should be fearful. Also electric mobility is great fun. It's great style. No, it's cool. The cars becoming really not less emotional. I think cars becoming more emotional is what is coming. And I think we also, we are. I'm happy that Elon is pulling us, but I think the German industry is really now strongly investing and we will keep you alert.",
+      "textZh": "这并不是什么我们应该害怕的东西。电动出行也非常有趣。很有风格。不，它很酷。汽车确实不会变得更缺乏情感。我认为汽车会变得更有情感，这就是即将发生的事。而且我认为我们也，我们是。我很高兴埃隆在拉动我们，但我认为德国工业现在确实正在大力投资，我们会让你保持警觉。",
+      "speakerZh": "赫伯特·迪斯（大众汽车）"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Moderator",
+      "startSec": 569.51,
+      "textEn": "Okay.",
+      "textZh": "好吧。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 570.15,
+      "textEn": "I think Germany makes great cars for sure. You know, really some of the best cars in the world obviously are made in Germany. Everyone knows that German engineering is outstanding for sure. And you know, that's part of the reason why we are locating our gigafactory Europe in Germany. But we're also going to create an engineering and design center in Berlin because I think Berlin has some of the best art in the world.",
+      "textZh": "我认为德国确实制造出了很棒的汽车。你知道，显然，世界上一些最好的汽车确实是在德国制造的。大家都知道，德国工程技术确实非常出色。你知道，这也是我们把欧洲超级工厂设在德国的部分原因。不过，我们还将在柏林建立一个工程与设计中心，因为我认为柏林拥有一些世界上最出色的艺术。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Moderator",
+      "startSec": 597.9,
+      "textEn": "And you can, can you tell us a little bit more about the factory where it is? Exactly something.",
+      "textZh": "还有，你能不能再告诉我们一点关于这座工厂的信息，它在哪里？确切地说点什么。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 606.3,
+      "textEn": "You know, there's not enough time tonight to tell all the details.",
+      "textZh": "你知道，今晚没有足够的时间讲所有细节。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Moderator",
+      "startSec": 610.85,
+      "textEn": "I think it's the right time.",
+      "textZh": "我认为时机正合适。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 613.57,
+      "textEn": "But it's in the Berlin area and it's near the new airport.",
+      "textZh": "不过它在柏林地区，而且靠近新机场。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Moderator",
+      "startSec": 619.73,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 620.29,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Moderator",
+      "startSec": 621.49,
+      "textEn": "Yes. Okay.",
+      "textZh": "是的。好的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 622.61,
+      "textEn": "And it's easy.",
+      "textZh": "而且很容易。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Moderator",
+      "startSec": 625.01,
+      "textEn": "Maybe you are faster than the airport. Maybe I didn't ask.",
+      "textZh": "也许你们会比机场更快。也许我没问。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 629.73,
+      "textEn": "I was worried about that actually when people. I was like, we definitely need to move faster than the airport. That's for sure. Okay, but one easy question.",
+      "textZh": "其实，当人们。我当时还担心这个。我当时想，我们肯定得比机场推进得更快。那是肯定的。好的，不过有一个简单的问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Moderator",
+      "startSec": 638.49,
+      "textEn": "What is your private family car? And what is your private family car today in the. When you drive with your five children to the cinema or to the Pizza",
+      "textZh": "你的私人家庭用车是什么？而且如今在这个。你开车带着你的5个孩子去电影院或去吃披萨时，你的私人家庭用车是什么",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Herbert Diess (VW)",
+      "startSec": 646.21,
+      "textEn": "Hut,",
+      "textZh": "小屋，",
+      "speakerZh": "赫伯特·迪斯（大众）"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 649.53,
+      "textEn": "because my kids are big these days, I'll drive Model X.",
+      "textZh": "因为我的孩子们现在都长大了，我会开 Model X。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Moderator",
+      "startSec": 652.33,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 653.21,
+      "textEn": "But my daily driver is usually a Model S. Okay.",
+      "textZh": "不过我日常开的通常是 Model S。好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Moderator",
+      "startSec": 656.73,
+      "textEn": "No other car? No. From the competitors? No. No other car. Competitive?",
+      "textZh": "没有别的车？没有。竞争对手的车呢？没有。没有别的车。竞争性的？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 661.09,
+      "textEn": "No, I, I only own two. I own a more Ford Model T and a 1967 Series 1 Jaguar E type.",
+      "textZh": "没有，我，我只有两辆。我有一辆更福特 Model T，还有一辆 1967 年的 Series 1 Jaguar E-type。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Moderator",
+      "startSec": 670.03,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Moderator",
+      "startSec": 673.87,
+      "textEn": "And what is your private car today? It's the ID or not.",
+      "textZh": "那你如今的私人用车是什么？是 ID 还是不是。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Herbert Diess (VW)",
+      "startSec": 676.51,
+      "textEn": "I'm still in between. No, I'm driving ID already since few days. But my private car is still a Golf gti, which I love. I think one of the best cars in the world. And in Wojsburg I'm driving a up electric, which is also fun to drive and accessible. But soon I will change.",
+      "textZh": "我还处在过渡期。不，我已经开 ID 有几天了。但我的私人用车仍然是一辆 Golf GTI，我很喜欢它。我认为它是世界上最好的汽车之一。而在沃伊斯堡，我开的是一辆 up 电动车，它开起来也很有趣，而且容易获得。不过我很快就会换车。",
+      "speakerZh": "赫伯特·迪斯（大众）"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Moderator",
+      "startSec": 697.17,
+      "textEn": "Okay. Thank you both. Nice to have you here. Thank you.",
+      "textZh": "好的。谢谢两位。很高兴两位来到这里。谢谢。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Host",
+      "startSec": 702.05,
+      "textEn": "I take the microphone back. Thank you very much.",
+      "textZh": "我把麦克风拿回来。非常感谢。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Host",
+      "startSec": 709.73,
+      "textEn": "Then we are coming to the NFL.",
+      "textZh": "接下来我们来到 NFL。",
+      "speakerZh": "主持人"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T17:17:24.166Z",
+    "reviewedAt": "2026-09-12T17:38:50.746Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:14.563Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "8f592954fca228717f9e78d4ea33103eb76e8374c793921585c0418f6736945b"
+}

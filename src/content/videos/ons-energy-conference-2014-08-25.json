@@ -1,0 +1,1342 @@
+{
+  "id": "ons-energy-conference-2014-08-25",
+  "slug": "ons-energy-conference-2014-08-25",
+  "snapshotId": "2026-09-12",
+  "type": "speech",
+  "date": "2014-08-25",
+  "titleEn": "ONS Energy Conference",
+  "titleZh": "ONS 能源会议",
+  "summaryEn": "Keynote at the ONS oil, gas and energy conference on batteries, solar and sustainable energy.",
+  "summaryZh": "在ONS石油、天然气与能源大会上发表主题演讲，内容涉及电池、太阳能和可持续能源。",
+  "sourceUrl": "https://www.youtube.com/watch?v=0ZsVxSDB7NY",
+  "sourceLabel": "ONS - Energy Meeting Place",
+  "archiveUrl": "https://elonmuskarchive.org/video/ons-energy-conference-2014-08-25",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/0ZsVxSDB7NY",
+  "thumbnailUrl": "https://i.ytimg.com/vi/0ZsVxSDB7NY/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 1613,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Interviewer",
+      "startSec": 0.64,
+      "textEn": "Good morning so far. Thank you for your questions and I want a whole lot more because our next speaker has decided that he doesn't want to give a presentation at all. He would like to just answer your questions and perhaps a few pesky journalistic ones from me. Can we have chairs brought up?",
+      "textZh": "到目前为止，早上好。感谢各位的提问，我希望再多来很多问题，因为我们的下一位演讲者已经决定，他根本不想做演讲。他只想回答各位的问题，或许还要回答我提出的几个烦人的新闻问题。可以把椅子搬上来吗？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 18.16,
+      "textEn": "Yes.",
+      "textZh": "可以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Interviewer",
+      "startSec": 18.44,
+      "textEn": "So that we can sit comfortably for the next half hour or so. Who is our next speaker? Well, we've been dropping tantalizing hints, haven't we? He's a titan of technology. I understand he's something of a rock star. He here in Norway because. Yes, I think so. Because he has plowed in his initial fortunes from the sale of, for instance, PayPal. Did you know this gentleman was behind PayPal? One of the co founders. And instead of retiring to a comfortable lounger in the Caribbean and spending money on wonderful yachts, or perhaps he does that too.",
+      "textZh": "这样我们接下来半小时左右就能舒服地坐着。我们的下一位演讲者是谁？好吧，我们一直在抛出诱人的暗示，不是吗？他是科技巨头。据我所知，他算得上是某种摇滚明星。他来到挪威是因为。是的，我想是这样。因为他把自己最初通过出售例如PayPal所得的财富投入了进去。你们知道这位先生是PayPal背后的创办者之一吗？他是联合创始人之一。而他没有退休，舒舒服服地躺在加勒比海的躺椅上，把钱花在豪华游艇上，或许他也会那么做。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Interviewer",
+      "startSec": 54.97,
+      "textEn": "He's also spent three fortunes in three audacious businesses. Tesla needs no introduction to you. Space City, sorry, Solar City is trying to put solar panels around the world, or at any rate, in all the hot and sunny parts of the world. And then we have SpaceX, which has the truly jaw dropping mission of one day transporting us all to Mars. How is this man real?",
+      "textZh": "他还把3笔财富投入了3项大胆的事业。Tesla无须向各位介绍。太空城，抱歉，太阳城正试图在世界各地安装太阳能板，或者无论如何，在世界所有炎热且阳光充足的地区安装。然后还有SpaceX，它拥有一个真正令人瞠目结舌的使命：有一天把我们所有人送往火星。这个人怎么会是真实存在的？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Interviewer",
+      "startSec": 84.38,
+      "textEn": "Well, we're going to find out for ourselves. His initials are E.M. please do send in your questions thick and fast. A big warm welcome to Elon Musk.",
+      "textZh": "好吧，我们要亲自找出答案。他姓名的首字母是E.M.，请踊跃、大量地提交你们的问题。让我们热烈欢迎埃隆·马斯克。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Interviewer",
+      "startSec": 104.46,
+      "textEn": "Make yourself comfortable. Elon, my gosh, we've got so many questions here already. Where do we start? Should. Shall we start with Tesla? Should we do a bunch of Tesla questions? Is that good? Audience?",
+      "textZh": "请坐舒服些。埃隆，我的天，我们这里已经有这么多问题了。我们从哪里开始？要不。我们从Tesla开始好吗？要不要问一连串关于Tesla的问题？这样好吗？各位观众？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 116.07,
+      "textEn": "Well, I thought I'd start off with a song.",
+      "textZh": "嗯，我本来想先唱一首歌。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Interviewer",
+      "startSec": 120.23,
+      "textEn": "Well, no, maybe I'll ask you this question rather than Tesla. I'm going to ask you this question, which is from me, not the audience. What exactly are you doing here? You know this is an oil and gas conference. Why. Why are you here?",
+      "textZh": "好吧，不，也许我先问你这个问题，而不是问Tesla。我想问你这个问题，这是我本人的问题，不是观众的问题。你到底来这里做什么？你知道这是石油和天然气大会。为什么。你为什么来这里？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 133.51,
+      "textEn": "Well, Norway's been very supportive of electric vehicles. And so I'm here in gratitude and appreciation for what Norway's done for electric vehicles.",
+      "textZh": "嗯，挪威一直非常支持电动汽车。所以我来到这里，是为了对挪威为电动汽车所做的一切表达感谢和赞赏。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Interviewer",
+      "startSec": 144.88,
+      "textEn": "Okay, so it's thank you to Norway, I think from Elon Musk.",
+      "textZh": "好的，所以我想，这是埃隆·马斯克对挪威说谢谢。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 147.64,
+      "textEn": "Thank you to Norway. Exactly.",
+      "textZh": "感谢挪威。正是如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Interviewer",
+      "startSec": 149.04,
+      "textEn": "So what is it about Norway then? It's your second biggest market, I understand,",
+      "textZh": "那么，挪威究竟有什么特别之处？据我所知，它是你们的第二大市场，",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 152.56,
+      "textEn": "actually, at this point.",
+      "textZh": "实际上，就目前而言。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Interviewer",
+      "startSec": 153.52,
+      "textEn": "Ooh, someone else snuck in there.",
+      "textZh": "哦，有别的地方悄悄挤进来了。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 155.16,
+      "textEn": "China.",
+      "textZh": "中国。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Interviewer",
+      "startSec": 156.08,
+      "textEn": "All right, okay.",
+      "textZh": "好吧，好的。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 158.56,
+      "textEn": "There's some demographic advantages.",
+      "textZh": "那里有一些人口方面的优势。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Interviewer",
+      "startSec": 161.9,
+      "textEn": "Yeah. So what is it about Norway? Is it the government support putting in all those power stations? What is it?",
+      "textZh": "是的。那么挪威究竟有什么特别之处？是政府的支持，建设了所有那些发电站吗？是什么？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 167.46,
+      "textEn": "I think it's a number of factors. Certainly Norway has a lot of incentives for electric vehicles, which are great, but it's worth noting that say, Denmark also has very strong incentives for electric vehicles, but sales are much greater in Norway than in Denmark. And I think in Norway there's a core group of electric vehicle enthusiasts who have really taken it upon themselves to promote electric vehicles and have done an amazing job.",
+      "textZh": "我认为有很多因素。当然，挪威为电动汽车提供了很多激励措施，这很棒，但值得注意的是，比如丹麦也为电动汽车提供了非常有力的激励措施，可挪威的销量远高于丹麦。而且我认为，挪威有一群核心的电动汽车爱好者，他们真正主动承担起了推广电动汽车的责任，并且做得非常出色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 196.58,
+      "textEn": "And, and as a result that, that has made Tesla sales in a way really, really great.",
+      "textZh": "而且，而且结果是，那、那在某种程度上让Tesla的销量变得真的、真的很棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Interviewer",
+      "startSec": 204.02,
+      "textEn": "I understand there's one gentleman who owns more north more EVs than any of your customers around the world.",
+      "textZh": "据我所知，有一位先生拥有的更多北方更多电动汽车，比你们世界各地的任何客户都多。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 212.02,
+      "textEn": "Yes, yes, he's in Norvik.",
+      "textZh": "是的，是的，他在诺维克。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Interviewer",
+      "startSec": 215.12,
+      "textEn": "He's an Arvik. Yeah. Okay. How many does he own, do you remember?",
+      "textZh": "他是个阿维克人。是的。好的。你还记得他有多少辆吗？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 219.76,
+      "textEn": "That's above the Arctic Circle, by the way. And he, I believe he owns, I don't know, 12 or maybe 14 now. So his name is Jens Kratholm and he's a very nice guy.",
+      "textZh": "顺便说一句，那里在北极圈以北。而且他，我相信他有，我不知道，12辆，也许现在有14辆。所以他叫延斯·克拉托尔姆，是个非常友善的人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Interviewer",
+      "startSec": 237.12,
+      "textEn": "A very nice guy. So we have a question here from, from the audience which is when is your next mass market car going to be ready? Because your current one is roughly what in price?",
+      "textZh": "一个非常友善的人。那么我们这里有一个来自、来自观众的问题：你的下一款大众市场汽车什么时候能准备好？因为你们目前这款车的价格大约是多少？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 248.73,
+      "textEn": "Well, our current one is in US dollars, it's about $70,000. So it is a premium car. And then we're coming out with an SUV version called the Axe that's coming out next year, but also that's on the same platform, so it's about the same cost.",
+      "textZh": "嗯，我们目前这款车以美元计价，大约是70,000美元。所以它是一款高端汽车。然后我们将推出一个名为 Axe 的 SUV 版本，明年上市，但它也采用相同的平台，所以成本也差不多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 266.98,
+      "textEn": "The car that we're really looking forward to bringing to market is called the Model 3 and that's intended to be a mass market long range electric vehicle. It's the car that I wanted to bring out from the very beginning, but it just takes a bit of time to iterate the technology and complete.",
+      "textZh": "我们真正期待推向市场的汽车叫 Model 3，它的定位是一款面向大众市场的长续航电动汽车。这是我从一开始就想推出的汽车，但迭代技术并完成就是需要一点时间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Interviewer",
+      "startSec": 283.18,
+      "textEn": "How long? Because I think the launch date has been pushed back and back a bit.",
+      "textZh": "要多久？因为我觉得发布日期已经一再往后推了一点。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 286.74,
+      "textEn": "Well, we're hoping for about two and a half to three years. Contingent upon that is completion of this very big battery factory called the Gigafactory that we're building.",
+      "textZh": "嗯，我们希望大约是2年半到3年。这取决于我们正在建造的这座名为超级工厂的超大型电池工厂能否完工。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Interviewer",
+      "startSec": 297.08,
+      "textEn": "So tell us about that.",
+      "textZh": "那么请给我们讲讲它。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 298.68,
+      "textEn": "Sure. So the. In order to make a lot of electric cars you need a lot of batteries. And the lithium ion battery capacity of the world in terms of production capacity is really not big enough yet. Nor does it make the most advanced type of batteries that we really need for long range electric cars. So in order to solve that problem, we found there was really no choice but to build a really enormous factory called the Gigafactory, so named because we're targeting about 50 gigawatt hours of output, which for battery energy storage is quite a big number.",
+      "textZh": "当然。那么。要制造大量电动汽车，你就需要大量电池。而就生产能力而言，全世界的锂离子电池产能实际上还不够大。它也无法制造我们为长续航电动汽车真正需要的最先进类型的电池。所以为了解决这个问题，我们发现确实别无选择，只能建造一座名为超级工厂的真正庞大的工厂，之所以这样命名，是因为我们的目标是达到约50吉瓦时的产量，对于电池储能来说，这是一个相当大的数字。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Interviewer",
+      "startSec": 335.58,
+      "textEn": "That's huge. Yeah. And it sounds cool as well.",
+      "textZh": "那太庞大了。是的。而且听起来也很酷。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 337.82,
+      "textEn": "Yeah, exactly.",
+      "textZh": "是的，正是如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Interviewer",
+      "startSec": 343.02,
+      "textEn": "So are there any links do you think, between the Battery technology that you're investing in at the moment and renewables, I mean, would there be.",
+      "textZh": "那么，你认为你们目前正在投资的电池技术与可再生能源之间有什么联系吗？我是说，会不会有。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 350.83,
+      "textEn": "Yes, absolutely.",
+      "textZh": "是的，当然有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Interviewer",
+      "startSec": 352.35,
+      "textEn": "The stuff that you're developing is not just for cars.",
+      "textZh": "你们正在开发的东西并不只是用于汽车。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Interviewer",
+      "startSec": 356.51,
+      "textEn": "A bit more about that, sure.",
+      "textZh": "请再多讲一点，当然。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 357.63,
+      "textEn": "So about a third of the output of the gigafactory is intended as stationary storage, primarily to be paired with renewables, but also to do grid buffering in non renewable situations. So. So that you can operate the plants. Even if it's a hydrocarbon energy plant, you can operate it close to its optimum and avoid having to sort of peak.",
+      "textZh": "所以超级工厂大约三分之一的产量将用于固定式储能，主要与可再生能源配套，但也用于在非可再生能源情形下进行电网缓冲。所以。这样你就可以运行这些发电厂。即便它是一座碳氢化合物能源发电厂，你也可以让它接近最佳状态运行，并避免不得不进行某种峰值运行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 383.58,
+      "textEn": "Yeah. So I think we'll see really a very huge demand for stationary storage and this is really going to help out some of the more intermittent sources like wind and solar.",
+      "textZh": "是的。所以我认为我们会看到对固定式储能真正非常庞大的需求，而这确实将帮助风能和太阳能等一些更具间歇性的能源。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 396.7,
+      "textEn": "And it's worth noting, I'm not sure if people are aware of this but. But the world could be powered many times over by solar if you had enough battery capacity to pair with it many times.",
+      "textZh": "而且值得指出的是，我不确定人们是否意识到了这一点，但。但是，如果有足够的电池容量多次与之配套，太阳能可以为全世界供电许多次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Interviewer",
+      "startSec": 409.68,
+      "textEn": "Like the world, I mean obviously California where you're based, but in Europe, can you really say that in Europe?",
+      "textZh": "比如全世界，我的意思是，显然包括你们总部所在的加利福尼亚州，但在欧洲，你真的能对欧洲也这么说吗？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 415.4,
+      "textEn": "A thousand. It's literally true. The amount of energy that reaches the Earth from the sun is staggeringly high. We have this enormous fusion generator in the sky that is lobbing out vast amounts of energy. And I'm talking about just using land area. I mean it's really amazing. In fact, here's a little tidbit. If you take a nuclear plant and you took its current output and compared that to just taking solar panels and putting solar panels on the area used by the nuclear power plant, these typically have a big keep out zone, you know, about maybe 5km or thereabouts where building houses, you know, and dense, you know, any kind of dense office or housing space.",
+      "textZh": "1000。这确实是真的。从太阳到达地球的能量高得惊人。天空中有这个巨大的聚变发电机，正在抛出巨量的能量。而且我说的只是使用陆地面积。我的意思是，这真的很惊人。事实上，这里有个小知识。如果你拿一座核电站，把它目前的输出功率与只是在核电站所占用的区域铺设太阳能电池板进行比较，这些核电站通常都有一个很大的禁入区，你知道，大约可能是5公里左右，在那里建造房屋，你知道，以及密集的，你知道，任何类型的密集办公区或住宅区。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 460.97,
+      "textEn": "Usually people don't want to do that near a nuclear power plant.",
+      "textZh": "通常人们不愿意在核电站附近这么做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 466.89,
+      "textEn": "So there's quite a big keep out zone. And when you factor the keep out zone into account, the solar panels put on that area would typically generate more power than the nuclear power plant.",
+      "textZh": "所以那里有一个相当大的禁入区。当你把禁入区计算在内时，铺设在那片区域的太阳能电池板通常会比核电站产生更多电力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Interviewer",
+      "startSec": 481.3,
+      "textEn": "Yes. And that's not a conclusion just done by you.",
+      "textZh": "是的。而且这并不只是你一个人得出的结论。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 484.02,
+      "textEn": "I know you can just. It's very easy to do. So here's a question, if I may sort of just do just a tidbit",
+      "textZh": "我知道，你可以直接。这很容易算。那么这里有一个问题，如果可以的话，我想稍微只做一点",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Interviewer",
+      "startSec": 493.7,
+      "textEn": "of math, collective math, 900 people, mental math.",
+      "textZh": "数学计算，集体计算，900个人，心算。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 500.66,
+      "textEn": "So 1 square kilometer is a million square meters and there's 1 kilowatt per square meter of solar energy. So on 1 square kilometer there is a gigawatt of solar energy.",
+      "textZh": "所以1平方公里是100万平方米，而太阳能的功率是每平方米1千瓦。因此，1平方公里上有1吉瓦的太阳能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Interviewer",
+      "startSec": 517.71,
+      "textEn": "Uh huh. With you so far? With you so far.",
+      "textZh": "嗯哼。目前为止跟得上吗？目前为止跟得上。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 524.99,
+      "textEn": "So I mean if you wanted, I mean you can get.",
+      "textZh": "所以我的意思是，如果你愿意，我的意思是你可以获得。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Interviewer",
+      "startSec": 527.95,
+      "textEn": "And ergo the nuclear power station doesn't give you the same. Is that the calculation?",
+      "textZh": "因此，核电站无法为你提供同样的东西。计算结果是这样吗？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 532.81,
+      "textEn": "Yeah, exactly. But like you could power the entire United States with about, let's say, 150 to 200 square kilometers of solar panels. The entire United States. Take a corner of Utah.",
+      "textZh": "是的，正是如此。但比如说，你可以用大约，假设是150到200平方公里的太阳能电池板为整个美国供电。整个美国。占用犹他州的一个角落。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 549.13,
+      "textEn": "Not much going on there. I've been there.",
+      "textZh": "那里没什么事情发生。我去过那里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 553.85,
+      "textEn": "There's not even radio stations.",
+      "textZh": "那里甚至连广播电台都没有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Interviewer",
+      "startSec": 555.25,
+      "textEn": "Okay, so the question from the audience then is seeing that your big thrust into Tesla cars, which has taken off 10 years in your big ambitions for solar power, what kind of a threat do you think you are to the oil and gas industry?",
+      "textZh": "好的，那么观众提出的问题是，鉴于你大力进军 Tesla 汽车，而这花了 10 年才起飞，以及你对太阳能的宏大抱负，你认为自己对石油和天然气行业构成了多大的威胁？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 571.55,
+      "textEn": "Well, I don't think we're much of a threat, I mean, yet, you know. Yes, but I mean the more obvious threat is that we're going to run out of hydrocarbons to mine and burn. That's rather obvious. I mean,",
+      "textZh": "嗯，我认为我们还算不上多大的威胁，我是说，目前还不是，你知道。是的，但我的意思是，更明显的威胁是，我们将耗尽可供开采和燃烧的碳氢化合物。这是相当明显的。我是说，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Interviewer",
+      "startSec": 590.03,
+      "textEn": "no time soon, judging from the comments we've had this morning.",
+      "textZh": "从我们今天上午听到的评论来看，短期内不会。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 593.39,
+      "textEn": "Well, depends on what soon means. I mean, it's clearly getting hotter and harder. My understanding is that the cost of extraction is doubled and in some cases tripled. So it's getting harder and harder to find hydrocarbons and it's getting much more expensive to extract them. And really we're just arguing about the when hydrocarbons run out or become prohibitively expensive. Not if. I mean, I don't think there's anyone here who would say it's an if, not a when.",
+      "textZh": "嗯，这取决于“短期”是什么意思。我的意思是，显然，情况正变得更热，也更困难。据我了解，开采成本已经翻倍，在某些情况下增至3倍。所以，寻找碳氢化合物正变得越来越困难，开采它们也变得昂贵得多。而实际上，我们争论的只是什么时候碳氢化合物会耗尽或变得贵到令人无法承受。不是会不会。我的意思是，我认为这里没有人会说这是会不会的问题，而不是什么时候的问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 627.18,
+      "textEn": "They will run out for sure. So what will?",
+      "textZh": "它们肯定会耗尽。那么什么会？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Interviewer",
+      "startSec": 631.46,
+      "textEn": "So you don't think, I mean, you are, you know, a tech guy, right? You're a physicist and an engineer. You call yourself the chief architect of.",
+      "textZh": "所以你不认为，我是说，你是，你知道，一个科技人士，对吧？你是一名物理学家和工程师。你称自己为……的首席架构师。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 638.79,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Interviewer",
+      "startSec": 640.15,
+      "textEn": "You don't think human ingenuity and technology and resourcefulness will mean that we will still have abundant fossil fuels available? I mean, this has been going on. They think you've reached the boundaries and yet they find more. And you know, look at the whole shale gas revolution. That was stuff that people said would never be able to be extracted there.",
+      "textZh": "你不认为人类的聪明才智、技术和足智多谋意味着我们仍会拥有丰富的可用化石燃料吗？我的意思是，这种情况一直在发生。人们以为已经触及边界，但他们却发现了更多。而且你知道，看看整个页岩气革命。那是人们曾说永远不可能从那里开采出来的东西。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 661.19,
+      "textEn": "There are time extensions on the game, but the game is going to come to an end. That should be absolutely certain. Obviously, frankly, I mean, to be in non renewables and it's tautological. Either it's renewable, it's not renewable. So if you're in non renewables, it's like being you're stuck in a room where the oxygen is gradually depleting and then outside it's not. So you want to get out that room and I think the ones that get out of the room sooner will be better off.",
+      "textZh": "这场游戏可以延长时间，但游戏终将结束。这一点应当是绝对确定的。显然，坦率地说，我的意思是，从事不可再生能源，而这在逻辑上属于同义反复。它要么是可再生的，要么不是可再生的。所以，如果你从事不可再生能源，就像你被困在一个氧气逐渐耗尽的房间里，而外面却不是这样。所以你会想离开那个房间，而我认为，越早离开房间的人，境况就会越好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Interviewer",
+      "startSec": 697.69,
+      "textEn": "Is that where the mission to Mars comes in?",
+      "textZh": "这就是火星任务发挥作用的地方吗？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 699.93,
+      "textEn": "No, ironically, the rockets will use hydrocarbons.",
+      "textZh": "不，讽刺的是，火箭会使用碳氢化合物。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Interviewer",
+      "startSec": 705.29,
+      "textEn": "Quite a bit, I think.",
+      "textZh": "我想，用量还相当大。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Interviewer",
+      "startSec": 708.65,
+      "textEn": "Isn't there an inherent contradiction then here in the project?",
+      "textZh": "那么，这个项目本身岂不是存在内在矛盾吗？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 711.61,
+      "textEn": "No, there isn't.",
+      "textZh": "不，并不存在。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 714.57,
+      "textEn": "I don't have any fundamental dislike of, of hydrocarbons. I simply look at the future and say what is the thing that will actually work? And using a non renewable resource obviously will not work, so we must find an alternative. But if there was a button I could press to stop all hydrocarbon usage today, I would not press it.",
+      "textZh": "我对碳氢化合物没有任何根本性的厌恶。我只是着眼于未来，然后问，什么东西才真正行得通？而使用不可再生资源显然行不通，所以我们必须找到替代方案。但如果有一个按钮，我按下它就能在今天停止所有碳氢化合物的使用，我不会按。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Interviewer",
+      "startSec": 735.42,
+      "textEn": "You would not press it?",
+      "textZh": "你不会按？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 736.38,
+      "textEn": "Of course not.",
+      "textZh": "当然不会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Interviewer",
+      "startSec": 737.42,
+      "textEn": "Okay. Did you expect him to say that? You would not press it would cause",
+      "textZh": "好吧。你们预料到他会这么说吗？你不会按，它会导致",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 741.82,
+      "textEn": "human civilization to come to a halt.",
+      "textZh": "人类文明陷入停滞。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Interviewer",
+      "startSec": 743.3,
+      "textEn": "Every hospital would have to close.",
+      "textZh": "每家医院都将不得不关闭。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 744.34,
+      "textEn": "That would be ridiculous, of course. So it would be irresponsible to press that button. But what does need to happen is to, if we can accelerate the transition towards renewables, that's the sensible thing to do. And you know, if you take, say I'm going to use maybe two examples, Saudi Arabia, since the Saudi Aramco president spoke here.",
+      "textZh": "那当然会很荒谬。所以按下那个按钮是不负责任的。但真正需要做的是，如果我们能够加速向可再生能源转型，那才是明智之举。而且你知道，举个例子，我或许会用2个例子，沙特阿拉伯，因为沙特阿美的总裁曾在这里发言。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 768.75,
+      "textEn": "Saudi Arabia has an enormous amount of sunlight and that will be there for billions of years or at least 1 billion years until the sun eventually engulfs us. But a billion years, Solid",
+      "textZh": "沙特阿拉伯拥有极其充足的阳光，而且这种阳光会存在数十亿年，或者至少10亿年，直到太阳最终吞噬我们。但10亿年，扎实",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Interviewer",
+      "startSec": 780.92,
+      "textEn": "bit more math there.",
+      "textZh": "这里再多算一点。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 783.24,
+      "textEn": "You've got a solid billion years there. So it seems that investing in the solar resource is the thing that's really going to preserve the long term future, not so much the oil and gas. I mean that's a temporary thing. In the future we'll look back. And by future I'm not talking about super far in the future. I'm talking about towards the end of the century. We will look back on gasoline powered cars the same way we look back on coal as sort of a quaint anachronism that's in a museum.",
+      "textZh": "你实打实地拥有10亿年。所以，看起来投资太阳能资源才是真正能够保障长远未来的事情，而不是石油和天然气。我的意思是，那只是暂时的。未来我们会回头看。而我所说的未来，并不是特别遥远的未来。我说的是接近本世纪末的时候。我们回头看汽油动力汽车时，会像我们回头看煤炭一样，把它视为博物馆里某种古雅的时代遗物。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Interviewer",
+      "startSec": 816.37,
+      "textEn": "That's the quote for you members of the press at the back of the hall.",
+      "textZh": "大厅后面的各位媒体人士，这就是给你们的引语。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 820.53,
+      "textEn": "Yeah, but it's true.",
+      "textZh": "对，但这是事实。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Interviewer",
+      "startSec": 821.65,
+      "textEn": "I think there are some business models that we could perhaps all learn from. And I've been trying to do some boning up thinking. What is it that Elon is doing in his Tesla cars, for instance, in his Solar City ventures, which seem so very different from the oil and gas sector, but which perhaps there is some commonality, some points of learning. And the thing that I want to ask you about is patents, patents as you call them now.",
+      "textZh": "我认为，或许有一些商业模式是我们大家都可以借鉴的。我一直在努力补课思考。例如，埃隆在他的Tesla汽车和Solar City业务中做的究竟是什么，这些似乎与石油和天然气行业截然不同，但两者或许存在一些共通之处，一些可以借鉴的地方。而我想问你的是专利，也就是你们现在所说的专利。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Interviewer",
+      "startSec": 846.34,
+      "textEn": "A few months ago you decided to open them up, make them open source for some key areas of Tesla carbon. What is the thinking behind them?",
+      "textZh": "几个月前，你决定开放它们，在Tesla碳业务的一些关键领域将它们开源。这样做背后的考虑是什么？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 854.3,
+      "textEn": "All of our patents.",
+      "textZh": "我们所有的专利。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Interviewer",
+      "startSec": 855.02,
+      "textEn": "Oh, all of them, okay. What is the thinking behind them? And is that something that perhaps the oil and gas industry should Consider when developing things like say, carbon storage and things like that, very, very difficult new projects, should they get together and just junk the patents?",
+      "textZh": "哦，全部，好吧。这样做背后的考虑是什么？而这是否是石油和天然气行业在开发例如碳储存之类的东西、非常非常困难的新项目时，也许应该考虑的做法？他们是否应该联合起来，直接废弃专利？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Elon Musk",
+      "startSec": 870.42,
+      "textEn": "Yeah, I think patents are. I don't like patents personally.",
+      "textZh": "是的，我认为专利是。我个人不喜欢专利。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 874.82,
+      "textEn": "When I was first starting out developing technology, I got lots of patents and thought this was a good thing. And then I sort of discovered that a patent was really like buying a lottery ticket to a lawsuit.",
+      "textZh": "刚开始开发技术时，我申请了很多专利，并认为这是件好事。后来我算是发现，专利其实就像是买了一张通往诉讼的彩票。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 886.29,
+      "textEn": "I was like, I'd rather not buy as much those tickets. And you look at sort of the battle between Apple and Samsung and who's really winning there? You know, the lawyers are winning certainly, but neither of those two companies.",
+      "textZh": "我当时想，我宁愿不要买那么多那种票。你看看苹果与三星之间的那种争斗，真正的赢家是谁？你知道，律师肯定赢了，但那两家公司都没有赢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 899.81,
+      "textEn": "And in the case of Tesla, I thought, well, would Tesla ever sue some other car company if they were using our patents to try to make them stop making electric cars? We would never do such a thing, so why pretend that we would?",
+      "textZh": "就Tesla而言，我当时想，嗯，如果其他汽车公司利用我们的专利，Tesla会不会起诉它们，试图让它们停止生产电动汽车？我们绝不会做这种事，那又何必假装我们会呢？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Interviewer",
+      "startSec": 916.58,
+      "textEn": "But. And you're not just saying recognizing that internally as a de facto position, you're saying to the world here, have them go for it. Yes. Which is a different thing. That's going one stage further.",
+      "textZh": "但是。而且你不只是说在内部承认这是事实上的立场，你是在这里向全世界说，让他们尽管去做。是的。这是另一回事。这又向前迈了一步。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 928.26,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Interviewer",
+      "startSec": 928.78,
+      "textEn": "Yes. And that's not just because you think we're never going to sue them. It's presumably because you think there is some business advantage to it.",
+      "textZh": "是的。而且这不仅仅是因为你认为我们永远不会起诉他们。大概也是因为你认为这样做有某种商业优势。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 936.43,
+      "textEn": "No, I really don't know.",
+      "textZh": "不，我真的不知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 940.99,
+      "textEn": "I mean, if there is, let me know what it is. I'm not sure. You know, I'm all ears. Maybe it will somehow turn out to be good, I don't know.",
+      "textZh": "我的意思是，如果有的话，请告诉我是什么。我不确定。你知道，我洗耳恭听。也许它最终会以某种方式带来好处，我不知道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Interviewer",
+      "startSec": 947.87,
+      "textEn": "But you boost the market, there's more investment in charging stations. You know, everybody benefits.",
+      "textZh": "但你推动了市场，充电站会获得更多投资。你知道，所有人都会受益。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 953.87,
+      "textEn": "Great.",
+      "textZh": "很好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Interviewer",
+      "startSec": 954.91,
+      "textEn": "Rising tide lifts all the boats, is that argument.",
+      "textZh": "水涨船高，这是你的论点吗？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 956.99,
+      "textEn": "I hope there is. That'd be nice. I mean, we're really trying to get relevant vantage, but maybe it can help lift the industry as a whole. And I think it generated some goodwill and I think maybe that goodwill is helpful. You never know where that pays off.",
+      "textZh": "我希望是这样。那就太好了。我的意思是，我们确实在努力获得相关优势，但也许它能帮助带动整个行业。而且我认为这带来了一些善意，我想也许这种善意会有所帮助。你永远不知道它会在哪里得到回报。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Interviewer",
+      "startSec": 970.21,
+      "textEn": "Okay, so there's an idea for all of you here at ons. You know, think about patterns. Do we have to be quite so possessive about them? So kind of secretive? It's an idea. I want to throw another thing at you. We haven't really spoken about space exploration very much yet. And we have a question from a young man called. Let me see if I've got his name right. Goethe. Mudson. I hope I've pronounced his name right. He's 37 years old and he's saving up to go to Mars.",
+      "textZh": "好吧，那么这是给在座所有ONS人士的一个想法。你知道，想想模式。我们一定要对它们有这么强的占有欲吗？一定要这么保密吗？这是一个想法。我还想向你抛出另一件事。我们还没有真正深入谈论太空探索。我们收到了一位年轻人的问题，他叫。让我看看我有没有把他的名字弄对。Goethe。Mudson。希望我念对了他的名字。他37岁，正在攒钱去火星。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 998.86,
+      "textEn": "Okay.",
+      "textZh": "好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Interviewer",
+      "startSec": 999.5,
+      "textEn": "Yes. And he says he's on average earnings, which is probably quite high here in Norway. And he says how long is it going to take him before he'll be able to make this mission a reality?",
+      "textZh": "是的。他说自己的收入处于平均水平，而这在挪威可能相当高。他问，还要多久他才能让这项任务成为现实？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1010.22,
+      "textEn": "Well, I think the critical threshold is what's the cost of moving to Mars? What's the ticket for moving to Mars and what's the threshold ticket price below which a self sustaining Martian colony would be established? And I suspect that is somewhere on the half a million dollar level. So obviously we'd like to have it be lower. But I do see a path to being able to offer tickets for someone to move to Mars. Also they get a free return ticket if they don't like it.",
+      "textZh": "嗯，我认为关键门槛是，搬到火星的成本是多少？搬到火星的票价是多少，以及票价低于什么门槛时，才能建立一个自给自足的火星殖民地？我怀疑大概是在50万美元的水平。显然，我们希望它能更低。但我确实看到了一条能够提供让人搬到火星的票的路径。而且如果他们不喜欢那里，还能获得一张免费返程票。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1046.549,
+      "textEn": "So it's so trapped there.",
+      "textZh": "所以它就这样被困在那里了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1050.469,
+      "textEn": "And I think if we can get that threshold below half a million dollars, which is the price of middle class home in many parts of the US",
+      "textZh": "而且我认为，如果我们能把这个门槛降到50万美元以下，也就是美国许多地区中产阶级住宅的价格",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Interviewer",
+      "startSec": 1059.349,
+      "textEn": "then So you have to trade in your home.",
+      "textZh": "那么，所以你必须拿你的房子去换。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 1061.749,
+      "textEn": "Yeah, well, if you're moving to Mars, it's not a vacation.",
+      "textZh": "是的，嗯，如果你要搬到火星，那可不是度假。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Interviewer",
+      "startSec": 1065.749,
+      "textEn": "And what's the time span on this? Two, three, four decades?",
+      "textZh": "那这件事的时间跨度是多少？2、3、4个十年？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 1070.5,
+      "textEn": "Yeah, I think we should be able to hopefully send the first people to Mars in about 12 years. And then it's going to take 12 years.",
+      "textZh": "是的，我认为我们应该有望在大约12年后将第一批人送往火星。然后这将需要12年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Interviewer",
+      "startSec": 1077.78,
+      "textEn": "Haven't you brought that forward from your previous. No. Has it always been okay, 12 years? Wow.",
+      "textZh": "你不是把这个时间比你之前说的提前了吗。没有。一直都是，好吧，12年吗？哇。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Elon Musk",
+      "startSec": 1083.14,
+      "textEn": "Roughly.",
+      "textZh": "大约。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 1085.46,
+      "textEn": "And then probably double that to get again to get to where the cost is reduced to the half million dollar level. So it's probably, probably 25 years. Ish.",
+      "textZh": "然后大概还要再翻一番，才能再次达到把成本降至50万美元水平的程度。所以大概，大概是25年左右。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Interviewer",
+      "startSec": 1097.37,
+      "textEn": "This is dependent on obviously technological advances and cost effectiveness. Now you've already been able to put a number of vehicles into space, supplying NASA, supplying the International Space Station with cargo, and your main bid was bringing down costs dramatically. Yes. Slashing costs by what, a factor of",
+      "textZh": "这显然取决于技术进步和成本效益。现在，你已经能够把多艘运载工具送入太空，为NASA提供补给、向国际空间站运送货物，而你的主要主张是大幅降低成本。是的。把成本削减了多少，降至",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 1119.72,
+      "textEn": "a third what it's compared to. We're about, we're about a third to a quarter the price of Boeing and Lockheed, which are our domestic quarter competitors in the U.S. and probably, I don't know, 60% of the price of the Russians or the Chinese.",
+      "textZh": "三分之一，与什么相比。我们的价格大约是波音和洛克希德的三分之一到四分之一，它们是我们在美国的国内季度竞争对手，而且大概，我不知道，是俄罗斯或中国价格的60%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Interviewer",
+      "startSec": 1139,
+      "textEn": "And this is rocket based in California, which is not exactly a low cost",
+      "textZh": "而这是以加利福尼亚为基地的火箭，那里并不完全是一个低成本的",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 1142.84,
+      "textEn": "product manufactured from scratch in Los Angeles County. So necessarily this cannot be a function of labor cost because the labor cost is very high.",
+      "textZh": "产品在洛杉矶县从零开始制造。所以这必然不可能是劳动力成本的作用，因为劳动力成本非常高。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Interviewer",
+      "startSec": 1152.61,
+      "textEn": "So facing an audience of people who are grappling with costs, we heard Carla Del Fala talking about how cost of exploration has doubled in the last decade. We've been, it's something that's bubbling along here. What advice can you give them? How does one go about really reducing the costs of a venture?",
+      "textZh": "所以，面对一群正在竭力应对成本问题的听众，我们听到卡拉·德尔·法拉谈到勘探成本在过去10年里翻了一番。我们一直，这也是这里一直在酝酿的事情。你能给他们什么建议？人们究竟该如何真正降低一项事业的成本？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Elon Musk",
+      "startSec": 1171.66,
+      "textEn": "Well, you have to innovate, you have to do different things and there has to be a tight feedback loop on innovation. And one of the things I think is advantageous the way that SpaceX operates is that the engineering team and the production team are in the same facility and there is good communication back and forth. So as the engineers see that they've designed something that is difficult to manufacture, they can adjust their design quickly to make it easier to build.",
+      "textZh": "嗯，你必须创新，必须做不同的事情，而且创新必须有一个紧密的反馈循环。我认为SpaceX的运营方式有一个有利之处，就是工程团队和生产团队位于同一设施内，双方有良好的往来沟通。因此，当工程师看到自己设计的某个东西难以制造时，他们可以迅速调整设计，使其更容易建造。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 1198.74,
+      "textEn": "And at the pace at which we're able to do new versions of the rocket is also much faster. So innovation, just improving things is key.",
+      "textZh": "而且，我们推出新版火箭的速度也快得多。所以创新，也就是不断改进事物，是关键。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Interviewer",
+      "startSec": 1207.78,
+      "textEn": "But you know, that actually sounds lovely and everyone talks a lot about innovation.",
+      "textZh": "但你知道，这听起来确实很美好，而且每个人都大谈创新。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 1211.74,
+      "textEn": "There must be an expectation.",
+      "textZh": "必须有一种期望。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Interviewer",
+      "startSec": 1212.98,
+      "textEn": "What can people take away from? There has to be an expectation, establish",
+      "textZh": "人们能从中得到什么？必须有一种期望，建立",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 1215.82,
+      "textEn": "an expectation of innovation and the compensation structure must reflect that.",
+      "textZh": "一种对创新的期望，而且薪酬结构必须反映这一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Interviewer",
+      "startSec": 1221.78,
+      "textEn": "So you're basically incentivizing innovation and cost reduction.",
+      "textZh": "所以你基本上是在激励创新和成本削减。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1227.43,
+      "textEn": "You have to incent it. Yes.",
+      "textZh": "你必须激励它。是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Interviewer",
+      "startSec": 1228.79,
+      "textEn": "Do you have to do the Henry Ford thing, which is every year you just expect the price to come down and the cost to come down. And that's just a kind of directive from above.",
+      "textZh": "你是否必须采用亨利·福特那一套，也就是每年你都只是期望价格下降、成本下降。而这只是一种来自上面的指令。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 1239.35,
+      "textEn": "So there needs to be an expectation of innovation. The compensation structure must reflect that. There must also be an allowance for failure because if you are trying something new necessarily that there's some chance it will not work. So if you punish people too much for failure, then they will respond accordingly and the innovation you will get will be very incrementalist. Nobody's going to try anything bold for fear of getting fired or being, you know, punished in some way.",
+      "textZh": "所以需要有对创新的期待。薪酬结构必须反映这一点。也必须允许失败，因为如果你尝试新事物，就必然有一定概率不会成功。所以，如果你因失败而过度惩罚人们，那么他们就会相应地作出反应，而你得到的创新将会非常渐进。没有人会因为害怕被解雇或受到某种惩罚，你知道，而去尝试任何大胆的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 1269.71,
+      "textEn": "So there must be. The risk reward must be balanced and favorable, taking bold moves, otherwise it will not happen.",
+      "textZh": "所以必须如此。风险与回报必须得到平衡，并且有利于采取大胆行动，否则这就不会发生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Interviewer",
+      "startSec": 1282.4,
+      "textEn": "Is your door open to members of the oil and gas industry to come and see what you've done to really engineer costs out of, out of SpaceX?",
+      "textZh": "你是否愿意向石油和天然气行业的成员敞开大门，让他们来看看你们是如何真正通过工程设计把成本从、从 SpaceX 中剔除的？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Elon Musk",
+      "startSec": 1294.24,
+      "textEn": "Yeah, I mean there's some limitations of SpaceX because it's considered an advanced weapons technology, but within the route balance of what the US government will let us do, we're more than happy to show people around.",
+      "textZh": "是的，我是说，SpaceX 有一些限制，因为它被视为一种先进武器技术，但在美国政府允许我们做的范围平衡之内，我们非常乐意带人们参观。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Interviewer",
+      "startSec": 1307.48,
+      "textEn": "Fantastic. Thank you.",
+      "textZh": "太棒了。谢谢。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 1308.36,
+      "textEn": "But I forgot I was going to give two examples. One was Saudi Arabia, another one was Norway because it seems that that's appropriate for given the venue. Norway has tremendous natural resources in terms of hydropower also I think wind and potentially geothermal. And I really, I think there's a huge opportunity there to expand, expand those renewable sources and provide that power to the rest of Europe. So I think that really, I think would be a wise thing to do.",
+      "textZh": "但我忘了，我本来要举2个例子。1个是沙特阿拉伯，另1个是挪威，因为考虑到会场，这似乎很合适。挪威拥有大量自然资源，包括水力发电，还有，我认为，风能以及潜在的地热能。而且我真的，我认为那里有巨大的机会来扩大、扩大这些可再生能源，并向欧洲其他地区提供这种电力。所以我认为，这真的，我认为会是明智之举。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Interviewer",
+      "startSec": 1342.54,
+      "textEn": "And you need it really, don't you? Because we need to clean up power generation for EV cars to be truly clean. If they're still being powered from coal fired power stations, then your EV product is not ultimately that clean, is it?",
+      "textZh": "而且你确实需要这么做，不是吗？因为我们需要让发电变得清洁，电动汽车才能真正清洁。如果它们仍然由燃煤发电站供电，那么你的电动汽车产品最终也没那么清洁，不是吗？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 1356.5,
+      "textEn": "Yeah. Norway of course already has a lot of hydropower But I think expanding upon that would be wise.",
+      "textZh": "是的。挪威当然已经拥有大量水力发电，但我认为进一步扩大它会是明智之举。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Interviewer",
+      "startSec": 1366.1,
+      "textEn": "Going back to SpaceX, we have a question here from Christian Rungen who sent it in on Twitter. What collaboration do you see between SpaceX and the current oil industry in space exploration, for instance, asteroid mining. Asteroid mining, drilling on Mars. There are commonalities.",
+      "textZh": "回到 SpaceX，我们这里有一个克里斯蒂安·伦根通过 Twitter 发来的问题。你认为 SpaceX 与当前石油行业在太空探索方面会开展什么合作，比如小行星采矿。小行星采矿、在火星钻探。它们有共通之处。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 1385.55,
+      "textEn": "Yeah, well the. As I said alluded to earlier, I mean rockets do burn hydrocarbons or they can burn just hydrogen as well. But the most likely Mars architecture that I think makes sense is a methane oxygen system.",
+      "textZh": "是的，嗯，这个。正如我之前提到的，我是说，火箭确实燃烧碳氢化合物，或者也可以只燃烧氢。但我认为最可能且合理的火星架构，是甲烷氧气系统。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 1408.42,
+      "textEn": "Methane is the lowest cost source fuel on Earth. And with rockets you can't really make it rocket electric because it's got to react against something. Once it gets to vacuum, there's no air or land or water to react against. So you have to burn something really. So I think a methane based system is going to be what makes the most sense. Once you get to Mars, I think there will be some drilling activity, particularly to find out if we can get to underground lakes, like to find liquid water, you know, water that's sort of heated by the Mars central core.",
+      "textZh": "甲烷是地球上成本最低的燃料来源。而且对于火箭，你实际上无法把它变成电动火箭，因为它必须对某种东西产生反作用。一旦进入真空，就没有空气、陆地或水可以产生反作用。所以你确实必须燃烧某种东西。因此，我认为基于甲烷的系统将会是最合理的。一旦到达火星，我认为会开展一些钻探活动，尤其是为了查明我们能否抵达地下湖泊，比如寻找液态水，你知道，就是某种由火星中央核心加热的水。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 1451.84,
+      "textEn": "That would make it a lot easier to develop propellants on Mars. So. So it's critical to any Mars colonization is the ability to generate fuel on Mars. You need to generate methane on Mars, which you can do because Mars has a CO2 atmosphere and there is a lot of frozen H2O around. So you've got your CH4 and your O2.",
+      "textZh": "那会让在火星上生产推进剂容易得多。所以。所以，任何火星殖民的关键都是在火星上生产燃料的能力。你需要在火星上生产甲烷，这是可以做到的，因为火星拥有 CO2 大气，而且周围有大量冻结的 H2O。所以你就有了 CH4 和 O2。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 1480.49,
+      "textEn": "But having that propellant plant on Mars be efficient is critical to a Mars colony.",
+      "textZh": "但让火星上的那座推进剂工厂高效运转，对火星殖民地至关重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Interviewer",
+      "startSec": 1486.06,
+      "textEn": "So perhaps collaborations ahead. I've got one last question which I'm going to sneak in briefly and that is what changes would you make if you were the CEO of an oil and gas major?",
+      "textZh": "所以未来或许会有合作。我还有最后一个问题，准备简短地插进来，那就是，如果你是一家大型石油和天然气公司的 CEO，你会做出哪些改变？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Interviewer",
+      "startSec": 1498.7,
+      "textEn": "Good question.",
+      "textZh": "好问题。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 1499.5,
+      "textEn": "I would invest heavily in renewables. That may sound like an obvious thing to do and there are some companies that are doing it. Total made a huge investment in sun power and I think that investment will pay good dividends in the future. But I think it's important to look at renewables and take it really seriously. Don't just put like the C or D team on it, put the A team on it.",
+      "textZh": "我会大力投资可再生能源。这听起来可能是一件显而易见的事，而且有些公司正在这样做。Total 对 SunPower 进行了巨额投资，我认为这笔投资未来会带来丰厚回报。但我认为，审视可再生能源并真正严肃地对待它很重要。不要只把 C 团队或 D 团队派去做，而要派 A 团队去做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Interviewer",
+      "startSec": 1529.02,
+      "textEn": "Are you listening? The A team?",
+      "textZh": "你们听到了吗？A 团队？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 1530.78,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Interviewer",
+      "startSec": 1531.42,
+      "textEn": "I want to ask you a personal question, actually. It's from my son. He's 14 and his question to you is what should he study in university to become a car engineer of the future? Should he do physics like you?",
+      "textZh": "其实，我想问你一个私人问题。问题来自我儿子。他14岁，他想问你的是，为了成为未来的汽车工程师，他在大学里应该学什么？他应该像你一样学物理吗？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 1545.9,
+      "textEn": "I think physics and engineering.",
+      "textZh": "我认为是物理和工程学。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Interviewer",
+      "startSec": 1546.7,
+      "textEn": "What should he do in engineering?",
+      "textZh": "他应该学工程学里的什么？",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 1548.54,
+      "textEn": "I think physics, Physics and engineering are. I mean physics provides a good framework for thinking it has the best framework for thinking, I believe particularly for discovering things that are counterintuitive.",
+      "textZh": "我认为物理，物理和工程学是。我是说，物理提供了良好的思考框架，我相信它拥有最好的思考框架，尤其是在发现违反直觉的事物方面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Elon Musk",
+      "startSec": 1560.7,
+      "textEn": "But then I think also studying a bit of engineering and, and also, I mean I wouldn't completely neglect the humanities as well. I think history, history is important. I think history is something everybody should study. There's lessons to learn and if you",
+      "textZh": "但我认为还应该学一点工程学，而且，而且，我是说，我也不会完全忽视人文学科。我认为历史，历史很重要。我认为历史是每个人都应该学习的东西。其中有经验可供汲取，而如果你",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Interviewer",
+      "startSec": 1574.61,
+      "textEn": "were to go for one. I think there's only one boy.",
+      "textZh": "要选择1个。我想只有1个男孩。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Elon Musk",
+      "startSec": 1578.37,
+      "textEn": "One boy.",
+      "textZh": "1个男孩。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Interviewer",
+      "startSec": 1579.729,
+      "textEn": "My son. There's one of him.",
+      "textZh": "我儿子。他只有1个人。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Elon Musk",
+      "startSec": 1581.17,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Interviewer",
+      "startSec": 1581.65,
+      "textEn": "Physics. If you to go for one.",
+      "textZh": "物理。如果你要选择1个。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Elon Musk",
+      "startSec": 1583.81,
+      "textEn": "You mean just 14?",
+      "textZh": "你是说只有14岁？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Interviewer",
+      "startSec": 1584.33,
+      "textEn": "He wants a simple answer. Yes, he's 14. He wants a simple answer.",
+      "textZh": "他想要一个简单的答案。是的，他14岁。他想要一个简单的答案。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Elon Musk",
+      "startSec": 1587.21,
+      "textEn": "I think probably the best choice is physics, honestly.",
+      "textZh": "老实说，我认为最好的选择可能是物理学。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Interviewer",
+      "startSec": 1589.01,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Elon Musk",
+      "startSec": 1589.45,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Interviewer",
+      "startSec": 1591.05,
+      "textEn": "Bear speaks to physicists.",
+      "textZh": "熊对物理学家讲话。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Elon Musk",
+      "startSec": 1592.49,
+      "textEn": "Shouldn't just read physics though. There's other things too.",
+      "textZh": "不过，也不应该只学物理。还有其他东西也要学。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Interviewer",
+      "startSec": 1596.33,
+      "textEn": "Elon Musk, it's been such a pleasure having you here.",
+      "textZh": "埃隆·马斯克，非常荣幸能请您来到这里。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Elon Musk",
+      "startSec": 1598.65,
+      "textEn": "Thanks for having me.",
+      "textZh": "谢谢你们邀请我。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Interviewer",
+      "startSec": 1600.57,
+      "textEn": "Wide ranging view of the world and the universe.",
+      "textZh": "对世界和宇宙的广阔视野。",
+      "speakerZh": "采访者"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Elon Musk",
+      "startSec": 1604.17,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Interviewer",
+      "startSec": 1604.81,
+      "textEn": "Thank you for joining us at ONS 2014.",
+      "textZh": "感谢您参加ONS 2014。",
+      "speakerZh": "采访者"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T00:29:50.643Z",
+    "reviewedAt": "2026-09-13T00:53:47.911Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:59.974Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "56eb8a67ab0c5dbb4f93459fab4a43807c24140321b8189e2550a80b673abe9d"
+}

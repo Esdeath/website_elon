@@ -1,0 +1,1134 @@
+{
+  "id": "tesla-factory-tour-with-marques-brownlee-2018-08",
+  "slug": "tesla-factory-tour-with-marques-brownlee-2018-08",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2018-08-20",
+  "titleEn": "Tesla Factory Tour with Marques Brownlee",
+  "titleZh": "与马克斯·布朗利一起参观 Tesla 工厂",
+  "summaryEn": "Musk gives MKBHD a walkthrough of the Tesla Fremont factory's Model S/X and general-assembly lines.",
+  "summaryZh": "马斯克带 MKBHD 参观 Tesla 弗里蒙特工厂的 Model S/X 生产线和总装线。",
+  "sourceUrl": "https://www.youtube.com/watch?v=mr9kK0_7x08",
+  "sourceLabel": "Marques Brownlee",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-factory-tour-with-marques-brownlee-2018-08",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/mr9kK0_7x08",
+  "thumbnailUrl": "https://i.ytimg.com/vi/mr9kK0_7x08/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 920,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 5.2,
+      "textEn": "Hey, what is up, guys?",
+      "textZh": "嘿，大家怎么样？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 5.84,
+      "textEn": "I'm Kabhd here and welcome to the sequel to the previous video. So the part two, which is the mini factory tour with Elon, I want to preface it just with the intro by saying, first of all, it is really difficult to shoot good video in that factory. As you'll both see in here, it's extremely loud and extremely busy. So this is more of just like a walking around and having fun and checking things out. So it's actually probably just like 15 or 20% of the actual model S and X factory process.",
+      "textZh": "我是 Kabhd，欢迎来到上一期视频的续集。也就是第 2 部分，与埃隆一起进行的迷你工厂参观。我想先在开场时说明一下，首先，在那座工厂里拍出好的视频真的很难。你们两位在这里都会看到，里面极其嘈杂，也极其忙碌。所以这更像是四处走走、找找乐子、看看各种东西。因此，这实际上可能只展示了 Model S 和 X 实际工厂流程的 15% 或 20%。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 36.09,
+      "textEn": "It's not the whole thing. It's mostly just Elon showing us around. And in fact, I didn't even really say much during this interview. It was more just like I was kind of like a kid in the Matrix, just kind of absorbing everything. And then it also kind of cuts abruptly at the end when Elon basically gets pulled into his next meeting. But I still thought it was a ton of fun and worth sharing. And also, I should mention, this entire video shoot, this production would not be possible without my buddy John from the TLD channel and his crew who helped with audio, who are the muscle with the Steadicam.",
+      "textZh": "这不是全部。主要就是埃隆带我们四处参观。事实上，在这次采访中，我甚至真的没说多少话。更像是我有点像《黑客帝国》里的一个孩子，只是在吸收眼前的一切。然后在结尾处，埃隆基本上被叫去参加下一场会议，视频也就有点突然地切断了。但我仍然觉得这非常有趣，值得分享。另外我也应该提一下，如果没有我那位来自 TLD 频道的朋友约翰以及他的团队，整个视频拍摄和制作都不可能完成；他们协助处理音频，也是负责斯坦尼康的主力。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 65.46,
+      "textEn": "He has an entire behind the scenes video of this process on his channel. I'll link that right below. So if you want to check that out after watching this and part one, feel free. But until the next one, this is your mini tour of the Tesla factory with Elon. Enjoy.",
+      "textZh": "他的频道上有一段关于这一过程的完整幕后视频。我会把链接放在正下方。所以，如果你看完这个视频和第 1 部分后想去看看，请随意。不过在下一期之前，这就是你们与埃隆一起参观 Tesla 工厂的迷你之旅。好好欣赏。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 80.18,
+      "textEn": "One that loops back and like I said, just gives us access to the central corridor. So it's really just like lifting it up and over.",
+      "textZh": "有一条会绕回来，就像我说的，只是让我们能够进入中央通道。所以其实就只是把它抬起来，再从上方越过去。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 87.62,
+      "textEn": "So the car that ends up here came all the way down this previous.",
+      "textZh": "所以最后到这里的车，是沿着前面这条一路过来的。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 91.12,
+      "textEn": "Yeah, yeah, exactly. So these robots are really just to give us like through. Through access.",
+      "textZh": "对，对，没错。所以这些机器人其实只是为了让我们能通过。通行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 96.24,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 96.8,
+      "textEn": "Yeah. So. So it's going to pick it up and transfer it to the other robot. Yeah, but I think like, you know, like a design improvement we should do is like really just the one robot just passes to the other robot.",
+      "textZh": "对。所以。所以它会把它拿起来，再转交给另一个机器人。对，但我觉得，你知道，我们应该做的一项设计改进就是，真的直接让一个机器人把它递给另一个机器人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 108.32,
+      "textEn": "Pick it up.",
+      "textZh": "把它拿起来。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 108.92,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 109.36,
+      "textEn": "There's a third one above us.",
+      "textZh": "我们上方还有第 3 个。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 110.56,
+      "textEn": "Yeah, it's like it puts it on a table, the table rotates. It's like if we did this over, we would just have that giant robot pass it to that giant robot.",
+      "textZh": "对，它就像是把它放到一张台子上，台子再旋转。就像是，如果我们重新来做，就会直接让那个巨型机器人把它递给那个巨型机器人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 118.28,
+      "textEn": "Fair.",
+      "textZh": "有道理。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 118.64,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 119.12,
+      "textEn": "Handoff.",
+      "textZh": "交接。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 119.8,
+      "textEn": "Yeah. It's like a thousands little things like that that help improve production. General assembly kind of operates in kind of a U. So it goes. Cars coming over there go all the way down here and then all the way that way. And you can see the car get progressively more complex as it goes down the General assembly line.",
+      "textZh": "对。就是有数千件像那样的小事，帮助改善生产。总装大致以某种 U 形方式运作。所以它这样走。汽车从那边过来，一直走到这里，然后再一路往那个方向走。你可以看到，汽车沿着总装线前进时会逐渐变得更复杂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 137.5,
+      "textEn": "What does it look like when it starts this side of the assembly line?",
+      "textZh": "它从装配线这一侧开始时是什么样的？",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 140.38,
+      "textEn": "Oh, we can go there. Should we start there? Start at the beginning or.",
+      "textZh": "哦，我们可以去那里。我们应该从那里开始吗？从开头开始，还是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 143.86,
+      "textEn": "Yeah, might as well.",
+      "textZh": "对，不妨这样。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 146.38,
+      "textEn": "But here you can get a good sense for. There's like. Like, general assembly is what I was talking about as being really well suited to people.",
+      "textZh": "不过在这里你可以很好地感受到。就是。就像，我刚才说的，总装真的非常适合由人来做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 154.15,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 155.03,
+      "textEn": "Because you got a lot of weird things that you got to put together. Like, you, like, look at some of these, you know, assemblies that like. Like, it's pretty hard for a robot to, like, connect this on.",
+      "textZh": "因为你要把很多奇怪的东西组装到一起。比如，你，比如，看看其中一些，你知道，这些组件，就像。比如，对机器人来说，把这个连接上相当困难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 165.27,
+      "textEn": "That makes sense.",
+      "textZh": "这说得通。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 166.11,
+      "textEn": "Yeah, it's, you know, like, depending upon how it comes out of the box, it could be, like, in a little different position, but it's pretty easy for somebody, like. Oh, it's. It's like I just need to move it like an inch, you know, bolt it in.",
+      "textZh": "对，这个，你知道，比如，取决于它从箱子里出来时是什么样，它的位置可能会有一点不同，但对人来说很容易，比如。哦，它。这就像我只需要把它移动大约 1 英寸，你知道，再用螺栓固定好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 177.91,
+      "textEn": "It's probably really hard to write software of know to adapt in all these different ways. Yeah.",
+      "textZh": "要编写软件来懂得如何以所有这些不同方式进行适应，可能真的很困难。对。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 183.69,
+      "textEn": "So if you try to have the robot do this, you gotta have, like, a confiscated vision system. And then, like, the vision system faults out. It's like, it's not quite right. That's the hard part.",
+      "textZh": "所以，如果你试着让机器人来做这个，你就得有，比如，一个被没收的视觉系统。然后，比如，视觉系统发生故障。就像，它不完全对。那才是困难的部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 193.41,
+      "textEn": "We have a robot in our studio that moves the camera around, and the hardest part is when it faults.",
+      "textZh": "我们工作室里有一个移动摄像机的机器人，而最困难的部分就是它发生故障的时候。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 198.09,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 198.57,
+      "textEn": "You need a person there to know what to do.",
+      "textZh": "你需要有个人在那里知道该怎么做。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 200.69,
+      "textEn": "Exactly.",
+      "textZh": "没错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 201.25,
+      "textEn": "So hopefully that doesn't happen much.",
+      "textZh": "所以希望这种情况不会经常发生。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 204.53,
+      "textEn": "Like, for parts that are. That are complicated and fiddly, like, wiring harnesses are especially difficult. You see how, like, the wiring harness kind of needs to snake through the car. Yeah, it's literally like. Like winding. Like a snake through the car.",
+      "textZh": "比如，对于那些。那些复杂又需要精细摆弄的部件，比如，线束尤其难处理。你看，比如，线束需要怎样曲折地穿过汽车。对，它简直就像。像蜿蜒穿行。像一条蛇穿过汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 218.35,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 218.71,
+      "textEn": "You gotta, like, poke it through holes and do various things. That's super difficult for a robot. See like, how they're, like, putting the part of the air conditioning system there.",
+      "textZh": "你得，比如，把它穿过孔洞，还要做各种事情。这对机器人来说超级困难。你看，比如，他们正在怎样把空调系统的那个部件装到那里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 228.91,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 230.11,
+      "textEn": "So you use, like, a little bit of mechanical assistance with the winch and whatnot. But then it's pretty straightforward for the guys to just, like, get that in there. And then, like, if they see there's an issue with the part, then, like, they say, oh, this part's got a problem. We'll put it over here to, you know, to get fixed. Like, this is like semi lines, like, moving slowly.",
+      "textZh": "所以你会用，比如，绞盘之类的东西提供一点机械辅助。但接下来，对工人们来说，只要，比如，把那个装进去就相当直接了。然后，比如，如果他们看到这个部件有问题，那么，比如，他们会说，哦，这个部件有问题。我们把它放到这边去，你知道，进行修理。比如，这就像半条线，比如，在缓慢移动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 249.05,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 249.45,
+      "textEn": "So, like, moves long. And then if, you know, gets people, like, time to get things done, like, hey, you can, like, stand on this.",
+      "textZh": "所以，比如，它一直移动。然后，如果，你知道，给人们，比如，时间把事情做完，比如，嘿，你可以，比如，站在这个上面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 256.89,
+      "textEn": "And I think you mentioned, like, the speed of the car coming out the other side is like 1 mile an hour or something like that.",
+      "textZh": "而且我想你提到过，比如，汽车从另一边出来时的速度大约是每小时 1 英里，或者类似的速度。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 262.41,
+      "textEn": "Yeah, it's super slow.",
+      "textZh": "对，超级慢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 263.13,
+      "textEn": "You want to speed this up, right?",
+      "textZh": "你想加快这个速度，对吧？",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 264.33,
+      "textEn": "Yeah, it's not even one mile an hour. It's even slower than that right now. One point sx. But for three, it's like, getting close to a mile an hour.",
+      "textZh": "对，甚至还不到每小时 1 英里。现在甚至比那还慢。一点 sx。但对于 3，它就像，正在接近每小时 1 英里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 271.53,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 272.01,
+      "textEn": "Okay. But walking sea is three miles an hour, so it's like, only one third walking speed at one mile an hour.",
+      "textZh": "好的。但步行海是每小时 3 英里，所以，就像，每小时 1 英里只有步行速度的 1/3。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 277.43,
+      "textEn": "All right.",
+      "textZh": "好。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 277.83,
+      "textEn": "But you can see, like, when you look on the inside of the car, you see like, how many little, complicated little pieces. There are a lot. You know, the things that are meant to. For insulation, corrosion protection, airbags, road noise. Like, it's all the stuff that gets put in here.",
+      "textZh": "不过你可以看到，比如，当你观察汽车内部时，你会看到，比如，有多少细小、复杂的小部件。有很多。你知道，那些是为了。用于隔热、防腐蚀、安全气囊、道路噪声。比如，这些东西全都要装到这里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 298.47,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 298.83,
+      "textEn": "You can see, like, these are, like, the slide airbags here.",
+      "textZh": "你可以看到，比如，这些就是，比如，这里的滑动安全气囊。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 301.51,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 303.35,
+      "textEn": "I must be. I think this is, like, pretty cool. Like, most people never see, like, the inside of the car.",
+      "textZh": "我肯定是。我觉得这个，像是，挺酷的。就像，大多数人从来没见过，像是，汽车的内部。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 306.71,
+      "textEn": "Yeah. There's a million things you never see driving the car every day.",
+      "textZh": "是啊。每天开车时，有 100 万件东西是你永远看不到的。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 309.45,
+      "textEn": "This is like. Sorry, guys. Sorry to interrupt.",
+      "textZh": "这个就像。抱歉，各位。抱歉打扰了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 315.41,
+      "textEn": "I hope you don't mind being on, like, on, like, you know, the Internet and stuff. Is that cool? All right.",
+      "textZh": "希望你们不介意出现在，像是，出现在，像是，你们知道，互联网之类的地方。可以吗？好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 320.53,
+      "textEn": "YouTube's cool.",
+      "textZh": "YouTube挺好的。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 321.29,
+      "textEn": "I actually don't interrupt your work, but, you know, it's like, you see, like, how, like, there's, like, a lot of tricky pieces, and, like, if for a person like, this is, like, durable, straightforward. Yeah. You know, it takes a bit of training, get up speed. But, like, once. Once you, like, basically, like, like a pro human this super well. And it's, like, hard for the robots to do that. But when we go to the, like, the body welding, I'll show you, like, what's, like, what's a robot good at?",
+      "textZh": "其实我不会打断你们的工作，但，你知道，就像，你会看到，像是，这里有，像是，很多很棘手的部件，而且，像是，如果对一个人来说，像是，这个，像是，耐用、直接。是的。你知道，需要一点培训，才能提高速度。但，像是，一旦。一旦你，像是，基本上，像是，像个专业的人类，这个做得超级好。而且这对机器人来说，像是，很难做到。但当我们去，像是，车身焊接区时，我会给你看，像是，什么，像是，机器人擅长什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 348.19,
+      "textEn": "You'll see, like, there's tons of robots. Like, tons of people here, tons of robots there. But there's so much complexity and variation here. You got, like, thread those wires when",
+      "textZh": "你会看到，像是，那里有大量机器人。像是，这里有大量的人，那里有大量的机器人。但这里有太多复杂性和变化。你得，像是，把那些电线穿过去，当",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 357.75,
+      "textEn": "it comes through, especially here at this door.",
+      "textZh": "它穿过来时，尤其是在这扇门这里。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 360.75,
+      "textEn": "So, like, this is a problem with, like, less stuff in it. And then it goes, you know, and we'll see the beginning of it.",
+      "textZh": "所以，像是，这是一个里面东西较少的问题。然后它会，你知道，我们会看到它的开头。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 367.39,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 367.71,
+      "textEn": "And then it goes all the way around. Gets more and more stuff added.",
+      "textZh": "然后它一路绕过去。加上去的东西越来越多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 370.71,
+      "textEn": "And does it end at the end? Well, general assembly ends probably somewhere down there.",
+      "textZh": "然后它会在终点结束吗？嗯，总装可能在那边某个地方结束。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 374.61,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 374.97,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 375.69,
+      "textEn": "So you can. It's interesting to see the car get progressively more complex as we add more parts to it. This place used to employ, like, about 5,000 people, and now we got, like, we got 10,000 people just in this location. So what we do is we have, like, tons of shuttles and, like, recourse ride sharing. We got the very rapid transit station finally, like, went up. So just like, trying to get people here is not easy.",
+      "textZh": "所以你可以。看着我们加入更多零件后，汽车逐渐变得更加复杂，这很有意思。这个地方以前雇用了大约 5,000 人，而现在我们有，大概，我们仅在这个地点就有 10,000 人。所以我们的做法是安排大量班车，以及，类似，借助拼车。我们的快速交通车站终于，类似，建起来了。所以光是想办法把人送到这里就不容易。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 403.75,
+      "textEn": "Big challenge.",
+      "textZh": "很大的挑战。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 404.31,
+      "textEn": "What is this? Oh, this is actually, like, this is one of my favorite dumb robots.",
+      "textZh": "这是什么？哦，这其实，类似，这是我最喜欢的笨机器人之一。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 410.31,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 411.03,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 411.47,
+      "textEn": "I'm a fan right now.",
+      "textZh": "我现在已经是它的粉丝了。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 412.35,
+      "textEn": "It's pretty cool. So, like, there's a lot of fancy robots that like. But they have like lots of issues and they break down all the time. These little guys are super great, but like they follow this magnetic stripe. See, Basically it's like super easy to program. You don't even need to be a programmer because just like lay down the mag stripe and it'll follow it. Yeah, it just follows the mag stripe. And then it's got proximity sensors in the front.",
+      "textZh": "它相当酷。所以，类似，有很多很花哨的机器人，类似。但是它们会有很多问题，而且总是出故障。这些小家伙非常棒，不过，类似，它们沿着这条磁条走。看，基本上它非常容易编程。你甚至不需要是程序员，因为只要，类似，把磁条铺下去，它就会沿着磁条走。对，它就是沿着磁条走。然后它的前面装有接近传感器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 437.84,
+      "textEn": "So if it sees an obstacle or sees like something in the way, it just stops. And then as soon as something moves out of the way, it just keeps going. You know, just like there's this like little thing all day long, like a little train. Like you're talking about robots bolting out. And one of the. It's like, that's like where like actually doing things manually can actually be more efficient. Because if you have like a lot of complicated robots, particularly if you have a 247 operation like we have with model 3, then if robot faults out, you got to have 24 7, like advanced robot technicians.",
+      "textZh": "所以如果它看到障碍物，或者看到，类似，有东西挡路，它就会停下来。然后只要那个东西移开，它就继续前进。你知道，就像有这么个，类似，小东西整天来来回回，像一列小火车。比如你说到机器人跳闸。而其中一个。那就像是，实际上手工操作反而可能更高效的地方。因为如果你有，类似，许多复杂的机器人，尤其是在像我们的 Model 3 那样实行 247 运转的情况下，那么如果机器人发生故障，你就必须 24 7 配备，类似，高级机器人技术人员。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 472.78,
+      "textEn": "And then if the robot like accidentally crashes and like breaks a fixture, then it's like, man. Okay, now, now we've got the line. We've got line down. You have to red alert. And I get pulled on my cell phone at 2 in the morning and it's like not a lot of fly apart in Germany. It's like we literally had that two days ago.",
+      "textZh": "然后，如果机器人，类似，意外撞上什么并且，类似，弄坏了一个夹具，那就会，天啊。好了，现在，现在我们的生产线。我们的生产线停了。你必须拉响红色警报。然后凌晨 2 点我的手机就会把我叫起来，而这就像德国没有很多飞散的零件。类似，我们就在 2 天前真的遇到了这种事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 488.46,
+      "textEn": "Do you have to. When you get new robots, do you build the robots or do you order them, Program them?",
+      "textZh": "你必须……当你们需要新机器人时，是自己制造机器人，还是订购它们，再给它们编程？",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 494.68,
+      "textEn": "So there's like different classes, there's many, many different types of robots. So the, like the giant robot that we still looked in the car is like, that is a catalog item. But then we have to program the motions and then. And the end effector is that it's custom. So the end effector that picks up the car, drops it off. That's a custom made thing. Okay, so it's kind of like you kind of like buy this like, powerful arm, but it's just like having an arm stuck in the ground.",
+      "textZh": "所以，大概有不同的类别，有非常非常多不同类型的机器人。所以，那个我们仍然在车里看到的巨型机器人，就像，那是目录里的标准产品。但之后我们必须对动作进行编程，然后。末端执行器是定制的。所以那个把车拿起来、再放下的末端执行器，是定制制造的东西。好，所以这有点像，你相当于买了这样一只有力的手臂，但它就像是一只固定在地上的手臂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 524,
+      "textEn": "And then you're like, okay, what does the arm do?",
+      "textZh": "然后你会想，好吧，这只手臂要做什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 525.76,
+      "textEn": "You got to tell it everything to do. Yeah. Okay.",
+      "textZh": "你得把它要做的每件事都告诉它。对。好。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 527.56,
+      "textEn": "And then you got to put sensors on it and put fixtures. But that's like kind of like that robot over there that's also one of like the ones that fix up the car. Oh, by the way, these are like named after X Men.",
+      "textZh": "然后你得在它上面安装传感器和夹具。但那有点像那边的那个机器人，它也是那些把车修好的机器人之一。哦，顺便说一句，这些机器人的名字来自《X战警》。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 539.2,
+      "textEn": "Oh, yeah, I forgot about that. Just X Men. I feel like you might have to",
+      "textZh": "哦，对，我忘了这事。就《X战警》。我觉得你可能得……",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 543.6,
+      "textEn": "like Marvel and X Men.",
+      "textZh": "像漫威和《X战警》。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 544.72,
+      "textEn": "You gotta start to run out of names.",
+      "textZh": "你们一定开始没名字可用了。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 546,
+      "textEn": "Yeah, yeah. This thing actually turns out a lot of X Men, by the way.",
+      "textZh": "对，对。顺便说一句，结果其实有很多《X战警》角色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 548.08,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 548.24,
+      "textEn": "Okay, so you can see like this is like quite a beast of a robot. You can just buy that robot. In this case, it's a panuk robot and you can buy the robot, but then the end effector that's carrying the car is something that's custom. And then you gotta do the programming and the like, wire in the sensors and that kind of thing to the",
+      "textZh": "好，所以你可以看到，这真是一台庞然大物般的机器人。你可以买到那台机器人。在这个例子里，它是一台 Panuk 机器人，你可以买下这台机器人，但承载汽车的末端执行器是定制的。然后你还得进行编程，还得像是接上传感器之类的，来达到……",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 569.82,
+      "textEn": "level of precision of this massive robot. Is it to like, as far as repeatable action? Is it literally the same path every sink, plus or minus an inch?",
+      "textZh": "这台巨型机器人的精度水平。就可重复动作而言，它是不是像，每个水槽都严格走同一条路径，误差在正负1英寸以内？",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 578.42,
+      "textEn": "Oh, no, it's.",
+      "textZh": "哦，不，它是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 578.97,
+      "textEn": "That's centimeter.",
+      "textZh": "那是厘米级。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 581.21,
+      "textEn": "It's better than that. For a big robot. There's a little less precision than a smaller robot. But say a medium sized robot will be accurate to 0.2, 0.3 millimeters.",
+      "textZh": "比那更好。对大型机器人来说，精度会比小型机器人稍低一些。但比如说，一台中型机器人的精度能达到0.2、0.3毫米。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 592.65,
+      "textEn": "Okay. What is the most popular paint color coming through here?",
+      "textZh": "好。这里经过的车最受欢迎的车漆颜色是什么？",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 597.93,
+      "textEn": "That's black.",
+      "textZh": "是黑色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 598.97,
+      "textEn": "Black?",
+      "textZh": "黑色？",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 599.37,
+      "textEn": "Yeah. It actually varies by country.",
+      "textZh": "对。实际上会因国家而异。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 604.94,
+      "textEn": "Like, watch out, there's a dumb robot coming through.",
+      "textZh": "那个，小心，有台笨机器人过来了。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Elon Musk",
+      "startSec": 609.18,
+      "textEn": "Oh, yeah. This guy's like pretty. Pretty cool. Like what.",
+      "textZh": "哦，对。这家伙挺……挺酷的。就像，什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 615.66,
+      "textEn": "This could go wrong.",
+      "textZh": "这可能会出问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 616.78,
+      "textEn": "I don't know. You trust him more than I do.",
+      "textZh": "我不知道。你比我更信任它。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 618.86,
+      "textEn": "Yeah. Okay.",
+      "textZh": "对。好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 619.82,
+      "textEn": "All right.",
+      "textZh": "好了。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 620.38,
+      "textEn": "Okay. All right.",
+      "textZh": "好。好了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 621.74,
+      "textEn": "Good job. Good job, robot. Yeah. I see a lot of silver and I see a lot of white. Model X just in New Jersey.",
+      "textZh": "干得好。干得好，机器人。对。我看到很多银色，也看到很多白色。Model X 就在新泽西。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 630.22,
+      "textEn": "Black and white are the two most colors. The two most popular colors.",
+      "textZh": "黑色和白色是最常见的两种颜色。最受欢迎的两种颜色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 633.06,
+      "textEn": "Okay.",
+      "textZh": "好。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 634.26,
+      "textEn": "The white Mac are like black.",
+      "textZh": "白色 Mac 就像黑色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 636.98,
+      "textEn": "Slight.",
+      "textZh": "略微。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 637.62,
+      "textEn": "Is slightly more popular than white in the US but in like Europe it's way more popular. Like, white is a very rare color in Europe per car.",
+      "textZh": "在美国，略微比白色更受欢迎，但在欧洲之类的地方，它受欢迎得多。比如，在欧洲，按每辆车计算，白色是一种非常罕见的颜色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 644.02,
+      "textEn": "Okay.",
+      "textZh": "好。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 645.06,
+      "textEn": "In the US it's like, it's about even with black. Black and white are two more stone colors.",
+      "textZh": "在美国，它就像，和黑色差不多一样多。黑色和白色是两种更像石头的颜色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 649.7,
+      "textEn": "Got it.",
+      "textZh": "明白了。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Elon Musk",
+      "startSec": 650.26,
+      "textEn": "And here you can see battery pack.",
+      "textZh": "这里可以看到电池包。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 655.7,
+      "textEn": "This is like a mating station for the battery pack.",
+      "textZh": "这里就像是电池包的对接工位。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 658.99,
+      "textEn": "Oh. This is literally connecting the battery to the car.",
+      "textZh": "哦。这实际上就是在把电池连接到汽车上。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 669.71,
+      "textEn": "Here you can see it's like a combination of manual and automatic.",
+      "textZh": "这里可以看到，它就像是手动与自动的结合。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 673.39,
+      "textEn": "So it's like they're lining it up.",
+      "textZh": "所以他们像是在把它对齐。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 675.23,
+      "textEn": "Yeah, exactly.",
+      "textZh": "对，没错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 677.79,
+      "textEn": "It's done primarily by the robot system, by the automated system. But then you've got a person just making sure that the fine tuning is there.",
+      "textZh": "这主要由机器人系统、自动化系统完成。但还会有一个人负责确保微调到位。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 684.91,
+      "textEn": "Gotcha. How do you feel about matte? Matte or satin colors?",
+      "textZh": "明白了。你怎么看哑光？哑光或缎面颜色？",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 689.05,
+      "textEn": "Actually, you know about that a lot. I actually like the aesthetics of matte. It's really tricky to repair matte. So like glass, you can polish it out with matte. If you get like a little ding, it's really hard to then rematch the so it looks like an even matte. You can't just like, you know, that's a fair point.",
+      "textZh": "其实，你对此很了解。我其实很喜欢哑光的美感。哑光真的很难修复。所以像玻璃一样，你可以用哑光把它抛光掉。如果出现一个小凹痕，之后就很难重新匹配那个，让它看起来具有均匀的哑光效果。你不能只是，那个，你知道，这是个合理的观点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 708.65,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 709.13,
+      "textEn": "So it's doable. It's. It's something actually we would like to do matte in the future.",
+      "textZh": "所以这是可行的。这是。这其实是我们未来想做的哑光效果。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Elon Musk",
+      "startSec": 715.56,
+      "textEn": "But like right now, for example, like the paint shop's really operating at full tilt. So adding any complexity to the paint shop would not be wise right now. But I think it'd be a cool thing to do in the future. But these are sub assemblies. So you can see like the front and rear drive units being built up and the sub assemblies then feed the main assembly line.",
+      "textZh": "但比如现在，喷漆车间确实正在满负荷运转。所以现在给喷漆车间增加任何复杂性都不明智。但我认为未来这么做会很酷。不过这些是分总成。所以你可以看到前后驱动单元正在组装，而这些分总成随后会送入总装线。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 733.32,
+      "textEn": "These are long assembly lines.",
+      "textZh": "这些装配线很长。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Elon Musk",
+      "startSec": 735.08,
+      "textEn": "Oh, yeah. Well, it's integrating SNS.",
+      "textZh": "哦，对。嗯，它正在整合 SNS。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 739.88,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 740.4,
+      "textEn": "And it's making about 2,000 cars a week.",
+      "textZh": "它每周大约生产2,000辆汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 743.06,
+      "textEn": "Is Model 3 entirely, completely separate, I guess inside the same building, but separate whole process.",
+      "textZh": "Model 3 是完全彻底分开的吗，我猜是在同一栋建筑里，但整个流程是分开的。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 749.7,
+      "textEn": "The only place where model 3 and S and X come together is in the paint shop. So the paint shop is processing S3 and X simultaneously down the same line. But otherwise general assembly is separate. Buddy's separate. Yeah. Everything else is separate. So just the paint shop where they come together.",
+      "textZh": "Model 3 与 S 和 X 唯一汇合的地方是喷漆车间。所以喷漆车间在同一条线上同时处理 S3 和 X。但除此之外，总装是分开的。Buddy 是分开的。对。其他所有环节都是分开的。所以只有喷漆车间是它们汇合的地方。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 767.3,
+      "textEn": "You've mentioned you've slept in the factory. To be able to immediately diagnose problems and hands on, fix what's not right. What type of things happen that you can immediately fix or immediately take action on?",
+      "textZh": "你提到过自己睡在工厂里。以便能够立即诊断问题，并亲自动手修复不对的地方。会发生哪些事情，是你能够立即修复或立即采取行动的？",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Elon Musk",
+      "startSec": 783.19,
+      "textEn": "Actually, last three months last year, I mostly spent at gigafactory trying to help fix the battery production. So module production.",
+      "textZh": "实际上，去年最后3个月，我大部分时间都待在超级工厂，试图帮助解决电池生产问题。也就是模组生产。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 795.27,
+      "textEn": "And it's just. It's a lot of little things. Like looking at each little tiny part, each process. Say, is the process necessary? Because the best part is no part. Best part, process is no process. And occasionally at the design level, you think something's necessary, but then it turns out it's not. So it's just like making sure. Connecting between design and manufacturing next year, making sure we close the leaves on that.",
+      "textZh": "而且就是。这是许多细小的事情。比如审视每一个微小的零件、每一道工序。问，这道工序有必要吗？因为最好的零件就是没有零件。最好的工序就是没有工序。有时候在设计层面，你认为某样东西是必要的，但后来发现它并非如此。所以就是要确保。明年把设计和制造联系起来，确保我们在这件事上把叶片合拢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 825.72,
+      "textEn": "Just saying like, hey, is this. If. Let's say it's a. It's like it's a lot of real simple stuff, but it's like times a thousand. So if we have like a automated bolt driver going in, like what's the RPM and torque settings for the bolt driver? Can we make that go faster? Usually you can. Unnecessary movements.",
+      "textZh": "就是说，比如，嘿，这是。假如。比方说它是一个。就像有许多非常简单的事情，但就像乘以1000。所以，如果我们有一个自动螺栓拧紧器在工作，比如这个螺栓拧紧器的RPM和扭矩设置是多少？我们能让它运转得更快吗？通常可以。没必要的动作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 846.12,
+      "textEn": "Like for example, I actually don't really like the fact that we lift the cars over and back.",
+      "textZh": "比如说，实际上我不太喜欢我们把汽车吊过去再吊回来的做法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 852.49,
+      "textEn": "Ideally that would be a robot handoff. Yeah. If you're getting rid of a middle stage.",
+      "textZh": "理想情况下，那应该由机器人直接交接。是的。如果你要去掉中间阶段。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Elon Musk",
+      "startSec": 856.53,
+      "textEn": "Yeah, exactly. Because the middle stage, what the robotics is like putting it on a turntable and then the turntable's rotating and another robot's picking it up. It's actually problem is like, sometimes the turntable breaks down and so. Okay, so it's like, okay, let's eliminate the turntable and just have robot go to robot. And then you don't have, like turntable brakers to consider.",
+      "textZh": "是的，完全正确。因为中间阶段，机器人所做的就像是把它放到转盘上，然后转盘旋转，另一个机器人再把它拿起来。实际问题是，比如说，有时转盘会发生故障，所以。好吧，所以就像，好吧，我们把转盘取消，直接让机器人交给机器人。然后你就不用考虑转盘发生故障之类的问题了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 876.75,
+      "textEn": "So it's a lot of minimizing things that can go wrong and maximizing the efficiency of the simple things that go right.",
+      "textZh": "所以，其中很多工作就是尽量减少可能出错的事情，并尽可能提高那些顺利运行的简单环节的效率。",
+      "speakerZh": "马奎斯·布朗利"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 884.47,
+      "textEn": "It's like design necessity of every part and every process. The speed at which especially the robots are going.",
+      "textZh": "就像是每个零件和每道工序在设计上的必要性。尤其是机器人运行的速度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 899.15,
+      "textEn": "Is there any unnecessary movement in the production line that some value added? Like we're actually doing something like replacing elements of the production system that are",
+      "textZh": "生产线上是否存在某些增值的不必要动作？比如我们实际上在做一些事情，像是替换生产系统中那些",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Marques Brownlee",
+      "startSec": 911.02,
+      "textEn": "not needed or redundant.",
+      "textZh": "不需要或多余的要素。",
+      "speakerZh": "马克斯·布朗利"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 914.26,
+      "textEn": "Exactly.",
+      "textZh": "正是如此。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T23:37:48.258Z",
+    "reviewedAt": "2026-09-13T00:02:13.393Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:34.905Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "646910a5101aa8799b91c4df4ba69cbb2ad229ec477c1b943af3cd19ccc59347"
+}

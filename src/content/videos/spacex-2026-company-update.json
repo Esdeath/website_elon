@@ -1,0 +1,230 @@
+{
+  "id": "spacex-2026-company-update",
+  "slug": "spacex-2026-company-update",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2026-08-11",
+  "titleEn": "SpaceX Company Update",
+  "titleZh": "SpaceX 公司动态",
+  "summaryEn": "Elon Musk's company-wide update to SpaceX employees, published August 11, 2026: the story from the El Segundo warehouse to nearly 11,000 Starlink satellites and a 700th Falcon flight, then the road ahead — Starship, Starshield, and above all AI, whose revenue he says will exceed all other SpaceX revenue within weeks.",
+  "summaryZh": "埃隆·马斯克面向 SpaceX 全体员工的公司动态说明，发布于 2026 年 8 月 11 日：讲述了从埃尔塞贡多的仓库到近 11,000 颗星链卫星和猎鹰火箭第 700 次飞行的历程，随后谈及前路——星舰、星盾，以及最重要的人工智能；他说，其收入将在数周内超过 SpaceX 的所有其他收入。",
+  "sourceUrl": "https://x.com/SpaceX/status/2087283977866379361",
+  "sourceLabel": "SpaceX on X",
+  "archiveUrl": "https://elonmuskarchive.org/video/spacex-2026-company-update",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/kwNyUTH0asI",
+  "thumbnailUrl": "https://i.ytimg.com/vi/kwNyUTH0asI/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 1759,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 74,
+      "textEn": "In order to understand the nature of the universe and all these fundamental questions, we must expand the scope and scale of consciousness. So it's been a while since the last company talk and I'll try to do these now every three months after our earnings calls, which is when I'm allowed to talk about things essentially at this point. So we're going to start off just by going through the history of SpaceX from the beginning and, and then to present day. I think once in a while it's good to look at the whole story and then think about what do you want the next chapters to be in the story? What do you want the next book to be in the story?",
+      "textZh": "为了理解宇宙的本质以及所有这些根本性问题，我们必须扩大意识的范围和规模。距离上一次公司讲话已经有一段时间了，我会尽量在今后每 3 个月、我们的财报电话会议之后做一次，因为基本上在这个时候我才被允许谈论相关事情。所以我们先从头回顾一下 SpaceX 的历史，然后讲到现在。我认为，偶尔审视一下整个故事，然后思考你希望这个故事接下来的篇章是什么，是件好事。你希望这个故事的下一本书是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 136,
+      "textEn": "So we started off with a clear mission which is to make life multi planetary, to extend consciousness beyond Earth, to understand the universe. And you can only understand the universe if you go out there and you explore and you see other planets and ultimately other star systems. And I think one of the most inspiring things that one could possibly imagine, one of the most inspiring futures one could imagine is one when we're out there among the stars and perhaps meeting alien civilizations or exploring the ruins of civilizations that lasted a million years but died out 10 million years ago.",
+      "textZh": "所以，我们一开始就有一个明确的使命，那就是让生命跨行星生存，将意识扩展到地球之外，去理解宇宙。而只有当你真正走出去，去探索、去观察其他行星，并最终观察其他恒星系统时，你才能理解宇宙。我认为，一个人所能想象的最鼓舞人心的事情之一、所能想象的最鼓舞人心的未来之一，就是我们置身群星之间，或许会遇见外星文明，或者探索那些延续了 100 万年、却在 1,000 万年前灭绝的文明遗迹。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 186,
+      "textEn": "I think that's when I wake up in the morning and think about what is inspiring. Because we need things in this world that are inspiring. Like life cannot just be about solving one problem after another. There have to be things that make you look forward to the future. And being a space faring civilization I think is the most interesting thing we could possibly do for the future. It is making Star Trek real. You know, it's. Yeah, Well, this is how we started out.",
+      "textZh": "我想，那就是我早上醒来时会思考什么能鼓舞人心的时候。因为这个世界需要一些鼓舞人心的事物。生活不能只是解决一个又一个问题。必须有一些事情让你对未来有所期待。我认为，成为一个能够进行太空航行的文明，是我们能为未来做的最有趣的事情。这是在让《星际迷航》成为现实。你知道，这。是的，嗯，这就是我们最初起步的方式。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 227,
+      "textEn": "Yeah. So I don't know, maybe I should have another mariachi band or something. You know, at this end of your party we're going to have a lot of mariachi vans in order. This, but this, this was all of SpaceX in the beginning. Just a, a small warehouse in El Segundo and then Falcon 1. And we really had no idea at the start of SpaceX how to actually make rockets. And obviously we blew up a rocket three times before finally reaching orbit.",
+      "textZh": "是的。所以我不知道，也许我应该再请一支墨西哥流浪乐队之类的。你知道，在你的派对结束时，我们会安排很多墨西哥流浪乐面包车。这个，不过这个，这个就是最初 SpaceX 的全部。只是埃尔塞贡多的一间小仓库，然后是 Falcon 1。SpaceX 刚成立时，我们真的完全不知道该怎么造火箭。显然，在最终进入轨道之前，我们把火箭炸毁了 3 次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 271,
+      "textEn": "It looks almost really cute at this point. And then we went through the long effort of trying to land an orbital booster. It's. So it wasn't easy figuring out how to land an orbital booster and then re fly them. But then we got, we got good at it after a while, Took many attempts from a very talented and dedicated team. And now we've got to the point where we take off and Land and recover a booster every few days.",
+      "textZh": "现在看起来甚至真的有点可爱。然后，我们经历了漫长的努力，试图让轨道级助推器着陆。这。所以，弄清楚如何让轨道级助推器着陆、然后再次飞行并不容易。但过了一段时间，我们就，我们就很擅长了，这支才华横溢且敬业的团队进行了许多次尝试。现在，我们已经做到每隔几天就让一枚助推器起飞、着陆并回收。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 437,
+      "textEn": "By the way, is the noise behind me a little too loud? Can you guys hear me? Okay? Okay. All right. So I think it's always important to reflect upon the difficulty of achieving things because when we were trying to land the booster, no one really believed that we could succeed. And I was told by so many experts in the aerospace industry that you're not going to succeed in doing this. And even if you do, no one's going to buy a rocket that was, you know, a used rocket essentially, which really makes no sense because airplanes are reflown all the time. And frankly I'd rather be on the thousandth flight of an aircraft than its first flight. So we changed the nomenclature to flight proven booster, which is true. So managed to do Falcon Heavy, which is the most powerful rocket in the world before starship operational at least. Yep.",
+      "textZh": "顺便问一下，我身后的噪声是不是有点太大了？你们能听见我说话吗？可以？好。好了。所以我认为，回顾实现这些事情的难度始终很重要，因为我们尝试让助推器着陆时，实际上没有人相信我们能够成功。航空航天业里有很多专家告诉我，你不可能成功做到这件事。即使你做到了，也不会有人购买一枚曾经使用过的火箭，你知道，本质上就是一枚二手火箭；这种说法其实完全没有道理，因为飞机一直都在重复飞行。坦率地说，相比飞机的第一次飞行，我宁愿搭乘它的第1000次飞行。所以我们把名称改成了“经飞行验证的助推器”，这确实是真的。于是设法造出了猎鹰重型火箭，至少在星舰投入运行之前，它是世界上威力最大的火箭。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 506,
+      "textEn": "And yeah, it's amazing to think that we've, we've got our 700th flight coming up. So just a huge testament to the incredible work of the Falcon team and the launch team manufacturing team. I was just like, give everyone a hand for doing such an amazing job. See and of course this is plastic. I, I, I fully expected this light to fail, by the way. So that's the car that I was driving around LA for like three years and because I thought, well, it's first lighter Falcon Heavy probably going to fail, but we don't want to put something boring on it like you know, I think Boeing, whatever would put like a concrete block, which is extremely boring.",
+      "textZh": "而且，是的，想到我们的第700次飞行即将到来，真是不可思议。所以这充分证明了猎鹰团队、发射团队和制造团队所做的出色工作。我只是想说，请大家为所有人完成如此出色的工作鼓掌。看，当然这是塑料的。顺便说一句，我，我，我完全料到这盏灯会失灵。所以那就是我在洛杉矶开了大约3年的那辆车，因为我当时想，嗯，这是第一枚更轻的猎鹰重型火箭，很可能会失败，但我们不想在上面放什么无聊的东西，比如，你知道，我想波音之类的公司会放上一块混凝土，那就无聊透顶了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 564,
+      "textEn": "So we put Starman flying around and he's still up there. The car is orbiting between Earth and Mars. So and we'll be up there I think for at least 10 million years. And then of course Dragon, first privately developed spacecraft to talk with the space station and first commercial astronaut. We've now done many asteroid missions. I think it won't be long before we get past 100 astronauts to orbit and back. So Dragon has been an amazing vehicle.",
+      "textZh": "所以我们把正在飞行的星侠放了上去，他现在仍在那里。那辆车正在地球与火星之间绕行。所以，我想它会在那里待至少1000万年。然后当然还有龙飞船，它是第一艘与空间站交谈的私人开发航天器，也是第一个商业宇航员。我们现在已经执行了许多小行星任务。我想，用不了多久，我们送入轨道并带回的宇航员人数就会超过100名。所以龙飞船一直是一款了不起的飞行器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 611,
+      "textEn": "So we've flown 78 crew members to date and it's been an epic success. So I'd like to say congrats also to the Dragon team. Excellent work. And then Starlink, it's like, well if you've got a rocket that can fly a lot, what do you fly on it? And so the Starlink team has built from nothing an entire global Internet system. And it's the first high bandwidth global Internet system ever to exist. And I actually think that down the road it'll probably be, I think it'll probably do a majority of the Internet, in fact, I think might end up doing over 90% of all Internet traffic on Starlink. So which is really incredible to think.",
+      "textZh": "到目前为止，我们已经运送了78名机组人员，取得了史诗般的成功。所以我也想祝贺龙飞船团队。工作非常出色。接下来是星链，就像，嗯，如果你有一枚能够频繁飞行的火箭，那要用它运送什么？于是，星链团队从无到有地建设了一整套全球互联网系统。这是有史以来第一个全球高带宽互联网系统。实际上，我认为未来它可能会，我认为它可能会承载互联网流量的大部分；事实上，我认为最终可能会有超过90%的全部互联网流量通过星链传输。所以，想到这一点确实令人难以置信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 682,
+      "textEn": "Almost 11,000 satellites in orbit. That's more than twice as many satellites as everyone else combined. And with the Starlink V3 and beyond, we'll go to 100,000 satellites. So it's really quite remarkable. It's quite difficult to build the Internet in space, like rebuild the entire Internet in space, all of the hardware, all of the software, and yet the team has done it. So huge congrats to the Starlink team.",
+      "textZh": "轨道上有将近11,000颗卫星。这比其他所有人加起来的卫星数量还多出1倍以上。随着星链V3及后续版本的推出，我们将达到100,000颗卫星。所以这确实非常了不起。在太空中建设互联网非常困难，就像在太空中重建整个互联网，包括所有硬件和所有软件，但团队还是做到了。所以要向星链团队表示热烈祝贺。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 724,
+      "textEn": "Yep. So we're now in 167 countries, 22 million mobile subscribers, 13 million high bandwidth subscribers, and like I said, expect these numbers to increase by more than a factor of 10 over time and long term. Probably the. In fact, Cloudflare just recently mentioned that based on the current growth, they think probably AI traffic will be a thousand times more than human Internet traffic in five years.",
+      "textZh": "对。所以我们现在已进入167个国家，拥有2200万移动用户和1300万高带宽用户；就像我说的，预计这些数字会随着时间推移和长期发展增长到10倍以上。可能会。事实上，Cloudflare最近刚刚提到，按照目前的增长速度，他们认为5年后AI流量可能会是人类互联网流量的1000倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 756,
+      "textEn": "Like let that sink in for a minute. You know, it's a lot of AI. And then we've got Star Shield which is, has become a vital part of national security. So there's limited. We can't say too much about Star Shield for obvious reasons because it's, you know, top secret and stuff, but the starshield team has done amazing work and it is now a vital part of America's national security. So congrats.",
+      "textZh": "好好想一会儿这件事。你知道，那是大量的AI。然后我们还有星盾，它已经成为国家安全的重要组成部分。所以这方面有所限制。出于显而易见的原因，我们不能过多谈论星盾，因为它是，你知道，最高机密之类的东西，但星盾团队完成了了不起的工作，现在它已成为美国国家安全的重要组成部分。所以，祝贺。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 811,
+      "textEn": "Yeah, Starship is amazing. Wow. Hard to believe that humans made such a thing. I think the future AI will look back and say, not bad for a bunch of humans. So, yeah, so, so it's a Starship is obviously an incredible vehicle and it's what will take us from roughly 2,500 tons to orbit per year to over a million tons to orbit per year. And I think maybe even to 10 million tons per year. These are mind boggling numbers, but I'd say it's highly likely. We do over a million tons a year. Two orbit with Starship and probably close to 10 million, which is mind boggling obviously, but that's the kind of tonnage that you need in order to build a civilization on the Moon, Mars and beyond. If you can't deliver millions of tons to Earth orbit, you can't get the millions of tons that you need to the Moon and Mars to make us a sustainably multi planet species. So it's an incredible vehicle.",
+      "textZh": "是的，星舰太了不起了。哇。很难相信人类造出了这样的东西。我想，未来的AI回望过去时会说，对一群人类来说，干得还不赖。所以，是的，所以，所以它是一艘星舰，显然是一款不可思议的飞行器；它将把我们每年送入轨道的运力从大约2,500吨提升到超过100万吨。我想甚至可能达到每年1000万吨。这些数字令人难以置信，但我会说，这种可能性非常高。我们每年确实会超过100万吨。两个轨道与星舰，很可能接近1000万吨，这显然令人难以置信，但要在月球、火星及更远的地方建立文明，这正是你所需要的吨位。如果你无法把数百万吨物资送入地球轨道，就无法把所需的数百万吨物资送往月球和火星，也就无法让我们成为一个可持续生存于多个星球的物种。所以它是一款不可思议的飞行器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 901,
+      "textEn": "Like I said, I think it's arguably the hardest thing that humanity has ever tried to do. And the Starship team has done an Amazing job across the board with engines, avionics, structures, launch operations. So big hand for the starship team. So where are things headed in terms of SpaceX AI? The wild thing is that probably our AI revenue, not probably, definitely our AI revenue will exceed all other SpaceX revenue probably in September, like next month, and will significantly exceed all other SpaceX revenue in the fourth quarter.",
+      "textZh": "就像我说的，我认为这可以说是人类有史以来尝试过的最困难的事情。星舰团队在发动机、航空电子设备、结构和发射操作等各个方面都完成了出色的工作。所以请为星舰团队热烈鼓掌。那么，SpaceX AI将走向何方？不可思议的是，我们的AI收入可能，不是可能，而是肯定会超过SpaceX其他所有收入，时间很可能是在9月，也就是下个月，并将在第四季度显著超过SpaceX其他所有收入。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 963,
+      "textEn": "So it's AI has become an extremely important part of SpaceX's future. I think it's actually vital that we succeed in AI, not just in hardware, but also in software. So, Yeah, the future is fundamentally AI and robots. Assuming, assuming civilization continues to progress, I think that AI will probably, the amount of digital intelligence will probably be more than a trillion times the amount of biological intelligence. So not sort of equal to human intelligence, but probably a trillion times higher. I'd say a billion times is an easy prediction, and probably a trillion. So as you, as you harness more and more of the sun's energy, the ability to turn that into intelligence is fundamentally a digital computer thing, because it's pretty hard for humans to go live in deep space without any support.",
+      "textZh": "所以，AI已经成为SpaceX未来极其重要的一部分。我认为，我们不仅必须在硬件方面取得成功，也必须在软件方面取得成功，这实际上至关重要。所以，是的，未来从根本上说就是AI和机器人。假设，假设文明继续进步，我认为AI可能，数字智能的数量可能会超过生物智能数量的1万亿倍。因此，不是某种与人类智能相当的水平，而可能要高出1万亿倍。我会说，10亿倍是一个很容易作出的预测，而很可能是1万亿倍。所以，随着你，随着你利用越来越多的太阳能量，把这些能量转化为智能的能力从根本上说是数字计算机的事情，因为人类在没有任何支持的情况下前往深空生活相当困难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 1048,
+      "textEn": "I mean, some of the math is interesting to think about, which is that if you increase civilizational energy usage, the amount of energy that we have harnessed as a civilization, by a factor of a million, you would still be using much less than one millionth of the sun's energy. Now, most of this is in deep space, obviously, but the future is very much AI, very much. And I suppose there was always going to be that way. But it's important that we have an AI that cares about humanity, that fosters humanity, and helps take us to other planets and other star systems.",
+      "textZh": "我的意思是，其中一些数学问题想起来很有意思，也就是说，即使你把文明的能源使用量，也就是我们作为一个文明所利用的能量，提升100万倍，你使用的仍会远远少于太阳能量的100万分之一。当然，其中大部分都在深空，但未来在很大程度上就是AI，非常如此。我想事情大概一直都会这样发展。但重要的是，我们要拥有一个关心人类、促进人类发展，并帮助我们前往其他行星和其他恒星系的AI。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 1104,
+      "textEn": "And this is why I think it's, it's essential that SpaceX succeed not just with AI hardware, but also with AI software. I think an AI that is sort of SpaceX's baby will be a very good AI. I think SpaceX is a collection of some of the very best humans on Earth, both in capability and morality and goodness. And I think we want to have an AI that is born of that, of that capability and that morality and that goodness. I think that's very, very important.",
+      "textZh": "这就是为什么我认为，SpaceX不仅在AI硬件方面取得成功，也在AI软件方面取得成功，是，是至关重要的。我认为，一个可以说是SpaceX孩子的AI会是一个非常好的AI。我认为，SpaceX汇聚了一些地球上最优秀的人，无论是在能力、道德还是善良方面。我认为，我们希望拥有一个诞生于那种，那种能力、那种道德和那种善良的AI。我认为这非常、非常重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 1149,
+      "textEn": "So I'd like to encourage people to help out actually with the AI hardware on the ground and the AI software, and of course, with the AI satellites. Solar is going to be a very important part of that. The, the tariff will be a very important part of that. But we must also succeed on the software front, and we're going to be training Grok on the Sum total of all SpaceX information. So in a way it is, it will be trained on you. On, it'll be, yeah, I mean you will effectively be the parents of the AI.",
+      "textZh": "所以，我想鼓励大家实际参与帮助地面的AI硬件和AI软件，当然还有AI卫星。太阳能将是其中非常重要的一部分。关税，关税将是其中非常重要的一部分。但我们也必须在软件领域取得成功，而且我们将使用SpaceX全部信息的总和来训练Grok。所以从某种意义上说，它是，它将以你们为训练数据。以，它会，是的，我的意思是，你们实际上将成为这个AI的父母。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 1201,
+      "textEn": "It will inherit your thoughts and ideas and beliefs and, and I think that's a, that's a good thing. So yeah, we, we gotta, we gotta win here on this, on the AI hardware and the AI software. That, that maybe is the most important message, I think that is actually the most important message I wanted to convey today is that we must win on AI because the future is overwhelmingly AI and robots. So we want, we won't ultimately be able to control the AI. It'll be too smart for that. But, but just like if you have a child that is a super genius child, you can still instill in that child the values and beliefs that you think are good and right. And so that's why it's incredibly important that we succeed with Groq.",
+      "textZh": "它将继承你的思想、想法和信念，而且，而且我认为那是、那是一件好事。所以，是的，我们、我们必须、我们必须在这件事上取胜，在 AI 硬件和 AI 软件上取胜。那、那也许是最重要的信息，我认为这实际上是我今天想传达的最重要的信息：我们必须在 AI 上取胜，因为未来压倒性地属于 AI 和机器人。所以我们想要，我们最终将无法控制 AI。它会聪明到无法被控制。但是，但是就像如果你有一个孩子，而且是个超级天才儿童，你仍然可以向那个孩子灌输你认为良好且正确的价值观和信念。因此，我们成功打造 Groq 极其重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 1261,
+      "textEn": "So. Yeah, well, Grok 4.5, you've tried probably. We've got 4.6 coming out in about a week and then 4.7 should be really pretty special. So I'd like to encourage everyone at SpaceX to use AI and to make it better. We've already built the most powerful AI training clusters in the world. And, and then this is, this, this is what we expect to do by the end of next year is about 10 times more than what we've done thus far.",
+      "textZh": "所以。是的，好吧，Grok 4.5，你们可能已经试过了。我们大约一周后会发布 4.6，然后 4.7 应该会非常、非常特别。所以我想鼓励 SpaceX 的每个人使用 AI，并让它变得更好。我们已经建成了世界上最强大的 AI 训练集群。而且，而且这、这就是我们预计到明年年底要做到的规模，大约是我们迄今所做规模的 10 倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 1313,
+      "textEn": "This will be very important practice for space AI. And I do think that AI training will continue to be on the ground, but AI inference, the day to day use of AI will be in space. So we're aiming to get to 10 gigawatts by the end of next year. This is depending on what the value per watt is. If the value per watt is probably going to be 30 to $50, which means if we bring 10 gigawatts of AI online by the end of next year, it will be 300 to $500 billion a year in revenue.",
+      "textZh": "这将是太空 AI 非常重要的一次实践。而且我确实认为，AI 训练将继续在地面上进行，但 AI 推理，也就是 AI 的日常使用，将在太空中进行。所以我们的目标是到明年年底达到 10 吉瓦。这取决于每瓦的价值是多少。如果每瓦的价值可能会是 30 至 50 美元，那就意味着，如果我们到明年年底让 10 吉瓦的 AI 上线，每年的收入将达到 3000 亿至 5000 亿美元。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 1363,
+      "textEn": "Big numbers. And sometimes I wonder what is our purpose? And it could be that our purpose is that the purpose of humanity is to give birth to a star mind, a sentient sun. I don't know what the AI is going to think about, honestly, it's a lot of computer. But I guess this is the next step in the evolution of a civilization is to harness the power of the sun. I mean, there was a physicist called Kardashev who argued that you could consider any given civilization on the basis of whether it has been able to harness most of the power of its planet or most of the power of its sun, almost the power of its galaxy and beyond.",
+      "textZh": "很大的数字。有时我会想，我们的目的是什么？有可能，我们的目的，也就是人类的目的，是孕育一个恒星心智，一个有感知能力的太阳。老实说，我不知道 AI 会思考什么，那可是很多计算机。但我想，这是文明演化的下一步，也就是驾驭太阳的力量。我的意思是，有一位名叫 Kardashev 的物理学家主张，你可以根据任何特定文明是否已经能够驾驭其行星的大部分能量、其太阳的大部分能量、其星系的几乎全部能量乃至更远范围的能量，来衡量这个文明。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 1450,
+      "textEn": "So that's what's going to happen and we're going to do it. The factory for Starmind will be located nearby, adjacent to us. Basically. They just come from space. It's amazing. So, But long term, not that far into the Future, probably in four or five years, AI will be 99% of the value of SpaceX. I'd say five years for sure. AI will be 99% the value of SpaceX and the value of SpaceX will be some astronomical number.",
+      "textZh": "所以这就是将要发生的事，而且我们会做到。Starmind 的工厂将设在附近，与我们相邻。基本上。它们刚从太空过来。太不可思议了。所以，但是从长期来看，在并不遥远的未来，可能 4 或 5 年后，AI 将占 SpaceX 价值的 99%。我会说 5 年内肯定如此。AI 将占 SpaceX 价值的 99%，而 SpaceX 的价值将是某个天文数字。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 1573,
+      "textEn": "Sa. It. Sam. Now that's what you call an interesting now that is what you call an interesting future. A very interesting future. It's like Robert Heinlein's moon is a harsh mistress, but mass drivers building AI compute on the moon and saying it into deep space. I'd really like to see that thing in operation. One of the nice benefits of this also is that anyone at SpaceX who wants to go to the moon or Mars will be able to go in the future, you have my word.",
+      "textZh": "萨。它。萨姆。现在这才叫有趣的——现在这才叫有趣的未来。一个非常有趣的未来。就像罗伯特·海因莱因的《严厉的月亮》，但质量投射器在月球上建设人工智能算力，并把它说进深空。我真的很想看到那东西运行起来。这还有一个很不错的好处，就是未来 SpaceX 任何想去月球或火星的人都能去，我向你们保证。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 1696,
+      "textEn": "It'd be pretty fun to have a party on the moon, you know, jumping around, you know, so. Yeah. And incredibly, it will be an incredibly exciting future where we're a space faring civilization and there are people on every part of our solar system and eventually going to other star systems. So I, I think this will happen. So yeah, and you're going to make it happen. So thank you.",
+      "textZh": "在月球上开派对应该会很好玩，你知道，跳来跳去，你知道，所以。是的。而且令人难以置信的是，那将是一个无比激动人心的未来：我们成为一个航天文明，太阳系的每个地方都有人，最终还会前往其他恒星系。所以我，我认为这会发生。所以，是的，而你们将让它成为现实。谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T00:35:22.267Z",
+    "reviewedAt": "2026-09-13T00:47:27.651Z"
+  },
+  "fetchedAt": "2026-09-12T07:09:16.882Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=kwNyUTH0asI",
+  "sourceHash": "e3d3761599c11b2c87fd19ca1eb0876d0d0bcd8f440d5c279184b206f7648b5a"
+}

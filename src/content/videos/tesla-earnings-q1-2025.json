@@ -1,0 +1,28 @@
+{
+  "id": "tesla-earnings-q1-2025",
+  "slug": "tesla-earnings-q1-2025",
+  "snapshotId": "2026-09-12",
+  "type": "earnings",
+  "date": "2025-04-22",
+  "titleEn": "Tesla Q1 2025 earnings call",
+  "titleZh": "Tesla 2025年第一季度财报电话会议",
+  "summaryEn": "Tesla's Q1 2025 financial results webcast — prepared remarks from Elon Musk and management followed by the live analyst and retail-shareholder Q&A.",
+  "summaryZh": "Tesla 2025年第一季度财务业绩网络直播——埃隆·马斯克及管理层先作预备发言，随后进行分析师和散户股东现场问答。",
+  "sourceUrl": "https://www.youtube.com/watch?v=vs4cfyyMWhQ",
+  "sourceLabel": "Tesla",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-earnings-q1-2025",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/vs4cfyyMWhQ",
+  "thumbnailUrl": "https://i.ytimg.com/vi/vs4cfyyMWhQ/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 5615,
+  "contentKind": "none",
+  "segments": [],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T20:38:31.992Z",
+    "reviewedAt": "2026-09-12T21:03:26.489Z"
+  },
+  "fetchedAt": "2026-09-12T07:10:06.491Z",
+  "sourceHash": "54fb8c29db0554e5550df5b31f221f7136871ea24dbbf0dd8ab2638d5f2a9259"
+}

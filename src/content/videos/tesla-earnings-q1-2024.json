@@ -1,0 +1,28 @@
+{
+  "id": "tesla-earnings-q1-2024",
+  "slug": "tesla-earnings-q1-2024",
+  "snapshotId": "2026-09-12",
+  "type": "earnings",
+  "date": "2024-04-23",
+  "titleEn": "Tesla Q1 2024 earnings call",
+  "titleZh": "Tesla 2024年第一季度财报电话会议",
+  "summaryEn": "Tesla's Q1 2024 financial results webcast — prepared remarks from Elon Musk and management followed by the live analyst and retail-shareholder Q&A.",
+  "summaryZh": "Tesla 2024年第一季度财务业绩网络直播——先由埃隆·马斯克和管理层发表事先准备好的讲话，随后进行分析师与散户股东的现场问答。",
+  "sourceUrl": "https://www.youtube.com/watch?v=o81Rs-w3YMY",
+  "sourceLabel": "Tesla",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-earnings-q1-2024",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/o81Rs-w3YMY",
+  "thumbnailUrl": "https://i.ytimg.com/vi/o81Rs-w3YMY/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 4310,
+  "contentKind": "none",
+  "segments": [],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T17:54:18.869Z",
+    "reviewedAt": "2026-09-12T18:16:52.563Z"
+  },
+  "fetchedAt": "2026-09-12T07:11:26.186Z",
+  "sourceHash": "4f8b9f6aeef634cbc3219b7ee0121c97010f6f73c0d17a56e88a247eace815e7"
+}

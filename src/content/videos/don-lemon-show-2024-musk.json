@@ -1,0 +1,850 @@
+{
+  "id": "don-lemon-show-2024-musk",
+  "slug": "don-lemon-show-2024-musk",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2024-03-18",
+  "titleEn": "The Don Lemon Show",
+  "titleZh": "《唐·莱蒙秀》",
+  "summaryEn": "The debut episode of Don Lemon's independent show: a tense hour with Musk on hate speech and content moderation, DEI, the \"great replacement\" theory, drug use and X's advertisers.",
+  "summaryZh": "唐·莱蒙独立节目的首播集：与马斯克进行了一小时气氛紧张的对话，话题涉及仇恨言论和内容审核、DEI、“大取代理论”、药物使用以及X的广告商。",
+  "sourceUrl": "https://www.youtube.com/watch?v=hhsfjBpKiTw",
+  "sourceLabel": "The Don Lemon Show",
+  "archiveUrl": "https://elonmuskarchive.org/video/don-lemon-show-2024-musk",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/hhsfjBpKiTw",
+  "thumbnailUrl": "https://i.ytimg.com/vi/hhsfjBpKiTw/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 4018,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Welcome to the Don Lemon Show everyone. We're still here. In a minute I'm going to bring you my conversation with Elon Musk, the one that everyone is talking about. But first, let me tell you a bit about the show. Contrary to what you might have heard, we weren't canceled by X. Yes, after months of begging me, wooing me to offer some exclusive content on his platform, Elon Musk decided to scrap the deal.",
+      "textZh": "欢迎大家收看《唐·莱蒙秀》。我们还在这里。马上我就会为你们带来我与埃隆·马斯克的对话，也就是所有人都在谈论的那场对话。但首先，让我先跟你们说说这个节目。与你们可能听说的相反，我们并没有被X取消。是的，在求了我几个月、拉拢我为他的平台提供一些独家内容之后，埃隆·马斯克决定取消这项合作。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "But our plan is and always has been to release this show everywhere, on YouTube, on Spotify, on iHeart Radio. Just about any place you stream content. Now for my conversation with Elon. As with all my interviews, no restrictions, no ground rules, nothing off limits or out of bounds. That is until the interview ended. So what went wrong? I don't know. But my hope is that you learn something about both Elon and me.",
+      "textZh": "但我们的计划是，而且一直都是，在各个平台发布这个节目，包括YouTube、Spotify、iHeart Radio。几乎涵盖你会用来观看流媒体内容的任何地方。现在来看我与埃隆的对话。和我的所有采访一样，没有限制，没有基本规则，没有任何禁区或越界之处。不过，这只持续到采访结束。那么出了什么问题？我不知道。但我希望你们能对埃隆和我都有所了解。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Two people who come from completely different vantage points on almost every single issue. And I challenge you, Elon, to watch the whole interview and tell the world why this isn't what you claim you want on X. Thank you for inviting us here. You're welcome. To Tesla headquarters. I it's I'm surprised of how big it is. I've never seen it. Yeah, it's about three times the size of the Pentagon. Yeah. And we built it in 16 months.",
+      "textZh": "两个在几乎每一个问题上都持有完全不同视角的人。而我要向你发出挑战，埃隆，请看完整场采访，然后告诉全世界，为什么这不是你声称自己想在X上看到的东西。谢谢你邀请我们来到这里。不客气。来到Tesla总部。我，这，我很惊讶它有这么大。我从没见过。是的，它大约是五角大楼的3倍。是的。而且我们用16个月建成了它。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "It's the fastest construction project in the United States since uh World War II. So I'm here, you know, as you know, I'm on the platform because you are you say you're a free speech absolutist, right? No no conditions. Uh free speech is as as much as possible within the bounds of the law. Yeah. So the reason I'm saying that is because there are no conditions on this interview. You said that, you know, speak to you for an hour.",
+      "textZh": "这是自，呃，第二次世界大战以来美国速度最快的建设项目。所以我来到这里，你知道，正如你所知，我之所以加入这个平台，是因为你是，你说自己是言论自由绝对主义者，对吧？没有任何条件。呃，言论自由是在法律范围内尽可能充分的自由。是的。所以我这么说的原因是，这次采访没有任何条件。你说过，你知道，可以和你谈1个小时。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "I don't like sound bites, so I welcome that. So let's get into it. So we're here in Austin, South by Southwest is going on. We're at the Tesla headquarters. You are in the process of moving SpaceX here, I understand. No. Uh so uh SpaceX has a massive uh facility in South Texas where we build and launch Starship.",
+      "textZh": "我不喜欢断章取义的片段，所以我欢迎这样做。那么我们开始吧。我们现在位于奥斯汀，西南偏南正在举行。我们在Tesla总部。据我了解，你正在把SpaceX迁到这里。不是。呃，所以，呃，SpaceX在南得克萨斯州有一座大型，呃，设施，我们在那里建造和发射星舰。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "And then we we have um in Bastrop near uh Austin we uh are about to start production at a Starlink uh a large Starlink factory for Starlink terminals. But it's but but we're not shutting down any facilities in California. Um listen, we are here as part of a launch of a news interview show that is going to be on x. com. Uh it's coming as a media industry as you know is going through a whole lot of changes. X is also been affected by that.",
+      "textZh": "然后我们，我们在，嗯，奥斯汀附近的巴斯特罗普，我们，呃，即将开始在一座星链，呃，一座生产星链终端的大型星链工厂投产。但，但是，但是我们并没有关闭加利福尼亚州的任何设施。嗯，听着，我们来到这里，是为了推出一档将在x.com上播出的新闻访谈节目。呃，它的到来正值媒体行业，如你所知，正在经历许多变化。X也受到了这些变化的影响。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "Where do you see x. com's role in the future of news and journalism, Elon? Well, I I think the I see the the X as uh it it's it's already the number one source of news uh in the world. So, it is number one the uh the number one way that people actually are informed about any kind of news, meaning real-time events, is uh on the X platform, formerly Twitter. Um There's there's nothing even close for real-time news.",
+      "textZh": "埃隆，你认为x.com未来将在新闻和新闻业中扮演什么角色？嗯，我，我认为，我看到的，这个X，呃，它，它，它已经是世界排名第一的新闻来源。所以，它排名第一，呃，人们实际上获知任何类型新闻，也就是实时事件的首要方式，是，呃，通过X平台，也就是以前的Twitter。嗯，在实时新闻方面，没有任何东西能接近它。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "So, um we also want to expand upon that. Um and we've we have done so with uh long-form content. So, instead of just doing what used to be called tweets, you can now do long-form posts. You can post an entire essay. In fact, you can now uh put an entire book post an entire book to the platform. Um you can do long-form video content. Uh so, you can do uh up to 4-hour video segments.",
+      "textZh": "所以，嗯，我们也希望在此基础上进一步拓展。嗯，而且我们已经通过，呃，长篇内容这么做了。所以，你现在不必只发布过去所谓的推文，也可以发布长篇帖子。你可以发布一整篇文章。事实上，你现在可以，呃，把一整本书，发布一整本书到这个平台上。嗯，你可以发布长视频内容。呃，所以，你可以发布最长4小时的视频片段。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "Um we really want news in whatever form it is, or information, I should say, in whatever form it is to be available on our platform, whether it's short, long, text, pictures, video, whatever the case may be. Yeah. And some of the stuff that we do, long-form video, interview shows, what have you. Yeah. You um you reached out over the summer and you said, \"It would be great to have Maddow, Don Lemon, and others on the left put on this uh platform.",
+      "textZh": "嗯，我们确实希望新闻，无论它采取什么形式，或者应该说信息，无论它采取什么形式，都能出现在我们的平台上，无论是短的、长的、文字、图片、视频，任何形式都可以。是的。还有我们做的一些东西，长视频、访谈节目等等。是的。你，嗯，你在夏天联系了我，你说：“如果能让马多、唐·莱蒙以及其他左翼人士加入这个，呃，平台，那就太好了。”"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "You receive full support. The digital town square is for all. What do you mean by that? Well, I just mean that we want to make sure that there are a wide variety of viewpoints. That it's uh you know, we also have, for example, Tucker Carlson who most people will view as being on the right. Um and uh you know, that's that's a quite a quite a prominent uh name on the right.",
+      "textZh": "你会得到全力支持。这个数字市民广场属于所有人。你这是什么意思？嗯，我只是说，我们希望确保这里有各种各样的观点。这个，呃，你知道，比如说，我们也有塔克·卡尔森，大多数人会认为他属于右翼。嗯，还有，呃，你知道，那，那是右翼中一个相当、相当有影响力的，呃，名字。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "We want to have uh prominent names on the left as well uh to provide uh different views of points of view uh as well as centrists. Just basically a wide range of of viewpoints on the platform so users can uh hear different opinions. Uh you they can hear you know, what is what's your point of view, what's Sacha's point of view, and make the and you know, and people can make their own decision about what they what they believe.",
+      "textZh": "我们也希望有，呃，左翼的知名人士，呃，来提供，呃，不同的观点的看法，呃，以及中间派。基本上就是让平台上有广泛的观点，这样用户就能，呃，听到不同的意见。呃，你，他们可以听到，你知道，你的观点是什么，萨查的观点是什么，并做出，然后，你知道，人们可以自行决定他们，他们相信什么。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "You didn't mean that I'm on the left. Did you think that? were on the left, but I don't know. I'm used Well, let's just say I don't know what the left is or the right is frankly these days because things can be quite polarized, but just my impression was that you were you you you you're more likely to be described as on the left than the right. Uh I might I might sense it's you're sort of center-left. I don't know. You tell me.",
+      "textZh": "你不是说我是左翼吧。你觉得是吗？属于左翼，但我不知道。我习惯了。嗯，这么说吧，坦率地说，如今我不知道什么是左翼，什么是右翼，因为事情可能相当两极化，但我的印象只是，比起右翼，你更有可能被描述为左翼。呃，我可能，我可能感觉你算是中间偏左。我不知道。你告诉我。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Well, did you ever watch me on CNN or did you watch I saw say say Yeah, not I I saw segments. Yeah. But CNN is generally considered left. Yeah. Why do you say that? What What do I say CNN is generally considered left? Uh I think if if you if you look at any sort of media survey of what is on the left or right, I think they'd say like, for example, Fox is on the right and CNN is on the left. Yeah. So, that's what is it Am I missing something here?",
+      "textZh": "那么，你以前看过我在CNN的节目吗，还是你看过——我看过，比如，比如，是的，不是，我，我看过一些片段。是的。但CNN通常被认为是左翼。是的。你为什么这么说？我说什么，CNN通常被认为是左翼？呃，我认为，如果，如果你，如果你查看任何一种关于媒体属于左翼还是右翼的调查，我想他们会说，比如，Fox属于右翼，CNN属于左翼。是的。所以，就是这样。我是不是漏掉了什么？"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Okay. Are you missing something? I I don't know. I I I think that what you would when I read that, I said like many uh of my critics or detractors, they never really watched me on CNN. they just saw the clips of me either on social media or maybe on Fox News or a conservative media where it's sort of a where I've become a character or a caricature of what I actually am and it's taken out of context. Uh sure. Well, how would you describe yourself?",
+      "textZh": "好吧。你漏掉了什么吗？我，我不知道。我，我，我觉得，当我读到那句话时，我说，就像我的许多，呃，批评者或贬低我的人一样，他们从未真正在CNN看过我的节目。他们只是看过我在社交媒体上的片段，或者可能是在Fox News或保守派媒体上看到的，在那里有点像，我已经成了一个角色，或者成了真实自我的漫画化形象，而且内容被断章取义了。呃，当然。那你会怎样描述自己？"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "Um I would describe myself as someone who is I I I am independent in my thinking and I vote for people based on the issues and how I feel about it, not necessarily because uh of political leaning of some sort. Well, I agree with that approach.",
+      "textZh": "嗯，我会把自己描述为一个，我，我，我在思考上是独立的人，我根据议题以及自己对此的感受来给人投票，不一定是因为，呃，某种政治倾向。嗯，我赞同这种做法。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "I think that's generally how how people should uh you know, take things which is that I mean there's there's there are a whole sort of set of issues which are sort of somewhat arbitrarily bucketed into right or left. Um but I think most I think most citizens uh would think that uh they're they would agree with some things on the left but not everything or they'd agree on some things on the right but not everything.",
+      "textZh": "我认为，这通常就是人们应该如何，呃，你知道，看待事情，因为，我的意思是，有，有一整套议题被多少有些武断地归入右翼或左翼。嗯，但我认为大多数，我认为大多数公民，呃，会觉得，呃，他们，他们会赞同左翼的一些观点，但不是全部；或者会赞同右翼的一些观点，但不是全部。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Um so uh that's that's what um I think most people feel, I guess. How much longer and then maybe maybe the answer's forever. How much longer are we going to have to call it the formerly known as Twitter? I mean, even Prince went back to Prince instead of is it always going to be X? It's definitely always going to be X. So, X is going through some changes. You said a lot um of media companies are going through some changes.",
+      "textZh": "嗯，所以，呃，那，那就是，嗯，我猜大多数人的感受。还要多久，也许，也许答案是永远。我们还要把它称为“以前名为Twitter”多久？我的意思是，就连Prince都改回了Prince，而不是，它会永远叫X吗？它肯定会永远叫X。所以，X正在经历一些变化。你说许多，嗯，媒体公司都在经历一些变化。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "It's It You're in charge of an incredible platform, Elon. How do you feel that's going? I think it's going pretty well so far. Um we're seeing record usage. Um we've added a tremendous amount of functionality. I mentioned the that uh that you know, it used to be that you can only do short, you know, text and maybe a a picture or something like that, short video. Uh but now you can do long-form text, long-form video.",
+      "textZh": "这，它，埃隆，你掌管着一个了不起的平台。你觉得进展如何？我认为到目前为止进展相当不错。嗯，我们看到了创纪录的使用量。嗯，我们增加了大量功能。我提到，那个，呃，那个，你知道，以前你只能发布简短的，你知道，文字，或许再加一张，一张图片之类的，短视频。呃，但现在你可以发布长篇文字、长视频。"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "Uh we've added audio video calling. Uh so, you can not not just do text DMs, you can do audio video calling. Um we've improved the algorithm, I think, significantly. Um and um made the system faster and better and that's reflected in the increased uh usage. So, let's talk about that because you said you wanted all points of view, right? It's a digital town square for all. Yeah.",
+      "textZh": "呃，我们增加了音频视频通话。呃，所以，你不，不仅可以发文字私信，也可以进行音频视频通话。嗯，我们显著改进了算法，我认为是这样。嗯，并且，嗯，让系统更快、更好，而这反映在，呃，使用量的增长上。那么，我们来谈谈这个，因为你说你希望所有观点都能出现，对吧？这是一个属于所有人的数字市民广场。是的。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "It's the the platform has kind of picked up where conservative media, some conservative media just left off. They're moving to the right, increasingly becoming part of a conservative dialogue, sometimes even conspiracy theories, right? There was an article recently written about you saying that you, Donald Trump, and X were the most important um people uh or places or whatever icons when it comes to the MAGA movement. Do you agree with that?",
+      "textZh": "这个，这个平台某种程度上承接了保守派媒体、一些保守派媒体停下来的地方。它们正在向右移动，日益成为保守派话语的一部分，有时甚至涉及阴谋论，对吧？最近有一篇关于你的文章说，在MAGA运动中，你、唐纳德·特朗普和X是最重要的，嗯，人，呃，或者地方，或者任何什么标志性存在。你同意吗？"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "How do you feel about that? Uh well, I mean, there are nonsense articles written all the time, and I certainly wouldn't agree with that one. I'd put it in the nonsense category. So, uh the the the objective fact of the matter, in my opinion, was that um that old Twitter was a a fundamentally a a tool of the the far left. As far And that was really, I think, a lot of it was due to being located in San Francisco, Berkeley.",
+      "textZh": "你对此感觉如何？呃，嗯，我的意思是，荒谬的文章一直都有，我当然不会赞同那一篇。我会把它归入荒谬一类。所以，呃，在我看来，这件事的，这个，这个客观事实是，嗯，旧Twitter从根本上说是一个，一个极左翼的，这个，工具。至于——而且我认为，其中很大一部分确实是因为它位于旧金山、伯克利。"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "Um and so, uh it wanted to essentially project the SF Berkeley uh political dogma worldwide. Uh Do you think it was far left? Yes, I do. I I used to get I actually got off the platform because I would get so much hate tweets when it it was called in, so much hate tweets, and and just got from right-wing conspiracy theorists, being called everything from, you know, [ __ ] to Sure. Well, it's the it's the internet, you know.",
+      "textZh": "嗯，所以，呃，它实质上想把旧金山、伯克利的，呃，政治教条投射到全世界。呃，你认为它是极左翼吗？是的，我认为是。我，我以前会收到——我实际上离开了这个平台，因为我会收到太多仇恨推文，当它，当时叫作，太多仇恨推文，而且，而且就来自右翼阴谋论者，他们什么都叫过我，从，你知道，[ __ ]到——当然。嗯，这就是，这就是互联网，你知道。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "The people will do the I mean, I've been called every name times a thousand. Yeah. Do you agree that it's right now, and that it's even moved into sort of MAGA land and conspiracy theory? I certainly don't think it's right. Um the the old-school Twitter uh suspended and suppressed uh accounts that you'd call on the right 10 times more than it accounts on the left.",
+      "textZh": "人们会做——我的意思是，我被各种名字骂过，每一种都骂了上千次。是的。你同意它现在属于右翼，而且甚至已经进入了某种MAGA地带和阴谋论领域吗？我当然不认为它属于右翼。嗯，老派Twitter，呃，暂停和压制那些你会称为右翼的账号的数量，是左翼账号的10倍。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "And even when they did suspend an account on the left, uh it was because of arguments between two people on the left. Uh the political donations of old Twitter were 99% Democrat. Does that sound left right left wing or right wing to you? The Twitter donations? Yes. You know when they look at donations back from a company? If a company donates nine literally 99% of all donations are to Democrats.",
+      "textZh": "而且即便他们确实暂停了一个左翼账号，呃，那也是因为两个左翼人士之间发生了争执。呃，旧Twitter的政治捐款中有99%捐给了民主党。这在你听来是左翼、右翼、左派还是右派？Twitter的捐款？是的。你知道，当他们查看一家公司的捐款时？如果一家公司捐出9——实际上，所有捐款中的99%都捐给民主党。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Does that strike you as a left-leaning or a right-leaning company? the company donated? I understand what you're saying. What I want to tell you is that uh Twitter employees people at Twitter their political donations uh were 99% literally 99% uh to Democrats. That's obviously an extremely left-leaning group. My question to the leading into this is about MAGA. You and speaking of MAGA, you recently met with Donald Trump in Florida.",
+      "textZh": "这让你觉得它是一家偏左还是偏右的公司？是公司捐款了吗？我明白你的意思。我想告诉你的是，呃，Twitter 的员工，也就是 Twitter 的那些人，他们的政治捐款，呃，99%，确确实实是 99%，呃，都捐给了民主党。这显然是一个极度偏左的群体。由此引出的我的问题是关于 MAGA 的。说到 MAGA，你最近在佛罗里达州见了唐纳德·特朗普。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "What did you guys talk about? Uh I was at a dinner with I was not at dinner. I was at a breakfast at a friend's place and Donald Trump came by. That's it. So, you didn't go there to meet him? I No, I went to a uh uh a friend of mine's a house uh and it said it said Donald Trump's coming by for breakfast. Is that uh if just so you know, like okay, fine. What did you discuss? I've I don't Um let's just say I I he did most of the talking.",
+      "textZh": "你们聊了什么？呃，我当时在一场晚餐上，我不是在晚餐上。我当时在一个朋友家吃早餐，唐纳德·特朗普过来了。就这样。所以，你不是专程去那里见他的？我，不是，我去了，呃，呃，我一个朋友的家，呃，然后说，说唐纳德·特朗普会过来吃早餐。就是，呃，只是让你知道一下，像是，好吧，行。你们讨论了什么？我，我不……嗯，这么说吧，我，我，他说了大部分的话。"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "What did he say? Just the the the normal things he says. There was nothing particularly ground ground ground ground breaking or new, but uh he you know uh President Trump likes to talk. And so, he talked. I don't I I don't recall him saying anything that he hasn't said publicly. Uh and that was it. It was just a breakfast. Did he ask you for money? He didn't. Did he ask you for a donation? No. He didn't. No.",
+      "textZh": "他说了什么？就是他平常说的那些，那些，那些话。没有什么特别开创、开创、开创、开创性或新鲜的内容，不过，呃，他，你知道，呃，特朗普总统喜欢讲话。所以，他就讲了。我不，我，我不记得他说过任何他没有公开说过的话。呃，就这样。只是一顿早餐。他向你要钱了吗？没有。他向你索要捐款了吗？没有。他没有。没有。"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "You said you're not going to donate to any candidate. That's correct. Why not? I think Well, I I'll voice my opinion. Um I think uh I don't want to I don't want to put uh, a thumb on the scale monetarily. That is, you know, significant. Are you going to loan him money to help pay his bills? No. Not at all? To his legal bills? I'm not I'm not paying paying his legal bills in any way, shape, or form. And he did not ask you for money?",
+      "textZh": "你说过你不会给任何候选人捐款。没错。为什么不？我觉得，嗯，我会表达我的观点。嗯，我认为，呃，我不想，我不想在金钱上，呃，把拇指按到天平上。也就是说，你知道，数额可观。你会借钱给他，帮他付账单吗？不会。完全不会？帮他支付法律费用？我不会，我不会以任何方式、任何形式支付他的法律费用。而且他没有向你要钱？"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "And he did not ask me for money. Are you going to So, you're not going to endorse a candidate? I may in the final stretch endorse a candidate, uh, but I don't know yet. Uh, I want to make a considered decision uh, before the election. Uh, and if I do decide to endorse a candidate, then I will explain exactly why. Are you leaning towards anyone? No. You're not leaning towards anyone.",
+      "textZh": "而且他没有向我要钱。你会不会……所以，你不会为某位候选人背书？我可能会在最后阶段为某位候选人背书，呃，但我还不知道。呃，我想在选举前，呃，经过慎重考虑再作决定。呃，如果我确实决定为某位候选人背书，那么我会确切解释原因。你目前倾向于谁吗？没有。你没有倾向于任何人。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "You said you've been Let me say I'm leaning leaning away from Biden. You're leaning I've made no secret of that. Are you concerned about losing your security clearance clearance if Biden is reelected? Does that have anything to do with it? No. You are leaning away from Biden, but you're not going to endorse anyone. It seems like an endorsement of President Trump because there are only two people who are running now. Nikki Haley is out.",
+      "textZh": "你说你一直……让我说，我倾向于，倾向于不选拜登。你倾向于……我对此一直毫不隐瞒。如果拜登再次当选，你是否担心失去你的安全许可、许可？这和你的态度有关系吗？没有。你倾向于不选拜登，但你不会为任何人背书。那似乎就是在为特朗普总统背书，因为现在只有2个人在竞选。妮基·黑利已经退出了。"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "a lot could happen between now and the election. So, we'll see who in the final analysis, uh, are the choices for president. Um, and at that point, I may or may not endorse, uh, one of the candidates. If I do, I will provide a very, uh, detailed explanation of why I am endorsing one or the other. At that point, might you contribute or donate? I I I think it's unlikely.",
+      "textZh": "从现在到选举之间可能发生很多事。所以，我们将看看归根结底，呃，总统人选有哪些。嗯，到那时，我可能会，也可能不会为，呃，其中一位候选人背书。如果我这样做，我会非常，呃，详细地解释为什么我要为其中一方背书。到那时，你可能会出资或捐款吗？我，我，我认为不太可能。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "So, you have been posting up a storm as you always do in the past couple weeks about the redesign of the Tesla, uh, Roadster coming at the end of this year. Are there any kind of updates that you can talk about that to expect from his flagship EV? I mean, Tesla stock is down the last 6 months. What's next for the company? You know, the stocks go up and down, but what really matters is are we making and delivering uh, and uh uh great products.",
+      "textZh": "所以，过去几周你一直像往常一样大量发帖，谈到将于今年年底推出的 Tesla，呃，Roadster 的重新设计。关于他的这款旗舰电动汽车会有哪些值得期待的地方，有没有什么更新是你可以谈谈的？我是说，Tesla 的股价在过去6个月里下跌了。公司下一步是什么？你知道，股价有涨有跌，但真正重要的是，我们是否在制造和交付，呃，以及，呃，呃，出色的产品。"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Uh the the Tesla products are um outstanding. Uh last year the Model Tesla Model Y was the best-selling uh car of any kind in the world. So, it was about 1. 2 million units. It was the best-selling car despite being I think around 50% more expensive than the next best-selling vehicle. Um of any kind, not just electric. So, um I think this that's testament to the incredible work of the Tesla team. Mhm. Um and uh we launched the Cybertruck.",
+      "textZh": "呃，Tesla 的产品非常出色。呃，去年，Model，Tesla Model Y 是全球各种类型汽车中最畅销的，呃，车型。所以，大约是1. 2百万辆。它是最畅销的汽车，尽管我认为它比销量排名第二的车型贵了大约50%。嗯，是所有类型，不只是电动汽车。所以，嗯，我认为这证明了 Tesla 团队所做的不可思议的工作。嗯哼。嗯，而且，呃，我们推出了 Cybertruck。"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "Obviously, that's uh being put very well received. Um we have uh I think over a million orders for the Cybertruck. Um so, uh it's it's really special product. That is that is I think the Cybertruck is one of those product that products that come comes along really once in several years, maybe once a decade. It's it's a Cybertruck is a once a decade product. It is so uh special and and I think it's our best product.",
+      "textZh": "显然，那，呃，正受到非常好的欢迎。嗯，我们有，呃，我想，超过100万份 Cybertruck 订单。嗯，所以，呃，它，它确实是特别的产品。那是，那是，我认为 Cybertruck 是那种产品，那种好几年才会出现一次的产品，也许10年才出现一次。它，它，Cybertruck 是10年一遇的产品。它如此，呃，特别，而且，而且我认为这是我们最好的产品。"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Um so, But everyone improves over time. I mean, Apple you my I thought my phone was here, but Apple, you know, the phone got better over time. The I'm sure that your your cars will get better over time. You have been tweeting about the the updates in in the Roadsters. There's something that we should sure.",
+      "textZh": "嗯，所以，但是所有东西都会随着时间推移而改进。我是说，Apple，你，我的，我以为我的手机在这里，但 Apple，你知道，手机随着时间推移变得更好了。我相信你们的，你们的汽车也会随着时间推移变得更好。你一直在发推谈 Roadster 的，那些更新。有什么是我们应该……当然。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "The You did mention the Roadsters, so um look, I don't want to give away you know, much more than what I've said uh publicly except that the Roadster will be uh a collaboration between SpaceX and Tesla. So, you know, you can expect some rockety stuff there. A flying car? Maybe. It's not out of the question. Go on. No, I I look, I got to I got to reserve the cool stuff with the, you know, when when we actually unveil it.",
+      "textZh": "这个……你确实提到了 Roadster，所以，嗯，听着，除了我已经，呃，公开说过的内容外，我不想再透露，你知道，太多，只能说 Roadster 将是，呃，SpaceX 与 Tesla 的合作成果。所以，你知道，你可以期待那里会有一些火箭式的东西。飞行汽车？也许。并非没有可能。继续说。不，我，我，听着，我得，我得把那些酷的东西留到，你知道，我们真正发布它的时候。"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "But it's it's it's going to it's going to be really cool. It's going to have um it's going to have some rocket technology in it. Um I think the Well, the only way to do something that's cooler than the Cybertruck is is to combine uh SpaceX and and and and Tesla technology to create something that's not even really a car. Then what would it be? Something that's never existed before. I'm getting Jetsons vibes. Only Jetsons vibes.",
+      "textZh": "但它，它，它会，它会非常酷。它会有，嗯，它会包含一些火箭技术。嗯，我认为……嗯，要做出比 Cybertruck 更酷的东西，唯一的办法就是把，呃，SpaceX 和，和，和，和 Tesla 的技术结合起来，创造一种甚至不能真正算是汽车的东西。那它会是什么？一种从未存在过的东西。我感受到了《杰森一家》的氛围。只有《杰森一家》的氛围。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "And and the world may not be aware like some things that I have said publicly is that it'll do 0 to 60 in under 1 second. So, um that's by far faster than any uh you know, sports car that exists. Um and um and that's not even the most exciting thing about it. Does it have wings? Ooh. No, it does it does not have big wings cuz big wings would be unwieldy on the road. Does it have propellers? It does not have propellers. Okay, it has wheels.",
+      "textZh": "而且，而且外界可能并不知道，就像我公开说过的一些事情，比如它能在不到1秒内从0加速到60。所以，嗯，这比现有的任何，呃，你知道的，跑车都快得多。嗯，而且，嗯，而且那甚至还不是它最令人兴奋的地方。它有机翼吗？哦。没有，它没有，它没有大型机翼，因为大型机翼在公路上会很难操控。它有螺旋桨吗？它没有螺旋桨。好吧，它有轮子。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "It does have wheels. Okay. This is not a roadster 20 questions. It has a Does it have a steering wheel? Not exactly. What is it? It will will it have it'll have a drive-by-wire uh yoke essentially like a kind of like the way aircraft are and what modern jets are controlled. And do you think it's the way of the future that everyone will follow your lead on this?",
+      "textZh": "它确实有轮子。好吧。这不是关于 Roadster 的20个问题。它有一个……它有方向盘吗？不完全是。那是什么？它会，会有，它会有一个线控驾驶的，呃，轭式方向盘，基本上有点像飞机的方式，以及现代喷气式飞机的操控方式。你认为这是未来的发展方向，所有人都会在这方面跟随你的引领吗？"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "I don't think anyone will ever make anything like the uh the the roadster that that we're going to make. Let's talk now about um SpaceX, Tesla. You got a lot of lawsuits. You've got x. com. You've got a lot going on. How do you relax? Well, um I relax is I spend time with my kids, my friends, and I, you know, make somewhat of a nerd technologist so that I like playing video games. So, uh I'll play video games with with with friends online.",
+      "textZh": "我认为永远不会有人造出任何像，呃，我们将要制造的那款，那款，那款 Roadster 一样的东西。现在我们来谈谈，嗯，SpaceX、Tesla。你有很多诉讼。你有 x.com。你有很多事情要忙。你怎么放松？嗯，我放松的方式是和我的孩子、我的朋友待在一起，而且我，你知道，算是个技术宅，所以我喜欢玩电子游戏。所以，呃，我会和，和，和朋友们在线玩电子游戏。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Uh lately I've been playing Diablo. Um and um but I've played almost all the games over the years. Uh, a long time ago I was like semi-pro good at Quake. This is really dating me. Uh, because we're talking about like 125 years ago. I don't know video games. I just know that my uh, my great nephew loves Fortnite and some other stuff. He's always with the headphones and and doing the thing. So, that helps you relax, right? So, do you Yeah.",
+      "textZh": "呃，最近我一直在玩《暗黑破坏神》。嗯，而且，嗯，不过这些年来，我几乎所有游戏都玩过。呃，很久以前，我玩《雷神之锤》的水平好到了准职业级。这真的暴露我的年龄了。呃，因为我们说的是大概125年前。我不懂电子游戏。我只知道我的，呃，我的侄孙很喜欢《堡垒之夜》和其他一些东西。他总是戴着耳机，然后，然后玩那些东西。所以，那能帮你放松，对吧？所以，你会……对。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "This is and you It's the nice thing is you've got If you've got friends in different cities and they're playing the same game, you can both go online at the same time and, uh, play the game together even though you're in different cities. Listen, I'm not asking you anything that anyone else hasn't asked you about um, your controversial stuff that you tweet. You post a lot of controversial stuff. Is that considered blowing off steam?",
+      "textZh": "这是，而且你……好处是，你有……如果你在不同城市有朋友，而他们在玩同一款游戏，你们就可以同时上线，然后，呃，一起玩游戏，尽管你们身处不同城市。听着，我并没有问你任何其他人没问过你的事情，关于，嗯，你发推文时那些有争议的东西。你发布了很多有争议的东西。那算是宣泄压力吗？"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "Um, well, I guess I do enjoy using the platform. I mean, I do call, um, the X platform the the PvP or player versus player, uh, platform. Um, so, in video games there's, uh, player versus like environment, um, where you're not playing against other people. Um, and then there's PvP which is like hardcore. You're actually playing against other people. And, uh, So, but that's blowing off steam for you. Yeah. Yeah, it's It is to some degree.",
+      "textZh": "嗯，呃，我想我确实喜欢使用这个平台。我的意思是，我确实把，嗯，X 平台称为 PvP，也就是玩家对玩家的，呃，平台。嗯，所以，在电子游戏里，有，呃，玩家对，比如说，环境，嗯，在那里你不是在和其他人对战。嗯，然后还有 PvP，那就很硬核了。你实际上是在和其他人对战。而且，呃，所以，但是那对你来说是在宣泄压力。对。对，在某种程度上，是的。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "Not always. I mean, obviously I use it for, uh, to post jokes, to post, uh, you know, sometimes trivia, uh, sometimes things that are great importance. So, you do a lot of it at night, like late at night. So, when you're doing this, are you are you sober when you do it? Like, almost always, yeah. the influence of anything? Uh, no. I don't I don't drink. I don't really No, I no. So, you don't No drink, no smoke, no nothing.",
+      "textZh": "不总是。我的意思是，显然我用它来，呃，发布笑话，发布，呃，你知道，有时是冷知识，呃，有时是非常重要的事情。所以，你经常在晚上发，比如深夜。那么，你做这些的时候，你是，你是清醒的吗？比如，几乎总是，对。受到任何东西的影响？呃，没有。我不，我不喝酒。我其实不……不，我，不。所以，你不……不喝酒，不抽烟，什么都不碰。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "I mean, you smoked pot with Rogan. I had one puff. Yeah. I think anyone who smokes pot can tell I don't know how to how to smoke pot. But you've admitted that you've had you have a ketamine prescription that Yeah, yeah, yeah. What's that for? Well, I mean, it's pretty private to ask somebody about a medical prescription, you know.",
+      "textZh": "我的意思是，你和罗根一起抽过大麻。我就吸了一口。对。我想任何抽大麻的人都能看出来，我不知道怎么，怎么抽大麻。但你承认过，你有过，你有氯胺酮处方，那个……对，对，对。那是用来做什么的？嗯，我的意思是，向别人询问医疗处方是很私人的事，你知道。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Um but uh it's I think it's it's something I'd say like uh there are times when I have um a sort of uh I don't know like a negative chemical state in my in my brain. I like depression, I guess, you know, it's or or like depression that's not linked to any negative views um and and and then uh ketamine is helpful for uh getting you getting one outside out of a negative frame of mind.",
+      "textZh": "嗯，但是，呃，我觉得它是，它是某种，我会说，比如，呃，有时候我的，我的脑子里会有，嗯，一种，呃，我不知道，像是负面的化学状态。我像是抑郁，我想，你知道，它是，或者，或者像是与任何负面看法无关的抑郁，嗯，而且，而且，而且然后，呃，氯胺酮有助于，呃，让你，让一个人从负面心态中走出来。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "Well, listen, I I I in fact I generally I'm sorry, I'm not a doctor, but I would say uh if someone has depression issues, they should consider talking to their doctor about ketamine instead of SSRIs. Listen, I I I think that um ketamine uh and drug therapy is uh increasingly becoming more in the mainstream. Yeah. Do you think that you're doing it under a doctor's care, right? Yeah, yeah.",
+      "textZh": "嗯，听着，我，我，我实际上通常……对不起，我不是医生，但我会说，呃，如果某人有抑郁问题，他们应该考虑和医生谈谈氯胺酮，而不是选择 SSRIs。听着，我，我，我认为，嗯，氯胺酮，呃，以及药物治疗正，呃，越来越成为主流。对。你是在医生的照护下使用它的，对吧？对，对。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "It's literally a prescription from an actual a real doctor, not like, you know. Yeah, but do you do you feel like you ever abuse it? I don't think so. You can't use too much ketamine. You can't really get work done. That's why I have a lot of work. So, I'm I'm typically putting in like, you know, 16-hour days. That's normal for me. And it's it's it's rare for me to even take off a weekend day.",
+      "textZh": "这确确实实是一张由真正的，一位真正的医生开出的处方，不是那种，你知道。对，但你，你觉得自己有滥用过它吗？我觉得没有。你不能使用太多氯胺酮。那样你就真的没法完成工作。正因为如此，我有很多工作。所以，我，我通常每天工作大约，你知道，16个小时。这对我来说很正常。而且我，我，我甚至很少会在周末休息一天。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "So, I don't really have like, you know, a situation where I can be not mentally acute for an extended period of time. Like, I can't I can't really get wasted with with cuz I can't get my work done. So, how often do you take it? Um well, it's it'd be like a a small amount once every other week or something like that. But there's I mean, there's not on the bottle where it says take this dose this many times a week or whatever for your depression.",
+      "textZh": "所以，我其实没有那种，你知道，可以在很长一段时间里头脑不敏锐的情况。比如，我不能，我不能真的跟，跟……喝得烂醉，因为我无法完成工作。那么，你多久用一次？嗯，可能是每隔一周左右用一次少量的。但我的意思是，瓶子上并没有写着，为了你的抑郁症，每周按这个剂量服用这么多次之类的话。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "My doctor said dose. I I it's there there are several weeks that'll go by where I don't use it. You don't use it. Yeah, I think it's just like I said, I think the what I find ketamine is if you if you have like literally like a chemical state in your brain that you can't you can't just think yourself out of then uh ketamine can help is helpful for getting you out of a depressive mind state.",
+      "textZh": "我的医生说剂量。我我有时候会连续几周都不用它。你不用它。是的，我觉得，就像我说的，我发现氯胺酮的作用是，如果你如果你大脑里确实处于一种化学状态，而你没法你没法光靠思考让自己摆脱，那么，呃，氯胺酮可以帮忙，有助于让你摆脱抑郁的精神状态。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "You suffer from depression or you have a depressive mind state? And I ask you as someone who has suffered from depression. I wouldn't say that I I I wouldn't say that I have like a case of like extended depression. Um it's just once in a while I get into a a negative sort of chemical mind state once in a while. It's not a not a common thing. Um but once in a while it does happen. Where do you think that comes from?",
+      "textZh": "你患有抑郁症，还是会有抑郁的精神状态？我以一个曾患过抑郁症的人的身份问你。我不会说我我我不会说我有那种长期抑郁症之类的情况。嗯，只是偶尔我会陷入一种负面的、类似化学性的精神状态。那并不不常见。嗯，但偶尔确实会发生。你觉得那是从哪里来的？"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "I think it's just genetic basically. You think it's just genetic history? I think so. Um Yeah. I mean some people are just wired wired to be happy all the time. Uh some are unfortunately wired to be sad all the time. Um And in my case um you know, I'm generally pretty pretty positive and optimistic. Uh but once in a while uh I don't know what happens. It's some uh Like I said, I think it's just the chemical tides in your brain once in a while.",
+      "textZh": "我觉得基本上只是遗传。你觉得只是遗传史？我想是的。嗯，是的。我的意思是，有些人的神经天生就是就是一直快乐。呃，不幸的是，有些人的神经天生就是一直悲伤。嗯，就我而言，嗯，你知道，我通常非常非常积极乐观。呃，但偶尔，呃，我不知道发生了什么。是某种，呃，就像我说的，我认为那只是你大脑中的化学潮汐偶尔出现。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "It's like a brain storm. Yeah. Do you ever worry that this may get in the way of your government contracts and clearances? And also and Wall Street as well. Well, from that point of Wall Street uh what matters is execution. You know, uh are you building value for investors? Um and Tesla is worth about as much as the rest of the car industry combined. From nothing. So, I don't you know, that's pretty good.",
+      "textZh": "就像一场大脑风暴。是的。你是否担心这可能会妨碍你获得政府合同和安全许可？还有华尔街方面也是。嗯，从华尔街的角度来看，呃，重要的是执行力。你知道，呃，你有没有为投资者创造价值？嗯，Tesla的价值大约相当于汽车行业其他企业的总和。从一无所有开始。所以，我不，你知道，那相当不错。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "Um As I mentioned, we had we had the best selling car on Earth last year. Um So, from from investors standpoint, if there is something I'm taking, I should keep taking it. Have you you talked about your ketamine use and depression?",
+      "textZh": "嗯，正如我提到的，我们去年拥有我们拥有全球最畅销的汽车。嗯，所以，从从投资者的立场来看，如果我在服用什么东西，我就应该继续服用。你有没有你谈到过自己使用氯胺酮和抑郁症的事？"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "Have you you also have said and The reason I should I should say like the like the reason I mentioned uh the the ketamine prescription on the X platform was because I thought maybe this is something that could help other people. That's why I mentioned it. Yeah. Can we talk about the great replacement theory now? Um some of the things that you post the great replacement theory.",
+      "textZh": "你有没有你还说过，而且我应该我应该说明，像是像是我在X平台提到，呃，氯胺酮处方的的原因，是因为我觉得也许这东西可以帮助其他人。那就是我提到它的原因。是的。我们现在可以谈谈大取代理论吗？嗯，你发布的一些关于大取代理论的内容。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "You claim that Democrats President Biden's immigration plan open up the border. They're the president is getting and Democrats are doing it to get more votes. Um But undocumented immigrants cannot vote in federal elections. So how is that possible? Right. Um well, you're conflating two things. What one is great replacement theory. The other one is which I I don't subscribe to that. I'm simply saying that there is a sense of here.",
+      "textZh": "你声称民主党人拜登总统的移民计划开放了边境。他们，总统正在获得，而且民主党人这么做是为了获得更多选票。嗯，但无证移民不能在联邦选举中投票。那么这怎么可能？对。嗯，你把两件事混为一谈了。一个是大取代理论。另一个是，而我我并不认同那个理论。我只是说，这里存在一种感觉。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "Uh if uh legal immigrants which I I think have a very strong bias to at least everything I've read. It's very strong bias to vote Democrat. Um the the more more that come to the country, the more they're likely to vote in that direction. But but it is in my view uh the a simple incentive to increase uh voters to Democrat voters. Um And yeah, so as you question is like how? So there's there's a few there's a a few ways that this works.",
+      "textZh": "呃，如果，呃，合法移民，而我我认为他们有非常强烈的倾向，至少我读到的一切都表明，他们有非常强烈的倾向投票给民主党。嗯，来到这个国家的人越越多，他们就越有可能朝那个方向投票。但但在我看来，这是一种简单的动机，去增加，呃，选民，增加民主党选民。嗯，是的，所以你问的是怎么做到？所以这有这有几种，这有有几种运作方式。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "One is that uh when the census is done uh the census is based on all all people in an area whether they are citizens citizens or not. So uh there are concentration of uh people who came here legally in in a in a particular state or uh in a particular state that state will actually then get uh an increased number of house seats. So the the house seat apportionment is proportionate to the number of people not the number of citizens.",
+      "textZh": "一种是，呃，在进行人口普查时，呃，人口普查依据的是一个地区的所有所有人，无论他们是不是公民公民。所以，呃，如果在在某个特定州，或者，呃，在某个特定州，集中居住着一些合法来到这里的人，那么该州实际上就会，呃，获得更多的众议院席位。所以众众议院席位的分配与人口数量成比例，而不是与公民数量成比例。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "So the the the illegals overwhelmingly go to place like California and New York. Um and the if you just look at the look at the math, if if if you look at the apportionment with and without illegals, I believe California would lose I believe I believe the blue state there would be a net loss of blue states of approximately 20 seats in the house. Uh this also applies to the the electoral college.",
+      "textZh": "所以，那些那些那些非法移民绝大多数都会去加利福尼亚州和纽约州这样的地方。嗯，而且如果你只看一下看一下计算结果，如果如果如果你看有非法移民和没有非法移民时的席位分配，我相信加利福尼亚州会失去，我相信我相信蓝州总共会净失去大约20个众议院席位。呃，这也适用于选举人团。"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "So you say like, well, this also applies to to electing the president. Because the the the same the electoral votes are also done by by apportionment the same way that house seats are done. But the reason Elon the electoral college is in place is to to balance that. It's so that that doesn't happen. So what you're saying about it is the exact opposite of the reason why they the electoral college is there.",
+      "textZh": "所以你会说，嗯，这也适用于选举总统。因为因为因为同样，选举人票也是按照与众议院席位相同的方式分配的。但埃隆，选举人团之所以存在，就是为了为了平衡这一点。它就是为了防止那种情况发生。所以你对它的说法，与他们设立选举人团的原因正好相反。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "The electoral college at this point it at this point in in in our history gives people who are in smaller states and red states much more of an influence over our elections than people who are in blue states and the majority of the people in this country. That's what the electoral college does. It actually does the exact opposite of what you're saying. It protects people who are in smaller states and protects people who are in red states.",
+      "textZh": "在我们历史的这个时候，选举人团在在在这个时候，赋予小州和红州民众对我们的选举大得多的影响力，相比蓝州民众以及这个国家的大多数人。那就是选举人团的作用。它实际上起到的作用与你所说的正好相反。它保护小州民众，也保护红州民众。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Well, Who The red states because they tend to be smaller and and less popular. that that that that statement is is uh what what you said is is true, but what I said is also true. Uh which is that uh if if as is the case a disproportionate number of legal immigrants go to uh blue states, they amplify the effect of a of a blue state vote. And the math as I understand it, you can research this obviously very easily.",
+      "textZh": "嗯，谁？红州，因为它们往往更小，而且而且不那么受欢迎。那个那个那个那个说法，呃，你说的是是真的，但我说的也是真的。呃，也就是说，呃，如果如果像实际情况那样，数量不成比例的合法移民前往，呃，蓝州，他们就会放大蓝州一张选票的影响。而据我理解的计算结果，你显然可以非常容易地研究这一点。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "I mean it it's like it's it's pretty straightforward to to research this. But my understanding is that there would be uh that that the the Democrats would lose approximately 20 seats in the house uh if illegals were not counted in census. And that's also 20 less electoral votes for president. So the illegals absolutely do affect the uh who controls uh the House of the House and who controls uh the presidency. It does not affect uh, the Senate.",
+      "textZh": "我的意思是，这个，这就像，这其实很容易研究。但据我了解，如果人口普查不把非法移民计算在内，呃，民主党人将在众议院失去大约20个席位。而且总统选举也会少20张选举人票。所以非法移民绝对会影响，呃，谁控制众议院的众议院，以及谁控制，呃，总统职位。这不会影响，呃，参议院。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Yeah. In blue states you're talking about. I don't believe that your information on on uh, that is right. Um, so listen let's talk more about the great replacement because the first time you did you posted on X about uh, this Jewish conspiracy you ended up apologizing. call it a a conspiracy I just said that there's a simple matter of incentives. You don't need a conspiracy when you have basic incentives.",
+      "textZh": "是的。你说的是蓝州。我不认为你关于，关于呃，那件事的信息是正确的。嗯，所以，听着，让我们再多谈谈大取代理论，因为你第一次这么做时，你在X上发布了关于，呃，这场犹太人阴谋的内容，最后你道了歉。把它称为一场、一场阴谋，我只是说，这是个简单的激励问题。当你有基本的激励时，就不需要阴谋。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "In my view there is a basic incentive that's fundamental uh, that uh, for for the the Democrat Democrat party to foster an an ushering a large number of illegals. And they and and you don't need a conspiracy in that case because you have a very basic incentive. You could say I'm wrong about that incentive but that's my view. I I'm not buying into I don't buying some great replacement theory.",
+      "textZh": "在我看来，存在一种根本性的基本动机，呃，使得，使得民主党民主党去促进并并引入大量非法移民。而且他们，而且而且在这种情况下你不需要阴谋，因为存在一个非常基本的动机。你可以说我对这种动机的看法是错的，但那就是我的观点。我，我不接受，我不接受某种大取代理论。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "I'm simply saying there appears to be a very clear incentive for uh, uh, Democrats to have to maximize number of illegals um, because it helps them win elections. I'm talking about the great replacement theory is also part of a Jewish conspiracy theory. And when you did the tweet or you responded to the tweet about that you ended up apologizing and uh, which I think is you know, is good that you ended up apologizing.",
+      "textZh": "我只是说，民主党人似乎有一个非常明确的动机，要，呃，呃，最大限度增加非法移民的数量，嗯，因为这有助于他们赢得选举。我说的是，大取代理论也是关于犹太人的阴谋论的一部分。而当你发了那条推文，或者你回复了关于那件事的推文后，你最终道了歉，而且，呃，我认为，你知道，你最终道歉是件好事。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "You went to Auschwitz with Ben Shapiro. Yeah. So you said you learned your lesson. What did you learn? I said I learned my lesson. You said you learned your lesson when it when you apologized and you said you went to Auschwitz. You saw what what No, I was already already aware of of of these things.",
+      "textZh": "你和本·夏皮罗一起去了奥斯维辛。是的。所以你说你吸取了教训。你学到了什么？我说我吸取了教训。你道歉时说你吸取了教训，而且你说你去了奥斯维辛。你看到了什么，什么？不，我已经，已经知道这些，这些，这些事情。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "And the nature of my comment that that really inflamed people um, what I was what I was trying to say and I did very quickly clarify this is what I'm saying is that uh, um, a number of uh, prominent uh, Jewish philanthropists fund uh, groups that they should really take a close look at funding because some of the some of the groups they fund um, I think are anti-Semitic. Yeah. Do you understand the connection between the two?",
+      "textZh": "还有我的那条确实激怒了人们的评论的性质，嗯，我当时，我当时想说的是，而且我确实很快澄清了，这就是我所说的，呃，嗯，一些，呃，知名的，呃，犹太慈善家资助了，呃，一些团体，而他们确实应该仔细审视一下对这些团体的资助，因为在他们资助的一些，一些团体中，嗯，我认为有些是反犹太主义的。是的。你理解两者之间的联系吗？"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "They're one there's a connection between you said Democrats and great replacement theory, but when it comes to the actual great replacement theory, originally it was started about Jewish people as you said flooding in the country. And then now people are using it for Democrats. Saying the same thing about Democrats. Flooding I might view it as a simple matter of incentives.",
+      "textZh": "它们是一个，你说的民主党人和大取代理论之间存在联系，但谈到真正的大取代理论，它最初是关于犹太人的，正如你所说，他们大量涌入这个国家。而现在人们又把它用在民主党人身上。对民主党人说同样的话。大量涌入。我可能会把它看作一个简单的动机问题。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "I I I I'm I don't I actually don't see an incentive for uh Jewish people to want to have any get legal immigration. I don't I don't think there is such an incentive. The great replacement theory is a a neo-Nazi trope. It's in the neo-Nazi manifesto. It's in the Turner Diaries. It's referenced by the Buffalo mass shooter uh in his manifesto where 10 people um black people were murdered in Buffalo.",
+      "textZh": "我，我，我，我，我不，我其实看不出犹太人有任何想要有任何获得合法移民的动机。我不，我不认为存在这样的动机。大取代理论是一种新纳粹陈词滥调。它写在新纳粹宣言中。它写在《特纳日记》中。布法罗大规模枪击案枪手在他的宣言中提到了它，那起事件中有10人，嗯，黑人在布法罗遭到杀害。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "It's actual title of the Christchurch shooter's manifesto. 51 people in the Muslim mosque were murdered. 23 people uh murdered in El Paso by a shooter who used the same language that you use in that manifesto when you say Hispanic invasion. Is that not I didn't say Hispanic invasion. And you tweeted you quoted a tweet that said that called it a Hispanic invasion. If I quote something, it doesn't mean I agree with anything everything in it.",
+      "textZh": "它就是基督城枪手宣言的实际标题。穆斯林清真寺里的51人遭到杀害。23人，呃，在埃尔帕索被一名枪手杀害，而那名枪手在宣言中使用了与你相同的语言，当时你说西班牙裔入侵。那难道不是，我没有说西班牙裔入侵。而你发了推文，你引用了一条把这称作西班牙裔入侵的推文。如果我引用某些内容，并不意味着我同意其中任何一切内容。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "It's just something that I want I think this is something worth people should uh consider. Why would you quote something that you didn't believe? Because anything I quote is going to have a whole range of statements. Doesn't mean I agree with everything in it.",
+      "textZh": "这只是我想要，我认为这是一件值得人们，呃，考虑的事情。你为什么要引用你不相信的内容？因为我引用的任何内容都会包含一整套陈述。并不意味着我同意其中的一切。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "Do you think if there if if you moderated yourself more if there was better content moderation on the platform, that you wouldn't have to answer these questions from reporters about the great great replacement theory as it relates to have to answer these questions. great replacement theory as it relates to Jewish people. Do you think that I don't have to answer questions from reporters.",
+      "textZh": "你是否认为，如果，如果，如果你对自己约束得更多，如果平台上有更好的内容审核，你就不必回答记者提出的这些有关大，大取代理论的问题，因为它涉及到必须回答这些问题。大取代理论，因为它涉及犹太人。你认为，我不必回答记者的问题。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "Don't The only reason I've done this interview is because you're on the X platform and you asked for it. Mhm. Uh otherwise I would not do this interview. So you don't think you Do you think that you wouldn't get in trouble or you wouldn't be criticized for these things or that Possibly I could care less. It You don't You don't care. No, I don't care. Why not? I don't think people should care what the media thinks about them.",
+      "textZh": "不要。我做这次采访的唯一原因，是因为你在 X 平台上，而且你提出了这个请求。嗯。呃，否则我是不会做这次采访的。所以你不认为你……你认为你不会惹上麻烦，或者不会因为这些事情受到批评，还是说……也许我根本不在乎。它……你不……你不在乎。不，我不在乎。为什么？我认为人们不应该在乎媒体怎么看他们。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "They're terrible judges of character. Even someone who has one of the biggest social media and biggest information platforms in the world, you don't think you don't care, you don't think that there's you have any x. com or you have any responsibility to the truth or moderating the platform? Well, you're conflating the truth with the with the media and I think the media is not truthful. Well, not with just the the media.",
+      "textZh": "他们非常不善于判断人的品格。即使是拥有世界上最大的社交媒体和最大的信息平台之一的人，你也不认为……你不在乎，你不认为存在……你有任何 x.com，或者说你对真相或平台内容审核负有任何责任吗？嗯，你把真相和……和媒体混为一谈了，而我认为媒体并不真实。嗯，不只是……媒体。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "I mean, just the truth in general. I I care about truth very much. That's why we have, for example, community community notes on the X system. Um where uh in order for community note to surface and provide corrective information about what somebody posts and and my posts are equally subject to this. My I've been meaning to note it many times.",
+      "textZh": "我的意思是，只是一般意义上的真相。我，我非常在乎真相。这就是为什么，例如，我们在 X 系统上有社区、社区笔记。嗯，在那里，呃，要让社区笔记显示出来，并针对某人发布的内容提供纠正信息，而且，而且我的帖子同样受此约束。我的……我很多次都一直想给它加注释。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "Um the in order for before community note to surface, uh people who have historically disagreed must agree in order for a community note to surface. And all of the code for community notes is open source. All of the data is open source, so you can completely recreate it from scratch. The way to build trust is transparency. I have noticed community notes. I think that you are right about that and I do think community notes are helpful.",
+      "textZh": "嗯，为了……在社区笔记显示出来之前，呃，过去一直意见相左的人必须达成一致，社区笔记才能显示出来。而且社区笔记的所有代码都是开源的。所有数据都是开源的，所以你完全可以从零开始重新创建它。建立信任的方式是透明。我注意到了社区笔记。我认为你在这一点上是对的，我确实认为社区笔记很有帮助。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "I think any type of content moderation I do think that's helpful. You recently called content moderation though a digital chastity belt. Do you think that you you believe that X and you have some responsibility to moderate hate speech on the platform? I think we have a responsibility to adhere to the law. And we have a responsibility to be transparent about when things are shown, why they're shown. So, we that's why we open source our algorithm.",
+      "textZh": "我认为任何类型的内容审核……我确实认为那很有帮助。不过，你最近把内容审核称为数字贞操带。你认为……你相信 X 和你本人有责任审核平台上的仇恨言论吗？我认为我们有责任遵守法律。而且我们有责任对内容何时被展示、为什么被展示保持透明。所以，我们……这就是为什么我们把算法开源了。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "Um the I think once you start getting going beyond the law, now you're putting your thumb on the scale. And we don't want to put our thumb on the scale. It doesn't concern you that hate speech has gone Research shows that it's gone up on the platform since you took over. That's not concerning to you? I believe that is false. In fact, the research that I've seen says it it went down.",
+      "textZh": "嗯，我认为，一旦你开始超越法律，现在你就是在暗中偏袒某一方。而我们不想暗中偏袒任何一方。仇恨言论已经增加，这不让你担忧吗？研究显示，自你接管以来，平台上的仇恨言论增加了。这不让你担忧吗？我认为那是错误的。事实上，我看到的研究表明，它……它减少了。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "The the study from the Institute of Strategic Dialogue found that anti-Semitic tweets doubled from June 22nd to February 2023. One study reported that as many as 86% of the posts reported for April content remained up after being reported. Hate speech on the platform is up. Uh so, what what they will typically do is they'll count the number of posts, but not count the number of views.",
+      "textZh": "战略对话研究所的……那项研究发现，从6月22日到2023年2月，反犹推文翻了一番。一项研究报告称，在被举报的4月内容帖子中，多达86%在举报后仍然保留。平台上的仇恨言论增加了。呃，所以，他们通常会做的是统计帖子的数量，却不统计浏览量。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "So, what matters is was that uh post given high visibility or what the did like one person see it? Uh and if you look at the number of views of how how many how many times was his content viewed on our platform, it is down substantially. Yeah. Well, that's not what what the study shows. And you said you like transparency. I'm going to show you this in in Don, you can get a study that will tell you whatever you want.",
+      "textZh": "所以，重要的是那条……呃，帖子是否获得了很高的可见度，还是……怎么说，只有1个人看到了它？呃，如果你看浏览量，看他的内容在我们的平台上被浏览了……多少……多少次，它已经大幅下降了。是啊。嗯，那并不是……那项研究所显示的。而且你说你喜欢透明。我要给你看这个……在……唐，你可以找到一项研究，让它告诉你任何你想听的东西。"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "this is these are just a handful of extremely If you look at those anti-Semitic and racist tropes and tweets, and as of this morning, they're still on X. And from your own content policy, these posts should have been deleted. So, why haven't they been deleted? Why are they still there? Do you Uh we delete things if they are illegal. But these have been up there for a while. Are they illegal?",
+      "textZh": "这……这些只是极其……中的一小部分。如果你看看那些反犹和种族主义的陈词滥调与推文，截至今天早上，它们仍然在 X 上。而根据你们自己的内容政策，这些帖子本应被删除。那么，为什么它们还没有被删除？为什么它们还在那里？你是否……呃，如果内容违法，我们就会删除。但这些内容已经在那里一段时间了。它们违法吗？"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "They're not illegal, but they're hateful and they can they can lead to violence. As I just read to you, the shooters, you know, in all of these mass shootings, attributed social media to radicalizing Don, you love censorship, is what you're saying. No, I don't love censorship. Then why are you why are you asking us to in moderation, but I I don't believe in Censorship is a is a Moderation is a propaganda word for censorship.",
+      "textZh": "它们不违法，但它们充满仇恨，而且它们可能……它们可能导致暴力。正如我刚才给你念的，那些枪手，你知道，在所有这些大规模枪击事件中，都把社交媒体归因于激进化……唐，你喜欢审查，你说的就是这个意思。不，我不喜欢审查。那你为什么……为什么要求我们……进行审核，但我……我不相信……审查是一个……审核是审查的宣传用语。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "But don't you think free speech is one thing, right? Or not, you know, not censorship. illegal, we're going to take it down. If it's not illegal, then we're putting our thumb on the scale and we're being censors. You're putting your thumb on the scale for moderating hate speech. I mean, you don't put out child pornography. That's not It's illegal. That's some people would say that's considered censorship.",
+      "textZh": "但你不认为言论自由是一回事，对吧？或者不是，你知道，不是审查。违法，我们就会把它删除。如果不违法，那么我们就是在暗中偏袒某一方，我们就是审查者。你通过审核仇恨言论来暗中偏袒某一方。我的意思是，你不会发布儿童色情内容。那并不……那是违法的。有些人会说，那被视为审查。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "I'm just saying, you No, I literally Don't you know I literally said if if something is legal, okay, we will obviously remove it. Okay. But if it is not legal, the laws in this country were are are put forward by the citizens. We're a democracy. If those laws were put in place by the by the people, we adhere to those laws. Okay, I agree with that. of of others. If you go beyond the law, you're actually going beyond the will of the people.",
+      "textZh": "我只是说，你——不，我真的——你难道不知道，我确实说过，如果、如果某件事是合法的，好吧，我们显然会把它删除。好吧。但如果它不合法，这个国家的法律是、是、是由公民提出的。我们是民主国家。如果那些法律是由、由人民制定的，我们就遵守那些法律。好吧，我同意这一点。其他人的的。如果你超越法律，你实际上就是在超越人民的意愿。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "Okay, agreed. With the law. But if you are doing something that promotes hate and violence and ultimately leads to killing, you don't feel there's you have any responsibility not to do that? Uh When when when the people who are doing it admittedly are saying articles all the time that lead to to violence and killing. Um Don't they Shouldn't they?",
+      "textZh": "好吧，同意。遵守法律。但如果你正在做某件宣扬仇恨和暴力、并最终导致杀戮的事，你不觉得自己有任何责任不那么做吗？呃，当、当、当那些做这件事的人诚然一直都在发表导致、导致暴力和杀戮的文章。嗯，他们难道不——他们不应该吗？"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Like you're applying a differential standard to But that would never that would never be in mainstream media. These types of images, that type of language, those things would never be We'd never in main When I was in mainstream media, we'd never promote things that would would be anti-Semitic. We would never promote things that would anti-Semitic, either. Did you Did you not see those? You said promote.",
+      "textZh": "就像你在对——采用一种差别标准。但那绝不会、那绝不会出现在主流媒体上。这类图像、那种语言、那些东西绝不会被——我们绝不会在主流——我在主流媒体工作时，我们绝不会宣扬反犹太主义的东西。我们也绝不会宣扬反犹太主义的东西。你没——你没有看到那些吗？你说的是宣扬。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "If content is on the platform, it doesn't mean we promote it. But that wouldn't be on a on a platform for mainstream media at all. No, but you can think of that that's mainstream media is has like whatever, 20 articles a day. Uh we have 500 million posts a day. Okay, understood. Does it bother you? How do you feel about that when you see it? I obviously disagree with that. I think it's not it's not good at all. Terrible.",
+      "textZh": "如果内容出现在平台上，并不意味着我们会推广它。但那种内容根本不会出现在主流媒体的平台上。不，但你可以这样想，主流媒体每天大概有，随便说，20篇文章。呃，我们每天有5亿条帖子。好，明白了。这会困扰你吗？当你看到它时，你有什么感受？我显然不同意那种内容。我认为它一点也不好。糟透了。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "But you don't want to get rid of it on the platform or at least moderate it. The laws that You're you're What what you're suggesting is censorship that goes beyond the law. And what I'm saying is I that we're I guess have a disagreement because I do not believe in censorship that goes beyond the law and you do. We have difference of opinion in that regard. I understand that, but these are your own rules on your own platform.",
+      "textZh": "但你不想把它从平台上移除，或者至少对它进行审核。法律规定——你你——你所建议的是超越法律的审查。而我要说的是，我想我们存在分歧，因为我不赞同超越法律的审查，而你赞同。我们在这方面意见不同。我明白，但这些是你在自己平台上制定的规则。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "This these go against the the rules on your platform. That's why I'm asking you. If you had if you said, \"Listen, we allow everything.\" But that's not what your content rules say. And that's why I'm asking you, why are they still there? The Your own content policy. That's why I'm asking you that, not Which part of our content policy says that we have we should delete these these these things? Your content policy talks about hate speech.",
+      "textZh": "这这些违反了你平台上的规则。所以我才问你。如果你——如果你说：“听着，我们允许一切内容。”但你的内容规则不是这么写的。所以我才问你，为什么它们还在那里？你自己的内容政策。所以我才问你这个，而不是——我们内容政策的哪一部分规定了我们应该删除这这些这些东西？你们的内容政策谈到了仇恨言论。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "Yes, we don't promote hate speech hate speech. And so you don't consider that hate speech? I guess you're not understanding what I'm saying. This this this if if if there's you can find like you can sign up right now and and and do a hundred things that are hateful. Um but if nobody reads it, it doesn't matter. So, You you you can think of X as being it's much like the internet.",
+      "textZh": "是的，我们不推广仇恨言论——仇恨言论。所以你不认为那是仇恨言论？我想你没有理解我说的话。这这这——如如果如果有——你可以找到，比如你现在就可以注册，然后然后然后做100件充满仇恨的事。嗯，但如果没人看，就无所谓。所以，你你你可以把X看作——它很像互联网。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "It's not some ti- it's some tiny publication with like 20 articles today. It's 500 million But everyone has the opportunity to read it, Elon. I think you don't have the opportunity to read the internet. Are you saying that you're suggesting we should shut down the internet? No, but but you don't own the internet. I'm asking you about you and your responsibility on your platform. And I I so I see how you feel now. You don't agree.",
+      "textZh": "它不是什么小——它不是什么每天只有大约20篇文章的小刊物。它有5亿——但每个人都有机会读到它，埃隆。我认为你没有机会读完整个互联网。你是说——你是在建议我们应该关闭互联网吗？不是，但但你并不拥有互联网。我问的是你，以及你对自己平台负有的责任。而我我——所以我现在明白你的看法了。你不同意。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "We don't agree on this. Yes, you want censorship and I don't. No, I don't want censorship at all. You do. No, I want responsibility. I think there's I think there You desperately want censorship. No, if I want to censorship so bad you can taste it. No, that's not true. It's not true. I think that there's right and wrong. And I think that you want censorship.",
+      "textZh": "我们在这件事上意见不一致。是的，你想要审查，而我不想。不，我根本不想要审查。你想。不，我想要的是责任。我认为存在——我认为存在——你极度渴望审查。不，如果我想要——你对审查渴望得都能尝到味道了。不，那不是真的。不是真的。我认为事情有对错之分。而我认为你想要审查。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "And I and I think that when you have a platform that's as big as yours and as powerful as yours and as influential as yours and you are a person who of consequence to the world with what you do, that there is a certain responsibility that goes along with what you have on your platform and what you put out to the world. And I I think that's important. You don't see that responsibility.",
+      "textZh": "而我——而我认为，当你拥有一个像你的平台这么庞大、这么强大、这么有影响力的平台，而且你所做的事情让你成为一个对世界举足轻重的人，那么对于你的平台上有什么内容，以及你向世界发布什么内容，你就负有相应的某种责任。而我我认为这很重要。你看不到这种责任。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "Um I think the we have a responsibility to uh adhere to the law. Um and if people want the law changed, they should talk to the elector talk to their elected representative and get the law changed and then we will adhere to the law. Okay. But if you want us to go beyond the law, that is that is us deciding to be censors. So And I'm against censorship. I'm I'm in favor of freedom of speech. Yeah.",
+      "textZh": "嗯，我认为我们有责任，呃，遵守法律。嗯，如果人们想修改法律，他们应该去找选民——找他们选出的代表谈，让法律得到修改，然后我们会遵守法律。好。但如果你希望我们超越法律，那就是——那就是让我们自行决定充当审查者。所以——而我反对审查。我我支持言论自由。是的。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "And freedom of speech only is relevant when people you don't like say things you don't like. Otherwise, it has no meaning. But I I do think that there are there should be guardrails. And I believe in free speech as much as you. I would fight I don't I don't disagree. I don't agree with um a lot of what you put out on social media, but I will fight for your right to be able to say it. Great. Yeah. Okay.",
+      "textZh": "而且，只有当你不喜欢的人说出你不喜欢的话时，言论自由才有意义。否则，它就毫无意义。但我我确实认为应该有——应该有护栏。而且我和你一样相信言论自由。我会为此而战——我并不——我并不同意。我不同意，嗯，你在社交媒体上发布的很多内容，但我会为你说出这些话的权利而斗争。很好。是的。好。"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "So, listen, let's talk about diversity, equity, and inclusion, all right? That's been a target of yours lately on X. You uh on There was a repost of Ben Shapiro that you claim that DEI is killing people. Specifically, you point to medicine. You claim that DEI programs are putting people at a risk. Do you really believe this to be true? And what evidence do you have to support it?",
+      "textZh": "所以，听着，我们来谈谈多元、公平与包容，好吗？最近这一直是你在X上抨击的目标。你，呃，在——你转发了本·夏皮罗的一则帖子，声称DEI正在害死人。具体来说，你指的是医疗领域。你声称DEI项目正在使人们面临风险。你真的认为这是真的吗？你有什么证据支持这一说法？"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "Um what I was referring to there was that if uh if we lower the standards for doctors, uh such so that they you know, you if if the test for a doctor is lowered, uh that then the probability of them making a mistake and killing someone is obviously going to be higher. Wait, say that again. I am not sure I understand what you said. I want to make sure I understand what you're saying.",
+      "textZh": "嗯，我当时指的是，如果，呃，如果我们降低对医生的标准，呃，以至于他们——你知道，你——如如果医生考试的标准降低了，呃，那么他们犯错并导致某人死亡的概率显然会更高。等等，再说一遍。我不确定我听懂了你说的话。我想确保自己明白你在说什么。"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "I should Yes, if if these if the standards for passing medical exams and becoming a doctor or or especially if it's something like a surgeon, if the standards are lowered, uh uh then the probability that the surgeon will make a mistake is higher. They're making mistakes in their exam, they they may make mistakes with people, and that may result in people dying. What evidence do you have though that they're lowering the standards?",
+      "textZh": "我应该——是的，如如果这些——如果通过医学考试和成为医生的标准降低了，或或者尤其是外科医生之类的职业，如果标准降低了，呃呃，那么外科医生犯错的概率就会更高。他们在考试中会犯错，他们他们也可能在给人治疗时犯错，而这可能导致人们死亡。但你有什么证据表明他们正在降低标准？"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "There's no evidence of that. I believe there is. There's no evidence of that, Elon. What what is the evidence? I believe they have literally lowered the standards at at Duke University, and that is what the article is referring to. There's no evidence There's no evidence There's no evidence about lowering standards, and I think that there is I believe that is a false statement you're making. Okay, well, we'll we'll figure it out. Yeah.",
+      "textZh": "没有这方面的证据。我相信有。没有这方面的证据，埃隆。证证据是什么？我相信杜克大学确实降低了标准，而那篇文章说的就是这件事。没有证据——没有证据——没有关于降低标准的证据，而我认为存在——我认为你说的是一项错误陈述。好吧，那么，我们我们会弄清楚的。是的。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "I think the interesting thing is when this is posted on the next platform, there will be a whole bunch of things that rebut what you said and what what I said, and so people can then make their own decision based on the replies, the rebuttals, and the community notes.",
+      "textZh": "我认为有意思的是，当这段内容发布到下一个平台上时，会有一大堆内容反驳你说的话和我我说的话，这样人们就可以根据回复、反驳和社区注释自行作出判断。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "I think that's fair, but I do think that on this particular topic, I do think that you and Ben Shapiro are reaching in about this because there was a what What Ben posted said that people were He gave instances of people who were deliberately harming people. Nowhere in the thread does Ben suggest at all, I should say, that anyone is being killed as a a result of DEI. Um that's purely speculative.",
+      "textZh": "我认为这很公平，但我确实认为，在这个特定话题上，我确实认为你和本·夏皮罗在这件事上有些牵强，因为有一个——什——本发布的内容说人们——他举了一些有人故意伤害他人的例子。整条帖子中，本完全没有表示——我应该说——任何人正因DEI而被害死。嗯，那纯粹是推测。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "There's research on DEI and medicine, and there's no evidence that standards are being lowered, that DEI's affecting medicine. Actually, like only 5% of doctors are black, and a small percent Yeah, I think you'll find that when this is posted to the X platform, that people will reply to it with evidence. Maybe I'm wrong, let's see. Okay. So, but That's my whole thing about moderation. Maybe you're wrong, but you'll put it out there.",
+      "textZh": "有关于DEI与医疗的研究，但没有证据表明标准正在降低，也没有证据表明DEI正在影响医疗。事实上，比如只有5%的医生是黑人，还有一小部分——是的，我认为你会发现，当这段内容发布到X平台后，人们会用证据回复它。也许我错了，让我们看看。好。所以，但是——这就是我关于内容审核的全部观点。也许你错了，但你会把它发布出去。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "You don't know if it's right. Do you think that you have a responsibility to make sure something is right before you, the person who owns it, Elon Musk, who is a huge figure in the world, that you should know that it's true, that some of there are people that X who can get research for you before you put something out there like that. That's not necessarily true, even in other examples.",
+      "textZh": "你不知道它是否正确。你认为自己是否有责任在发布某件事之前确保它是正确的？你，这个平台的拥有者，埃隆·马斯克，一个在世界上举足轻重的人物，你应该知道它是真的，X有些人可以在你发布那样的内容之前为你进行调查。那并不一定是真的，即使在其他例子中也是如此。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "Um if I say something that uh is inaccurate, I'm immediately corrected on the platform. That's the advantage of real-time uh system like X. So, there'll be immediately in the replies correct people correcting me. There'll be community note that will correct me, um which is attached to the actual post itself. as many people will read the Yes. Do you think as many people read that as it reads your tweet?",
+      "textZh": "嗯，如果我说了不准确的话，我会立即在平台上得到纠正。这就是像X这样的实时，呃，系统的优势。所以，回复中会立刻有——有纠正的人纠正我。还会有社区注释纠正我，嗯，它会附在原帖本身上。同样多的人会读到——是的。你认为读到它的人会和读到你的推文的人一样多吗？"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "Yes, in fact and if if there's a community note that happens uh later that where somebody didn't see, but they replied to that uh or interacted with that post, we will notify them that there's now a community note correcting that post. Mhm. Just so you Whereas if you consider the conventional media, that doesn't happen. Conventional media makes false statements all the time with no and nobody ever hears the correction.",
+      "textZh": "是的，事实上，如果如果之后才出现社区注释，而有人当时没有看到，但他们回复了那条，呃，帖子或与那条帖子互动过，我们会通知他们，现在已经有一条社区注释对那条帖子进行了纠正。嗯。只是让你——而如果你考虑传统媒体，那里不会发生这种事。传统媒体总是在作出虚假陈述，却没有——也从来没人听说过更正。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "When I was in conventional media, I can only speak for myself. If I got something wrong, if someone got something wrong on the platform that that I was on, it was corrected and we made sure that it was corrected. Now, I can't speak for anyone else. That's I think I don't think that's a universal situation. Okay.",
+      "textZh": "我在传统媒体工作时，我只能代表自己说。如果我弄错了什么，如果我所在平台上的某个人弄错了什么，都会得到更正，而且我们会确保它得到更正。至于其他人，我无法代言。那是——我认为——我不认为那是一种普遍情况。好。"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "So, I just want just the research that you're talking Do you believe that people are dying because medical standards DEI is causing medical standards to be lowered? Do you actually believe people are dying because of that? I I believe that it uh if if we if we lower the standards for what it takes to become a doctor You're saying if we lower the standards, but do you believe people are dying because the standards are being lowered?",
+      "textZh": "所以，我只是想问你所说的那项研究。你是否认为有人正在因为医疗标准而死亡，DEI 正在导致医疗标准降低？你真的认为有人正因此而死亡吗？我、我认为，如果、如果我们、如果我们降低成为医生所需达到的标准——你说的是如果我们降低标准，但你是否认为有人正因为标准被降低而死亡？"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "I I don't I have to ask that is yes an issue, but it could become an issue. Okay. But the actual evidence and history shows the exact opposite if you look at how minorities were treated by the medical system. Oh, most doctors most doctors now are white. And there are lots of mistakes in medicine. So, you're saying that my doctors are have bad medical care?",
+      "textZh": "我、我不——我得问清楚，那确实是一个问题，但它可能会成为一个问题。好的。但如果你看看少数族裔受到医疗体系怎样的对待，实际证据和历史表明的恰恰相反。哦，大多数医生、大多数医生现在都是白人。而医疗领域存在很多失误。所以，你是说我的医生提供的医疗服务很差吗？"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "I'm trying to understand your logic here when it comes to DEI because there's no actual evidence of what you're saying. No, I I said So, if the standards like if like let's say uh I think that particular thing was referring to surgeons. Let's say a surgeon is is asked to a a surgeon in training is asked to do a a series of operations under the supervision of a senior surgeon, and they get a bunch of those operations wrong.",
+      "textZh": "在 DEI 这个问题上，我正试图理解你的逻辑，因为你所说的事情没有实际证据。不，我、我说的是——所以，如果标准，比如、比如说，呃，我认为那件具体的事情指的是外科医生。假设一名外科医生——一名受训中的外科医生被要求在一名资深外科医生的监督下做一、一系列手术，而其中很多手术他们都做错了。"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "If if if if that happens, and yet they are still approved to be a surgeon, the probability that someone will die, I think, at some point is high. Okay, I understand that, but that's a hypothetical. That doesn't mean it's happening. I didn't say it was I it's happening. You You didn't say it was happening. I said I said it will. You I said if if if if we lower standards, people will people will die.",
+      "textZh": "如果、如果、如果、如果发生这种情况，可他们仍然获准成为外科医生，我认为在某个时候有人死亡的概率就很高。好的，我明白，但那是假设。这并不意味着它正在发生。我没说它——我——它正在发生。你、你没说它正在发生。我说了、我说它会发生。你——我说的是，如果、如果、如果、如果我们降低标准，人们会、人们会死亡。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "But why respond to something or put something out there that has not happened? Because I could say, you know Because I don't want it to happen. I think we don't want to lower standards. Okay, if you look at the history of the medical industry, um especially when it comes to black Americans, it shows us the exact opposite. If you look at the Tuskegee experiment and all of that, only 5% of doctors are in America are black. All of them are white.",
+      "textZh": "但为什么要回应某件尚未发生的事，或者把这种说法放出来？因为我可以说，你知道——因为我不希望它发生。我认为我们不想降低标准。好的，如果你看看医疗行业的历史，嗯，尤其是涉及美国黑人时，它向我们表明的恰恰相反。如果你看看塔斯基吉实验以及所有那些事情，美国只有 5% 的医生是黑人。他们全都是白人。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "So, are you saying that if the majority of doctors are white, are you saying that D and there are still these inequities, right? And there is and people still there's still mistakes, are you blaming DEI for that?",
+      "textZh": "所以，你是说，如果大多数医生都是白人，你是说 D——而且仍然存在这些不平等，对吧？而且确实存在，人们仍然——仍然会有失误，你要把那归咎于 DEI 吗？"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "No, I'm I'm very very basically saying that if we lower standards uh for what it takes to become uh a board certified surgeon uh or you know, oncologist or something where that are where the the kind of disease we're talking about, if you make a mistake, causes someone to die, then there more people will die than if we don't lower the standards. Therefore, we should not lower the standards.",
+      "textZh": "不，我我非常非常基本上是在说，如果我们降低成为，呃，经专科委员会认证的外科医生，呃，或者你知道，肿瘤科医生之类的职业所需的标准，而对于我们谈论的那种疾病，如果你犯了错误，就会导致有人死亡，那么相比不降低标准，会有更多人死亡。因此，我们不应该降低标准。"
+    },
+    {
+      "id": "p-0115",
+      "textEn": "do you think they're lowering the standards for minority doctors or women doctors or That's what the the article That's what that article suggested, yes. At the At Duke University. Okay. The evidence that I have shows that that's not true. So, listen, after the door blew off this mid-flight in this Alaskan Airlines flight, do you remember that?",
+      "textZh": "你认为他们正在降低对少数族裔医生或女性医生的标准，还是——那就是那篇文章，那就是那篇文章所暗示的，是的。在，在杜克大学。好吧。我掌握的证据表明事实并非如此。那么，听着，在这架阿拉斯加航空公司的航班飞行途中舱门脱落之后，你还记得吗？"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "You responded a post claiming that the average HBCU grad was less intelligent than the average airline pilot and stated that it will take an airline crashing, an airplane crashing and killing hundreds of people for them to change this crazy policy of DIE. I don't know if you Did you misspell it on purpose? Which should be DEI. Do you believe that women and minority pilots are inherently less intelligent and less skilled than white male pilots?",
+      "textZh": "你回应了一篇帖子，那篇帖子声称，HBCU 毕业生的平均智力低于航空公司飞行员的平均水平；你还表示，必须等到有航空公司坠机、有飞机坠毁并导致数百人死亡，他们才会改变这项疯狂的 DIE 政策。我不知道你是不是故意拼错的？应该是 DEI。你是否认为，女性和少数族裔飞行员天生就不如白人男性飞行员聪明、技能也更差？"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "No, I'm just saying that we should not lower the standards for them. Okay. But there's no evidence that standards are being lowered when it comes to the airline industry. You've repeatedly said that there's no evidence that standards are being lowered and watch the replies showing all the evidence that it is. Replies though on social media or on Twitter are not necessarily fact and evidence. That's people's opinions. cite.",
+      "textZh": "不，我只是说我们不应该为他们降低标准。好吧。但没有证据表明航空业正在降低标准。你一再说没有证据表明标准正在降低，去看看回复，里面展示了所有证明标准确实正在降低的证据。不过，社交媒体或 Twitter 上的回复未必是事实和证据。那是人们的观点。引用。"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "Okay, all the The replies In the replies to this you will see how often the this the information cited showing that indeed there are significant cases where standards are lowered. And I do hope that happens. I do hope that happens and and I look forward to it. As you said, if you're wrong, then you're wrong and if I'm wrong, then I'm wrong. Okay, so let's So, I'm glad we're having this conversation and debate.",
+      "textZh": "好吧，所有那些——回复。在这条内容的回复中，你会看到有多少这类被引用的信息表明确实存在大量降低标准的案例。而且我确实希望那会发生。我确实希望那会发生，而且而且我很期待。正如你所说，如果你错了，那你就是错了；如果我错了，那我就是错了。好吧，所以让我们——所以，我很高兴我们正在进行这场对话和辩论。"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "This is what you should we should be doing, debating the issue. So, if I'm wrong, then I'm wrong and then they'll be proven in the thing and you as well. But I just want to tell you that that pilot that you talked about in fact was a woman pilot, landed the plane safe safely despite the major found malfunction with the equipment. Boeing has taken responsibility for that incident saying that it was caused by a faulty door panel.",
+      "textZh": "这就是你应该、我们应该做的，辩论这个问题。所以，如果我错了，那我就是错了，然后这会在这件事中得到证明，你也一样。但我只想告诉你，你谈到的那名飞行员事实上是一名女性飞行员，尽管设备存在已发现的重大故障，她还是安全、安全地让飞机着陆了。波音已为那起事件承担责任，称事件是由一块有缺陷的舱门板造成的。"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "So, I'm not sure what that had to do with lowering the standards for pilots when it was a faulty lowering standards for pilots. It's It's the the incentive structure I I believe at Boeing changed to uh, include DEI as uh, as as a fundamental executive incentive. Um, so but I In my view, it should be purely about passenger safety.",
+      "textZh": "所以，我不确定那与降低飞行员标准有什么关系，因为那是有缺陷的——降低飞行员标准。是，是激励结构，我我认为波音的激励结构发生了变化，呃，把 DEI 纳入，呃，作为作为一项根本性的高管激励因素。嗯，所以，但我——在我看来，一切应该纯粹以乘客安全为中心。"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "Okay, but do you understand how by saying just that standards are being lowered and that you're implying that they're being lowered because people are less skilled and less intelligent and you're talking about people of color and or women? Uh, I Look, I'm I'm saying we should not lower standards. But do you you don't That's it. I think everyone can agree that you can't you shouldn't lower standards.",
+      "textZh": "好吧，但你是否明白，仅仅说标准正在降低，就意味着你在暗示，之所以降低标准，是因为人们技能更差、智力更低，而你谈论的是有色人种和／或女性？呃，我——听着，我我说的是我们不应该降低标准。但你是否——你不——就这样。我认为每个人都能同意，你不能、你不应该降低标准。"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "Great, that's what But you're implying that they're lowering standards because of people of color or women because someone is not a white male. You're saying that they're less skilled and less intelligent. That's what you're saying. not saying that. I'm simply saying that they are Then why would they be lowering the standards? I don't know. Why are they lowering the standards? Just so you know, 5% of pilots are female, 4% are black.",
+      "textZh": "很好，那就是——但你是在暗示，他们因为有色人种或女性，因为某人不是白人男性，就降低了标准。你是在说他们技能更差、智力更低。你说的就是这个。并不是这么说的。我只是说他们是——那他们为什么会降低标准？我不知道。他们为什么要降低标准？告诉你一下，飞行员中5%是女性，4%是黑人。"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "So you're you know, you're talking about this widespread takeover of minorities and women when that's not actually true. I'm not saying there's a widespread takeover. Well, you're saying that the standards are being lowered because of certain people. Um, and you how do you you don't believe in DEI, right? Do you not believe in diversity, equity, and inclusion?",
+      "textZh": "所以你，你知道，你说的是少数族裔和女性大规模接管，但这其实并不是真的。我没说存在大规模接管。可你说的是，因为某些人，标准正在降低。嗯，而且你——你怎么看——你不认同DEI，对吧？你不认同多元、公平与包容吗？"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "I think we should be uh, treat people uh, according to their skills uh, and their integrity and that's it. Do you know that studies show Studies show? Yeah. Well, we can look them up. What So, your reaction to studies show and I understand, right? Because I always like to say I always like to point to an exact uh, study, right? Something that is factual.",
+      "textZh": "我认为我们应该，呃，根据人们的技能，呃，以及他们的正直来对待他们，就这些。你知道研究表明——研究表明？对。这个，我们可以查一下。什么——所以，你对“研究表明”的反应——我理解，对吧？因为我总是喜欢说，我总是喜欢指出一项确切的，呃，研究，对吧？一些有事实依据的东西。"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "It's the same thing when you talk about, well, let's see what the replies are on Twitter or on X. Yes, those aren't data. I so I feel the same I feel the same way about that. But this is what studies have shown and people will reply and they'll say that companies with more diversity in and leadership teams have reported higher innovation, race and those in with a lower with lower diversity or low diversity.",
+      "textZh": "这和你说“好吧，让我们看看Twitter或X上的回复是什么”时是一样的。对，那些不是数据。我——所以我对此有同样的感觉，我对此有同样的感觉。但这就是研究显示的情况，人们会回复，他们会说，在——以及领导团队中拥有更多多元化的公司报告了更高的创新、种族，以及那些处于——具有较低、具有较低多元化程度或低多元化程度的公司。"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "And they're better companies and they make more money. This whole idea about DEI, if you go woke or whatever, you go broke, that's not necessarily true. People with diverse leadership teams and diverse workers make more money and more innovative. Um like I said, my view is that the only basis for promoting somebody should be their skills, talents, and uh their integrity, and that's it.",
+      "textZh": "而且它们是更好的公司，也赚更多钱。这整套关于DEI的说法，什么你一旦觉醒就会破产之类的，并不一定是真的。拥有多元化领导团队和多元化员工的人赚的钱更多，也更具创新性。嗯，就像我说的，我的观点是，晋升某人的唯一依据应该是他们的技能、才华，以及，呃，他们的正直，就这些。"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "I want to ask you about there's a there's a federal government EEOC is they are also currently involved in a lawsuit against Tesla that alleges that there's a history of widespread racial harassment against black Tesla employees as well as a pattern of retaliation for speaking out. What do you say to that? Uh well, there's I don't believe that is that is true.",
+      "textZh": "我想问你，有一个——有一个联邦政府的EEOC，他们目前也参与了一起针对Tesla的诉讼，指控Tesla长期普遍存在针对黑人Tesla员工的种族骚扰，以及对发声者进行报复的行为模式。你对此怎么说？呃，这个，我不认为那——那是真的。"
+    },
+    {
+      "id": "p-0128",
+      "textEn": "Um I think we've got a very good uh Like if if you walk around the the the Tesla Fremont plant, I think it's a very good atmosphere. Um in fact, I I practically lived there for 3 years trying to make the production work. Were you aware if you live there Were you aware of such behavior? I never saw it. So, you're saying that this is not true, it's not happening? Well, I mean, there's over 20,000 people.",
+      "textZh": "嗯，我认为我们有一个非常好的，呃——比如，如果你在Tesla弗里蒙特工厂里走一走，我认为那里的氛围非常好。嗯，事实上，为了让生产运转起来，我——我几乎在那里住了3年。如果你住在那里，你是否知道——你是否知道存在这类行为？我从未见过。所以，你是说这不是真的，没有发生？这个，我是说，那里有超过20,000人。"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "So, you say like if there's over 20,000 people in one building, well, is everyone going to be behave properly? No. Did I see any any situations that I thought were improper? I did not. Uh let's talk about trans rights and the the woke mind virus cuz you talk about that a lot. You write about that a lot on the thing. You have been deeply outspoken about the issue of trans rights.",
+      "textZh": "所以，你说，比如一栋楼里有超过20,000人，那么，每个人都会举止得当吗？不会。我有没有看到任何——任何我认为不当的情况？没有。呃，我们来谈谈跨性别者权利和觉醒思想病毒，因为你经常谈论这个。你经常在那个东西上写这个。你一直非常直言不讳地谈论跨性别者权利问题。"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "You posted trans rights you posted that pronouns in bio mean the woke mind virus ate your brain. Do you know what the term woke actually means? Um it's come to mean a lot of things. But what it actually what originally it was meant to mean is just being aware of inequities in society and and being aware of facts and and history. Yeah, I think it's come to be I think I think being aware of inequities in society is fine, of course.",
+      "textZh": "你发过跨性别者权利——你发帖说，个人简介里的代词意味着觉醒思想病毒吃掉了你的大脑。你知道“觉醒”这个词实际是什么意思吗？嗯，它后来有了很多含义。但它实际——它最初的意思，只是意识到社会中的不平等，并且了解事实和——和历史。对，我认为它后来变成了——我认为，我认为意识到社会中的不平等当然没问题。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "Um but uh trying to blame everything uh on on trying to make everything a race issue is uh I think a divisive and corrosive to society. Even as it relates to trans issues, which is what I'm Yeah, great race or, you know, gender or whatever. You think blaming you think that society blames everything on racism now? It blames a lot of things on it and uh Yeah. You think that's unfair? Yeah. Why?",
+      "textZh": "嗯，但是，呃，试图把一切都归咎于——把一切都变成种族问题，呃，我认为会造成社会分裂并腐蚀社会。即使这涉及跨性别问题，而这正是我——对，很棒——种族或者，你知道，性别或别的什么。你认为归咎——你认为社会现在把一切都归咎于种族主义？它把很多事情都归咎于它，而且，呃——对。你认为这不公平？对。为什么？"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "I think I think we should we should we should we should we should uh not not make this a constant uh subject. I mean, it it needs to move on. I think we should just, you know, um treat people like people. You don't agree that there's this country was founded on racism and founded on slavery and and in many ways inequities. Um that still continue on to this day.",
+      "textZh": "我认为，我认为我们应该——我们应该，我们应该，我们应该，我们应该，呃，不要——不要让这成为一个不断被谈论的话题。我的意思是，需要向前看了。我认为我们就应该，你知道，嗯，把人当人看。你不同意这个国家建立在种族主义和奴隶制以及——以及许多方面的不平等之上吗？嗯，这些情况一直延续至今。"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "I think every country uh at at that time and I think even today uh was extremely racist. Um every country um and um obviously a lot uh slavery was present in uh about half this country. Um and not but not was not present in the in the uh north. Uh there was racism for sure. Uh but uh you know, the I I think we we we we want to look to the future rather than the past.",
+      "textZh": "我认为当时每个国家，呃，甚至我认为今天也是，呃，都极其种族主义。嗯，每个国家，嗯，而且，嗯，显然有很多，呃，奴隶制存在于这个国家大约一半的地区。嗯，而且不——但不——并不存在于——在，呃，北方。呃，种族主义当然存在。呃，但是，呃，你知道，我——我认为我们——我们——我们——我们希望着眼于未来，而不是过去。"
+    },
+    {
+      "id": "p-0134",
+      "textEn": "Um and uh instead of engaging in a constant rehashing of the past because in fact if you look at history if you study history broadly everyone was a slave everyone. Yes well not everyone was a slave not everyone was a slave. Okay but We all we all we all all descended from slaves. Yeah well all of us. Yeah it's just a question of when is it was it more recent or less recent that's it right.",
+      "textZh": "嗯，而且，呃，不要不断地翻炒过去，因为事实上，如果你审视历史，如果你广泛研究历史，每个人都当过奴隶，每个人。是的，这个，不是每个人都当过奴隶，不是每个人都当过奴隶。好吧，但是——我们全都，我们全都，我们全都——全都是奴隶的后代。对，这个，我们所有人。对，问题只是在于，它是在更近的时期还是更久以前，就这些，对吧。"
+    },
+    {
+      "id": "p-0135",
+      "textEn": "Um so the But what what future do we want do we want is this something we want to make part of our constant dialogue forever or do we do we want to say like let's just move on and treat everyone uh you know uh according to just who they are as an individual. I agree with you with that that's the ideal. But what the evidence shows is that that's not what's actually in practice. I think we're doing better than anywhere else. That's true.",
+      "textZh": "嗯，所以——但是我们想要什么——我们想要什么样的未来？我们想永远让这件事成为我们持续对话的一部分吗？还是我们——我们想说，就这样向前看吧，并且，呃，你知道，呃，只根据每个人作为个体的本来面目来对待他们。我同意你说的，那是理想状态。但证据显示，实际情况并非如此。我认为我们比其他任何地方都做得好。那是真的。"
+    },
+    {
+      "id": "p-0136",
+      "textEn": "I agree with that but that doesn't mean anything that doesn't mean a lot to a whole lot of people who aren't able to take advantage of the opportunities that you were able to take advantage of simply because of the color of your skin. What what advantage what what advantage does my color of my skin give me? Well there's a certain there's an ease that you have in society that you that many people of color don't.",
+      "textZh": "我同意，但那并不意味着什么——对于很多很多无法利用你所能利用的机会的人来说，那并没有太大意义，而这仅仅是因为你的肤色。什么——什么优势——我的肤色给了我什么——什么优势？这个，你在社会中享有某种便利，而许多有色人种并不享有这种便利。"
+    },
+    {
+      "id": "p-0137",
+      "textEn": "You were able to come to this country voluntarily there are many people who were not able to come to the country voluntarily there are people who came here as a slave. to come here. And there is a legacy of slavery that still continues on there's a legacy of racism that still continues on in this country that's and that's undeniable. Well if if if we keep talking about it non-stop it will never go away.",
+      "textZh": "你能够自愿来到这个国家，有很多人无法自愿来到这个国家，有些人是作为奴隶来到这里的。来到这里。而奴隶制的遗留影响仍在延续，种族主义的遗留影响在这个国家也仍在延续，那是——而且那是不可否认的。这个，如果——如果——如果我们不停地谈论它，它就永远不会消失。"
+    },
+    {
+      "id": "p-0138",
+      "textEn": "If we keep making that the central thing it will never go away. Well why do you believe that? I think I'm speaking a simple statement of fact. Um so I think I think we want to get away from making everything a race or a gender or whatever issue. Just treat people like individuals. Do you have any desire to understand what many people of color and even trans people, um, how they feel about this country and how they're treated in this country.",
+      "textZh": "如果我们一直把它当作核心议题，它就永远不会消失。这个，你为什么这样认为？我认为我说的只是一个简单的事实陈述。嗯，所以我认为，我认为我们希望摆脱把一切都变成种族、性别或其他什么问题。只把人当作个体对待。你是否有任何意愿去了解许多有色人种，甚至跨性别者，嗯，他们对这个国家有何感受，以及他们在这个国家受到怎样的对待。"
+    },
+    {
+      "id": "p-0139",
+      "textEn": "If they if they say and they believe that they are treated a certain way in this country, why don't you believe them? You you can't have a situation where where someone is is a self-described victim and and that you and they just get to be that because that's how they feel. I think that that does happen in some cases, but not all cases. And I think that not understanding the history of the country, I think is, um, is a a real shame.",
+      "textZh": "如果他们，如果他们说，并且他们相信自己在这个国家受到了某种对待，你为什么不相信他们？你，你不能让一种情况出现，就是，就是某人自称是受害者，而，而你，他们仅仅因为自己有这种感受，就可以成为受害者。我认为这种情况在某些案例中确实会发生，但并非所有案例都是如此。而且我认为，不了解这个国家的历史，我认为，嗯，是一件，一件真正令人遗憾的事。"
+    },
+    {
+      "id": "p-0140",
+      "textEn": "Look, I've had an incredible opportunity and other countries. I've had incredible opportunities as a person of color. Right, but I've also been discriminated against and I know that I have. And I know that that's real. And for someone to say that that isn't happening and I should not I should just move forward and not think about that and ignore the past is insulting. I'm not saying it Don, you keep putting words in my mouth.",
+      "textZh": "听着，我获得过一个极好的机会，以及其他国家。作为一名有色人种，我获得过极好的机会。对，但我也受到过歧视，我知道自己受过歧视。而且我知道那是真实的。有人说这种事并没有发生，说我不应该，我应该只管向前走，不去想它，忽略过去，这是对人的侮辱。我没这么说，唐，你一直在把话塞进我嘴里。"
+    },
+    {
+      "id": "p-0141",
+      "textEn": "I'm not saying it I didn't say that you said it. I'm saying that we want to we we as a we as a country should move beyond questions of of race and gender and we should treat people like individuals and and base our opinions on them on the you know, uh, their their, uh, their their their character and their skills. I don't think that anyone will disagree with that. Exactly.",
+      "textZh": "我没这么说。我没说你说过。我是说，我们想要，我们，我们作为一个，我们作为一个国家，应该超越种族和性别问题，我们应该把人当作个体来对待，并且，并且根据他们的，你知道，呃，他们的，他们的，呃，他们的、他们的、他们的品格和技能来形成对他们的看法。我认为没有人会反对这一点。正是如此。"
+    },
+    {
+      "id": "p-0142",
+      "textEn": "All I'm saying is that that's not happening and it's not equal for everyone. That those opportunities don't happen for everyone and I am a living example that they don't. I know that they don't because I live it. You've been incredibly successful. I have been and in spite of it all, but I but I am I know what I know. I've experienced what I've experienced.",
+      "textZh": "我只是说，事实并非如此，而且对每个人并不平等。那些机会并不会出现在每个人身上，而我就是它们不会出现的活生生的例子。我知道它们不会，因为这就是我的亲身经历。你已经取得了难以置信的成功。我确实成功了，而且是在这一切阻碍之下，但我，但我是，我知道我所知道的。我经历过我所经历的。"
+    },
+    {
+      "id": "p-0143",
+      "textEn": "You haven't done that and I cannot, um, I don't know what it's like to be from South Africa. I don't know what it's like to be a white man. I don't know what it's like to be a woman. I don't know what it's like to be a Latino person. I don't know that, so I wouldn't speak for them and just say, \"You need to move on.\" That's not for me to say. I Maybe I believe that the country it would be great if the country could live up to that ideal.",
+      "textZh": "你没有经历过那些，而我不能，嗯，我不知道来自南非是什么感受。我不知道身为白人男性是什么感受。我不知道身为女性是什么感受。我不知道身为拉丁裔是什么感受。我不知道，所以我不会替他们说话，只是说：“你需要向前看。”这话不该由我来说。我，也许我相信这个国家，如果这个国家能够实现那个理想，那会很棒。"
+    },
+    {
+      "id": "p-0144",
+      "textEn": "You think that everyone has the same opportunities in America regardless of their background and ethnicity? Do you agree you No, I don't think everyone has the same opportunities. Okay. So, um when you talk about Let's talk about trans rights. When you decided to um to talk about the the trans rights movement, um you said that it was a woke mind virus. Why do you believe the trans rights movement is a woke mind virus?",
+      "textZh": "你认为在美国，无论背景和族裔如何，每个人都拥有同样的机会吗？你同意，你……不，我不认为每个人都拥有同样的机会。好。那么，嗯，说到……我们来谈谈跨性别者权利。你决定，嗯，谈论跨性别者权利运动时，嗯，你说它是一种觉醒思想病毒。你为什么认为跨性别者权利运动是一种觉醒思想病毒？"
+    },
+    {
+      "id": "p-0145",
+      "textEn": "What do you mean by woke mind virus? Woke mind virus is um when you you stop caring about uh people's skills um and their integrity and you start focusing instead on gender and race and other things that are different from that. Um I think uh the woke mind virus is fundamentally racist, fundamentally sexist, and fundamentally evil. Okay. And we've got a little bit more time, so you choose your questions carefully.",
+      "textZh": "你说的觉醒思想病毒是什么意思？觉醒思想病毒就是，嗯，当你，你不再关心，呃，人们的技能，嗯，以及他们的诚信，转而开始关注性别、种族和其他与之不同的事情。嗯，我认为，呃，觉醒思想病毒从根本上说是种族主义的，从根本上说是性别歧视的，而且从根本上说是邪恶的。好。我们还剩一点时间，所以请谨慎选择你的问题。"
+    },
+    {
+      "id": "p-0146",
+      "textEn": "Okay, so Okay, thank you for that, but I I would appreciate you answering these. I think it's important that we're doing this. I think it's important to the to world the world to hear this especially what's going on in our country. Uh the reason I ask you Listen, there are a whole lot of things that people may be uh have questions about when it comes to transgender people.",
+      "textZh": "好，那么，好，谢谢你的回答，但我，我希望你能回答这些问题。我认为我们进行这次交流很重要。我认为让，让世界，世界听到这些很重要，尤其是考虑到我们国家正在发生的事情。呃，我之所以问你……听着，涉及跨性别者时，人们可能会，呃，有很多很多问题。"
+    },
+    {
+      "id": "p-0147",
+      "textEn": "Even people who are part of the LGBTQ plus community have have questions about that. But if you are a free speech absolutist, right? Um and that is part of the First Amendment. Also, the freedom of expression falls under that First Amendment as well. So, why can't people choose to identify with the gender that they feel comfortable with or with a use a pronoun. Isn't that part of freedom of expression?",
+      "textZh": "即使是 LGBTQ+ 群体的成员，也会，会对此有疑问。但如果你是一个言论自由绝对主义者，对吧？嗯，而那是第一修正案的一部分。表达自由同样也属于第一修正案的范畴。那么，为什么人们不能选择认同自己感到自在的性别，或者使用某个代词？那难道不是表达自由的一部分吗？"
+    },
+    {
+      "id": "p-0148",
+      "textEn": "Uh I guess though that they can they can ask others to whatever they feel they can they can ask others to do anything. What it it's a difficult question whether they whether they mandate that others do it. Okay. Okay. Let's Let's talk a little more about free speech and for advertisers, right? Because all this controversy, I believe as you know, has made X less appealing to advertisers. About half of them have left the platform.",
+      "textZh": "呃，不过我想他们可以，他们可以要求别人，无论他们有什么感受，他们都可以，他们可以要求别人做任何事。真正，这个问题很难，即他们是否，他们是否强制要求别人这样做。好。好。我们来再多谈一点言论自由和广告商，对吧？因为所有这些争议，我相信如你所知，已经让 X 对广告商的吸引力下降了。大约一半的广告商已经离开了这个平台。"
+    },
+    {
+      "id": "p-0149",
+      "textEn": "You called advertisers that left x. com. You said they were oppressors. You've even gone as far as saying it publicly that they can go F themselves or go [ __ ] themselves. Advertisers if they're if they're going to force censorship on the on the company before advertising, then uh obviously I find that unacceptable. You find it unacceptable. Why is that not a form of of free speech? They are free to advertise where they want.",
+      "textZh": "你把离开 x.com 的广告商称为压迫者。你甚至公开说，他们可以去操他们自己，或者去［ __ ］他们自己。广告商，如果他们，如果他们要在投放广告之前强迫这家公司审查，审查内容，那么，呃，显然我认为那不可接受。你认为那不可接受。为什么那不属于一种，一种言论自由？他们可以自由选择在哪里投放广告。"
+    },
+    {
+      "id": "p-0150",
+      "textEn": "They're not beholden to They're not obligated to advertise obligated to x. com. Right. So, how is that not free speech? They They That's whereas the other platforms will censor on behalf of of advertisers, the X platform will not. Okay. So, but you think it's You don't think it's okay for them not to advertise with or have their content or their advertisement next to something that is anti-Semitic or That is a different question.",
+      "textZh": "他们不受制于……他们没有义务投放广告，没有义务在 x.com 投放广告。对吧。那么，这怎么会不是言论自由？他们，他们，那是……其他平台会代表，代表广告商进行审查，而 X 平台不会。好。那么，但你认为……你不认为他们不投放广告，或者不让自己的内容或广告出现在反犹内容旁边，或者……这就是另一个问题了。"
+    },
+    {
+      "id": "p-0151",
+      "textEn": "Uh You We We There's There's You can absolutely choose where next to which content do you want to have advertising to appear. Absolutely, of course. And we do We have, I think, very good ad placement controls in this regard. Yeah. So, you said if they kill the company, it's them. But doesn't the buck stop with you? I mean, you're on it. I have to say I Choose your question carefully. There's 5 minutes left.",
+      "textZh": "呃，你，我们，我们，这里，这里……你当然可以选择希望广告出现在哪些内容旁边。当然可以，当然。我们确实，我们有，我认为，在这方面非常好的广告展示位置控制功能。是的。所以，你说如果他们扼杀了这家公司，那是他们造成的。但责任最终不在你身上吗？我是说，你负责它。我不得不说，我……谨慎选择你的问题。还剩 5 分钟。"
+    },
+    {
+      "id": "p-0152",
+      "textEn": "Okay, but so Is this the question you want to ask? The same question is you said you said that they are killing the company, but you're the head of the company. The buck stops with you. I acquired X in order to preserve freedom of speech in America, the First Amendment. And I'm going to stick to that. And if that means making less money, so be it. So I have to be Listen, I I'm just being honest, right? I'm not trying to like get you or anything.",
+      "textZh": "好，但是，那么……这是你想问的问题吗？还是同一个问题：你说，你说他们正在扼杀这家公司，但你是公司的负责人。责任最终在你身上。我收购 X 是为了维护美国的言论自由，也就是第一修正案。而且我会坚持这一点。如果这意味着少赚一些钱，那就这样吧。所以我不得不……听着，我，我只是坦诚直言，对吧？我并不是想要，比如说，给你下套或做什么。"
+    },
+    {
+      "id": "p-0153",
+      "textEn": "I was just surprised that you would blame other people for killing the company. I mean, but you're the I mean, when you say the buck stops with the president of the United States regardless of what happens, right? So I Why would this Why would that question upset You seem upset by it. Are you? I think you're And I'm not trying to upset you. Well, you are upsetting me because the way you're phrasing questions, I think is is not cogent.",
+      "textZh": "我只是很惊讶，你会把扼杀公司的责任归咎于其他人。我是说，但你是那个……我是说，不管发生什么，人们都说责任最终在美国总统身上，对吧？所以我……为什么这个……为什么那个问题让你不高兴？你看起来对此感到不高兴。是吗？我觉得你……而且我并不是想让你不高兴。嗯，你确实让我不高兴，因为你提出问题的方式，我认为并不，不合逻辑。"
+    },
+    {
+      "id": "p-0154",
+      "textEn": "Um It's not what? Not cogent. Cogent? Yes. Go ahead. Uh so the if if if if given a choice where an advertiser is saying like you have to censor all this content on the platform irrespective of where their advertising appears, uh then our answer will be like, \"Look, you you you can choose where you want your advertising what you want your advertising to appear next to. You can't insist on censorship of the entire platform.",
+      "textZh": "嗯，不什么？不合逻辑。不合逻辑？是的。继续。呃，所以，如果，如果，如果，如果要在一种情况下作出选择：某个广告商说，比如，你们必须审查平台上的所有这些内容，不管他们的广告出现在哪里，呃，那么我们的回答会是：“听着，你，你，你可以选择希望自己的广告出现在哪里，希望自己的广告出现在什么内容旁边。你不能坚持要求审查整个平台。"
+    },
+    {
+      "id": "p-0155",
+      "textEn": "If you insist on censorship of the entire platform even where your advertising doesn't appear, uh then uh obviously we won't we will not uh want them as an advertiser.\" So what what would you say to advertisers too who have left the platform or who are considering coming back or not coming back? What would you like to say to them? Well, first of all, uh almost all of our advertisers are coming back to the platform.",
+      "textZh": "如果你坚持要求审查整个平台，甚至包括你的广告没有出现的地方，呃，那么，呃，显然我们不会，我们不会，呃，希望他们成为广告商。”那么，对于那些已经离开平台，或者正在考虑回来还是不回来的广告商，你又会说什么？你想对他们说什么？嗯，首先，呃，我们几乎所有的广告商都正在回到这个平台。"
+    },
+    {
+      "id": "p-0156",
+      "textEn": "So it's a very short list of advertisers who are not coming back to the platform. Um and uh our advertising revenue is rising rapidly. Uh and our subscription revenue is rising rapidly and I feel very optimistic about the future of the X platform. Okay. Listen, I'm not I'm honestly, I'm not meaning to offend you. You're an intense person. Where does that intensity come from? I was born that way. And I had a tough childhood. You did? So, yeah.",
+      "textZh": "所以，不会回到这个平台的广告商名单非常短。嗯，而且，呃，我们的广告收入正在迅速增长。呃，我们的订阅收入也在迅速增长，我对 X 平台的未来感到非常乐观。好。听着，我不是……老实说，我无意冒犯你。你是个个性很强烈的人。这种强烈的个性来自哪里？我生来就是这样。而且我的童年很艰难。是吗？所以，是的。"
+    },
+    {
+      "id": "p-0157",
+      "textEn": "How so? All right. Walter Isaacson goes into it in the book and and we only have a couple minutes left. So, All right. Too long to to describe. Uh So, the one or two questions I can do and then we'll have to call it. I Okay. Again, I don't mean to upset you. Why are you You just No, I have a whole room full of people waiting to meet with me. Okay. So, we're just going to go over time. Okay. All right. I understand that.",
+      "textZh": "怎么个艰难法？好吧。沃尔特·艾萨克森在书中详细谈到了这件事，而且，而且我们只剩几分钟了。所以，好吧。要描述的话太长了。呃，那么，我可以再回答 1 个或 2 个问题，然后我们就必须结束了。我……好。再说一次，我不是有意让你不高兴。你为什么……你只是……不，我有整整一屋子的人在等着和我见面。好。所以，我们只是要超时了。好。好吧。我明白。"
+    },
+    {
+      "id": "p-0158",
+      "textEn": "Um so, you when you talk about you said you were born that way. Is that um Did you think that the way that you see the world has to do with your relationship with anyone? Perhaps your your father or someone in in your family? I think we're all affected by the people we we grow up with. My aspiration is to do whatever it takes to extend the extend consciousness into the future. That's my goal.",
+      "textZh": "嗯，所以，你谈到你说你生来就是那样。这是否，嗯，你认为你看待世界的方式与你和某个人的关系有关吗？也许是你的、你的父亲，或你家里的某个人？我认为，我们都会受到与我们一起长大的人的影响。我的志向是竭尽所能，把、把意识延续到未来。那就是我的目标。"
+    },
+    {
+      "id": "p-0159",
+      "textEn": "Um to make life multi-planetary as part of extending conscious consciousness into the future. Has this has Have the past few years and considering everything that's gone on, has it been difficult for you and your family life? It's been okay. So, then how do you see your legacy?",
+      "textZh": "嗯，让生命遍布多个星球，是把意、意识延续到未来的一部分。这是否，这些过去几年，考虑到发生的一切，对你和你的家庭生活来说困难吗？还好。那么，你如何看待自己留下的传承？"
+    },
+    {
+      "id": "p-0160",
+      "textEn": "Elon, how How do you see How people see you in the First of all, I say that the Um if I died knowing that I that I did what was right or or did my best to do what was right, and even if in the history books they said I did did wrong, I would still feel okay about that. I care about the reality of goodness, not the perception of it. Um I think we should view civilization as tenuous, as fragile.",
+      "textZh": "埃隆，你怎么看……你怎么看……人们怎么看你……首先，我要说的是，嗯，如果我死去时知道我、我做了正确的事，或者尽了最大努力去做正确的事，即使历史书上说我做、做错了，我对此仍会感到坦然。我在乎善的真实存在，而不是人们对它的看法。嗯，我认为我们应该把文明视为不稳定的、脆弱的。"
+    },
+    {
+      "id": "p-0161",
+      "textEn": "Um if you if you do study history broadly, you'll see that there's a rising pool of civilizations that don't always go up. Um so we should do everything we possibly can to preserve and and extend civilization as we know it and improve it. Um become more enlightened over time. And we uh therefore want to address civilizational risks.",
+      "textZh": "嗯，如果你、如果你广泛研究历史，就会看到有一片不断上升的文明池，它们并不总是向上。嗯，所以我们应该尽一切可能，保护并、并延续我们所知的文明，并改善它。嗯，随着时间推移变得更加开明。因此，我们，呃，希望应对文明风险。"
+    },
+    {
+      "id": "p-0162",
+      "textEn": "Uh we want to make sure that uh we don't have for example demographic collapse which is the case in a lot of countries. Uh just very low birth rate. Um we we want to avoid obviously avoid World War anything that is a civilizational risk. That's what I care about, civilizational risks. Um how do we extend consciousness into the future such that we are able to better understand the the nature of reality. That's what I care about.",
+      "textZh": "呃，我们希望确保，呃，不会出现例如人口崩溃，而许多国家正是如此。呃，就是出生率非常低。嗯，我们、我们显然希望避免，避免世界大战，避免任何构成文明风险的事情。那就是我关心的，文明风险。嗯，我们如何将意识延续到未来，使我们能够更好地理解、理解现实的本质。那就是我关心的。"
+    },
+    {
+      "id": "p-0163",
+      "textEn": "That's my motivation. you have to go. If you'll just give me a I'll do a rapid fire thing here. Is if there is there anything that you would change about um anything that you've done in your life in the past or recently? Um I've made many mistakes over the years. If I had a time machine I'd go back and fix them. Uh but I don't have a time machine. Thank you. Thank you. I appreciate it. Thank you so much. So that's it.",
+      "textZh": "那就是我的动力。你得走了。如果你能给我一点时间，我在这里做个快问快答。有没有、有没有任何你会想改变的事情，关于，嗯，你过去或最近人生中做过的任何事情？嗯，这些年来我犯过很多错误。如果我有时间机器，我会回去修正它们。呃，但我没有时间机器。谢谢。谢谢。我很感激。非常感谢。所以就这样。"
+    },
+    {
+      "id": "p-0164",
+      "textEn": "And as Elon would say you be the judge. Let me tell you something about this show. The conversation doesn't end just because the camera stops. We'll see you next time. Thanks for watching. Thanks for watching the Don Lemon show. Click on the image in the top right to subscribe to my channel and the thumbnail in the bottom right to watch more content from my show. I'll see you next time.",
+      "textZh": "而且正如埃隆会说的那样，由你来评判。让我告诉你一些关于这个节目的事。谈话不会仅仅因为摄像机停止拍摄就结束。下次见。感谢观看。感谢收看《唐·莱蒙秀》。点击右上角的图片订阅我的频道，并点击右下角的缩略图，观看我节目中的更多内容。下次见。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T21:08:04.254Z",
+    "reviewedAt": "2026-09-12T22:11:25.486Z"
+  },
+  "fetchedAt": "2026-09-12T07:11:36.181Z",
+  "transcriptSource": "https://www.rev.com/transcripts/elon-musk-interview-with-don-lemon",
+  "sourceHash": "15c4d69764404414a4927ceac7c52c14de1709b80eb2b8cbc33dda0dd06de48b"
+}

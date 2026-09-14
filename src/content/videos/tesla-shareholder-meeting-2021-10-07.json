@@ -1,0 +1,430 @@
+{
+  "id": "tesla-shareholder-meeting-2021-10-07",
+  "slug": "tesla-shareholder-meeting-2021-10-07",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2021-10-07",
+  "titleEn": "Tesla Shareholder Meeting",
+  "titleZh": "Tesla股东大会",
+  "summaryEn": "Musk's company update at Tesla's annual shareholder meeting covering Battery Day, AI Day and the global Gigafactory expansion.",
+  "summaryZh": "马斯克在Tesla年度股东大会上介绍公司最新情况，涵盖电池日、AI日和全球超级工厂扩张。",
+  "sourceUrl": "https://www.youtube.com/watch?v=5axNR8R7XI8",
+  "sourceLabel": "CNET Highlights",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-shareholder-meeting-2021-10-07",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/5axNR8R7XI8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/5axNR8R7XI8/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 1108,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 8.96,
+      "textEn": "Welcome to the annual shareholder meeting, coming to you live from Austin, Texas. So we've had a fantastic year thanks to the great work of the Tesla team.",
+      "textZh": "欢迎参加年度股东大会，我们正在得克萨斯州奥斯汀为你进行现场直播。多亏Tesla团队出色的工作，我们度过了非常精彩的一年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 22.16,
+      "textEn": "I'd just like to start off by just thanking Tesla team for the incredible work over the past year to get where we are. Well done.",
+      "textZh": "首先，我只想感谢Tesla团队过去一年为让我们走到今天所做的令人难以置信的工作。干得好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 37.82,
+      "textEn": "So we have record vehicle deliveries as we've already reported this, but you can see that there's a pretty. I mean, I think this might be the fastest that any large manufactured object has grown. Like, yeah, certainly one of the fastest, perhaps the fastest. And it looks like we have a good chance of maintaining that into the future. Really dependent on supplier challenges. So basically, if we can get the chips, we can do it.",
+      "textZh": "所以，正如我们已经报告的那样，我们的车辆交付量创下了纪录，但你可以看到，这相当。我是说，我认为这可能是任何大型制造物品中增长最快的。对，肯定是最快的之一，也许就是最快的。而且看起来我们很有可能在未来保持这种势头。这实际上取决于供应商方面的挑战。所以基本上，如果我们能拿到芯片，就能做到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 74.71,
+      "textEn": "So hopefully this chip shortage will alleviate soon. But I feel confident of being able to maintain something like this at least above 50% for quite a while.",
+      "textZh": "所以希望芯片短缺很快会得到缓解。但我有信心能在相当长一段时间里将这种水平至少保持在50%以上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 87.76,
+      "textEn": "The Model 3 became the best selling premium vehicle globally, so if any premium vehicle.",
+      "textZh": "Model 3成为了全球最畅销的高端汽车，所以，如果算上任何高端汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 102.64,
+      "textEn": "I almost got arrested at one point for clients claiming that we'd do 5,000 a week. Literally.",
+      "textZh": "我一度差点因为客户声称我们每周会生产5,000辆而被逮捕。真的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 113.7,
+      "textEn": "You're laughing now.",
+      "textZh": "你们现在笑了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 116.34,
+      "textEn": "Anyway, this is great.",
+      "textZh": "不管怎样，这很棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 119.3,
+      "textEn": "We think the Model Y will be the best selling vehicle of any kind globally. So I think it will exceed the Model 3.",
+      "textZh": "我们认为Model Y将成为全球所有类别中最畅销的汽车。所以我认为它会超过Model 3。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 130.67,
+      "textEn": "I think we've got a good chance of it being the best selling vehicle by revenue next year and then I think quite likely to be the best selling vehicle in just of any kind numerically in 23 and 2023. So basically we need OSIN to get online and Berlin to get online and reach volume production and then I think that's going to happen.",
+      "textZh": "我认为它很有可能在明年按营收计算成为最畅销的汽车，然后我认为它很可能会在23和2023年按数量计算成为所有类别中最畅销的汽车。所以基本上，我们需要让OSIN投产，让柏林投产并达到量产，然后我认为这就会发生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 158.36,
+      "textEn": "In terms of free cash flow generation. Obviously we had some tough years back then. Things were looking a little dicey to say the least in 2017 and 2018.",
+      "textZh": "就自由现金流的产生而言。显然，我们那时经历了一些艰难的年份。至少可以说，2017年和2018年的情况看起来有点危险。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 174.44,
+      "textEn": "Don't want to go back there again, but we got through that and now things are looking really good. So I think we'll see continued strong cash flow generation and especially as you multiply unit volume times autonomy and increased efficiency in the factories.",
+      "textZh": "不想再回到那种境地，但我们挺过来了，现在情况看起来真的很好。所以我认为，我们会继续产生强劲的现金流，尤其是当你将单位产量乘以自动驾驶，再乘以工厂效率的提升时。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 199.01,
+      "textEn": "Because I think over time you'll see all manufacturers will make electric vehicles and eventually all manufacturers will make autonomous vehicles. And I think Tesla's open to licensing Autonomy because I think Autonomy will be such a significant lifesaver and preventer of injuries that it is not a technology we want to keep to ourselves. So I think it will be morally right to license it to other manufacturers if they would like to use it.",
+      "textZh": "因为我认为，随着时间推移，你会看到所有制造商都会生产电动汽车，最终所有制造商都会生产自动驾驶汽车。而且我认为Tesla愿意对外授权自动驾驶技术，因为我认为自动驾驶技术将会极大地挽救生命和防止伤害，所以这不是一种我们想要独占的技术。因此，我认为，如果其他制造商愿意使用，向他们授权这项技术在道德上是正确的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 231.87,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 241.8,
+      "textEn": "And of course we made a lot of progress on, on cost reduction.",
+      "textZh": "当然，我们在，在降低成本方面也取得了很多进展。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 247.88,
+      "textEn": "And so despite our average selling price actually going down significantly, because with the introduction of the Model 3 and Model Y, These were much lower priced cars. We've managed to still do decently well on, on gross margin. So this is, you know, getting the average price down and, and gross margin up is very difficult, but we've managed to, to do that.",
+      "textZh": "所以，尽管我们的平均售价实际上大幅下降，因为随着Model 3和Model Y的推出，这些汽车的价格低得多。我们仍设法在，在毛利率方面取得了相当不错的表现。所以这，你知道，让平均价格下降、而且，而且让毛利率上升是非常困难的，但我们设法，设法做到了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 272.23,
+      "textEn": "So yeah, it's good. Our goal really is to make the cars as affordable as possible. We are seeing significant cost pressure in our supply chain and so we've had to increase vehicle prices at least temporarily, but we do hope to actually reduce the prices over time and make them more affordable. So yeah, unfortunately we've just expedite like, I mean the sheer amount of money we're spending on flying parts around the world is just not great, but hopefully temporary.",
+      "textZh": "所以，是的，情况不错。我们的目标确实是尽可能让汽车价格亲民。我们确实看到供应链面临巨大的成本压力，所以不得不提高车辆价格，至少是暂时提高，但我们确实希望随着时间推移降低价格，让它们变得更亲民。所以，是的，很遗憾，我们只是加急了，比如，我是说，我们花在用飞机把零部件运往世界各地的钱多得惊人，这实在不太好，但希望只是暂时的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 309.11,
+      "textEn": "So. And we need a lot of batteries, hence battery day is what this shirt means. Very obtuse, but we are going to need a lot of batteries. This is going to be a combination of batteries from our suppliers. And in supplier discussions, you know, some of us players have just asked me outright, are we going to just, you know, put them out of business or something? I'm like, not at all. As many sales as you want to make and supply to us at an affordable price, we will buy, no limit.",
+      "textZh": "所以。而且我们需要大量电池，因此“电池日”就是这件衬衫所表达的意思。非常晦涩，但我们将需要大量电池。这将由我们供应商提供的电池组合而成。而在与供应商讨论时，你知道，我们中的一些参与者直接问我，我们是不是要把他们挤垮之类的？我说，完全不是。只要你们想卖并且能以可负担的价格供应给我们，无论多少我们都会买，没有上限。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 339.36,
+      "textEn": "I'm like, oh, okay. So like, do you want to have. Yeah, increase by 100% Sounds good to me.",
+      "textZh": "我就想，哦，好吧。所以，比如，你想不想要。对，增长100%，我觉得不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 347.45,
+      "textEn": "So the basic plan is we're really going to order a lot and we have ordered a lot of batteries from suppliers, basically telling suppliers literally as much as you can make will take.",
+      "textZh": "所以，基本计划是我们确实会订购很多，而且我们已经向供应商订购了大量电池，基本上就是明确告诉供应商，你们能生产多少我们就要多少。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 362.57,
+      "textEn": "And we'll prioritize batteries for vehicles, but then use any excess cells that we have in the powerwall and megapack. Because over time we think the demand for stationary storage is going to be at least as high as the demand for vehicles. So sustainable energy, primarily solar and wind, is intermittent. And so the wind is blow all the time. The sun doesn't shine all the time, obviously. And so you need batteries to buffer that power.",
+      "textZh": "而且我们会优先把电池用于车辆，然后将任何多余的电芯用于 Powerwall 和 Megapack。因为从长远来看，我们认为固定式储能的需求至少会和车辆需求一样高。所以，可持续能源，主要是太阳能和风能，是间歇性的。而且风是一直吹的。显然，太阳不会一直照耀。所以你需要电池来缓冲这些电力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 393.62,
+      "textEn": "So the fundamental pillars of a sustainable energy future are basically solar and wind. Those are the primary stationary batteries and electric transport. And if you have those three, then you have a sustainable energy future as long as the sun is shining. You know, so sometimes people ask me about fusion and I like it as an idea and by the way, I think it's totally doable. But there's a giant fusion reactor in the sky that shows up every morning and zero maintenance.",
+      "textZh": "所以，可持续能源未来的基本支柱，基本上是太阳能和风能。它们是主要的固定式电池和电动交通工具。如果你拥有这3样东西，那么只要太阳还在照耀，你就拥有一个可持续能源的未来。你知道，有时人们会问我核聚变，我喜欢这个想法，顺便说一句，我认为它完全可行。但天空中有一个巨大的聚变反应堆，每天早晨都会出现，而且维护成本为零。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 422.43,
+      "textEn": "So I'm like, sounds like a good deal. You know, catch a little bit of that sunlight and power Earth. A shockingly small amount of land is needed to power Earth. It's like, you know, a couple hundred miles by a couple hundred miles of solar panels will power the entire United States. So it's like, okay, it's not that hard.",
+      "textZh": "所以我就说，听起来很划算。你知道，捕获一点阳光，为地球供能。为地球供能所需的土地少得惊人。比如，你知道，只要铺设一块几百英里乘几百英里的太阳能电池板，就能为整个美国供电。所以，就像，好吧，这并没有那么难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 444.94,
+      "textEn": "And then I believe we calculated you only needed one square mile of batteries. So you may think like, wow, a lot of batteries. One square mile of batteries. It's not that crazy. So anyway, so we've got a plan to reduce the cost per kilowatt hour of batteries. And, and our suppliers, you know, have similar plans. So this is really supplemental to our suppliers. We'll make some cells, they'll make cells, we'll use them all.",
+      "textZh": "然后，我记得我们计算过，只需要1平方英里的电池。所以你可能会想，哇，很多电池。1平方英里的电池。并没有那么夸张。所以，无论如何，我们有一个降低电池每千瓦时成本的计划。而且，而且我们的供应商，你知道，也有类似的计划。所以这其实是对我们供应商的补充。我们会生产一些电芯，他们会生产电芯，我们会全部用掉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 481.93,
+      "textEn": "The fundamental good of Tesla I think is by how many years did we accelerate sustainable energy? This is the fundamental, I think way to think of the value of Tesla. And so if we are able to accelerate sustainable energy by more years, that is good. Hence the need to grow quickly.",
+      "textZh": "我认为，Tesla 的根本益处在于，我们让可持续能源提前了多少年？我认为，这才是思考 Tesla 价值的根本方式。因此，如果我们能让可持续能源再提前更多年，那就是好事。因此我们需要快速增长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 508.37,
+      "textEn": "We've got three new factories. Giga Shanghai has done an incredible job and Giga Shanghai now exceeds Fremont in production. So actually I'd like to just give a special hand to Tesla China team.",
+      "textZh": "我们有3座新工厂。上海超级工厂完成了令人难以置信的工作，现在上海超级工厂的产量已经超过弗里蒙特。所以实际上，我想特别为 Tesla 中国团队鼓掌。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 530.94,
+      "textEn": "So it's the best quality, lowest cost and also low drama. So it's great.",
+      "textZh": "所以它质量最好、成本最低，而且也没什么闹心事。所以非常棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 539.5,
+      "textEn": "And that said, we are continuing to expand our Fremont operations and expect to hopefully increase fremont output by 50%. And that's still where we make all Model S and X's are made in Fremont. But it kind of makes sense especially for the high volume vehicles to have production that's at least on the continent where the consumers are. Otherwise it's just, it's also not good for the environment to be shipping cars, you know, several thousand miles.",
+      "textZh": "话虽如此，我们仍在继续扩大弗里蒙特的业务，并希望有望将弗里蒙特的产量提高50%。而那里仍然是我们生产所有 Model S 和 X 的地方，都是在弗里蒙特生产的。但尤其对大批量车型而言，至少在消费者所在的大陆生产，算是合情合理。否则，你知道，把汽车运送数千英里，这对环境也不好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 571.25,
+      "textEn": "So the basic idea is have the high volume vehicles be where the customers are approximately at least. And then also great progress with building Giga Texas, which is where we are right now, and Giga Berlin Brandenburg. So just hand for those teams as well.",
+      "textZh": "所以基本思路是，让大批量车型的生产地点至少大致位于客户所在地。此外，得州超级工厂，也就是我们现在所在的地方，以及柏林-勃兰登堡超级工厂的建设也取得了巨大进展。所以也请为那些团队鼓掌。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 596.92,
+      "textEn": "And these factories will have cell production in them as well. So this will be really kind of raw materials in cars out. So really, really big. Yeah, I mean these things will be in like units of Pentagon basically.",
+      "textZh": "而且这些工厂里也会有电芯生产。所以这实际上会是原材料进去、汽车出来。所以真的、真的非常大。是的，我是说，这些东西基本上会以五角大楼为单位。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 619.65,
+      "textEn": "Let's see. So impact report. There's a lot of, I think interesting stuff in our impact report. We go into quite a lot of detail on all things we're doing. And you know, Tesla is a company that tries very hard to do the right thing in all respects. We try very hard to do the right thing in all respects. We don't always succeed. But if you're looking for a company where you say, is that company really trying to do the right thing?",
+      "textZh": "让我看看。所以，影响力报告。我认为我们的影响力报告里有很多有意思的内容。我们相当详细地介绍了我们正在做的所有事情。而且，你知道，Tesla 是一家在各方面都非常努力做正确之事的公司。我们在各方面都非常努力做正确之事。我们并非总能成功。但如果你在寻找一家让你可以说，那家公司真的在努力做正确的事吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 652.57,
+      "textEn": "That is Tesla, okay. We really try.",
+      "textZh": "那就是Tesla，好吧。我们真的很努力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 658.01,
+      "textEn": "Okay. I mean, anyway, so.",
+      "textZh": "好吧。我的意思是，无论如何，所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 668.34,
+      "textEn": "As I was mentioning, we've got the, you know, three parts of a sustainable energy future, solar and wind. But I think primarily solar will be the main source of energy of sustainable energy and energy in general. And then you need to store that energy with stationary battery packs and then you need electric vehicles and electric airplanes and boats and whatnot. So yeah, great.",
+      "textZh": "正如我刚才提到的，我们拥有，你知道，可持续能源未来的3个组成部分，太阳能和风能。但我认为，太阳能将主要成为可持续能源乃至总体能源的主要来源。然后你需要用固定式电池组储存这些能源，接着你还需要电动汽车、电动飞机、船只等等。所以，是的，很棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 702.64,
+      "textEn": "Yeah. And then the average life cycle emissions in the US this is only going to get better as, as we move to a sustainable energy grid and electric vehicles, then obviously we move to a fully sustainable energy economy, which, which is where we want to get to as quickly as possible. The sooner the better.",
+      "textZh": "是的。然后是美国的平均全生命周期排放，随着我们转向可持续能源电网和电动汽车，这只会变得更好，那么显然，我们会迈向完全可持续的能源经济，而这正是我们希望尽快实现的目标。越早越好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 720.7,
+      "textEn": "And can there be a carbon tax? I mean, what the hell, you know?",
+      "textZh": "而且能不能征收碳税？我是说，到底搞什么，你知道？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 726.22,
+      "textEn": "So people sometimes say like oh, carbon tax that would benefit Tesla. I'm like, yeah, but it would hurt SpaceX. So how about the carbon tax which really needed. So see, battery materials are definitely encyclopable and gas is not. CO2 is an extremely stable molecule. Mars atmosphere has been primarily CO2 for billions of years. It's extremely stable.",
+      "textZh": "所以人们有时会说，哦，碳税会让 Tesla 受益。我就说，是的，但它会伤害 SpaceX。所以，征收确实需要的碳税怎么样。所以你看，电池材料绝对是可以百科全书化的，而汽油不是。CO2 是一种极其稳定的分子。数十亿年来，火星大气一直主要由 CO2 构成。它极其稳定。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 758.5,
+      "textEn": "So sometimes people worry about methane. Do not worry too much about methane. Methane quickly breaks down into CO2. Methane is not a stable molecule. CO2 is extremely stable.",
+      "textZh": "所以有时人们会担心甲烷。不要过分担心甲烷。甲烷会迅速分解成CO2。甲烷不是一种稳定的分子。CO2极其稳定。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 769.36,
+      "textEn": "So, and of course you can recycle battery materials. So you can think of batteries as essentially high grade ore. So you can either get your lithium and your nickel and the various constituents of the battery from rocks or from batteries. It's much better to get them from batteries. So batteries are basically high grade ore. And Tesla is already start recycling. And there are electric companies are going to do recycling because it basically pays to do recycling for batteries.",
+      "textZh": "所以，当然，你可以回收电池材料。因此，你可以把电池看作本质上的高品位矿石。所以，你可以从岩石或电池中获取锂、镍以及电池的各种组成材料。从电池中获取要好得多。所以电池基本上就是高品位矿石。而Tesla已经开始回收。还有一些电力公司将开展回收，因为回收电池基本上是划算的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 804.69,
+      "textEn": "So we're seeing, you know, increased extreme weather events and there's like wildfires and here in Austin there was a massive snowstorm that turned the power off. I was actually in Austin for that snowstorm in a house with no electric, no lights, no power, no heating, no Internet. Couldn't actually even get to a food store. If you could get to a food store, there was no food there as went on for several days.",
+      "textZh": "所以我们正在看到，你知道的，极端天气事件增多了，比如野火，而这里奥斯汀曾发生一场大规模暴风雪，导致电力中断。那场暴风雪期间，我实际上就在奥斯汀，待在一栋没有电、没有照明、没有电力、没有供暖、没有互联网的房子里。实际上甚至无法前往食品店。即使你能到食品店，那里也没有食物，因为这种情况持续了好几天。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 835.729,
+      "textEn": "However, if we had the solar plus powerwall, the car would have had lights and electricity. And actually if you had a Starlink Internet, you'd have Internet too. So all the things you need for a prepper, basically doomsday comes can be helpful.",
+      "textZh": "不过，如果我们有太阳能加Powerwall，汽车就会有照明和电力。而且实际上，如果你有星链互联网，也会有互联网。所以，基本上末日到来时，生存准备者需要的所有东西都能派上用场。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 856.38,
+      "textEn": "So in factory safety we've done, we've made huge improvements on factory safety. So we're now 18% better than the industry average. So this is a, this is great. It's always Tough with safety as you ramp production lines and as you start up factories. But then as, as once it's in steady state then the injuries naturally, naturally decline because people get used to it and you iron out the issues. And so we're seeing excellent factory safety at Tesla and our goal is to have the safest factory on earth.",
+      "textZh": "所以在工厂安全方面，我们已经做了，我们在工厂安全方面取得了巨大改善。现在我们的表现比行业平均水平好18%。所以这，这非常好。在生产线爬坡和工厂投产时，安全工作总是很艰难。但之后，等到，等到进入稳定状态，受伤事件自然会、自然会减少，因为人们逐渐习惯了，而且你也解决了各种问题。所以我们看到Tesla的工厂安全表现非常出色，而我们的目标是拥有地球上最安全的工厂。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 893.55,
+      "textEn": "And then AI day. I think it was important to change the fundamental conception of, of Tesla because people do, they sort of think of Tesla as a car company and yes, we made cars but, but, but the AI portion part of Tesla was not well understood. Tesla is as much a software company as it is a hardware company. And, and, and we also do the, the chips. So we designed the full self driving inference computer.",
+      "textZh": "然后是AI日。我认为，改变人们对，对Tesla的根本认知很重要，因为人们确实，他们多少把Tesla看作一家汽车公司，而且没错，我们制造汽车，但、但、但Tesla的AI部分并未得到充分理解。Tesla既是一家硬件公司，也同样是一家软件公司。而且、而且、而且我们也做，做芯片。所以我们设计了全自动驾驶推理计算机。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 925.99,
+      "textEn": "We're designing a training computer that's going to be able to we think be the most efficient neural net training computer in the world by far. And, and we're seeing a tremendous response. So daily applicants by role. As you can see it's basically you know, on the Y axis there. And then after AI day, that's the AI applicants increased dramatically. So I thought that was a very successful day team, did a great job.",
+      "textZh": "我们正在设计一台训练计算机，我们认为它将能够成为世界上效率遥遥领先的神经网络训练计算机。而且、而且我们看到了极大的反响。所以是按职位统计的每日申请人数。正如你们所见，基本上就是，你知道的，在那里的Y轴上。然后在AI日之后，AI申请人数大幅增加。所以我认为那是非常成功的一天，团队做得非常出色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 959.4,
+      "textEn": "And yeah, AI is going to be a very important part of the future.",
+      "textZh": "还有，是的，AI 将会是未来非常重要的一部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 965.88,
+      "textEn": "Self driving is obviously one of the functions and I obviously have mixed thoughts about AI and we got to watch out for AI being a danger but it's happening either way. So I guess if we do it we can try our best to make sure it is positive, you know. Good, good AI hopefully, yeah.",
+      "textZh": "自动驾驶显然是其中一项功能，而我显然对 AI 怀有复杂的看法，我们必须提防 AI 成为一种危险，但无论如何它都在发生。所以我想，如果由我们来做，我们就可以尽最大努力确保它是积极的，你知道。好的、好的 AI，但愿如此，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 994.56,
+      "textEn": "And then I'm excited to announce that we're moving our headquarters to Austin, Tex.",
+      "textZh": "然后我很高兴地宣布，我们要把总部迁到得克萨斯州奥斯汀。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 1021.66,
+      "textEn": "So just to be clear though, we will be continuing to expand our activities in California. So this is not a matter of sort of Tesla leaving California. As I said, our intention is to actually increase output from Fremont and from Giga, Nevada by 50%. So but we're just, we're just hitting the sides of the bowl, you know, I mean if you go to our Fremont factory, it is jammed. I mean it jam. It's like whoa. When we first went in there it was, it was like, you know, we're like a kid in his parents shoes.",
+      "textZh": "不过要说明一下，我们会继续扩大在加利福尼亚州的活动。所以这并不是说 Tesla 要离开加利福尼亚州。正如我所说，我们的意图实际上是把弗里蒙特和内华达超级工厂的产量提高 50%。所以，但我们只是，我们只是撞到碗边了，你知道，我是说，如果你去我们的弗里蒙特工厂，那里挤得满满当当。我是说，挤满了。就像，哇。我们最初进去的时候，那就像，那就像，你知道，我们就像一个穿着父母鞋子的孩子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 1059.35,
+      "textEn": "It was ridiculous. Like tiny S and Giant factory and now we're like spam in a can here. Like how do we put more stuff? And it's, it's, it's tough for people to afford houses and a lot of people have to come in from far away and so it's, we'll take, you know, taking it as far as possible, but it's there's limit to how, how big you can scale in the Bay Area. So here in Austin, and, you know, factory is like five minutes from the airport, 15 minutes from downtown, and we're going to create an ecological paradise here on the car because we're right on the Colorado River.",
+      "textZh": "那很荒唐。就像小小的 S 和巨大的工厂，而现在我们在这里就像罐头里的午餐肉。比如，我们怎么才能塞进更多东西？而且，而且，而且人们很难负担得起房子，很多人不得不从很远的地方赶来，所以，我们会把它，你知道，尽可能地推进，但在湾区能扩展到多大是有限度的。所以在奥斯汀这里，而且，你知道，工厂离机场大约 5 分钟，离市中心 15 分钟，我们还会在这里、在这辆车上打造一个生态天堂，因为我们就在科罗拉多河畔。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 1095.62,
+      "textEn": "It's going to be great. So to emphasize gain continuing to expand in California significantly, but even more so here in Texas,",
+      "textZh": "这会很棒。所以再次强调，我们会继续在加利福尼亚州大幅扩张，但在得克萨斯州这里扩张得更多，",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T07:09:44.977Z",
+    "reviewedAt": "2026-09-13T07:25:43.819Z"
+  },
+  "fetchedAt": "2026-09-12T07:13:44.612Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "ca1f6adba4c48adb0bb36971020d0e4a992a93dfe4e7376b8472aa7769cef277"
+}

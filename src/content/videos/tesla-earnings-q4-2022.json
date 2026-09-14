@@ -1,0 +1,28 @@
+{
+  "id": "tesla-earnings-q4-2022",
+  "slug": "tesla-earnings-q4-2022",
+  "snapshotId": "2026-09-12",
+  "type": "earnings",
+  "date": "2023-01-25",
+  "titleEn": "Tesla Q4 and full year 2022 earnings call",
+  "titleZh": "Tesla 2022 年第四季度及全年财报电话会议",
+  "summaryEn": "Tesla's Q4 and full year 2022 financial results webcast — prepared remarks from Elon Musk and management followed by the live analyst and retail-shareholder Q&A.",
+  "summaryZh": "Tesla 2022 年第四季度及全年财务业绩网络直播——先由埃隆·马斯克和管理层发表准备好的讲话，随后进行分析师和散户股东现场问答。",
+  "sourceUrl": "https://www.youtube.com/watch?v=_Pxfo4rT3f8",
+  "sourceLabel": "Tesla",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-earnings-q4-2022",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/_Pxfo4rT3f8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/_Pxfo4rT3f8/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 4185,
+  "contentKind": "none",
+  "segments": [],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T18:07:36.631Z",
+    "reviewedAt": "2026-09-12T18:39:02.009Z"
+  },
+  "fetchedAt": "2026-09-12T07:12:46.440Z",
+  "sourceHash": "91e79ad0b39752ae2b4a43fd561b15686ef4846f8532f38c97ec3f634c74b547"
+}

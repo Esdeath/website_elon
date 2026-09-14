@@ -1,0 +1,334 @@
+{
+  "id": "afa-air-warfare-symposium-2020-02-28",
+  "slug": "afa-air-warfare-symposium-2020-02-28",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2020-02-28",
+  "titleEn": "AFA Air Warfare Symposium",
+  "titleZh": "美国空军协会空战研讨会",
+  "summaryEn": "Fireside chat where Musk discusses reusable rockets, the new Space Force and the end of the fighter-jet era with Lt. Gen. John F. Thompson.",
+  "summaryZh": "在这场炉边谈话中，马斯克与约翰·F·汤普森中将讨论了可重复使用火箭、新成立的太空军以及战斗机时代的终结。",
+  "sourceUrl": "https://www.youtube.com/watch?v=E307nHamdY8",
+  "sourceLabel": "Air & Space Forces Association",
+  "archiveUrl": "https://elonmuskarchive.org/video/afa-air-warfare-symposium-2020-02-28",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/E307nHamdY8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/E307nHamdY8/hqdefault.jpg",
+  "durationSec": 4051,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "foreign [Music] foreign [Music] welcome back please take this opportunity to move to your seats so we may begin the program on time [Music] foreign [Music] foreign [Music] foreign [Music] foreign [Music] foreign [Music] thank you [Music] please welcome afa's Central Florida Martin hap Harris chapter president Todd freeze thank you 36 years ago our chapter established this great Symposium and has been working closely with AFA to keep it one of the premier professional development events for Airmen today is our honor to participate in continuing that great tradition by hosting this session I am pleased introduce our keynote event to include to conclude our symposium Lieutenant General John Thompson is responsible for approximately six thousand Airmen worldwide",
+      "textZh": "外语声［音乐］外语声［音乐］欢迎回来，请借此机会回到座位，以便我们能够准时开始议程［音乐］外语声［音乐］外语声［音乐］外语声［音乐］外语声［音乐］外语声［音乐］谢谢［音乐］有请美国空军协会佛罗里达州中部马丁·哈普·哈里斯分会主席托德·弗里兹。谢谢。36年前，我们分会创办了这一盛大的研讨会，并一直与美国空军协会密切合作，使其保持为空军人员首屈一指的职业发展活动之一。今天，我们很荣幸能够通过主持本场会议，参与延续这一优良传统。我很高兴介绍本次主旨活动，以此结束我们的研讨会。约翰·汤普森中将负责全球约6000名空军人员"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "He commands an annual budget of over seven billion dollars to support the research design development launch acquisition and sustainment of satellites and their Associated command and control systems accompanying General Thompson is global innovator Elon Musk in 1980 [Music] in 1983 he taught himself computer programming at the age of 12.",
+      "textZh": "他管理着每年超过70亿美元的预算，用于支持卫星及其相关指挥与控制系统的研究、设计、开发、发射、采购和维护。与汤普森将军一同出席的是全球创新者埃隆·马斯克。1980年［音乐］1983年，他在12岁时自学了计算机编程。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "solve the code for a basic based video game called blaster for approximately five hundred dollars and in 1990 in 1995 he started zip2 a web software company later renamed PayPal in 2001.",
+      "textZh": "他以约500美元的价格破解了一款名为《Blaster》的基于 BASIC 的电子游戏代码；1990年，1995年，他创办了网络软件公司 Zip2，该公司后来于2001年更名为 PayPal。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "but more recently you might know him for revolutionizing electric cars as CEO and product architect of Tesla Motors development that's all the Tesla owners development and Manufacturing Advanced rockets and spacecraft for Missions to and beyond Earth's orbit as founder of space exploration Technologies SpaceX and conceptualizing high-speed Transportation known as hyperloop and if you haven't heard some of these quotes by Elon Musk or muskisms let me introduce this one here's my first one when I first read it I thought while it applies to Innovation it's also written into the contract of every Airman in this room and every man and woman he was served the quote is if something is important enough even if the odds are against you you should still do it now",
+      "textZh": "但近些年，你可能知道他是 Tesla Motors 的首席执行官兼产品架构师，他彻底改变了电动汽车行业——这是所有 Tesla 车主的发展——还知道他作为太空探索技术公司 SpaceX 的创始人，为前往地球轨道及更远区域的任务开发和制造先进火箭与航天器，以及构想了名为 Hyperloop 的高速交通系统。如果你还没听过埃隆·马斯克的这些名言，或者说“马斯克语录”，让我先介绍这一句。这是我的第一句。我第一次读到它时觉得，虽然它适用于创新，但也被写进了在场每一位空军人员以及每一位他曾被服务过的男人和女人的契约中。这句话是：“如果一件事足够重要，即使形势对你不利，你仍然应该去做。”现在"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "looking back to our speech this morning by Dr Roper when he talked about innovation one of the muskism quotes is failure is an option here if things are not failing you are not innovating enough but my favorite quote I would like to die on Mars just not on impact General Thompson Mr musk over to you thank you welcome well Elon thanks so much for being here today as you know and many people in the audience know we uh we're reprising a uh fireless fireside chat that we did at Air Force Space pitch day back in November uh I ran into General goldfein the chief of staff of the United States Air Force this morning and uh um maybe I was being a little bit too confident but I said hey I I think that we did such a good job together at space pitch day that uh Elon",
+      "textZh": "回顾今天上午罗珀博士谈到创新时的演讲，有一句“马斯克语录”是：“在这里，失败是一种选择。如果事情没有失败，说明你的创新还不够。”但我最喜欢的一句话是：“我想死在火星上，只要不是死于撞击。”汤普森将军、马斯克先生，交给你们了。谢谢，欢迎。好，埃隆，非常感谢你今天来到这里。正如你和现场许多人所知道的，我们正在重演去年11月空军太空路演日上那场没有炉火的炉边谈话。今天早上，我碰到了美国空军参谋长戈德费因将军，嗯，也许我有点过于自信，但我说：“嘿，我觉得我们在太空路演日上合作得非常好，所以埃隆"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "and I got invited back for a much bigger audience higher stakes and everything like that and general goldfein looked at me and went no JT you guys are going to do it until you get it right so so we're going to talk a little bit today about uh Innovation for those of you uh in the audience that nothing that was introduced about Elon uh uh made it to the prefrontal cortex and you're like I still don't know who this guy is um you may remember him from the movie role in Iron Man 2.",
+      "textZh": "和我又受邀回来，面对规模大得多的观众，事关更重大的利害关系，诸如此类。”戈德费因将军看着我说：“不，JT，你们得一直做下去，直到做对为止。”所以，我们今天会稍微谈一谈创新。现场各位当中，如果刚才对埃隆的介绍没有任何内容传到你的前额叶皮层，而你还在想“我仍然不知道这家伙是谁”，那么你或许记得他在电影《钢铁侠2》中的角色。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "or the TV show uh The Big Bang Theory you may remember him if you're old like me when you used to have to do dial-in modems uh you may remember how PayPal actually worked over a dial-in modem yeah um and if just in case you've had your head in the sand for uh the last decade you absolutely have to know him for space exploration Technologies SpaceX a tremendous partner of the United States Air Force in uh in the space business and for Tesla so for just just for grins this fastest growing Auto Company on the planet most amazing capability and when Elon pulled up he pulled up he and his Entourage in three different Teslas this morning Tesla owners do we have in the audience stand up stand up if you're a test loner all right very nice thank you the secretary",
+      "textZh": "或者电视剧《生活大爆炸》。如果你像我一样年纪大，经历过必须使用拨号调制解调器的时代，你可能还记得 PayPal 究竟是如何通过拨号调制解调器运行的。是的。还有，万一过去10年里你一直与世隔绝，那你绝对应该知道他的太空探索技术公司 SpaceX——美国空军在太空业务中的重要合作伙伴——以及 Tesla。只是为了找点乐子，这是地球上增长最快的汽车公司，能力令人惊叹。今天早上埃隆抵达时，他和随行人员分别乘坐3辆不同的 Tesla 到场。现场有多少 Tesla 车主？站起来，如果你是测试独行者，请站起来。好的，非常好，谢谢。部长"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "so um Elon you and I have talked about whether the air force uh is the most Innovative service um uh the department of the Air Force now and uh the last time we interviewed it was it was just the Air Force now we're the Air Force and the space force as part of the Department of the Air Force most those people who stood up were in the front row we have a lot of first adopters uh here in the front of the audience apparently or maybe those are the folks that just make the most money who knows okay so um again today's uh today's discussion is about uh Innovation and how we can make the department of the Air Force the most Innovative Department within the Department of Defense and perhaps across the United States government so Elon question number one um when",
+      "textZh": "那么，埃隆，你和我曾经讨论过，空军是否是最具创新力的军种。现在是空军部，上次我们访谈时还只有空军，如今空军部下辖空军和太空军。刚才站起来的人大多坐在前排。显然，观众席前排有很多早期采用者；也可能只是那些收入最高的人，谁知道呢。好了，今天的讨论还是关于创新，以及我们如何让空军部成为国防部内部，乃至整个美国政府中最具创新力的部门。那么，埃隆，第1个问题，当"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "you put a weapon system uh or a product into production and you start delivering it to your customers very very frequently there is a a push back within the production organization that you know we don't want to change that product too much it's successful we have a lot of Legacy systems that we're responsible for in the department of the Air Force there is a lot of of reticence at times to incrementally improve or add new capabilities to those systems from the context of Tesla and SpaceX how do you motivate your Workforce how do you work with your customers how do you work with technologists in your ecosystems your various ecosystems to try and make sure that products don't become stagnant and they continue to implement incrementally improve over time",
+      "textZh": "你将一个武器系统或产品投入生产，并开始向客户交付时，生产组织内部往往会出现阻力，他们会说，我们不想对这个产品做太大改动，它已经很成功了。空军部负责许多遗留系统，有时对于逐步改进这些系统或为其增加新能力，存在很大的顾虑。从 Tesla 和 SpaceX 的角度来看，你如何激励员工？你如何与客户合作？你如何与各个生态系统中的技术人员合作，以努力确保产品不会停滞，并继续实施、随着时间逐步改进？"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "sure well first of all thanks for having me here it's an honor to be here with you and with everyone else from the uh space slash Air Force um and um I've already had a long relationship with the Air Force and very much appreciate the support of the year so I just want to make sure to say that and look forward to doing a lot of interesting things in the future I I think it's actually um it's cool that that there is that the creation of the space forces is happening um I think it there's you know it makes sense that there's a a major Branch for every domain you know with that uh and and uh so the domain of space the domain of error are both important but uh I think space spaces is is certainly a medium of its own sure um and um I think there's some very",
+      "textZh": "当然。首先，感谢邀请我来到这里。能和你以及太空军和空军的各位共聚于此，我深感荣幸。我与空军已经保持了很长时间的合作关系，非常感谢这一年的支持，所以我只是想确保把这一点说出来，也期待未来一起做许多有意思的事情。我认为太空部队正在创建这件事其实很酷。我觉得，你知道，每个领域都有一个主要军种是合理的。因此，太空领域和错误领域都很重要，但我认为太空、太空当然是一种独立的介质。当然。而且，我认为有一些非常"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "exciting things that are possible if I may just say it like what you know what the public wants I think and Perfection pretty confident that the public doesn't want this is uh staff lead Academy in order like yeah like how do we make stock how do we make Star Trek real you know that'd be pretty amazing I'd love that you know um and uh so I think like the fastest we can make sort of Starfleet real then they're just trying to do that well so Elon speaking speaking for uh the United States space force there already is a Starfleet Academy it's the United States Air Force Academy in Colorado Springs Colorado sure I've I've been there I've given a token um you know the the first launch of Falcon one we had a falcon sat from the Air Force Academy but that rocket",
+      "textZh": "令人兴奋的事情是有可能实现的。如果可以的话，我只想这么说，比如，你知道，我想公众想要什么，而且“完美”相当有信心，公众不想要这个是，呃，员工领导学院按顺序之类的。对，比如，我们怎样制造股票，我们怎样让《星际迷航》成为现实？你知道，那会非常了不起，我会很喜欢。你知道，所以我认为，我们能以多快的速度让某种星际舰队成为现实，那么他们只是在努力把那件事做好。好吧，埃隆，我代表美国太空军说，星际舰队学院已经存在了，它就是位于科罗拉多州科罗拉多斯普林斯的美国空军学院。当然，我去过那里，也给过一个代币。你知道，在 Falcon 1 首次发射时，我们搭载了一颗来自空军学院的 FalconSAT，但那枚火箭"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "blew up but but but then the funny thing is that it blew up like he's this truth is strange Than Fiction um the the satellite uh were shot through the fairing um through the air a couple hundred meters and then plunged through the roof of a tool shed uh and then landed on the floor um and was actually in reasonably good shape I mean for crashing through the ceiling but you know you're like recognizable you know um and and we have to give it back and so we've not lost one of your satellites so so from a SpaceX perspective buff it up a partial Mission success well it's not lost I'm just saying it's a little the worst it's a little worse for wear but you know but then we subsequently launched a future Falcons that's to actual orbit uh that was great um so",
+      "textZh": "爆炸了。不过有趣的是，它爆炸时——真是现实比小说更离奇——那颗卫星穿过整流罩，被抛到空中数百米外，随后穿透一间工具棚的屋顶，落在地板上。它的状况其实还算不错，我是说，考虑到它撞穿了天花板；你知道，至少还能认出来。然后我们不得不把它还回去，所以我们并没有弄丢你们的一颗卫星。那么从 SpaceX 的角度看，把它擦亮一下就算任务部分成功？好吧，它没丢。我只是说，它有点……有点受损，不过你知道。但后来我们发射了一枚未来的 Falcons，那是去往真正轨道的。那很棒。所以"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "um so I think there's I think we can make go a long way towards making Starfleet real and making uh these uh sort of um utopian or semi-year semi-autopian future is real but it will definitely require radical innovation um one can't get there by incrementally innovating um Expendable boosters there's just no way yeah so the the I think we we need to push for radical breakthroughs um and if you don't push for radical breakthroughs you're not going to get radical outcomes um and that that does mean taking risks um and and common sense that the the if you take a big risk in order to have a big reward there must be a big risk it's it's most the time you cannot find big reward for small risk that's those are rare so you're going to have some proportionality",
+      "textZh": "所以，我认为我们可以在让星际舰队成为现实，以及让这些某种乌托邦式或半年度、半奥托邦式的未来成为现实方面取得长足进展，但这肯定需要激进创新。依靠对一次性助推器进行渐进式创新，是绝对无法实现的。是的。所以我认为，我们需要推动激进的突破；如果不推动激进的突破，就不会获得激进的成果。这确实意味着要承担风险。而且常识是，如果你为了获得巨大回报而承担巨大风险，那么就必须存在巨大的风险。大多数时候，你无法用很小的风险换取巨大回报，那些情况很少见。所以风险与回报之间会存在一定的比例关系"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "of the risk and reward but if the goal is important enough and I think increasingly the goal is important for for many reasons um the the goal of having the best technology in space uh that that is I think going to become increasingly important and it'll be increasingly increasingly important for the United States to use what I think is its greatest attribute which is uh invention and innovation um to to create space technology that is um the best in the world um and in fact I think if the United States does not use uh breakthrough Innovation uh it will provide so I think this is that this is not something that was a risk in times past but I think is a risk now okay um so yeah um do you characterize that risk in terms of peer adversary Comfort competition",
+      "textZh": "但如果目标足够重要，而我认为这个目标正因为许多原因变得越来越重要，那么拥有最先进太空技术这一目标，我认为将变得日益重要；对美国来说，利用我认为它最强大的特质，也就是发明与创新，来创造世界上最先进的太空技术，也会变得越来越重要。事实上，我认为，如果美国不采用突破性创新，它将提供。所以我认为，这就是，这在过去并不是一种风险，但我认为现在是一种风险。好的。那么，是的。你会从同等对手舒适竞争的角度来描述这种风险吗"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "around the planet are you are you um are you suggesting that it's our adversaries that require us to be that those radical innovators or is it just we can't become complacent and stay incrementally improving our systems we must take those giant leaps forward as a nation regardless of the competition I think there's those little I've zero doubt that if the United States does not take it does not seek great Innovations in space it will be second in space okay with as sure as Nightfall is day so it is a big deal um but this this is uh I mean a very Innovative that you know there's no country more Innovative and an event of the United States so it's just important to use that attribute that's that's the ace card okay yeah and since uh so since it seems like",
+      "textZh": "在地球周围，你是，你是，嗯，你是在暗示，是我们的对手要求我们成为那些激进的创新者，还是说我们只是不能自满、不能只停留在对系统进行渐进式改进，无论竞争状况如何，我们作为一个国家都必须实现那些巨大的飞跃？我想有那些小……我对此毫不怀疑：如果美国不采取它、不在太空领域寻求重大创新，就会在太空领域位居第2。好的，这就像夜幕是白昼一样确定。所以这是一件大事。嗯，但这，这，呃，我是说，是非常创新的……你知道，没有哪个国家比美国更具创新力和创造力。所以重要的是利用这一特质，那是，那是王牌。好的，是的。既然，呃，所以既然看起来"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "we're going down the geopolitical path here on the on the the questions how does the United States as a nation maintain that Innovative Edge that that um ability to invest in things and take those risks what kind of of governmental policies or processes do we have to encourage the right kinds of behavior in your view well I think having outcome based procurement is is actually very important so you say like this is the outcome that is sought and whoever can achieve this outcome or achieve this outcome to a greater degree that that company will that that's who the Air Force will do business with and we'll procure the thing that is that is radically innovative as measured by the what what is important for leadership in space so um I mean I do think it's",
+      "textZh": "我们的问题正在转向地缘政治方向，那么美国作为一个国家，如何保持这种创新优势，以及投资事物并承担这些风险的能力？在你看来，我们应该制定什么样的政府政策或流程，来鼓励正确的行为？好吧，我认为以成果为导向的采购其实非常重要。也就是说，你明确提出所寻求的成果，谁能实现这一成果，或者在更大程度上实现这一成果，空军就与那家公司合作；我们会采购按照太空领导地位的重要指标衡量，具有激进创新性的产品。所以，我的确认为"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "it's absolutely fundamental to achieve full reusability and access to space this is this is the Holy Grail of space at the point at which you have full reusability for orbital Rockets then you have uh a profound advantage over anyone else was profound um it would be like if um in the Air Force if if you if you had planes that could be used once and or if you're if you're at multi-use planes that could be flown over and over again like normal um and all your adversaries had single-use planes that would be no contest it's the same thing in space okay yeah this is extremely fundamental um so the the cost of a propellant is typically on the order of one percent of the cost of the of the vehicle or less so um if you have a vehicle that is say I don't know",
+      "textZh": "实现完全可重复使用和进入太空的能力绝对是根本所在。这是太空领域的圣杯。当轨道火箭实现完全可重复使用时，你相对于其他任何人都将拥有巨大优势，极其巨大。这就好比在空军中，如果你的飞机只能使用1次，或者你拥有能够像普通飞机一样反复飞行的多用途飞机，而你的所有对手都只有一次性飞机，那根本不存在竞争。太空领域也是一样。好的。是的，这极其重要。所以，推进剂的成本通常约为飞行器成本的1%或更低。那么，如果你有一款飞行器，比如，我不知道"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "um blocks kerosene like Falcon eye or something like that um it's it's the the the oxygen and the fuel are yeah maybe half million dollars or something like that but then depending upon the mission the admission price can be anywhere from like 60 to 100 million dollars so um and I thought Falcon 9 is a partially reusable vehicle but not fully um the vehicle we're working on right now uh were quite difficult is Starship and uh yeah that has the potential for full reusability um but but I think it would be great to have other companies as well that are doing full reusability I think competition is a good thing um it may seem at times that you know shouldn't we Focus all our efforts on on one system and rather than divide them and have two competing systems",
+      "textZh": "，嗯，阻挡煤油，比如 Falcon eye 之类的东西，嗯，氧气和燃料的成本，是的，大概是50万美元左右，但根据任务不同，任务价格可能在6000万美元至1亿美元之间。所以，嗯，而且我认为 Falcon 9 是一种部分可重复使用的飞行器，但并非完全可重复使用。嗯，我们现在正在研发的飞行器，呃，相当困难，是星舰。呃，是的，它具备完全可重复使用的潜力。嗯，不过，不过我认为如果还有其他公司也在做完全可重复使用的飞行器，那会很好。我认为竞争是一件好事。嗯，有时可能会觉得，你知道，我们难道不应该把全部精力集中在一个系统上，而不是分散精力、让两个系统相互竞争吗"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "um like you know not to cause controversy or a bit like in my opinion like Joint Strike Fighter this should be a competitor to JSO that that's a controversial subject but um you know I think it's it's not it's not good to have uh one one provider um it's good to have competition where that competition is Meaningful and somebody can actually lose that's like you know so then then um so yeah okay yeah so in radical Innovation obviously the workforce is a really key component of that I mean as I mean during your PayPal days you were actually doing coding right but in SpaceX and Tesla they are so large that Elon can't do everything what sort of things do you think about in terms of motivating a Workforce like um uh like we have in the department of the Air",
+      "textZh": "？你知道，不是想引发争议，但在我看来，联合攻击战斗机应该有一个能与 JSO 竞争的项目。这是一个有争议的话题，不过，你知道，只有一家供应商并不好。在竞争有实际意义、有人确实可能落败的情况下，开展竞争是好事。你知道，就是这样。那么，是的。好的，是的。显然，在激进创新中，人才队伍是一个非常关键的组成部分。我的意思是，在 PayPal 时期，你实际上亲自编写代码，对吧？但 SpaceX 和 Tesla 的规模非常大，埃隆不可能包揽一切。对于激励像我们空军部这样的人才队伍，你认为应该考虑哪些方面"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "Force that will help them become more radically Innovative what sort of things do you look for in people or in processes that make the workforce better sure well I think the massive thing that can be done is to make sure your incentive structure is such that Innovation is rewarded and lack of innovation is punished they've got to be a characteristic so if somebody is innovating um and doing making good progress then they should be promoted sooner and if somebody is completely failing to innovate not every role requires Innovation but if they're in a role where Innovation is should be happening and it's not happening then they should either not be promoted or exited and let me tell you you'll get promote you'll get you'll you'll get Innovation real fast",
+      "textZh": "帮助他们变得更具颠覆性创新的力量。你会在人或流程中寻找哪些特质，来让员工队伍变得更好？当然。嗯，我认为可以采取的重大举措是，确保你的激励结构能够奖励创新，并惩罚缺乏创新。这必须成为一项基本特征。因此，如果有人正在创新，并且取得了良好进展，那么他们就应该更快获得晋升；如果有人完全没能创新——并非每个岗位都需要创新，但如果他们所处的岗位本应进行创新，却没有发生创新——那么他们要么不应得到晋升，要么就应当离开。让我告诉你，这样一来，你很快就会得到创新，真的非常快。"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "okay let's stick yeah it's like how much do you want yeah so does that does that carrot and stick approach help do you think people be more risk averse or less risk averse well before when when trying different things you got to have some acceptance of failure uh as you were alluding to earlier failure must be an option if failure is not an option it's going to result in extremely conservative choices and you you may not you may get something even worse than lack of innovation things may go backwards um so if what you really want is uh risk risk to you want reward and Punishment to be proportionate to the actions that you seek so if uh if what you're seeking is innovation then you should reward success and Innovation um and only there should be minor",
+      "textZh": "好的，我们继续。是的，这就像你到底有多想要它。是的。那么，你认为这种胡萝卜加大棒的方法有帮助吗？它会让人们更加规避风险，还是不那么规避风险？嗯，在尝试不同事物时，你必须在一定程度上接受失败。正如你之前提到的，失败必须是一种选项。如果不允许失败，就会导致极其保守的选择，而且你可能——得到的结果甚至可能比缺乏创新更糟，事情可能会倒退。所以，如果你真正想要的是风险——你希望奖励和惩罚与你所寻求的行动成比例。因此，如果你寻求的是创新，那么就应该奖励成功和创新，而且只应当有轻微的……"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "consequences for lack of minor consequences for trying and failing there should be minor significant rewards for trying and succeeding minor consequences for trying and not succeeding and big and and major negative consequences for not trying Okay so if you have that instead of structure you will get Innovation like you can't believe okay so you've um you've talked at uh Tesla shareholder meetings and in various interviews that you consider um the machine that builds the machine to be just as important if not more important than the machine itself yeah so we talked about the workforce aspects are there processes that you use within your company that are parts of that machine that you think are particularly valuable for Innovative radical change thank",
+      "textZh": "对于缺乏……的后果；对于尝试但失败，应当有轻微后果。对于尝试并成功，应当给予轻微而显著的奖励；对于尝试但未成功，应当有轻微后果；而对于根本不尝试，则应当有重大且严重的负面后果。好的，如果你有这样的激励结构，你所得到的创新程度会让你难以置信。好的，那么你曾在 Tesla 股东大会和各种采访中谈到，你认为“制造机器的机器”即便不是比机器本身更重要，也至少同等重要。是的。我们已经谈过员工队伍方面，那么在你的公司内部，有没有一些属于这台机器的流程，是你认为对于创新性、颠覆性的变革特别有价值的？谢谢。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "you well what I mean by the machine that builds the machine is that the the production that designing the production system of a new product is I think at least an order of magnitude or 292 to harder than designing the initial prototype yeah um the I think like in America there's been a lot less of a less important in modern times placed on manufacturing and I think this is this is a mistake um like at this point I was really classified and in fact I sent an email to the to SpaceX just saying this like at this point I think designing a rocket is Trivial which is Trivial there's like tons of books that'll you read them you know you can understand equations you can design a rocket uh it's real real easy uh yeah if you say like two-stage uh two and two percent",
+      "textZh": "嗯，我所说的“制造机器的机器”是指，生产——为一种新产品设计生产系统，我认为其难度至少比设计最初的原型高一个数量级，或者高292到……。是的。嗯，我认为在美国，现代以来对制造业的重视程度已经低了很多，而我认为这是一个错误。嗯，就目前而言，我真的被列为了机密，事实上我还给 SpaceX 发了一封电子邮件，就是这么说的：到了这个阶段，我认为设计火箭是微不足道的，这微不足道。有大量书籍可供阅读，你读了它们，你知道，只要能理解方程式，就能设计火箭。呃，真的非常、非常容易。呃，是的，如果你说，比如2级式，呃，2和2%……"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "of your lift off Master orbit from just to design something like that piece of cake um uh they say you want to go into production with that or if you want you want to actually make let's say the next step is you want to make even one of those things okay now making even one of those things and getting it to orbit is hard um but the designing of it is not hard the making of it of even one is hard the making of a production line that builds and launches many is extremely hard um and then the next level beyond that would be um creating a fully reusable system and having that be in volume production and volume launch that's that's super super hard um so that's so yeah by building machine at building machine I mean I mean creating the production system and",
+      "textZh": "你的升空主轨道的，从……只是设计这样的东西，小菜一碟。嗯，呃，假设你想让它投入生产，或者你真的想制造它，假设下一步是你哪怕只想制造其中一个。好的，现在，即便只制造一个并把它送入轨道也很难。嗯，但设计它并不难，制造它——哪怕只制造一个——很难；建造一条能够制造并发射许多个的生产线则极其困难。嗯，再往上的一个层级是，打造一个完全可重复使用的系统，并让它实现大批量生产和大批量发射，那真的、真的超级难。嗯，所以，是的，我说“制造机器的机器”，指的就是创建生产系统，以及……"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "I keep emphasizing to SpaceX the hard part is making it and making lots of them and launching frequently um because reuse must not just be it can't be reused like the shuttle it's got to be rapid and complete reuse so the shuttle was a case where the ReUse was very slow and it was not complete the main tank was lost every time and refurbing the shuttle between flights was extremely expensive uh it's not even clear whether it was worth recovering was the booster shells from the ocean so so just like an aircraft you the the rocket must be rapidly and completely reusable and then you need lots of them um and then I've been sort of just doing back kind of back of the envelope what's needed to establish a self-sustaining City on Mars and these are like big",
+      "textZh": "我一直向 SpaceX 强调，困难的部分是把它制造出来、大量制造并频繁发射。嗯，因为重复使用不能只是——不能像航天飞机那样重复使用，它必须能够快速且完全地重复使用。航天飞机就是一个重复使用速度非常慢、而且并不完全的例子。主燃料箱每次都会损失，而在两次飞行之间翻修航天飞机的费用极其高昂。呃，甚至都不清楚从海里回收助推器外壳是否值得。所以，就像飞机一样，火箭必须能够快速且完全地重复使用，然后你还需要很多枚。嗯，接着我一直在用类似于信封背面估算的方式，计算在火星上建立一座可自我维持的城市需要什么，而这些数字很大……"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "numbers but I think you need on the order of a million tons to the surface of Mars useful payload something like that um because we sit on the top of a massive base of infrastructure over you know the economy is uh you think of all the things that are mined and then refined and then and then just many steps in the refinement and in order to produce like your phone or your toast or even those there's a vast base of Industry that was required to produce even a simple household item yeah it's very difficult so so you've got to recreate that on Mars so a million times on Mars means we're just talking orders magnitude here and hopefully it's not 10 million tons and hopefully maybe it's less than a million tons but probably not a hundred thousand tons so that",
+      "textZh": "但我认为需要将大约100万吨有效载荷运送到火星表面，差不多是这样。嗯，因为我们所处的位置建立在庞大的基础设施之上，你知道，经济体系——想想所有那些被开采、随后精炼，然后又经过许多道精炼步骤的东西。为了生产你的手机、你的烤面包，甚至那些东西，都需要庞大的工业基础，才能生产出哪怕一件简单的家居用品。是的，这非常困难。所以，你必须在火星上重建这一切。因此，火星上的100万次意味着——我们这里只是在谈数量级，希望不是1000万吨，也希望可能少于100万吨，但大概不会只有10万吨。所以……"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "that means you need to get about 5 million tons to uh Earth orbit of useful payload so you're talking like the like so essentially unless you have a launch system that is somewhere in the Megaton per year range to orbit it's not it's not relevant okay yeah so um starlink um as you're scaling to build more and more Starling satellites to go on more and more reusable Rockets what are some of the challenges you've had to overcome in starlink production so that you can perfect that machine machine that builds the machine yeah as I started selling production is going well actually the that's the that was a hard that's a hard thing to get right um we made many we had many iterations on the stalling prototypes and then as I said the been building the starlink",
+      "textZh": "这意味着你需要把大约500万吨有效载荷送入地球轨道。所以，基本上，你谈论的是——除非你的发射系统每年向轨道运送的载荷达到百万吨级，否则它就无关紧要。好的。是的，那么，星链——随着你扩大规模，制造越来越多的 Starling 卫星，并用越来越多的可重复使用火箭发射它们，为了完善那台“制造机器的机器”，你们在星链生产方面必须克服哪些挑战？是的，正如我开始销售的那样，生产实际上进展顺利。那是——那是一件很难做对的事情。嗯，我们进行了许多——我们的停滞原型经历了多次迭代，然后正如我所说，一直在建造星链……"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "production line was on a thousand percent harder than designing the satellite to begin with um but but it is important to have like a um to design for manufacturing and have a tight feedback loop between the design of the object and the manufacturing system so as you when people when when you design the object at first you you don't realize all the parts that are really difficult to manufacture uh and so so having the manufacturing system and the design bring those up at the same time so that you're actually in the beginning making a thing that you know is wrong but you're actually figuring out what's hard to manufacture that's the real problem um so we we brought up these the starlink production line before we actually had the design finalized which",
+      "textZh": "生产线的难度比最初设计卫星高1000%。嗯，但是，为制造而设计，并在产品设计与制造系统之间建立紧密的反馈循环，这一点很重要。因此，当人们——当你最初设计产品时，你意识不到所有那些真正难以制造的部件。呃，所以，要让制造系统与设计同时暴露这些问题，这样你实际上在一开始制造的是一个你知道存在问题的东西，但你真正做的是弄清楚什么东西难以制造，那才是真正的问题。嗯，所以，我们在设计最终确定之前，就启动了这些——星链生产线，而这……"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "which is actually the right thing to do and then we discover oh there's all there's all these things that uh in the design that are very difficult to make um and so therefore we must change the design and the the satellite ended up having the same capability but just um was very easy to make and launch so what would say very easy it's it's not it's sort of hard but um but it's but but it's being done and we're the satellites are being produced at a rate now faster than we can launch them so and and the cost of the satellite has dropped below the cost of transporting it to orbit so even when taking the the Falcon 9 in the most reused configuration which is to get the booster back and you get the bearings back um the cost of the trend of transporting the",
+      "textZh": "实际上才是正确的做法。然后我们发现，哦，设计中有这么多东西非常难制造。嗯，因此我们必须改变设计，而卫星最终具备了相同的能力，只是变得非常容易制造和发射。所谓非常容易——其实也不是，它还是有些难。嗯，但它正在实现，而且我们现在生产卫星的速度已经超过了发射速度。所以，卫星的成本已经降到低于将它运送到轨道的成本。所以，即使采用猎鹰9号复用程度最高的构型，也就是收回助推器并把轴承也收回来，运输……这一趋势的成本……"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "satellite to orbit exceeds the cost of the satellite so the satellite's in a good good situation okay and the cost that satellite will keep coming down as we ramp up rates and make design improvements uh but so so we really need Starship to carry starlink in order to get the total delivered cost to orbit to be much better than it is today okay which is still pretty good um when you when you um so in terms of deciding what to build you can take feedback from customers and let customers pull to you what they want or you can be radically Innovative within your company or you know a small set of individuals and develop something and push it into the industrial base so customer pull would be Tesla Tesla owners wanting new features on the existing Fleet push",
+      "textZh": "卫星运送到轨道的成本超过卫星本身的成本，所以卫星方面的状况很好。好的，而且随着我们提高产量并改进设计，卫星的成本还会继续下降。呃，但是，我们确实需要星舰来运载星链，才能使送达轨道的总成本比今天低得多。好的，尽管现在已经相当不错。嗯，当你——那么，在决定制造什么方面，你可以听取客户反馈，让客户需求把他们想要的东西拉向你；或者你也可以在公司内部，或者由一小群人进行颠覆性创新，开发出某种东西并将其推入工业基础。所谓客户拉动，可以是 Tesla——Tesla 车主希望现有车队获得新功能；而推动……"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "would be you know a company push would be something like when Apple pushed the iPad to everybody and nobody knew what an iPad was until they touched it and went wow sure everybody wants an iPad now what do you all think about in terms of that balance between customer pull and Company push well in the beginning nobody wanted a Tesla let me tell you that the the the when we made the original sort of roads to a sports car uh people were like why would I want an electric car that's my gasoline car works fine um like no electric cars better I should try it um and it was you know hard to get people to do a test drive nobody knew who we were I never heard of this company and like yeah we're named after Nikola Tesla you know that guy nope um so for sure we were",
+      "textZh": "则是，你知道，公司推动可能就像 Apple 把 iPad 推向所有人一样，在人们亲手接触并惊叹之前，没有人知道 iPad 是什么。没错，现在每个人都想要一台 iPad。你们如何看待客户拉动与公司推动之间的平衡？嗯，最开始没有人想要 Tesla，我可以告诉你这一点。那、那、那，当我们最初制造某种通往跑车的道路时，呃，人们会说：我为什么想要电动汽车？我的汽油车用得好好的。嗯，比如，不，电动汽车更好，我应该试试。嗯，而且，你知道，要让人们试驾很难。没人知道我们是谁。“我从来没听说过这家公司。”然后我们说：“是的，我们以尼古拉·特斯拉命名，你知道那个人吗？”“不知道。”嗯，所以，我们肯定……"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "doing push in the beginning because people said there was no one telling us that they wanted an electric car so it was not it was not out of like you know it was like less people coming up to me saying hey I really want an electric car I heard that zero times um some people like it's like man we're gonna make an electric car and show that these things can be good and then people want them um it was like I think it was like Henry Ford said like the you know if we're talking about the Model T it's like if you ask the public what they wanted they'd say a faster horse so if you did like a big survey and say what hey public before automobiles what would you like it's like well I'd like my horse to go three miles an hour faster and eat less food and uh you",
+      "textZh": "一开始做的是推动，因为人们说——没有人告诉我们他们想要电动汽车。所以并不是，你知道，并没有人走过来对我说：“嘿，我真的想要一辆电动汽车。”这种话我听到过0次。嗯，有些人会说——我们就是要制造电动汽车，证明这些东西可以很好用，然后人们就会想要它们。嗯，我想这就像亨利·福特说过的，你知道，在谈到 Model T 时，如果你问公众他们想要什么，他们会说想要一匹更快的马。所以，如果你在汽车出现之前做一次大型调查，问：“嘿，公众，你们想要什么？”他们会说：“嗯，我希望我的马每小时能再快3英里，吃得更少，而且……”"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "know be stronger and live longer and that kind of thing um that will be basically a bunch of incremental improvements on horse um because people aren't we say like what about an automobile that car that drives itself like what are you talking about that's not that sounds crazy um but when you actually make an automobile and give it to people and say okay now this is a horse where you can keep it in the barn and if you leave for a month it's still alive [Laughter] yeah so carry more like more weight than a horse and go further and that kind of thing so anyway it's like when when it's a radically a new product people don't know that they want it because it's just not in their in their scope I think when they first started making TVs they did a nationwide",
+      "textZh": "你知道，更强壮、更长寿之类的。嗯，那基本上就是对马进行一系列渐进式改进。嗯，因为人们不会——如果我们说：“那汽车呢？一种能自己行驶的车。”他们会说：“你在说什么？那不——听起来太疯狂了。”嗯，但当你真正制造出一辆汽车并把它交给人们，然后说：“好吧，这是一匹你可以放在谷仓里的马，即使你离开1个月，它仍然活着。”[笑声] 是的，而且它能比马承载更重的东西，走得更远，诸如此类。总之，当它是一种颠覆性的新产品时，人们不知道自己想要它，因为它根本不在他们的认知范围内。我想，他们刚开始制造电视时，曾经做过一次全国性……"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "survey I think this might have been like 46 or 48 it was like a famous Nationwide survey will you ever buy a TV out I was like 96 of respondents said no hmm something some crazy number like basically everyone's like would you buy a TV and maybe they put a price in there or something I don't know but it was famously almost everyone said they would not buy a TV but they didn't know what they're talking about so the big game changing stuff at the beginning is a company push kind of a thing most of the time but then changes to the product over time can be a lot more customer pull kind of a focus yeah Jane changes the product over time can be incremental changes um then the customers can certainly tell you it's good to get customer feedback to say how can",
+      "textZh": "调查。我想那可能是在46年或48年左右，是一次著名的全国性调查：“你会买一台电视出去吗？”我当时想，大约96名受访者说不会。嗯，是某个疯狂的数字，基本上几乎所有人都说——“你会买电视吗？”也许他们还在里面列了价格之类的，我不知道。但众所周知，几乎所有人都说自己不会买电视，可他们不知道自己在说什么。因此，那些具有重大变革意义的东西，在开始时大多数都是由公司推动的；但随着时间推移，对产品的改动可以更多地以客户拉动为重点。是的，简，随着时间推移对产品的改变可以是渐进式改进。嗯，那么客户当然可以告诉你——获得客户反馈很好，可以问：“我们怎样才能……”"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "we improve the product um and once they're using it they can say okay I like this thing about it I don't like this other thing and then we can improve the product over time customer feedback after they they have the fundamental thing is is great okay yeah okay so um in the audience here we have a lot of air and space War Fighters we have uh so people who use systems we have a lot of Developmental teams on both the government and the industry side and we have the the air and space leadership of the nation so I got a little lightning round here for you right to try and influence maybe some of those younger folks in the back who are looking for the for the next big thing so in terms of different kinds of Technology whether it's artificial intelligence or",
+      "textZh": "改进产品？”嗯，一旦他们开始使用，就可以说：“好吧，我喜欢它的这一点，不喜欢另一点。”然后我们便可以逐步改进产品。客户在拥有了那个基础产品之后提供的反馈非常好。好的。是的。好的，那么，在座有许多空天作战人员，也就是使用这些系统的人；政府和产业界都有许多研发团队；还有国家的空天领域领导层。所以我准备了一个简短的快问快答，想试着影响一下后排那些正在寻找下一个重大事物的年轻人。那么，就不同种类的技术而言，无论是人工智能……"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "medical or batteries or whatever in the next five years what technology do you think will see the most advancement well it's difficult to to assess most in those contexts because they're very different but I think the probably the most transformative most fundamentally transformative will be ai ai okay and if you were recommending to some of the young officers and uh um uh enlisted troops in the room what sort of degrees to pursue uh at college or what sort of Education that they should prioritize for themselves in the modern era what would you recommend um computer science and physics computer science and physics okay how many computer science people do we have out there how many physics people okay we need more apparently okay essentially information",
+      "textZh": "医疗技术、电池，还是其他任何技术，你认为未来5年哪种技术会取得最大进展？嗯，在这些语境下很难判断什么是“最大”，因为它们非常不同，但我认为最具变革性、最具根本性变革作用的可能是人工智能。人工智能，好的。如果让你向在场的一些年轻军官和士兵建议，他们在大学里应当攻读什么学位，或者在现代应当优先接受什么样的教育，你会推荐什么？嗯，计算机科学和物理学。计算机科学和物理学，好的。在场有多少计算机科学专业的人？有多少物理学专业的人？好的，看来我们需要更多。好的，本质上是信息……"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Theory and physical Theory um if you want to understand the nature of the universe um and have these have a very good predictive power physics and computer science okay yeah okay as a nation that is interested in radical Innovation to maintain its Competitive Edge what are the things that the department of the Air Force should be investing more in other than reusable Rockets from your perspective again I can't emphasize enough how important reusable Rockets are yeah you'll love it um it's great um so um and I think that you could actually do point to point on Earth uh with uh you know to go long distances um and be much better than aircraft because I mean basically just think of like ICBM minus the nuke adeland you know so so it's just sort of in the",
+      "textZh": "理论和物理理论。嗯，如果你想理解宇宙的本质，并拥有非常出色的预测能力，那就是物理学和计算机科学。好的。是的。好的，作为一个有志于通过颠覆性创新维持竞争优势的国家，从你的角度来看，除了可重复使用火箭以外，空军部还应当在哪些方面投入更多？我还是怎么强调可重复使用火箭的重要性都不为过。是的，你们会喜欢它的。嗯，它非常棒。嗯，而且我认为，你实际上可以利用它在地球上进行点对点运输，你知道，远距离出行时，它会比飞机好得多。因为，我的意思是，基本上只要想象一下去掉核弹头的洲际弹道导弹，然后着陆，你知道。所以，它就有点像……"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "option package just you know uncheck nuke and then add Landing system check and and that's definitely going to get you wherever you want to go as the fastest um because that's why they made it icbms they get they're the fastest um so and I think that that's going to be pretty exciting um yeah I think uh yeah I mean once you have a dramatically lower cost access to space then then many things are enabled um you can think of like once you've got the Union Pacific Railroad then you know getting to the West Coast was much faster and much less dangerous yeah you're not likely to sort of end up eating your compatriots in a snowy situation uh you know so you can just take the train so so you know at the beginning they thought why the heck are they building that",
+      "textZh": "选装包，只要，你知道，取消勾选核弹，然后勾选添加着陆系统，而那肯定会以最快的速度把你送到任何想去的地方，嗯，因为这就是他们制造洲际弹道导弹的原因，它们，它们是最快的，嗯，所以我认为那会非常令人兴奋，嗯，是的，我想，呃，是的，我是说，一旦进入太空的成本大幅降低，那么许多事情就成为可能了，嗯，你可以这样想，一旦有了联合太平洋铁路，那么，你知道，前往西海岸就快得多，也没那么危险了，是的，你不太可能在某种大雪环境中最后吃掉自己的同伴，呃，你知道，所以你可以直接坐火车，所以，所以，你知道，起初他们觉得，他们到底为什么要修建那个"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "stupid Railway there's nobody there's nobody there and they're like um but once you build the railway they're like okay now it's easy to get to the West Coast uh and now a huge portion of the US population is on the west coast um and actually California is the most popular state in the nation um but it it used to be well least populous I suppose for pretty low um so many things are possible once you once the transport uh problem is solved so that's why I think it's so fundamental if you can't believe you can't get there or getting there is takes a long time and you can't risk and every mission is going to work then it's very hard to innovate um it's got to be that okay some missions won't work and the cost of running the experiment is low that's why I'm",
+      "textZh": "愚蠢的铁路，那里一个人也没有，一个人也没有，他们就像，嗯，但一旦你修建了铁路，他们就会说，好吧，现在去西海岸很容易了，呃，而现在美国人口中有很大一部分都在西海岸，嗯，实际上加利福尼亚州是全国最受欢迎的州，嗯，但它过去是，嗯，我想是人口最少的，人口相当少，嗯，所以一旦你、一旦交通问题得到解决，很多事情就有可能实现，所以这就是为什么我认为它如此根本。如果你不能相信自己能到那里，或者到那里要花很长时间，而且你不能冒险，并且每次任务都必须成功，那么创新就非常困难，嗯，必须是这样：好吧，有些任务不会成功，而且开展实验的成本很低，这就是为什么我"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "hot I'm harping so much on the cost of transport um so um you know once you're there I think like say establishing a base on the moon or base on Mars uh there's just a tremendous amount of work work that's needed to create a self-sustaining base on the moon on Mars and it opens up a command's amount of opportunity just as the Union Pacific Railroad did by making access to the West Coast not much easier okay um um yeah I mean outside of the space space realm I think there's a lot of opportunity in tunnels I think I've been saying that for a long time um so our tunnels are great um they're really great um and uh the boring company is about to finish its first tunnel in Vegas I encourage I encourage people to copy please copy the boring company or do better",
+      "textZh": "热，我一直如此强调运输成本，嗯，所以，嗯，你知道，一旦你到了那里，我认为，比如说在月球上建立基地或在火星上建立基地，呃，要在月球上、火星上建成一个能够自我维持的基地，需要完成极其大量的工作、工作，而这会带来一个司令部那么多的机会，就像联合太平洋铁路让前往西海岸变得没有容易多少一样。好吧，嗯，嗯，是的，我的意思是，在太空、太空领域之外，我认为隧道方面有很多机会。我想我已经这么说很久了，嗯，所以我们的隧道很棒，嗯，它们真的很棒，嗯，而且，呃，The Boring Company 即将在拉斯维加斯完成它的第一条隧道。我鼓励、我鼓励人们复制，请复制 The Boring Company，或者做得更好"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "that'd be great there's um so in terms of domains you have Subterranean yeah um obviously Tesla Tesla covers the ground domain as capabilities you've got the space domain covered with uh SpaceX and starlink capabilities uh I think this is this is the air Warfare Symposium folks might not in the audience might be interested in if you have any ideas for the air domain specifically for the air domain um I think uh things like things are very definitely going to go into kind of autonomous locally autonomous drone Warfare is where it's at where the future will be now I'm just saying that was not I want the future to be this it's just this is what the future will be okay as autonomous drone Warfare um and at a local local level uh the you know um okay I can't",
+      "textZh": "那会很棒。这里有，嗯，所以从领域来说，你们有地下，是的，嗯，显然 Tesla、Tesla 凭借其能力覆盖了地面领域；你们凭借，呃，SpaceX 和星链的能力覆盖了太空领域，呃，我想这是、这是空战研讨会，观众中的各位可能、可能会对这个感兴趣：如果你对空中领域有什么想法，特别是对空中领域，嗯，我认为，呃，诸如此类的事情非常确定会走向某种自主的、本地自主的无人机战争，这就是方向，也是未来所在。现在我只是说，我并不是、我想让未来变成这样，只是这就是未来将会成为的样子，好吧，也就是自主无人机战争，嗯，并且是在本地、本地层面，呃，那个，你知道，嗯，好吧，我不能"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "believe I'm saying this because this is this is like dangerous but it's simply what will occur is is sort of a is it drones locally being autonomous um and um but I think we still want to retain sort of like you know that's the authority to damage or destroy uh you know anything that that isn't an autonomous drone keep that Authority back here with the person in the loop okay but it's it's the the fighter jet era has passed that is it's just yeah why did your errors past okay so it's drawings um let's go back to failure for a minute and and the mindset that that you have you and your leadership team at Tesla and SpaceX have on failure I mean the SpaceX blooper reel uh that you guys did in I think it was 2017 time frame um was definitely hey we Embrace",
+      "textZh": "相信我会这么说，因为这、这就像很危险，但将会发生的情况就是、就是某种，是无人机在本地实现自主，嗯，而且，嗯，但我认为我们仍然希望保留某种，你知道，就是对任何、呃，你知道，任何并非自主无人机的东西造成损害或予以摧毁的权限，把那项权限留在这里，由人在回路中掌握，好吧。但战斗机时代已经过去了，也就是说，它只是，是的，为什么你的错误过去了，好吧，所以它是图纸，嗯，让我们暂时回到失败这个话题，以及、以及你和你在 Tesla 与 SpaceX 的领导团队对失败所抱持的心态。我的意思是，SpaceX 的搞砸集锦，呃，就是你们在我想大约是 2017 年那个时间段制作的，嗯，显然是在说，嘿，我们拥抱"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "this learning that occurs more recently with the the Tesla truck and the and the ball through the window also uh that mind crew that foreign that mindset that Embraces failure how do you personally I mean those kinds of failures would drive a lot of us in this room nuts but doesn't seem to drive you nuts seems like you're very comfortable with it can you talk about the mindset that requires for you to be that accepting of that kind of failure uh sure should we roll the video no or should we not no we should not roll a video not yet okay okay um okay um well I think of the these things as just there's a certain amount of time and within that time you want the the best net outcome so for you know all the set of actions that you can do there's going to be",
+      "textZh": "由此产生的这种学习。更近一些的是 Tesla 卡车，以及、以及球穿过车窗的事，还有，呃，那种思想团队、那种外来的、那种拥抱失败的心态。你个人是怎么做到的？我的意思是，那些类型的失败会把这个房间里的很多人逼疯，但似乎并不会把你逼疯。你似乎对此非常自在。你能谈谈这要求怎样的心态，才能让你如此接受那种失败吗？呃，当然。我们要播放视频吗？不，还是不该播放？不，我们不该播放视频，还不到时候。好吧，好吧，嗯，好吧，嗯，我把这些事情看作就是：时间是一定的，而在这段时间里，你希望得到最好的净结果。所以对于，你知道，在你可以采取的整套行动中，将会有"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "uh and some which will fail some of which will succeed and you want the the the net useful output of your set of actions to be the highest um so um like he's like a baseball analogy like you know baseball they don't let you just sit there and wait for the perfect pitch until you get a real easy one that you're gonna give you three shots third one and they say okay get off the go back to the put somebody else up there um so these three strikes on on baseball um look yeah not on that anymore so you're what you're really looking for is like what's the batting average you know how are you doing on uh on score um and just there's going to be some amount of failure um but you want your net output um that useful output to be maximized failure is essentially",
+      "textZh": "呃，其中一些会失败，一些会成功，而你希望你的这套行动产生的、这个、这个净有用产出达到最高，嗯，所以，嗯，就像他、就像一个棒球类比，比如你知道，棒球不会让你只是坐在那里等待完美的投球，直到你等到一个真正容易的球，你会获得 3 次机会，第三次，然后他们说，好吧，离开，回去，让别人上场，嗯，所以棒球里有三振，嗯，看，是的，现在不讲那个了。所以你真正关注的是，比如说击球率是多少，你知道，你在，呃，在得分方面表现如何，嗯，而且就是会有一定数量的失败，嗯，但你希望你的净产出，嗯，也就是有用产出得到最大化。失败本质上是"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "relevant unless it is catastrophic okay yeah okay um intellectual property obviously uh Tesla SpaceX Solar City have amazing capabilities that they're bringing to the uh to the public and to the government every day how do you protect your intellectual property in a world where it seems like the cloud and servers and things are constantly under attack from people wishing to free you of their your intellectual property yeah well actually at Tesla we just uh open sourced our patents uh some years ago so anyone can use our patents so we really have not been tried to protect intellectual property uh in that sense uh we've tried to actually smooth the path um because the the overarching goal of Tesla is to accelerate the Advent of sustainable energy and so",
+      "textZh": "无关紧要的，除非它是灾难性的。好吧，是的，好吧，嗯，知识产权，显然，呃，Tesla、SpaceX、Solar City 拥有惊人的能力，它们每天都把这些能力带给，呃，公众和政府。面对一个云端、服务器和各种东西似乎不断受到攻击的世界，那些人希望让你摆脱他们的、你的知识产权，你们如何保护自己的知识产权？是的，嗯，实际上在 Tesla，我们在，呃，几年前就开源了我们的专利，所以任何人都可以使用我们的专利。因此，从那个意义上说，我们实际上一直没有试图保护知识产权，呃，我们实际上一直试图把道路铺平，嗯，因为 Tesla 的总体目标是加速可持续能源时代的到来，所以"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "if we created a pattern portfolio that discouraged other companies from making electric cars they will be inconsistent with our mission so we open sourced all the patterns okay in order to help the other anyone else who wants to make an electric car so I guess that's the opposite of protecting the IP now the real way I think you you actually achieve intellectual property protection right is by innovating fast enough if your rate of innovation is high then you don't need to worry about protecting VIP because other companies will be copying something that you did years ago and that's fine you know um just make sure your rate of innovation is fast speed is really speed of innovation is what is what matters and I do I do say this to my teams like quite a",
+      "textZh": "如果我们创建了一个阻碍其他公司制造电动汽车的模式组合，那就会与我们的使命不一致，所以我们开源了所有模式，好吧，为的是帮助其他任何想制造电动汽车的人。所以我想，这与保护知识产权正好相反。现在，我认为你真正实现知识产权保护的方式，对吧，是足够快地创新。如果你的创新速度很高，那么你就不需要担心保护 VIP，因为其他公司会复制你多年前做过的东西，而那没关系，你知道，嗯，只要确保你的创新速度够快。速度，真正重要的是、重要的是创新速度。我确实、确实经常对我的团队这样说，比如相当"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "lot that Innovation per unit time as I go Innovation per year if you want to say it's like is is what matters not Innovation absent time because if you wanted to make say um 100 Improvement in something and that took 100 years or one year that's radically different so um it's like what is your rate of innovation that that matters and is the rate of innovation um is that accelerating or decelerating um and a weird thing happens when companies get big is that most companies um or organizations the bigger they get they tend to get less innovative um not just less Innovative on a per person basis but less Innovative in the absolute um and I think this is probably because data set of structure is not uh it's not there for innovation it's not enough to use",
+      "textZh": "多次说，单位时间内的创新，就像我所说的每年创新，如果你想这么说的话，才是、才是重要的，而不是脱离时间的创新。因为如果你想在某件事上实现，比如说，100 的改进，而这花了 100 年或 1 年，那是截然不同的。所以，嗯，就像你的创新速度是多少，那、那才重要，以及创新速度，嗯，是在加快还是在减慢，嗯，而当公司变大时，会发生一件奇怪的事，就是大多数公司，嗯，或者组织，规模越大，往往创新越少，嗯，不仅人均创新更少，而且绝对意义上的创新也更少，嗯，我认为这可能是因为数据集的结构并不是，呃，它并不是为创新而设的。仅仅使用"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "words to encourage Innovation the incentive structure must be aligned with that that's fundamental so um so um taking that from a business level to a national level in terms of obviously United States largest economy in the world China the second largest economy in the world currently and gaining fast what sort of things that could you share with the audience here that are your thoughts on the competition economic or military between the United States and China sure um well I think China is a real interesting country I have to say the the thing to appreciate about China is just that there's a lot of really smart really hard-working people there and they're going to do a lot of great things um this is sort of you know independent of Chinese government",
+      "textZh": "言语来鼓励创新是不够的，激励结构必须与之保持一致，这是根本性的。所以，嗯，所以，嗯，把这个从企业层面提升到国家层面，显然，就目前而言，美国是世界第一大经济体，中国是世界第二大经济体，并且正在快速追赶。关于美国和中国之间的经济或军事竞争，你有什么样的想法可以与这里的观众分享？当然，嗯，我认为中国是一个真正有趣的国家。我必须说，对于中国需要认识到的一点就是，那里有很多非常聪明、非常勤奋的人，而他们将会做很多了不起的事情，嗯，这在某种程度上，你知道，是独立于中国政府"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "policy they're just going to do a lot of interesting things um the thing that will be that will feel pretty strange is that the Chinese economy is going to be probably at least twice as big as the US economy maybe three times but at least twice so and that assumes that GDP per capita still less than the us but uh since they have about four or five times the population uh then it would only require getting to a GDP per capita of half the United States for their economy to be twice the size of ours and as I'm sure people in this room know the foundation of war is economics and so if you if you have half the resources of the counterparty then you better be real Innovative if you're not Innovative you're going to lose I'm not sure whether that's a Cyber attack",
+      "textZh": "政策的。他们就是会做很多有趣的事情，嗯，会让人感觉相当奇怪的一点是，中国经济可能会至少达到美国经济的 2 倍，也许是 3 倍，但至少是 2 倍。所以，这还是假设其人均 GDP 仍然低于美国，但，呃，由于他们的人口大约是美国的 4 或 5 倍，呃，那么只需要让人均 GDP 达到美国的一半，他们的经济规模就会是我们的 2 倍。而且我相信这个房间里的人都知道，战争的基础是经济，所以如果你、如果你的资源只有对手的一半，那么你最好真正具有创新能力。如果你不创新，你就会输。我不确定这里是不是正在发生网络攻击"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "that's uh ongoing or not here so um the clock says I have 11 minutes left is that not true foreign it's coming through the house system we're working to get it shut off okay thank you um yes well um anyway um so so yeah with respect to China China's economy is is going to be two to three times the size of the US economy at least at least double therefore in order for the US to be competitive on uh military level the innovation has to overcome a gigantic Gap in economic output okay so in the absence of radical Innovation the US will be voluntarily uh second okay basic basic math what um from the standpoint of uh uh radical innovation we already talked about Workforce we talked about processes we talked about uh protecting uh intellectual property rights",
+      "textZh": "那，呃，是否还在这里持续着，所以，嗯，时钟显示我还剩 11 分钟，这不是真的吗？外来的，它正通过会场系统传出来，我们正在努力把它关掉。好吧，谢谢。嗯，是的，好的，嗯，不管怎样，嗯，所以、所以，是的，关于中国，中国的经济规模将会是美国经济的 2 到 3 倍，至少、至少是 2 倍。因此，为了让美国在，呃，军事层面保持竞争力，创新必须克服经济产出上的巨大差距，好吧。所以在缺乏激进创新的情况下，美国将自愿成为，呃，第二，好吧。基本、基本的数学。什么，嗯，从，呃、呃，激进创新的角度来看，我们已经谈过劳动力，我们谈过流程，我们谈过，呃，保护，呃，知识产权"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "let's talk about overall culture that culture that you try and push into your companies that makes them successful any of us and I sat right next to one of your SpaceX employees on the plane here yesterday a young engineer it was motivating for me just to talk to her about what she was doing every day and how important her job was and I just felt like the only other place I've seen that kind of culture is frankly in the department of the Air Force with some of our young folks that are sprinkled around the back of the room how do you create that culture at SpaceX and Tesla to to make employees like that well wow this smooth jazz is just honest with a vengeance uh I feel like we're in a big elevator [Laughter] um so first person when we interview people",
+      "textZh": "让我们谈谈整体文化，也就是你努力在公司内部推行、使它们取得成功的那种文化。我们中的任何人——昨天来这里的飞机上，我就坐在你们一位 SpaceX 员工旁边，一位年轻的工程师。仅仅和她谈论她每天在做什么，以及她的工作有多么重要，就让我深受鼓舞。坦率地说，我觉得我只在空军部见过这种文化，在会场后方各处也坐着我们的一些年轻人。你是如何在 SpaceX 和 Tesla 营造这种文化，从而培养出那样的员工的？嗯，哇，这段流畅爵士乐简直诚实得过了头。呃，我感觉我们正在一部大电梯里。[笑声] 嗯，所以，首先，当我们面试人员时"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "we we do ask for some evidence of exceptional ability which in most cases includes Innovation this is not said everyone needs to be Innovative it's but we certainly need those that are doing Advanced engineering to be Innovative and ideally everyone is at least some to some degree in an Innovative so at the interview point we select for it for people who want to create new technology and then the incentive structure is set up that such that uh Innovation is rewarded making mistakes along the way it does not come with a big penalty um and but but failure to try to innovate at all comes with a big penalty you'll be fired okay yeah all right the carrot and stick yes the stick if you don't even try um or or somebody doesn't even try to invade or their Innovation",
+      "textZh": "我们我们的确会要求提供一些具备非凡能力的证据，而在大多数情况下，这包括创新。这并不是说每个人都需要有创新能力，而是，但我们当然需要那些从事先进工程的人具备创新能力，而且理想情况下，每个人都至少在某种某种程度上具有创新性。所以在面试阶段，我们会据此筛选，选择那些想创造新技术的人，然后激励结构会被设置成，呃，创新会得到奖励，在这个过程中犯错不会受到很大的惩罚，嗯，而而完全不尝试创新则会受到很大的惩罚，你会被解雇。好的。是的。好吧，胡萝卜加大棒。是的，如果你根本不尝试，就会有大棒，嗯，或或者某个人甚至不尝试入侵，或者他们的创新"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "aspirations are are very are not not very good then yeah they will not be at the company okay okay all right so um we got about five minutes left and what I'd like to do is just turn it over to you Elon to talk about whatever you'd like to talk about if you have a message for the audience here you have uh you know a thousand plus Air and Space professionals and the greatest uh air and space force on the planet so what do you want to tell them we got to make Starfleet happen like so so we were like I don't know real big spaceships that can go far places and uh those probably get me the most trouble of all I think this should be a new uniform that's that you know um that that's like uh I don't know cool uniforms cool spaceships yeah I think that's what",
+      "textZh": "抱负非非常，不不是很好，那么，是的，他们就不会留在公司。好的，好的。好吧，那么，嗯，我们还剩大约5分钟，我想做的是把时间交给你，埃隆，请你谈谈任何你想谈的内容。如果你有什么话想对这里的观众说，这里有，呃，你知道，1000多名航空与太空专业人士，以及这个星球上最强大的，呃，空中与太空力量，那么你想告诉他们什么？我们得让星际舰队成为现实。比如，所以所以我们要有，像是，我不知道，真正巨大的、能够去往遥远地方的宇宙飞船，而且，呃，那些东西可能会给我惹来最多麻烦。我认为这应该是一套新制服，那那个，你知道，嗯，那那就像是，呃，我不知道，很酷的制服，很酷的宇宙飞船。是的，我认为那就是"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "when the public hears space force that's what they think it's like okay we're gonna have like some sweet spaceships and like pretty look good uniforms and stuff and that'll be that's what the public wants um so yeah we want the Sci-Fi Futures the the the good Sci-Fi Futures to be real and ideally to become real while we're still alive you know and everyone want to see it happen and so I think we just really need to drive the rate of innovation to be such that we would see uh big big breakthroughs big improvements in space technology and you know in the years to come so yeah so like just trying to make stuffing happen it's as soon as humanly possible and definitely while we're while we're still alive yeah so I'm not sure about wolf drive but other stuff",
+      "textZh": "公众听到太空军时所想到的东西，就像，好吧，我们会有一些非常棒的宇宙飞船，还有像是相当好看的制服之类的，而那会是，那就是公众想要的，嗯。所以，是的，我们希望科幻未来，那那那些美好的科幻未来成为现实，而且理想情况下，在我们还活着的时候成为现实，你知道，每个人都希望看到它发生。所以我认为，我们确实需要把创新速度推进到这样一种程度，让我们能在未来几年看到，呃，太空技术方面的巨大巨大突破和巨大改进。所以，是的，就像是尽力让填充发生，尽可能快地实现，而且肯定要在我们我们还活着的时候实现。是的，所以我不确定狼驱动，但其他东西"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "I think can be done one driving teleportation probably not but big spaceships that can go far places definitely that can be done understood all right ladies and gentlemen Elon Musk [Applause] [Music] ladies and Gentlemen please welcome back to the stage afa's chairman of the board Gerald Murray [Music] all right isn't it exciting just absolutely incredible and so I see a lot of you exiting probably we've got to go someplace I would ask that if you could that you might want to hold on I mean it's not completely at the end right now but I recognize people have flights and everything uh listen as we close out this year's air Warfare Symposium I'd be remiss if I didn't recognize our great Air Force leaders again that are here and especially for a couple that",
+      "textZh": "我认为可以做到。单一驱动传送大概不行，但能够前往遥远地方的大型宇宙飞船肯定可以做到。明白了。好了，女士们先生们，埃隆·马斯克。[掌声] [音乐] 女士们先生们，请欢迎AFA董事会主席杰拉尔德·默里重返舞台。[音乐] 好了，这难道不令人兴奋吗，简直不可思议。所以我看到你们很多人正在离场，可能我们得去某个地方。我想请求各位，如果可以的话，你们或许可以再稍等一下。我的意思是，现在还没有完全结束，但我知道大家要赶飞机之类的。呃，听着，在我们结束今年的空战研讨会之际，如果我不再次向到场的杰出空军领导人致意，那将是我的失职，尤其是其中有几位"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "are here for their last time in the capacity and so for that reason I'd like to ask Orville and if you would and general golfing and chief Master of the Air Force right if you would please join me on stage foreign [Applause] [Music] foreign [Music] foreign [Music] thank you [Music] sir we've had no two greater leaders to lead our Force as a team together sir you came into the air force in 1983.",
+      "textZh": "是最后一次以这一身份来到这里，因此，我想请奥维尔，如果你愿意的话，还有高尔夫将军和空军总军士长，对吧，如果你们愿意，请上台来。外国的。[掌声] [音乐] 外国的。[音乐] 外国的。[音乐] 谢谢。[音乐] 长官，再也没有比你们2位更杰出的领导者，能够作为一个团队共同领导我们的部队。长官，你于1983年加入空军。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "and so to remember your Air Force and our Air Force Association Orville has a book for you that was the Air Force magazines all put together in this book from 1983.",
+      "textZh": "所以，为了纪念你的空军和我们的空军协会，奥维尔为你准备了一本书，那是把1983年的《空军》杂志全部汇集在这本书里。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "she messed her the Air Force right you came in in 1989 and it's my great pleasure to be able to present you also the almanacs of our in magazines of the 1989 for you [Applause] [Music] well what a great two days of Rich discussion of the challenges and issues that are facing our Air Force I hope you have been enjoyed this time as much as I uh the excitement the lessons that we have learned the messages that have been brought by the senior leadership of our air force and today the spark tank just the Innovation that is coming from you our Airmen across this Air Force the future of our forces here one of my former colleagues a master sergeant that is now in Junior ROTC has his class back here in the back that got to witness all of this and and every one",
+      "textZh": "她搞乱了她的空军，对吧，你于1989年加入，而我非常荣幸也能向你赠送我们1989年杂志中的年鉴。[掌声] [音乐] 好了，这是多么精彩的2天，我们深入讨论了空军面临的挑战和问题。我希望你们和我一样享受这段时光，呃，那种兴奋、我们学到的经验、空军高层领导带来的信息，以及今天的火花坦克，还有来自你们、来自这支空军各处的空军官兵的创新。我们部队的未来就在这里。我的一位前同事，一位如今在初级后备军官训练团任职的军士长，把他的班级带到了后面，他们得以见证这一切，而而每一个"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "of them said that they plan to join the United States Air Force when they graduate from high school either through their through going on to college in the commission or directly into our Air Force our future that is here and we couldn't be happier and prouder for the opportunity to be supporting you we also want to thank the cadets of the University of Central Florida for their assistance our industry partners and I thank all of you for joining us as well as always we appreciate your continued support we hope you've learned a lot about this press at this professional education program sponsored by your Association if you like what you've seen here I invite you again to be a member of this great Association so we may continue to support our air force",
+      "textZh": "他们中有人说，他们计划在高中毕业后加入美国空军，要么通过他们的，通过进入大学并获得军官任命，要么直接加入我们的空军。我们的未来就在这里，而能有机会支持你们，我们无比高兴和自豪。我们还要感谢中佛罗里达大学的学员们提供协助，感谢我们的行业合作伙伴，也感谢你们所有人的参与。一如既往，我们感谢你们持续给予支持。我们希望你们在这项由你们的协会赞助的新闻、这项专业教育项目中学到了很多东西。如果你们喜欢在这里看到的内容，我再次邀请你们成为这个伟大协会的会员，这样我们就可以继续支持我们的空军"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "and be the force behind the force now and into the future again thank you for joining us we hope to see you in September the 14th through the 16th put that on your calendar and the National Harbor in Washington D.",
+      "textZh": "并在现在和未来成为这支力量背后的力量。再次感谢各位参与。我们希望于9月14日至16日见到你们，把这个日期记到日历上，地点是华盛顿D.的国家港湾。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "C for the afa's air space and cyber space conference safe travels to all of you God bless you ladies and gentlemen this includes afa's 36th air Warfare symposium foreign [Music]",
+      "textZh": "C，参加AFA航空、太空与网络空间会议。祝各位旅途平安。上帝保佑你们。女士们先生们，这包括AFA第36届空战研讨会。外国的。[音乐]"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T20:46:08.245Z",
+    "reviewedAt": "2026-09-12T21:28:05.190Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:16.425Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=E307nHamdY8",
+  "sourceHash": "b7eb3fdc48f20607f9aeea1a5de733f0055e1ee1dcfd4041598100976af26fde"
+}

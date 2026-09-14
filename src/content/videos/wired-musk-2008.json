@@ -1,0 +1,118 @@
+{
+  "id": "wired-musk-2008",
+  "slug": "wired-musk-2008",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2008-08-05",
+  "titleEn": "Now 0-for-3, SpaceX's Elon Musk Vows to Make Orbit",
+  "titleZh": "现已0胜3负，SpaceX 的埃隆·马斯克誓言进入轨道",
+  "summaryEn": "Days after Falcon 1's third failure, Musk talks to Wired about SpaceX's setbacks, why the losses still count as progress, and his refusal to give up — \"Optimism, pessimism, f*** that; we're going to make it happen.\"",
+  "summaryZh": "在 Falcon 1 第3次失败数日后，马斯克与 Wired 谈论了 SpaceX 遭遇的挫折、为什么这些损失仍算作进展，以及他拒绝放弃的态度——“乐观、悲观，去他妈的；我们会让它实现。”",
+  "sourceUrl": "https://www.wired.com/2008/08/musk-qa/",
+  "sourceLabel": "Wired — Carl Hoffman",
+  "archiveUrl": "https://elonmuskarchive.org/video/wired-musk-2008",
+  "thumbnailUrl": "https://arquivo.pt/noFrame/replay/20210314212911id_/https://www.wired.com/wp-content/uploads/archive/images/article/full/2008/08/elon_musk_630px.jpg",
+  "org": "SpaceX",
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Wired.com: Wired.com spoke with Musk about SpaceX's string of setbacks, the power of patience and the future of privately funded spaceflight. What happened up there Saturday?",
+      "textZh": "Wired.com：Wired.com 与马斯克谈论了 SpaceX 接连遭遇的挫折、耐心的力量以及私人资助航天飞行的未来。周六上面发生了什么？"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "Elon Musk: We're not quite ready to release details on the initial investigation yet, but we should do it very soon. We think we have a very good idea but I don't want to get ahead of ourselves and then be wrong. We definitely know where the problem occurred, but 'why?' is the question. We think we know, but have to be sure. We think it's very small and will require a tiny change, so tiny that if we had another rocket on the pad we could launch tomorrow.",
+      "textZh": "埃隆·马斯克：我们还没有完全准备好公布初步调查的细节，但应该很快就会公布。我们认为自己已经非常清楚是怎么回事，但我不想操之过急，然后又弄错。我们肯定知道问题发生在哪里，但“为什么？”才是问题。我们认为自己知道，但必须确定。我们认为问题非常小，只需要做一个微小的改动，小到如果发射台上还有另一枚火箭，我们明天就能发射。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Wired.com: You always emphasize testing and testing and more testing, and you've been super careful to make sure everything is right before launching. So what's the disconnect — why do things still go wrong?",
+      "textZh": "Wired.com：你总是强调测试、测试以及更多测试，而且你一直极其谨慎，确保发射前一切都正确无误。那么问题出在哪里——为什么事情还是会出错？"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "Musk: Some things can only be tested in space. Bear in mind, Falcon 1 is our test vehicle. The reason we started with F1 isn't because I'm passionate about launching small satellites, but because I want to make mistakes on a small scale and not a large one. And this doesn't appear to be a quality issue or a manufacturing issue. It's a design issue related to new hardware that has only flown on this flight. It was our first with the new Merlin 1C regeneratively cooled engine. The problem we think we've identified is a lesson learned and thus we won't make it on the big Falcon 9, and in that sense it's helpful.",
+      "textZh": "马斯克：有些东西只能在太空中测试。请记住，Falcon 1 是我们的测试飞行器。我们从 F1 开始，并不是因为我热衷于发射小型卫星，而是因为我想在小规模上犯错，而不是在大规模上犯错。而且，这看起来并不是质量问题或制造问题。这是一个与新硬件有关的设计问题，而该硬件只在这次飞行中飞过。这是我们首次采用新型 Merlin 1C 再生冷却发动机。我们认为已经找出的问题给了我们一个教训，因此我们不会在大型 Falcon 9 上犯同样的错误，从这个意义上说，它是有帮助的。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Wired.com: Your whole mantra is \"cheaper and more reliable.\" But so far you're zero for three, which is anything but cheap and reliable, and guys like GlobalSecurity.org's John Pike say the reason it has taken billions of dollars and tens of thousands of people to successfully launch rockets is physics, not some new design or economic model.",
+      "textZh": "Wired.com：你的整个口号都是“更便宜、更可靠”。但到目前为止，你们是 3 次 0 成功，这一点也谈不上便宜和可靠，而像 GlobalSecurity.org 的 John Pike 这样的人说，成功发射火箭之所以需要数十亿美元和数万人，是因为物理规律，而不是什么新的设计或经济模式。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "Musk: Guys like John Pike have existed since the dawn of time, and if you listen to people like that then things will never get better, never change. It's a false point of view. Yes, we need to put some rockets into orbit. But the first order of business is to get rid of design errors, which we're doing, and once those are eliminated then you're dealing with repeatability, and people should judge what we're doing from the point of view of all the design issues we've ironed out through these F1 test flights.",
+      "textZh": "马斯克：像 John Pike 这样的人自古以来就存在，如果你听这种人的话，事情就永远不会变好，永远不会改变。这是一种错误的观点。是的，我们需要把一些火箭送入轨道。但首要任务是消除设计错误，而这正是我们正在做的；一旦这些错误被消除，接下来要处理的就是可重复性，人们应该从我们通过这些 F1 试飞解决了所有这些设计问题的角度来评判我们正在做的事情。"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "Wired.com: You've been quoted many times saying you had enough money for three unsuccessful flights, and then …",
+      "textZh": "Wired.com：很多报道都引用过你的话，说你的钱足够支撑 3 次失败的飞行，然后……"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Musk: That was the dumbest thing I've ever said. I meant that after three unsuccessful flights we might be abandoned by our customers — if they abandoned us I couldn't see how it would work. But that has turned out not to be the case. We've gained customers between missions and so it would be silly to abandon the business when we have 12 flights ahead of us.",
+      "textZh": "马斯克：那是我说过的最愚蠢的话。我的意思是，3 次飞行失败后，我们的客户可能会抛弃我们——如果他们抛弃我们，我看不出事情还能怎么运转下去。但事实证明并非如此。我们在任务之间还赢得了客户，所以当我们前面还有 12 次飞行时，放弃这项业务就太愚蠢了。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "Wired.com: But you're about to formally announce SpaceX's first outside investment?",
+      "textZh": "Wired.com：但你马上就要正式宣布 SpaceX 的首笔外部投资了？"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "Musk: Yes, we took an investment from the Founder's Fund, a fund run by a bunch of guys I used to work with at PayPal. They've been interested in SpaceX for a long time and I knew that, and thought it might be smart to take an investment from them to increase our war chest in case something didn't go right on flight three. Which turned out to be true.",
+      "textZh": "马斯克：是的，我们接受了 Founder's Fund 的投资，这只基金由一群我以前在 PayPal 共事过的人运营。他们长期以来一直对 SpaceX 感兴趣，我也知道这一点，并且觉得接受他们的投资、增加我们的资金储备也许是明智之举，以防第 3 次飞行出现差错。结果确实如此。"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Wired.com: At the end of the day you're still zero for three; you have so far failed to put a rocket into orbit.",
+      "textZh": "Wired.com：归根结底，你们仍然是 3 次 0 成功；到目前为止，你们未能将火箭送入轨道。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Musk: We haven't gotten into orbit, true, but we've made considerable progress. If it's an all-or-nothing proposition then we've failed. But it's not all or nothing. We must get to orbit eventually, and we will. It might take us one, two or three more tries, but we will. We will make it work.",
+      "textZh": "马斯克：我们还没有进入轨道，这是真的，但我们已经取得了相当大的进展。如果这是一件非成即败的事，那我们已经失败了。但它并不是非成即败。我们最终必须进入轨道，而且我们会做到。我们可能还要再尝试 1 次、2 次或 3 次，但我们会做到。我们会让它成功。"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Wired.com: How do you maintain your optimism?",
+      "textZh": "Wired.com：你是如何保持乐观的？"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Musk: Do I sound optimistic?",
+      "textZh": "马斯克：我听起来很乐观吗？"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "Wired.com: Yeah, you always do.",
+      "textZh": "Wired.com：是啊，你听起来总是如此。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Musk: Optimism, pessimism, fuck that; we're going to make it happen. As God is my bloody witness, I'm hell-bent on making it work.",
+      "textZh": "马斯克：乐观、悲观，去他妈的；我们就是要把它做成。老天他妈的可以为我作证，我铁了心要让它成功。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Wired.com: So what have you learned so far?",
+      "textZh": "Wired.com：那么到目前为止，你学到了什么？"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Musk: Patience is a virtue, and I'm learning patience. It's a tough lesson.",
+      "textZh": "马斯克：耐心是一种美德，而我正在学习耐心。这是艰难的一课。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T02:00:53.068Z",
+    "reviewedAt": "2026-09-13T02:29:14.942Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:32.871Z",
+  "transcriptSource": "Wired.com (Carl Hoffman, Aug 5, 2008)",
+  "sourceHash": "b204172ae7f6f7abb1d1ac5e2c54706d673f9123163bf6d86a5fd57c57b51706"
+}

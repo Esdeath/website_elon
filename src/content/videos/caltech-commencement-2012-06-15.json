@@ -1,0 +1,454 @@
+{
+  "id": "caltech-commencement-2012-06-15",
+  "slug": "caltech-commencement-2012-06-15",
+  "snapshotId": "2026-09-12",
+  "type": "speech",
+  "date": "2012-06-15",
+  "titleEn": "Caltech Commencement Address",
+  "titleZh": "加州理工学院毕业典礼演讲",
+  "summaryEn": "At Caltech's 118th commencement, Musk delivers his \"Magicians of the 21st Century\" address — urging graduates to work hard, take risks while young, question assumptions and reason from first principles, and go create technology so advanced it looks like magic.",
+  "summaryZh": "在加州理工学院第 118 届毕业典礼上，马斯克发表了题为《21 世纪的魔法师》的演讲，敦促毕业生努力工作、趁年轻承担风险、质疑假设并从第一性原理出发进行推理，以及去创造先进到看起来像魔法一样的技术。",
+  "sourceUrl": "https://www.youtube.com/watch?v=u688eJkLBRM",
+  "sourceLabel": "California Institute of Technology",
+  "archiveUrl": "https://elonmuskarchive.org/video/caltech-commencement-2012-06-15",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/u688eJkLBRM",
+  "thumbnailUrl": "https://i.ytimg.com/vi/u688eJkLBRM/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 980,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 11.68,
+      "textEn": "I'd like to thank you for leaving crazy person out of the description.",
+      "textZh": "我要感谢你在介绍中没有说我是疯子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 16.8,
+      "textEn": "So I thought. I was trying to think, what is the most useful thing that I could. What could I say that could actually be helpful or useful to you in the future?",
+      "textZh": "所以我想。我当时试着思考，我能做的最有用的事情是什么。我能说些什么，才会在未来真正对你们有所帮助或有用？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 26.95,
+      "textEn": "And I thought perhaps tell the story of how I sort of came to be here. How did some of these things happen? And maybe there's some lessons there, because I often find myself wondering, how did this happen?",
+      "textZh": "然后我想，或许可以讲讲我是怎么走到这里的。这里面有些事情是如何发生的？也许其中有一些经验，因为我经常发现自己在想，这一切是怎么发生的？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 41.03,
+      "textEn": "So when I was young, I didn't really know what I was going to do. When I got older, people kept asking me. But then eventually I thought that the idea of inventing things would be. Would be really cool. And the reason I thought that was because I read a quote from Arthur C. Clark which said that a sufficiently advanced technology is indistinguishable from magic. And that's really true. If you go back, say, 300 years, the things that we take for granted today would be.",
+      "textZh": "所以我年轻的时候，并不真正知道自己以后要做什么。当我长大后，人们不断问我。但最终我想到，发明东西这个想法会很。会非常酷。我这么想的原因是，我读过阿瑟·C·克拉克的一句话，说任何足够先进的技术都与魔法无异。这确实是真的。如果你回到，比如说，300 年前，我们今天认为理所当然的事物会是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 77.02,
+      "textEn": "You'd be burned at the stake for, you know, being able to fly. That's crazy. Being able to see over long distances, being able to communicate, having effectively with the Internet, a group mind of sorts, and having access to all the world's information instantly from almost anywhere on the Earth. This is stuff that really would be magic. It would be considered magic in times past. In fact, I think it actually goes beyond that because there are many things that we take for granted today that weren't even imagined in times past.",
+      "textZh": "你会因此被绑在火刑柱上烧死，你知道，因为你能飞。那太疯狂了。能够看到遥远的地方，能够交流，借助互联网实际上拥有某种群体思维，以及几乎能从地球上的任何地方即时获取全世界的所有信息。这些东西真的会是魔法。在过去，它们会被认为是魔法。事实上，我认为实际情况甚至超出了这一点，因为我们今天认为理所当然的许多事物，在过去甚至都没有人想象过。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 115.87,
+      "textEn": "They weren't even in the realm of magic. So it actually goes beyond that. So I thought, well, if I can do some of those things, basically, if I can advance technology, then that's like magic, and that would be really cool. And I was at sort of a slight existential crisis because I was trying to figure out, what does it all mean? Like, what's the purpose of things? And I came to the conclusion that if we can advance the knowledge of the world, if we can do things that expand the scope and scale of consciousness, then we're better able to ask the right questions and become more enlightened.",
+      "textZh": "它们甚至不在魔法的范畴之内。所以实际上，这甚至超越了魔法。于是我想，好吧，如果我能做成其中一些事情，基本上，如果我能推动技术进步，那就像魔法一样，而那会非常酷。我当时有点陷入轻微的存在主义危机，因为我试图弄明白，这一切意味着什么？比如，事物的目的是什么？而我得出的结论是，如果我们能够增进对世界的认识，如果我们能够做些扩大意识范围和规模的事情，那么我们就能更好地提出正确的问题，变得更加开明。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 155.54,
+      "textEn": "And that's really the only way forward. So I studied physics and business because I figured in order to do a lot of these things, you need to know how the universe works, and you need to know how the economy works. And you also need to be able to bring a lot of people together to work with you to create something, because it's very difficult to do something as an individual if it's significant technology.",
+      "textZh": "而这确实是唯一的前进道路。所以我学习了物理学和商业，因为我认为，要做很多这样的事情，你需要知道宇宙如何运作，也需要知道经济如何运作。而且你还需要能够把许多人聚集起来，与你一起工作、共同创造某种东西，因为如果一项技术意义重大，单凭个人很难做成。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 184.95,
+      "textEn": "So I originally came out to California to try to figure out how to Improve the energy density of electric vehicles, basically to try to figure out if there was an advanced capacitor that could serve as an alternative to batteries. And that was in 95. And that's also when the Internet started to happen. And I thought, well, I can either pursue this technology where success may not be one of the possible outcomes, which is always tricky, or participate in the Internet and be part of it.",
+      "textZh": "所以我最初来到加利福尼亚，是想弄清楚如何提高电动汽车的能量密度，基本上是想弄清楚是否存在一种可以替代电池的先进电容器。那是在 95 年。而那也正是互联网开始兴起的时候。我想，好吧，我要么可以钻研这项技术，而成功可能并不是可能出现的结果之一，这总是很棘手；要么就参与互联网，成为其中的一部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 230.25,
+      "textEn": "So I decided to drop out.",
+      "textZh": "所以我决定退学。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 233.37,
+      "textEn": "Fortunately we're past graduation, so I can't be accused of recommending that to you.",
+      "textZh": "幸好毕业典礼已经结束了，所以我就不会被指责是在向你们建议这么做。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 240.57,
+      "textEn": "And did some Internet stuff, you know, did a few things here and there, one of which was PayPal.",
+      "textZh": "然后做了一些互联网方面的事情，你知道，零零散散做了几件事，其中之一就是 PayPal。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 256.24,
+      "textEn": "And I think maybe it's helpful to say one of the things that was important then in the creation of PayPal was kind of how it started. Because initially the initial thought was with PayPal was to create an agglomeration of financial services. So you have one place where all your financial services needs would be seamlessly integrated and work smoothly. And then we had like a little feature which was to do email payments.",
+      "textZh": "而且我想，也许说说当时创建 PayPal 时的一件重要事情，也就是它是如何开始的，会有所帮助。因为最初，对 PayPal 的最初设想是创建一个金融服务的集合体。也就是说，你可以在一个地方无缝整合所有金融服务需求，并让它们顺畅运行。然后我们还有一个小功能，就是通过电子邮件付款。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 283.63,
+      "textEn": "And whenever we show the system off to someone, we'd show the hard part, which was the agglomeration of financial services, which was quite difficult to put together. Nobody was interested. Then we'd show people email payments, which was actually quite easy and everybody was interested. So, so this is, I think it's important to take feedback from your environment.",
+      "textZh": "每当我们向别人展示这个系统时，我们都会展示困难的部分，也就是金融服务的集合体，构建它相当困难。没有人感兴趣。然后我们会向人们展示电子邮件付款，这实际上相当容易，而所有人都很感兴趣。所以，所以我认为，从周围环境中获取反馈很重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 309.12,
+      "textEn": "You want to be as closed loop as possible.",
+      "textZh": "你要尽可能形成闭环。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 312.72,
+      "textEn": "And so we focused on email payments and really try to make that work. And that's what really got things to take off.",
+      "textZh": "于是我们专注于电子邮件付款，真正努力让它运转起来。而这才真正让事情开始腾飞。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 321.52,
+      "textEn": "But if we hadn't responded to what people said, then we probably would not have been successful. So it's important to look for things like that and focus on them when you see them and correct your prior assumptions. And then going from PayPal, I thought, well, what are some of the other problems that are likely to most affect the future of humanity? It really wasn't from the perspective of what's the rank ordered best way to make money, which is okay, but it was really what I think is going to most affect the future of humanity.",
+      "textZh": "但如果我们没有对人们所说的话作出回应，那么我们可能不会成功。所以，留意这类事情很重要；当你发现它们时，要专注于它们，并纠正自己先前的假设。然后离开 PayPal 之后，我想，好吧，还有哪些问题最有可能对人类的未来产生重大影响？我确实不是从什么是赚钱方式的最佳排序这个角度考虑，这样想也没问题，但我真正考虑的是，什么最有可能对人类的未来产生重大影响。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 366.2,
+      "textEn": "So I think the biggest terrestrial problem we've got is sustainable energy, but the production and consumption of energy in a sustainable manner. If we don't solve that the century we're in deep trouble. And then the other one being the extension of life beyond Earth to make life multi planetary. So that's the basis for the latter is the basis for SpaceX and the former is the basis for Tesla and SolarCity.",
+      "textZh": "所以我认为，我们面临的最大的地球问题是可持续能源，但是以可持续方式生产和消耗能源。如果我们不解决这个问题，这个世纪，我们就会陷入严重困境。另一个则是把生命延伸到地球之外，让生命实现多行星化。所以，这是……的基础，后者是 SpaceX 的基础，前者是 Tesla 和 SolarCity 的基础。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 399.72,
+      "textEn": "And when I started SpaceX, it actually initially I thought that, well, there's no way one could possibly start a rocket company. I wasn't that crazy. But then I thought, well, what is a way to increase NASA's budget? That was actually my initial goal. So I thought, well, if we can do a low cost mission to Mars, something called Mars Oasis, which would land seeds with seeds and dehydrated nutrient gel and you hydrate them upon landing and then you'd have this great sort of money shot of green plants on a red background.",
+      "textZh": "而且当我创办 SpaceX 时，实际上起初我想，好吧，一个人根本不可能创办一家火箭公司。我还没有那么疯狂。但后来我想，好吧，有什么办法能增加 NASA 的预算？那其实是我最初的目标。所以我想，好吧，如果我们能以低成本执行一次火星任务，一个名为“火星绿洲”的项目，把种子连同种子和脱水营养凝胶一起送去着陆，在着陆时给它们补水，然后你就能得到这样一个很棒的关键镜头：红色背景上的绿色植物。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 437.98,
+      "textEn": "And the public tends to respond to precedents and superlatives. And this would be the first life on Mars, the furthest that life's ever traveled as far as we know. And I thought, well, that would get people really excited and therefore increase NASA's budget. So obviously the financial outcome from such a mission would probably be zero. So anything better than that was on the upside.",
+      "textZh": "而公众往往会对创举和最高级事物作出反应。这将是火星上的第一个生命，也是据我们所知生命曾经抵达的最远地方。我想，好吧，那会让人们真正兴奋起来，从而增加 NASA 的预算。所以显然，这类任务带来的财务回报很可能是 0。因此，任何好于这个结果的情况都算是上行空间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 467.22,
+      "textEn": "So I actually went to, I went to Russia three times to look at buying a refurbished ICBM because that was the best deal.",
+      "textZh": "所以我实际上去了，我去了俄罗斯 3 次，考察购买一枚翻新的洲际弹道导弹，因为那是最划算的交易。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 482.18,
+      "textEn": "And I can tell you it was very weird going there in 2000, late 2001, 2002, going to the Russian rocket forces and saying, I'd like to buy two of your biggest rockets but you can keep the nuke, that's a lot more.",
+      "textZh": "而且我可以告诉你，在 2000 年、2001 年末、2002 年前往那里，去俄罗斯火箭部队那里说，我想买你们最大的 2 枚火箭，但核弹头你们可以留下，那要多得多，这件事非常怪异。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 500.42,
+      "textEn": "And that was 10 years ago, I guess. So they thought I was crazy, but I did have money, so that was okay.",
+      "textZh": "而我想，那是 10 年前的事了。所以他们认为我疯了，但我确实有钱，所以没关系。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 514.33,
+      "textEn": "And after making several trips to Russia, I came to the conclusion that actually my initial impression was wrong about because my initial thought was, well, that there's not enough will to explore and expand beyond Earth and have a Mars base and that kind of thing. But I came to the conclusion that that was wrong. In fact, there's plenty of will, particularly in the United States, because the United States is a nation of explorers, of people who came here from other parts of the world.",
+      "textZh": "而且在多次前往俄罗斯之后，我得出结论，实际上我最初的看法是错的，因为我最初的想法是，好吧，人们没有足够的意愿去探索并向地球之外扩展、建立火星基地之类的东西。但我得出的结论是，那种想法错了。事实上，人们有充足的意愿，尤其是在美国，因为美国是一个探索者的国家，是一个由从世界其他地方来到这里的人组成的国家。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 546.45,
+      "textEn": "I think the United States is really a distillation of the spirit of human exploration.",
+      "textZh": "我认为美国确实是人类探索精神的凝练。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 554.61,
+      "textEn": "But if people think it's impossible then, or it's going to completely break the federal budget, then they're not going to do it. So after my third trip I said, okay, what we really need to do here is try to solve the problem, the space transport problem, and started SpaceX. And this was against the advice of pretty much everyone I talked to.",
+      "textZh": "但如果人们认为这不可能，或者这会让联邦预算彻底崩溃，那么他们就不会去做。所以在第3次旅行之后，我说，好吧，我们在这里真正需要做的是设法解决这个问题，也就是太空运输问题，于是创办了 SpaceX。而这几乎违背了所有与我交谈过的人的建议。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 579.57,
+      "textEn": "One friend made me sit down and watch a bunch of videos of rockets blowing up.",
+      "textZh": "一位朋友让我坐下来，看了一大堆火箭爆炸的视频。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 585.49,
+      "textEn": "Let me tell you, he wasn't far wrong.",
+      "textZh": "我跟你们说，他说得并没有错到哪里去。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 590.53,
+      "textEn": "It was tough going there in the beginning because I'd never built anything physical. I mean, I built like little model rockets as a kid. And that kind of thing. But I never had a company that built anything physical. So I'd figure out how to do all these things and bring together the right team of people.",
+      "textZh": "一开始进展很艰难，因为我从来没有制造过任何实体的东西。我的意思是，我小时候做过一些小型火箭模型。还有诸如此类的东西。但我从来没有经营过一家制造任何实体产品的公司。所以我得弄清楚如何做所有这些事情，并把合适的团队人员聚集起来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 609.09,
+      "textEn": "And so we did all that and then failed three times.",
+      "textZh": "于是我们做了这一切，然后失败了3次。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 613.97,
+      "textEn": "It was tough going because the thing about a rocket is that the passing grade is 100% and you don't get to actually test the rocket in the real environment that it's going to be in. So I think. So the best analogy for rocket engineering is like if you want to create a really complicated bit of software, you can't run the software as an integrated whole and you can't run it on the computer it's intended to run on for the first time.",
+      "textZh": "进展很艰难，因为火箭这东西的及格分是 100%，而且你没办法真正在它将要面对的真实环境中测试火箭。所以我想。所以对火箭工程最恰当的类比是，假如你想开发一个非常复杂的软件，你不能把这个软件作为一个集成的整体运行，而且第一次也不能在它原本要运行的计算机上运行它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 644.82,
+      "textEn": "You put it all together and run it on that computer. It must run with no bugs.",
+      "textZh": "你把它全部组装起来，然后在那台计算机上运行。它必须毫无漏洞地运行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 649.57,
+      "textEn": "That's basically the essence of it. So we missed the mark there. The first launch I was picking up bits of rocket near the launch site. It was a bit sad, but we learned with each successive flight and were able to eventually, with the fourth flight in 2008, reach orbit.",
+      "textZh": "这基本上就是问题的本质。所以我们在那里没能达标。第一次发射时，我在发射场附近捡拾火箭碎片。那有点令人难过，但我们从之后的每次飞行中吸取经验，最终得以在 2008 年的第4次飞行中进入轨道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 674.3,
+      "textEn": "And that was also with the last bit of money that we had. So thank goodness that that happened. I think the saying is fourth times the charm.",
+      "textZh": "而那次用的也是我们剩下的最后一点钱。所以谢天谢地，那次成功了。我想那句话应该是第4次会带来好运。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 687.26,
+      "textEn": "So we got the Falcon 1 to orbit and then began to scale that up to the Falcon 9, which is about an order of magnitude more thrust. It's around a million pounds of thrust. And we managed to get that to orbit and then developed a Dragon spacecraft which recently was able to dock and return to Earth from the space station.",
+      "textZh": "于是我们让猎鹰 1 号进入了轨道，随后开始将其扩大到猎鹰 9 号，后者的推力大约高出一个数量级。它的推力约为 100 万磅。我们成功让它进入了轨道，随后又开发了龙飞船，最近它成功与空间站对接，并从空间站返回地球。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 716.26,
+      "textEn": "That was.",
+      "textZh": "那真是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 724.02,
+      "textEn": "Thanks.",
+      "textZh": "谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 727.16,
+      "textEn": "That was a white knuckled event.",
+      "textZh": "那是一次令人极度紧张的事件。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 731.32,
+      "textEn": "So yeah, it's a huge relief. Still can't quite believe it actually happened.",
+      "textZh": "所以，是的，真是如释重负。到现在还是不太敢相信它真的发生了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 737.24,
+      "textEn": "But there's a lot more that must happen beyond this in order for humanity to become a space faring civilization, ultimately a multi planet species. And that's something I think it's vitally important and I hope that some of you will participate in that either at SpaceX or at other companies, because it's just really one of the, the most important things for the preservation and extension of consciousness.",
+      "textZh": "但要让人类成为一个太空文明，并最终成为一个多行星物种，在此之后还有许多事情必须发生。我认为这至关重要，也希望你们中的一些人能参与其中，无论是在 SpaceX 还是其他公司，因为这确实是保存和扩展意识最、最重要的事情之一。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 762.82,
+      "textEn": "It's worth noting, as I'm sure people are aware, that the Earth has been around for 4 billion years and civilization, at least in terms of having writing, has been around for 10,000 years. And that's being generous.",
+      "textZh": "值得注意的是，我相信大家都知道，地球已经存在了 40 亿年，而文明，至少从拥有文字来衡量，已经存在了 10,000 年。而这还是宽松的说法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 779.7,
+      "textEn": "So it's really somewhat of a tenuous existence that civilization and consciousness as we know it has been on Earth. And I think I'm actually fairly optimistic about the future of Earth. So I don't want people to have the wrong impression that I think we're all about to die.",
+      "textZh": "所以，我们所知的文明和意识在地球上的存在其实相当脆弱。我实际上对地球的未来相当乐观。所以我不希望人们产生错误印象，以为我认为我们所有人马上就要死了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 803.3,
+      "textEn": "I think things will most likely be okay for a long time on Earth, but not for sure, but most likely.",
+      "textZh": "我认为地球上的状况很可能会在很长一段时间里保持良好，但并不确定，只是很可能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 812.06,
+      "textEn": "But even if it's sort of 99% likely, a 1% chance, it's still worth spending a fair bit of effort to ensure that we have, we've backed up the biosphere, planetary redundancy, if you will.",
+      "textZh": "但即便可能性大致是 99%，还有 1% 的概率，也仍然值得投入相当多的努力，确保我们已经、我们已经备份了生物圈，也就是所谓的行星冗余。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 826.3,
+      "textEn": "And so I think it's really, really quite important.",
+      "textZh": "所以我认为这真的、真的相当重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 830.7,
+      "textEn": "And in order to do that, there's a breakthrough that needs to occur, which is to create a rapidly and completely reusable transport system to Mars, which is one of those things that's right on the borderline of if impossible. But that's sort of the thing that we're going to try to achieve there with SpaceX.",
+      "textZh": "为了做到这一点，需要实现一项突破，也就是创建一个能够快速且完全重复使用的火星运输系统。这是那些恰好处在是否不可能的边界上的事情之一。但这差不多就是我们要在 SpaceX 努力实现的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 855.71,
+      "textEn": "And then on the Tesla front, the goal with Tesla was really to try to show what electric cars can do because people had the wrong impression. We had to change people's perception of an electric vehicle because they used to think of it as something that was slow and ugly and had low range, kind of like a golf cart.",
+      "textZh": "然后在 Tesla 这边，Tesla 的目标其实是努力展示电动汽车能够做到什么，因为人们抱有错误印象。我们必须改变人们对电动汽车的看法，因为他们过去认为它速度慢、难看、续航里程短，有点像高尔夫球车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 877.25,
+      "textEn": "So that's why we created the Tesla Roadster. Show that you can be fast, attractive and long range. And it's amazing how even though you can show that something works on paper, you know, and the calculations are very clear until you actually have the paper physical object and they can drive it, it doesn't really sink in for people. And so that I think is something worth noting. If you're going to create a company, the first thing you should try to do is create a working prototype.",
+      "textZh": "所以我们才制造了 Tesla Roadster。展示你可以做到速度快、外观漂亮且续航里程长。令人惊讶的是，即使你可以在纸面上表明某样东西能够运作，你知道，而且计算结果非常清楚，但在你真正拥有那个纸面上的实体物品、并且人们能够驾驶它之前，他们并不会真正理解。所以我认为这是值得注意的一点。如果你打算创办一家公司，你首先应该努力做的就是制造一个能够运行的原型。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 905.78,
+      "textEn": "Everything looks great on PowerPoint. You can make anything work on PowerPoint, but if you have an actual demonstration article, even if it's in primitive form, that's much, much more effective for convincing people.",
+      "textZh": "在 PowerPoint 上，一切看起来都很棒。你可以让任何东西在 PowerPoint 上运行，但如果你有一个真正的演示品，即使它还处于原始形态，对说服人们也会有效得多、多得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 920.2,
+      "textEn": "So we made the Tesla Roadster and now we're coming out soon with the Model S, which is a four door sedan. Because after we made the Tesla Roadster, people said, oh sure, sure, we always knew you could make a car like that. It's an expensive car and it's low volume and it's small and all that, but you couldn't make a real car like, okay, fine, I got to make that too.",
+      "textZh": "所以我们制造了 Tesla Roadster，现在很快就要推出 Model S，它是一款 4 门轿车。因为在我们制造出 Tesla Roadster 后，人们说，哦，当然，当然，我们一直都知道你们能造出那样的汽车。那是一款昂贵的汽车，产量低、尺寸小，诸如此类，但你们造不出真正的汽车。就像，好吧，行，我也得把那个造出来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 942.2,
+      "textEn": "So that's coming out soon.",
+      "textZh": "所以它很快就要推出了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 945.41,
+      "textEn": "And yeah, so that's the, I think the where things are and hopefully there's some lessons to be drawn there.",
+      "textZh": "然后，是的，所以这就是，我认为事情目前的状况，希望能从中汲取一些经验。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 958.13,
+      "textEn": "But I think the overarching point I want to make is that you guys are the magicians of the 21st century.",
+      "textZh": "但我想表达的总体观点是，你们是 21 世纪的魔法师。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 968.69,
+      "textEn": "Don't let anything hold you back. Imagination is the limit and go out there and create some magic. Thank you.",
+      "textZh": "不要让任何事情阻碍你们。想象力就是极限，走出去，创造一些魔法。谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-12T17:11:29.926Z",
+    "reviewedAt": "2026-09-12T17:36:32.062Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:24.473Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "ad4c6c01dd7ca0bcefab9964972df7043c274057affaa55b3e5e2a7dfc1757e8"
+}

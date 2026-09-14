@@ -1,0 +1,870 @@
+{
+  "id": "tesla-all-hands-q1-2025",
+  "slug": "tesla-all-hands-q1-2025",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2025-03-20",
+  "titleEn": "Tesla All-Hands (Q1 2025)",
+  "titleZh": "Tesla全员大会（2025年第一季度）",
+  "summaryEn": "Elon Musk's company-wide meeting with Tesla employees, livestreamed on March 20, 2025: the Model Y changeover, Full Self-Driving, Optimus, energy storage — and a long open Q&A with the audience.",
+  "summaryZh": "埃隆·马斯克与Tesla员工举行的全公司会议，于2025年3月20日直播：Model Y换代、完全自动驾驶、Optimus、储能，以及与现场观众进行的长时间开放问答。",
+  "sourceUrl": "https://www.youtube.com/watch?v=QGJysv_Qzkw",
+  "sourceLabel": "Tesla on YouTube",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-all-hands-q1-2025",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/QGJysv_Qzkw",
+  "thumbnailUrl": "https://i.ytimg.com/vi/QGJysv_Qzkw/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 3725,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 1,
+      "textEn": "Our mission is to accelerate the world's transition to sustainable energy. It's only possible to because of the incredible people here at Tesla. They are absolutely committed to the cause of sustainable energy and that is why we can do what no other company can do. We can make lower cost products that are still efficient and compelling and we can make them at scale. We're going to build them all in compact and high output factories that are easy for us to build quickly. We work together in a way that allows us to, to ask the hard questions. This is the product that will retire fossil fuels.",
+      "textZh": "我们的使命是加速世界向可持续能源转型。这只有因为Tesla这里了不起的人们才有可能实现。他们绝对致力于可持续能源事业，这就是为什么我们能做到其他任何公司都做不到的事。我们能制造成本更低、但依然高效且有吸引力的产品，而且能进行规模化生产。我们将在紧凑、高产的工厂里制造所有这些产品，而这些工厂也便于我们快速建造。我们以一种让我们能够，能够提出棘手问题的方式共同工作。这就是将让化石燃料退出历史舞台的产品。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Tesla film",
+      "startSec": 43,
+      "textEn": "We're not just creating products, we're creating a movement for sustainable energy for everyone.",
+      "textZh": "我们不只是在创造产品，我们是在为人人可享的可持续能源创造一场运动。",
+      "speakerZh": "Tesla影片"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 49,
+      "textEn": "What we're trying to convey is a message of hope and optimism. Optimism that is based on actual physics. Earth can and will move to a sustainable energy economy and will do so in your lifetime. The solution to scalable FSD is getting the architecture, the data and the compute just right. And we have assembled a world class team to execute on this. Every truck that we put on the road that replaces a diesel truck makes a huge difference towards driving us towards our total mission of sustainable energy and transportation. You can see and you can feel,",
+      "textZh": "我们试图传达的是希望与乐观的信息。以实际物理学为基础的乐观。地球能够并且将会转向可持续能源经济，而且会在你们有生之年做到。实现可规模化FSD的解决方案，是把架构、数据和算力都做到恰到好处。我们已经组建了一支世界一流的团队来执行这项工作。我们每让1辆取代柴油卡车的卡车上路，都会对推动我们实现可持续能源和交通运输的总体使命产生巨大影响。你能看见，也能感受到，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Tesla film",
+      "startSec": 88,
+      "textEn": "feel the collaboration that's happening and the pride that everyone has in working for Tesla.",
+      "textZh": "感受到正在发生的协作，以及每个人为Tesla工作所怀有的自豪感。",
+      "speakerZh": "Tesla影片"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 108,
+      "textEn": "All right, Well, let me start off first by, by thanking everyone at Tesla for your incredible hard work. I mean, the Tesla team is an incredible team, great human beings like, I mean, anyway, some of the finest people in the world work at Tesla designing and manufacturing our incredible products. So my thanks to you for everything. You're doing well, well done. So we're going to go through just a list of the incredible achievements of the Tesla team. We've now produced over 7 million vehicles. 7 million.",
+      "textZh": "好了，那么，首先请允许我先，先感谢Tesla的每一个人，感谢你们极其辛勤的工作。我的意思是，Tesla团队是一支不可思议的团队，都是非常优秀的人，我是说，不管怎样，世界上一些最杰出的人在Tesla工作，设计和制造我们不可思议的产品。所以，感谢你们所做的一切。你们做得很好，干得漂亮。接下来我们会逐项介绍Tesla团队取得的不可思议的成就。我们现在已经生产了超过700万辆汽车。700万辆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 166,
+      "textEn": "In our first year of production, we produced just over 20 vehicles. And I thought, well, maybe we can be, we might one day be able to do 10 or 20 a week instead of 10 or 20 a year. And the way things are tracking right now, we will actually have made over 10 million vehicles next year. So we'll pass the 10 million vehicle cumulative. That's a lot of cars, man. That's a lot of cars.",
+      "textZh": "在我们投产的第1年，我们只生产了略多于20辆汽车。当时我想，好吧，也许我们可以，我们或许有一天能够做到每周生产10辆或20辆，而不是每年10辆或20辆。按照目前的发展势头，到明年我们实际上将已经制造超过1000万辆汽车。所以我们的累计汽车产量将突破1000万辆。真是很多车啊，伙计。真是很多车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Audience",
+      "startSec": 194,
+      "textEn": "So,",
+      "textZh": "所以，",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 197,
+      "textEn": "so it's really, and it's incredibly difficult as you know, to design, to build, to manage the supply chain with thousands of suppliers, make sure everything arrives, you've got tens of thousands of parts, make sure everything works, then build the car, service the car. And it's, it's, it's really difficult. I mean this, frankly, the carpenters is a tough business. So but, and you know, there are times when there are rocky moments, like things are like a little bit of stormy weather. But what I'm here to tell you is that the future is incredibly bright and exciting and we're going to do things that no one, I think has even dreamed of. You know, we've said we're going to do it, but I think until we actually do it, people won't believe just how incredible it is. So I'm going to go through all of the things that we're accomplishing here. So once again, thank you very much. So, You know, it's worth noting that Tesla remains the company of choice for people to work for.",
+      "textZh": "所以这真的，而且正如你们所知，设计、制造、管理一个拥有数千家供应商的供应链，确保一切都能运抵，你有数以万计的零件，要确保一切都能正常工作，然后制造汽车、维修汽车，难度高得不可思议。而且这，这，这真的很难。我的意思是，坦率地说，木匠行业是一门艰难的生意。所以，但是，你们知道，有时也会出现颠簸的时刻，就像有一点暴风雨天气。但我来这里要告诉你们的是，未来无比光明、令人振奋，我们将做成一些我认为甚至从未有人梦想过的事。你们知道，我们说过我们要做到，但我认为，在我们真正做到之前，人们不会相信它究竟有多么不可思议。所以我会逐项介绍我们正在这里取得的所有成果。再次非常感谢大家。所以，你们知道，值得注意的是，对于求职者而言，Tesla仍然是首选公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 271,
+      "textEn": "So we get millions of applications per year for a very small number of spots and we continue to be the leading organization along with SpaceX, for engineering talent in the world and also for manufacturing talent. Really for. It's like, it's an awesome place to work basically. And because of our growth, there's a lot of opportunity for upward mobility. And I'm going to talk you through just how I see the future unfolding and why I think it is going to be incredible. So first of all, as always, we care a lot about safety. So the safety of our cars and the safety of people within the factory. So you can see that our work related injuries have declined over time. So thank you for helping make that happen. That's a collaborative effort. So congratulations to the safety team on continuing to improve workplace safety.",
+      "textZh": "所以，我们每年会收到数百万份申请，而职位数量非常少；我们与SpaceX继续并列为世界上最吸引工程人才的领先组织，在制造人才方面也是如此。真的，对于。基本上，这里是一个非常棒的工作场所。而且由于我们不断增长，这里有很多向上发展的机会。接下来，我会向你们讲述我认为未来将如何展开，以及为什么我认为它会不可思议。首先，和往常一样，我们非常重视安全。包括我们汽车的安全，以及工厂内人员的安全。你们可以看到，与工作相关的伤害随着时间推移已经下降。感谢你们帮助促成这一成果。这是共同协作的成果。祝贺安全团队持续改善工作场所安全。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 336,
+      "textEn": "So one of the things that may seem like, how do you pull it all together is, you know, where does AI and robots fit in this sort of sustainable energy picture? Like, is that just like some weird side project or what? You know, but it's. Because what we're really aiming for here is maybe a better way to think of it rather than sustainable energy is sustainable abundance for all. So if you think about like, what is the future that would. What's the most exciting future that you could possibly imagine? Like, what does that future look like? It's worth thinking about that. Just think, just in, just, just imagine a future. What does that, that amazing future look like? How about a future where you can have any good or service you want at will?",
+      "textZh": "所以，其中一件可能让人觉得，你要怎么把这一切整合起来的事情是，你们知道，AI和机器人在这种可持续能源图景中处于什么位置？比如，那只是什么奇怪的支线项目之类的吗？你们知道，但这。因为我们在这里真正追求的目标，或许用另一种方式来理解会更好，与其说是可持续能源，不如说是人人都能享有的可持续富足。所以，如果你想一想，比如，怎样的未来会。你所能想象的最令人振奋的未来是什么？比如，那个未来是什么样子？这值得思考。就想一想，就在，就，就想象一个未来。那个，那个美好的未来是什么样子？一个你随时都能获得任何想要的商品或服务的未来怎么样？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 394,
+      "textEn": "A future of abundance for all, where really anyone can have anything. It sounds impossible. It sounds like surely such a thing cannot be the case. But what I'm here to tell you is that that will indeed be the case, that the future we're headed for is one where you can literally just have anything you want. Like if there's a good or service you want, you'll be able to have it. And ultimately everyone in the world will be able to have anything they want.",
+      "textZh": "一个人人富足的未来，在那里真的任何人都能拥有任何东西。这听起来不可能。听起来这种事肯定不可能成为现实。但我来这里要告诉你们的是，那确实会成为现实，我们正迈向的未来是，你真的可以直接拥有任何你想要的东西。比如，只要有你想要的商品或服务，你就能得到它。最终，世界上的每个人都将能够拥有他们想要的任何东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 427,
+      "textEn": "What's key to that is robotics and AI. So once you have self driving cars and you have autonomous humanoid robots where everyone can have their own personal C3PO and R2D2. But even better than that, that's Optimus. You can imagine like your own personal robot buddy that is a great friend, but also takes care of your house, will clean your house, will mow the lawn, will walk the dog, will teach your kids, will babysit, and will also enable the production of goods and services basically with no limit.",
+      "textZh": "实现这一点的关键是机器人技术和AI。所以，一旦你拥有自动驾驶汽车，也拥有自主的人形机器人，每个人都能拥有自己的私人C3PO和R2D2。但比那还要好，那就是Optimus。你可以想象一下，你自己的私人机器人伙伴，它既是一位很棒的朋友，也会照料你的家，会打扫房子，会修剪草坪，会遛狗，会教你的孩子，会照看孩子，也会让商品和服务的生产基本上不再有任何限制。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 473,
+      "textEn": "And when you combine that with sustainable energy from the sun and batteries, we could also at the same time also maintain a great environment. So that I think is the future that we want. A future where nobody's in need, you can have what you want, but we still have nature. We still have, you know, the beautiful parts of nature that we like. I think that's probably the best future. I can't. What other future would you want? I think that's like the cool future. And also space travel, let's not forget that.",
+      "textZh": "当你把它与来自太阳和电池的可持续能源结合起来时，我们同时也能维持良好的环境。所以我认为，这就是我们想要的未来。一个没有人处于匮乏之中、你能拥有自己想要的东西，但我们依然拥有大自然的未来。我们依然拥有，你们知道，我们所喜爱的大自然中那些美丽的部分。我认为那大概是最好的未来。我无法。你还会想要什么样的未来？我认为那就像是很酷的未来。还有太空旅行，我们别忘了这一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 514,
+      "textEn": "So if you can have basically anything you want and travel to space and go to Mars and that would be, it's about as good as it gets, you know, it's like that's it. So that's really what we're, what we're trying to do is take the set of actions most likely to lead to a great future for all. So that's what I mean by sustainable abundance. And the combination of things that we're making with Optimus and AI Compute will achieve an age of abundance for all.",
+      "textZh": "所以，如果你基本上能拥有任何想要的东西，又能去太空旅行、前往火星，那将会，那差不多就是最好的情况了，你们知道，就这样。所以，我们真正试图做的，就是采取最有可能为所有人带来美好未来的一系列行动。这就是我所说的可持续富足。我们通过Optimus和AI算力打造的各种事物相结合，将为所有人带来一个富足时代。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 553,
+      "textEn": "Like actually so it's going to be pretty great. Model Y became the best selling vehicle in the world. You know, FYI, we do make the best, you know, It's how we're doing our popularity well, we actually literally make the best selling car on Earth of any kind. So that's for two years in a row. And it's going to be the best selling car on Earth again this year. So. The Cybertruck became the best selling electric vehicle pickup instantly because it's awesome.",
+      "textZh": "比如，真的，所以这会相当棒。Model Y成为了全球最畅销的汽车。你们知道，顺便说一下，我们确实制造了最好的，你们知道，这是我们的受欢迎程度表现得如何，实际上我们确实生产了地球上所有类别中最畅销的汽车。而且已经连续2年如此。今年它还会再次成为地球上最畅销的汽车。所以。Cybertruck一推出就成为最畅销的电动皮卡，因为它太棒了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 608,
+      "textEn": "And Tesla was the best selling electricity electric vehicle in Europe, the fastest growing brand in South Korea. And we launched in a lot of new markets including Qatar, Lithuania, Chile and the Philippines. And we'll be opening in a whole bunch more markets as well. So Teslas will be available worldwide. So overall, you know, it's good. If you read the news, it feels like, you know, Armageddon. So I was like, I can't walk past the TV without seeing a Tesla on fire. Like, what's going on? You know, some people, it's like, listen, I understand if you don't want to buy our product, but you don't have to burn it down. That's a bit unreasonable. You know, this is psycho. Stop being psycho.",
+      "textZh": "Tesla还是欧洲最畅销的电力电动汽车，是韩国增长最快的品牌。我们还进入了许多新市场，包括卡塔尔、立陶宛、智利和菲律宾。我们也会在更多市场开展业务。所以Tesla汽车将在全球各地销售。所以总体而言，你们知道，情况不错。如果你看新闻，感觉就像，你们知道，世界末日。所以我当时就想，我只要走过电视机旁，就会看到Tesla着火。比如，发生什么了？你们知道，有些人，就像，听着，如果你不想买我们的产品，我理解，但你没必要把它烧掉。这有点不讲理。你们知道，这太疯了。别再发疯了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Audience",
+      "startSec": 652,
+      "textEn": "Okay,",
+      "textZh": "好的，",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 656,
+      "textEn": "so. And we launched the new Model Y. Congrats to the team on fafsa.",
+      "textZh": "所以。我们还推出了新款Model Y。为fafsa祝贺团队。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Audience",
+      "startSec": 662,
+      "textEn": "So,",
+      "textZh": "所以，",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 667,
+      "textEn": "You know, that's, that's obviously very tough because we've got factories all across the world and we've got a change over a global, a supply chain on three, three, three. Basically three supply chains on three continents. And I think you did an amazing job of switching over the world's best selling car globally in a, in a very short period of time. Well done, guys. And let's not forget also, we upgraded Model 3 last year, so I would encourage people to also buy the Model 3. It's a great car actually.",
+      "textZh": "你们知道，那，那显然非常困难，因为我们的工厂遍布世界各地，而我们必须在3个、3个、3个。基本上是在3大洲切换3条供应链的一套全球、一条供应链。我认为，你们完成了出色的工作，在非常短的时间里，完成了全球最畅销汽车在全球范围内的切换。干得漂亮，各位。我们也别忘了，去年我们还升级了Model 3，所以我也鼓励大家购买Model 3。实际上那是一辆很棒的车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 708,
+      "textEn": "So. And the cybertruck is achieved five star safety. You know, these days, you know, sometimes things get a little dangerous in the neighborhood. The cybertruck being bulletproof and all can come in handy. So. But apart from being bulletproof, it's also very safe in a crash. We're also building the Tesla semi factory. This is a vehicle that some people said was impossible to build, that it defied physics. Well, not only does it not defy physics, we're going to be making a lot of them. So we're going to make just a. You know, I think ultimately we'll make over a million, millions probably of the Tesla semi. And this is really going to be something that you'll see all over the place. And it'll also be autonomous or have the ability to be, to go autonomous down the road. So really autonomy is a massive, massive thing.",
+      "textZh": "所以。而且Cybertruck已经取得了5星安全评级。你知道，如今，你知道，有时候附近会变得有点危险。Cybertruck防弹之类的特性就能派上用场。所以。但除了防弹之外，它在碰撞事故中也非常安全。我们还在建造Tesla Semi工厂。这是一款有些人曾说不可能造出来、说它违背物理定律的车辆。好吧，它不仅不违背物理定律，我们还会大量生产。所以我们会生产，只是个……你知道，我认为最终我们将生产超过100万辆，可能是数百万辆Tesla Semi。而且这真的会成为一种你到处都能看到的东西。它也将是自动驾驶的，或者具备在未来实现自动驾驶的能力。所以，自动驾驶确实是一件极其、极其重大的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 771,
+      "textEn": "The future is autonomous. So I always sort of think like, what will the future look like in five years or 10 years, 20 years and five years from now, autonomous cars are going to be everywhere. Primarily going to be Teslas, by the way, but autonomous Teslas will be everywhere. And I think in five years probably we'll, we'll have regulatory approval, I think globally. So you'll have autonomous Teslas on every continent taking people on trips. And almost the entire fleet, which will pass 10 million vehicles next year, is capable of full autonomy. So it, even without the, the Cyber Cab, we still actually have a gigantic fleet that is capable of being autonomous. And the thing about being an autonomous car is that it can be used much more than a car that is not autonomous. A typical passenger vehicle car will be used about 10 hours a week. So it might use it. People might use it for an hour and a half a day on average for seven days, which is about 10 hours a week.",
+      "textZh": "未来是自动驾驶的。所以我总是会想，5年后、10年后、20年后的未来会是什么样，而从现在起5年后，自动驾驶汽车将无处不在。顺便说一句，主要会是Tesla，但自动驾驶Tesla将无处不在。而且我认为5年后，我们大概会获得监管批准，我想是在全球范围内。所以每个大洲都会有自动驾驶Tesla载着人们出行。而几乎整个车队，也就是明年将超过1000万辆车的车队，都具备完全自动驾驶的能力。所以，即使没有Cyber Cab，我们实际上仍然拥有一支具备自动驾驶能力的庞大车队。自动驾驶汽车的特点是，它的使用时间可以远远超过非自动驾驶汽车。一辆典型的乘用车每周大约使用10小时。所以可能会使用它。人们可能平均每天使用1个半小时，持续7天，也就是每周大约10小时。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 844,
+      "textEn": "But there are 168 hours in a week. So if you have a car that's a robot car that can drive autonomously, it can now be used potentially for 80, maybe 100 hours a week. So you could have a car that has 10 times the usefulness of a non autonomous car, but it still costs the same. In fact, the fleets are already built, so the software update just enables that capability. Overnight you have an increase in usefulness of 10 million cars that suddenly become like 50 million cars or maybe 80 or 100 million cars of usefulness overnight.",
+      "textZh": "但一周有168小时。所以，如果你拥有一辆能够自动驾驶的机器人汽车，它现在每周可能可以使用80小时，或许100小时。所以，一辆车的效用可能达到非自动驾驶汽车的10倍，但成本仍然相同。事实上，车队已经造好了，因此只需一次软件更新就能启用这种能力。一夜之间，1000万辆汽车的效用得到提升，突然就像变成了5000万辆汽车，或者可能是8000万或1亿辆汽车的效用，一夜之间就实现了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 889,
+      "textEn": "That's a profound thing. Like nothing like that has ever happened before. There is no analogy that there's no, nothing is. There's never been something where a software update increase the value of a gigantic asset base by a factor of like 500 to 1000%. So it's very difficult for like, you know, people in the stock market, especially those that look in the rear view mirror, which is most people, to imagine a future where suddenly a 10 million vehicle fleet has 5 to 10 times the usefulness.",
+      "textZh": "这是一件影响深远的事。以前从未发生过这样的事情。没有任何类比，没有，没有任何事情是。过去从未出现过一次软件更新就让庞大资产基础的价值提高约500%到1000%的情况。所以，对股市里的人来说，你知道，尤其是那些看着后视镜的人，也就是大多数人，很难想象这样一个未来：一支拥有1000万辆汽车的车队突然具备了5到10倍的效用。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 931,
+      "textEn": "It's so profound and there's no comparison with anything in the past that they just can't. It does not compute. But it will compute in the future. And some people like Cathy Wood at Ark Invest, do see the future. So what I'm saying is hang on to your stock. So, So yeah, it's, it's really, it's mind blowing. Then I want to give a shout out to service. Service is a tough job, an important job, and it's actually what sells cars long term, you know, because the initial car is sold with sales, but all future cars are sold with service.",
+      "textZh": "这件事影响太深远了，过去没有任何事物可与之相比，所以他们就是无法理解。这算不出来。但未来会算出来。还有一些人，比如Ark Invest的Cathy Wood，确实看到了未来。所以我想说的是，继续持有你们的股票。所以，所以是的，这真的，这令人震撼。接下来，我想特别表扬服务团队。服务是一项艰难的工作，也是一项重要的工作，而且从长期来看，真正卖出汽车的是服务，你知道，因为第一辆车是靠销售卖出去的，但未来所有的车都是靠服务卖出去的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 987,
+      "textEn": "And I always encourage our service team, like, let's try to give people a service experience that they love, not merely that they like, but that they love. Because people will talk about something that they love that was an amazing experience. But they don't talk that much about things that they like. You have to really do something amazing and then they'll talk about it and be like, wow, that's incredible. So thank you to the service team for the great job you do.",
+      "textZh": "而且我一直鼓励我们的服务团队，比如，让我们努力为人们提供一种让他们热爱的服务体验，不仅仅是喜欢，而是热爱。因为人们会谈论自己热爱的、令人惊叹的体验。但他们不会过多谈论自己喜欢的东西。你必须真正做出令人惊叹的事情，然后他们才会谈论它，并且会说，哇，这太不可思议了。所以感谢服务团队所做的出色工作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 1018,
+      "textEn": "And I mean, you can see sort of, I like this sort of light map of superchargers. You can see, you can go practically anywhere in the US, Mexico, Europe, China, most. Well, I guess not the outback of Australia, but. But, you know, most of the places where people live. So our Supercharged network continues to grow significantly and we keep upgrading our Superchargers. This is, in fact, I still run into a lot of people who don't realize that you can drive. You take your Tesla on a road trip anywhere in America or anywhere in Europe, anywhere, pretty much anywhere in China just using the Tesla Supercharger network. And it's actually easy and convenient. So people think that they're whatever the range of the car is, that's as far as they can go. Like, no, you can just stop at a supercharged network. The car's battery will last longer than your bladder. I'm pretty confident. So that's really the threshold.",
+      "textZh": "而且，我的意思是，你大概可以看到，我喜欢这张类似超级充电站灯光地图的东西。你可以看到，你几乎可以前往美国、墨西哥、欧洲、中国的大多数任何地方。好吧，我想澳大利亚内陆不行，但是。但是，你知道，人们居住的大多数地方都可以。所以我们的超级充电网络继续显著扩张，而且我们不断升级超级充电站。这其实，事实上，我仍然遇到很多人，他们没有意识到你可以开车。你可以驾驶Tesla在美国任何地方或欧洲任何地方进行公路旅行，在中国任何地方，几乎任何地方，只需使用Tesla超级充电网络。而且实际上既轻松又方便。所以人们以为，无论汽车的续航里程是多少，他们最远就只能开到那里。其实不对，你只需在超级充电网络停一下就行。汽车电池的续航时间会比你的膀胱更长。我对此相当有信心。所以这才是真正的门槛。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 1075,
+      "textEn": "As long as the car battery lasts longer than your bladder and you just plug it in when you go to the restroom and you come back and, you know, grab a coffee or whatever, and you're back on the road and everything's good, then that's the range that matters and the supercharging speed that matters. So, yeah. So congrats to the Supercharger team on expanding network. You did great work there.",
+      "textZh": "只要汽车电池的续航时间比你的膀胱坚持得更久，而且你去洗手间时把它插上电，回来后，你知道，拿杯咖啡之类的，然后你就重新上路，一切都没问题，那么这就是重要的续航里程，也是重要的超级充电速度。所以，对。所以祝贺超级充电团队扩大了网络。你们在那里做得很棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 1105,
+      "textEn": "And then, I mean, the Megapack and Powerwall team are really knocking it out of the park. The demand for. For stationary battery storage is gigantic, and I think that is actually only going to increase dramatically over time. So. And we've got the Shanghai Megafactory that got started in record time in February. Congrats to the Shanghai factory team there. That's awesome. And the Powerwall 3 is. It usually takes about three. Three major technology iterations for the product to be great. And the Powerwall 3 really is a fantastic home energy product. And it's something that if you want to have ensure that your home has uninterrupted power during a power outage, the Powerwall 3 is the way to go. And if you combine that with solar, you can basically be off grid, which is pretty cool. But I think just having energy insurance, like being energy assurance, such that if the. If the utility goes down, you don't even notice, like the lights are on in your house and your neighbors will come to you for help, basically.",
+      "textZh": "然后，我是说，Megapack 和 Powerwall 团队真的做得非常出色。对于。对于固定式电池储能的需求极其庞大，而且我认为，实际上这种需求只会随着时间推移而大幅增长。所以。我们还有上海超级工厂，它在 2 月以创纪录的速度启动了。祝贺那里的上海工厂团队。太棒了。然后 Powerwall 3 是。通常需要大约 3 次。3 次重大的技术迭代，产品才能变得出色。而 Powerwall 3 确实是一款非常出色的家庭能源产品。如果你想要确保家里在停电期间供电不中断，Powerwall 3 就是正确的选择。而且如果把它与太阳能结合起来，你基本上可以脱离电网，这非常酷。但我认为，哪怕只是拥有能源保险，就像获得能源保障一样，这样如果。如果公用电网断电，你甚至都不会注意到，比如你家里的灯还亮着，而你的邻居基本上会来找你帮忙。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 1177,
+      "textEn": "That's actually what happens when somebody has a Tesla powerwall and there's a power outage. So that's a great product. And then, yeah, Megapack, especially at the utility scale, is that the opportunity there is gigantic because it's. It enables a utility grid to dramatically increase the output of electricity because you can Generate electricity at night, and then Megapack can provide that electricity during the day. Because normal electricity demand is very uneven. There's a lot of electricity usage during the day, but limited at night. So Megapack actually has the potential to increase the output of an existing electricity grid by more than double. So you can actually, without building additional power plants, double the total output of energy in a year. So it's quite a profound thing.",
+      "textZh": "当有人装有 Tesla Powerwall 而又遇到停电时，实际发生的情况就是这样。所以那是一款很棒的产品。然后，是的，Megapack，尤其是在公用事业规模上，机会极其庞大，因为它。它能让公用电网大幅提高电力输出，因为你可以在夜间发电，然后 Megapack 可以在白天提供这些电力。因为通常的电力需求非常不均衡。白天的用电量很大，但夜间有限。所以，Megapack 实际上有潜力让现有电网的输出提高 1 倍以上。因此，实际上无需建设更多发电厂，就可以让一整年的能源总输出翻倍。所以这是一件影响相当深远的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 1229,
+      "textEn": "Yeah. So Megapack is also really good at stabilizing the grid. So if there's variations in power in the grid, the Megapack can absorb. If there's a big power spike, it can absorb and store the power. And then if there's a drop in power, it can fill in the gap. So it's. Megapack is excellent for stabilizing the grid. And obviously it matches very well with wind and solar. In fact, satellites are just solar panels and a battery. That's how all satellites work. And with the Starlink satellite network, there's 7,000 satellites orbiting the Earth and all they use is solar panels and a battery. And my prediction is long term, a majority of power on Earth, in fact, eventually it might be like 90% or more of all power on Earth will be solar panels with batteries.",
+      "textZh": "是的。所以 Megapack 也非常擅长稳定电网。如果电网中的电力出现波动，Megapack 可以吸收。如果出现很大的电力峰值，它可以吸收并储存电力。然后，如果电力下降，它可以填补缺口。所以它。Megapack 非常适合稳定电网。而且显然，它与风能和太阳能非常匹配。事实上，卫星就是太阳能电池板和电池。所有卫星都是这样运作的。而星链卫星网络有 7,000 颗卫星环绕地球运行，它们使用的全都是太阳能电池板和电池。我的长期预测是，地球上的大部分电力，事实上，最终地球上全部电力的 90% 或更多，或许都将来自配有电池的太阳能电池板。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 1288,
+      "textEn": "That's my prediction. My predictions have pretty good track record.",
+      "textZh": "这是我的预测。我的预测有相当不错的过往记录。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Tesla film",
+      "startSec": 1296,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "Tesla影片"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 1297,
+      "textEn": "Yeah. And the power walls can also act as kind of a virtual grid. So if you have thousands of power walls in a neighborhood, they can actually work, work in concert to stabilize the grid. The B4 supercharger is pretty cool. It enables charging at 500 kilowatts and the semi can charge at 1.2 megawatts. So it's. And it's smaller and lighter. It's a big improvement overall. And we're rolling this out worldwide. So it will increase charging speeds and yeah, just enable you to get your car charged really fast.",
+      "textZh": "是的。而且这些 Powerwall 也可以充当一种虚拟电网。因此，如果一个社区里有数千台 Powerwall，它们实际上可以协同、协同工作来稳定电网。B4 超级充电桩非常酷。它支持以 500 千瓦的功率充电，而 Semi 可以用 1.2 兆瓦的功率充电。所以它。而且它更小、更轻。总体上是一个很大的改进。我们正在全球推出它。所以它会提升充电速度，而且，是的，就是让你能非常快地把车充好电。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 1338,
+      "textEn": "And then with regard to cell manufacturing, we were, at this point, we think we're making the most efficient cell in the world. Meaning like the, the lowest cost per kilowatt hour cell. So which is really pretty, pretty good. Like there are entire companies that all they do is make lithium ion battery cells. And for us, that's one of many things that we do. So congratulations to the cell team on making the best cell.",
+      "textZh": "然后，关于电芯制造，我们，目前我们认为，我们正在制造世界上效率最高的电芯。意思是，比如，每千瓦时成本最低的电芯。所以这真的相当、相当不错。比如，有些公司整家公司唯一做的事情就是制造锂离子电池电芯。而对我们来说，那只是我们所做的许多事情之一。所以祝贺电芯团队制造出了最好的电芯。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 1380,
+      "textEn": "So that's, that's really a big deal. And then we're. We're also investing in the whole battery supply chain. So we have cathode production, we have lithium refining and. And then more. Yeah, hopefully. We're sort of hoping someone else will do the, the anode we might have to do the anode. I hope someone else does it. Why do we have to do all these things? A lot of people think like we do this thing a lot of these things because we want to, but really it's often just because we didn't have any choice. Nobody else was doing it, so we had to do it. So, so yeah, a lot of new factory milestones. So in Berlin we produced 660,000 drive units. Fremont. We built our first Optimus at the Optimus production line in Fremont. We're preparing for Cybercap production here at Gigafactory Austin and Gigafactory Shanghai created its 3 millionth car. We've produced 160,000 NACS adapters at Gigafactory New York and we've got record battery pack production at Gigafactory Nevada.",
+      "textZh": "所以那、那确实是一件大事。然后我们。我们还在投资整个电池供应链。所以我们有正极材料生产，有锂精炼，以及。然后还有更多。是的，希望如此。我们有点希望由其他人来做、做负极材料，我们也许不得不自己做负极材料。我希望其他人来做。为什么我们非得做所有这些事情？很多人以为，比如我们做这件事，做这么多事情，是因为我们想做，但实际上，往往只是因为我们别无选择。没有其他人在做，所以我们不得不做。所以、所以，是的，许多新的工厂里程碑。在柏林，我们生产了 660,000 套驱动单元。弗里蒙特。我们在弗里蒙特的 Optimus 生产线上制造出了首台 Optimus。我们正在这里的奥斯汀超级工厂为 Cybercap 的生产做准备，上海超级工厂生产出了它的第 3,000,000 辆汽车。我们在纽约超级工厂生产了 160,000 个 NACS 适配器，内华达超级工厂的电池包产量也创下了纪录。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 1454,
+      "textEn": "So congrats to everyone. We also, just behind us in the, on the south side of the building we have the Tesla we call Cortex 1. It's like basically a giant brain computer brain that is used for AI training. So, so we take the vast amounts of video that we get from all the cars in the fleet and we use that to train the artificial intelligence to be able to drive the car. And this is one of the most powerful training systems in the world with over 50,000 GPUs active and soon to be 100,000 GPUs which will make it I think probably top five in the world in training centers.",
+      "textZh": "所以祝贺大家。我们还，在我们身后，大楼南侧，有一个我们在 Tesla 称为 Cortex 1 的东西。它基本上就像一个巨大的大脑、计算机大脑，用于 AI 训练。所以、所以，我们获取车队中所有车辆传回的海量视频，并利用这些视频训练人工智能，使其能够驾驶汽车。这是世界上最强大的训练系统之一，有超过 50,000 个 GPU 正在运行，很快将达到 100,000 个 GPU，我认为这可能会使它跻身世界前 5 的训练中心。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 1513,
+      "textEn": "We're also continuing to make progress on our dojo training super supercomputer. So we've got Dojo 1 active now in Gigafactory New York and in Palo Alto. And it's, it is actively working. It's actually taking load on it. It's, it's, it's doing a meaningful percentage Well I guess 5% or whatever, but it's still something 5 maybe approaching 10% of the training load of, of the self driving AI is being done by Dojo. And then we've got Dojo 2 that's coming down the line that'll be probably 10 times better than Dojo 1. And so it's sort of exciting. We're making good progress with Dojo. I'm increasingly optimistic about the future of Dojo. I think it's, we got a real shot here at, at a breakthrough. So congrats to the Dojo team.",
+      "textZh": "我们也在继续推进 Dojo 训练超级超级计算机。目前，我们已经在纽约超级工厂和帕洛阿尔托启用了 Dojo 1。而且它、它正在积极运行。它实际上已经在承载负载。它、它、它正在承担一个有意义的比例，嗯，我猜是 5% 或者别的什么，但仍然算是一些，5，也许接近 10% 的自动驾驶 AI 训练负载正由 Dojo 完成。然后 Dojo 2 也在推进中，它可能会比 Dojo 1 好 10 倍。所以这有点令人兴奋。Dojo 的进展不错。我对 Dojo 的未来越来越乐观。我认为我们、我们确实有机会在这里取得、取得突破。所以祝贺 Dojo 团队。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 1578,
+      "textEn": "And the all Tesla vehicles have now had what we call autopilot hardware for, or really our AI4 hardware. And it's a, it's really, it's very powerful AI inference computer and, and, but also operates at very low power. And even to this day, even though this was a, this has been something we designed several years ago, there actually isn't anything on the market that we can buy that is better than AI4. So. And obviously in the future years we'll have a 5 and a 6. Sometimes people say, should I wait? I'm like, well, we're always going to have another version, so there's no point in waiting because you'll be waiting forever. So but we obviously will have an AI 5 and an AI 6 and a 7 and we'll keep improving the, the AI compute. So for those out there that are interested in developing advanced chips, come work at Tesla.",
+      "textZh": "而且所有 Tesla 车辆现在都配备了我们所谓的自动辅助驾驶硬件，用于，或者其实就是我们的 AI4 硬件。而它是一个，它确实是一个非常强大的 AI 推理计算机，而且，而且功耗也非常低。即使到了今天，尽管这是一个，这是我们几年前设计的东西，市面上实际上也没有任何我们可以买到的、比 AI4 更好的东西。所以。当然，未来几年我们会有 5 和 6。有时人们会问，我是不是应该等一等？我会说，嗯，我们总会有下一个版本，所以等待没有意义，因为你会永远等下去。所以，但显然我们会有 AI 5、AI 6 和 7，而且我们会继续改进这个，这个 AI 算力。所以，对那些有兴趣开发先进芯片的人来说，来 Tesla 工作吧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 1636,
+      "textEn": "And it is always, I think, profound to watch our cars driving with no one in them. And we actually have the cars doing useful work for the first time with no one in them, which I think is really, it's a significant milestone. So the cars are driving from end of line in Fremont to park themselves. And I think we've just started doing that here in Austin. So we'll be. The car literally goes from underline in Fremont to its destination parking spot where it gets picked up by a truck for delivery to a customer. And it does that with no one in it. And it's not doing that all day, every day. Like it, you know, pretty much like it's just a matter of fact thing.",
+      "textZh": "而且我认为，看着我们的汽车在里面没人的情况下行驶，总是令人感触深刻。而且我们实际上第一次让汽车在里面没人的情况下做有用的工作，我认为这确实是，这是一个重要的里程碑。所以，这些汽车会从弗里蒙特的生产线末端开出去，自己停车。而且我想我们刚刚也开始在奥斯汀这样做了。所以我们会。汽车真的会从弗里蒙特的下划线驶往目的地停车位，在那里由卡车装走并交付给客户。而且它是在里面没人的情况下这样做的。而且它不是每天一整天都在这样做。就像它，你知道，差不多就像这是一件稀松平常的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 1688,
+      "textEn": "Yeah. So, yeah. And obviously for anyone that's using it, you can see the dramatic improvements in full self driving where it's getting to the point where interventions are extremely rare and eventually they'll get to the point where there really is no need to intervene. Like the car is going to be better than human. In fact, maybe it's worth emphasizing that it's not that Tesla full self driving will be equal to humans in safety. It will be ultimately 10 times safer than a human because it never gets tired. It doesn't, you know, it like humans get tired and sometimes get wasted, you",
+      "textZh": "对。所以，对。而且显然，对于任何正在使用它的人来说，你都能看到全自动驾驶的巨大改进，它正在达到需要干预的情况极其罕见的程度，最终会达到确实完全不需要干预的程度。比如，汽车会比人类更出色。事实上，或许值得强调的是，并不是说 Tesla 全自动驾驶在安全性上将与人类相当。它最终会比人类安全 10 倍，因为它永远不会疲劳。它不会，你知道，它就像人类会疲劳，有时会喝得烂醉，你",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Audience",
+      "startSec": 1732,
+      "textEn": "know,",
+      "textZh": "知道，",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 1734,
+      "textEn": "and we'll have arguments or change the radio or you know, text. I know no one in this audience would ever text while driving. That'd be crazy. But you know, it does happen. So. So the reality is that Tesla full stop driving will be vastly safer than humans. Not just equivalent, it will be actually vastly safer. And it means you can do whatever you want while driving. So even if you don't like rent your car out for usage, you can still. It frees up your time. So let's say you're driving 10, 12 hours, a week or more. It gives you back 10 to 12 hours of your life, which is extremely cool.",
+      "textZh": "还会争吵，或者换电台，或者，你知道，发短信。我知道在座各位绝不会开车时发短信。那太疯狂了。但你知道，这确实会发生。所以。所以现实是，Tesla 全停止驾驶将比人类安全得多。不只是相当，实际上会安全得多。而且这意味着你可以在开车时做任何想做的事。所以即使你不把车租出去供人使用，你仍然可以。它能释放你的时间。所以假设你每周开车 10、12 个小时或更久。它会把你生命中的 10 到 12 个小时还给你，这非常酷。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 1780,
+      "textEn": "So. Well, Optimus sure has come a long way. So the new Optimus, a 22 degree of freedom hand and forearm, is now in production and it's learning to walk and catch balls. It's pretty cool. I mean, look, that's where we came from. It's wild. So in a very short period of time, Optimus has gone from being an idea to the most sophisticated humanoid robot on earth. There's nothing even close to the level of sophistication of Optimus. And Tesla has some important missing ingredients that others don't have, which is our robot has a real brain. It's like wizard of Oz, Tin Man.",
+      "textZh": "所以。嗯，Optimus 的确已经取得了长足进步。所以新的 Optimus，配备具有 22 个自由度的手和前臂，现在已经投产，而且它正在学习走路和接球。非常酷。我的意思是，你看，那就是我们起步的地方。太不可思议了。所以在很短的时间里，Optimus 已从一个想法发展成地球上最精密的人形机器人。没有任何东西的精密程度能接近 Optimus。而且 Tesla 拥有一些其他公司不具备的重要缺失要素，那就是我们的机器人拥有真正的大脑。就像《绿野仙踪》里的铁皮人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 1842,
+      "textEn": "Was that a heart or a brain? One of the two. So. It's got the real world AI. So it, Tesla's the leader in real world AI. What we learned in the car, we translate to the Optimus robot. And we also take our expertise in electric motors, in batteries, power electronics, structural design. And then another major important thing is that we're very good at manufacturing. So. So in order for robots to be useful, they have to be intelligent, they have to be able to do useful things just by asking, and you have to be able to make a large number of them at an affordable price. This is what we can do. We have. The only company with all the ingredients for making intelligent humanoid robots at scale is Tesla. This is a super big deal. Like, my prediction is that on this front is that Optimus will be the biggest product of all time by far. Nothing will even be close. It'll be, I think it'll be ten times bigger than the next biggest product ever made.",
+      "textZh": "那是心脏还是大脑？两者之一。所以。它拥有现实世界 AI。所以它，Tesla 是现实世界 AI 的领导者。我们从汽车中学到的东西，会迁移到 Optimus 机器人上。我们还会运用自己在电动机、电池、电力电子和结构设计方面的专业能力。然后另一个极其重要的方面是，我们非常擅长制造。所以。所以要让机器人有用，它们必须智能，必须只需吩咐就能做有用的事情，而且你必须能够以可承受的价格大量制造它们。这正是我们能做到的。我们拥有。唯一一家拥有规模化制造智能人形机器人所需全部要素的公司就是 Tesla。这是一件超级重大的事。比如，我在这方面的预测是，Optimus 将遥遥领先，成为有史以来规模最大的产品。没有任何东西能与之接近。它会是，我认为它会比有史以来第二大的产品大 10 倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 1918,
+      "textEn": "Like that level. So, Yeah. All right, so with that, anybody have any questions? Hey. Congratulations. Thank you. Cool. And we're Rocket castings. Yes, we do. Yeah. Where do you see or where would you like our focus next? Well, we do want to make, we want to scale up production to new heights, obviously with, with the Cyber Cab, you know, we're going to be. Cybercab is not just revolutionary car design, it's also a revolutionary manufacturing process. So I guess we probably don't talk about that enough. But if you've seen the design of the Cybercab line, it doesn't look like a normal car manufacturing line. It looks like a really high speed consumer electronics line. It's in fact, the line will move so fast that actually people can't even get close to it. Like that's, you know, I, I think it's It'll be able to produce a car ultimately in less than five seconds. Like, can you imagine a car coming offline in less than five seconds?",
+      "textZh": "就是那种程度。所以，对。好了，那么，有人有问题吗？嘿。恭喜。谢谢。酷。而我们是火箭铸件。是的，我们确实如此。对。你认为，或者你希望我们下一步把重点放在哪里？嗯，我们确实想要，我们想把产量提升到新的高度，显然，随着，随着 Cyber Cab，你知道，我们将会。Cybercab 不只是一种革命性的汽车设计，也是一种革命性的制造流程。所以我想我们可能没有充分谈论这一点。但如果你见过 Cybercab 生产线的设计，它看起来不像普通的汽车生产线。它看起来像一条速度极快的消费电子产品生产线。事实上，这条生产线会运行得如此之快，以至于人们实际上甚至无法靠近它。比如，那就是，你知道，我，我认为它最终能够在不到 5 秒内生产一辆汽车。比如，你能想象一辆汽车在不到 5 秒内下线吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 2016,
+      "textEn": "That's. That's like, whoa.",
+      "textZh": "那。那简直就像，哇。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Tesla film",
+      "startSec": 2018,
+      "textEn": "Which.",
+      "textZh": "哪个。",
+      "speakerZh": "Tesla 影片"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 2018,
+      "textEn": "Which means casting's got to happen fast. Yeah. Yeah. So, I mean, we got. We got to jam the liquid metal in, cool it down real fast. Like, real fast. And then I guess maybe we need to, like, just get even bigger casting machines. Sure, why not? You know, down. Yeah, let's. 50,000 tons, you know, because, like, then we can make within a single casting machine. We could do like, five at a time or something. You know, trying to think, like, how do you scale castings? Because you got liquid metal. Metal's got a cool.",
+      "textZh": "这意味着铸造必须很快完成。对。对。所以，我的意思是，我们得。我们得把液态金属猛灌进去，再飞快地让它冷却。比如，真的非常快。然后我想，也许我们需要，比如，直接弄更大的压铸机。当然，为什么不呢？你知道，往下。对，我们来。50,000 吨，你知道，因为，比如，那样我们就能在一台压铸机里。我们可以一次做大约 5 个之类的。你知道，我在想，比如，该怎么扩大铸造规模？因为你有液态金属。金属得冷却。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 2058,
+      "textEn": "And then you've got to automate, you know, getting all the bits and pieces off the casting so it's usable. And that's actually kind of how they do it in, like, small volume castings. They'll, like, do have a casting block that'll make, like, you know, 100 Matchbox cars at a time. Maybe we just make that real big. Yeah, I mean, we have the cathedral of casting back there. So. Yeah, let's do that. I mean, like, let's. Let's see.",
+      "textZh": "然后你还得实现自动化，你知道，把铸件上的所有零零碎碎都去掉，让它可以使用。而实际上，他们在，比如，小批量铸造中大致就是这么做的。他们会，比如，确实有一个铸造模块，可以一次制造，比如，你知道，100 辆火柴盒小汽车。也许我们只要把它做得非常大。对，我的意思是，我们后面有铸造大教堂。所以。对，我们就这么做。我的意思是，比如，我们来。我们看看。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Audience question",
+      "startSec": 2085,
+      "textEn": "What.",
+      "textZh": "什么。",
+      "speakerZh": "观众提问"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 2085,
+      "textEn": "What is the limit of. What is the limit of physics, of how big can a casting machine be? Let's find out.",
+      "textZh": "极限是什么。物理极限是什么，压铸机究竟能有多大？我们来找出答案。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Audience",
+      "startSec": 2093,
+      "textEn": "I'm gay.",
+      "textZh": "我是同性恋。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 2094,
+      "textEn": "I'm down. Let's have some fun here. Push the limits of technology. All right.",
+      "textZh": "我愿意。我们在这里找点乐子吧。突破技术的极限。好了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Tesla film",
+      "startSec": 2101,
+      "textEn": "Hi, Elon. I've been with Tesla for the last eight years. It has been the most exhilarating eight years of my career. And truly, truly want to thank you for your leadership. I also have two little.",
+      "textZh": "你好，埃隆。我在 Tesla 工作已经 8 年了。这是我职业生涯中最令人振奋的 8 年。而且真的、真的想感谢你的领导。我还有两个小。",
+      "speakerZh": "Tesla 影片"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 2111,
+      "textEn": "Thank you for your contribution.",
+      "textZh": "感谢你的贡献。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Tesla film",
+      "startSec": 2112,
+      "textEn": "Thank you. Thank you for your leadership. I also have two little girls who spend their weekends cruising around in their very awesome cybertruck. I'd love to know when we can add Optimus to the family.",
+      "textZh": "谢谢。感谢你的领导。我也有两个小女儿，她们周末会开着她们那辆非常棒的 Cybertruck 到处兜风。我很想知道我们什么时候能把 Optimus 加入家庭。",
+      "speakerZh": "Tesla 影片"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 2127,
+      "textEn": "Oh, yeah, It's a good question. So this year, we hopefully will be able to make about 5,000 Optimus robots. We're technically, we're aiming for enough parts to make 10,000, maybe 12,000. But since it's a totally new product with totally new, you know, like, everything is totally new. I'll say, like, we're succeeding if we get to half of the 10, you know, half of the 10,000. But even 5,000 robots, that's the size of a Roman legion, FYI, which is like, a little scary thought, like a whole legion of robots. I'd be like, whoa, okay. But I think. I think we will literally Build a legion. At least one legion of robots this year and then probably 10 legions next year. And it's kind of a cool unit, you know, units of legion.",
+      "textZh": "哦，是的，这是个好问题。所以今年，我们希望能够制造大约 5,000 台 Optimus 机器人。从技术上讲，我们的目标是备齐足以制造 10,000 台、也许 12,000 台的零部件。但由于这是一个全新的产品，采用全新的，你知道，就像，一切都是全新的。我会说，就像，如果我们能达到 10 的一半，你知道，10,000 的一半，我们就算成功了。但即使是 5,000 台机器人，供你参考，那也是一个罗马军团的规模，这个想法有点吓人，就像一整个机器人军团。我会说，哇，好吧。但我认为。我认为我们今年真的会组建一个军团。至少一个机器人军团，然后明年可能是 10 个军团。而且这算是个很酷的单位，你知道，军团这个单位。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 2184,
+      "textEn": "So probably 50,000 ish next year. And then it's probably ready for. To. I'm hopefully ready for Optimus to be used outside of Tesla controlled environment, maybe around the middle of next year, second half of next year sometime. So. So that's. I think that sounds about right. Probably second half of next year is when they'll be available and then we will offer Optimus robots first to Tesla employees. So you guys get the priority.",
+      "textZh": "所以明年可能是大约 50,000 台。然后大概就准备好用于。去。我希望大约到明年年中，或者明年下半年的某个时候，Optimus 能够在 Tesla 控制的环境之外使用。所以。所以就是这样。我觉得听起来差不多。可能明年下半年它们就会上市，然后我们会首先向 Tesla 员工提供 Optimus 机器人。所以你们享有优先权。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 2224,
+      "textEn": "There are some pluses and minuses to that, you know, because it's probably have a few bugs, but it's going to be very cool. You definitely, you'll want to invite your friends over and say, check us out. So that's the other questions. Hi, Elon. Hey, my name's Dom. I've been here for a little over a year now. I work in people development. Okay. We try to. We make so many amazing things right now. It's still the people that do it. Yes. When we think about applying first principles to the relationships and the teams that people have, how would you encourage us to think about that and act on those first principles when it comes to relationships and teams?",
+      "textZh": "这有利也有弊，你知道，因为它可能会有几个缺陷，但会非常酷。你肯定会想邀请朋友过来，然后说，来看看我们。所以这是其他问题。嗨，埃隆。嘿，我叫 Dom。我来这里已经略超过 1 年了。我从事人员发展工作。好的。我们努力去。我们现在制造了这么多令人惊叹的东西。完成这些工作的仍然是人。是的。当我们考虑把第一性原理应用到人们拥有的人际关系和团队上时，在人际关系和团队方面，你会鼓励我们如何思考这些第一性原理并据此行动？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 2282,
+      "textEn": "Well, I think, you know, there are actually quite a few things I've written over the years that it would be good to compile into like a, I don't know, booklet or something because I actually have to be reminded of those things myself. And I'm like, oh, you remember that thing that I thought of after making so many mistakes and trying to make fewer mistakes. So you know, there's like, for example, at like five step process of like make the requirements less dumb and then try to delete the part and process step only, then optimize only then speed it up. And only the fifth thing is automate. I have to repeat that to myself many times because I've made the mistake of doing it backwards so many times.",
+      "textZh": "嗯，我想，你知道，这些年来我其实写过不少东西，最好能把它们汇编成一本，我不知道，小册子之类的，因为其实我自己也需要有人提醒我这些事情。然后我会想，哦，你还记得我在犯了这么多错误并努力少犯一些错误之后想到的那件事吗。所以你知道，比如说，有一个大概 5 步的流程，就像先让要求没那么愚蠢，然后尝试删掉零件和流程步骤，只有这样，之后才优化，只有这样，之后才加快速度。而自动化只是第 5 件事。我不得不向自己重复很多遍，因为我已经犯过太多次倒着做的错误了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 2326,
+      "textEn": "And you know, I think always operating on the principle that everyone is wrong to some degree and we should aspire to be less wrong over time, which we will not always succeed in doing. But if, you know, if two days out of three you're less wrong over time you're going to be, your batting average is going to be really good. So nobody ever bats a thousand, but you can improve your batting average. So I think rigorous, you know, you want to critique yourself, you want to internalize responsibility.",
+      "textZh": "而且你知道，我认为要始终遵循这样一个原则：每个人在某种程度上都是错的，而我们应该努力随着时间推移变得没那么错，尽管我们不一定总能做到。但如果，你知道，每 3 天中有 2 天你都随着时间推移变得没那么错，那么你的击球率就会非常高。所以没人能永远保持千分之千的击球率，但你可以提高自己的击球率。所以我认为要严谨，你知道，你要批评自己，要把责任内化。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 2365,
+      "textEn": "And these are all things I Need to remind myself of, you know, just to be clear, I'm not like suggesting I internalize responsibility, be less wrong. And we should remember what, we should remember what is our goal as a company? Our goal is to make amazing products that people love and then to take care of those products, service. So we should say, what are we doing to make our products better, to make them more affordable, to have the customer experience be delightful.",
+      "textZh": "而这些都是我需要提醒自己的事情，你知道，说清楚一点，我并不是在暗示我已经把责任内化了，要少犯错。我们也应该记住，我们应该记住，我们作为一家公司的目标是什么？我们的目标是制造人们喜爱的出色产品，然后照顾好这些产品，提供服务。所以我们应该问，我们正在做什么来改善产品，让产品更实惠，让客户体验令人愉悦。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 2399,
+      "textEn": "Because that's actually the purpose of a company. Sometimes people get, why does a company exist? A company exists. It's a group of people collected together to produce a compelling product or service that others find useful and where the value of the product and service is greater than the cost of what it took to make that product or service. So sometimes, weirdly, profit is like, viewed negatively, but really profit is just the difference in value between the output and the input. It's like, what did it cost you to make it and what did it cost you? And what are people prepared to pay for it? That's the value that you created. So it's tough actually even to maintain like a 10% profitability, which is to make that, make the output 10% more valuable than the input. It's actually quite hard, especially in the car industry, which is very competitive. So we should not lose sight of like, why are we here?",
+      "textZh": "因为那实际上就是一家公司的目的。有时人们会问，一家公司为什么存在？一家公司存在。它是一群聚集在一起的人，为了生产一种其他人认为有用且有吸引力的产品或服务，并且该产品和服务的价值高于制造这种产品或提供这种服务所花费的成本。所以有时，很奇怪，利润似乎被负面看待，但其实利润只是产出与投入之间的价值差额。就像，制造它花了你多少成本，它又花了你多少？人们愿意为它支付多少？那就是你创造的价值。所以，实际上，即使要维持比如10%的盈利能力也很难，也就是让产出的价值比投入高出10%。这其实相当困难，尤其是在竞争非常激烈的汽车行业。所以我们不应该忘记，比如说，我们为什么在这里？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 2460,
+      "textEn": "We're here to make useful products that people love, you know, and take care of the, take care of them over time. So then how are we doing in that respect and how can we do that better? So, sure. What advice would you give a young person, like, getting into the stock market? Like, oh, stock advice. Wow. Yes, sir. Yes, sir. As I think people can perhaps tell who are watching this, these, these questions are not prepared in advance.",
+      "textZh": "我们来这里是为了制造人们喜爱的实用产品，你知道，并且照顾好这些，长期照顾好它们。那么，我们在这方面做得怎么样，又怎样才能做得更好？那么，当然。您会给一个年轻人什么建议，比如，进入股市？比如，哦，股票建议。哇。是的，先生。是的，先生。我想，观看这个的人或许能看出来，这些，这些问题并没有提前准备。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 2503,
+      "textEn": "This is literally random questions from the crowd, which is cool, actually, I'm fine with that. And I think that it's going to sound very straightforward, but you want to really buy stock in companies where you think the product that that company makes will be better in the future. Is that company going to make more and better products? Or like, do you love the products that the company makes and are they going to keep doing that? And like, I think Tesla, as I've just gone through Tesla, is going to, has a track record of having made many great products and we're going to make many more future great products and we're going to scale up production and I think we've demonstrated a level of innovation that is extremely rare.",
+      "textZh": "这些实际上就是观众随机提出的问题，这挺酷的，其实，我对此没意见。我想，这听起来会非常直白，但你真正应该购买的是这样一些公司的股票：你认为那家公司制造的产品未来会变得更好。那家公司会制造更多、更好的产品吗？或者说，你喜爱那家公司制造的产品吗，它会继续这样做吗？而且，比如，我认为 Tesla，就像我刚才讲完 Tesla 那样，将会，已经有制造出许多优秀产品的记录，而且我们未来还会制造更多优秀产品，我们会扩大生产规模，并且我认为我们已经展示出了一种极其罕见的创新水平。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 2557,
+      "textEn": "I mean, certainly by far the most innovative company in the car industry. Like, not even close Type of thing. So you know, I do think Tesla stock actually long, I think long term with optimus and self driving Tesla will probably be the most valuable company in the world. But there are also other companies out there that make great products and services. So I think that's the way you want to look at it. Say like is, do you do think this product. Because that's the reason why companies exist is to make great products and services. So if you think that a company is going to improve over time, then buy the stock and if you don't, then don't. And then the stock market is, it's a very strange thing. It's kind of like, you know, I think it's Warren Buffett sort of metaphor analogy is you know, stock markets like having someone stand at the edge of your property or your house and yell prices. About to buy or sell your house every day.",
+      "textZh": "我的意思是，当然，它遥遥领先，是汽车行业最具创新力的公司。比如，根本没有接近的那种。所以，你知道，我确实认为 Tesla 股票其实长期，我认为从长期看，有了 Optimus 和自动驾驶，Tesla 很可能会成为世界上最有价值的公司。但外面也有其他公司制造优秀的产品和提供优秀的服务。所以我认为，你应该这样看。比如说，你是否认为这个产品。因为公司存在的原因就是制造优秀的产品和提供优秀的服务。所以，如果你认为一家公司会随着时间推移而改善，那就买它的股票；如果你不这么认为，那就别买。然后，股市，它是一种非常奇怪的东西。有点像，你知道，我想这是沃伦·巴菲特的某种隐喻类比，你知道，股市就像有人站在你的房产或房子边上，每天大喊价格。要买下或卖掉你的房子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 2620,
+      "textEn": "And like sometimes they take their meds and sometimes they don't, you know, so sometimes the person yelling out the price of your house is having a good day or, and sometimes they're having a bad day, but it's still the same house. You're like, I'm like literally still the same house. Like, you know, so Tesla stock goes up and it goes down, but actually it's still the same company. It's just people's perception of the future.",
+      "textZh": "而且，比如有时他们吃药，有时不吃，你知道，所以有时那个喊出你房子价格的人今天心情不错，或者，有时他们今天心情不好，但房子仍然是同一栋房子。你会说，我就像，实际上仍然是同一栋房子。比如，你知道，所以 Tesla 股票会上涨，也会下跌，但实际上它仍然是同一家公司。只是人们对未来的看法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 2649,
+      "textEn": "I don't know, I guess it's just very emotional, you know, so but for me, like while it's difficult to predict how things will be from, you know, in the next say six to 12 months, if you say like where will things be in three years or five years? The future of Tesla is incredibly bright. Hi. Hi. Yes. You say, will the robot take your job or what? That's a fair question. Well, so yeah, like is a robot going to come steal your job? A reasonable question. I think what, what we'll find with robots is that there'll be a ratio of people to robots. So you'll effectively end up having, managing a group of robots. So you know, you'll have like, basically, I don't know, your flock or your little group of robots that you take care of and you tell them what to do and I don't know, you'll have a pack of robots. Basically.",
+      "textZh": "我不知道，我猜这只是非常情绪化，你知道，所以但对我来说，比如，虽然很难预测接下来，比如说 6 到 12 个月的情况会怎样，但如果你问，比如 3 年或 5 年后情况会怎样？Tesla 的未来无比光明。嗨。嗨。是的。你是说，机器人会抢走你的工作还是什么？这是个合理的问题。嗯，所以，是的，比如机器人会不会过来抢走你的工作？一个合理的问题。我想，我们会在机器人方面发现，人和机器人之间会有一个比例。所以最后你实际上会，管理一群机器人。所以，你知道，你会有，比如，基本上，我不知道，你的一群或一小组由你照料的机器人，你告诉它们做什么，而且我不知道，你会拥有一队机器人。基本上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 2738,
+      "textEn": "Yeah, you're promoted to manager. One way to think of it, I think the same thing will be true of cars. Like so for the self driving cars is that people that are say, you know, Uber drivers today or something like that, or taxi drivers today will end up managing a fleet of Cars and, and that'll be a much more effective use of their time. You know, just taking care of like 10, 20 cars or however many they can take care of.",
+      "textZh": "是的，你升职当经理了。这是一种理解方式，我认为汽车也会是同样的情况。比如，就自动驾驶汽车而言，如今那些，比如说，你知道，Uber 司机之类的人，或者如今的出租车司机，最终会管理一支汽车车队，而，而这将是对他们时间高效得多的利用。你知道，就是照管大约 10、20 辆车，或者他们能照管多少辆就照管多少辆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Audience question",
+      "startSec": 2769,
+      "textEn": "So.",
+      "textZh": "那么。",
+      "speakerZh": "观众提问"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 2770,
+      "textEn": "Yeah. Hello, my name is Adrian. You said that your companies are made to make products people love. Yeah. Have you ever thought of airplanes or trains? Yeah, I mean, I'd actually love to make airplanes especially, but stretched pretty thin. So I have like 17 jobs at this point. I just go to sleep, work, go to sleep and then do that seven days a week pretty much. People say like, where do you go on vacation? I'm like, what's that?",
+      "textZh": "是的。您好，我叫艾德里安。您说过，您的公司是为了制造人们喜爱的产品而成立的。是的。您考虑过飞机或火车吗？是的，我的意思是，我其实尤其想制造飞机，但实在分身乏术。所以到这个时候，我大概有 17 份工作。我就是睡觉、工作、睡觉，然后每周 7 天基本都这样过。人们会问，比如，你去哪儿度假？我就说，那是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 2808,
+      "textEn": "You know? But I guess I like being productive. I like getting things done. So I guess I could choose to be like on an island somewhere sipping a Mai tai, you know, with attractive people in bikinis and stuff. Wait, why am I not doing that?",
+      "textZh": "你知道？但我想我喜欢富有成效。我喜欢把事情做成。所以我想，我可以选择待在某个岛上，喝着迈泰鸡尾酒，你知道，身边是穿比基尼的迷人男女之类的。等等，我为什么没那么做？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Audience",
+      "startSec": 2825,
+      "textEn": "What.",
+      "textZh": "什么。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 2826,
+      "textEn": "What a fool I've been. So,",
+      "textZh": "我一直以来真是个傻瓜。那么，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Audience",
+      "startSec": 2834,
+      "textEn": "yeah,",
+      "textZh": "是的，",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 2836,
+      "textEn": "I've actually thought about aircraft designs for a long time and I think there's an interesting opportunity to make like an electric supersonic VTOL jet. You know, the VTOL is like cherry on the cake, but certainly long range, fast electric airplane would be very cool. You know, maybe at some point we'll do that. Yeah, that'd be kind of fun. We do have the ingredients for it, so.",
+      "textZh": "实际上，我思考飞机设计已经很长时间了，而且我认为制造一种电动超音速垂直起降喷气式飞机是个有趣的机会。你知道，垂直起降就像锦上添花，但航程远、速度快的电动飞机肯定会非常酷。你知道，也许某个时候我们会做。是的，那应该挺有意思。我们确实具备制造它的要素，所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 2877,
+      "textEn": "And then there is the potential for. We're like thinking like pretty far into the future here of not, not a, not a conventional train, but that sort of hyperloop essentially vacuum tunnels. Like tunnels where you draw a vacuum so there's no air resistance and you have very high speed autonomous electric pods in a vacuum tube vacuum tunnel that would allow you to go from city center to city center much faster than any airplane could possibly go.",
+      "textZh": "然后还有这样的潜力。我们现在像是在思考相当遥远的未来，不是，不是一列，不是一列传统火车，而是那种超级高铁，本质上是真空隧道。比如你把空气抽成真空、从而没有空气阻力的隧道，并且在真空管道、真空隧道中运行速度极高的自动驾驶电动舱，那能让你以远超任何飞机所能达到的速度，从一个市中心前往另一个市中心。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Elon Musk",
+      "startSec": 2916,
+      "textEn": "Because going into the, into the, an underground vacuum tunnel would, it'd be like teleporting to super high altitude effectively, which no plane could do. And then it could deliver you right to the center of a city. And that, I don't know, maybe that's some future collaboration with boring company and Tesla. I got a million ideas. The ideas are. I had more ideas than I know what to do with. Ideas are kind of the easy part. Execution is the hard part, as they say. It's 1% inspiration, 99% perspiration",
+      "textZh": "因为进入那个，进入那个，一条地下真空隧道，实际上就像瞬间传送到超高海拔，这是任何飞机都做不到的。然后它可以把你直接送到一座城市的中心。而那，我不知道，也许是 The Boring Company 和 Tesla 未来的某种合作。我有 100 万个想法。想法是。我拥有的想法多得都不知道该拿它们怎么办。想法算是容易的部分。执行才是困难的部分，正如人们所说。成功是 1% 的灵感，99% 的汗水",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Audience",
+      "startSec": 2953,
+      "textEn": "work in manufacturing engineering since 2018. I've done a bunch of different things here, kind of like energy products, model 3, model Y, cyber. And now we're looking forward to Optimus, maybe the biggest product ever.",
+      "textZh": "自 2018 年以来从事制造工程工作。我在这里做过很多不同的事情，有点像能源产品、Model 3、Model Y、Cyber。现在我们期待着 Optimus，也许是有史以来最大的产品。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 2966,
+      "textEn": "Yeah, it will be.",
+      "textZh": "是的，它会是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Audience",
+      "startSec": 2968,
+      "textEn": "And I think about the mission statement of the company and it's evolved. It used to be a sustainable transportation, then sustainable energy. Is it going to evolve again? Are we going to reformulate that officially to kind of explain to the world better about how Optimus and AI folds into the rest of the fabric of the company?",
+      "textZh": "而且我会想到公司的使命宣言，它一直在演变。以前是可持续交通，后来是可持续能源。它还会再次演变吗？我们会不会正式重新表述它，以便向世界更好地解释 Optimus 和 AI 如何融入公司其余的整体架构？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 2989,
+      "textEn": "Yeah, I mean, I touched on this briefly earlier, but you're right that I think we do need to articulate it more prominently and maybe more often, because it's really about sustainable abundance. You know, can we have a future of abundance for all that is also sustainable and compatible with nature? So we're not destroying nature, but you also get abundance for everyone on Earth. Sounds like the best possible future. That's what we're trying to do.",
+      "textZh": "是的，我的意思是，我之前简要谈到过这一点，但你说得对，我认为我们确实需要更突出、或许也更频繁地阐述它，因为它真正关乎的是可持续的富足。你知道，我们能否拥有一个人人富足，同时又可持续并与自然相容的未来？这样我们不会破坏自然，而地球上的每个人也都能获得富足。听起来像是可能实现的最美好未来。这就是我们正在努力做的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 3024,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Audience question",
+      "startSec": 3031,
+      "textEn": "Yes, sir, my name is Aaron Armstrong. Yes, sir, my name is Aaron Armstrong. It's not every day that you get to be in the presence of somebody that's accumulated so much wealth and success. So I just wanted to take this opportunity to ask for any wisdoms or secrets that you may have to offer about this game of life that we're all trying to play.",
+      "textZh": "是的，先生，我叫阿伦·阿姆斯特朗。是的，先生，我叫阿伦·阿姆斯特朗。并不是每天都有机会身处一位积累了如此多财富和成就的人面前。所以我只想借这个机会请教，在这场我们都努力参与的人生游戏中，您是否有任何智慧或秘诀可以分享。",
+      "speakerZh": "观众提问"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 3053,
+      "textEn": "Sure. I mean, I try to tell say everything that I know. Although admittedly sometimes, you know, like, I posted on X, I guess. Should I ask the AI to look through all of my X posts and pick out the ones that are really good? Because I try to say any, you know, good ideas that I have, I try to post them. Yeah. I think generally it's good to always be curious and to, you know, to read widely. Like, read a lot of interesting books, especially history. I find history really interesting.",
+      "textZh": "当然。我的意思是，我会尽量把我知道的一切都说出来。不过诚然，有时候，你知道，就像，我想我在 X 上发过。我是不是该让 AI 浏览我所有的 X 帖子，然后挑出那些真正好的？因为我会努力把我拥有的任何，你知道，好的想法发出来。对。我觉得总体而言，始终保持好奇心，还有，你知道，广泛阅读是好事。比如，读很多有趣的书，尤其是历史书。我觉得历史真的很有意思。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 3095,
+      "textEn": "And I find, like, biographies and autobiographies to be also very interesting. You know, I think it's good to read especially autobiographies where, like, you know, somebody's done something incredible and they wrote. They wrote the book themselves or mostly themselves. That'll give you a lot of ideas. And I mean, something that I do is I'll get audio books because I got, like, so much going on in my mind when I. It's kind of hard to go to sleep because it's like having a computer browser with like 100 tabs open. That's by the end of the day, I got like 100 tabs open. Like, how do I close this browser? You know, that's my brain. So then I'll listen to an audiobook and I'll put it on a timer, and it's like 15 minutes. It's like being like being read a bedtime story by your phone. So podcasts and audiobooks, especially during at Bedtime or I find are great.",
+      "textZh": "而且我觉得，像传记和自传，也非常有意思。你知道，我觉得尤其应该读自传，比如，你知道，某个人做了什么不可思议的事，然后他们写了。他们自己或者主要由他们自己写了那本书。那会给你很多想法。还有，我会做的一件事是听有声书，因为当我。我脑子里有太多事情了。入睡有点困难，因为这就像一个打开了大约 100 个标签页的电脑浏览器。到一天结束时，我大约有 100 个标签页开着。比如，我怎么关闭这个浏览器？你知道，那就是我的大脑。所以接着我会听一本有声书，给它设置一个定时器，比如 15 分钟。这就像是让你的手机给你读睡前故事。所以播客和有声书，尤其是在睡觉时，或者说，我觉得都很棒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 3164,
+      "textEn": "Sure. Sorry, I can't hear you. Oh, there's a city in South Texas which is Starbase. So it's a city for it's cities. Maybe sound makes it sound bigger than it is, but it is. It's a really a small town plus a giant rocket factory. That's Starbase and it's South Texas and Starbase Texas right by the Rio Grande. And you can just literally drive there because it's on the like a state highway. So you just drive through it, check it out.",
+      "textZh": "当然。抱歉，我听不见你说话。哦，南得克萨斯州有一座叫星港的城市。所以它是一座城市，因为它是城市。也许“城市”这个词让它听起来比实际更大，但它确实是。它其实是一座很小的城镇，外加一座巨型火箭工厂。那就是星港，它位于南得克萨斯州，是得克萨斯州的星港，就在格兰德河边。你完全可以直接开车去那里，因为它就在一条类似州级公路的路上。所以你直接开车穿过去，看看就行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 3217,
+      "textEn": "So I do own a piece of property that's just across the river that's kind of cool. It used to be like a, like a horse place, like where they would give horse riding lessons stuff. And at some point I think it would be cool to. I want to do like this gigantic art project there that's like a. Looks like an alien planet like right across the river. But like that people could visit, you know, so then I might like live there occasionally. But really it's a place to like, I don't know, to envision sort of an alien planet art project across the river. Be kind of cool. Yeah, yeah.",
+      "textZh": "所以我确实拥有河对岸的一块地产，还挺酷的。那里以前好像是一个，一个养马的地方，类似他们会在那里提供骑马课程之类的地方。而且我觉得将来某个时候……会很酷。我想在那里做一个巨型艺术项目，像是一个。看起来像一颗外星行星，就在河对岸。不过人们可以前去参观，你知道，所以到时候我可能偶尔会住在那里。但实际上，那是一个用来，怎么说呢，设想河对岸某种外星行星艺术项目的地方。应该会挺酷。是的，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 3277,
+      "textEn": "To spend money digital assets. Did we foresee like Tesla created a product that can help boost how we scale. Do we foresee Tesla making a product that helps how we spend money? Well, I think the AI is going to help us spend money better. Um, it's kind of amazing, you know, what AI can do these days. I don't know if anyone here has used Grok, but it's pretty cool. Grok voice can be really pretty great too. I should try Grok Unhinged. It's like it's guaranteed to be entertaining at a party. I 1000% promise you if you, if you try Grok Voice Unhinged at a party, this will be a very, it's going to be a big hit. So. But you can also ask it any questions.",
+      "textZh": "花钱，数字资产。我们是否预见到，比如 Tesla 创造一种能帮助提升我们扩展方式的产品。我们是否预见到 Tesla 会制造一种帮助我们花钱的产品？嗯，我认为 AI 会帮助我们更好地花钱。嗯，现在 AI 能做到的事实在有些惊人。这里不知道有没有人用过 Grok，不过它非常酷。Grok 语音也可以非常非常棒。我应该试试 Grok Unhinged。它就像是保证能在派对上带来娱乐效果。如果你，如果你在派对上试用 Grok Voice Unhinged，我 1000% 向你保证，这会非常，它会大受欢迎。所以。不过你也可以问它任何问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 3335,
+      "textEn": "So like if you want to ask questions about like you know, life advice or things that, or anything like you can really ask like you can ask it about cryptocurrency if you want. You can ask it about medical advice. You can ask any. It's actually, it's very good and it's getting better. So you know, I think more use of try using Grok. It's like, it's really pretty cool. Yeah, sure.",
+      "textZh": "所以，比如说，如果你想问一些关于，你知道，人生建议的问题，或者那些事情，或者任何事情，你真的都可以问，比如想问加密货币也可以。你可以向它咨询医疗建议。你可以问任何。实际上，它非常好，而且还在变得更好。所以，你知道，我觉得可以更多地使用，试着使用 Grok。它就像是，真的相当酷。是的，当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 3369,
+      "textEn": "Plan are we in and how long does it go? Yeah, so we're in phase three of the master plan. Since master plan one and two have been completed. Completed Now Master Plan part three is a very long master plan because it's basically making all energy on Earth sustainable and I actually need to supplement it with the sort of abundance for all. Maybe That's Master Plan 4. I've kind of described Master Plan 4 essentially, which is like autonomous cars, autonomous humanoid robots.",
+      "textZh": "我们处于计划的哪个阶段，这一阶段会持续多久？是的，所以我们正处于总体规划的第3阶段。因为总体规划第1部分和第2部分已经完成。已经完成。现在，总体规划第3部分是一项非常长期的总体规划，因为它基本上是要让地球上的所有能源都实现可持续，而实际上，我还需要用某种人人富足的愿景来补充它。也许那就是总体规划第4部分。我其实已经大致描述过总体规划第4部分，也就是自动驾驶汽车、自主运行的人形机器人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 3417,
+      "textEn": "You combine that with like solar and battery storage and I think the future is going to be incredible. So I'll take a couple more questions and call it a night. Well, if you haven't asked a question before, you can ask questions.",
+      "textZh": "把这些与太阳能和电池储能之类的东西结合起来，我认为未来会不可思议。所以我再回答几个问题，然后今晚就到这里。嗯，如果你之前还没有问过问题，现在可以提问。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Audience question",
+      "startSec": 3433,
+      "textEn": "Question.",
+      "textZh": "问题。",
+      "speakerZh": "观众提问"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Audience",
+      "startSec": 3435,
+      "textEn": "Ok.",
+      "textZh": "好的。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 3436,
+      "textEn": "Almost three years. My question is when will we see some optimus robots with the production team? Oh well, there are actually some optimus robots being built in Fremont right now. So we'll not sure what that was, but so, but we expect to have an Optimus production line here as well. So there'll be optimus production starting in the Bay Area and then we'll have the even bigger Optimus production line here in Austin. Yeah, there's going to be a lot of robots ultimately.",
+      "textZh": "差不多3年了。我的问题是，我们什么时候会看到一些 Optimus 机器人加入生产团队？哦，嗯，实际上现在弗里蒙特就有一些 Optimus 机器人正在制造。所以我们不确定刚才那是什么，不过，所以，不过我们预计这里也会有一条 Optimus 生产线。所以 Optimus 的生产将从湾区开始，然后我们会在奥斯汀这里建设规模更大的 Optimus 生产线。是的，最终会有很多机器人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 3481,
+      "textEn": "I mean I think there'll be, we'll be making tens of millions of robots a year. 10 of thing. It's like serious volume, maybe 100 million robots a year. It's wild. Yeah. All right, one last question. Okay. It's about sustainability.",
+      "textZh": "我的意思是，我认为会有，我们每年将制造数千万台机器人。10 个东西。这是相当大的产量，或许每年 1 亿台机器人。太疯狂了。是的。好了，最后一个问题。好的。这个问题与可持续性有关。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Tesla film",
+      "startSec": 3507,
+      "textEn": "Abundance.",
+      "textZh": "富足。",
+      "speakerZh": "Tesla 影片"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 3508,
+      "textEn": "Abundance, yes. Well, yes. I mean obviously Utopia could be dystopia. So we have to like usually any story about utopia ends up being dystopia. We want to avoid that. But nonetheless, I think if you say what future? What's the best future you can think of? I think a future of sustainable abundance plus space travel. That's pretty great.",
+      "textZh": "富足，是的。嗯，是的。我的意思是，显然，乌托邦可能会成为反乌托邦。所以我们必须，就像，通常任何关于乌托邦的故事最终都会变成反乌托邦。我们希望避免这种情况。但尽管如此，我认为，如果你问什么样的未来？你能想到的最美好未来是什么？我认为是可持续富足加上太空旅行的未来。那相当不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Audience",
+      "startSec": 3536,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 3544,
+      "textEn": "Oh, we need, we need adversity. Well, I mean you make a good point. Like we like if things actually get too easy, maybe we get bored and we're not. You kind of want to some degree overcome adversity. You know, it's like if you play a game of some kind, you want the game to be not too easy and not too hard and maybe the future will be too easy potentially is what you're saying.",
+      "textZh": "哦，我们需要，我们需要逆境。嗯，我的意思是，你说得很有道理。比如，我们，就像，如果事情真的变得太容易，也许我们会感到无聊，而我们并不。你在某种程度上会想要克服逆境。你知道，就像你玩某种游戏时，你希望游戏不要太容易，也不要太难，而你想表达的可能是，未来也许会太容易。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 3580,
+      "textEn": "It's a high class problem, you know, but I think we'll still have human to human competitions. If you look at say athletics or even mind games like chess, although computers can beat any human at chess, chess is actually at an all time high in popularity. And although you know, cars can go faster than any humans, we still have athletic sports where humans compete against each other. So I think we'll still have human versus human competitiveness.",
+      "textZh": "你知道，这是个奢侈的烦恼，但我认为我们仍会有人与人之间的竞赛。比如看看体育运动，甚至国际象棋这样的智力游戏，尽管计算机可以在国际象棋中击败任何人类，但国际象棋的受欢迎程度实际上正处于历史最高水平。而且尽管，你知道，汽车可以比任何人类跑得更快，我们仍然有由人类相互竞技的体育运动。所以我认为，我们仍会保留人与人之间的竞争。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 3620,
+      "textEn": "I think long term we will also have enhancement of humans, or optionally, if somebody wants to enhance, like, have, like, cybernetic enhancements, like with neuralink. You know, if you want to go, go cybernetic and, I don't know, maybe have, like, super intelligence and be able to see, you know, in different wavelengths. We could absolutely provide superhuman abilities fire via neuralink in the future.",
+      "textZh": "我认为，从长期来看，我们还会增强人类，或者可以选择增强，如果有人希望增强，比如，拥有类似通过 Neuralink 实现的控制论增强。你知道，如果你想走，走控制论路线，而且，我不知道，也许拥有类似超级智能的能力，并且能够看见，你知道，不同波长的光。未来，我们完全可以通过 Neuralink 提供超人能力的火焰。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 3652,
+      "textEn": "So one thing's for sure, the future is going to be very interesting. In fact, I think the most. Generally, I find that the most interesting outcome is the most likely. Or said another way, maybe the most entertaining outcome, especially if ironic, is the most likely. It's almost like we're in a alien Netflix series that's trying to have the highest possible ratings. And, like, if you think about it, like, that's kind of what happens, you know? Which it doesn't mean it's always good because to your point, you wouldn't really want to watch a show where things are great and stay great and, like, oh, that's boring. You want to watch a show where there's, like, a narrative arc where things go up and they go down, they go back up again, and you don't know exactly what's going to happen next.",
+      "textZh": "所以有一件事是肯定的，未来会非常有趣。事实上，我认为最。一般来说，我发现最有趣的结果最有可能发生。或者换一种说法，也许最具娱乐性的结果，尤其是带有讽刺意味的结果，最有可能发生。这几乎就像我们身处一部外星人的 Netflix 剧集，而它正努力争取尽可能高的收视率。而且，比如，如果你仔细想想，这差不多就是正在发生的事情，你知道吗？这并不意味着事情总是好的，因为正如你所说，你不会真的想看一部一切都很美好，而且一直很美好的剧，然后，就像，哦，那太无聊了。你想看的是一部具有类似叙事弧线的剧，事情会上升，会下降，然后再次上升，而你并不确切知道接下来会发生什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 3713,
+      "textEn": "And I think we might be in an alien Netflix series here, so we're just going to keep the ratings up so we don't get canceled. All right, thank you, guys.",
+      "textZh": "而且我觉得我们可能正身处一部外星人 Netflix 剧集里，所以我们只管让收视率保持高位，免得被砍。好了，谢谢大家。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T08:42:30.333Z",
+    "reviewedAt": "2026-09-13T10:08:36.507Z"
+  },
+  "fetchedAt": "2026-09-12T07:10:17.572Z",
+  "transcriptSource": "https://x.com/i/broadcasts/1DXxyqnNoqbxM",
+  "sourceHash": "be203e7c3dcfd138815e9d4da9f97adf7a089ea2852799bb7449301449754074"
+}

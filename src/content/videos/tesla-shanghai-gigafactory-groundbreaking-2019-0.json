@@ -1,0 +1,70 @@
+{
+  "id": "tesla-shanghai-gigafactory-groundbreaking-2019-0",
+  "slug": "tesla-shanghai-gigafactory-groundbreaking-2019-0",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2019-01-07",
+  "titleEn": "Tesla Shanghai Gigafactory Groundbreaking",
+  "titleZh": "Tesla 上海超级工厂奠基仪式",
+  "summaryEn": "Musk speaks at the groundbreaking ceremony for Tesla's first overseas factory, Gigafactory 3 in Shanghai.",
+  "summaryZh": "马斯克在 Tesla 首座海外工厂——位于上海的超级工厂 3——的奠基仪式上发表讲话。",
+  "sourceUrl": "https://www.youtube.com/watch?v=EDNZ6YqFMg8",
+  "sourceLabel": "Vincent Yu",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-shanghai-gigafactory-groundbreaking-2019-0",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/EDNZ6YqFMg8",
+  "thumbnailUrl": "https://i.ytimg.com/vi/EDNZ6YqFMg8/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 102,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 0.64,
+      "textEn": "This will be the most advanced Tesla gigafactory in the world and arguably one of the most advanced factories in the world of any kind. Perhaps the most advanced.",
+      "textZh": "这将是世界上最先进的Tesla超级工厂，也可以说是世界上任何类型工厂中最先进的工厂之一。或许是最先进的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 11.28,
+      "textEn": "We are just incredibly excited to be here and would like to just very much thank the mayor and his team for allowing us to make this rapid progress. Thank you very much.",
+      "textZh": "我们非常激动能来到这里，也非常感谢市长和他的团队，让我们能够取得如此迅速的进展。非常感谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 24.88,
+      "textEn": "And to Tesla China team. Thank you, guys. Everyone's been working very hard to get to this day and we're looking forward to very rapid progress from here on out. It's very impressive what the capabilities of Shanghai in building things.",
+      "textZh": "还有Tesla中国团队。谢谢大家。每个人都一直在非常努力地工作，才迎来了今天，我们期待从现在起取得非常迅速的进展。上海建设事物的能力令人印象非常深刻。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 44.38,
+      "textEn": "And you know, I learned recently that Shanghai, for example, has the biggest subway system in the world. That's great. And we think with the resources here that we can build the Shanghai Jaeger factory in record time. And, and we're looking forward to hopefully having some initial production of the Model 3, this vehicle towards the end of this year and achieving volume production next year. We are looking for the very best talent in China to join Tesla China.",
+      "textZh": "而且，你知道，我最近了解到，比如上海拥有世界上最大的地铁系统。这太棒了。我们认为，凭借这里的资源，我们能够以创纪录的速度建成上海Jaeger工厂。而且，而且我们期待有望在今年年底前对Model 3，也就是这款车，进行一些初步生产，并在明年实现量产。我们正在中国寻找最优秀的人才加入Tesla中国。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 79.74,
+      "textEn": "And I do want to emphasize there's no limit on the potential. One day somebody could join as a junior engineer here at Tesla Shanghai Giga and ultimately maybe have my job one day. So we're looking for the very best people to join and help us build a sustainable future for the world. Thank you.",
+      "textZh": "而且我确实想强调，潜力是没有上限的。将来有一天，有人可能会以初级工程师的身份加入这里的Tesla上海超级工厂，最终也许有一天会接替我的工作。所以，我们正在寻找最优秀的人才加入我们，帮助我们为世界建设一个可持续的未来。谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T01:37:37.391Z",
+    "reviewedAt": "2026-09-13T01:52:36.176Z"
+  },
+  "fetchedAt": "2026-09-12T07:14:27.551Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "2cc9ef50be4a7437f5a38d694c2ee180014ebe7684761081cd6c48183c08d79d"
+}

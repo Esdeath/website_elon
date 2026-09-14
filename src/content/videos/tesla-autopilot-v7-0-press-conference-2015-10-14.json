@@ -1,0 +1,1478 @@
+{
+  "id": "tesla-autopilot-v7-0-press-conference-2015-10-14",
+  "slug": "tesla-autopilot-v7-0-press-conference-2015-10-14",
+  "snapshotId": "2026-09-12",
+  "type": "keynote",
+  "date": "2015-10-14",
+  "titleEn": "Tesla Autopilot v7.0 Press Conference",
+  "titleZh": "Tesla Autopilot v7.0 新闻发布会",
+  "summaryEn": "Musk presents Tesla's first Autopilot software release with Autosteer, auto lane change and Autopark for the Model S.",
+  "summaryZh": "马斯克介绍了 Tesla 首次发布的 Autopilot 软件，其中为 Model S 提供了自动转向、自动变道和自动泊车功能。",
+  "sourceUrl": "https://www.youtube.com/watch?v=73_Qjez1MbI",
+  "sourceLabel": "Electrek.co",
+  "archiveUrl": "https://elonmuskarchive.org/video/tesla-autopilot-v7-0-press-conference-2015-10-14",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/73_Qjez1MbI",
+  "thumbnailUrl": "https://i.ytimg.com/vi/73_Qjez1MbI/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 3150,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 1.04,
+      "textEn": "Pin in one keyboard clicker. It's like a bunch of photos.",
+      "textZh": "别在一个键盘点击器上。它就像一堆照片。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 14.8,
+      "textEn": "So see the quite exciting announcement, which is the release of Autopilot and it's Autopilot version one. And you still think of it sort of as, as a public beta. So we want people to be quite careful at first with the use of Autopilot.",
+      "textZh": "所以，来看这个相当令人兴奋的公告，也就是 Autopilot 的发布，这是 Autopilot 版本 1。你们仍然可以把它看作某种公开测试版。所以我们希望人们一开始使用 Autopilot 时要相当谨慎。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 35.52,
+      "textEn": "But what I'm going to take you through is just how the system learns over time. The thing that's, I think, quite interesting and unique is that we're employing a fleet learning technology. Essentially the network of vehicles is going to be constantly learning and performance. And as we release the software, more people enable Autopilot.",
+      "textZh": "但我要带你们了解的是，这套系统如何随着时间推移而学习。我认为，相当有趣且独特的一点是，我们正在采用车队学习技术。本质上，车辆网络将持续学习和表现。随着我们发布软件，会有更多人启用 Autopilot。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Elon Musk",
+      "startSec": 61.36,
+      "textEn": "The information about how to drive is uploaded to the network. So each car, each driver is effectively an expert trainer in how the Autopilot should work.",
+      "textZh": "有关如何驾驶的信息会上传到网络。因此，每辆车、每位驾驶员实际上都是训练 Autopilot 应当如何工作的专家训练员。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 77.52,
+      "textEn": "And I'll tell you a bit about how that works. But it's a combination of a variety of systems and this can only really be done as a connected vehicle. So, and there's some things like every car made by Tesla from late September last year overnight will have this ability.",
+      "textZh": "我会告诉你们一些它如何运作的情况。但它是多种系统的组合，而且这实际上只有作为联网车辆才能做到。所以，还有一些事情，比如 Tesla 从去年9月下旬开始生产的每辆车，都会在一夜之间拥有这项能力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 102.11,
+      "textEn": "So I think that's quite, quite unique that we can upload a substantial new capability just with software overnight. Basically any car that has the sensors will have this ability. And the sensors were put into the car by a year ago.",
+      "textZh": "所以我认为，我们可以仅靠软件在一夜之间上传一项重大的新能力，这是相当、相当独特的。基本上，任何装有这些传感器的汽车都会拥有这项能力。而这些传感器在1年前就已装入汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Elon Musk",
+      "startSec": 117.53,
+      "textEn": "And the capability will keep improving our time, both from the standpoint of all the expert drivers doing approximately a million miles a day of travel and training, but also in terms of the software functionality.",
+      "textZh": "而这项能力会不断改善我们的时间，一方面源于所有专家驾驶员每天大约100万英里的行驶和训练，另一方面也体现在软件功能方面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 135.6,
+      "textEn": "So this version of Autopilot, for example, does not take into account stop signs and red lights. But a future software update will be one example of something and will get more and more refined over time. And then there's a feature that I've been posting for a while which will 7.1, which is to automatically have your car put itself to bed in the garage. So you can just tap your phone and have the car just put itself into the garage, close door and also send the car back.",
+      "textZh": "所以，例如，这个版本的 Autopilot 不会把停车标志和红灯考虑在内。但未来的软件更新会是某种功能的一个例子，并且随着时间推移会变得越来越完善。然后还有一项我发布消息已有一段时间的功能，它将是 7.1，也就是自动让你的汽车在车库里自行就寝。所以你只需轻点手机，就能让汽车自行进入车库、关上门，也能把汽车送回去。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Elon Musk",
+      "startSec": 176.4,
+      "textEn": "So that that'll be in 34. So it'll be a lot of cool capability that comes out over time, as well as just general refinements that provide an experience. So let's go to slide one.",
+      "textZh": "所以那个、那个会在 34 里。因此，随着时间推移会推出许多很酷的能力，也会有提供一种体验的常规改进。那么我们来看第1张幻灯片。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 187.93,
+      "textEn": "You have a car on the road and the question is, how does it figure out what to do? So there's four major sensor systems.",
+      "textZh": "路上有一辆汽车，问题是，它如何弄清楚该做什么？所以这里有4套主要的传感器系统。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Elon Musk",
+      "startSec": 197.61,
+      "textEn": "We've got the ultrasonic sensor, so essentially ultrasonic sonar, which gives us, tells us where everything is within about 5.2 meter, or roughly 16ft, 16, 17 foot.",
+      "textZh": "我们有超声波传感器，也就是本质上的超声波声呐，它会给我们、告诉我们大约5.2米范围内，或者大约16英尺、16、17英尺范围内所有物体的位置。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 213.57,
+      "textEn": "So around the perimeter of the car we know where there are obstacles. That's then combined with a forward facing camera with image recognition. The forward facing camera is able to determine where the lanes are, where cars are ahead of it, and it's also able to read signs. It's been able to read speed signs for a while, for example, but it's able to read pretty much any sign.",
+      "textZh": "所以我们知道汽车周边哪里有障碍物。然后它会与具备图像识别能力的前视摄像头结合。前视摄像头能够确定车道在哪里、前方车辆在哪里，而且它也能读取标志。例如，它已经能够读取限速标志一段时间了，但它几乎能读取任何标志。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 243.46,
+      "textEn": "That's combined with the forward radar. The radar is very good at detecting fast moving large objects and it can actually see through fog, rain, snow and dust. So the forward radar gives the car superhuman sensors. It can see through things that.",
+      "textZh": "它会与前向雷达结合。雷达非常擅长探测快速移动的大型物体，而且它实际上能看穿雾、雨、雪和尘土。因此，前向雷达赋予汽车超越人类的传感能力。它能看穿那些。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 269.48,
+      "textEn": "And then final sensor is the GPS with high precision digital maps. So this is important. The high precision digital maps are very important because normal maps have quite low precision. All that's needed is to know where a street is.",
+      "textZh": "然后最后一种传感器是配有高精度数字地图的 GPS。所以这一点很重要。高精度数字地图非常重要，因为普通地图的精度相当低。所需要的只有知道一条街在哪里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 290.25,
+      "textEn": "But like the actual curvature of the road, how many lanes there are, how you merge from one lane to the next. This is not present in any data set in the world, but we're creating that data set at Tesla. So then these all combine. So we can use the camera, radar, ultrasonics and the GPS of high precision maps to try to car this journey because people had a chance to test drive.",
+      "textZh": "但像道路的实际曲率、有多少条车道、如何从一条车道汇入下一条车道。这些并不存在于世界上的任何数据集中，但我们正在 Tesla 创建这个数据集。然后这些都会结合起来。所以我们可以使用摄像头、雷达、超声波装置以及高精度地图的 GPS，尝试把这段旅程汽车化，因为人们已经有机会试驾。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 325.19,
+      "textEn": "So you would have seen where the auto steer is using different visual cues or different road cues to decide where to drive.",
+      "textZh": "所以你们应该已经看到，自动转向会在哪里利用不同的视觉线索或不同的道路线索来决定往哪里行驶。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Reporter",
+      "startSec": 336.63,
+      "textEn": "So",
+      "textZh": "所以",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 338.95,
+      "textEn": "it'll take a left lane, right lane, or both. Determine whether it should follow vehicles, follow vehicles, whether it should do holistic path prediction, or whether it should use the navigation database and depending upon where it is. So it's constantly looking up where it is in the world. And depending upon its specific location, it will know whether to use the left lane marking, the right lane marking, follow vehicles, to use holistic path prediction or to go purely on navigation on gps.",
+      "textZh": "它会采用左侧车道、右侧车道，或者两者。确定它是否应该跟随车辆、跟随车辆，是否应该进行整体路径预测，或者是否应该使用导航数据库，这取决于它在哪里。所以它会不断查找自己在世界上的位置。并且根据它的具体位置，它会知道是使用左侧车道标线、右侧车道标线、跟随车辆、使用整体路径预测，还是完全依赖 GPS 导航。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 373.12,
+      "textEn": "And this really depends on where it is. So I don't know if you went down to 280 for example, but if you're in the rightmost lane of the 280, you'll see the car actually periodically read out the right lane because it knows that it should not take a tunnel, needs to stay in its lane and not do a tunnel.",
+      "textZh": "而这实际上取决于它在哪里。所以我不知道你们是否开到了 280，例如，但如果你位于 280 的最右侧车道，你会看到汽车实际上会定期读出右侧车道，因为它知道自己不应该走隧道，需要留在自己的车道里，而不是走隧道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 393.6,
+      "textEn": "And you'll see it at one point, I mean South island at 280, the rightmost lane takes an abrupt shift to the left. It just steps to the left arbitrarily. The car does not change its position in lane just because it knows to ignore that sudden step change in the rightmost lane.",
+      "textZh": "你会在某个地点看到它，我是说 280 的南岛，最右侧车道突然向左偏移。它就是任意地向左跳了一下。汽车不会改变自己在车道中的位置，只因为它知道要忽略最右侧车道中那个突然的阶跃变化。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 415.93,
+      "textEn": "And then this is an example of one of the hardest problems that we had to solve. Where does it get super Hard. This is the 405South.",
+      "textZh": "然后，这是我们必须解决的最困难问题之一的例子。它在哪里变得超级困难。这是 405 南向。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 424.21,
+      "textEn": "Just before you get to LAX, you can see how hard it is. This is actually camera footage we took this morning. It's quite hard as a person to say, where's the lay? We really need better lane markings in California. This is crazy. If you're in Germany or Japan or China, this would be great. It'd be easy. You can actually see clear lay markings. But if you have that, I mean, this is the lane, which are like little bit.",
+      "textZh": "就在你到达洛杉矶国际机场之前，你可以看到这有多困难。这实际上是我们今天早上拍摄的摄像头画面。作为一个人，要说铺设在哪里也相当困难。我们在加利福尼亚确实需要更好的车道标线。这太疯狂了。如果你在德国、日本或中国，这会很棒。会很容易。你实际上可以看到清晰的铺设标线。但如果你有那个，我是说，这是车道，它们像是一点点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 454.78,
+      "textEn": "I don't know why marking out the lane. And what becomes really problematic in a situation like this is that you've got where the concrete is and where the old lane markings used to be are diverging from where the current lane markings. So the problem we encountered, which was quite vexing sold, was that the vision system could not figure out which is the actual real lane.",
+      "textZh": "我不知道为什么要标出车道。而在这种情况下真正变得成问题的是，混凝土所在的位置和旧车道标线过去所在的位置，正在偏离当前车道标线所在的位置。所以我们遇到的问题，相当令人困扰地解决了，是视觉系统无法弄清楚哪一条才是真正的实际车道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 484.45,
+      "textEn": "And normally you can exclude sort of strange figments on the road or like skid marks or whatever, because they're not where the lane is. But in this case, you have the true lane position and the sort of fake lane position, and. And they're diverging. So the camera system would then follow the diverging system and going to the wrong lane.",
+      "textZh": "通常，你可以排除道路上某种奇怪的假象，比如刹车痕之类的，因为它们并不在车道所在的位置。但在这种情况下，你会看到真实的车道位置和某种虚假的车道位置，而且。而且它们正在分叉。因此，摄像头系统随后就会沿着那个分叉的系统走，进入错误的车道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 510.55,
+      "textEn": "And so in order to solve this, at this point, the car knows that it actually needs to go on navigation gps. So we'll go for its lateral position, will be guided by the GPS for its lane position, and ignore visual.",
+      "textZh": "所以，为了解决这个问题，到这个时候，车辆知道它实际上需要依靠导航 GPS 行驶。因此，在横向位置方面，它的车道位置将由 GPS 引导，并忽略视觉信息。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 528.4,
+      "textEn": "As a funny anecdote that we had was when we did this, we realized, okay, we've got to have times when the system will automatically revert to navigate on GPS where the visual cues are actually misleading. So we had one of our drivers in a car actually drive this exact section to precisely map out the lanes. We knew for sure where the lanes would be. Then we implemented the system. And yet once again, the car would change lanes when it shouldn't change lanes.",
+      "textZh": "我们遇到过一件有趣的轶事：当我们这样做时，我们意识到，好吧，在视觉线索实际上具有误导性的情况下，系统必须能够自动恢复为依靠 GPS 导航。所以，我们让一名驾驶员开车实际驶过这段一模一样的路，以精确绘制车道。我们很确定车道会在哪里。然后我们实施了这个系统。然而又一次，车辆在不该变道的时候变道了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Elon Musk",
+      "startSec": 561.61,
+      "textEn": "This is because the human driver, who is a trained driver, actually made the lane change wrong.",
+      "textZh": "这是因为那名经过训练的人类驾驶员实际上变错了车道。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 570.17,
+      "textEn": "It was quite perplexing for a while. Like, why is it going on GPS and making the wrong move? It's because the reference driver actually made the wrong move. So we corrected that, and now you can actually do this in any of the lanes and it will hold position correctly. It will actually do better than the first one.",
+      "textZh": "有一阵子这相当令人困惑。比如，它为什么依靠 GPS 却做出了错误的动作？这是因为作为参照的驾驶员实际上做错了。所以我们修正了这一点，现在你实际上可以在任何一条车道上这样做，它都会正确保持位置。它实际上会比第一个做得更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Elon Musk",
+      "startSec": 595.39,
+      "textEn": "This is to give you a sense of what the level of precision that the Tesla fleet is gaining in in terms of figuring out where roads are, where parking lots are.",
+      "textZh": "这是为了让你了解 Tesla 车队在判断道路在哪里、停车场在哪里方面所达到的精确程度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 609.08,
+      "textEn": "And this is all just in a statistical database. There's no user attribution. We don't know who it was, when it was. It's just we know that this is where a road exists, this is where cars have gone, statistically speaking. And so you can see that here's the user fleet has basically mapped out area in this map and all the way down to the parking lot, you can actually see where in the parking lot people went.",
+      "textZh": "而这一切都只存在于一个统计数据库中。没有用户归属信息。我们不知道是谁，也不知道是什么时候。我们只知道，从统计角度来说，这里存在一条道路，车辆曾经从这里经过。所以你可以看到，用户车队基本上已经绘制出了这张地图中的区域，一直延伸到停车场，你实际上可以看到人们在停车场里去了哪里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 639.66,
+      "textEn": "What constitutes a real parking lot. This is a normal navigation map, which is fine for general directions, but it's not great for figuring out where the car can actually go.",
+      "textZh": "什么构成了一个真正的停车场。这是一张普通的导航地图，用于一般性的路线指引没问题，但在判断车辆实际上能去哪里方面并不出色。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 654.62,
+      "textEn": "So whereas this is a high precision map, so you can see that each lane is mapped out and you know exactly what the transitions are. You know that for example here you don't make an abrupt like 90 degree left, you actually make a curve.",
+      "textZh": "而这是一张高精度地图，所以你可以看到每条车道都被绘制出来了，而且你确切地知道过渡方式是什么。比如你知道，在这里不能突然来一个类似 90 度的左转，而实际上应该沿着弯道行驶。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 677.55,
+      "textEn": "And you can see like little places like here. If you were to follow the. Yes, you would like to clip the curve and actually what you want to do is do a curve like that.",
+      "textZh": "而且你可以看到像这里这样的小地方。如果你要沿着这个。是的，你会像是切过弯道，而实际上你应该像那样走一条曲线。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 692.34,
+      "textEn": "So that's the basic presentation. I think this is going to be quite a profound experience for people when they do it. And we've been testing it for over a year, so we got quite used to it. But I've noticed that when, when I put friends of mine in the car and they see the car drive, they're blown away. It's really quite an interesting new experience and I think it's going to change people's perception of the future quite rapidly.",
+      "textZh": "以上就是基本的演示。我认为当人们亲自体验时，这会是一种相当深刻的体验。我们已经测试它超过 1 年了，所以我们已经相当习惯了。但我注意到，当、当我让朋友们坐进车里，而他们看到车辆自行驾驶时，他们都惊呆了。这确实是一种相当有趣的新体验，而且我认为它会相当迅速地改变人们对未来的看法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 728.24,
+      "textEn": "More questions I want to come to you and we will switch to the people on the phone.",
+      "textZh": "还有更多问题，我想请你提问，然后我们会转到电话连线的人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Elon Musk",
+      "startSec": 750.089,
+      "textEn": "Nick James with Mashable was thinking about the site collision monitoring warning system and it said in the little packet that even if it is disabled the vehicle menu, that even if it detects an obstacle, it'll move within your lane around the obstacle. What is the purpose of having it still active even if the owner has deactivated? Yeah, there's two elements there. One is when autopilot is activated, it's using the ultrasonic sensors to, to see if it's impinging on a vehicle nearby.",
+      "textZh": "Mashable的Nick James在询问现场碰撞监测警告系统，小册子里说，即使在车辆菜单中禁用了它，即使它检测到障碍物，它也会在你的车道内绕过障碍物。即使车主已经将其停用，仍让它保持启用的目的是什么？是的，这里有2个要素。一个是，当Autopilot启动时，它会使用超声波传感器来、来判断它是否正在侵入附近车辆的空间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 790.33,
+      "textEn": "So like, let's say there's a large truck, like an oversized truck next to you on the freeway. You don't want to be in the middle of your lane, you want to be offset to one side of the lane that's active. Obviously when auto sear is active, however, we also have site collision avoidance which is active all the time. You can turn it off. So this is not, to me, you can't turn it off, but it's separately turned off. It's like automatic emergency braking.",
+      "textZh": "所以，比如说，假设高速公路上你旁边有一辆大型卡车，比如一辆超大卡车。你不希望处于车道正中央，而是希望偏向车道中启用的某一侧。显然，当自动灼烧启用时，不过，我们还有始终启用的现场碰撞避免功能。你可以将它关闭。所以对我而言，这不是你无法关闭，而是需要单独关闭。它就像自动紧急制动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 814.69,
+      "textEn": "Essentially the cyclist Avoidance. What it will do is will resist movement if you attempt to turn into another vehicle or into let's say a highway barrier without realizing it, you'll feel increased resistance in the steering wheel.",
+      "textZh": "本质上就是避让骑行者。它的作用是，如果你试图转向另一辆车，或者在没有意识到的情况下转向比如说高速公路护栏，它就会阻碍这种移动，你会感觉方向盘上的阻力增大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 830.77,
+      "textEn": "And so you'll feel like, well, there's something unnatural here that's like you can overcome it if you want to, but it's going to tell you that you probably shouldn't move sideways because you can sense it's like getting harder to move the steering wheel to one side or the other sort of general safety system along with automatic motion braking that's also released this motion set.",
+      "textZh": "所以你会感觉，嗯，这里有些不自然，就像是，如果你愿意，你可以克服这种阻力，但它会告诉你，你可能不应该横向移动，因为你可以感觉到，将方向盘转向一侧或另一侧变得更困难了。这算是一种总体安全系统，再加上自动运动制动，这套运动系统也发布了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Reporter",
+      "startSec": 859.02,
+      "textEn": "In the last few months we've seen current Geiger and in this rollout, I mean you're making a point about what you can do.",
+      "textZh": "在过去几个月里，我们看到了当前的盖革，而在这次发布中，我是说，你正在强调你能做什么。",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Reporter",
+      "startSec": 873.05,
+      "textEn": "I guess the first question is what are you telling us that we should expect as consumers from automaker as in our card in terms of. And then separately there is. I want you to touch up during this debate about whether software in the vehicles should be upset. The copyright block of extra disclosed really accessible.",
+      "textZh": "我想第一个问题是，作为消费者，从汽车制造商那里，也就是在我们的卡里，就……而言，你是在告诉我们应该期待什么。然后另外还有。我想请你谈谈这场争论，即车辆中的软件是否应该被扰乱。额外披露的版权屏障确实很容易获取。",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 899.78,
+      "textEn": "Sure. So I think really car makers need to think of their cars as connected devices. And that's really what the way a car should operate much as the way your laptop or your cell phone operates so that you can do improvements over the air so you can either instead of having to recall them. And if you issue a recall, you don't always get all the calls coming in for various reasons. People lose touch with the dealer and then they may have unsafe software in the car but not know it because they get the recall notice.",
+      "textZh": "当然。所以我认为，汽车制造商确实需要把自己的汽车视为联网设备。汽车真正应该采用的运行方式，非常类似于你的笔记本电脑或手机的运行方式，这样你就可以通过无线方式进行改进，而不必召回车辆。而且，如果你发布召回通知，由于各种原因，并不总能接到所有来电。人们会与经销商失去联系，然后车里可能装着不安全的软件，但他们并不知道，因为他们收到了召回通知。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 935.6,
+      "textEn": "We're aware of it. So I think it is important for safety and for improved functionality that car makes in general go to a connecting philosophy.",
+      "textZh": "我们意识到了这一点。所以我认为，为了安全和改善功能，总体而言，汽车制造需要转向一种联网理念，这很重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 945.05,
+      "textEn": "And that's I think also what consumers expect these days. It's kind of odd to have a device that's not connected with respect to software.",
+      "textZh": "而且我认为，这也是如今消费者所期待的。就软件而言，拥有一台不联网的设备会有点奇怪。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 958.73,
+      "textEn": "I don't know. I mean I think there's pros and cons to having software all out there.",
+      "textZh": "我不知道。我的意思是，我认为把软件全部公开有利有弊。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 967.61,
+      "textEn": "I mean it is hard to say how software will work.",
+      "textZh": "我的意思是，很难说软件会如何运行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Elon Musk",
+      "startSec": 973.7,
+      "textEn": "It's not actually in the target hardware. So you look at this hardware and say, well, this.",
+      "textZh": "它实际上并不在目标硬件中。所以你看着这个硬件，然后说，嗯，这个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 980.82,
+      "textEn": "It's hard to say if is or isn't going to work unless you've actually done the target hardware. So I'm not sure if there's that much value to open sourcing the software.",
+      "textZh": "除非你确实在目标硬件上做过，否则很难说它能不能运行。所以我不确定将软件开源是否有那么大的价值。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 991.62,
+      "textEn": "But.",
+      "textZh": "但是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 993.54,
+      "textEn": "And I would be concerned about people potentially exploiting issues. But I think what really matters is are companies testing thoroughly testing your vehicle and testing the software, making sure that it's good.",
+      "textZh": "而且我会担心人们可能会利用其中的问题。但我认为真正重要的是，公司是否在测试，彻底测试你的车辆并测试软件，确保它是好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 1008.9,
+      "textEn": "That's the most important Thing is just test it and you really need to see the hardware software interaction to go with the safety.",
+      "textZh": "最重要的事情就是测试它，而且你确实需要观察硬件与软件的交互，才能兼顾安全。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 1021.78,
+      "textEn": "This is Paige from Reuters.",
+      "textZh": "这位是路透社的佩奇。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Reporter",
+      "startSec": 1023.94,
+      "textEn": "Can you talk about. It takes very clearly that this is hands on even though we know that you can have your hands off. Can you talk about the regulatory hurdles that you anticipate so that you can tell your customers please take your hands off and what you anticipate and how that's going to work?",
+      "textZh": "你能谈谈吗。这里非常明确地说要把手放在方向盘上，尽管我们知道你可以把手拿开。你能谈谈你预计会遇到哪些监管障碍，才能告诉客户请把手拿开，以及你预计这将如何运作吗？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 1043.14,
+      "textEn": "Yeah, we're being especially cautious at this early stage. So we're advising drivers to keep their hands on the wheel just in case because the software is still at an early stage. So it's important that people exercise caution in the beginning. Over time there will not be a need to have your hands on the wheel in the long term. But in the short term I think it's very important that people exercise caution because the software is very new and so we actually explicitly describe it as beta.",
+      "textZh": "是的，在这个早期阶段，我们格外谨慎。所以我们建议驾驶员把手放在方向盘上，以防万一，因为软件仍处于早期阶段。因此，一开始人们谨慎行事很重要。随着时间推移，从长期来看，就不需要把手放在方向盘上了。但从短期来看，我认为人们谨慎行事非常重要，因为这个软件非常新，所以我们实际上明确地把它描述为测试版。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Elon Musk",
+      "startSec": 1078.86,
+      "textEn": "Even though people can access it, we describe it as beta and we say keep the hands on the wheel because it's just important to exercise great fortune at this early stage. Certainly in the long term people will not need hands on the wheel and eventually there won't be wheels. There won't be wheels or pedals. They'll just be just jumping a car and go somewhere, tell the car your destination, that will take you there. But in order for that to occur you need to have fail operational so that if any one system vehicle fails for any reason, the car does not crash.",
+      "textZh": "尽管人们可以使用它，我们仍把它描述为测试版，而且我们说要把手放在方向盘上，因为在这个早期阶段获得巨大好运就是很重要。从长期来看，人们肯定不需要把手放在方向盘上，最终也不会有方向盘。不会有方向盘或踏板。人们只需跳进一辆车，然后去某个地方，告诉汽车你的目的地，它就会把你送到那里。但要实现这一点，你需要具备故障后仍可运行的能力，这样，如果车辆的任何一个系统因任何原因发生故障，汽车都不会撞车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 1114.23,
+      "textEn": "So that's still some ways to.",
+      "textZh": "所以距离那一步仍有一段路要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Elon Musk",
+      "startSec": 1125.75,
+      "textEn": "Well, I think the regulators need to seek their evidence that the reliability is there. The reliability in hands off situation is not worse than a hands on.",
+      "textZh": "嗯，我认为监管机构需要寻求证据，证明可靠性已经达到要求。脱手情况下的可靠性并不比手扶方向盘时更差。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 1140.06,
+      "textEn": "So that I think there's time and a lot of information needed in order to make that case.",
+      "textZh": "所以我认为，要证明这一点，需要时间和大量信息。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 1146.78,
+      "textEn": "I wouldn't, I don't think we should try to make that case right now because the data is not there.",
+      "textZh": "我不会，我认为我们现在不应该试图证明这一点，因为数据还不存在。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Reporter",
+      "startSec": 1155.43,
+      "textEn": "Hi, Deanna Hollow from Bloomberg. Could you talk a little bit about the early access program and the kind of feedback that you got from the customers that have already been tech through this? I guess they've had it for maybe a month or so. And like what was the biggest feedback that you got and how did that help you redefine and keep on top of that?",
+      "textZh": "你好，我是彭博社的迪安娜·霍洛。你能稍微谈谈抢先体验计划，以及你从那些已经通过这项技术的客户那里获得了什么样的反馈吗？我想他们使用它大概已有1个月左右了。比如，你们收到的最大反馈是什么，这又如何帮助你们重新界定并持续掌握这件事？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Elon Musk",
+      "startSec": 1173.19,
+      "textEn": "We've actually gotten a lot of feedback for quite a while so that we had the early access program. Customers actually had the software for some cases several months, in most cases at least a few months. And their feedback has helped us make the make it better, keep making it better.",
+      "textZh": "实际上，我们在相当长一段时间里收到了大量反馈，所以我们设立了抢先体验计划。在某些情况下，客户实际上已经使用该软件几个月了；在大多数情况下，至少也有几个月。他们的反馈帮助我们把它做得更好，并不断把它做得更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 1197.92,
+      "textEn": "Generally the response has been that they really love it, they think it's quite profound.",
+      "textZh": "总体而言，他们的反应是非常喜欢它，认为它意义相当深远。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 1204.88,
+      "textEn": "And they're playing.",
+      "textZh": "而且他们正在玩。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Elon Musk",
+      "startSec": 1207.37,
+      "textEn": "We have anecdotes of customers that have actually canceled their vacations because there was a new update in the software. So they really, really liked it.",
+      "textZh": "我们听说过这样的客户轶事：因为软件有了新更新，他们竟然取消了假期。所以他们真的、真的很喜欢它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 1218.09,
+      "textEn": "But I think the feedback is all kind of fairly obvious stuff. I mean it's necessary, but obvious like the car didn't behave correctly in this particular location. And so what do you do for you about that? And a lot of it is sort of, it's actually automatic. So without people actually having to send us a note, we can see that there was an intervention. So when we look at say a map, we can see where did drivers assume manual control.",
+      "textZh": "但我认为这些反馈都是些相当显而易见的事情。我的意思是，它们是必要的，但也很显然，比如车辆在这个特定地点的表现不正确。那么你对此要为自己做什么？其中很多在某种程度上，其实是自动的。所以，不用人们真的给我们发消息，我们就能看到发生过人工介入。因此，当我们查看比如一张地图时，我们可以看到驾驶员在哪里接管了手动控制。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 1248.44,
+      "textEn": "And if we see that a lot of drivers are taking manual control at the same point, then we know that there's something wrong with the software at that point.",
+      "textZh": "如果我们看到许多驾驶员都在同一个点接管手动控制，那么我们就知道软件在那个点存在某些问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 1258.52,
+      "textEn": "No worries if it's just randomly distributed means somebody just decided to go from automatic to manual back. But if it's always at the same place on highway, we know that there's some issue that needs to be looking at. So that sort of automated reporting has been the most helpful for improving the system. We can see that it's always at this particular juncture that the car does something wrong, people take manual control, then we go look at that location, see what the issue is and fix the software.",
+      "textZh": "如果只是随机分布，那不用担心，意味着有人只是决定从自动模式切回手动模式。但如果总是发生在高速公路上的同一个地方，我们就知道有某个问题需要查看。所以，这种自动报告对于改进系统最有帮助。我们可以看到，车辆总是在这个特定节点出错，人们接管手动控制，然后我们去查看那个地点，看看问题是什么，并修复软件。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 1291.53,
+      "textEn": "Yeah, it's been tested in I think most of markets that Tesla's operating in. So it seems to work quite well. It does tend to work better in places where there are clear markings in the world. So it works really well in Germany for example.",
+      "textZh": "是的，我想它已经在Tesla开展业务的大多数市场进行过测试。所以它似乎运行得相当好。在道路标线清晰的地方，它的表现确实往往更好。例如，它在德国运行得非常好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 1312.41,
+      "textEn": "Yes, it works best where the infrastructure is, is good. And in order for it to work really well, you want clear markings in the road or you want it to be in quite dense traffic. So those are the two places where it works really well.",
+      "textZh": "是的，在基础设施良好的地方，它运行得最好。要让它真正运行良好，你需要道路上有清晰的标线，或者需要处在相当密集的车流中。所以，这是它运行得非常好的两种场景。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 1334.14,
+      "textEn": "It's a real boon in a high traffic situation. So if you're in slow moving gridlock traffic and on autopilot and it kind of works super well, Almost to the point where you can take your hands off. I won't say you can take your hands off, but almost. Almost.",
+      "textZh": "在车流量很大的情况下，它确实大有帮助。所以，如果你身处缓慢移动、堵得水泄不通的车流中，并开启自动辅助驾驶，它会运行得特别好，几乎到了你可以把手拿开的程度。我不会说你可以把手拿开，但几乎可以。几乎。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1354.06,
+      "textEn": "Some people may. I don't think you can.",
+      "textZh": "有些人可能会这么做。我不认为你可以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1360.54,
+      "textEn": "Hi Greg, I'm here at TechCrunch. So with Tesla and a couple other teams which kind of independently working on this problem, do you guys have to worry about logical conflicts within these independent code bases? Just the cars not really knowing how to react to each other when it's not a human driving?",
+      "textZh": "嗨，Greg，我是TechCrunch的记者。那么，Tesla和另外几支团队都在某种程度上独立研究这个问题，你们是否需要担心这些独立代码库之间的逻辑冲突？就是在并非由人类驾驶时，车辆并不真正知道该如何相互应对？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1378.72,
+      "textEn": "Well, the density of cars that have autopilot is pretty Low. So I think it'll be a while before worrying too much about it. But I mean we essentially make in autopilot, we try to make the car behave as though it's a really good chauffeur. It was like a really good driver but not too conservative, not too aggressive.",
+      "textZh": "嗯，配备自动辅助驾驶的车辆密度相当低。所以我认为，还要过一段时间才需要对此过度担心。但我的意思是，在自动辅助驾驶方面，我们本质上是努力让车辆表现得像一位非常优秀的专职司机。就像一位非常优秀的驾驶员，但不会过于保守，也不会过于激进。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1406.72,
+      "textEn": "When the cars interact with each other. I would think it would just be like as though the cars interacting with good human. So we don't really see any issues with.",
+      "textZh": "当车辆彼此互动时。我认为那就像车辆在与优秀的人类互动一样。所以我们并没有真正看到任何与之有关的问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1432.35,
+      "textEn": "Hey, Marco Della Cava with USA Today.",
+      "textZh": "嗨，我是《今日美国》的Marco Della Cava。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 1436.189,
+      "textEn": "Similar question got Audi working on pilot assist pretty aggressively. BMW at CES last year showed us their self valeting car. How important is it to you personally and to Tesla to try and be first though on these things?",
+      "textZh": "类似的问题，奥迪正在相当积极地研发驾驶辅助。宝马去年在 CES 向我们展示了他们能自行泊车的汽车。那么，对你个人以及对 Tesla 来说，力争在这些事情上抢先一步有多重要？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Elon Musk",
+      "startSec": 1454.19,
+      "textEn": "Well, I mean general Tesla, we try to pioneer new technology.",
+      "textZh": "嗯，我是说，总体而言，Tesla 会努力开创新技术。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1461.15,
+      "textEn": "I mean I think the two biggest, the two most profound innovations in automotive since the moving production line are electrification and autonomy. So it makes sense to try to pioneer things in those two regions. Those things really make a difference to the world individually and collectively.",
+      "textZh": "我是说，我认为自移动生产线以来，汽车领域最大的2项、最深刻的2项创新，就是电动化和自动驾驶。所以，努力在这2个领域开创事物是合理的。这些事物，无论单独还是共同来看，确实会给世界带来改变。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Elon Musk",
+      "startSec": 1487.96,
+      "textEn": "But it's not, you know, the goal is not to be first for the safety first. We just want to make an amazing vehicle and make the best possible car that could be made. That's really, that's really all.",
+      "textZh": "但这并不是，你知道，目标不是为了抢第一，而是安全第一。我们只想制造一辆令人惊叹的汽车，制造出所能制造的最好的汽车。真的，就是这样，真的就是这样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 1505.09,
+      "textEn": "And you know, we've gotten some pretty good accolades in this regard. Some reports that they adjust the rating system. That was reported by.",
+      "textZh": "而且你知道，我们在这方面已经获得了一些相当不错的赞誉。有些报道称，他们调整了评分系统。那是由……报道的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 1518.45,
+      "textEn": "David Baker with the Chronicle. I wanted to follow up on the question that the reporter from lawyers was asking. So far there's been sort of a perceived difference in velocities, different autonomous car programs, whether you want to push toward a future where you don't have the steering or whether you want a future where you still do have cars that people can drive on great roads that we've done parts of. Do you want a future where you just get a little odd and it takes you wherever and you don't worry about it, or do you want a future where people drive your car?",
+      "textZh": "我是《纪事报》的大卫·贝克。我想追问一下那位来自律师那边的记者刚才问的问题。到目前为止，各种自动驾驶汽车项目在速度方面似乎存在某种差异，无论你是想推动一个没有方向盘的未来，还是想要一个仍然有汽车、让人们可以在我们已经做过部分工作的好道路上驾驶的未来。你想要的是一个你只是变得有点奇怪、它就带你去任何地方而你无需操心的未来，还是一个人们驾驶你的汽车的未来？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 1559.72,
+      "textEn": "I think you want to have, I think probably want to have the steering wheel and pedals and be able to take control of the car when you want to take control.",
+      "textZh": "我认为你会想要保留，我想大概会想保留方向盘和踏板，并且在你想控制汽车时能够接管。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Elon Musk",
+      "startSec": 1572.04,
+      "textEn": "I mean, I don't super love the idea of having a bland flow that you just get in and go from one place to the other and innovation, conservative driving manner or something like that. Sounds boring, but I mean it might be, you know, might be something like an iRobot where the car has autonomous mode but you can switch to manual when you want to and the steering wheel comes out of the dash. Looks kind of cool. That looked cool.",
+      "textZh": "我是说，我不太喜欢那种平淡的流动，你只需坐进去，从一个地方去另一个地方，以及创新、保守的驾驶方式之类的。听起来很无聊，但我是说，也许会是，你知道，也许会像《机械公敌》里那样，汽车有自动驾驶模式，但你想手动驾驶时可以切换到手动模式，方向盘会从仪表板里伸出来。看起来挺酷的。那个看起来很酷。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 1605,
+      "textEn": "Yeah, like the Snake Charger.",
+      "textZh": "是的，就像蛇形充电器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Reporter",
+      "startSec": 1609.08,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 1609.44,
+      "textEn": "So I think autonomy default, but with optional manual is probably the good way to go.",
+      "textZh": "所以我认为，默认自动驾驶、但可选择手动驾驶，大概是比较好的方式。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 1618.68,
+      "textEn": "Elon, I want to give folks on the phone a chance to ask questions.",
+      "textZh": "埃隆，我想给电话那头的人一个提问的机会。",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Reporter",
+      "startSec": 1621.8,
+      "textEn": "Sure,",
+      "textZh": "当然，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 1626.92,
+      "textEn": "Go ahead. On the phone.",
+      "textZh": "请讲。电话那头的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 1629.72,
+      "textEn": "Okay, so our first question is going to come from. Hello, Yahoo Autos, this is Chuck Turner with Yahoo Autos. I'm wondering how does the autopilot, or how do you perceive the autopilot differing from similar technology from say Audi or Mercedes, such as the adaptive cruise control, stop and go and their lane keeping technology as well?",
+      "textZh": "好的，那么我们的第一个问题将来自……你好，雅虎汽车，我是雅虎汽车的查克·特纳。我想知道，这套 Autopilot，或者说你认为这套 Autopilot 与奥迪或梅赛德斯等公司的类似技术有什么不同，比如自适应巡航控制、走走停停功能，以及它们的车道保持技术？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 1658.05,
+      "textEn": "Yeah, I think that's the biggest differentiated here is that the whole Tesla fleet operates as a network. When one car learns something, the whole fleet learns it. And in order to have that, all the cars need to be connected. They need to be sort of uploading data to a central server where it can be collected, do statistical analysis on it and then feed that back into a driving algorithm to cars. So that, I mean that's sort of, I would say like next level and certainly far beyond what any other car company is doing.",
+      "textZh": "是的，我认为这里最大的差异化因素是，整个 Tesla 车队作为一个网络运行。当一辆车学会某件事时，整个车队都会学会。要做到这一点，所有汽车都需要连接起来。它们需要把数据上传到某个中央服务器，在那里汇总数据、对其进行统计分析，然后把结果反馈到汽车的驾驶算法中。所以，我是说，这算是，我会说像是更高一个层级，当然远远超出了其他任何汽车公司正在做的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 1694.11,
+      "textEn": "I'm not sure they even thinking about it. Never heard them mention it that way. So being able to do fleet learning, this is quite a powerful network effect. And any car company that doesn't do this will not be able to have a good autonomous driving system.",
+      "textZh": "我不确定他们是否甚至想过这件事。从没听他们这样提过。所以，能够进行车队学习，这是一种相当强大的网络效应。任何不这样做的汽车公司，都无法拥有一套好的自动驾驶系统。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 1714.16,
+      "textEn": "Next question.",
+      "textZh": "下一个问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Reporter",
+      "startSec": 1717.36,
+      "textEn": "Hi, Katie Farranbloker 4:2. Are you talking about machine learning?",
+      "textZh": "你好，凯蒂·法兰布洛克 4:2。你说的是机器学习吗？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 1723.52,
+      "textEn": "Yeah, I mean it is kind of machine learning and it is with the drivers of the cars being essentially providing the training data set. They're training a collective lead intelligence of, you know, what has.",
+      "textZh": "是的，我是说，这算是一种机器学习，而汽车的驾驶员实际上在提供训练数据集。他们正在训练一种集体主导智能，就是，你知道，什么已经……",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Reporter",
+      "startSec": 1742.61,
+      "textEn": "Yeah. Will it be like an automatic learning system or.",
+      "textZh": "是的。它会像一个自动学习系统，还是……",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 1746.05,
+      "textEn": "It is an automatic learning system.",
+      "textZh": "它就是一个自动学习系统。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Reporter",
+      "startSec": 1747.33,
+      "textEn": "Okay, I have another question too.",
+      "textZh": "好的，我还有另一个问题。",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 1751.33,
+      "textEn": "I mean, yeah, that was questions like if I'm so afraid of AI, why am I doing this?",
+      "textZh": "我是说，是的，那个问题就像是，如果我这么害怕 AI，为什么还要做这个？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Reporter",
+      "startSec": 1760.21,
+      "textEn": "And",
+      "textZh": "还有",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1763.65,
+      "textEn": "I don't think we have anything to worry about. Cars driving themselves that's not, you know, they're not going to take over the world. It's, I mean the concern was more like a deep AI, like and potentially one that's, you know. Yeah, yeah, some sort of. Yeah, some sort of AI that, you know, either due to itself or people driving in that direction that makes the world tries to drive civilization in a direction that's not good.",
+      "textZh": "我认为我们没什么可担心的。汽车自己驾驶并不会，你知道，它们不会接管世界。我的意思是，担忧更多是关于深度人工智能，比如可能是某种，你知道。对，对，某种。对，某种人工智能，你知道，它要么出于自身原因，要么由于人们推动它朝那个方向发展，使世界试图推动文明朝不好的方向发展。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1794.45,
+      "textEn": "I don't know. I mean, I just think we need to be cautious about this, that's all. That's my general comment on AI. It's like we shouldn't be sort of going willy nilly in that direction thinking it's always going to be good.",
+      "textZh": "我不知道。我的意思是，我只是认为我们需要对此保持谨慎，仅此而已。这是我对人工智能的总体看法。就是说，我们不应该漫无目的地朝那个方向走，认为它总会带来好结果。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Reporter",
+      "startSec": 1804.93,
+      "textEn": "Okay. My follow up was actually about the mapping system.",
+      "textZh": "好的。其实我的后续问题是关于地图系统的。",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Reporter",
+      "startSec": 1809.89,
+      "textEn": "So the data available in like Google Maps or Here Maps or Apple Maps or something, that's not good enough data for the automatic, the autopilot driving system currently. So do you plan to do this combination of these, like, personal drivers, right, driving around, Tesla employees driving around and getting that data plus the Tesla fleet. Are you going to be doing that for the world when you get all the data for the high precision maps that you want?",
+      "textZh": "所以，像 Google Maps、Here Maps 或 Apple Maps 之类所提供的数据，目前对于自动的、Autopilot 驾驶系统来说还不够好。那么你们是否计划把这些方式结合起来，比如说，私人驾驶员，对吧，开车四处行驶，Tesla 员工开车四处行驶并获取那些数据，再加上 Tesla 车队的数据？当你们要获取所需高精度地图的全部数据时，会在全球这样做吗？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 1841.04,
+      "textEn": "Yeah, I think the data is really going to come primarily from the Tesla fleet. So we've got.",
+      "textZh": "是的，我认为这些数据确实将主要来自 Tesla 车队。所以我们有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1849.93,
+      "textEn": "Cars that are doing 1/2 million miles a day, of which two thirds have the autonomy capability, but all one and a half billion actually are connected and can provide information about high precision information about routes.",
+      "textZh": "每天行驶 1/2 百万英里的汽车，其中三分之二具备自主驾驶能力，但实际上全部 15 亿辆汽车都已联网，并且可以提供有关路线的高精度信息。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Elon Musk",
+      "startSec": 1869.69,
+      "textEn": "And I think we'd certainly be open to selling that to other car companies or other organizations if they want to buy it.",
+      "textZh": "而且我认为，如果其他汽车公司或其他组织想购买，我们当然愿意把这些数据卖给他们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1882.86,
+      "textEn": "But it's really the fleet collectively that is producing this data set. And then we're using that to provide high precision GPS navigation.",
+      "textZh": "但实际上，是整个车队共同生成了这个数据集。然后我们利用它提供高精度 GPS 导航。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Elon Musk",
+      "startSec": 1896.71,
+      "textEn": "You do need an additional overlay on that to understand, like, turn restrictions to a certain degree. Because if you simply say, like, if the number of cars that say, turn left at an intersection is 0.5% of the time, then it's probably they're just doing illegal laps. So then you should ignore that.",
+      "textZh": "除此之外，你确实还需要叠加一层额外信息，以便在一定程度上了解转弯限制。因为如果你只是说，比如，在某个十字路口左转的汽车数量占 0.5%，那么它们可能只是在非法绕圈。所以你应该忽略那些数据。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 1917.83,
+      "textEn": "You'll see statistically if a turn is allowed or not allowed.",
+      "textZh": "通过统计数据，你会看出某个转弯是否允许。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Reporter",
+      "startSec": 1923.12,
+      "textEn": "So",
+      "textZh": "所以",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Elon Musk",
+      "startSec": 1925.12,
+      "textEn": "and you can also say, okay, the speed, but the true speed on these roads is the speed. And then you know, how fast to go around a bend or what's really safe. You can say, like, the average driver goes this speed in this lane when doing this turn. So that's that level of detailed information which is like, how would an expert driver drive? This route is really what we're talking about. It's really, it's an order of magnitude or more detailed than current navigation maps.",
+      "textZh": "而且你也可以说，好的，速度，但这些道路上的真实速度就是这个速度。然后你就知道，过弯时应该开多快，或者怎样才真正安全。你可以说，比如，普通驾驶员在这条车道进行这个转弯时会以这个速度行驶。所以，我们所说的是那种详细程度的信息，也就是：一名专业驾驶员会如何驾驶？这条路线实际上就是我们所谈论的。它确实比当前导航地图详细 1 个数量级或更多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 1962.41,
+      "textEn": "It might be like, in terms of data volume, maybe 100 times the data complexity of current navigation map, maybe more.",
+      "textZh": "就数据量而言，它的复杂程度可能是当前导航地图数据的 100 倍，也许更多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Elon Musk",
+      "startSec": 1972.82,
+      "textEn": "We have a lot of people patiently waiting on the phone, so, Ken, can we. Let's take the next three calls from the phone line. Go ahead.",
+      "textZh": "有很多人在电话上耐心等待，所以，Ken，我们能不能。让我们接听电话线路上的接下来 3 通电话。请讲。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 1981.06,
+      "textEn": "The line of Nikki at Transport Evolved is now open.",
+      "textZh": "Transport Evolved 的 Nikki 所在线路现在已经接通。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Reporter",
+      "startSec": 1984.9,
+      "textEn": "Good afternoon, Elon. I've got two questions, really, that I'd like to pose to you. The first one regarding GPS and data access. I know that, you know, if you're in the Bay Area, we have a lot of great cell phone connectivity, but in certain parts of the us, in certain parts of the world, that's not going to Be a big issue. Sorry, that is going to be a big issue. And connectivity is going to be lost. How will the cars automatically switch between the modes?",
+      "textZh": "下午好，埃隆。实际上，我有 2 个问题想向你提出。第 1 个与 GPS 和数据访问有关。我知道，你知道，如果你在旧金山湾区，我们有很好的手机网络连接，但在美国的某些地区、世界的某些地区，这不会成为一个大问题。抱歉，这会成为一个大问题。而且网络连接会中断。汽车将如何自动切换模式？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Reporter",
+      "startSec": 2008.88,
+      "textEn": "That's my first part. And the second part is Google, Audi, all these other companies who have worked on autonomous driving to this point, some of them have posted massive bonds to be able to test some kind of autonomous or autopilot feature on the road. Has Tesla had to put anything like that into provision if there's any accidents in the future?",
+      "textZh": "这是我的第 1 部分。第 2 部分是，Google、Audi，以及所有这些迄今致力于自动驾驶的其他公司，其中一些已经缴纳了巨额保证金，才能在道路上测试某种自动驾驶或 Autopilot 功能。如果未来发生任何事故，Tesla 是否也不得不为此预留类似的东西？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Elon Musk",
+      "startSec": 2030.65,
+      "textEn": "Yeah, well, as far as sort of gathering navigation data where there's no cell connectivity, the car can just buffer the data and then upload the data once it gets to a place where there is cell connectivity or a WI FI connection. So there's no problem collecting data even where there's no cell phone connectivity.",
+      "textZh": "是的，嗯，至于在没有蜂窝网络连接的地方收集导航数据，汽车可以直接缓存这些数据，然后在到达有蜂窝网络连接或 Wi-Fi 连接的地方后上传数据。所以，即使没有手机网络连接，收集数据也没有问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 2052.57,
+      "textEn": "And then of course, the GPS satellites you can see all the time. So even in like anywhere on earth you can see the GPS satellite. So whether you're not you, whether or not you have the connectivity in that area, you can still use the drive on GPS functionality.",
+      "textZh": "当然，GPS 卫星是一直都能看到的。所以，即使在地球上的任何地方，你都能看到 GPS 卫星。所以，无论你没有，你，无论那个区域是否有网络连接，你仍然可以使用基于 GPS 的驾驶功能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Elon Musk",
+      "startSec": 2073.71,
+      "textEn": "With respect to posting big bonds, I'm not aware of that. I'm not sure what they're doing exactly on that front.",
+      "textZh": "关于缴纳巨额保证金，我并不了解。我不确定他们在这方面具体在做什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 2081.55,
+      "textEn": "I think the logical thing is that.",
+      "textZh": "我认为合乎逻辑的情况是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Elon Musk",
+      "startSec": 2088.149,
+      "textEn": "If there are fewer accidents in autonomous mode than in non autonomous mode, there shouldn't be some penalty. That wouldn't make any sense. You'd be penalizing a safer situation.",
+      "textZh": "如果自动驾驶模式下的事故比非自动驾驶模式下更少，那就不应该有某种惩罚。那完全说不通。你是在惩罚一种更安全的情况。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Reporter",
+      "startSec": 2104.709,
+      "textEn": "Next question.",
+      "textZh": "下一个问题。",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Elon Musk",
+      "startSec": 2109.029,
+      "textEn": "Okay, the line of Mike Ramsey from Wall Street Journal is now open. Hi, thanks a lot. I'm curious about two things. One, after the updates are uploaded and improvements are made, are those done in constant stream, like on a daily basis, or are you waiting for like, would you wait for like a 7.1 or something like that? And the second question is, as you move past this level of autonomy to something greater, would you need to add more sensors like a lidar, or do you think that it would be possible to go to a greater level of autonomy with the sensor set that you have now?",
+      "textZh": "好的，《华尔街日报》的迈克·拉姆齐线路现已接通。你好，非常感谢。我对两件事感到好奇。第一，更新上传并进行改进后，这些改进是持续不断完成的吗，比如每天进行，还是说你们会等待，比如，你们会等到7.1之类的版本？第2个问题是，随着你们从这一自动驾驶级别迈向更高级别，是否需要增加激光雷达之类的更多传感器，还是你认为凭借现有的这套传感器就有可能达到更高的自动驾驶级别？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Reporter",
+      "startSec": 2153.14,
+      "textEn": "Yeah,",
+      "textZh": "是的，",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Elon Musk",
+      "startSec": 2156.82,
+      "textEn": "I mean, I think we can go to, we can improve the level of autonomy with the sensor set that we have right now, but it is limited to what logically could be done with the sensor set. So imagine if you had a road control car and you had access to this set of data, which is a forward facing camera, Forward radar and 360 degree ultrasonics.",
+      "textZh": "我的意思是，我认为我们可以达到，我们可以用目前拥有的这套传感器提高自动驾驶级别，但它受限于这套传感器在逻辑上能够做到的事情。所以，想象一下，如果你有一辆道路控制汽车，并且可以访问这组数据，也就是一个前视摄像头、前向雷达和360度超声波传感器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 2180.71,
+      "textEn": "If you could see that data remotely and you were a really good driver with a remote control car, how well could you drive the car? That essentially sets the limit on what the sensors can do. So there's certainly more that can be done, but it's not. The sensor suite is not the sort of full autonomy suite. For full autonomy, you'd obviously need 360 degree cameras. You'd need probably redundant Ford cameras, you'd need redundant computing hardware and then redundant motors and the steering rack.",
+      "textZh": "如果你能远程看到这些数据，而且你是一名驾驶遥控汽车的真正优秀的驾驶员，你能把车开得多好？这基本上就设定了传感器能力的上限。所以当然还有更多事情可以做，但它不是。这套传感器并不是那种完全自动驾驶传感器套件。要实现完全自动驾驶，显然需要360度摄像头。可能还需要冗余的福特摄像头、冗余的计算硬件，然后还需要冗余的电机和转向齿条。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Elon Musk",
+      "startSec": 2215.61,
+      "textEn": "You really want to have, I think, for full autonomy, a more comprehensive sensor suite and control systems that computing systems that are fail operation. That said, I don't think you need lidar. I think lidar, you do this all with passive optical and then with maybe one forward radar. If you're driving fast into rain or snow or dust, I think that completely solves it without the use of lidar. I'm not a big fan of lidar.",
+      "textZh": "我认为，要实现完全自动驾驶，你确实会想要一套更全面的传感器套件，以及控制系统、能够故障运行的计算系统。话虽如此，我认为你不需要激光雷达。我认为用被动光学设备，也许再加1个前向雷达，就能完成这一切。如果你高速驶入雨、雪或尘土之中，我认为这完全可以在不使用激光雷达的情况下解决问题。我不是激光雷达的忠实拥护者。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 2253.32,
+      "textEn": "I don't think it makes sense in this context. We do use lidar for our Dragon spacecraft. We're docking with the space station and I think it makes sense and we put a lot of effort into developing that. So as long as I don't like lidar in general, it's just like, I don't think it makes sense in a car context. I don't think it's. I think it's unnecessary. Yeah, and sorry, what was the first part of the question?",
+      "textZh": "我认为它在这种情况下说不通。我们的龙飞船确实使用激光雷达。我们要与空间站对接，我认为在那里使用是合理的，而且我们投入了大量精力进行研发。所以，只要我总体上不喜欢激光雷达，只是，就像，我认为它在汽车场景中说不通。我不认为它是。我认为它没有必要。是的，抱歉，问题的第1部分是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 2283.41,
+      "textEn": "Oh, yeah, sorry.",
+      "textZh": "哦，对，抱歉。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 2288.53,
+      "textEn": "People should see the car actually improve, probably with each passing week. So even without a new software update, because the data is continually improving, because the more miles that are driven, the better the sort of network intelligence the fleet is trained, the better it will get. So it should actually get better with each passing day. But you will probably notice it maybe after a week or a few weeks, and you'll see that previously the car wouldn't have steered quite right.",
+      "textZh": "大家应该会看到汽车实际有所改进，可能每过1周都会如此。所以即使没有新的软件更新也会改进，因为数据在持续改善，因为行驶的里程越多，整个车队接受训练的那种网络智能就越好，它也就会变得越好。所以它实际上应该每天都会变得更好。但你可能会在1周或几周后注意到，而且你会看到，以前汽车的转向不太正确。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 2325.27,
+      "textEn": "Like literally going past a freeway walk ramp one week, but then the following week it does.",
+      "textZh": "比如，实际上某1周经过一个高速公路步行匝道，但接下来1周它就会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Elon Musk",
+      "startSec": 2334.27,
+      "textEn": "Next question.",
+      "textZh": "下一个问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 2337.55,
+      "textEn": "Daniel Sparks.",
+      "textZh": "丹尼尔·斯帕克斯。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Reporter",
+      "startSec": 2338.39,
+      "textEn": "Molly.",
+      "textZh": "莫莉。",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 2338.67,
+      "textEn": "And our next question.",
+      "textZh": "以及我们的下一个问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Reporter",
+      "startSec": 2340.51,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 2341.39,
+      "textEn": "Is there any consideration for offering a retrofit option of autopilot hardware to early Model S owners at some point?",
+      "textZh": "是否考虑过在某个时候向早期Model S车主提供自动辅助驾驶硬件的改装选项？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Elon Musk",
+      "startSec": 2349.63,
+      "textEn": "So the tricky thing with the retrofit is it would require changing a lot of systems on the car and a new wiring harness. So it's not as though we wouldn't. If we thought there was some reasonable way to offer a retrofit, we would do so. But to be able to add a radar system and a camera system and some visual computing hardware and the 360 ultrasonics, this would be a huge effort to do at the service center. I mean, you'd have to replace the front bumper or the windscreen, take the whole car apart to remove the wiring harness.",
+      "textZh": "所以，改装的棘手之处在于，它需要更换车上的许多系统以及新的线束。所以并不是说我们不愿意。如果我们认为有某种合理的方式可以提供改装，我们就会这么做。但为了增加雷达系统、摄像头系统、一些视觉计算硬件以及360度超声波传感器，在服务中心进行这项工作将是一项浩大的工程。我的意思是，你得更换前保险杠或挡风玻璃，把整辆车拆开才能拆除线束。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 2387.63,
+      "textEn": "So it's technically possible, but there's no way it would make any financial sense.",
+      "textZh": "所以从技术上讲是可行的，但它在经济上绝无可能合理。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Elon Musk",
+      "startSec": 2395.07,
+      "textEn": "Let's take one more call from the phone line. So, Bob from Road and Track magazine.",
+      "textZh": "我们再接1个电话线路上的来电。那么，是《Road & Track》杂志的鲍勃。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 2402.67,
+      "textEn": "Hi, I was just wondering how weatherproof is the lane sensing feature. Like can it see the lane lines through rain or through snow? What are the limitations there?",
+      "textZh": "你好，我只是想知道车道感知功能的耐候性如何。比如，它能透过雨或雪看到车道线吗？这方面有哪些限制？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Reporter",
+      "startSec": 2415.37,
+      "textEn": "Yeah,",
+      "textZh": "是的，",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 2417.93,
+      "textEn": "if there's heavy snow, it's going to be harder to for the system to work. So we'd certainly advise caution in heavy precipitation. I mean, essentially it's like a person to some degree. It's like how well can a person figure out what route they should take? And you know that they're going to be in the beginning, it's going to be not as good as a person, but then over time, or not as good as a person in some ways better than a person in other ways.",
+      "textZh": "如果下大雪，系统的运行就会更加困难。所以在强降水天气下，我们肯定会建议谨慎行驶。我的意思是，从某种程度上说，它基本上就像人一样。就像一个人能多好地判断自己应该走哪条路线？而且你知道，一开始它会不如人，但随着时间推移，或者在某些方面不如人，在其他方面又优于人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Elon Musk",
+      "startSec": 2445.2,
+      "textEn": "Over time it will actually be better than better than a person.",
+      "textZh": "随着时间推移，它实际上会比比人更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 2456.08,
+      "textEn": "I mean, long term it'll be way better than person. Because it's like just say, imagine a system that has say eight cameras and radar and ultrasonics and, and it's processing all of that at the millisecond level and never gets tired. And it's never had anything to drink and it's not arguing with someone in the car, hopefully, so it's not distracted.",
+      "textZh": "我是说，从长期来看，它会比人好得多。因为这就像是，假设有一个系统，比如说有8个摄像头、雷达和超声波，而且，而且它以毫秒级处理所有这些信息，并且永远不会疲倦。而且它从来没有喝过任何东西，也没有在车里和某个人争吵，希望如此，所以它不会分心。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Elon Musk",
+      "startSec": 2486.9,
+      "textEn": "And it has this huge data set.",
+      "textZh": "而且它拥有这个庞大的数据集。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Elon Musk",
+      "startSec": 2490.74,
+      "textEn": "There's just no way that that would be like competing with eight human experts simultaneously. There's just no way one person's gonna be better than. You don't have eyes in the back of your head. You know, it's like, so it will obviously be way better than the person wants. We're going to come back into the room, take some questions from here, have a say, handle pedestrians at the moment.",
+      "textZh": "这根本不可能，就像是同时与8名人类专家竞争。一个人根本不可能比它更好。你的后脑勺没有眼睛。你知道，这就像，所以它显然会比那个人想要的好得多。我们要回到房间里，回答这里的一些问题，发表一下意见，目前应对行人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Elon Musk",
+      "startSec": 2516.64,
+      "textEn": "Sure. So.",
+      "textZh": "当然。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Elon Musk",
+      "startSec": 2522.4,
+      "textEn": "I mean it should not if pedestrians, hopefully.",
+      "textZh": "我是说，如果有行人，它应该不会，希望如此。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Elon Musk",
+      "startSec": 2528.64,
+      "textEn": "So it does sense pedestrians. It can see pedestrians, can see cyclists.",
+      "textZh": "所以它确实能感知行人。它能看到行人，也能看到骑自行车的人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 2534.72,
+      "textEn": "So it should avoid them or it should actually break before hitting them or should handle them well. Hopefully exercise caution at this early stage.",
+      "textZh": "所以它应该避开他们，或者它实际上应该在撞到他们之前坏掉，或者应该妥善应对他们。希望在这个早期阶段谨慎行事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Elon Musk",
+      "startSec": 2552.69,
+      "textEn": "Pedestrian can't exercise, fortunately doesn't know which is self driving. Are you talking about the car today or the car in the future? There's a difference between the car today and the car in the future. Big differences. Those meetings, days. Yeah, I mean, that's why we, you know, in the beginning we really recommend that in fact we, you know, instructions say you need to pay attention to what's on the road and you need to be ready to take the wheel at any time.",
+      "textZh": "行人无法行使，幸好不知道哪一辆是自动驾驶。你说的是今天的车，还是未来的车？今天的车和未来的车之间是有区别的。很大的区别。那些会议，日子。是的，我是说，这就是为什么我们，你知道，一开始我们确实建议，事实上我们，你知道，说明中说你需要留意道路上的情况，并且需要随时准备接管方向盘。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Elon Musk",
+      "startSec": 2579.17,
+      "textEn": "So I certainly wouldn't want to say that today. Don't worry about it. In the long term, it will be safer than a person driving for all pedestrians as well as for people in the car and other cars.",
+      "textZh": "所以我今天肯定不想这么说。别担心。从长期来看，对于所有行人，以及车内的人和其他车辆而言，它都会比人类驾驶更安全。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Reporter",
+      "startSec": 2597.73,
+      "textEn": "I had a couple of logistical questions. When will the update be available in terms of cars? When is the state 7.1 coming and what about the Model X?",
+      "textZh": "我有几个后勤方面的问题。就车辆而言，更新什么时候可以提供？状态7.1什么时候推出，Model X呢？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Elon Musk",
+      "startSec": 2607.91,
+      "textEn": "We're not going to do Model X questions today, but when will it work on the Model X? So we expect to begin uploading the software tonight to customers. So sometime late tonight it'll begin uploading and people should begin to be able to install it tomorrow. It'll probably take a few days to I send it out to the whole fleet, but it'll start sometime tonight.",
+      "textZh": "我们今天不回答有关Model X的问题，但它什么时候能在Model X上运行？所以我们预计今晚开始向客户上传软件。所以今晚晚些时候的某个时间会开始上传，人们明天应该就能开始安装。要把它发送给整个车队可能需要几天，但会在今晚某个时候开始。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Elon Musk",
+      "startSec": 2639.96,
+      "textEn": "And that's for North America. For Europe and Asia, it's about a week out because we're just waiting for final regulatory approval. So hopefully we'll receive regulatory approval for Europe and Asia sometime next week.",
+      "textZh": "这是针对北美的。欧洲和亚洲大约还要一周，因为我们只是在等待最终的监管批准。所以希望我们能在下周某个时候获得欧洲和亚洲的监管批准。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Elon Musk",
+      "startSec": 2661.17,
+      "textEn": "Well, actually all cars will receive version 7 and then roughly 60% of those cars. So there's roughly 60,000 cars that have autonomous capability, but all cars will receive version 7 just like once you have your orders here and all of them.",
+      "textZh": "嗯，实际上所有车辆都会收到版本7，然后其中大约60%的车辆。所以大约有60,000辆车具备自动驾驶能力，但所有车辆都会收到版本7，就像一旦你把订单放在这里，以及它们全部。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Elon Musk",
+      "startSec": 2687.42,
+      "textEn": "Hi Reuters. This could possibly be a pretty expensive add on. And since the future is looking like you need to make some sort of inexpensive mass market car, do you see this being something that is standard on all this is going forward or an option you can remove in order to have a more affordable future?",
+      "textZh": "你好，路透社。这可能会是一项相当昂贵的附加功能。鉴于未来看起来你们需要制造某种廉价的大众市场汽车，你认为今后这会成为所有这些车的标准配置，还是可以移除的选配，以便拥有一个更负担得起的未来？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Elon Musk",
+      "startSec": 2706.22,
+      "textEn": "Well, the way we make the cars right now is that the hardware is standard on all cars and then you pay to have the autopilot convenience features. So the safety features are standard on all cars. So it'll be active emergency braking site, collision avoidance, lane departure warning. Basically all the safety features are standard on all cars and then the convenience features you pay $2,500 to enable. So essentially we actually take a slight loss on people that don't pay for the convenience features and then make a gain on those that do.",
+      "textZh": "嗯，我们目前制造汽车的方式是，所有汽车都标配这些硬件，然后你付费获得自动辅助驾驶的便利功能。所以安全功能是所有汽车的标配。因此会有主动紧急制动站点、防碰撞、车道偏离警告。基本上，所有安全功能都是所有汽车的标配，然后便利功能需要支付2,500美元才能启用。所以从本质上说，对于那些不为便利功能付费的人，我们实际上会略有亏损，然后从那些付费的人身上获利。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Elon Musk",
+      "startSec": 2742.5,
+      "textEn": "So hopefully that works out. But I think in logsim we would have the hardware for autonomy on all",
+      "textZh": "所以希望这样能行得通。但我认为，在logsim中，我们会在所有……上配备用于自动驾驶的硬件",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Reporter",
+      "startSec": 2748.66,
+      "textEn": "clusters,",
+      "textZh": "集群，",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Elon Musk",
+      "startSec": 2752.1,
+      "textEn": "but that would just be an app charge for the convenience.",
+      "textZh": "但为了便利性，那只需在应用中付费。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Elon Musk",
+      "startSec": 2756.26,
+      "textEn": "Two more questions.",
+      "textZh": "再问2个问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Elon Musk",
+      "startSec": 2770.35,
+      "textEn": "So a question from Jonathan at Ars Technica. Hi, yes. Going back to the future of autonomous cars, when do you think Tesla might be ready to start selling cars that are autonomous to level four?",
+      "textZh": "这是来自Ars Technica的Jonathan提出的问题。你好，是的。回到自动驾驶汽车的未来这个话题，你认为Tesla可能要到什么时候才能准备好开始销售达到4级自动驾驶水平的汽车？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Elon Musk",
+      "startSec": 2786.36,
+      "textEn": "Well, I think from a technology standpoint, and it is important to distinguish these things because they are very, very different technologically. I think Tesla will be able to will have a car that can do full autonomy in about three years. So maybe A bit sooner. But I'm trying to recalibrate my sort of time predictions.",
+      "textZh": "嗯，我认为从技术角度来看，而且区分这些事情很重要，因为它们在技术上非常、非常不同。我认为 Tesla 将能够，将在大约 3 年内拥有一辆可以实现完全自动驾驶的汽车。所以也许会稍微早一点。但我正在努力重新校准我的这类时间预测。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "Elon Musk",
+      "startSec": 2812.64,
+      "textEn": "So I think I'm quite confident that within three years the car will be able to take you from point to point, basically from your driveway to work without you touching anything. You could be asleep the whole time and do so very safely. However, from that point, to get regulatory approval for full autonomy is something that's going to vary by jurisdiction. So depending upon where you are in the world and how the legal framework works and what the regulations are, that could be anywhere from another year to maybe several years.",
+      "textZh": "所以我相当有信心，在 3 年内，汽车将能够把你从一个地点送到另一个地点，基本上从你家的车道送到工作地点，而你无须触碰任何东西。你可以全程睡觉，而且它能非常安全地做到这一点。不过，从那时起，要获得完全自动驾驶的监管批准，将因司法管辖区而异。所以，取决于你身处世界何地、法律框架如何运作以及有哪些法规，这可能还需要 1 年到数年不等。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "Elon Musk",
+      "startSec": 2854.81,
+      "textEn": "I think the thing that would obviously be convincing to a regulator is to see lots of data about how autonomy is working. Is it safer or less safe than human driven car? And at the point which the data says statistically that it's much safer to have autonomous cars, that's the point which regulators will obviously be comfortable allowing a full autonomy.",
+      "textZh": "我认为，显然能说服监管机构的是看到大量关于自动驾驶如何运行的数据。它比人类驾驶的汽车更安全还是更不安全？而当数据从统计上表明使用自动驾驶汽车安全得多时，那显然就是监管机构会放心允许完全自动驾驶的时候。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Elon Musk",
+      "startSec": 2882.55,
+      "textEn": "Another question from Deanne Durbin at the Associated Press.",
+      "textZh": "下一个问题来自美联社的迪安·德宾。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "Reporter",
+      "startSec": 2886.63,
+      "textEn": "Hi, thanks for taking the question. Can you just clarify? I think you spoke about it earlier, but I can't hear very well. Is the Model X going to get this capability? And also if you are, if you're. If your car is automatically changing lanes and it gets in an accident, who is liable?",
+      "textZh": "您好，感谢您回答这个问题。您能澄清一下吗？我想您之前谈到过，但我听得不太清楚。Model X 会获得这项功能吗？另外，如果您，如果您是。如果您的车正在自动变道并发生了事故，谁应当承担责任？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Elon Musk",
+      "startSec": 2907.74,
+      "textEn": "Yeah. So the Model X will of course also have the same autopilot capability as the S, so they'll have identical capability.",
+      "textZh": "是的。所以 Model X 当然也会拥有与 S 相同的 Autopilot 功能，因此它们的功能会完全相同。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Elon Musk",
+      "startSec": 2917.66,
+      "textEn": "And if there is an accident, the. The driver of the car is liable. So we're very clearly saying that this is not a case of abdicating responsibility.",
+      "textZh": "而如果发生事故，车的。汽车驾驶员应当承担责任。所以我们非常明确地表示，这并不是可以放弃责任的情况。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Elon Musk",
+      "startSec": 2930.73,
+      "textEn": "The hardware and the software are not yet at the point where a driver can abdicate responsibility. That will come at some point in the future, but it is not the case today. These are still the early days.",
+      "textZh": "硬件和软件尚未达到驾驶员可以放弃责任的程度。未来某个时候会实现，但今天还不是这样。现在仍处于早期阶段。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "Reporter",
+      "startSec": 2946.98,
+      "textEn": "Could you talk a little bit about how many people are actively working on Autopilot within Tesla? Because in terms of headcount, you guys are north of like 13,000 employees, right?",
+      "textZh": "您能稍微谈谈 Tesla 内部有多少人正在积极从事 Autopilot 的工作吗？因为就员工人数而言，你们有超过大约 13,000 名员工，对吧？",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Elon Musk",
+      "startSec": 2955.86,
+      "textEn": "Yeah, 14,000.",
+      "textZh": "是的，14,000。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Reporter",
+      "startSec": 2957.016,
+      "textEn": "14,000. So what's the size of the unit? And I'm sure it's interdisciplinary, so I don't even know if calling it a unit is accurate.",
+      "textZh": "14,000。那么这个部门有多大？而且我确信它是跨学科的，所以我甚至不知道称它为一个部门是否准确。",
+      "speakerZh": "记者"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Elon Musk",
+      "startSec": 2966.34,
+      "textEn": "Yeah, it's actually not a. Not a huge team doing autopilot. So we've got maybe in terms of people just working autopilot software, it's maybe 50 people.",
+      "textZh": "是的，实际上从事 Autopilot 的并不是一支。一支庞大的团队。所以，就只从事 Autopilot 软件工作的人而言，我们可能有 50 人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "Elon Musk",
+      "startSec": 2977.69,
+      "textEn": "In terms of those working on the Autopilot hardware suite, it's maybe a little bigger, maybe 100 people, something like that. It will increase over time, but generally with software, you get amazing things done with small teams, and a small team will do much more radical improvements, innovation, Very nuts and bolts. One I'm not sure that I understood you clearly earlier. When people get this, when they get into their cars tomorrow and see them loaded up, do they have to pay to actually use the Autopilot feature a one time?",
+      "textZh": "就从事 Autopilot 硬件套件工作的人而言，规模可能稍大一些，大概 100 人，差不多如此。随着时间推移，人数会增加，但一般来说，在软件领域，小团队就能完成惊人的事情，而且小团队会做出更激进的改进、创新，非常具体务实。有一点，我不确定刚才是否听清楚了您的意思。当人们获得这个，当他们明天进入自己的车并看到它们已经加载好时，他们是否需要一次性付费才能真正使用 Autopilot 功能？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Elon Musk",
+      "startSec": 3024.65,
+      "textEn": "Yeah. So it actually depends. People would have done this when they bought the car. They could also do it after they own the car as well. So it's just basically $2,500 to activate the autonomous features for forever. It's a one time charge. And then the autonomous features work. As I said, though, the safety features are automatically enabled on all cars. So even if somebody hasn't done that, they'll still get, for example, side collision Voidance as part of the version 7 software.",
+      "textZh": "是的。所以这其实视情况而定。人们可能在买车时就已经这样做了。他们拥有车辆后也可以这样做。所以基本上只需支付 2,500 美元，就可以永久激活自动驾驶功能。这是一次性收费。之后自动驾驶功能就可以使用。不过，正如我所说，所有车辆都会自动启用安全功能。所以即使有人没有这样做，他们仍然会获得，例如，作为第 7 版软件一部分的侧面碰撞消除功能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Elon Musk",
+      "startSec": 3057.07,
+      "textEn": "All right, thanks, everyone. Thank you. Thank you very much.",
+      "textZh": "好了，谢谢大家。谢谢。非常感谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Elon Musk",
+      "startSec": 3126.14,
+      "textEn": "Sam.",
+      "textZh": "萨姆。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T01:09:42.939Z",
+    "reviewedAt": "2026-09-13T02:35:20.342Z"
+  },
+  "fetchedAt": "2026-09-12T07:15:36.880Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "d9f67c3344675d09f5874fcbec5f92b1740f396c3d8d235bf486453836903af2"
+}

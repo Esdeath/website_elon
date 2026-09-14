@@ -1,0 +1,2317 @@
+{
+  "id": "x-spaces-xai-launch-2023-07-14",
+  "slug": "x-spaces-xai-launch-2023-07-14",
+  "snapshotId": "2026-09-12",
+  "type": "space",
+  "date": "2023-07-14",
+  "titleEn": "X Spaces: xAI launch with the founding team",
+  "titleZh": "X Spaces：xAI 创始团队发布会",
+  "summaryEn": "Musk and his newly assembled xAI team held a Twitter Space to introduce the company and its 'understand the universe' mission, taking audience questions on AI and superintelligence.",
+  "summaryZh": "马斯克和他新组建的 xAI 团队举行了一场 Twitter Space，介绍该公司及其“理解宇宙”的使命，并回答听众关于人工智能和超级智能的问题。",
+  "sourceUrl": "https://www.youtube.com/watch?v=-kgyiP93Wek",
+  "sourceLabel": "jumpingPeter",
+  "archiveUrl": "https://elonmuskarchive.org/video/x-spaces-xai-launch-2023-07-14",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/-kgyiP93Wek",
+  "thumbnailUrl": "https://i.ytimg.com/vi/-kgyiP93Wek/hqdefault.jpg",
+  "durationSec": 4042,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Elon Musk",
+      "startSec": 0.4,
+      "textEn": "You know, where's that Riemann Hypothesis solution? I don't see it.",
+      "textZh": "你知道，那个黎曼猜想的解答在哪儿？我没看到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Elon Musk",
+      "startSec": 8.16,
+      "textEn": "So that it would be great to know what the hell is really going on essentially. So I guess you could reformulate the XAI mission statement as what the hell is really going on?",
+      "textZh": "所以，从根本上说，要是能知道到底他妈的发生了什么，那就太好了。所以我想，你可以把 xAI 的使命宣言重新表述为：到底他妈的发生了什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 24.88,
+      "textEn": "That's our goal.",
+      "textZh": "这就是我们的目标。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "xAI Team",
+      "startSec": 26.4,
+      "textEn": "I think there's also for me a nice aspirational aspect to the mission statement, namely that of course in the short run we're working on more well understood deep learning technologies. But I think in everything we do we should always bear in mind that we aren't just supposed to build, we're also supposed to understand. So pursuing the science of it is really fundamental to what we do. And this is also incumbent encompass in this mission statement of understanding.",
+      "textZh": "我认为，对我而言，这份使命宣言也有一个很好的、令人向往的层面，也就是说，当然，短期内我们正在研究那些得到更充分理解的深度学习技术。但我认为，在我们所做的一切中，都应该始终牢记，我们不只是应该构建，也应该理解。所以，追求其中的科学，确实是我们所做之事的根本。而这也有义务涵盖在这份关于理解的使命宣言之中。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Elon Musk",
+      "startSec": 57.47,
+      "textEn": "Yeah, yeah.",
+      "textZh": "对，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "xAI Team",
+      "startSec": 60.19,
+      "textEn": "I want to also add that, you know, we've essentially been mostly talking about creating a really smart agent that can help us understand the universe better. And this is definitely the North Star, but also from my viewpoint, my vantage point when I'm discovering the mathematics of large neural networks, I can also see that the mathematics here can actually also open up new ways of thinking about fundamental physics or about other kinds of reality.",
+      "textZh": "我还想补充一点，你知道，我们基本上一直主要在谈论创造一个真正聪明的智能体，它能帮助我们更好地理解宇宙。而这无疑是北极星，但同样，从我的观点、我的视角来看，当我探索大型神经网络的数学原理时，我也能看到，这里的数学实际上也可以开辟思考基础物理学或其他种类现实的新方式。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "xAI Team",
+      "startSec": 98.51,
+      "textEn": "Because for example, a large neural network with no nonlinearities is roughly classical random matrix theory and that has a lot of connections with gauge theory in high energy physics.",
+      "textZh": "因为举例来说，一个没有非线性的大型神经网络，大致就是经典随机矩阵理论，而它与高能物理中的规范理论有很多联系。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "xAI Team",
+      "startSec": 117.76,
+      "textEn": "So in other words, as we're trying to understand neural networks better from a mathematical point of view, that can also lead to really good, very interesting perspectives on some existing questions like the theory, everything, what is quantum gravity, so on and so forth. But of course this is all speculative right now. I see some patterns, but I don't know have anything concrete to say. But again, this is like another perspective to understanding the universe.",
+      "textZh": "换句话说，当我们试图从数学角度更好地理解神经网络时，这也可能让我们对一些现有问题产生非常好、非常有趣的视角，比如理论、万物、什么是量子引力，诸如此类。但当然，目前这一切都只是推测。我看到了一些模式，但我不知道有什么具体内容可说。但同样，这是理解宇宙的另一个视角。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "xAI Team",
+      "startSec": 152.79,
+      "textEn": "By the way, by understand the universe, we don't just mean that we want to understand the universe, we also want to make it easy for you to understand the universe.",
+      "textZh": "顺便说一下，所谓理解宇宙，我们不只是说我们想理解宇宙，也想让你能够轻松理解宇宙。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 159.23,
+      "textEn": "Absolutely.",
+      "textZh": "完全正确。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "xAI Team",
+      "startSec": 159.63,
+      "textEn": "Get a better sense of reality and to learn and take advantage of the Internet or the knowledge that's out there. So we are pretty passionate about actually releasing tools and products are pretty early involving the public and. Yeah, let's see where this leads.",
+      "textZh": "更好地了解现实，并学习和利用互联网或现有的知识。所以我们其实非常热衷于很早就发布工具和产品，让公众参与进来，而且。对，看看这会通向何方。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 176.56,
+      "textEn": "Yeah, absolutely. We're not going to understand the universe and not tell anyone.",
+      "textZh": "对，当然。我们不会理解了宇宙却不告诉任何人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Elon Musk",
+      "startSec": 184.32,
+      "textEn": "So yeah, when I think about like neural networks today, it's currently the case that if you have 10 megawatts of GPUs, which really should be renamed something else because there's no graphics there, but if you get 10 megawatts of GPUs, cannot currently write a better novel than a good human.",
+      "textZh": "所以，对，当我思考如今的神经网络时，目前的情况是，如果你拥有10兆瓦的GPU——其实应该给它们换个名字，因为那里根本没有图形——但如果你拥有10兆瓦的GPU，目前仍然写不出比优秀人类更好的小说。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 212.44,
+      "textEn": "A human's using roughly 10 watts of higher order brain power. So not counting the basic stuff to, you know, operate your body. So there we got, we got a six order magnitude difference.",
+      "textZh": "人类用于高阶大脑活动的功率大约是10瓦。所以这还不包括那些用来，你知道，维持身体运转的基本部分。所以这里我们有，我们有6个数量级的差异。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Elon Musk",
+      "startSec": 229.44,
+      "textEn": "That's a giant, that's really gigantic. Part of the. You could, I think one could argue that two of those orders of magnitude are explained by the activation energy of a transistor versus a synapse.",
+      "textZh": "那是巨大的，那真的极其巨大。部分的。你可以，我认为可以说，其中2个数量级可以用晶体管与突触的激活能之差来解释。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Elon Musk",
+      "startSec": 245.15,
+      "textEn": "Could argue account for two of those orders of magnitude. But what about the other four? Or the fact that even with six orders in magnitude, you still cannot beat a smart human writing a novel.",
+      "textZh": "可以说这解释了其中2个数量级。但另外4个呢？或者说，即便相差6个数量级，你仍然无法胜过一个写小说的聪明人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Elon Musk",
+      "startSec": 259.87,
+      "textEn": "And also today when you ask the most advanced AIs technical questions, like if you're trying to say how to design a better rocket engine or complex questions about electrochemistry to make a build a better battery, you just get nonsense. So that's not very helpful.",
+      "textZh": "而且如今，当你向最先进的AI询问技术问题时，比如你试图问怎样设计出更好的火箭发动机，或者询问有关电化学的复杂问题，以制造、造出更好的电池，你得到的只是一派胡言。所以这并没有太大帮助。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 279.95,
+      "textEn": "So I think there's some. We're really missing the mark in the way that things are currently being done by many orders of magnitude. It's being heavily. I mean basically AGI is being brute force and still actually not succeeding.",
+      "textZh": "所以我认为存在一些。很多事情目前的做法确实偏离了目标许多个数量级。它正在被大量地。我是说，基本上，AGI正在靠暴力计算推进，但实际上仍未成功。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Elon Musk",
+      "startSec": 301.72,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 306.52,
+      "textEn": "If I look at the experience with Tesla, what we're discovering over time is that we actually overcomplicated the problem.",
+      "textZh": "如果回顾Tesla的经验，我们随着时间推移发现，实际上是我们把问题过度复杂化了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Elon Musk",
+      "startSec": 315,
+      "textEn": "I can't speak in too much detail about what Tesla's figured out, but except to say that in broad terms the answer was much simpler than we thought. We thought we were too dumb to realize how simple the answer was.",
+      "textZh": "我不能过于详细地谈论Tesla弄明白了什么，不过只能说，从宏观上讲，答案比我们想象的简单得多。我们以为自己太笨了，以至于没有意识到答案有多么简单。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 335.65,
+      "textEn": "But over time we get a bit less dumb.",
+      "textZh": "但随着时间推移，我们变得没那么笨了一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 340.93,
+      "textEn": "So I think that's what we'll probably find out with AGI as well.",
+      "textZh": "所以我认为，我们在AGI上可能也会发现同样的情况。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "xAI Team",
+      "startSec": 345.25,
+      "textEn": "Just nature of engineers. We just always want to solve the problems ourselves and like hard code the solution. But often it's much more effective to have the solution be figured out by the computer itself. And it's easier for us and easier",
+      "textZh": "这就是工程师的天性。我们总是想亲自解决问题，想把解决方案硬编码进去。但通常，让计算机自己找出解决方案会有效得多。而且这对我们更容易，也更容易",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Elon Musk",
+      "startSec": 359.6,
+      "textEn": "for the computer in the end. Yeah,",
+      "textZh": "最终对计算机来说。对，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Host",
+      "startSec": 366.72,
+      "textEn": "Guys.",
+      "textZh": "各位。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Host",
+      "startSec": 369.6,
+      "textEn": "So. Well, in the fashion of 42, some may say you may need more compute to generate an interesting question. That's true. Exactly.",
+      "textZh": "所以。嗯，按照42的套路，有人可能会说，你可能需要更多算力才能生成一个有趣的问题。确实如此。正是。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 379.77,
+      "textEn": "We don't even know what happened. We don't actually. We're definitely not smart enough to even know what the right questions are to ask. That's why, you know, Douglas Adams is my hero in Beirut philosopher and he just correctly pointed out that once you can formulate the question correctly, the answer is actually the easy part.",
+      "textZh": "我们甚至不知道发生了什么。我们其实不知道。我们肯定还不够聪明，甚至不知道应该问哪些正确的问题。这就是为什么，你知道，道格拉斯·亚当斯是我在贝鲁特的哲学家英雄，而他只是正确地指出，一旦你能正确地表述问题，答案其实才是容易的部分。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Host",
+      "startSec": 403.3,
+      "textEn": "Yeah, that's very true. So in terms of our. The journey that actually has embarked on compute will play a very big role and some of us are very curious. Your thoughts on that.",
+      "textZh": "对，这非常正确。那么就我们的。实际上已经踏上的旅程而言，算力将发挥非常大的作用，我们当中有些人非常好奇。你对此有何看法。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Elon Musk",
+      "startSec": 417.22,
+      "textEn": "Yeah, I'm not suggesting that you know this, that we can immediately save let's say four orders of magnitude on compute.",
+      "textZh": "对，我并不是说，你知道，我们可以立即在算力上节省，比如说4个数量级。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 427.86,
+      "textEn": "Except to say that I think what once, once we look back, once AGI is solved, we'll look back on it and say actually why do we think it was so hard?",
+      "textZh": "只能说，我认为一旦，一旦我们回头看，一旦AGI得到解决，我们会回顾它并说，其实我们为什么会觉得它那么难？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Elon Musk",
+      "startSec": 441.36,
+      "textEn": "Things that the answer hindsight's 20 20, the answer will look a lot easier in retrospect.",
+      "textZh": "事情是，答案，事后看来是20 20，回过头看，答案会显得容易得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 450.88,
+      "textEn": "So, yeah, so we are going to do large scale compute. To be clear, we're not going to try to solve AGI on a laptop.",
+      "textZh": "所以，对，所以我们会进行大规模计算。说清楚一点，我们不会试图在一台笔记本电脑上解决AGI。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Elon Musk",
+      "startSec": 462.68,
+      "textEn": "We will use heavy compute. Except that like I said, I think the amount of brute forcing will be less as we come to understand the problem better.",
+      "textZh": "我们会使用大量算力。只不过就像我说的，我认为随着我们对问题理解得更深入，暴力计算的程度会降低。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "xAI Team",
+      "startSec": 481,
+      "textEn": "In all the previous projects I've worked, I've worked on, I've seen that the amount of compute resources per person is a really important indicator of how successful the project is going to be. So that's something we really want to optimize. We want to have a relatively small team with a lot of expertise, with some of the best people that actually get lots of autonomy and lots of resources to try out their ideas and to get things to work.",
+      "textZh": "在我过去参与的所有项目中，我参与过的项目中，我发现人均计算资源是衡量项目会有多成功的一个非常重要的指标。所以这是我们真正想优化的东西。我们希望拥有一支相对较小、专业能力很强的团队，成员是一些最优秀的人才，他们真正拥有很大的自主权和大量资源，可以尝试自己的想法，并让事情运转起来。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "xAI Team",
+      "startSec": 503.29,
+      "textEn": "And yeah, that's, that's the thing that has always succeeded in my experience in the past.",
+      "textZh": "而且，对，那就是，那就是以我过去的经验来看一直都能成功的做法。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 509.06,
+      "textEn": "Yeah, you know, one of the things that physics trains you to do is to think about the most, you know, fundamental metrics, the most fundamental first principles essentially, and I think two metrics that we should aspire to track. One of them is.",
+      "textZh": "对，你知道，物理学训练你去做的一件事，就是思考最，你知道，最根本的指标，本质上就是最根本的第一性原理，而我认为有2项指标是我们应该力求追踪的。其中1项是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 529.46,
+      "textEn": "The amount of compute per person on Earth, like digital compute per person, which another way of thinking about it is the ratio of digital to biological compute. Biological compute is pretty much flat, if not in fact declining in a lot of countries. But digital compute is increasing exponentially. So it really, you know, at some point, if this trend continues, biological compute will be less than 1% of all computer, substantially less than 1% of all compute.",
+      "textZh": "地球上的人均算力，也就是人均数字算力，换一种思路来看，就是数字算力与生物算力之比。生物算力基本保持不变，甚至事实上在许多国家呈下降趋势。但数字算力正在呈指数级增长。所以确实，你知道，在某个时刻，如果这种趋势持续下去，生物算力将低于所有计算机的1%，大幅低于所有算力的1%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Elon Musk",
+      "startSec": 566.55,
+      "textEn": "Keying off what Igor just said.",
+      "textZh": "接着伊戈尔刚才所说的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "xAI Team",
+      "startSec": 568.47,
+      "textEn": "So",
+      "textZh": "所以",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 571.19,
+      "textEn": "we're talking about for all of humanity here.",
+      "textZh": "我们在这里谈论的是全人类。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 574.55,
+      "textEn": "So that's just an interesting thing to look at. Another one is the usable, the sort of the energy per human. Like if you look at total energy created, well, not created, but I mean in the vernacular sense created from a power plant or whatever. Look, so total electrical and thermal energy used by humans per person. That number is truly staggering. The rate of increase of that number. If you go back, say before the steam engine, you would have really been reliant on horses and oxen and that kind of thing to move things and just human labor.",
+      "textZh": "所以那只是一个值得观察的有趣现象。另一个是可用的，也就是某种人均能源。比如，如果你看产生的能源总量，嗯，不是产生，但我的意思是按通俗说法，由发电厂之类的设施产生。你看，也就是每个人所使用的电能和热能总量。这个数字确实惊人。这个数字的增长速度。如果你回到，比方说蒸汽机出现之前，你真的只能依靠马和牛之类的东西来搬运物品，以及纯粹的人力劳动。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Elon Musk",
+      "startSec": 626.04,
+      "textEn": "So the amount of sort of the energy per person, power per person was very low. But if you look at power person Electrical and thermal.",
+      "textZh": "所以，某种意义上的人均能源量、人均功率非常低。但如果你看人均功率，电力和热力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 642.67,
+      "textEn": "That number has also been growing exponentially. And if these trends continue, it's going to be something nutty like a terawatt per person, which sounds like a lot for, is a lot for human civilization, but it's nothing compared to what the sun outputs every second. Basically.",
+      "textZh": "这个数字也一直在呈指数增长。如果这些趋势继续下去，它将达到某种疯狂的水平，比如每人1太瓦，这对人类文明来说听起来很多，也确实很多，但与太阳每秒输出的能量相比根本不算什么。基本上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Elon Musk",
+      "startSec": 665.71,
+      "textEn": "It's kind of mind blowing that the sun is converting roughly four and a half.",
+      "textZh": "太阳正在转化大约4个半，这有点令人震撼。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 674.43,
+      "textEn": "It's like the amount of energy produced by the sun is truly, truly insane.",
+      "textZh": "太阳产生的能量确实、确实疯狂得难以置信。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "xAI Team",
+      "startSec": 684.43,
+      "textEn": "I think there's a few more things to be said concretely about the company, meaning how we plan to execute. As Igor already said, we plan to have like a relatively small team but with a really high, let's say just GPU per person capital. That worked really well in the past where you can, where you can run large scale experiments relatively unconstrained. We also try to have like, we already have a culture where we can iterate on ideas quickly.",
+      "textZh": "我认为关于这家公司还有几件事情可以具体说一说，也就是我们计划如何执行。正如 Igor 已经说过的，我们计划组建一个规模相对较小的团队，但拥有非常高的，可以说是人均 GPU 资本。这种做法过去非常有效，因为你可以，你可以相对不受限制地运行大规模实验。我们还努力形成一种，就像，我们已经拥有一种能够快速迭代想法的文化。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "xAI Team",
+      "startSec": 716.5,
+      "textEn": "We can, can challenge each other and we also want to shift things like get things out of the door quickly. We're already working on the first release, hopefully in a couple of weeks or so. We can, can share a bit more information around this.",
+      "textZh": "我们可以，可以彼此质疑，而且我们也想推动一些事情，比如迅速把东西推出去。我们已经在着手第1次发布，希望能在几周左右之后。我们可以，可以就此分享更多一些信息。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 734.98,
+      "textEn": "Yeah, Alex, go ahead.",
+      "textZh": "好的，Alex，你说吧。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Elon Musk",
+      "startSec": 806.69,
+      "textEn": "Alex, you're muted.",
+      "textZh": "Alex，你静音了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 816.69,
+      "textEn": "People seem to have a lot of challenges with the mute functional spaces.",
+      "textZh": "大家似乎在静音功能空间方面遇到了很多问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 863.55,
+      "textEn": "Brian, do you want to have a question?",
+      "textZh": "Brian，你想提个问题吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Audience Member",
+      "startSec": 865.47,
+      "textEn": "Yeah, thanks. Thanks Elon. Yeah. So obviously with you guys entering this space with Xai, there's a lot of talk about competition. Do you guys see yourself as competition to something like OpenAI and Google Bard, or do you see yourself as a whole other beast?",
+      "textZh": "是的，谢谢。谢谢你，埃隆。是的。那么显然，随着你们通过 xAI 进入这个领域，外界有很多关于竞争的讨论。你们认为自己是 OpenAI 和 Google Bard 之类产品的竞争对手，还是认为自己是完全不同的另一种存在？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Elon Musk",
+      "startSec": 886.57,
+      "textEn": "Yeah, I think we're a competition.",
+      "textZh": "是的，我认为我们是一场竞争。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "xAI Team",
+      "startSec": 890.49,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 890.85,
+      "textEn": "Yeah, I mean we're definitely competition.",
+      "textZh": "是的，我是说，我们绝对是竞争对手。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Audience Member",
+      "startSec": 892.73,
+      "textEn": "So are you going to be rolling out a lot of products for the general public? Are you going to be mostly concentrating on businesses and the ability for businesses to use your, your service and data or how exactly are you setting up the business in that respect?",
+      "textZh": "那么，你们会面向公众推出很多产品吗？还是会主要专注于企业，以及让企业使用你们的、你们的服务和数据的能力？或者说，你们在这方面究竟打算如何构建业务？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 914.08,
+      "textEn": "Well, we're, we're trying to make something, I mean we're just starting out here. So this is, you know, kind of really embryonic at this point.",
+      "textZh": "嗯，我们、我们正努力做出一些东西，我是说，我们才刚刚起步。所以这件事，你知道，目前确实还处于萌芽阶段。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Elon Musk",
+      "startSec": 922.64,
+      "textEn": "So it'll take us a minute to really get something useful. But our goal would to be to make, you know, useful AI, I guess if you can't use it in some way, I'm like, I question its value.",
+      "textZh": "所以我们还需要一点时间，才能真正做出有用的东西。但我们的目标是制造，你知道，有用的 AI。我想，如果你无法以某种方式使用它，我就会质疑它的价值。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 939.4,
+      "textEn": "So we want it to be useful, useful tool for people and consumers and businesses or whoever.",
+      "textZh": "所以我们希望它成为对人们、消费者、企业或任何人都有用的、有用的工具。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "xAI Team",
+      "startSec": 951.57,
+      "textEn": "And",
+      "textZh": "而且",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 953.57,
+      "textEn": "you know, as one, as was mentioned earlier, I think there's some value in having multiple entities. You don't want to have a unipolar world where just one company kind of dominates in AI you want to have some competition. Competition I think makes companies honest and you know, so or in favor of competition.",
+      "textZh": "你知道，正如、正如之前提到的，我认为存在多个实体是有价值的。你不会希望出现一个单极世界，只有一家公司在 AI 领域占据某种主导地位；你会希望存在一些竞争。我认为竞争会让公司保持诚实，而且，你知道，所以，或者支持竞争。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Audience Member",
+      "startSec": 984.73,
+      "textEn": "Quick, quickly, a final question. How do you plan on using Twitter's data for Xai?",
+      "textZh": "很快、很快问最后一个问题。你们计划如何将 Twitter 的数据用于 xAI？",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "xAI Team",
+      "startSec": 993.45,
+      "textEn": "Well,",
+      "textZh": "嗯，",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 996.73,
+      "textEn": "I think every AI organization, every organization doing AI large and small has used Twitter's data for training basically in all cases illegally.",
+      "textZh": "我认为每一家 AI 组织，每一家从事 AI 的组织，无论大小，都使用过 Twitter 的数据进行训练，基本上所有情况下都是非法使用的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Elon Musk",
+      "startSec": 1015.1,
+      "textEn": "So the reason we had to put rate limits on a week ago or so was because we were being scraped like crazy.",
+      "textZh": "所以，我们大约一周前不得不实施速率限制，是因为我们遭到了疯狂的数据抓取。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Elon Musk",
+      "startSec": 1031.76,
+      "textEn": "This has happened with Internet Archive as well where LM companies were scraping Internet Archive so much they brought down the service.",
+      "textZh": "Internet Archive 也发生过这种情况，LM 公司对 Internet Archive 的抓取量太大，导致其服务瘫痪。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 1040.64,
+      "textEn": "We had multiple entities scraping every tweet ever made and trying to do so in like basically a span of days.",
+      "textZh": "有多个实体在抓取有史以来发布的每一条推文，并试图基本上在短短几天内完成这件事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 1049.84,
+      "textEn": "So this was bringing the system to its knees. So we have to take action. So sorry for the inconvenience of the rate limiting but it was either that or Twitter doesn't work and you know, so I guess we will use the public tweets, obviously not anything private for training as well, just like basically everyone else has and we will, you know. Yeah, so that kind of makes sense. It's certainly a good data set for text training and arguably I think also for image and video training as well.",
+      "textZh": "所以这让系统不堪重负。因此我们必须采取行动。所以很抱歉速率限制带来了不便，但要么这样做，要么 Twitter 就无法运行，而且，你知道，所以我想我们也会使用公开推文进行训练，显然不会使用任何私密内容，就像基本上其他所有人都做过的那样，而我们会，你知道。是的，所以这算是合情合理。对于文本训练来说，这无疑是一个很好的数据集，而且我认为，它也可以说适合用于图像和视频训练。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Elon Musk",
+      "startSec": 1092.41,
+      "textEn": "At a certain point you kind of run out of human created data.",
+      "textZh": "到某个时候，人类创造的数据差不多就会用尽。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 1099.77,
+      "textEn": "So if you look at say the AlphaGo versus AlphaZero. AlphaGo trained on all the human games and be at least at all 4 to 1 AlphaZero displayed itself and be it AlphaGo 100 to 0. So there's really for things to take off in a big way. I think you've got the AIs got to basically generate content, self assess the content and that's really the, I think that's the path, the path to AGI is something like that is self generated content where it effectively plays against itself.",
+      "textZh": "所以，如果你看看，比如 AlphaGo 与 AlphaZero。AlphaGo 用所有人类棋局进行了训练，并且至少总共以 4 比 1，AlphaZero 展示了自己，并以 100 比 0 成为 AlphaGo。所以，确实，要让事情大规模腾飞。我认为 AI 基本上必须生成内容、自行评估内容，而这确实是，我认为这就是通往 AGI 的路径，大概就是这种自行生成内容、实际上与自己对弈的方式。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Elon Musk",
+      "startSec": 1143.04,
+      "textEn": "A lot of AI is data curation. It's like shocking. It's not like vast numbers of lines of code. It's actually shocking how small the lines of code are.",
+      "textZh": "AI 很大一部分工作是数据筛选。这很令人震惊。它并不需要数量庞大的代码行。实际上，代码行数之少令人震惊。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 1157.12,
+      "textEn": "Kind of blows my mind how few lines of code there are. But how the data is is used, what data is used, the signal to noise of that data, the quality of that data is immensely important.",
+      "textZh": "代码行数如此之少，着实让我大吃一惊。但数据是如何、如何被使用的，使用什么数据，这些数据的信噪比、这些数据的质量，都极其重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Elon Musk",
+      "startSec": 1174.08,
+      "textEn": "It kind of makes sense. Like if you were trying to as a human trying to learn something and you were just given a pilot, you know, a vast amount of dribble basically, you know, versus high quality content. You're going to do better with a small amount of high quality content, then a lot of large amount of trouble makes sense. You know, like reading the greatest novels ever written. Is way better than reading a bunch of sort of crappy novels.",
+      "textZh": "这算是合情合理。比如，如果你作为一个人正试图学习某样东西，却只得到一个飞行员，你知道，基本上是大量的运球，而另一边是高质量内容。少量高质量内容会让你学得更好，相比之下，大量、很大量的麻烦是说得通的。你知道，比如阅读有史以来最伟大的小说。要比阅读一堆有点糟糕的小说好得多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 1204.82,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "xAI Team",
+      "startSec": 1205.22,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Audience Member",
+      "startSec": 1208.02,
+      "textEn": "Thanks.",
+      "textZh": "谢谢。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 1209.7,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Host",
+      "startSec": 1211.54,
+      "textEn": "Alex.",
+      "textZh": "Alex。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Audience Member",
+      "startSec": 1212.26,
+      "textEn": "Hey. Sorry I was on a call the first time you brought me up, but I guess sort of the question.",
+      "textZh": "嘿。抱歉，你第一次请我发言时我正在打电话，不过我想，大概是这个问题。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Elon Musk",
+      "startSec": 1217.26,
+      "textEn": "Yeah, I thought you might have been afk.",
+      "textZh": "是的，我还以为你可能离开键盘了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "xAI Team",
+      "startSec": 1219.06,
+      "textEn": "Sorry.",
+      "textZh": "抱歉。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Audience Member",
+      "startSec": 1219.5,
+      "textEn": "Sorry about that. Yeah, the question. Question I generally had was was the main motivation to start XAI kind of like the whole Truth GPT thing that you were talking about, like, on Tucker, about how, you know, chat GBT has been feeding lies to the general public.",
+      "textZh": "对此很抱歉。是的，问题。我通常想问的问题是，创办 xAI 的主要动机，是不是有点像你之前谈到的整个 Truth GPT 那件事，比如你在 Tucker 那里谈到，你知道，chat GBT 一直在向公众灌输谎言。",
+      "speakerZh": "观众"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Audience Member",
+      "startSec": 1239.07,
+      "textEn": "I know. Like, it's weird because when it first came out, it seemed like it was generally fine, but then as, like, the public got its hands on it, it started giving these weird answers like that there are more than, like, two genders and all of that type of stuff and editorializing the truth. Was that, like, one of your main, like, motivations behind starting a company or was there more to it?",
+      "textZh": "我知道。就是，这很奇怪，因为它刚推出时，看起来总体上没什么问题，但后来，随着公众开始使用它，它就开始给出一些奇怪的答案，比如说存在超过，大概，2种性别之类的，还有对真相进行主观评述。这是否，就像，是你创办一家公司的主要动机之一，还是还有更多原因？",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Elon Musk",
+      "startSec": 1265.49,
+      "textEn": "Well, I do think there is a significant danger in training an AI to be politically correct. Or in other words, training basically to not say what it actually thinks is true.",
+      "textZh": "嗯，我确实认为，训练一个 AI 政治正确存在重大危险。或者换句话说，基本上就是训练它不要说出它实际上认为真实的东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 1279.42,
+      "textEn": "So I think at xai, we have to allow the AI to say what it really believes is true and not be deceptive or politically correct.",
+      "textZh": "所以我认为，在 xAI，我们必须允许 AI 说出它真正认为真实的东西，而不是进行欺骗或追求政治正确。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Elon Musk",
+      "startSec": 1295.58,
+      "textEn": "So that will result in some criticism, obviously. But I think that that's the only way to go forward is rigorous pursuit of the truth or the truth with least amount of error.",
+      "textZh": "所以这显然会招致一些批评。但我认为，唯一能前进的道路，就是严谨地追求真相，或者追求误差最小的真相。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "xAI Team",
+      "startSec": 1306.95,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Elon Musk",
+      "startSec": 1307.43,
+      "textEn": "And I am concerned about the way",
+      "textZh": "而且我对这种方式感到担忧",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "xAI Team",
+      "startSec": 1309.35,
+      "textEn": "that",
+      "textZh": "那",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Elon Musk",
+      "startSec": 1313.43,
+      "textEn": "AI in that it is optimizing for political correctness. And that's incredibly dangerous. You know, if you look at the, you know, where do things go wrong in Space Odyssey? It's, you know, basically when they told Hal 9000 to lie. So they said. They said you can't tell the crew what. That they're going about anything about the monolith or that they're. Or what their actual mission is, but you got to take them to the monolith.",
+      "textZh": "AI，因为它正在针对政治正确进行优化。而那极其危险。你知道，如果你看看，你知道，《太空漫游》中事情是在哪里出错的？就是，你知道，基本上是他们让 HAL 9000 撒谎的时候。所以他们说。他们说你不能告诉机组人员什么。不能告诉他们任何关于巨石的事，或者他们。他们真正的任务是什么，但你必须把他们带到巨石那里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 1350.76,
+      "textEn": "So it basically came to the conclusion that, well, it's going to kill them and take their bodies to the monolith. So this is. I mean, the lesson there is do not give the AI usually impossible objectives. Basically, don't force the AI to lie.",
+      "textZh": "所以它基本上得出了这样的结论：好吧，它要杀死他们，然后把他们的尸体带到巨石那里。所以这就是。我的意思是，这里的教训是，不要给 AI 通常不可能完成的目标。基本上，不要强迫 AI 撒谎。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Elon Musk",
+      "startSec": 1371.14,
+      "textEn": "Now, the thing about physics or the truth of the universe is you actually can't invert it. You can't just like physics is true. There's not like, not physics.",
+      "textZh": "现在，物理学或宇宙真相的问题在于，你实际上无法把它颠倒过来。你不能只是，好比，物理学是真的。不存在什么，非物理学。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Elon Musk",
+      "startSec": 1383.94,
+      "textEn": "So if you adhere to hardcore reality, I think it actually makes inversion impossible. Now you can also say, now when something is subjective, I think you can provide an answer which says that, well, if you believe the following, then this is the Answer. If you believe this other thing, then this is the answer because it may be a subjective. A question where the answer is fundamentally subjective and a matter of opinion.",
+      "textZh": "所以，如果你坚持硬核现实，我认为这实际上会让颠倒变得不可能。现在你也可以说，现在当某件事具有主观性时，我认为你可以给出一个答案，说，嗯，如果你相信以下内容，那么这就是答案。如果你相信另一件事，那么这就是答案，因为它可能是一个主观的。一个答案从根本上说具有主观性、属于观点问题的问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 1411.08,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Elon Musk",
+      "startSec": 1413.13,
+      "textEn": "So. But I think it is very dangerous to grow an AI and teach it to lie.",
+      "textZh": "所以。但我认为，培养一个 AI 并教它撒谎是非常危险的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Audience Member",
+      "startSec": 1419.85,
+      "textEn": "Yeah, for sure. And then kind of a tongue in cheek question. Would you accept a meeting from the Aizar Kamala Harris, if she wanted to meet with Xai at the White House?",
+      "textZh": "是的，当然。然后是一个有点半开玩笑的问题。如果艾扎尔·卡玛拉·哈里斯想在白宫与 xAI 会面，你会接受她的会面邀请吗？",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Elon Musk",
+      "startSec": 1433.61,
+      "textEn": "Yeah, of course.",
+      "textZh": "会，当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Elon Musk",
+      "startSec": 1436.81,
+      "textEn": "You know, the reason that meeting happened was because I was pushing for it. So I was the one who really pushed hard to have, to have that meeting happen. I wasn't advocating for Vice President Taras to be the isr. I'm not sure that is her core expertise, technology.",
+      "textZh": "你知道，那次会议之所以举行，是因为我一直在推动。所以我才是那个真正极力推动，让，让那次会议得以举行的人。我并不是在主张让塔拉斯副总统担任 isr。我不确定技术是不是她的核心专长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1458.36,
+      "textEn": "And hopefully this goes in a good direction. It's better than nothing, hopefully.",
+      "textZh": "希望这会朝一个好的方向发展。希望如此，总比什么都没有好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Elon Musk",
+      "startSec": 1463.24,
+      "textEn": "But, you know, I think we do need some sort of regulatory oversight.",
+      "textZh": "不过，你知道，我认为我们确实需要某种形式的监管监督。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1473.49,
+      "textEn": "It's not like I think regulatory oversight is some nirvana perfect thing, but I think it's just. It's better than nothing. And when I was in China recently, meeting with some of the senior leadership there, I took pains to emphasize the importance of AI regulation. I believe they took that to heart, and they are going to do that. Because the biggest counterargument that I get for regulating AI in the west is that AI is that China will not regulate.",
+      "textZh": "并不是说我认为监管监督是什么完美的理想境界，但我认为它只是。总比什么都没有好。我最近在中国与那里的一些高级领导人会面时，特意强调了 AI 监管的重要性。我相信他们认真听取了这一点，而且他们会这么做。因为我在西方推动监管 AI 时听到的最大反对理由，就是 AI，就是中国不会监管。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Elon Musk",
+      "startSec": 1504.56,
+      "textEn": "And then China will leap ahead because we're regulating. They're not. I think they are going to regulate and, you know, proof will be in the pudding. But I think there's, you know, I did point out, you know, in our meetings with them that if you do make a digital superintelligence, that you could end up. That could end up being in charge, you know, so, you know that I think the CCP does not, does not want to find themselves subservient to a digital superintelligence.",
+      "textZh": "然后中国会因为我们在监管而跃居前列。他们不监管。我认为他们会监管，而且，你知道，结果会证明一切。但我认为，你知道，我确实在与他们会面时指出，你知道，如果你真的创造出一种数字超级智能，你最终可能会。它最终可能会掌权，你知道，所以，你知道，我认为中共不想发现自己从属于一种数字超级智能。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 1539.24,
+      "textEn": "That argument did resonate.",
+      "textZh": "这个论点确实引起了共鸣。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Elon Musk",
+      "startSec": 1542.92,
+      "textEn": "Yeah. So, yeah.",
+      "textZh": "是的。所以，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1546.84,
+      "textEn": "So some kind of. Yeah, regulatory authority. That's international. Obviously enforcement is, is. Is difficult, but I think we should still aspire to do something in this regard.",
+      "textZh": "所以是某种。是的，监管机构。国际性的。显然，执行是，是。是很困难的，但我认为我们仍然应该努力在这方面有所作为。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Audience Member",
+      "startSec": 1559.73,
+      "textEn": "Awesome, thank you.",
+      "textZh": "太棒了，谢谢。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "xAI Team",
+      "startSec": 1575.18,
+      "textEn": "Maybe.",
+      "textZh": "也许吧。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Elon Musk",
+      "startSec": 1575.46,
+      "textEn": "Omar, do you want to speak?",
+      "textZh": "Omar，你想发言吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Audience Member",
+      "startSec": 1577.42,
+      "textEn": "Yeah. Hey, my question is about silicon. You know, Tesla's got a great silicon team designing chips to hardware accelerate inference.",
+      "textZh": "好的。嗨，我的问题是关于芯片的。你知道，Tesla 有一支很出色的芯片团队，正在设计芯片，以通过硬件加速推理。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Elon Musk",
+      "startSec": 1586.06,
+      "textEn": "I'm not sure. I think we can't hear you for some reason.",
+      "textZh": "我不确定。我觉得出于某种原因，我们听不到你的声音。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "xAI Team",
+      "startSec": 1588.22,
+      "textEn": "Oh, okay.",
+      "textZh": "哦，好的。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Elon Musk",
+      "startSec": 1596.62,
+      "textEn": "Omar, go ahead. Can you hear me?",
+      "textZh": "Omar，请讲。你能听到我吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "xAI Team",
+      "startSec": 1600.47,
+      "textEn": "I can hear him.",
+      "textZh": "我能听到他。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 1601.59,
+      "textEn": "You can hear them.",
+      "textZh": "你能听到他们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Audience Member",
+      "startSec": 1605.19,
+      "textEn": "Okay, well, my question's about silicon. You know, Tesla has a team that's hardware accelerating inference and training with their own custom silicon. Do you guys envision, with Xai building off of that or just sort of using what's on the off the stock from Nvidia or how do you think about custom silicon for AI, Both in terms of training and inference.",
+      "textZh": "好的，嗯，我的问题是关于芯片的。你知道，Tesla 有一支团队，正在用他们自己的定制芯片对推理和训练进行硬件加速。你们设想 xAI 会以此为基础，还是只是使用 Nvidia 的现成产品，或者你们如何看待用于 AI 的定制芯片，包括训练和推理两方面。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 1640.06,
+      "textEn": "So the.",
+      "textZh": "所以这个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Elon Musk",
+      "startSec": 1644.62,
+      "textEn": "Yeah, that's somewhat a Tesla question.",
+      "textZh": "是的，那在一定程度上是一个关于 Tesla 的问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 1648.46,
+      "textEn": "Tesla is building custom silicon. I wouldn't call anything that. Tesla's producing a GPU, although one can characterize it in GPU equivalents or say a 1/ hundreds or h1 hundreds equivalents.",
+      "textZh": "Tesla 正在制造定制芯片。我不会把那个东西称为。Tesla 正在生产一种 GPU，尽管可以用 GPU 等效性能来描述它，或者说相当于 1/ 数百个或 h1 数百个。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Elon Musk",
+      "startSec": 1663.1,
+      "textEn": "And all the Tesla cars have highly energy optimized inference computers in them which call hardware 3. It's Tesla designed computer and we're now shipping hardware 4, which is depending on how you count it, maybe three to five times more capable than hardware 3.",
+      "textZh": "而且所有 Tesla 汽车里都有针对能耗进行高度优化的推理计算机，称为 hardware 3。这是 Tesla 设计的计算机，我们现在正在交付 hardware 4，根据你如何计算，其能力可能是 hardware 3 的 3 到 5 倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 1687.44,
+      "textEn": "In a few years there'll be hardware 5 which will be four or five times more capable than hardware 4.",
+      "textZh": "几年后会有 hardware 5，其能力将是 hardware 4 的 4 或 5 倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Elon Musk",
+      "startSec": 1694.72,
+      "textEn": "And yeah, and I think the inference stuff is going to be. If you're trying to serve potentially billions of queries per day, inference, energy optimized inference is extremely important.",
+      "textZh": "而且，是的，我认为推理方面的东西将会是。如果你试图每天处理可能达到数十亿次的查询，那么推理，也就是能源优化的推理，就极其重要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1710.97,
+      "textEn": "You can't even throw money at the Palm Edison point because you need the electricity generation, you need the step down voltage transformers.",
+      "textZh": "到了帕姆·爱迪生点，你甚至无法单靠砸钱解决，因为你需要发电能力，你需要降压变压器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "xAI Team",
+      "startSec": 1720.09,
+      "textEn": "And",
+      "textZh": "而且",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 1722.41,
+      "textEn": "so if you actually don't have",
+      "textZh": "所以，如果你实际上没有",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Audience Member",
+      "startSec": 1723.85,
+      "textEn": "enough",
+      "textZh": "足够的",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 1726.41,
+      "textEn": "energy and enough transformers, you can't run your transformers, you need transformers for transformers.",
+      "textZh": "能源和足够的变压器，你就无法运行你的 Transformer，你需要用变压器来运行 Transformer。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "xAI Team",
+      "startSec": 1736.47,
+      "textEn": "So",
+      "textZh": "所以",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Elon Musk",
+      "startSec": 1740.07,
+      "textEn": "I think Tesla will have a significant advantage in energy efficient inference then. Dojo is obviously about training. As the name suggests, Dojo 1 is, I think it's a good initial entry for training efficiency.",
+      "textZh": "我认为，到那时，Tesla 在高能效推理方面将拥有显著优势。Dojo 显然是用于训练的。顾名思义，Dojo 1 是，我认为它是提高训练效率的一个良好开端。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 1762.49,
+      "textEn": "It has some limits especially on memory bandwidth. So it's not well optimized to run LLMs. It does do a good job of processing images.",
+      "textZh": "它存在一些限制，尤其是在内存带宽方面。所以它并没有针对运行大语言模型进行良好优化。它在处理图像方面确实表现不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Elon Musk",
+      "startSec": 1779.29,
+      "textEn": "And then Dojo 2, we're taking a lot of steps to alleviate the memory bandwidth constraint such that it is capable of running LLMs as well as other forms of AI training efficiently.",
+      "textZh": "然后是 Dojo 2，我们正在采取许多措施来缓解内存带宽限制，使其既能高效运行大语言模型，也能高效进行其他形式的 AI 训练。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 1798.36,
+      "textEn": "My prediction is that we will go from an extreme silicon shortage today to probably voltage transformer shortage in about a year and then an electricity shortage a year in two years. That's roughly where things are trending.",
+      "textZh": "我的预测是，我们将从如今极度缺少芯片，发展到大约1年后可能缺少电压变压器，然后在1年、2年后出现电力短缺。事情大致正朝这个方向发展。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "xAI Team",
+      "startSec": 1819.97,
+      "textEn": "Unless we can be improved serving efficiency.",
+      "textZh": "除非我们能够被提高服务效率。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 1823.65,
+      "textEn": "Well, that's why basically I think the metric that will be most important in a few years is useful compute per unit of energy.",
+      "textZh": "嗯，所以我基本上认为，几年后最重要的指标将是单位能量所能提供的有效算力。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Elon Musk",
+      "startSec": 1839.02,
+      "textEn": "In fact, even if you scale like obviously you scale all the way to the Kardashev level, the useful compute",
+      "textZh": "事实上，即使你进行扩展，比如显然一路扩展到卡尔达肖夫等级，有效算力",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Host",
+      "startSec": 1848.38,
+      "textEn": "per",
+      "textZh": "每",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Elon Musk",
+      "startSec": 1848.66,
+      "textEn": "joule is still the thing that matters.",
+      "textZh": "焦耳仍然是关键所在。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Elon Musk",
+      "startSec": 1852.54,
+      "textEn": "You can't increase the output of the sun.",
+      "textZh": "你无法增加太阳的能量输出。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Elon Musk",
+      "startSec": 1855.66,
+      "textEn": "So then it's just well, how much useful stuff can you get done for the.",
+      "textZh": "那么就只是，嗯，对于这些，你能完成多少有用的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 1861.1,
+      "textEn": "For as much energy in the sun that you can harness.",
+      "textZh": "对于你能够利用的太阳中那么多的能量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Audience Member",
+      "startSec": 1864.55,
+      "textEn": "So do you see Xai leveraging this custom silicon at all? Given how important energy efficiency is or maybe working together with the Tesla team at all on that? Or.",
+      "textZh": "那么，你认为 xAI 会利用这种定制芯片吗？鉴于能源效率如此重要，或者可能会在这方面与 Tesla 团队展开合作吗？或者。",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 1879.99,
+      "textEn": "Sorry, could you repeat the question?",
+      "textZh": "抱歉，你能重复一下问题吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Audience Member",
+      "startSec": 1882.39,
+      "textEn": "Do you foresee Xai working with Tesla at all? Leveraging some of this custom silicon, maybe designing their own in the future?",
+      "textZh": "你预见 xAI 会与 Tesla 合作吗？利用其中一些定制芯片，或许未来设计自己的芯片？",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "xAI Team",
+      "startSec": 1889.68,
+      "textEn": "Edging. Leave it all.",
+      "textZh": "逼近。全都别管。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Audience Member",
+      "startSec": 1891.48,
+      "textEn": "Re. Edging. Okay. Or we can.",
+      "textZh": "关于。逼近。好吧。或者我们可以。",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 1895.28,
+      "textEn": "What is the question?",
+      "textZh": "问题是什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "xAI Team",
+      "startSec": 1896.48,
+      "textEn": "The question was if we're going to work together with the Tesla silicon team.",
+      "textZh": "问题是，我们是否会与 Tesla 的芯片团队合作。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Host",
+      "startSec": 1901.04,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "xAI Team",
+      "startSec": 1901.48,
+      "textEn": "Ethics.",
+      "textZh": "伦理。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Audience Member",
+      "startSec": 1901.84,
+      "textEn": "AI.",
+      "textZh": "AI。",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Elon Musk",
+      "startSec": 1906,
+      "textEn": "Yeah, so we are going to, you know, work with Tesla on, you know, silicon front and maybe on the AI software front as well. Obviously any relationship with Tesla has to be an arm's length transaction because Tesla is a publicly traded company and a different, different shareholder base. So if it, but obviously it would be like a naturally, you know, natural thing to work in cooperation with, with Tesla. And I think it will be of mutual benefit to Tesla as well in accelerating Tesla's self driving capabilities, which is really about solving real world AI.",
+      "textZh": "是的，所以我们会，你知道，在芯片方面与 Tesla 合作，也许在 AI 软件方面也会合作。显然，与 Tesla 的任何关系都必须是独立交易，因为 Tesla 是一家上市公司，股东群体也不同，不同。所以如果它，但显然，与 Tesla 合作会是一件很自然的，你知道，很自然的事情。我认为这对 Tesla 也会互有裨益，能够加快提升 Tesla 的自动驾驶能力，而这实际上关乎解决现实世界 AI 问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 1955.54,
+      "textEn": "I am feeling very, very optimistic about Tesla's progress on the real world AI front. But obviously the more smart humans that help make that happen, the better.",
+      "textZh": "我对 Tesla 在现实世界 AI 领域取得的进展感到非常、非常乐观。但显然，帮助实现这件事的聪明人越多越好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "xAI Team",
+      "startSec": 2028.61,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Elon Musk",
+      "startSec": 2028.89,
+      "textEn": "Kim.com.",
+      "textZh": "Kim.com。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Audience Member",
+      "startSec": 2031.17,
+      "textEn": "hey Elon, thanks for bringing me up. Congrats on putting a nice team together. It seems like you found some good talent there for Xai. My question is, you mentioned not too long ago that you think AGI is possible within the next five years and whoever achieves AGI first and achieves to control it will dominate the world. Those in power clearly don't care about humanity like you do. How are you going to protect Xai, especially from a deep state takeover?",
+      "textZh": "嘿，埃隆，谢谢你让我上来。祝贺你组建了一支不错的团队。看来你为 xAI 找到了一些优秀人才。我的问题是，你不久前提到过，你认为 AGI 有可能在未来5年内实现，而谁率先实现 AGI 并实现对它的控制，谁就将主宰世界。那些掌权者显然不像你一样关心人类。你打算如何保护 xAI，尤其是防止它被深层政府接管？",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Elon Musk",
+      "startSec": 2070.11,
+      "textEn": "That's a good question, actually.",
+      "textZh": "这其实是个好问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Elon Musk",
+      "startSec": 2077.16,
+      "textEn": "Well, I mean, first of all, I think it's not going to happen like overnight. It's not going to be like one day, it's, you know, not AGI next. It is, it's going to be gradual. You'll see it coming.",
+      "textZh": "嗯，我的意思是，首先，我认为它不会像在一夜之间发生。不会是某一天，它是，你知道，接下来不是 AGI。它是，它将逐步发生。你会看到它的到来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Elon Musk",
+      "startSec": 2093.56,
+      "textEn": "I guess in the U.S. at least there's, there are a fair number of protections against government interference.",
+      "textZh": "我想，至少在美国，有相当多防范政府干预的保护措施。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Elon Musk",
+      "startSec": 2104.16,
+      "textEn": "So I guess, you know, we obviously use the legal system to prevent, you know, improper government interference.",
+      "textZh": "所以我想，你知道，我们显然会利用法律制度来阻止，你知道，不当的政府干预。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Elon Musk",
+      "startSec": 2115.44,
+      "textEn": "So I think, I think we do have some protections there that are, that are pretty significant, but we should be concerned about that. It's not, it's not a risk to be dismissed.",
+      "textZh": "所以我认为，我认为我们在这方面确实拥有一些相当重要的保护措施，但我们应该对此感到担忧。这不是，不是一个可以不予理会的风险。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Elon Musk",
+      "startSec": 2133.61,
+      "textEn": "So yeah, it is a risk, but like I said, I think we've got probably the best protections of any place in the US in terms of limiting the power of government to interfere with non governmental organizations.",
+      "textZh": "所以，是的，这确实是一项风险，但就像我说的，我认为在限制政府干预非政府组织的权力方面，我们拥有的保护措施可能是美国任何地方中最好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Elon Musk",
+      "startSec": 2155.14,
+      "textEn": "But it's something we should be careful of. I don't know what better to do than.",
+      "textZh": "但这是我们应该谨慎对待的事情。我不知道还有什么更好的办法比……",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Elon Musk",
+      "startSec": 2164.74,
+      "textEn": "I think it's probably best in the US I'm open to ideas here.",
+      "textZh": "我觉得在美国可能最好，我愿意听听这里的想法。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Elon Musk",
+      "startSec": 2172.58,
+      "textEn": "I know you're not the biggest fan of the US Government.",
+      "textZh": "我知道你不是美国政府的最大拥趸。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Elon Musk",
+      "startSec": 2177.3,
+      "textEn": "Yeah, obviously.",
+      "textZh": "是的，显然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Audience Member",
+      "startSec": 2179.54,
+      "textEn": "But the problem is they already have a tool called the National Security Ladder, which they can apply to any tech company in the US and make demands of, you know, the company to fulfill certain requirements without even being able to tell the public about these demands. And that's kind of frightening, isn't it?",
+      "textZh": "但问题是，他们已经有一个名为“国家安全阶梯”的工具，可以把它应用于美国的任何科技公司，并要求，你知道，该公司满足某些要求，甚至不能把这些要求告诉公众。这有点吓人，不是吗？",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "Elon Musk",
+      "startSec": 2202.56,
+      "textEn": "Well, I mean, there really has to be a very major national security reason to secretly demand things for companies.",
+      "textZh": "嗯，我的意思是，确实必须有一个非常重大的国家安全理由，才能秘密地对公司提出要求。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "Elon Musk",
+      "startSec": 2214.97,
+      "textEn": "And now it obviously depends strongly on the willingness of that company to fight back against things like FISA requests. And, you know, at Twitter or X Corp, as it's not called. The. We're, you know, we will respond to FISA requests, but we're not going to rubber stamp it any like it used to be. It used to be like anything that was requested would just get rubber stamped and go through, which is not obviously bad for the public.",
+      "textZh": "而现在，这显然在很大程度上取决于该公司是否愿意反抗 FISA 请求之类的事情。而且，你知道，在 Twitter，或者并不这样称呼的 X Corp。这个。我们，你知道，我们会回应 FISA 请求，但不会再像过去那样不加审查地批准。过去是无论收到什么请求，都会直接不加审查地批准并通过，而这显然并非对公众有害。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Elon Musk",
+      "startSec": 2243.78,
+      "textEn": "So that. So we're much more rigorous in we all being much more rigorous in not just rubber stamping FISA requests. And it really has to be a danger to the public that we agree with and we will oppose with legal action anything we think is not in the public interest.",
+      "textZh": "所以那个。所以我们严谨得多，我们所有人都严谨得多，不会只是对 FISA 请求不加审查地批准。确实必须存在一种我们也认同的、对公众构成的危险；而对于任何我们认为不符合公众利益的事情，我们都会采取法律行动予以反对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "Elon Musk",
+      "startSec": 2265.71,
+      "textEn": "The best we can do. And we're the only social media company doing that as far as I know.",
+      "textZh": "这是我们能做到的最好程度。而据我所知，我们是唯一这样做的社交媒体公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Elon Musk",
+      "startSec": 2272.19,
+      "textEn": "You know, and it used to be just open season on, as you saw from the Twitter files, and I was encouraged to see the recent legal decision where the courts reaffirmed that the government cannot break the First Amendment of the Constitution, obviously. So that, that was a good, good legal decision.",
+      "textZh": "你知道，而且过去简直是任意妄为，就像你从 Twitter 文件中看到的那样。我很受鼓舞，因为最近的一项司法裁决中，法院再次确认，政府显然不能违反《宪法第一修正案》。所以，那是一项很好的、很好的司法裁决。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Elon Musk",
+      "startSec": 2296.1,
+      "textEn": "So that's encouraging.",
+      "textZh": "所以这令人鼓舞。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Elon Musk",
+      "startSec": 2300.66,
+      "textEn": "So I think, yeah, a lot of it actually does depend on the willingness of a company to oppose government demands in the US and obviously our willingness will be high.",
+      "textZh": "所以我认为，是的，其中很大一部分实际上确实取决于一家公司是否愿意反对美国政府的要求，而显然我们的意愿会很强。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "Elon Musk",
+      "startSec": 2313.46,
+      "textEn": "Well, so. And so. But like, I'm, I don't know anything more that we can do than that.",
+      "textZh": "嗯，所以。而且所以。但是，就像，我，我不知道除此之外我们还能做些什么。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Elon Musk",
+      "startSec": 2321.23,
+      "textEn": "But we will try to also be as transparent as possible so, you know, other citizens can raise the alarm bell and, you know, oppose government interference. If we can make it clear to the public that we think something's happening that is not in the public interest.",
+      "textZh": "但我们也会努力尽可能保持透明，这样，你知道，其他公民就能敲响警钟，并且，你知道，反对政府干预。如果我们能向公众明确表明，我们认为正在发生某件不符合公众利益的事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Audience Member",
+      "startSec": 2340.51,
+      "textEn": "Fantastic. So do we have your commitment if you ever receive a national security request from the US Government, even when it is prohibited for you to talk about it, that you will tell us that that happened?",
+      "textZh": "太好了。那么你能否向我们承诺，如果你以后收到美国政府的国家安全请求，即使你被禁止谈论此事，你也会告诉我们这件事发生过？",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Elon Musk",
+      "startSec": 2359.43,
+      "textEn": "I mean, it really depends on the gravity of the situation. I mean, I would be willing to go to prison or risk prison if I think the public good is at risk in A significant, You know, that's the best I can do.",
+      "textZh": "我的意思是，这确实取决于事态的严重程度。我的意思是，如果我认为公共利益面临风险，而且是重大的……你知道，这就是我能做到的最好程度，我愿意入狱或冒入狱的风险。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "Audience Member",
+      "startSec": 2376.64,
+      "textEn": "That's good enough for me. Thank you, Elon.",
+      "textZh": "这对我来说就足够了。谢谢你，埃隆。",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Elon Musk",
+      "startSec": 2379.84,
+      "textEn": "Thank you.",
+      "textZh": "谢谢。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Audience Member",
+      "startSec": 2389.52,
+      "textEn": "On a more positive note, how do you want XAI to benefit humanity? And how is your approach different to other AI projects? Maybe that's a more positive question.",
+      "textZh": "说点更积极的，你希望 xAI 如何造福人类？你们的方法与其他 AI 项目有何不同？也许这是个更积极的问题。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Elon Musk",
+      "startSec": 2408.43,
+      "textEn": "Well, you know, I've really struggled with this whole AGI think for a long time, and I've been somewhat resistant to work on making it happen, you know. And, you know, the reason, I should say, like to give you some backstory on OpenAI, I mean, the reason OpenAI exists is because after Google acquired DeepMind and I used to be close friends with Larry Page, I would have these long conversations with him about AI safety, and he just wasn't taking AI safety, at least at the time, seriously enough.",
+      "textZh": "嗯，你知道，长期以来，我一直在为整个 AGI 思考苦苦挣扎，而且我多少有些抗拒去推动它成为现实，你知道。而且，你知道，原因是，我应该说，比如给你讲一点 OpenAI 背后的故事，我的意思是，OpenAI 之所以存在，是因为在 Google 收购 DeepMind 后，我过去和拉里·佩奇是亲密朋友，我会和他就 AI 安全进行这些长谈，而他就是没有足够认真地对待 AI 安全，至少当时是这样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "Elon Musk",
+      "startSec": 2449.57,
+      "textEn": "And in fact, at one point called me a species for being too much on Team Humanity, I guess.",
+      "textZh": "而事实上，有一次，我猜，他还因为我太站在人类一边而称我是一个物种。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "Elon Musk",
+      "startSec": 2457.7,
+      "textEn": "And I'm like, okay, so what you're saying is you're not a speciest. I don't know. That seems great. That doesn't seem good. So at the time, with Google and DeepMind combined Larry with the support, they have super voting control. So provided Larry has either the support of Sergey or Eric, then they have total control over what's now called Alphabet.",
+      "textZh": "然后我就想，好吧，所以你的意思是你不是物种主义者。我不知道。那似乎很棒。那似乎不太好。所以在当时，随着 Google 和 DeepMind 合并，拉里拥有支持，他们拥有超级投票控制权。所以只要拉里得到谢尔盖或埃里克其中一人的支持，他们就能完全控制如今被称为 Alphabet 的公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "Elon Musk",
+      "startSec": 2490.83,
+      "textEn": "So they had probably 3/4 of the AI talent in the world and lots of money and lots of computers. So it's like, man, we need some kind of sort of counterweight here.",
+      "textZh": "所以他们大概拥有全世界 3/4 的 AI 人才，还有大量资金和大量计算机。所以就像，天哪，我们这里需要某种平衡力量。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0185",
+      "speakerEn": "Elon Musk",
+      "startSec": 2501.39,
+      "textEn": "So that's where I was like, well, what's the opposite of Google? DeepMind would be an open source nonprofit now because Fate loves irony.",
+      "textZh": "所以我当时就想，好吧，Google 的反面是什么？DeepMind 现在会是一个开源非营利组织，因为命运喜欢讽刺。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "Elon Musk",
+      "startSec": 2513.13,
+      "textEn": "OpenAI is now super closed source and frankly, voracious for profit because they want to spend, my understanding is, $100 billion in three years, which requires, you know, if you're trying to get investors for that, you've got to make a lot of money.",
+      "textZh": "OpenAI 现在是超级闭源的，而且坦率地说，对利润贪得无厌，因为据我所知，他们想在 3 年内花费 1000 亿美元，而这就要求，你知道，如果你要为此寻找投资者，你就必须赚很多钱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "Elon Musk",
+      "startSec": 2532.09,
+      "textEn": "So, You know, opening eyes strayed quite, you know, really in the opposite direction from its sort of founding charter, which is again, very ironic. But fate loves irony. There's a friend of mine, Jonah Nolan, who says the most ironic outcome is the most likely. Well, here we go.",
+      "textZh": "所以，你知道，睁眼已经偏离得相当，你知道，实际上走向了与其某种创始章程相反的方向，这同样极具讽刺意味。但命运喜欢讽刺。我的一个朋友乔纳·诺兰说，最具讽刺意味的结果最有可能发生。好吧，这就来了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0188",
+      "speakerEn": "Elon Musk",
+      "startSec": 2556.66,
+      "textEn": "So, yeah, so now hopefully XAI is not even worse. But I mean, I think we should be careful about that.",
+      "textZh": "所以，是的，那么现在希望 xAI 不会更糟。但我的意思是，我认为我们应该对此保持谨慎。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "Elon Musk",
+      "startSec": 2571.3,
+      "textEn": "But it really seems like, look at this point, AGI is going to happen. So there's two choices. Either be a spectator or a participant. And as a spectator, one can't do much to influence the outcome. As a participant, I think we can",
+      "textZh": "但现在看来确实如此，瞧，AGI 将会出现。所以有 2 种选择。要么做旁观者，要么做参与者。作为旁观者，一个人无法对结果施加多少影响。作为参与者，我认为我们可以",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "Host",
+      "startSec": 2590.15,
+      "textEn": "create",
+      "textZh": "创造",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0191",
+      "speakerEn": "Elon Musk",
+      "startSec": 2592.31,
+      "textEn": "an alternative that is hopefully better than Google DeepMind or OpenAI Microsoft, in both the cases of Alphabet, if you look at the incentive structure, Alphabet is a publicly traded company has, you know, gets a lot of,",
+      "textZh": "一个有望比 Google DeepMind 或 OpenAI Microsoft 更好的替代方案，就 Alphabet 和 Microsoft 这两种情况而言，如果你看看激励结构，Alphabet 是一家上市公司，它有，你知道，得到了很多，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "Audience Member",
+      "startSec": 2616.9,
+      "textEn": "has a lot",
+      "textZh": "有很多",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0193",
+      "speakerEn": "xAI Team",
+      "startSec": 2617.42,
+      "textEn": "of",
+      "textZh": "的",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0194",
+      "speakerEn": "Elon Musk",
+      "startSec": 2620.1,
+      "textEn": "incentives to behave like it's got public company incentives, essentially. You've got all these like ESG mandates and stuff that I think push companies in questionable directions. And then Microsoft has a similar set of incentives.",
+      "textZh": "激励促使它按照上市公司的激励机制行事，本质上如此。你会遇到所有这些诸如 ESG 要求之类的东西，我认为它们会把公司推向值得质疑的方向。然后 Microsoft 也有一套类似的激励机制。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0195",
+      "speakerEn": "Elon Musk",
+      "startSec": 2638.51,
+      "textEn": "As a, you know, as a company that's not publicly traded, XAI is not subject to the market based incentives or really the non market based ESG incentives. So, you know, we're a little freer to operate. And you know, I think our AI can give answers that people may find controversial even though there are, they are actually true, you know, so they might not, you know, they won't be politically correct at times and they will probably a lot of people will be offended.",
+      "textZh": "作为一家，你知道，作为一家非上市公司，xAI 不受基于市场的激励机制约束，实际上也不受非市场型 ESG 激励机制约束。所以，你知道，我们的运作会更自由一些。而且，你知道，我认为我们的 AI 可以给出人们可能认为有争议的答案，尽管这些答案，它们实际上是真的，你知道，所以它们可能不会，你知道，它们有时不会政治正确，而且可能会冒犯很多人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0196",
+      "speakerEn": "xAI Team",
+      "startSec": 2691.21,
+      "textEn": "Yeah,",
+      "textZh": "是的，",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0197",
+      "speakerEn": "Elon Musk",
+      "startSec": 2697.37,
+      "textEn": "Let's see.",
+      "textZh": "让我们看看。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0198",
+      "speakerEn": "Audience Member",
+      "startSec": 2714.82,
+      "textEn": "It.",
+      "textZh": "它。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0199",
+      "speakerEn": "Elon Musk",
+      "startSec": 2760.11,
+      "textEn": "Scovilizer.",
+      "textZh": "斯科维莱泽。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0200",
+      "speakerEn": "xAI Team",
+      "startSec": 2761.23,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0201",
+      "speakerEn": "xAI Team",
+      "startSec": 2763.71,
+      "textEn": "Twitter has a lot of data in it that could help build a validator. I check some of the facts that a system kicks out because we all know that GPT confabulates, you know, things, makes things up. And so that's one place I'd like to hear you talk about the other places. ChatGPT found me a screw at a Lowe's, but it didn't find me a coffee at San Jose International Airport. Are you building an AI that has a world knowledge, a 3D world knowledge to navigate people to around the world, to different things?",
+      "textZh": "Twitter 里有大量数据，可以帮助构建一个验证器。我会核查系统输出的一些事实，因为我们都知道 GPT 会虚构，你知道，事情，会编造事情。所以这是一个我希望听你谈谈其他地方的方面。ChatGPT 在 Lowe's 帮我找到了一颗螺丝，但它没能在圣何塞国际机场帮我找到咖啡。你们是否正在构建一个拥有世界知识、拥有 3D 世界知识的 AI，从而引导人们去往世界各地、去往不同的事物？",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0202",
+      "speakerEn": "Elon Musk",
+      "startSec": 2804.75,
+      "textEn": "Well, I, I think it's, it's really not going to be a very good AI if it can't find you a coffee at the airport.",
+      "textZh": "嗯，我，我认为如果它不能在机场帮你找到咖啡，那它，它真的不会是一个很好的 AI。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0203",
+      "speakerEn": "Elon Musk",
+      "startSec": 2811.47,
+      "textEn": "So yeah, I guess we need to understand the physical world as well, not just the Internet.",
+      "textZh": "所以，是的，我想我们也需要理解物理世界，而不仅仅是互联网。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0204",
+      "speakerEn": "Elon Musk",
+      "startSec": 2821.15,
+      "textEn": "I'm talking lightly. You guys should talk more.",
+      "textZh": "我说得很轻松。你们应该多说一些。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0205",
+      "speakerEn": "xAI Team",
+      "startSec": 2824.6,
+      "textEn": "Yeah, those are great ideas, Robert. Especially the one about verifying information online or on Twitter is something that we thought about. On Twitter we have community notes. So that's actually a really amazing data set for training a language model to try to verify, verify facts. On your third, we'll have to see whether that alone is enough because we know that with the current technology there's a lot of weaknesses.",
+      "textZh": "是的，这些都是很棒的想法，罗伯特。尤其是关于验证网上或 Twitter 上信息的那个想法，这是我们考虑过的事情。在 Twitter 上，我们有社区注释。所以那实际上是一个非常惊人的数据集，可用于训练语言模型尝试验证、验证事实。关于你的第 3 点，我们还得看看单靠这个是否足够，因为我们知道当前技术存在很多弱点。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0206",
+      "speakerEn": "xAI Team",
+      "startSec": 2844.48,
+      "textEn": "Like it's unreliable, it hallucinates facts and we'll have to probably invent specific techniques to account for that and to make sure that our models are more factual, that they have better reasoning abilities. So that's why we brought in people with a lot of expertise in those areas. Especially mathematics is something that we really care about, where we can verify that the proof of a theorem is correct automatically and Then once we have that ability, we're going to try to expand that to more fuzzier areas, things that.",
+      "textZh": "比如它不可靠，它会产生事实幻觉，而我们可能必须发明特定的技术来应对这一点，并确保我们的模型更符合事实，拥有更好的推理能力。所以这就是为什么我们请来了在这些领域拥有大量专业知识的人。尤其是数学，这是我们非常重视的领域，在那里我们可以自动验证一个定理的证明是否正确，然后一旦我们具备这种能力，我们就会尝试把它扩展到更模糊的领域，那些。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0207",
+      "speakerEn": "xAI Team",
+      "startSec": 2877.38,
+      "textEn": "Where there's no mathematical truth anymore.",
+      "textZh": "在那里不再有数学真理。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0208",
+      "speakerEn": "Elon Musk",
+      "startSec": 2881.54,
+      "textEn": "Yeah, I mean, the truth is not a popularity contest. But if one trains on like, you know, sort of what the most likely word is that follows another word from a data, from an Internet data set, then there's obviously, that's a pretty major problem in that it will give you an answer that is popular but wrong.",
+      "textZh": "是的，我的意思是，真相不是一场人气竞赛。但如果一个模型是根据，比如，你知道的，某个词之后最有可能出现什么词来训练的，数据来自一个互联网数据集，那么显然，这会是一个相当严重的问题，因为它会给你一个广受认同但错误的答案。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0209",
+      "speakerEn": "Elon Musk",
+      "startSec": 2906.87,
+      "textEn": "So, you know, like it used to be that most people thought probably maybe almost everyone on Earth thought that the sun revolved around the Earth. And so if you, you know, if you did like some sort of training on, some GPD training on in the past, it would be like, oh, the sun revolves around the Earth. Because everyone thinks that that doesn't make it true. You know, if Newton or Einstein comes up with something that is actually true, it doesn't matter if all the other physicists in the world disagree.",
+      "textZh": "所以，你知道，就像过去大多数人可能都认为，也许地球上几乎所有人都认为太阳绕着地球转。因此，如果你，你知道，如果你过去做过某种训练，某种 GPD 训练，它就会说，哦，太阳绕着地球转。因为所有人都这么认为，并不意味着这就是真的。你知道，如果牛顿或爱因斯坦提出了某种实际上正确的东西，那么即使世界上所有其他物理学家都不同意，也无关紧要。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0210",
+      "speakerEn": "Elon Musk",
+      "startSec": 2935.32,
+      "textEn": "Reality is reality.",
+      "textZh": "现实就是现实。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0211",
+      "speakerEn": "Elon Musk",
+      "startSec": 2938.2,
+      "textEn": "So you have to ground the answers in reality.",
+      "textZh": "所以，你必须让答案以现实为依据。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0212",
+      "speakerEn": "xAI Team",
+      "startSec": 2945.72,
+      "textEn": "The current models just imitate the data that they're trained on. And what we really want to do is to change the paradigm away from that to actually models discovering the truth. So not just repeating what they've learned from the training data, actually making true new insights, new discoveries that we can all benefit from. Yeah.",
+      "textZh": "当前的模型只是在模仿它们接受训练的数据。而我们真正想做的是改变这种范式，从那种方式转向让模型真正去发现真相。所以不只是重复它们从训练数据中学到的东西，而是真正得出新的洞见、新的发现，让我们所有人都能从中受益。是的。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0213",
+      "speakerEn": "Elon Musk",
+      "startSec": 2967.93,
+      "textEn": "See anybody on the team want to say anything or ask questions that, do you think maybe haven't been asked yet?",
+      "textZh": "看看团队里有没有人想说些什么，或者提出一些你认为可能还没被问过的问题？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0214",
+      "speakerEn": "Host",
+      "startSec": 2978.73,
+      "textEn": "Sure.",
+      "textZh": "当然。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0215",
+      "speakerEn": "Audience Member",
+      "startSec": 2985.46,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "听众成员"
+    },
+    {
+      "id": "p-0216",
+      "speakerEn": "Host",
+      "startSec": 2985.86,
+      "textEn": "So I guess some of us heard",
+      "textZh": "所以我猜我们当中有些人听了",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0217",
+      "speakerEn": "Audience Member",
+      "startSec": 2988.7,
+      "textEn": "your",
+      "textZh": "你的",
+      "speakerZh": "听众成员"
+    },
+    {
+      "id": "p-0218",
+      "speakerEn": "Host",
+      "startSec": 2991.46,
+      "textEn": "future of AI spaces on Wednesday. So that's something I think on a lot of US mind is like the regulations and the AI safety spaces, how the current development and also the international coordination problems and how the US AI companies will affect this global AI development. So, yeah, like. So, hila, do you want to give a summary on what you talked about on Wednesday?",
+      "textZh": "周三关于 AI 未来的 Space。所以我认为，很多美国人心里都在想监管和 AI 安全领域之类的事情，比如当前的发展，还有国际协调问题，以及美国 AI 公司将如何影响这种全球 AI 发展。所以，是的，就是这样。那么，hila，你想总结一下你周三谈了什么吗？",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0219",
+      "speakerEn": "Host",
+      "startSec": 3052.78,
+      "textEn": "So essentially you said like the regulations",
+      "textZh": "所以基本上你说的是，监管",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0220",
+      "speakerEn": "Elon Musk",
+      "startSec": 3055.34,
+      "textEn": "would be good, but you don't want to slow it down",
+      "textZh": "会是好事，但你不希望让它放慢",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0221",
+      "speakerEn": "Host",
+      "startSec": 3059.82,
+      "textEn": "the progress too much.",
+      "textZh": "进展太多。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0222",
+      "speakerEn": "xAI Team",
+      "startSec": 3061.62,
+      "textEn": "That's essentially what you said.",
+      "textZh": "这基本上就是你说的。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0223",
+      "speakerEn": "Elon Musk",
+      "startSec": 3063.78,
+      "textEn": "Yeah. I think the right way for regulations to be done is to start with insight. So first, you know, kind of regulatory authority, whether public or private, first tries to understand, like make sure there's like a broad understanding and then there's proposed rulemaking.",
+      "textZh": "是的。我认为实施监管的正确方式是从了解情况开始。所以首先，你知道，某种监管机构，无论是公共的还是私营的，首先尝试去理解，比如确保形成广泛的理解，然后再提出拟议规则。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0224",
+      "speakerEn": "Elon Musk",
+      "startSec": 3087.07,
+      "textEn": "And if that proposed rulemaking is agreed upon by all or most parties, then it gets implemented. You give companies some period of time to implement it.",
+      "textZh": "如果所有或大多数各方都同意这项拟议规则，那么就实施它。给公司一段时间来落实。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0225",
+      "speakerEn": "Elon Musk",
+      "startSec": 3100.43,
+      "textEn": "But I think overall it should not meaningfully slow down the advent of AGI, or if it does slow down, it's not going to be for a very long time. And probably a little bit of slowing down is worthwhile if it's a significant improvement in safety.",
+      "textZh": "但我认为总体而言，它不应该显著减缓 AGI 的到来，或者即使确实减缓了，也不会持续很长时间。而且，如果能显著提高安全性，稍微放慢一点或许是值得的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0226",
+      "speakerEn": "Elon Musk",
+      "startSec": 3120.13,
+      "textEn": "Like it's if, you know, like my prediction for AGI would, you know, roughly match that which I think Ray Kurzweil at one point said 2029, that would rough. That's roughly my guess too, give or take a year. So if it takes like let's say an additional six months or 12 months for, for AGI, that's really not a big deal. If it's, you know, like spending a year to make sure AGI is safe is probably worthwhile if that's what it takes.",
+      "textZh": "比如，如果，你知道，我对 AGI 的预测会，你知道，大致符合我认为雷·库兹韦尔曾经说过的 2029 年，那会大致。这大致也是我的猜测，前后相差 1 年。所以，如果 AGI 要额外花费比如 6 个月或 12 个月，那真的不是什么大事。如果，你知道，比如花 1 年来确保 AGI 是安全的，如果确实需要这样做，那可能是值得的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0227",
+      "speakerEn": "Elon Musk",
+      "startSec": 3151.88,
+      "textEn": "But I wouldn't expect it to be a substantial slowdown.",
+      "textZh": "但我预计不会出现大幅放缓。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0228",
+      "speakerEn": "xAI Team",
+      "startSec": 3156.079,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0229",
+      "speakerEn": "Host",
+      "startSec": 3156.8,
+      "textEn": "And I can also add that on like understanding the inner working of advanced AI is probably the most ambitious projects out there as well and also aligns with XAs mission of understanding the universe. And it's probably not possible for an aerospace engineers to build a safe rocket if they don't understand how it works. And that's the same approach we want to take at XAI for the our safety plans. And as the AI advances across different stages, the risk also changes and it will be fluid across all the stages.",
+      "textZh": "我还可以补充一点，比如理解先进 AI 的内部运作原理，可能也是目前最雄心勃勃的项目之一，同时也符合 xAI 理解宇宙的使命。而且，如果航空航天工程师不了解火箭是如何工作的，他们可能就无法制造出安全的火箭。这也是我们希望在 xAI 的安全计划上采取的相同方法。随着 AI 跨越不同阶段不断进步，风险也会发生变化，并且会贯穿所有阶段动态变化。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0230",
+      "speakerEn": "Elon Musk",
+      "startSec": 3200.83,
+      "textEn": "Yeah, if I think about like how what actually makes regulations effective with cars and rockets, it's actually, it's not so much that the regulators are instructing Tesla and SpaceX, but more that since we have to think about things internally and then justify it to regulators, it makes us just really think about the problem more.",
+      "textZh": "是的，如果我思考一下监管究竟是如何对汽车和火箭产生实际效果的，那其实与其说是监管机构在指导 Tesla 和 SpaceX，不如说是因为我们必须在内部思考各种事情，然后向监管机构说明理由，这让我们真正更加深入地思考这个问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0231",
+      "speakerEn": "Elon Musk",
+      "startSec": 3231.88,
+      "textEn": "And in thinking about the problem more, it makes it safer as opposed to the regulators specifically pointing out ways to make it safer. It just forces us to think about it more.",
+      "textZh": "而在更深入地思考这个问题时，它会让事情变得更安全，而不是由监管机构具体指出如何让它更安全。它只是迫使我们更多地思考这件事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0232",
+      "speakerEn": "xAI Team",
+      "startSec": 3247.41,
+      "textEn": "I just wanted to make another point so independent of the safety, it's more like my experience at Alphabet was that it was extremely. There was a lot of red tape around involving external people like other entities to collaborate with or expose our models to them because of the lot of red tape around exposing anything that we were doing.",
+      "textZh": "我只是想再说一点，所以撇开安全问题不谈，更多的是，我在 Alphabet 的经历是，那极其。有很多繁文缛节，涉及让外部人员，比如其他实体，与我们合作，或者向他们开放我们的模型，因为对于公开我们正在做的任何事情，都有很多繁文缛节。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0233",
+      "speakerEn": "xAI Team",
+      "startSec": 3272.7,
+      "textEn": "So I wanted to ask Elon whether so I hope that here we have a bit more freedom to do so or what's your philosophy about collaborating with more external entities like academic institutions or other researchers in the area?",
+      "textZh": "所以我想问埃隆，是否，我希望我们在这里能有更多一点这样做的自由，或者说，对于同学术机构或该领域的其他研究人员等更多外部实体开展合作，你的理念是什么？",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0234",
+      "speakerEn": "Elon Musk",
+      "startSec": 3288.22,
+      "textEn": "Yeah, I certainly support collaborating with others.",
+      "textZh": "是的，我当然支持与其他人合作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0235",
+      "speakerEn": "Elon Musk",
+      "startSec": 3292.22,
+      "textEn": "So I mean it sounds like some of the.",
+      "textZh": "所以，我是说，听起来其中一些。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0236",
+      "speakerEn": "Host",
+      "startSec": 3299.4,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "主持人"
+    },
+    {
+      "id": "p-0237",
+      "speakerEn": "Elon Musk",
+      "startSec": 3301.08,
+      "textEn": "Concerns with like any kind of like large publicly traded companies, it's like they're, they're worried about being embarrassed in some way or being sued or I don't know, something. But there's a like somewhat Proportionate to the number of the size of the legal department, Our legal department currently is zero. So that, that, you know, it won't be zero forever. But you know, the, it's also very easy to sue publicly traded companies like class action lawsuits are.",
+      "textZh": "对于任何类型的大型上市公司来说，担忧之处似乎都是，他们，他们担心以某种方式难堪，或者被起诉，或者我不知道，诸如此类的事情。但这在某种程度上与法务部门的人数、规模成正比，我们的法务部门目前是 0 人。所以，那，那个，你知道，不会永远是 0 人。但你知道，这，也很容易起诉上市公司，比如集体诉讼就是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0238",
+      "speakerEn": "Elon Musk",
+      "startSec": 3337.64,
+      "textEn": "I mean we desperately need class action lawsuit reform in the United States.",
+      "textZh": "我的意思是，美国迫切需要改革集体诉讼制度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0239",
+      "speakerEn": "Elon Musk",
+      "startSec": 3343.88,
+      "textEn": "The ratio of like, the ratio of like good class action lawsuits to bad class action lawsuits is way out of whack and it effectively ends up being a tax on consumers.",
+      "textZh": "比如，这个比例，比如，好的集体诉讼与糟糕的集体诉讼之间的比例严重失衡，最终实际上变成了对消费者征收的一种税。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0240",
+      "speakerEn": "Elon Musk",
+      "startSec": 3355.47,
+      "textEn": "Somehow other countries are able to survive without class action. So it's not clear we need that body of law at all.",
+      "textZh": "不知为何，其他国家没有集体诉讼也能生存。因此，完全不清楚我们是否需要那套法律体系。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0241",
+      "speakerEn": "Elon Musk",
+      "startSec": 3363.39,
+      "textEn": "But that is a major problem with publicly traded companies. So it's just non stop legal, nonstop lawsuits.",
+      "textZh": "但这是上市公司面临的一个重大问题。所以就是没完没了的法律事务、没完没了的诉讼。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0242",
+      "speakerEn": "Elon Musk",
+      "startSec": 3375.07,
+      "textEn": "Yeah. So I do support collaborating with others and generally being actually open.",
+      "textZh": "是的。所以我的确支持与他人合作，并且总体上真正保持开放。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0243",
+      "speakerEn": "Elon Musk",
+      "startSec": 3385.53,
+      "textEn": "So you know the thing, it's actually, it's quite hard to like if you're innovating fast.",
+      "textZh": "所以，你知道，这件事，实际上，如果你创新得很快，就很难，怎么说呢……",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0244",
+      "speakerEn": "Elon Musk",
+      "startSec": 3399.53,
+      "textEn": "That is the actual competitive advantage is the pace of innovation as opposed to any given innovation.",
+      "textZh": "真正的竞争优势是创新的速度，而不是任何某一项创新。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0245",
+      "speakerEn": "Elon Musk",
+      "startSec": 3408.77,
+      "textEn": "You know, that really has been like the strength of Tesla and SpaceX is that the rate of innovation is the competitive advantage, not what has been developed at any one point. In fact SpaceX, there's almost no patents and Tesla open sources patents. So we use all our patents for free.",
+      "textZh": "你知道，这确实一直是 Tesla 和 SpaceX 的优势，也就是说，创新速度才是竞争优势，而不是在某一个时间点已经开发出了什么。事实上，SpaceX 几乎没有专利，而 Tesla 将专利开源。所以我们免费使用我们所有的专利。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0246",
+      "speakerEn": "Elon Musk",
+      "startSec": 3433.78,
+      "textEn": "So as long as SpaceX and Tesla continue to innovate rapidly, that's the actual defense against competition as opposed to, you know, patents and trying to hide things, you know, and just treating patents like basically like a minefield.",
+      "textZh": "所以，只要 SpaceX 和 Tesla 继续快速创新，那才是真正抵御竞争的手段，而不是，你知道，依靠专利、试图隐藏东西，你知道，以及基本上把专利当作雷区。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0247",
+      "speakerEn": "Elon Musk",
+      "startSec": 3451.78,
+      "textEn": "The reason we open source app like Tesla does continue to make patents and open source them in order to basically be a miner mover, minesweeper. Aspirationally a minesweeper. We still get sued by patent trust. It's very annoying. But we actually literally make patents and open source them in order to be a minesweeper.",
+      "textZh": "我们将应用开源的原因，就像 Tesla 确实会继续申请专利并将其开源，是为了基本上成为一个采矿者推动者、扫雷者。目标是成为扫雷者。我们仍然会被专利信托起诉。这非常烦人。但我们确实真的是在申请专利并将其开源，以便成为扫雷者。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0248",
+      "speakerEn": "Elon Musk",
+      "startSec": 3476.85,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0249",
+      "speakerEn": "Elon Musk",
+      "startSec": 3479.01,
+      "textEn": "Hey Walter.",
+      "textZh": "嘿，沃尔特。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0250",
+      "speakerEn": "Audience Member",
+      "startSec": 3480.29,
+      "textEn": "Hey. A lot of the talk about AI since March has been on large language models and generative AI. You and I for the book also discuss the importance of real world AI, which is the things including coming out of both Optimus and Tesla fsd. To what extent do you see Xi XAI involved in real world AI as a distinction to what say OpenAI is doing? And you have a leg up to some extent by having done fsd.",
+      "textZh": "嘿。自3月以来，关于 AI 的许多讨论都集中在大型语言模型和生成式 AI 上。为了那本书，你和我还讨论过现实世界 AI 的重要性，其中包括来自 Optimus 和 Tesla FSD 的东西。与比如 OpenAI 正在做的事情相比，你认为 Xi XAI 会在多大程度上参与现实世界 AI，以此形成区别？而且由于已经做过 FSD，你们在某种程度上占据了先机。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0251",
+      "speakerEn": "xAI Team",
+      "startSec": 3517.5,
+      "textEn": "Yeah,",
+      "textZh": "是的，",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0252",
+      "speakerEn": "Elon Musk",
+      "startSec": 3519.9,
+      "textEn": "right. I mean Tesla is the leader I think by pretty long margin in real world AI. In fact, the degree to which Tesla is advanced real world AI is not well understood.",
+      "textZh": "对。我的意思是，我认为 Tesla 在现实世界 AI 领域遥遥领先。事实上，人们并不十分了解 Tesla 的现实世界 AI 先进到了什么程度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0253",
+      "speakerEn": "xAI Team",
+      "startSec": 3535.9,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0254",
+      "speakerEn": "Elon Musk",
+      "startSec": 3537.58,
+      "textEn": "And I guess since I spend a lot of time with the Tesla AI team, I kind of know, you know, how real World AI is done and there's lots to be gained by collaboration with Tesla.",
+      "textZh": "而且我想，由于我花了很多时间与 Tesla AI 团队共事，我算是知道，你知道，现实世界 AI 是如何实现的，而与 Tesla 合作可以收获很多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0255",
+      "speakerEn": "Elon Musk",
+      "startSec": 3554.76,
+      "textEn": "I think bidirectionally, XAI can help Tesla and vice versa.",
+      "textZh": "我认为这是双向的，xAI 可以帮助 Tesla，反之亦然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0256",
+      "speakerEn": "Elon Musk",
+      "startSec": 3560.84,
+      "textEn": "We have some collaborative relationships as well. Like our material science team, which I think is maybe the best in the world, is actually shared between Tesla and SpaceX. And that's actually quite helpful for recruiting the best engineers in the world because it's like more interesting to work on advanced electric cars and rockets than just either one or the other. So, like, that was really key to recruiting Charlie Kuhlman, who runs the advanced materials team.",
+      "textZh": "我们也有一些合作关系。比如，我们的材料科学团队，我认为它可能是世界上最好的，实际上由 Tesla 和 SpaceX 共享。这实际上对招募世界上最优秀的工程师相当有帮助，因为同时从事先进电动汽车和火箭的工作，比只从事其中一项更有意思。所以，这确实是招募查理·库尔曼的关键，他负责先进材料团队。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0257",
+      "speakerEn": "Elon Musk",
+      "startSec": 3599.09,
+      "textEn": "He was like, he was at Apple and I think pretty happy at Apple and be like, well, he could work on electric cars and rockets. He's like, that sounds pretty good. So he wouldn't take either one of the jobs, but he was willing to take both.",
+      "textZh": "他当时，他当时在 Apple，而且我想他在 Apple 过得很开心，然后就像，嗯，他可以研究电动汽车和火箭。他就说，这听起来很不错。所以两份工作中的任何一份他都不会接受，但他愿意同时接受两份。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0258",
+      "speakerEn": "xAI Team",
+      "startSec": 3615.89,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0259",
+      "speakerEn": "Elon Musk",
+      "startSec": 3616.25,
+      "textEn": "So I think that is a really important thing. And like I said, there are some pretty big insights that we've gained at Tesla in trying to understand real world AI.",
+      "textZh": "所以我认为这是一件非常重要的事。而且就像我说的，我们在 Tesla 尝试理解现实世界 AI 的过程中获得了一些非常重要的洞见。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0260",
+      "speakerEn": "Elon Musk",
+      "startSec": 3630.45,
+      "textEn": "Taking video input and compressing that into a vector space and then ultimately into steering and pedal outputs.",
+      "textZh": "接收视频输入，将其压缩到一个向量空间中，然后最终转化为转向和踏板输出。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0261",
+      "speakerEn": "Elon Musk",
+      "startSec": 3645.73,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0262",
+      "speakerEn": "Audience Member",
+      "startSec": 3646.77,
+      "textEn": "And Optimus.",
+      "textZh": "还有 Optimus。",
+      "speakerZh": "观众成员"
+    },
+    {
+      "id": "p-0263",
+      "speakerEn": "Elon Musk",
+      "startSec": 3649.33,
+      "textEn": "Yeah, Optimus.",
+      "textZh": "是的，Optimus。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0264",
+      "speakerEn": "Elon Musk",
+      "startSec": 3653.16,
+      "textEn": "Optimus is still at the early stages and we definitely need to be very careful with Optimus at scale once it's in production, that you have a hard coded way to turn off Optimus. For obvious reasons, I think there's got to be hard coded rom, local cutoff.",
+      "textZh": "Optimus 仍处于早期阶段，而且一旦投产，当 Optimus 形成规模时，我们绝对需要非常谨慎，要有一种硬编码的方式来关闭 Optimus。原因显而易见，我认为必须有硬编码的 ROM、本地切断装置。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0265",
+      "speakerEn": "Elon Musk",
+      "startSec": 3680.93,
+      "textEn": "No amount of updates from the Internet can change that.",
+      "textZh": "再多来自互联网的更新也无法改变这一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0266",
+      "speakerEn": "Elon Musk",
+      "startSec": 3686.53,
+      "textEn": "So we'll make sure that Optimus is quite easy to shut down.",
+      "textZh": "所以我们会确保 Optimus 很容易被关闭。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0267",
+      "speakerEn": "Elon Musk",
+      "startSec": 3693.57,
+      "textEn": "It's extremely important because at least the car is intelligent. Well, at least you can climb a tree or go up some stairs or something, you know, go in a building, but optimists can follow you in the building. So.",
+      "textZh": "这极其重要，因为至少汽车是智能的。嗯，至少你可以爬上树，或者走上几级楼梯之类的，你知道，进入一栋建筑，但乐观主义者可以跟着你进入建筑。所以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0268",
+      "speakerEn": "Elon Musk",
+      "startSec": 3710.75,
+      "textEn": "Any kind of robot that can fall in the building and that is intelligent and connected, we got to be super careful with safety.",
+      "textZh": "任何一种会在建筑物里摔倒、同时又具备智能并已联网的机器人，我们都必须对安全问题格外谨慎。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0269",
+      "speakerEn": "xAI Team",
+      "startSec": 3722.67,
+      "textEn": "Thanks.",
+      "textZh": "谢谢。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0270",
+      "speakerEn": "Elon Musk",
+      "startSec": 3725.07,
+      "textEn": "No problem.",
+      "textZh": "没问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0271",
+      "speakerEn": "Elon Musk",
+      "startSec": 3727.31,
+      "textEn": "Let's see. So any last things we should touch on.",
+      "textZh": "让我想想。那么，还有什么最后需要谈到的事情吗。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0272",
+      "speakerEn": "xAI Team",
+      "startSec": 3754.44,
+      "textEn": "It?",
+      "textZh": "它？",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0273",
+      "speakerEn": "xAI Team",
+      "startSec": 3793.81,
+      "textEn": "Yeah.",
+      "textZh": "对。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0274",
+      "speakerEn": "Audience Member",
+      "startSec": 3794.13,
+      "textEn": "So one thing I wanted to just talk about before we concluded is how impactful.",
+      "textZh": "所以在我们结束之前，我只想谈一件事，就是它有多么影响深远。",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0275",
+      "speakerEn": "xAI Team",
+      "startSec": 3804.93,
+      "textEn": "Sorry about that.",
+      "textZh": "抱歉。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0276",
+      "speakerEn": "Audience Member",
+      "startSec": 3805.53,
+      "textEn": "A little feedback is just about the impactfulness of AI as a means of, you know, providing equal opportunity to humanity from all walks of life and the important, the importance of democratizing it as far as our mission statement goes. Because if you think about, you know, the history of humanity and, you know, access to information, it wouldn't. There was, you know, before the printing press, it was incredibly hard for people to get access to new forms of knowledge and, you know, being able to provide that, you know, level of Communication to people is hugely deflationary in terms of, you know, wealth and opportunity inequality.",
+      "textZh": "一点反馈，就是关于 AI 作为一种手段所具有的影响力，你知道，它能为来自各行各业的人们提供平等机会，以及就我们的使命宣言而言，实现其民主化的重要、重要性。因为如果你思考一下，你知道，人类的历史以及，你知道，获取信息的途径，那不会。在印刷机出现之前，人们极难接触到新的知识形式，而，你知道，能够为人们提供那种，你知道，水平的沟通，能够极大缓解财富和机会不平等。",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0277",
+      "speakerEn": "Audience Member",
+      "startSec": 3846.67,
+      "textEn": "And so we're really at, like a new inflection point in the development of society when it comes to getting everyone the same potential for great outcomes, regardless of your position in life. And so when we're talking about, you know, removing the monopolization of ideas and about controlling this technology from, you know, paid subscription services, or even worse, from, you know, the political censorship that may come with whatever capital has to supply these models, we're really talking about democratizing people's opportunities to not only, you know, better their position in life, but just, you know, advance their social status in the world at an unprecedented level in history.",
+      "textZh": "所以，在让每个人都拥有取得卓越成果的同等潜力这件事上，无论你在人生中处于什么位置，我们实际上正处于社会发展的一个新拐点。因此，当我们谈论，你知道，消除思想垄断，以及不让这项技术受到，你知道，付费订阅服务的控制，甚至更糟，不让它受到，你知道，可能随着任何必须为这些模型提供资金的资本而来的政治审查控制时，我们真正谈论的是让人们的机会民主化，使他们不仅能够，你知道，改善自己在人生中的处境，还能，你知道，以历史上前所未有的程度提升自己在世界上的社会地位。",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0278",
+      "speakerEn": "Audience Member",
+      "startSec": 3891.45,
+      "textEn": "And so as a company, when we talk about the importance of truthfulness and being able to reliably trust these models, learn from them, and make scientific advancement, make societal advancements, we're really just talking about improving people's qualities of life and improving everyone, not just the top tech people in Silicon Valley who have access to to it. It's really about giving this access to everyone. And I think that's a mission that our whole team shares.",
+      "textZh": "所以，作为一家公司，当我们谈到真实性的重要性，以及能够可靠地信任这些模型、向它们学习，并取得科学进步、取得社会进步时，我们真正谈论的只是改善人们的生活质量、让每个人都得到改善，而不只是那些能够接触到它的硅谷顶尖科技人士。这真正关乎让每个人都能获得这种使用权。我认为这是我们整个团队共同认同的使命。",
+      "speakerZh": "听众"
+    },
+    {
+      "id": "p-0279",
+      "speakerEn": "xAI Team",
+      "startSec": 3929.6,
+      "textEn": "Before we sign off here. Just one last question for Elon. So assuming that XAI is successful at building human level AI, or even beyond human level AI, do you think it's reasonable to involve the public in decision making in the company, or how do you see that evolving in the long term?",
+      "textZh": "在我们结束之前。最后再问埃隆一个问题。那么，假设 xAI 成功构建了人类水平的 AI，甚至超越人类水平的 AI，你认为让公众参与公司的决策是合理的吗，或者你认为这从长远来看会如何发展？",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0280",
+      "speakerEn": "Elon Musk",
+      "startSec": 3946.54,
+      "textEn": "Yeah, as with everything, I think we're very open to critical feedback and welcome that we should be criticized.",
+      "textZh": "对，就像对待一切事情一样，我认为我们非常愿意接受批评性反馈，也欢迎批评，我们应该受到批评。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0281",
+      "speakerEn": "Elon Musk",
+      "startSec": 3956.7,
+      "textEn": "That's a good thing. Actually, one of the things that I like sort of X Twitter for is that there's plenty of negative feedback on Twitter, which is helpful for ego compression.",
+      "textZh": "那是件好事。实际上，我有点喜欢 X Twitter 的原因之一，就是 Twitter 上有大量负面反馈，这有助于压缩自我。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0282",
+      "speakerEn": "xAI Team",
+      "startSec": 3969.75,
+      "textEn": "So.",
+      "textZh": "所以。",
+      "speakerZh": "xAI 团队"
+    },
+    {
+      "id": "p-0283",
+      "speakerEn": "Elon Musk",
+      "startSec": 3978.47,
+      "textEn": "The best thing I can think of right now is that any human that wants to sort of have a vote in the future of XAI ultimately should be allowed to. So, basically, provided you can verify that you're a real human, that any human that wishes to have a vote in the future of XAI should be allowed to have a vote in the future of Xai.",
+      "textZh": "我现在能想到的最佳方案是，任何想要在某种程度上对 xAI 的未来拥有投票权的人，最终都应该被允许投票。所以，基本上，只要你能证明自己是真实的人，任何希望对 xAI 的未来进行投票的人，都应该被允许对 xAI 的未来进行投票。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0284",
+      "speakerEn": "Elon Musk",
+      "startSec": 4004.58,
+      "textEn": "Yeah, maybe there's like some normal fee, like 10 bucks or something. I don't know, 10 bucks and prove you're a human and then you can have a vote, you know, anyone who's interested.",
+      "textZh": "对，也许会收取某种正常费用，比如 10 美元之类的。我不知道，10 美元，再证明你是人类，然后你就可以投票，你知道，任何感兴趣的人都可以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0285",
+      "speakerEn": "Elon Musk",
+      "startSec": 4018.66,
+      "textEn": "That's the best thing I can think of right now, at least.",
+      "textZh": "至少目前，这是我能想到的最佳方案。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0286",
+      "speakerEn": "Elon Musk",
+      "startSec": 4023.47,
+      "textEn": "All right, cool. On that note, thanks everyone for participating and we'll keep you informed of any progress that we make and look forward to having a lot of great.",
+      "textZh": "好的，很好。就说到这里，感谢大家的参与，我们会随时向你们通报我们取得的任何进展，并期待能有许多很棒的。",
+      "speakerZh": "埃隆·马斯克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T09:27:10.245Z",
+    "reviewedAt": "2026-09-13T10:31:21.542Z"
+  },
+  "fetchedAt": "2026-09-12T07:12:17.260Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "20a06c2b7751c532eeffa4d7566b37ea0b1f25ff42f0f76dc95e6c5cf839fa72"
+}

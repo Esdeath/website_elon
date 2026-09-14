@@ -1,0 +1,2862 @@
+{
+  "id": "kpcs-elon-musk-2009",
+  "slug": "kpcs-elon-musk-2009",
+  "snapshotId": "2026-09-12",
+  "type": "interview",
+  "date": "2009-04-10",
+  "titleEn": "Kevin Pollak's Chat Show",
+  "titleZh": "凯文·波拉克的访谈节目",
+  "summaryEn": "A long-form 2009 conversation recorded days after the Tesla Model S sedan was unveiled. Musk talks through the case for electric cars, his passion for rockets, and the early struggles of Tesla and SpaceX.",
+  "summaryZh": "这是一场录制于2009年的长篇对谈，时间是在 Tesla Model S 轿车发布后的几天。马斯克详述了支持电动汽车的理由、他对火箭的热爱，以及 Tesla 和 SpaceX 早期的艰难历程。",
+  "sourceUrl": "https://www.youtube.com/watch?v=MxB7uNgS6J4",
+  "sourceLabel": "Kevin Pollak's Chat Show",
+  "archiveUrl": "https://elonmuskarchive.org/video/kpcs-elon-musk-2009",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/MxB7uNgS6J4",
+  "thumbnailUrl": "https://i.ytimg.com/vi/MxB7uNgS6J4/hqdefault.jpg",
+  "org": "Tesla",
+  "durationSec": 3570,
+  "contentKind": "dialogue",
+  "segments": [
+    {
+      "id": "p-0001",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 21.6,
+      "textEn": "My next guest, I'm going to give you a little bit of a heads up in terms of who this next gentleman is and also admit that I am coming to this interview, I think, with the freshest eyes that he's probably faced in a while. That is to say, I was an instant fan when I found out about what this man has done, but I wanted to have him on so that I could ask the. The real straightforward, simple questions, which is one of the reasons I wanted to do this show, which is to not only meet people that I admired as well as have people on that I've worked with, but when I meet people and they know me from movies or what have you, they all want to know, really the hardships and how you got from there to here, and then they want to hear about your project.",
+      "textZh": "我的下一位嘉宾，我先给大家简单介绍一下接下来这位先生是谁，同时也承认，我来做这次采访时，我想，我可能是他一段时间以来面对过的、对他了解最少的人。也就是说，当我了解到这个人的所作所为时，我立刻成了他的粉丝，但我想请他来，这样我就可以问那个。那些真正直截了当、简单的问题，这也是我想做这个节目的原因之一，也就是不仅要见到我钦佩的人，也要邀请与我合作过的人，但当我遇到人们，而他们从电影或诸如此类的东西中认识我时，他们其实都想知道那些艰辛，以及你是如何从那里走到这里的，然后他们还想听听你的项目。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0002",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 78.98,
+      "textEn": "So I think that's where we're going to start today. And I'm going to now welcome the founder and CEO of Tesla Motors as well as SpaceX. I hope I pronounced those correctly.",
+      "textZh": "所以我想，我们今天就从这里开始。现在，让我们欢迎 Tesla Motors 以及 SpaceX 的创始人兼首席执行官。我希望我的发音都正确。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0003",
+      "speakerEn": "Elon Musk",
+      "startSec": 92.34,
+      "textEn": "Yes, absolutely.",
+      "textZh": "对，完全正确。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0004",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 93.06,
+      "textEn": "And Elon Musk is also. Yeah, okay, good.",
+      "textZh": "还有埃隆·马斯克也是。对，好，很好。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0005",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 97.3,
+      "textEn": "So thank you very much. First of all, you're welcome for, for joining us here. And I also have to thank you profusely for not bolting out the door after watching the last four minutes of my show.",
+      "textZh": "所以非常感谢你。首先，欢迎你，欢迎你来这里参加我们的节目。我还必须万分感谢你，看完我节目刚才那4分钟之后没有夺门而出。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0006",
+      "speakerEn": "Elon Musk",
+      "startSec": 108.51,
+      "textEn": "It was difficult.",
+      "textZh": "这很难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0007",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 109.23,
+      "textEn": "It must have been.",
+      "textZh": "肯定很难。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0008",
+      "speakerEn": "Elon Musk",
+      "startSec": 109.95,
+      "textEn": "Yeah, yeah.",
+      "textZh": "对，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0009",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 110.47,
+      "textEn": "Because it's very different world. And I'm sure that there was a moment, at least a moment, one in your mind, that said, oh, my God,",
+      "textZh": "因为这是个截然不同的世界。而且我敢肯定，曾经有那么一刻，至少有那么一刻，你脑子里有个念头说，哦，我的天，",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0010",
+      "speakerEn": "Elon Musk",
+      "startSec": 120.87,
+      "textEn": "what am I doing here?",
+      "textZh": "我在这里干什么？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0011",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 121.59,
+      "textEn": "What have I gotten myself into? Well, here's the thing. These, these interviews. Have you been on Charlie Rose yet?",
+      "textZh": "我到底让自己卷进什么事里了？好吧，事情是这样的。这些，这些采访。你上过查理·罗斯的节目了吗？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0012",
+      "speakerEn": "Elon Musk",
+      "startSec": 129.63,
+      "textEn": "No, but I will be, I think later this month or early next.",
+      "textZh": "没有，但我会上的，我想是在这个月晚些时候或下个月初。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0013",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 132.03,
+      "textEn": "Yeah, yeah.",
+      "textZh": "对，对。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0014",
+      "speakerEn": "Elon Musk",
+      "startSec": 132.87,
+      "textEn": "Well, watch the show.",
+      "textZh": "好吧，看看这个节目。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0015",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 134.87,
+      "textEn": "Yeah, yeah. As a viewer, you understand that one of the wonderful things about his show that I'm trying so desperately to emulate blatantly is actual conversations. Throughout my career, I've been fortunate enough to do almost every talk show that's existed for the last 20 years, starting with Johnny Carson and Larry King and all of them. And they're all about little sound bites and they're all about little quick anecdotes, in my case, with punchlines and characters.",
+      "textZh": "对，对。作为一名观众，你明白他的节目有一个很棒的地方，而我正在极其拼命且明目张胆地模仿，那就是真实的对话。在我的职业生涯中，我很幸运，过去20年里几乎所有存在过的访谈节目我都上过，从约翰尼·卡森和拉里·金开始，还有所有那些节目。而它们关注的都是简短的声音片段，关注的都是简短的小轶事，就我而言，还要有笑点和人物模仿。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0016",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 163.95,
+      "textEn": "Rarely is there an opportunity to have an actual conversation and to find out more details about what it is that drives you to do what you do and got you to the place that you're at today. So thank you very much for everything you're about to share. We've got twitter.com asking questions live. We've got folks actually very excited to ask questions. I'm going to start pretty much with, you know, reading a lot about you in preparation.",
+      "textZh": "很少有机会进行一次真正的交谈，并进一步了解到底是什么驱使你去做你所做的事，又是什么让你走到今天这个位置。所以非常感谢你即将分享的一切。twitter.com 上有人正在实时提问。确实有很多人非常兴奋地想提问题。我要从，基本上就是，你知道，为了准备这次采访而读了很多关于你的资料开始。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0017",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 194.58,
+      "textEn": "All that stuff is, you know, Wikipedia and various sites to find out one's history. How old were you?",
+      "textZh": "那些东西都是，你知道，维基百科和各种网站，用来了解一个人的经历。你当时多大？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0018",
+      "speakerEn": "Elon Musk",
+      "startSec": 201.94,
+      "textEn": "It's all hit or miss.",
+      "textZh": "那些东西全都时准时不准。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0019",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 202.74,
+      "textEn": "I know it's all hit or miss. I find it to be that way. How old were you, if I may? Let's just start here. When the first vision popped into your head about working and bringing an electric car to the consumer.",
+      "textZh": "我知道全都时准时不准。我发现确实如此。如果可以问的话，你当时多大？我们就从这里开始。你第一次产生致力于将电动汽车带给消费者的构想时。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0020",
+      "speakerEn": "Elon Musk",
+      "startSec": 217.13,
+      "textEn": "Well, I've been interested in electric cars for a long time. Actually, I used to think about it quite a bit in college. So it's been probably 17, 18 years that I've been thinking about the area. In fact, I used to talk to my dates in college about the importance of electric cars.",
+      "textZh": "嗯，我对电动汽车感兴趣已经很久了。实际上，我上大学时就经常思考这件事。所以，我思考这个领域大概已经有17、18年了。事实上，我上大学约会时还会跟约会对象谈论电动汽车的重要性。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0021",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 231.29,
+      "textEn": "And how did that work out for you? Not well.",
+      "textZh": "那对你来说效果怎么样？不太好。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0022",
+      "speakerEn": "Elon Musk",
+      "startSec": 233.05,
+      "textEn": "It's not a great date conversation. No, no.",
+      "textZh": "这不是什么很适合约会的话题。不，不。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0023",
+      "speakerEn": "Elon Musk",
+      "startSec": 236.89,
+      "textEn": "In fact, I ran into someone who I briefly dated in college and she brought this up, and she's a writer for Scientific American these days and come to do an interview with me and actually mentioned that it was a memorable date.",
+      "textZh": "事实上，我遇到了一位大学时短暂约会过的人，她提起了这件事，她如今是《科学美国人》的撰稿人，来采访我，而且还真的提到那是一次令人难忘的约会。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0024",
+      "speakerEn": "Elon Musk",
+      "startSec": 256.81,
+      "textEn": "Not necessarily in a good way. Right.",
+      "textZh": "不一定是从好的方面来说。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0025",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 258.81,
+      "textEn": "One she would never forget.",
+      "textZh": "一次她永远不会忘记的约会。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0026",
+      "speakerEn": "Elon Musk",
+      "startSec": 260.17,
+      "textEn": "Yeah, absolutely. But I'm kind of a science and engineering guy. So for me, it's been obvious for a while that the future we have to figure out a way to get off oil and that the solution is electric cars. The advantage of an electric car is that you can generate that electricity by renewable means. And so if you consume the electricity, if you're running electric cars and then you're generating your power with solar, wind, geothermal, which is increasing dramatically, by the way.",
+      "textZh": "对，完全没错。但我算是个科学和工程领域的人。所以对我来说，有一件事早就很明显了：未来我们必须想办法摆脱石油，而解决方案就是电动汽车。电动汽车的优势在于，你可以通过可再生方式发电。因此，如果你使用电力，如果你在驾驶电动汽车，然后又用太阳能、风能、地热能来发电，顺便说一句，地热能正在大幅增长。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0027",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 293.85,
+      "textEn": "It sure is.",
+      "textZh": "确实如此。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0028",
+      "speakerEn": "Elon Musk",
+      "startSec": 295.09,
+      "textEn": "And if you're doing that, then you have a sustainable solution for the future. And obviously, if you're burning oil, that's something that's going to end sooner or later. And so it's better to do it sooner and avoid the environmental damage than later and have the environmental damage plus a massive wealth transfer from the United States to other countries.",
+      "textZh": "如果你这样做，那么你就有了一个面向未来的可持续解决方案。很显然，如果你在燃烧石油，那它迟早会耗尽。因此，与其晚些时候再做，既造成环境破坏，又发生财富从美国向其他国家的大规模转移，不如早点做，避免环境破坏。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0029",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 315.27,
+      "textEn": "Yeah, well, that's a big part of it too, is how do we take back control of our destiny, quite frankly. And so this idea came to you 17, 18 years ago. I think it was around that time that for the most part, those who were starting to hear rumblings of an electric car, myself included, were thinking whoever puts out a gorgeous as well as functional electric car wins in terms of exciting first a few and then the masses eventually with as the prices become more affordable to all consumers.",
+      "textZh": "对，好吧，那也是其中很重要的一部分，坦白说，就是我们如何重新掌控自己的命运。所以这个想法是在17、18年前出现在你脑海里的。我想大约就在那个时候，包括我在内，那些开始听到电动汽车风声的人大多都在想，无论是谁，只要推出一辆既漂亮又实用的电动汽车，谁就会胜出，也就是说，先让少数人兴奋起来，然后随着价格变得所有消费者都更能负担得起，最终让大众也兴奋起来。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0030",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 355.63,
+      "textEn": "Initially, what people are praising and also damning, you know, there's both sides of it. Initially you started with the Roadster, Right, The Tesla Roadster, which a huge success.",
+      "textZh": "起初，人们既有称赞，也有谴责，你知道，两边都有。起初你们从 Roadster 开始，对吧，Tesla Roadster，一个巨大的成功。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0031",
+      "speakerEn": "Elon Musk",
+      "startSec": 370.03,
+      "textEn": "It has been very successful. Yeah.",
+      "textZh": "它非常成功。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0032",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 371.63,
+      "textEn": "How. Just walk us through, if you wouldn't mind, the chronological pieces of business here, because this really is fascinating to a great many of us. From conception to rolling out that first model. Just in terms of a brief history of the. I can't imagine the hardships that took place in trying to get this thing to come to fruition.",
+      "textZh": "怎么做到的。请按时间顺序带我们了解一下这些商业环节，如果你不介意的话，因为这对我们很多人来说确实非常引人入胜。从构想到推出第一款车型。简单讲讲……的历史。我无法想象在试图让这件事成为现实时经历了多少艰难困苦。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0033",
+      "speakerEn": "Elon Musk",
+      "startSec": 392.82,
+      "textEn": "Yeah, it's certainly been technically quite difficult from a business standpoint. Quite difficult. And then it's been overlaid with a bit of a sort of soap opera from a personnel standpoint.",
+      "textZh": "是的，从技术角度看，这当然相当困难。从商业角度看，也相当困难。然后在人事方面，又叠加了一点类似肥皂剧的情节。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0034",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 403.38,
+      "textEn": "Please feel free to share all of that, whatever you're comfortable sharing. We'd love to hear whatever you can legally share.",
+      "textZh": "请随意分享所有这些，任何你愿意分享的内容。无论有什么是你在法律上可以分享的，我们都很想听听。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0035",
+      "speakerEn": "Elon Musk",
+      "startSec": 409.9,
+      "textEn": "Yeah, absolutely. Well, I'll try to actually. I'll focus on the non personnel.",
+      "textZh": "是的，当然。好吧，我会试着，实际上。我会把重点放在非人事方面。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0036",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 415.98,
+      "textEn": "Fair enough.",
+      "textZh": "很合理。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0037",
+      "speakerEn": "Elon Musk",
+      "startSec": 418.14,
+      "textEn": "Because I think that's more pertinent for the future in terms of where do we come from, where are we headed? And that kind of thing. So in starting a car company, it's obviously a high capital endeavor and particularly when you're talking about something which is a brand new technology and no one had really gotten all the pieces to work together quite right.",
+      "textZh": "因为我认为，就我们的来路、我们的去向以及诸如此类的问题而言，那与未来更为相关。所以，创办一家汽车公司显然是一项资本密集型事业，尤其是当你谈论的是一种全新的技术，而且还没有人真正把所有部分相当妥善地整合起来的时候。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0038",
+      "speakerEn": "Elon Musk",
+      "startSec": 439.34,
+      "textEn": "To create a compelling product. As far as electric cars are concerned,",
+      "textZh": "以创造出一款有吸引力的产品。就电动汽车而言，",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0039",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 442.54,
+      "textEn": "there's a couple of people who tried and companies that came and went well,",
+      "textZh": "有几个人尝试过，也有一些公司来了又走了，嗯，",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0040",
+      "speakerEn": "Elon Musk",
+      "startSec": 447.94,
+      "textEn": "and some of those companies are sort of still here today. Like General motors had the EV1, and actually if they'd continued and produced the EV2, EV3 and continued that development, there probably wouldn't have been a need for Tesla. But they didn't, unfortunately. They took those cars away from people forcibly and crushed them.",
+      "textZh": "而其中一些公司某种程度上至今仍然存在。比如通用汽车曾有 EV1，事实上，如果他们继续下去，生产 EV2、EV3，并继续这项研发，或许就没有创办 Tesla 的必要了。但遗憾的是，他们没有这么做。他们强行从人们手中收走了那些汽车，并把它们压碎了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0041",
+      "speakerEn": "Elon Musk",
+      "startSec": 471.29,
+      "textEn": "Literally crushed them. And if people have seen Chris Payne's movie who Killed the Electric Car? Which I recommend, you can see some of that.",
+      "textZh": "真的是把它们压碎了。如果大家看过克里斯·佩恩的电影《谁消灭了电动车？》——我推荐这部电影——就能看到其中一些情况。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0042",
+      "speakerEn": "Elon Musk",
+      "startSec": 480.57,
+      "textEn": "It's amazing that the people who Jim gave those EV ones to held a candlelit vigil for their cars getting crushed. I mean, can you imagine anyone holding a can look visual for a GM car?",
+      "textZh": "令人惊讶的是，那些获赠吉姆送出的 EV 1 的人，竟然为自己的汽车被压碎举行了烛光守夜活动。我的意思是，你能想象有人为一辆通用汽车举行一场“罐头样的视觉活动”吗？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0043",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 491.28,
+      "textEn": "No, I really can't.",
+      "textZh": "不，我确实无法想象。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0044",
+      "speakerEn": "Elon Musk",
+      "startSec": 492.72,
+      "textEn": "Or any product.",
+      "textZh": "或者任何产品。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0045",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 493.52,
+      "textEn": "Or any product is the point.",
+      "textZh": "重点是，或者任何产品。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0046",
+      "speakerEn": "Elon Musk",
+      "startSec": 496.64,
+      "textEn": "Why would you discontinue a product line with that level of customer interest? That's pretty amazing.",
+      "textZh": "为什么要停产一个拥有如此高客户兴趣的产品线？这相当令人惊讶。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0047",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 503.2,
+      "textEn": "Yeah, it's pretty well documented in that film. Okay, so but I'll give you the",
+      "textZh": "是的，那部电影对此有相当充分的记录。好，那么，不过我会给你……",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0048",
+      "speakerEn": "Elon Musk",
+      "startSec": 508.4,
+      "textEn": "chronology and the reasoning. Why did we start with the car that we started with? Because I do get asked the question, why are you making this expensive sports car?",
+      "textZh": "时间顺序和背后的理由。为什么我们从最初选择的那款车开始？因为我确实经常被问到这个问题：为什么你们要制造这种昂贵的跑车？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0049",
+      "speakerEn": "Elon Musk",
+      "startSec": 520.41,
+      "textEn": "Implying that we somehow think there's a shortage of sports cars in the world. Or rich people really need a break or something like that. It's absurd if you think of it, but nonetheless, people get a little confused, like why can't you make it an affordable car?",
+      "textZh": "这暗示我们不知为何认为世界上缺少跑车。或者富人确实需要得到一点优待之类的。你仔细想想，这很荒谬，但尽管如此，人们还是会有点困惑，比如你们为什么不能造一辆价格亲民的汽车？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0050",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 533.45,
+      "textEn": "I wanted to give you the opportunity to explain.",
+      "textZh": "我想给你这个解释的机会。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0051",
+      "speakerEn": "Elon Musk",
+      "startSec": 535.85,
+      "textEn": "Yeah, absolutely.",
+      "textZh": "是的，当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0052",
+      "speakerEn": "Elon Musk",
+      "startSec": 538.17,
+      "textEn": "And there are two reasons. One. One is that when you have a brand new technology, it tends to be expensive. It's almost always expensive, in fact, because the first thing you're trying to do is to make it work. And if you're just trying to make it work, you don't have an opportunity to optimize the cost. And if you think about anything new, when cell phones first came out, they were very expensive.",
+      "textZh": "这有2个原因。第1个。第1个是，当你拥有一种全新的技术时，它往往很昂贵。事实上，它几乎总是很昂贵，因为你首先要做的是让它能够运作。而如果你只是试图让它运作起来，就没有机会优化成本。如果你想想任何新事物，手机刚问世时，它们非常昂贵。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0053",
+      "speakerEn": "Elon Musk",
+      "startSec": 561.85,
+      "textEn": "Personal computers were very expensive. Even gasoline engine cars in the beginning were very, very expensive. Could only be afforded by a few people.",
+      "textZh": "个人电脑曾经非常昂贵。甚至汽油发动机汽车在一开始也非常、非常昂贵。只有少数人负担得起。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0054",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 569.68,
+      "textEn": "Absolutely.",
+      "textZh": "当然。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0055",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 571.84,
+      "textEn": "Who doesn't remember the $1,400 VCR? Right.",
+      "textZh": "谁不记得那台1,400美元的录像机？对吧。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0056",
+      "speakerEn": "Elon Musk",
+      "startSec": 575.76,
+      "textEn": "Absolutely.",
+      "textZh": "当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0057",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 576.4,
+      "textEn": "It's part of our.",
+      "textZh": "这是我们……的一部分。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0058",
+      "speakerEn": "Elon Musk",
+      "startSec": 577.52,
+      "textEn": "In fact, you can point at almost anything new innovation. It starts off expensive because the first thing you're trying to do is make it work.",
+      "textZh": "事实上，你几乎可以指向任何新的创新。它刚开始时都很昂贵，因为你首先要做的是让它能够运作。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0059",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 584.24,
+      "textEn": "Cell phones the size of a shoebox, $1,800.",
+      "textZh": "鞋盒那么大的手机，1,800美元。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0060",
+      "speakerEn": "Elon Musk",
+      "startSec": 587.28,
+      "textEn": "I remember Wall street with the guy walking around with that shoebox phone, basically. So a new technology is expensive. And then the other factor is economies of scale. So in order to make something inexpensive, you have to make a lot of it. But to put together a factory that can make hundreds of thousands of cars costs a billion dollars or more.",
+      "textZh": "我记得《华尔街》里有个人拿着那种鞋盒般的手机走来走去，基本上就是如此。所以新技术很昂贵。然后另一个因素是规模经济。因此，要想让某样东西变得便宜，你就必须大量生产。但要建成一座能够生产数十万辆汽车的工厂，需要花费10亿美元或更多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0061",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 613.33,
+      "textEn": "And who's going to take a chance?",
+      "textZh": "谁会愿意冒这个险？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0062",
+      "speakerEn": "Elon Musk",
+      "startSec": 615.33,
+      "textEn": "Right. And the thing is, it would still be silly to try to do that economies of scale thing on the first iteration of technology because it's still going to be expensive. And this is a problem that GM is starting to see with the bolt because they're having trouble bringing the cost of that car below $40,000. And that's problematic when you're talking about a car that is essentially intended to compete against gasoline cars that are in the 25 to $30,000 range.",
+      "textZh": "对。问题是，在技术的第一次迭代中尝试实现规模经济仍然是愚蠢的，因为它的成本仍然会很高。这也是通用汽车开始在 Bolt 上看到的问题，因为他们很难把那款车的成本降到40,000美元以下。而当你谈论的是一款本质上旨在与价格处于25到30,000美元区间的汽油车竞争的汽车时，这就成了问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0063",
+      "speakerEn": "Elon Musk",
+      "startSec": 642.26,
+      "textEn": "It's very important that an electric car be of comparable price to other cars of its type. So the Tesla Roadster is actually about the same price as a Porsche.",
+      "textZh": "电动汽车的价格与同类型的其他汽车相当，这一点非常重要。所以 Tesla Roadster 的价格实际上和保时捷差不多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0064",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 654.01,
+      "textEn": "In many cases less.",
+      "textZh": "很多情况下价格还要更低。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0065",
+      "speakerEn": "Elon Musk",
+      "startSec": 655.05,
+      "textEn": "Yeah. In fact, less than a Porsche Turbo. So anyway, so that's basically the reason it was the first generation of technology and we were necessarily at low volume because we didn't have the capital to go to high volume manufacturing.",
+      "textZh": "对。事实上，比保时捷 Turbo 还便宜。所以不管怎样，基本原因就是，这是第一代技术，而且我们必然只能进行小批量生产，因为我们没有资本转向大批量制造。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0066",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 670.05,
+      "textEn": "Yeah. And you weren't making an inexpensive sports car. You were making a brand new, state of the art sports car. That was some of the negativity that I didn't Understand, because it didn't seem to come from naive people. It seemed to come from people who seemed very scholar in their particular areas of expertise, who completely missed the obvious justification in terms of what kind of vehicle you were actually making from the ground up.",
+      "textZh": "对。而且你们造的并不是一款廉价跑车。你们造的是一款全新的、最先进的跑车。那些负面评价中，有一些是我无法理解的，因为它们似乎并不是来自无知的人。它们似乎来自那些在各自专业领域中显得很有学问的人，但他们完全忽略了一个显而易见的合理理由，也就是你们实际上是在从零开始制造什么类型的车辆。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0067",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 700.73,
+      "textEn": "And it being the first of its kind, I'm astounded by.",
+      "textZh": "而且它还是同类中的第一款，我对……感到非常惊叹。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0068",
+      "speakerEn": "Elon Musk",
+      "startSec": 704.96,
+      "textEn": "Well, a common misperception is that because for the roadster, we worked with Lotus and we did initially intend to use a modified Lotus Elise chassis for our car, people think, oh, it's just a modified Lotus. But actually we had to redesign almost every part of the car. And our initial thought of, well, we can just use a Lotus Elise chassis turned out not to be true because the weight distribution is all different, the load points are all different.",
+      "textZh": "嗯，一个常见的误解是，因为在 Roadster 上，我们与 Lotus 合作，而且最初确实打算为我们的汽车采用经过改装的 Lotus Elise 底盘，所以人们会想，哦，它不过是一辆改装过的 Lotus。但实际上，我们不得不重新设计这辆车几乎所有的部件。而我们最初想着，嗯，我们可以直接使用 Lotus Elise 的底盘，结果证明并非如此，因为重量分布完全不同，受力点也完全不同。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0069",
+      "speakerEn": "Elon Musk",
+      "startSec": 731.09,
+      "textEn": "Our car ended up being 30% heavier. We had to redesign almost everything. In fact, there's only 7% parts commonality between our car and Elise.",
+      "textZh": "我们的车最终重了30%。我们不得不重新设计几乎所有东西。事实上，我们的车与 Elise 之间只有7%的零部件是通用的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0070",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 738.49,
+      "textEn": "7%.",
+      "textZh": "7%。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0071",
+      "speakerEn": "Elon Musk",
+      "startSec": 739.216,
+      "textEn": "7%, in fact.",
+      "textZh": "事实上是7%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0072",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 740.25,
+      "textEn": "And those are the letters. First of all, there's five letters in Lotus, so that's a bit of the 7% right there.",
+      "textZh": "而那些就是字母。首先，Lotus 里有5个字母，所以那当场就占了7%的一部分。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0073",
+      "speakerEn": "Elon Musk",
+      "startSec": 746.45,
+      "textEn": "Well, there's no Lotus actually. There's nothing any Lotus logos on the car. Of course not, but nonetheless it is. So 7% parts commonality is actually that, that means when somebody like J.M. ford announces an all new car, that all new car has more than 7% commonality with prior cars.",
+      "textZh": "嗯，其实并没有 Lotus。车上没有任何 Lotus 标志。当然没有，但尽管如此，它是。所以，7%的零部件通用率实际上就是，这意味着当 J.M. ford 之类的公司宣布推出一款全新汽车时，那款全新汽车与以往汽车的通用率超过7%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0074",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 765.8,
+      "textEn": "Excellent point.",
+      "textZh": "说得非常好。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0075",
+      "speakerEn": "Elon Musk",
+      "startSec": 766.36,
+      "textEn": "So in other words, this is a newer new car than most new cars. Almost all new cars.",
+      "textZh": "所以换句话说，这是一款比大多数新车更新的新车。几乎所有新车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0076",
+      "speakerEn": "Elon Musk",
+      "startSec": 772.56,
+      "textEn": "And yeah, so it was tricky to bring it in for the price that we did bring it in. In fact, there was some pretty big mistakes made initially on, on the estimates of costs, and that forced us to raise the price later in order not to be shipping product at a loss.",
+      "textZh": "而且，对，所以要以我们最终实现的价格把它做出来很棘手。事实上，最初的成本估算中出现了一些相当严重的错误，这迫使我们后来提高价格，以免亏本交付产品。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0077",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 789.54,
+      "textEn": "What's the time frame from the first sort of breaking ground on the space where you're going to manufacture this car?",
+      "textZh": "从你们最初算是为将要制造这辆车的场地破土动工开始，时间跨度是多长？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0078",
+      "speakerEn": "Elon Musk",
+      "startSec": 801.22,
+      "textEn": "Obviously a prototype to be the sedan or the roads is in production.",
+      "textZh": "显然，一个原型要成为轿车，或者道路正在生产。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0079",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 806.34,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0080",
+      "speakerEn": "Elon Musk",
+      "startSec": 807.94,
+      "textEn": "How long did it take?",
+      "textZh": "花了多长时间？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0081",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 808.78,
+      "textEn": "Yeah, but I mean, they're on the road now.",
+      "textZh": "对，但我的意思是，它们现在已经上路了。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0082",
+      "speakerEn": "Elon Musk",
+      "startSec": 810.8,
+      "textEn": "Yes, yes. In fact, we've delivered over 300 cars, approaching 400 cars.",
+      "textZh": "是的，是的。事实上，我们已经交付了超过300辆车，正接近400辆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0083",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 816.08,
+      "textEn": "And when was the first one delivered?",
+      "textZh": "那么第一辆是什么时候交付的？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0084",
+      "speakerEn": "Elon Musk",
+      "startSec": 819.28,
+      "textEn": "Well, the first production car was delivered in February of last year. That was my car. But it was. I mean, the initial production rate was about one every three to four weeks. Wow. And then it's got up to two every three to four weeks before. And then, and now we're at the point where we're about 20 to 25 per week.",
+      "textZh": "嗯，第一辆量产车是在去年2月交付的。那是我的车。但它是。我的意思是，最初的生产速度大约是每3到4周生产1辆。哇。然后在之前提高到了每3到4周生产2辆。然后，然后现在我们已经达到每周大约20到25辆的水平。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0085",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 839.26,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0086",
+      "speakerEn": "Elon Musk",
+      "startSec": 840.22,
+      "textEn": "Wow.",
+      "textZh": "哇。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0087",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 840.7,
+      "textEn": "And now at what point during the roadster building process does The S model begin its drawing boards almost immediately.",
+      "textZh": "那么现在，在 Roadster 的制造过程中，是到了哪个节点，S 车型才几乎立即开始进入绘图板阶段的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0088",
+      "speakerEn": "Elon Musk",
+      "startSec": 851.98,
+      "textEn": "Well, we've been working on the Model S for about two years if you take this sort of early conceptual stuff into account.",
+      "textZh": "嗯，如果把这类早期概念工作也算进去，我们研究 Model S 已经大约2年了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0089",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 860.14,
+      "textEn": "So you really obviously have to focus everything on the roadster first, get it up and running and then. But in the back of your mind, the master plan is the Model S.",
+      "textZh": "所以很显然，你确实必须先把一切都集中在 Roadster 上，让它启动并运行起来，然后再。但是在你心里，整体规划就是 Model S。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0090",
+      "speakerEn": "Elon Musk",
+      "startSec": 870.26,
+      "textEn": "Yeah, the basic plan of action, the master plan was and is to produce an expensive car in low volume, then a lower cost car in kind of medium cost car in medium volume and then a low cost car in high volume. And that's the, the plan. That was my plan from the beginning and that remains the plan today. And we've been able to accelerate the low cost car a little bit by working with Daimler, the maker of Mercedes and Smart, to create an electric smart car.",
+      "textZh": "对，基本行动方案，也就是整体规划，过去是、现在也是先小批量生产昂贵的汽车，然后以中等产量生产一款成本较低、有点属于中等价位的汽车，再以大批量生产低成本汽车。而这就是，这个规划。这从一开始就是我的规划，今天仍然是这个规划。而且通过与梅赛德斯和 Smart 的制造商戴姆勒合作打造一款电动 Smart 汽车，我们已经能够稍微加快低成本汽车的推进速度。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0091",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 906.6,
+      "textEn": "Oh really? Yeah, that's the third phase after the",
+      "textZh": "哦，真的吗？对，那是在之后的第3阶段",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0092",
+      "speakerEn": "Elon Musk",
+      "startSec": 910.44,
+      "textEn": "Model X. I think we'll probably still do a third generation platform of our own, but as a means of accelerating low cost vehicle access, we're working with companies like Daimler to get there sooner. So my understanding is Daimler is planning to have the beginning of that thousand car test fleet on the roads towards the end of this year.",
+      "textZh": "Model X。我认为我们很可能仍会开发自己的第3代平台，但作为加快普及低成本车辆的一种手段，我们正与戴姆勒等公司合作，以便更早实现这一目标。所以据我了解，戴姆勒计划在今年年底前后让那支由1,000辆汽车组成的测试车队开始上路。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0093",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 933.94,
+      "textEn": "So you're already focusing on working with an existing manufacturer in terms of bringing the electric car to a larger consumer base.",
+      "textZh": "所以，就把电动汽车带给更庞大的消费群体而言，你们已经开始专注于与现有制造商合作了。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0094",
+      "speakerEn": "Elon Musk",
+      "startSec": 944.39,
+      "textEn": "Yeah, really. The overarching point of Tesla is to accelerate the electric car revolution. And that's going to be a combination of cars we produce and cars that we help other companies produce. In fact, we've been trying to sell our technology to Detroit and to other car companies in other parts of the world for a couple years now. And it's ironic that the really the first company to do that is not an American company, but it's a German company, Daimler.",
+      "textZh": "对，确实如此。Tesla 最根本的目标是加速电动汽车革命。而这将是我们生产的汽车与我们协助其他公司生产的汽车的结合。事实上，过去2年来，我们一直在尝试把我们的技术卖给底特律以及世界其他地区的其他汽车公司。而颇具讽刺意味的是，真正第一个这样做的公司并不是美国公司，而是一家德国公司，戴姆勒。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0095",
+      "speakerEn": "Elon Musk",
+      "startSec": 975.51,
+      "textEn": "In fact, Daimler was the one that invented the internal combustion engine car. So you know, they're the oldest car company in the world and they're actually",
+      "textZh": "事实上，戴姆勒正是发明内燃机汽车的那家公司。所以你知道，他们是世界上历史最悠久的汽车公司，而且他们实际上",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0096",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 985.51,
+      "textEn": "being here they are jumping in with",
+      "textZh": "来到这里，他们正投身于",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0097",
+      "speakerEn": "Elon Musk",
+      "startSec": 987.15,
+      "textEn": "the electric car full force.",
+      "textZh": "全力投入电动汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0098",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 989.71,
+      "textEn": "As we move into your describing the Model S and its conception, we have some photos that we can throw up and let people look at while you're talking about it.",
+      "textZh": "接下来你要介绍 Model S 及其构想过程，我们有一些照片可以放出来，让大家在你谈论它的时候看看。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0099",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1001.35,
+      "textEn": "Because I got to be honest, when I saw the roadster, I was wildly impressed, but I was waiting. I was waiting for a non sports car, more of a sedan.",
+      "textZh": "因为说实话，当我看到 Roadster 时，我印象极其深刻，但我一直在等。我在等一款非跑车，更像轿车的车型。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0100",
+      "speakerEn": "Elon Musk",
+      "startSec": 1015.15,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0101",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1015.43,
+      "textEn": "Which is what.",
+      "textZh": "也就是这款。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0102",
+      "speakerEn": "Elon Musk",
+      "startSec": 1016.069,
+      "textEn": "And most people weren't.",
+      "textZh": "而大多数人不是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0103",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1017.03,
+      "textEn": "Yeah. And I do feel like the larger audience is already chomping at the bit. And when I saw this car, I flipped out. I just could not believe something like this had been achieved when I wasn't looking. Because you did an awfully good job keeping it under wraps all these months, if not how the first prototype was completed.",
+      "textZh": "是的。而且我确实觉得更广大的受众已经迫不及待了。我看到这辆车时，简直激动坏了。我就是无法相信，在我没留意的时候，这样的东西竟然已经造出来了。因为这几个月来，你们把它保密得非常好，如果不是第一辆原型车是如何完成的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0104",
+      "speakerEn": "Elon Musk",
+      "startSec": 1042.41,
+      "textEn": "Yeah, well, the first prototype was just completed last month when we. And that's when we did the unveiling of the Model S, the first drivable prototype. We've been working on the Model S in earnest for about a little over a year.",
+      "textZh": "是啊，嗯，第一辆原型车就是上个月才完成的，当时我们。也就是在那时，我们发布了 Model S，也就是第一辆可驾驶的原型车。我们真正开始投入 Model S 的研发大约有1年多一点。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0105",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1055.12,
+      "textEn": "A little over a year, yeah. So you're saying only a week or so before you unveiled it on March 26th. Was it March 26th? Yeah.",
+      "textZh": "1年多一点，是的。所以你的意思是，就在3月26日发布它的大约1周前才完成。是3月26日吗？是的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0106",
+      "speakerEn": "Elon Musk",
+      "startSec": 1061.76,
+      "textEn": "March 26th.",
+      "textZh": "3月26日。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0107",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1062.28,
+      "textEn": "Yeah. Only a week before was it actually fully functioning and ready to be driven?",
+      "textZh": "是的。只是在1周前，它才真正完全可以运行并准备好驾驶吗？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0108",
+      "speakerEn": "Elon Musk",
+      "startSec": 1066.88,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0109",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1067.44,
+      "textEn": "That's fantastic.",
+      "textZh": "那太棒了。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0110",
+      "speakerEn": "Elon Musk",
+      "startSec": 1068.759,
+      "textEn": "Yes.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0111",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1069.08,
+      "textEn": "Because that sort of thing happens in my business. Yeah. Not fantastic for you. I can't imagine. I don't understand how you have any hair left after that sort of nail biter than in my business. That sort of thing happens all the time. People rushing to get their film ready for the Sundance Film Festival. I've seen big studio films that are still polishing and doing last minute special effects adjustments way after they've announced their release date and rushing it into theaters and oh my goodness, I can't even imagine the sort of pressure involved.",
+      "textZh": "因为那种事情在我的行业里也会发生。是啊。对你来说不太妙。我无法想象。在经历了那种令人提心吊胆的事之后，我不明白你怎么还能剩下头发，而在我的行业里，那种事情一直都在发生。人们争分夺秒，想及时为圣丹斯电影节准备好自己的影片。我见过大型制片厂的电影在已经宣布上映日期很久之后，仍在润色，并对特效进行最后一刻的调整，然后匆忙送进影院，而，天啊，我甚至无法想象其中涉及的那种压力。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0112",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1097.27,
+      "textEn": "So we've been looking at some pictures. Yeah, wonderful. We're still looking at them. Great. Because this car is so gorgeous.",
+      "textZh": "所以我们一直在看一些照片。是的，太棒了。我们还在看。很好。因为这辆车实在太漂亮了。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0113",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1107.33,
+      "textEn": "Okay, I'm going to.",
+      "textZh": "好吧，我要……",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0114",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1111.01,
+      "textEn": "I'm going to get a little selfish here and also lean this towards people like myself who want to. Who have the next series of questions which are when will this car be available to me and what is the process for me to sign up and get one now?",
+      "textZh": "我接下来要稍微自私一点，也把话题偏向像我这样想要……的人。也就是有接下来这一系列问题的人：这辆车什么时候能向我提供？我现在要通过什么流程报名并买到一辆？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0115",
+      "speakerEn": "Elon Musk",
+      "startSec": 1129.25,
+      "textEn": "Well, the car will be available in two years, which is. That's when we'll be finished with all the crash testing and all the regulatory stuff and have built out the factory. Because this is a true mass production car. In fact, the Model S will be the first mass production electric vehicle or true car, that highway capable car.",
+      "textZh": "嗯，这款车将在2年后上市，也就是。届时我们会完成所有碰撞测试和全部监管事项，并建成工厂。因为这是一款真正量产的汽车。事实上，Model S 将成为第一款量产电动交通工具，或者真正的汽车，也就是具备公路行驶能力的汽车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0116",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1148.23,
+      "textEn": "What numbers of.",
+      "textZh": "多少数量的……",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0117",
+      "speakerEn": "Elon Musk",
+      "startSec": 1149.27,
+      "textEn": "Not a golf cart type of thing.",
+      "textZh": "不是高尔夫球车那类东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0118",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1150.63,
+      "textEn": "What numbers of mass production are we talking about?",
+      "textZh": "我们说的量产数量是多少？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0119",
+      "speakerEn": "Elon Musk",
+      "startSec": 1152.23,
+      "textEn": "We're talking about 20,000 a year.",
+      "textZh": "我们说的是每年20,000辆。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0120",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1154.79,
+      "textEn": "So when you unveil. You want to have 20,000 ready?",
+      "textZh": "那么等你发布时。你想准备好20,000辆吗？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0121",
+      "speakerEn": "Elon Musk",
+      "startSec": 1157.19,
+      "textEn": "Well, we'll still be over a year.",
+      "textZh": "嗯，我们仍会超过1年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0122",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1160.79,
+      "textEn": "Roll them out.",
+      "textZh": "把它们推出去。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0123",
+      "speakerEn": "Elon Musk",
+      "startSec": 1162.02,
+      "textEn": "It'll take a little bit of time to spool up the production line. But these will be mass manufactured cars where robots are doing things as opposed to hand built cars. Because the roadster is really a hand built car. Right.",
+      "textZh": "让生产线提升产能需要一点时间。但这些会是大规模制造的汽车，由机器人来完成工作，而不是手工制造的汽车。因为 Roadster 实际上是一款手工制造的汽车。对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0124",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1175.38,
+      "textEn": "You got robots building the model.",
+      "textZh": "你们让机器人制造这个车型。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0125",
+      "speakerEn": "Elon Musk",
+      "startSec": 1177.14,
+      "textEn": "A lot of it, yeah.",
+      "textZh": "很大一部分，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0126",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1177.94,
+      "textEn": "Now I've heard everything from the third quarter of 2010 to the beginning of 2012. What's realistic for the Model S?",
+      "textZh": "现在我听到的说法从2010年第三季度到2012年初都有。Model S 现实的时间是什么时候？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0127",
+      "speakerEn": "Elon Musk",
+      "startSec": 1184.1,
+      "textEn": "Well, our aspiration is to have the first production cars available in the third quarter of above 2011. So just over two years from now. And I think it's achievable. And I think there's much less technology risk and uncertainty than there was with the Roadster. So I do feel reasonably confident that we can meet that date. Of course, it is dependent on when the Department of Energy disperses funds for the loan program that they have.",
+      "textZh": "嗯，我们的目标是在2011年以上的第三季度让首批量产车上市。也就是从现在起刚过2年。我认为这是可以实现的。而且我认为，与 Roadster 当时相比，技术风险和不确定性要小得多。所以我确实相当有信心，我们能够赶上那个日期。当然，这取决于能源部何时为他们的贷款计划发放资金。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0128",
+      "speakerEn": "Elon Musk",
+      "startSec": 1214.95,
+      "textEn": "There's something called the Advanced Technology Vehicle Manufacturing Program, which was actually put into effect by Congress last year. And then the DOE is just on the verge of awarding those loan programs. It's intended to provide a lower cost of capital to companies that are developing energy efficient cars.",
+      "textZh": "有一个叫作先进技术车辆制造计划的项目，实际上是国会去年实施的。然后美国能源部正处于批准那些贷款计划的前夕。它旨在为开发节能汽车的公司提供成本更低的资本。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0129",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1238.56,
+      "textEn": "Well, it couldn't make more sense to those of us who have been waiting for this to happen. So we're glad that they're going to pitch in. There's also going to be a $7,500 rebate.",
+      "textZh": "嗯，对于我们这些一直等待这件事发生的人来说，这再合理不过了。所以我们很高兴他们会出一份力。还会有7,500美元的退税。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0130",
+      "speakerEn": "Elon Musk",
+      "startSec": 1247.07,
+      "textEn": "There is. There is already a $7,500 rebate. That's as of January 1st. So it's a tax rebate. Applies to anyone, regardless of your tax situation.",
+      "textZh": "是的。已经有7,500美元的退税了。从1月1日起就是如此。所以这是一项税收返还。适用于任何人，无论你的纳税情况如何。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0131",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1258.35,
+      "textEn": "And the first base price is $49,900 and it goes up from there depending on the size of the battery.",
+      "textZh": "而首个基础价格是49,900美元，并会根据电池大小在此基础上上涨。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0132",
+      "speakerEn": "Elon Musk",
+      "startSec": 1263.63,
+      "textEn": "Yes. The base price of the Model S is 49,900, and that's for the basic version, which has 160 mile range. But you can get a battery pack that goes up to 300 miles in range.",
+      "textZh": "是的。Model S 的基础价格是49,900美元，这是基础版本的价格，它的续航里程是160英里。但你可以买到续航里程高达300英里的电池组。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0133",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1275.64,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0134",
+      "speakerEn": "Elon Musk",
+      "startSec": 1276,
+      "textEn": "And in fact, one of the things we think we'll probably do Is have the 300 mile packs available for rent. So if you're just using your car.",
+      "textZh": "而事实上，我们认为自己可能会做的一件事，是提供300英里电池组的租赁服务。所以如果你只是使用你的车。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0135",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1285.28,
+      "textEn": "Please do that.",
+      "textZh": "请务必这么做。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0136",
+      "speakerEn": "Elon Musk",
+      "startSec": 1285.84,
+      "textEn": "Yeah, yeah, absolutely.",
+      "textZh": "是的，是的，当然。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0137",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1286.64,
+      "textEn": "Please do that. Because this car is unbelievably exciting. And I think the instinct is much like other forms of technology, there's going to be the I want the everything package and then there's going to be a lot of people who can't really afford the everything package. They can barely get into the car as it is. But they're dying to get into this car. Sure. So that sure would be fantastic if they could rent that larger battery if and when they ever needed it.",
+      "textZh": "请务必这样做。因为这辆车令人难以置信地兴奋。而且我觉得人们的本能和面对其他形式的技术时很像，会有人想要全套配置，然后也会有很多人其实负担不起全套配置。他们勉强才能买得起这辆车。但他们非常渴望开上这辆车。当然。所以，如果他们能在需要的时候租用那块更大的电池，那肯定会非常棒。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0138",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1314.3,
+      "textEn": "Because for a lot of people, 160 miles around town as their everyday car is fantastic.",
+      "textZh": "因为对很多人来说，作为日常用车，在城里行驶160英里的续航非常棒。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0139",
+      "speakerEn": "Elon Musk",
+      "startSec": 1319.1,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0140",
+      "speakerEn": "Elon Musk",
+      "startSec": 1321.42,
+      "textEn": "Average person drives 30 miles a day. So 160 miles is five times what the average person drives in a day.",
+      "textZh": "普通人每天行驶30英里。所以160英里是普通人一天行驶里程的5倍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0141",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1327.26,
+      "textEn": "Are all three batteries. This quick charge of 45 minutes yeah,",
+      "textZh": "这3种电池都可以吗。就是这种45分钟的快速充电，是吧，",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0142",
+      "speakerEn": "Elon Musk",
+      "startSec": 1333.9,
+      "textEn": "the car will have a standard 45 minute. All cars will come with the ability to charge in 45 minutes. Now I should point out that the 45 minutes does require an off board charger. So you won't be able to use the onboard charger to do the 45 minute charge. The onboard charger you have to pull",
+      "textZh": "这辆车会标配45分钟充电。所有车辆都会具备在45分钟内充电的能力。现在我应该指出，45分钟充电确实需要车外充电器。所以你无法用车载充电器完成45分钟充电。而使用车载充电器，你就得靠——",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0143",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1347.5,
+      "textEn": "over and take the battery out.",
+      "textZh": "——边停车，再把电池取出来。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0144",
+      "speakerEn": "Elon Musk",
+      "startSec": 1351.02,
+      "textEn": "No, you just need, you need to just go to a charging station that's kind of an industrial strength charging station because that's a lot of power. More than most houses are capable of delivering. But the onboard charger that's built into the car will be capable of recharging the car in about three to four hours.",
+      "textZh": "不，你只需要，你只需要去一个充电站，那种工业级的充电站，因为那需要很大的功率。比大多数住宅能够提供的功率都大。不过，内置于车内的车载充电器将能在大约3到4小时内给车充满电。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0145",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1367.62,
+      "textEn": "So overnight you plug the car in.",
+      "textZh": "所以晚上把车插上电就行。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0146",
+      "speakerEn": "Elon Musk",
+      "startSec": 1369.5,
+      "textEn": "Yeah, no problem.",
+      "textZh": "是的，没问题。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0147",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1370.5,
+      "textEn": "And is it going to be like my computer where I can overcharge it and then it's bad for the computer. I don't want to leave it plugged in overnight.",
+      "textZh": "那它会不会像我的电脑一样，我可能给它过度充电，然后这会损害电脑。我可不想让它整夜插着电。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0148",
+      "speakerEn": "Elon Musk",
+      "startSec": 1376.7,
+      "textEn": "There's a lot of intelligence in the battery pack. It won't allow itself to be charged incorrectly.",
+      "textZh": "电池组里有很多智能系统。它不会让自己以错误的方式充电。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0149",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1381.3,
+      "textEn": "Excellent. Will I get better servers than AT&T than I do with my iPhone? Is the real question here? The computer on board? Yeah, but before I get to that, there's one thing that Wired magazine wrote a very, I thought, supportive article about the Model S. And then there's all sorts of debates going on in the comment section of that article.",
+      "textZh": "太好了。我能获得比我的iPhone所用的AT&T更好的服务器吗？这才是真正的问题？车载电脑？是的，不过在谈这个之前，《连线》杂志写了一篇关于Model S的文章，我觉得非常支持它。然后那篇文章的评论区里出现了各种各样的争论。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0150",
+      "speakerEn": "Elon Musk",
+      "startSec": 1407.23,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0151",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1407.63,
+      "textEn": "And a lot of naysayers, as always, they line up like idiots.",
+      "textZh": "而且像往常一样，很多唱反调的人像一群白痴似的排起队来。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0152",
+      "speakerEn": "Elon Musk",
+      "startSec": 1412.51,
+      "textEn": "We seem to. Tesla seems to generate a bipolar response.",
+      "textZh": "我们似乎是这样。Tesla 似乎会引发两极化的反应。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0153",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1415.83,
+      "textEn": "Well, yeah, you know what, that's fantastic though. I mean, if anything it should challenges you to rise above all questions and inquiries and be able to answer them all and be able to attribute the genius and expertise of your design people and yourself. Because I do understand also that you've as an engineer yourself have really been at the forefront of the design.",
+      "textZh": "嗯，是啊，你知道吗，不过这太棒了。我的意思是，如果说有什么影响的话，那就是它应该促使你迎难而上，超越所有质疑和询问，能够一一作答，并且能够说明你们设计人员和你自己的天才与专业能力。因为据我了解，你自己作为一名工程师，也确实一直处在设计工作的最前沿。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0154",
+      "speakerEn": "Elon Musk",
+      "startSec": 1440.28,
+      "textEn": "Yeah, I started to think of the right title, but a good description would be Product Architect. So at Tesla we do have a chief Technology Officer at JB Straubel who's been with the company from the beginning and really is the person most responsible for leading the technology of Tesla. He's a great guy and also like to credit France von Holzhausen in terms of the design of the Model S. And the way I look at it is I sort of work with them and the other members of the Tesla team to create a great product because I think great companies are building great products.",
+      "textZh": "是啊，我开始考虑合适的头衔，不过一个不错的描述应该是产品架构师。所以在 Tesla，我们确实有一位首席技术官 JB·斯特劳贝尔，他从公司成立之初就一直在这里，而且确实是领导 Tesla 技术工作最主要的负责人。他人非常好，在 Model S 的设计方面，我也想把功劳归于弗朗斯·冯·霍尔茨豪森。我的看法是，我算是与他们以及 Tesla 团队的其他成员一起合作，打造一款出色的产品，因为我认为伟大的公司都在打造伟大的产品。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0155",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1474.66,
+      "textEn": "Yeah, well, yes. Hell yes. Forgive me for reading this, but I don't want to miss this and I Want to. I was hoping I could put this to you to address the why is the Model S still so expensive? Question. A wonderful article in Wired magazine written by Chuck Squatriglia once. I'm sure I'm destroying his name. I'm sorry.",
+      "textZh": "是啊，嗯，是的。绝对是。请原谅我照着念，但我不想漏掉这一点，而且我想。我一直希望能把这个问题交给你来回答：为什么 Model S 仍然这么贵？《连线》杂志上曾有一篇很棒的文章，由查克·斯夸特里利亚撰写。我肯定把他的名字念得一塌糊涂。抱歉。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0156",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1496.9,
+      "textEn": "Very supportive of design. Not only the car, but the master plan in general of Tesla Motors to roll out the so called more exp of models first with the $109,000 Roadster and then now the 49,000 up to 54,000. I think it is Model S. Tons of comments posted. One reader, obviously an EV driver hit on some wonderful points that I wanted your feedback on. That really sort of drove a point home that I don't think a lot of people are considering and that is wildly ignored.",
+      "textZh": "非常支持这一设计。不仅是这款车，也支持 Tesla Motors 总体上的宏伟计划，即先推出所谓更昂……的车型，先是109,000美元的 Roadster，然后现在是49,000到54,000。我想是 Model S。下面发布了大量评论。有一位读者，显然是一名电动汽车驾驶者，提出了一些很精彩的观点，我想听听你的反馈。那确实可以说把一个要点讲透了，我认为很多人都没有考虑到这一点，而且这一点被极度忽视了。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0157",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1530.4,
+      "textEn": "I think when you know these people are considering the sticker price only as opposed to the fuel and maintenance. And when you own a car, you pay for more than just the initial purchase price. You also pay for fuel and maintenance. And it is these two very important unavoidable truths that EV costs. A miniscule of what the ICE or internal combustion engine costs. The EV motor has only one moving part on the roadster and presumably the Model S the only regular.",
+      "textZh": "我认为，你知道，这些人只考虑标价，而没有考虑燃料和维护费用。当你拥有一辆车时，你支付的不只是最初的购车价格。你还要支付燃料和维护费用。而正是这两个非常重要且无法回避的事实，电动汽车的成本。只是 ICE，也就是内燃机成本的极小一部分。Roadster 上的电动汽车电机只有一个运动部件，想必 Model S 也是，唯一需要定期的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0158",
+      "speakerEn": "Elon Musk",
+      "startSec": 1561.17,
+      "textEn": "This is true. Well, technically there are some gears, but yeah, right.",
+      "textZh": "确实如此。嗯，严格来说还有一些齿轮，不过，是的，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0159",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1565.97,
+      "textEn": "Regular maintenance items really are brakes and tires.",
+      "textZh": "常规保养项目其实就是刹车和轮胎。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0160",
+      "speakerEn": "Elon Musk",
+      "startSec": 1569.25,
+      "textEn": "Not even the brakes actually, because regenerative braking means that your brake pads see very little wear.",
+      "textZh": "其实甚至连刹车都不用，因为再生制动意味着你的刹车片几乎不会磨损。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0161",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1573.37,
+      "textEn": "I love this. The EVs actual fuel cost, they've narrowed it down to 2 to 3 cents per mile. Sounds familiar.",
+      "textZh": "我喜欢这个。电动汽车的实际燃料成本，他们已经把范围缩小到每英里2到3美分。听起来很耳熟。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0162",
+      "speakerEn": "Elon Musk",
+      "startSec": 1581.01,
+      "textEn": "That's about right.",
+      "textZh": "差不多就是这样。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0163",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1581.65,
+      "textEn": "So if you keep your Model S for the average of 10 year 100,000 mile lifespan, you replace your tires, brakes, which are not the case for say $1,000 each time. Again, these numbers can vary. And pay up $3,000 for the fuel. Over this hundred thousand miles, your 49,900 purchase price only increases to around 54,900. The IRS says driving a ICE internal combustion engine car costs 50.5 cents per mile inclusive of fuel maintenance.",
+      "textZh": "所以，如果你的 Model S 使用期限达到平均10年、100,000英里的寿命，你更换轮胎、刹车，而情况并不是，比如说每次$1,000。再说一次，这些数字可能会有变化。再支付$3,000的燃料费。在这100,000英里期间，你49,900的购买价格只会增加到约54,900。美国国税局称，驾驶一辆 ICE 内燃机汽车的成本是每英里50.5美分，其中包括燃料和维护。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0164",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1617.56,
+      "textEn": "At that rate over the lifespan, the same lifespan, Ford Taurus with a sticker price of $25,000 increases over that lifespan to $7500-075500-75500. Theoretically. Therefore, the ICE car with a sticker price of zero would still cost more than the Model S after those hundred thousand miles. I don't think people have done that math in terms of the initial investment. Oh my God, it's so much more than a Taurus.",
+      "textZh": "按照这个比率，在整个寿命期间，也就是相同的寿命期间，一辆标价$25,000的福特 Taurus 在这段寿命期间会增加到$7500-075500-75500。理论上。因此，一辆标价为零的 ICE 汽车在那100,000英里后仍然会比 Model S 花费更多。我觉得人们没有从初始投资的角度算过这笔账。我的天，它比 Taurus 贵太多了。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0165",
+      "speakerEn": "Elon Musk",
+      "startSec": 1646.32,
+      "textEn": "Yeah, well, actually, I think perhaps the best way to Address that question is not even to have people do the math because we will have our car for lease. And so if you take our lease cost and the lease cost of a gasoline car and you add in the cost of ridiculous, the cost of fuel and maintenance on the gasoline car and the cost of electricity and maintenance on the electric car, then you have the savings from the beginning.",
+      "textZh": "是的，嗯，实际上，我认为回答那个问题最好的方式或许甚至不是让人们自己计算，因为我们会提供汽车租赁。所以，如果你把我们的租赁费用和汽油车的租赁费用拿来，再加上荒谬的成本、汽油车的燃料和维护成本，以及电动汽车的电费和维护成本，那么你从一开始就能省钱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0166",
+      "speakerEn": "Elon Musk",
+      "startSec": 1671.41,
+      "textEn": "There's no need to add this up over five, seven years or whatever. You can simply say how much is transportation costing me every month? And you will have the savings from day one.",
+      "textZh": "没必要把这笔账累计计算5年、7年或者随便多少年。你可以直接问，每个月的交通出行花了我多少钱？而且你从第一天起就会有所节省。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0167",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1680.41,
+      "textEn": "But I will shove people out of the way who want a lease so that I can get one so that I can buy one.",
+      "textZh": "但我会把那些想租赁的人推开，好让我能弄到一辆，好让我能买一辆。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0168",
+      "speakerEn": "Elon Musk",
+      "startSec": 1685.93,
+      "textEn": "If you do that, in fact, we're going to put a calculator on our website, hopefully in the next week or two so you can plug in and you can say, okay, what do you think the price of gasoline is going to be? And you can put in the price of gasoline and what's your electricity cost and the cost of electricity and then we'll say what's the probable operating cost per month? And then how does that compare and compare that to cars of different types?",
+      "textZh": "如果你这么做，事实上，我们会在网站上放一个计算器，希望是在接下来1周或2周内，这样你就可以输入数据，你可以说，好吧，你认为汽油价格会是多少？然后你可以输入汽油价格，还有你的电费是多少，再输入电费，然后我们会告诉你每月可能的运营成本是多少？接着它相比之下如何，并把它与不同类型的汽车进行比较？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0169",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1710.62,
+      "textEn": "It becomes pretty clear, doesn't it?",
+      "textZh": "这就变得很清楚了，不是吗？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0170",
+      "speakerEn": "Elon Musk",
+      "startSec": 1712.219,
+      "textEn": "Yeah. And then it's pretty obvious that if you assume that gasoline is going to get back up above $4 a gallon, which I think that's a certainty, in fact, I think it's going to go way beyond that. And then you put in the cost of electricity, particularly if you have time of use meters like in places like California where you can get 7 cents a kilowatt hour, then our car is comparable to a Ford Taurus.",
+      "textZh": "是的。然后很明显，如果你假设汽油价格会重新涨到每加仑$4以上，而我认为这是必然的，事实上，我认为它会远远超过这个水平。然后你再输入电费，尤其是如果你使用分时电表，比如在加利福尼亚州之类的地方，每千瓦时电只要7美分，那么我们的车就能与福特 Taurus 相媲美。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0171",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1735.93,
+      "textEn": "Well, let's talk about what you need in your home to keep this car charged on a regular basis. What sort of setup do you need electrically?",
+      "textZh": "好吧，我们来谈谈，为了让这辆车能够定期充电，你家里需要什么。电力方面需要什么样的配置？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0172",
+      "speakerEn": "Elon Musk",
+      "startSec": 1746.73,
+      "textEn": "You really don't need much of anything. You can, if you are only driving say 30 miles a day or something like that, you can actually plug it, charge it out of a regular 110 volt socket, typically plug it in like",
+      "textZh": "你其实几乎什么都不需要。你可以，如果你每天只开，比如说30英里左右，你其实可以把它插上，用普通的110伏插座充电，通常就像插上",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0173",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1759.32,
+      "textEn": "it's a hair dryer for overnight. In terms of your range, your range is going to lower though.",
+      "textZh": "电吹风一样充一整夜。就你的续航里程而言，不过你的续航里程会降低。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0174",
+      "speakerEn": "Elon Musk",
+      "startSec": 1765.68,
+      "textEn": "Well, 110 volt supply will generate, will recharge about five or six miles an hour. So if you're say driving 30 miles a day and you charge it for just for six hours, you've topped it up essentially. So that's certainly possible.",
+      "textZh": "嗯，110伏电源每小时能产生、能补充大约5或6英里的续航里程。所以，如果你每天开30英里，并且只充电6小时，基本上就已经把电补满了。所以这当然是可行的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0175",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1782.57,
+      "textEn": "You want unplug the toaster and plug in the car.",
+      "textZh": "你会拔掉烤面包机的插头，给汽车插上电源。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0176",
+      "speakerEn": "Elon Musk",
+      "startSec": 1786.57,
+      "textEn": "So it is worthwhile. And we actually have many roadster customers that operate the car on that basis.",
+      "textZh": "所以这是值得的。实际上，我们有许多 Roadster 客户就是以这种方式使用汽车的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0177",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1791.77,
+      "textEn": "That's fantastic.",
+      "textZh": "太棒了。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0178",
+      "speakerEn": "Elon Musk",
+      "startSec": 1792.73,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0179",
+      "speakerEn": "Elon Musk",
+      "startSec": 1794.81,
+      "textEn": "And that comes along with the base price. And then if you want to do a faster charge, the next step up would be a 240 volt 40amp circuit which is comparable to a dryer. So it's like a dryer plug.",
+      "textZh": "而且这包含在基础价格里。然后，如果你想更快充电，下一级就是一个240伏、40安培的电路，与烘干机的电路相当。所以它就像烘干机插座。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0180",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1807.06,
+      "textEn": "Wow.",
+      "textZh": "哇。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0181",
+      "speakerEn": "Elon Musk",
+      "startSec": 1807.54,
+      "textEn": "So it doesn't cost very. It costs a couple hundred bucks to install a dryer outlet in your garage. And again, that just operates off the onboard charge from the car. So you just plug it in like it's a dryer or a range or something like that. And that'll charge a lot faster. That'll charge the car in seven or eight hours.",
+      "textZh": "所以它的费用不会很。花几百美元就能在你的车库里安装一个烘干机插座。而且同样，这只是利用汽车的车载充电装置运行。所以你只要把它插上，就像插烘干机、炉灶或类似设备一样。而且这样充电会快得多。它能在7或8小时内把车充好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0182",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1824.1,
+      "textEn": "Full charge.",
+      "textZh": "充满。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0183",
+      "speakerEn": "Elon Musk",
+      "startSec": 1824.7,
+      "textEn": "Full charge, yeah.",
+      "textZh": "充满，是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0184",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1825.5,
+      "textEn": "And the quick charge will be only available at these charging stations.",
+      "textZh": "而快速充电只能在这些充电站使用。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0185",
+      "speakerEn": "Elon Musk",
+      "startSec": 1830.09,
+      "textEn": "Yeah, the quick charge.",
+      "textZh": "是的，快速充电。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0186",
+      "speakerEn": "Elon Musk",
+      "startSec": 1832.89,
+      "textEn": "We're talking about something which is.",
+      "textZh": "我们说的是一种。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0187",
+      "speakerEn": "Elon Musk",
+      "startSec": 1836.09,
+      "textEn": "It's a lot of power. I mean, 45 minutes. You're talking about something which is on the order of a 60 kilowatt power source. There's very few houses that you break the massive circuit on.",
+      "textZh": "它需要很大的功率。我的意思是，45分钟。你说的是大约60千瓦量级的电源。很少有房子是你在上面切断大型电路的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0188",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1850.01,
+      "textEn": "Most it's a bad idea. Yeah.",
+      "textZh": "大多数，这是个坏主意。是的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0189",
+      "speakerEn": "Elon Musk",
+      "startSec": 1852.09,
+      "textEn": "And it's overkill and unnecessary for a house. But I do think a lot of businesses may choose to install that for their employees and that where this will really come in handy is when you're going between cities. So there's three ways that we've addressed the range issue on the model S. One is by offering a range up to 300 miles. And like I said, we're also hoping to be able to say, allow people to buy the 160 mile range car and then rent the 300 mile range pack as needed.",
+      "textZh": "而且对一栋房子来说，这有些过头，也没有必要。但我确实认为，许多企业可能会选择为员工安装这种设备，而它真正派上用场的地方，是你在城市之间行驶的时候。所以，我们通过3种方式解决了 Model S 的续航问题。第一种是提供最高300英里的续航里程。而且就像我说的，我们还希望能够，比如说，让人们购买续航160英里的汽车，然后在需要时租用续航300英里的电池包。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0190",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1879.81,
+      "textEn": "You'll give them a map of where these charging stations are along the route. So if they want to drive across country, you'll let them know where. Yeah.",
+      "textZh": "你们会给他们一张地图，标出沿途这些充电站的位置。所以，如果他们想驾车横穿全国，你们会告诉他们在哪里。是的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0191",
+      "speakerEn": "Elon Musk",
+      "startSec": 1886.22,
+      "textEn": "In fact, you mentioned that the touchscreen. The car will be 3G connected to 3G wireless connected all the time. So you won't need a map. You can just ask the car, take me to the next charge. Next charging station and it'll give you a selection of locations.",
+      "textZh": "事实上，你提到了那个触摸屏。这辆车会连接3G，会一直保持3G无线连接。所以你不需要地图。你只要问汽车，带我去下一个充电。下一个充电站，它就会给你一系列地点供你选择。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0192",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1902.98,
+      "textEn": "If you could, if there's any way you could put in a phrasing that just at some point the car says, stop busting my balls. I just want to put that out there. Let's go to.",
+      "textZh": "如果你能，如果你有任何办法加入一句话，让汽车在某个时刻说，别再烦我了。我只是想把这个建议提出来。我们转到。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0193",
+      "speakerEn": "Elon Musk",
+      "startSec": 1910.9,
+      "textEn": "Actually, we are going to off. We are going to offer, you know what, how can you show a receipt?",
+      "textZh": "实际上，我们会提。我们会提供，你知道吗，你怎么能出示收据？",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0194",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1915.34,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0195",
+      "speakerEn": "Elon Musk",
+      "startSec": 1916.67,
+      "textEn": "We are going to offer themes so you can actually theme your. Because it's all just a big screen. You have a 17 inch center console screen and you've got a smaller sort of Display screen on the front, you can theme your car. So if you just like you sort of theme your desktop or your cell",
+      "textZh": "我们会提供主题，这样你就真的可以给你的……设置主题。因为它全都只是一块大屏幕。你有一块17英寸的中控台屏幕，前面还有一块较小的那种显示屏，你可以给你的车设置主题。就像你会给桌面或你的移动……",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0196",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1933.71,
+      "textEn": "phone, give it a little cynicism, give it a little.",
+      "textZh": "电话设置主题一样，给它一点讥讽感，给它一点。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0197",
+      "speakerEn": "Elon Musk",
+      "startSec": 1936.51,
+      "textEn": "Yeah, absolutely playful. And there'll be people that probably want to write applications that do various things. And your center console is a full fledged computer running Linux. So it's something where it'll have a browser if you want to browse and search the web, do your email while not driving, while not driving, while charging.",
+      "textZh": "对，绝对可以很有趣。而且可能会有人想编写能做各种事情的应用程序。你的中控台是一台运行Linux的成熟计算机。所以它会配有浏览器，如果你想浏览和搜索网页、处理电子邮件，可以在不开车时、不开车时、充电时做这些事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0198",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1960.29,
+      "textEn": "If you want to go sit down,",
+      "textZh": "如果你想去坐下来，",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0199",
+      "speakerEn": "Elon Musk",
+      "startSec": 1961.45,
+      "textEn": "it could do things like read out your email for you.",
+      "textZh": "它可以做一些事情，比如为你朗读电子邮件。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0200",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1964.33,
+      "textEn": "Yeah, no. Did you show any pictures of this monitor when we ran through.",
+      "textZh": "对，不。我们刚才浏览的时候，你展示过这块显示器的任何图片吗？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0201",
+      "speakerEn": "Elon Musk",
+      "startSec": 1969.17,
+      "textEn": "Okay.",
+      "textZh": "好的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0202",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 1969.8,
+      "textEn": "If you want to throw them back up now that we're talking about it, if you have that one isolated. Because it is pretty astounding, that whole part of it. And people go to the website Tesla Motors, they can do a little more research in terms of what you're offering in that monitor because it is wildly extensive. If there's anything else in it that you do want to address.",
+      "textZh": "既然我们现在谈到它了，如果你们有单独截出的那张，就把它们再放出来吧。因为它的整个这一部分确实相当惊人。而且人们可以去Tesla Motors网站，进一步了解你们在那块显示器中提供的功能，因为它的功能极其广泛。如果其中还有什么是你确实想谈谈的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0203",
+      "speakerEn": "Elon Musk",
+      "startSec": 1990.2,
+      "textEn": "Well, we are taking advantage of economies of scale from the computer business, which is a lot bigger than the car business in unit volume. You've got hundreds of millions of computers shipping every year, whereas you've got a much smaller number of cars shipping every year now less than ever, Right? Absolutely. So by putting in 17 inch monitors in the computer business these days are dirt cheap. And so it's really not that expensive for us to do this.",
+      "textZh": "嗯，我们正在利用计算机行业的规模经济，而计算机行业按出货量计算比汽车行业大得多。每年有数亿台计算机出货，而每年的汽车出货量要少得多，现在比以往任何时候都少，对吧？完全正确。所以如今在计算机行业装入17英寸显示器便宜得不得了。因此，对我们来说做这件事其实并没有那么贵。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0204",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2020.19,
+      "textEn": "Right. Well, what it is is cutting edge and that's one of the things that makes the car so unbelievably desirable.",
+      "textZh": "对。嗯，它的确是尖端技术，而这正是让这款车令人难以置信地向往的因素之一。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0205",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2028.11,
+      "textEn": "What about, they're asking here twitter.com for the next generation of road vehicles, what would they be when the electric car have become obsolete? Wow. People are going on to the next generation beyond the electric car. I'm not sure that's for this discussion.",
+      "textZh": "那这个呢，他们在twitter.com上问，下一代道路交通工具会是什么，等电动汽车过时后会是什么？哇。人们已经开始考虑电动汽车之后的下一代了。我不确定这是不是该在这次讨论中谈的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0206",
+      "speakerEn": "Elon Musk",
+      "startSec": 2050.91,
+      "textEn": "Electric car is a long term sol.",
+      "textZh": "电动汽车是一种长期解……",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0207",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2052.89,
+      "textEn": "Yeah. You know there's, as you were pointing out in terms of how to power the electricity, that's where we can diversify. Be it water, be it solar power, be it wind. Yeah, I'm not sure wind is the correct word.",
+      "textZh": "对。你知道，正如你在如何为电力提供能源这个问题上指出的那样，我们可以在那里实现多样化。无论是水力、太阳能，还是风力。对，我不确定“风力”这个词是否正确。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0208",
+      "speakerEn": "Elon Musk",
+      "startSec": 2066.17,
+      "textEn": "There may be. I mean the only thing I could see as being, as potentially being a change is, and this is speculative, is a switch from batteries to high energy density capacitors. In fact, I originally came out to California to do a PhD at Stanford in the material science and physics of high energy density capacitors for use in electric cars. That's what initially brought me to Silicon Valley. And Then ended up putting that on hold.",
+      "textZh": "可能会有。我的意思是，我唯一能想到可能会成为一种变化的东西是，而且这只是推测，就是从电池转向高能量密度电容器。事实上，我最初来到加利福尼亚，是为了在斯坦福攻读高能量密度电容器的材料科学与物理学博士学位，用于电动汽车。最初正是这件事把我带到了硅谷。然后最终把这件事搁置了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0209",
+      "speakerEn": "Elon Musk",
+      "startSec": 2091.37,
+      "textEn": "Started a couple Internet companies, but it was. So I think that's a possibility. I'm not sure whether success is one of the possible outcomes, but it's a possibility.",
+      "textZh": "创办了几家互联网公司，但那是。所以我认为这是一种可能性。我不确定成功是否是可能的结果之一，但这是一种可能性。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0210",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2101.17,
+      "textEn": "Any chance for a flux capacitor?",
+      "textZh": "有没有可能装一个通量电容器？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0211",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2106.2,
+      "textEn": "Well, Marty, where's the flux capacitor? Sorry, I did that on a dare.",
+      "textZh": "好吧，马蒂，通量电容器在哪里？抱歉，我是因为别人激我才这么说的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0212",
+      "speakerEn": "Elon Musk",
+      "startSec": 2112.04,
+      "textEn": "I suppose you could call it a flux capacitor. Flux just means sort of flow, right. Of anything. You know, you flex it, energy, flux, anything.",
+      "textZh": "我想你可以把它叫作通量电容器。通量只是某种流动的意思，对吧。任何东西的流动。你知道，你让它弯曲，能量、通量，任何东西。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0213",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2119.32,
+      "textEn": "So ask Elon how we can help Tesla Motors get the federal loan. And also where the factory. The factory here in Los Angeles. I don't know if you want to get specifics about. Where in Los Angeles is it that the SpaceX, where you have the.",
+      "textZh": "所以问问埃隆，我们怎样才能帮助 Tesla Motors 获得联邦贷款。还有工厂在哪里。这里洛杉矶的工厂。我不知道你是否想谈得具体一些。SpaceX 在洛杉矶的什么地方，就是你拥有那个……",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0214",
+      "speakerEn": "Elon Musk",
+      "startSec": 2136.53,
+      "textEn": "Yeah, the Tesla design studio is inside the SpaceX rocket factory and the design center is in Southern California. Because the world's best automotive design talent is actually right here in Southern California.",
+      "textZh": "对，Tesla 设计工作室就在 SpaceX 火箭工厂内部，设计中心位于南加利福尼亚。因为世界上最优秀的汽车设计人才实际上就在南加利福尼亚这里。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0215",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2146.93,
+      "textEn": "You're welcome.",
+      "textZh": "不客气。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0216",
+      "speakerEn": "Elon Musk",
+      "startSec": 2148.53,
+      "textEn": "It's true. And Franz von Holzhausen, our designer, head of design, was based here when he worked at Mazda before joining us. And it's just a really big temple, so. And rather than go rent a whole separate space, it was just easier to allocate some space in the SpaceX rocket factory for the Tesla design. Also made it also very convenient for me to work with Franz, who's a great guy to work with. We're very much on the same wavelength.",
+      "textZh": "是真的。而我们的设计师、设计主管弗朗茨·冯·霍尔茨豪森在加入我们之前为马自达工作时，就驻在这里。而且这里就是一座非常大的庙，所以。与其另外租一整块地方，不如直接在 SpaceX 火箭工厂里划出一些空间用于 Tesla 的设计，这样更容易。这也让我能够非常方便地与弗朗茨合作，他是个很棒的合作伙伴。我们非常合拍。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0217",
+      "speakerEn": "Elon Musk",
+      "startSec": 2177.89,
+      "textEn": "It's great, actually. So as far as helping on the DOE front, I actually think we're okay. Definitely. Any voice of support is great. You know, mentioning it to your congressman or senator, that does help, right? Yeah, absolutely. Absolutely.",
+      "textZh": "其实这很棒。所以说到在能源部这方面提供帮助，我实际上认为我们没问题。肯定的。任何支持的声音都很棒。你知道，向你的众议员或参议员提起这件事，那确实有帮助，对吧？对，绝对有。绝对有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0218",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2196.22,
+      "textEn": "If they feel a groundswell, if they feel that the public. There's a public demand. Yeah.",
+      "textZh": "如果他们感受到一股民意浪潮，如果他们觉得公众……存在公众需求。对。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0219",
+      "speakerEn": "Elon Musk",
+      "startSec": 2200.62,
+      "textEn": "I think it's helpful to let your congressman and senator know that you think companies like Tesla should get a portion of the ATVM program. And I should mention what we're asking for is really a tiny. We're only asking for about 1 1/2% of the ATVM program. The vast majority of it will go to GM, Ford, Chrysler, they'll get 98%.",
+      "textZh": "我认为，让你的众议员和参议员知道，你认为像 Tesla 这样的公司应该获得 ATVM 项目的一部分资金，是有帮助的。而且我应该说明，我们要求的其实是很小的一点。我们要求的仅仅是 ATVM 项目约1 1/2%的资金。绝大部分都会给通用、福特、克莱斯勒，他们会得到98%。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0220",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2223.77,
+      "textEn": "One and a half percent.",
+      "textZh": "1.5%。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0221",
+      "speakerEn": "Elon Musk",
+      "startSec": 2224.61,
+      "textEn": "You're asking. Yeah, we're asking for 1.5%. I think it's not a big ask.",
+      "textZh": "你们要求的是。对，我们要求1.5%。我认为这不算过分的要求。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0222",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2230.73,
+      "textEn": "Can we get Barack on the phone, people? Tyler Krug, what are you laughing about?",
+      "textZh": "各位，我们能把巴拉克叫到电话旁吗？泰勒·克鲁格，你在笑什么？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0223",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2239.85,
+      "textEn": "Yeah, it doesn't seem unreasonable at all to be asking for the 1.5%.",
+      "textZh": "对，要求这1.5%似乎一点也不过分。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0224",
+      "speakerEn": "Elon Musk",
+      "startSec": 2245.8,
+      "textEn": "I think we can probably put it to better use than gm.",
+      "textZh": "我想我们或许能比通用更好地利用这笔钱。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0225",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2248.52,
+      "textEn": "Yes. Well, you know what? I would love to have them in this room. And watch that debate. Quite frankly, SpaceX came first and it is a thriving industry that only recently actually stepped up its game, or so it seems, from what I'm reading. You want to share some of the Latest news?",
+      "textZh": "是的。好吧，你知道吗？我很希望他们也在这个房间里。然后观看那场辩论。坦率地说，SpaceX 是先成立的，而且它是一个蓬勃发展的行业，只是最近才真正提升了自己的水平，至少从我读到的内容来看似乎如此。你想分享一些最新消息吗？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0226",
+      "speakerEn": "Elon Musk",
+      "startSec": 2277.9,
+      "textEn": "Well, SpaceX, we got to orbit last year, which is a fairly big deal.",
+      "textZh": "嗯，SpaceX，我们去年进入了轨道，这是一件相当重大的事情。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0227",
+      "speakerEn": "Elon Musk",
+      "startSec": 2284.14,
+      "textEn": "Our rocket is arguably the first completely privately developed rocket to reach orbit, although there's some dispute on that front. But it's unequivocally the first liquid fuel privately developed rocket to reach orbit. And that's a tough thing. Most countries can't do that. So it's a.",
+      "textZh": "我们的火箭可以说是第一枚完全由私营部门开发并进入轨道的火箭，尽管这一点存在一些争议。但毫无疑问，它是第一枚由私营部门开发并进入轨道的液体燃料火箭。而这是一件困难的事。大多数国家都做不到。所以这是一个……",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0228",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2301.96,
+      "textEn": "And how many years did that take?",
+      "textZh": "那花了多少年？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0229",
+      "speakerEn": "Elon Musk",
+      "startSec": 2304.8,
+      "textEn": "That was six years from start to reaching.",
+      "textZh": "从开始到实现，花了6年。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0230",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2310.08,
+      "textEn": "And so when the money is just evaporating as you're pouring all the time and energy in your life into this vision, how often people want to hear about the struggle? How often does the thought enter your mind? You know, it's just, it's too much. There's other things I want to do with my life because I have to assume this is all consuming for you.",
+      "textZh": "所以，当你把生命中所有的时间和精力都投入这个愿景，而资金却不断蒸发时，人们有多常想听你讲述这段挣扎？你有多常产生这种念头？你知道，这实在是太多了。我这辈子还想做其他事情，因为我不得不假设，这占据了你的全部精力。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0231",
+      "speakerEn": "Elon Musk",
+      "startSec": 2332.63,
+      "textEn": "Well, I spend a lot of time with my kids. I mean, there's really just, I guess, four things that I do. There's SpaceX and Tesla, which take about roughly half of my business time each. Then there's my kids, and then I sleep. I mean, that's like four things I do and often sleep doesn't. I don't get a lot of sleep.",
+      "textZh": "嗯，我花很多时间陪孩子。我的意思是，我所做的其实只有，我想，4件事。有 SpaceX 和 Tesla，它们分别大约占我工作时间的一半。然后是我的孩子，然后我睡觉。我的意思是，这差不多就是我做的4件事，而睡觉往往并不。我睡得不多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0232",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2354.93,
+      "textEn": "That becomes the commodity, doesn't it?",
+      "textZh": "那就成了稀缺资源，不是吗？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0233",
+      "speakerEn": "Elon Musk",
+      "startSec": 2356.57,
+      "textEn": "Yeah, it was definitely difficult. The fourth quarter of last year was very difficult and yeah, it was. Well, it was very difficult for everyone, I think.",
+      "textZh": "是的，确实很困难。去年第四季度非常困难，是的，确实如此。嗯，我觉得对所有人来说都非常困难。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0234",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2367.93,
+      "textEn": "Yeah, for everyone. Until we found out, of course, that Britney Spears is back. And then it all sort of lightened our load a little bit.",
+      "textZh": "是的，对所有人都是。直到我们当然发现布兰妮·斯皮尔斯复出了。然后这一切算是稍微减轻了我们的负担。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0235",
+      "speakerEn": "Elon Musk",
+      "startSec": 2373.33,
+      "textEn": "Absolutely. There was a glimmer of hope.",
+      "textZh": "当然。出现了一线希望。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0236",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2376.73,
+      "textEn": "Right, well put. That's what I would have called it as well, a glimmer. So six years from the design and from the vision, and then last year your first complete orbit.",
+      "textZh": "对，说得好。我也会这么称呼它，一线希望。那么，从设计和愿景提出至今已有6年，然后去年你们首次完成了完整轨道飞行。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0237",
+      "speakerEn": "Elon Musk",
+      "startSec": 2391.66,
+      "textEn": "Yeah, absolutely. We came close on our second and third flights. We did reach space, but we did not reach orbital velocity in our second and third flights. And then our fourth flight, we reached orbital velocity. And then we've got another flight coming up towards the end of this month and that's going to deliver a satellite for Malaysia.",
+      "textZh": "是的，完全正确。我们的第2次和第3次飞行都很接近了。我们确实进入了太空，但在第2次和第3次飞行中没有达到轨道速度。然后在第4次飞行中，我们达到了轨道速度。接着，本月底左右我们还会进行另一次飞行，那次将为马来西亚运送一颗卫星。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0238",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2412.73,
+      "textEn": "You have to take on some commercial cargo.",
+      "textZh": "你们得承接一些商业货物。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0239",
+      "speakerEn": "Elon Musk",
+      "startSec": 2416.17,
+      "textEn": "Yeah, yeah, absolutely. We have a wide variety of customers, actually. NASA is our biggest customer by far, but we have many other customers as well. Sweden is a customer, Malaysia, as I mentioned, Canada.",
+      "textZh": "是的，是的，当然。实际上，我们的客户种类非常广泛。NASA是我们遥遥领先的最大客户，但我们也有许多其他客户。瑞典是客户，还有我提到的马来西亚，以及加拿大。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0240",
+      "speakerEn": "Elon Musk",
+      "startSec": 2432.15,
+      "textEn": "And then we also have some purely commercial customers. We'll be launching a satellite for Avanti, which is a European broadcast satellite company.",
+      "textZh": "然后我们还有一些纯商业客户。我们将为Avanti发射一颗卫星，那是一家欧洲广播卫星公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0241",
+      "speakerEn": "Elon Musk",
+      "startSec": 2442.79,
+      "textEn": "And. Yeah, so expound a little bit if",
+      "textZh": "还有。对，所以详细谈一点，如果",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0242",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2445.75,
+      "textEn": "you can with your relationship with NASA, because I think this is pretty fascinating, quite frankly.",
+      "textZh": "可以的话，谈谈你与NASA的关系，因为坦率地说，我觉得这非常引人入胜。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0243",
+      "speakerEn": "Elon Musk",
+      "startSec": 2450.55,
+      "textEn": "Yeah, well, I love NASA. I want to say that NASA is awesome.",
+      "textZh": "是的，嗯，我热爱NASA。我想说NASA棒极了。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0244",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2455.59,
+      "textEn": "Well, they believe in you. So I tend to agree with people who agree with me. So I understand where you're coming from.",
+      "textZh": "嗯，他们相信你。所以我往往赞同那些赞同我的人。因此我理解你的出发点。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0245",
+      "speakerEn": "Elon Musk",
+      "startSec": 2462.38,
+      "textEn": "Yeah, NASA's actually been really supportive and SpaceX would not have gotten as far as it did without NASA's help. So I want to acknowledge that. And in December of last year, NASA actually gave us the contract to be the replacement for the space shuttle as far as cargo is concerned. So the space shuttle retires at the end of next year. And then NASA does have a long term plan for developing a launch vehicle and a spacecraft called the Ares Orion Project, but that's intended to go back to the moon and that's only going to see flight probably around the 2016 time frame.",
+      "textZh": "是的，NASA其实一直非常支持我们，如果没有NASA的帮助，SpaceX不可能走到今天这一步。所以我想承认这一点。去年12月，NASA实际上把在货运方面接替航天飞机的合同交给了我们。航天飞机将在明年年底退役。然后NASA确实有一项长期计划，要开发一种运载火箭和一艘名为“战神-猎户座计划”的航天器，但它的目标是重返月球，而且大概要到2016年前后才会飞行。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0246",
+      "speakerEn": "Elon Musk",
+      "startSec": 2505.7,
+      "textEn": "So there's kind of a gap of five or six years.",
+      "textZh": "所以中间大约会有5年或6年的空档期。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0247",
+      "speakerEn": "Elon Musk",
+      "startSec": 2510.5,
+      "textEn": "But we still have a space station up there that we've got to service. So what do we do during that gap? And that's why NASA took the unprecedented step of saying, okay, let's see what the private sector can do and let's.",
+      "textZh": "但我们在太空中仍有一座需要维护的空间站。那么在这段空档期内我们该怎么办？这就是NASA采取前所未有的举措，说，好吧，让我们看看私营部门能做些什么，然后让我们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0248",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2522.75,
+      "textEn": "You stepped up.",
+      "textZh": "你们挺身而出了。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0249",
+      "speakerEn": "Elon Musk",
+      "startSec": 2523.79,
+      "textEn": "Yeah, yeah, we did. And so NASA felt confident enough to award.",
+      "textZh": "是的，是的，我们这么做了。所以NASA有足够的信心授予。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0250",
+      "speakerEn": "Elon Musk",
+      "startSec": 2531.15,
+      "textEn": "They actually had a competition and there were 20 missions and we got 12 of the 28 of them were awarded to another company, Orbital Sciences. And then there was a third competitor which was a joint venture of Boeing, Lockheed and Align Tech Systems, which actually did not get any of the missions. So that was a big upset.",
+      "textZh": "他们实际上举行了一场竞标，共有20次任务，我们拿到了其中12次，其中28次被授予了另一家公司Orbital Sciences。然后还有第3个竞争者，是波音、洛克希德和Align Tech Systems成立的一家合资企业，但它实际上一次任务也没拿到。所以那是一次大冷门。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0251",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2549.64,
+      "textEn": "A huge upset.",
+      "textZh": "一个超级大冷门。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0252",
+      "speakerEn": "Elon Musk",
+      "startSec": 2550.76,
+      "textEn": "Yeah, yeah.",
+      "textZh": "对，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0253",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2552.04,
+      "textEn": "I mean, I wouldn't blame any of your engineers when that moment happened if they sort of rallied together and said suck it to those people.",
+      "textZh": "我是说，当那个时刻到来时，如果你们的工程师们聚到一起，对那些人说“吃瘪去吧”，我不会责怪他们中的任何一个。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0254",
+      "speakerEn": "Elon Musk",
+      "startSec": 2559.64,
+      "textEn": "Right. So it was.",
+      "textZh": "对。所以那是。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0255",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2565.16,
+      "textEn": "I knew I could break it.",
+      "textZh": "我就知道我能把它打破。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0256",
+      "speakerEn": "Elon Musk",
+      "startSec": 2567.4,
+      "textEn": "Very lucky to find companies, of course.",
+      "textZh": "当然，非常幸运能找到公司。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0257",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2569.44,
+      "textEn": "Please, they're doing just fine without my little cynicism.",
+      "textZh": "得了吧，没有我这点小小的冷嘲热讽，他们也过得很好。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0258",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2576.84,
+      "textEn": "So you're well established now with your relationship with NASA. They're clearly depending on you. You've won this competition.",
+      "textZh": "所以你们现在与NASA的关系已经非常稳固了。他们显然正依赖你们。你们赢得了这场竞标。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0259",
+      "speakerEn": "Elon Musk",
+      "startSec": 2582.68,
+      "textEn": "They really are depending on us. And so it's actually quite a big responsibility which we take very seriously. And so we're working very hard to make sure we don't let them down.",
+      "textZh": "他们确实正依赖我们。所以这实际上是一项相当重大的责任，我们非常认真地对待它。因此我们正非常努力地工作，确保不会让他们失望。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0260",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2593,
+      "textEn": "Yeah. And you were just in Washington just before the Model S announcement, right. About the.",
+      "textZh": "是的。而且就在发布Model S之前，你刚去过华盛顿，对吧。关于那个。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0261",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2602.16,
+      "textEn": "Well, tell us what you were.",
+      "textZh": "嗯，告诉我们你当时是。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0262",
+      "speakerEn": "Elon Musk",
+      "startSec": 2603.84,
+      "textEn": "Actually, I'm in Washington quite a lot because there's a lot of interests there, both for SpaceX and Tesla.",
+      "textZh": "实际上，我经常去华盛顿，因为那里有许多利益相关事项，SpaceX和Tesla两方面都有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0263",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2611.28,
+      "textEn": "There was a bit of an announcement right before the March 26th. You were there. I was reading something where you had to address a group.",
+      "textZh": "就在 3 月 26 日之前有过一点消息公布。你当时在场。我读到过一些内容，说你必须向一群人讲话。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0264",
+      "speakerEn": "Elon Musk",
+      "startSec": 2621.84,
+      "textEn": "Maybe it was the satellite. There's a big satellite conference in D.C. every year. Yeah. So, yeah, I gave a. A keynote there. Right, yeah. And that was just basically giving people an Update on where SpaceX is and what progress we're making.",
+      "textZh": "也许是那个卫星。每年在华盛顿特区都会举行一场大型卫星会议。是的。所以，是的，我在那里做了一个。一个主题演讲。对，是的。而那基本上就是向人们介绍 SpaceX 目前的情况，以及我们正在取得什么进展。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0265",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2635.93,
+      "textEn": "That's what I was reading about.",
+      "textZh": "我读到的就是这个。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0266",
+      "speakerEn": "Elon Musk",
+      "startSec": 2636.97,
+      "textEn": "Yeah, yeah, yeah. So, yeah, just basically telling people where we are. And we're expecting to launch our big rocket, the Falcon 9, with the dragon spacecraft later this year.",
+      "textZh": "对，对，对。所以，对，基本上就是告诉人们我们进展到哪一步了。我们预计会在今年晚些时候发射我们的大型火箭猎鹰 9 号，搭载龙飞船。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0267",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2652.33,
+      "textEn": "Right. I think you were discussing the Falcon 9.",
+      "textZh": "对。我想你当时在谈猎鹰 9 号。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0268",
+      "speakerEn": "Elon Musk",
+      "startSec": 2654.95,
+      "textEn": "Right. The vehicles we've launched to date are the Falcon 1, which is a much smaller vehicle. So Falcon 9 is very big. In fact, it's going to be the most powerful single core vehicle in the US fleet. By single core, I mean without using side boosters. And then the Falcon 9 heavy, which is the Falcon 9 with side boosters, will actually be the highest payload capable vehicle in the world.",
+      "textZh": "对。我们迄今发射的运载器是猎鹰 1 号，它是一种小得多的运载器。所以猎鹰 9 号非常大。事实上，它将成为美国运载器队伍中推力最强的单芯级运载器。我所说的单芯级，是指不使用侧助推器。而猎鹰 9 号重型，也就是配有侧助推器的猎鹰 9 号，实际上将成为全世界有效载荷能力最高的运载器。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0269",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2678.87,
+      "textEn": "And when did you share that piece of news? Was that something that was.",
+      "textZh": "那你是什么时候分享这条消息的？那是不是某种已经。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0270",
+      "speakerEn": "Elon Musk",
+      "startSec": 2681.64,
+      "textEn": "It's actually. That's been on our website for a while, though. I'm not sure people believed we'd actually do it.",
+      "textZh": "其实。这在我们的网站上已经放了一段时间了。不过我不确定人们是否相信我们真的会做到。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0271",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2685.08,
+      "textEn": "Yeah, I'm sure there were people waiting for that announcement and also now waiting for the failure. You must have a lot of the surrounding people, I mean people who are competitive with you, I speak of who part of them want you to succeed because it opens up opportunities for them. But at the same time, if it's anything at all, like the business of show, there's such competition that even those who succeed feel the sense of there isn't enough to go around and if you succeed, it means I won't.",
+      "textZh": "对，我相信有人一直在等那项宣布，而现在也在等着它失败。你周围一定有很多这样的人，我是说那些与你竞争的人，其中一部分人希望你成功，因为这会为他们带来机会。但与此同时，如果这哪怕有一点像演艺行业，竞争都会激烈到即使是那些成功的人也会觉得机会不够所有人分，如果你成功，就意味着我不会成功。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0272",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2720.83,
+      "textEn": "Is there more of a camaraderie from your standpoint?",
+      "textZh": "从你的角度来看，大家是否更有一种同舟共济的感觉？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0273",
+      "speakerEn": "Elon Musk",
+      "startSec": 2724.11,
+      "textEn": "Well, it depends on who you're talking about. So there's some companies where we are a great enabler because we're fundamentally. SpaceX is in the transportation business. And if transportation improves, then those who use transportation will find that their business has improved, just as when they finished the transcontinental railway in the early days of early history of the United States, it was a huge boon to businesses in the East Coast.",
+      "textZh": "嗯，这取决于你说的是谁。所以对一些公司而言，我们是一个强大的推动者，因为从根本上说，我们。SpaceX 从事的是运输业务。而如果运输得到改善，那么使用运输服务的人就会发现他们的业务也得到了改善，就像在美国早期历史的早期建成横贯大陆铁路时一样，那对东海岸的企业是一个巨大的福音。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0274",
+      "speakerEn": "Elon Musk",
+      "startSec": 2753.58,
+      "textEn": "Businesses, people could travel back and forth, goods could transfer a lot easier. So it was really helpful to everyone, except probably the stagecoach companies.",
+      "textZh": "企业、人们可以往返旅行，货物可以更容易地转运。所以这确实对所有人都有帮助，可能只有驿站马车公司除外。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0275",
+      "speakerEn": "Elon Musk",
+      "startSec": 2764.01,
+      "textEn": "They didn't like it that much.",
+      "textZh": "他们没那么喜欢它。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0276",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2764.89,
+      "textEn": "No, they didn't.",
+      "textZh": "不，他们没有。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0277",
+      "speakerEn": "Elon Musk",
+      "startSec": 2767.93,
+      "textEn": "So I think there's more of the space business that wants us to succeed than doesn't want us to succeed.",
+      "textZh": "所以我认为，航天行业里希望我们成功的要比不希望我们成功的更多。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0278",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2777.29,
+      "textEn": "So are you Feeling more scrutiny about the Model S in terms of competitiveness. Because here's just based on the documentary, the Killing of the Electric Cars. This has happened before. The name itself, Tesla, comes from someone who is obviously squashed by the bigger electric companies.",
+      "textZh": "那么，就竞争而言，你是否感到 Model S 正受到更多审视。因为这里仅根据纪录片《谁消灭了电动车》，这种事以前发生过。Tesla 这个名字本身就来自一个显然受到更大型电力公司打压的人。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0279",
+      "speakerEn": "Elon Musk",
+      "startSec": 2795.94,
+      "textEn": "Nikola Tesla did pretty well for most of his life, although he went kind of bonkers at the end. Hopefully that doesn't happen to me.",
+      "textZh": "尼古拉·特斯拉一生中的大部分时间都过得相当不错，尽管他最后有点疯疯癫癫。希望这种事不会发生在我身上。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0280",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2802.02,
+      "textEn": "Yes, we're all pulling for that, but I mean, in terms of who got credit for what, that seemed to be the struggle. In terms of the memory. If you ask your average American on the street what they know about Nikolai, it says you're not going to get a lot of.",
+      "textZh": "是的，我们都希望如此，但我的意思是，就谁因为什么而获得赞誉而言，那似乎才是争议所在。就人们的记忆而言。如果你问街头的普通美国人，他们对尼古拉了解多少，这说明你不会得到很多。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0281",
+      "speakerEn": "Elon Musk",
+      "startSec": 2816.95,
+      "textEn": "Yeah, Edison. I think in the popular mindset, Tesla gets less notice than Edison.",
+      "textZh": "对，爱迪生。我认为在大众观念中，特斯拉受到的关注少于爱迪生。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0282",
+      "speakerEn": "Elon Musk",
+      "startSec": 2827.59,
+      "textEn": "In the sort of scientific world, Tesla gets more attention and more credit than Edison. And they both. I think they're both really great men and did amazing things and a little bit of rivalry is probably a good thing.",
+      "textZh": "在某种科学界中，特斯拉受到的关注和获得的赞誉比爱迪生更多。而且他们两人。我认为他们两人都是真正伟大的人，做出了了不起的事情，而一点点竞争可能是件好事。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0283",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2844.62,
+      "textEn": "It's a great thing.",
+      "textZh": "这是件很棒的事。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0284",
+      "speakerEn": "Elon Musk",
+      "startSec": 2846.14,
+      "textEn": "So I think they're both great. We thought we'd recognize Tesla in naming the car company better than naming it the Elon Car Company or something like that.",
+      "textZh": "所以我认为他们两人都很伟大。我们觉得，用 Tesla 为汽车公司命名来向特斯拉致敬，比把它命名为埃隆汽车公司之类的更好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0285",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2857.66,
+      "textEn": "I'm proud of you for letting that go. Sure crossed your mind at some point. All right, how many people have signed up, already officially signed up and are awaiting delivery on the Model S?",
+      "textZh": "我为你能放弃那个想法而感到骄傲。它肯定曾在某个时候闪过你的脑海。好吧，已经有多少人预订了，正式预订并正在等待 Model S 交付？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0286",
+      "speakerEn": "Elon Musk",
+      "startSec": 2869.15,
+      "textEn": "I don't know the exact number today, but we're well over 500. Over 500.",
+      "textZh": "我不知道今天的确切数字，但已经远远超过 500 人。超过 500 人。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0287",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2873.79,
+      "textEn": "How do I build the next one?",
+      "textZh": "我怎么造下一辆？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0288",
+      "speakerEn": "Elon Musk",
+      "startSec": 2875.55,
+      "textEn": "Oh, just go to the website. You can just click the button.",
+      "textZh": "哦，直接去网站就行。你只需点击那个按钮。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0289",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2878.07,
+      "textEn": "I've got you right here. Are there forms that we could fill out right now?",
+      "textZh": "你本人就在我面前。有没有我们现在就能填写的表格？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0290",
+      "speakerEn": "Elon Musk",
+      "startSec": 2882.11,
+      "textEn": "Literally, you can.",
+      "textZh": "真的，你可以。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0291",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2883.63,
+      "textEn": "How easy is this? So you go to the website and you follow the simple instructions, clicking, yes, me. I want one.",
+      "textZh": "这有多容易？所以你去网站，按照简单的说明操作，点击，是的，我。我要一辆。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0292",
+      "speakerEn": "Elon Musk",
+      "startSec": 2888.91,
+      "textEn": "As someone who did PayPal, you can imagine that I have a big focus on making things really easy. Nice job online.",
+      "textZh": "作为做过 PayPal 的人，你可以想象，我非常重视让事情变得真正容易。网站做得不错。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0293",
+      "speakerEn": "Elon Musk",
+      "startSec": 2898.32,
+      "textEn": "So we spend a lot of time at PayPal trying to make things super easy. And actually, if somebody goes to the Tesla Motors, just go to teslamotors.com click on the buy tab. You should be able to put down a reservation for a Model s in under five minutes.",
+      "textZh": "所以我们在 PayPal 花了很多时间，试图让事情变得极其容易。实际上，如果有人访问 Tesla Motors，只需进入 teslamotors.com，点击购买选项卡。你应该能在 5 分钟内支付 Model S 的预订款。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0294",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2912.8,
+      "textEn": "I like that a lot.",
+      "textZh": "我非常喜欢这一点。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0295",
+      "speakerEn": "Elon Musk",
+      "startSec": 2914,
+      "textEn": "It's a $5,000 reservation, which is refundable, and I'm personally standing behind the reservation payments. So if anyone is concerned about us going out of business, the only thing you should worry about is if I get hit by a bus. And I'm trying to cover that one as well by getting some key man insurance in place. So if I do get hit by a bus, just really there's the bus factor.",
+      "textZh": "预订款是 5,000 美元，可以退款，而且我本人为这些预订款作担保。所以，如果有人担心我们倒闭，你唯一应该担心的是我被公共汽车撞到。而我也正试图通过落实一些关键人物保险来涵盖这种情况。所以如果我确实被公共汽车撞到，真的，这就是公共汽车因子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0296",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2935.97,
+      "textEn": "That's still an opportunity. I was just thinking, oh, I have buses in LA.",
+      "textZh": "那仍然是个机会。我刚才在想，哦，我在洛杉矶有公共汽车。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0297",
+      "speakerEn": "Elon Musk",
+      "startSec": 2939.73,
+      "textEn": "Fortunately, I'm safe.",
+      "textZh": "幸运的是，我很安全。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0298",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2940.69,
+      "textEn": "500 people times $5,000. You should be able to cover that fairly easily.",
+      "textZh": "500 人乘以 5,000 美元。你应该能相当容易地承担这笔钱。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0299",
+      "speakerEn": "Elon Musk",
+      "startSec": 2944.7,
+      "textEn": "Yeah, it's not going to. I don't think it's going to be. I don't think people's deposit. Well, we can't call it a deposit for legal reasons, but people's reservation payment is, I think, is safe.",
+      "textZh": "是的，不会的。我认为不会。我不认为人们的押金会。嗯，出于法律原因，我们不能称它为押金，但我认为，人们支付的预订款是安全的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0300",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2957.18,
+      "textEn": "But I'm glad we were able to uncover the bus factor. This is very important, I think, to a lot of customers. They need to know.",
+      "textZh": "不过，我很高兴我们能揭示这个公交车因素。我认为，这对很多客户来说非常重要。他们需要知道。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0301",
+      "speakerEn": "Elon Musk",
+      "startSec": 2964.38,
+      "textEn": "Well, I mean, there's still. I mean, there's a tiny bit of risk.",
+      "textZh": "嗯，我是说，还是有。我是说，还是有一点点风险。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0302",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2967.42,
+      "textEn": "Your kryptonite, apparently, is the bus.",
+      "textZh": "显然，你的氪石就是公交车。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0303",
+      "speakerEn": "Elon Musk",
+      "startSec": 2969.74,
+      "textEn": "Right. Well, so there's always a tiny bit of risk. And the tiny bit of risk would be if Tesla goes out of business and I lose all of my assets.",
+      "textZh": "对。嗯，所以总会有一点点风险。这个很小的风险就是，如果 Tesla 倒闭，而我失去了我的全部资产。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0304",
+      "speakerEn": "Elon Musk",
+      "startSec": 2981.4,
+      "textEn": "And don't die.",
+      "textZh": "而且没死。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0305",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2983.16,
+      "textEn": "And don't die.",
+      "textZh": "而且没死。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0306",
+      "speakerEn": "Elon Musk",
+      "startSec": 2983.92,
+      "textEn": "And don't die.",
+      "textZh": "而且没死。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0307",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2984.48,
+      "textEn": "There's the rub.",
+      "textZh": "症结就在这里。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0308",
+      "speakerEn": "Elon Musk",
+      "startSec": 2986.68,
+      "textEn": "And for the rest of my life, I'm never able to repay. To build up my assets to the point where people can be repaid. That would be the circumstance under which people would lose their money.",
+      "textZh": "而且在我的余生里，我永远都无力偿还。无法把我的资产重新积累到足以偿还人们款项的程度。那就是人们会损失钱的情形。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0309",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 2993.48,
+      "textEn": "You know what? I'm glad you did the math on that, because I'm sure a lot of people have. Also,",
+      "textZh": "你知道吗？我很高兴你算过这笔账，因为我相信很多人也算过。另外，",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0310",
+      "speakerEn": "Elon Musk",
+      "startSec": 3002.12,
+      "textEn": "If bus does hit me, it needs to kill me, not partially paralyze me or something.",
+      "textZh": "如果公交车确实撞上我，那它得把我撞死，而不是让我半身瘫痪之类的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0311",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3007.06,
+      "textEn": "For those of you who currently call bus driving your profession, do us all a favor and stay the hell away from this man. If at all possible, hit the dog. If I may, Mr. Musk, I cannot thank you enough for sharing as much as you have. I would love to. To have you on again in terms of watching the progress of SpaceX as well as Tesla, because I am wildly curious and I know an awful lot of people are as well that are just starting to discover what's been going on now in your life for the last six years, in the case of SpaceX, in the last Roadster, rather, and now the last couple years with the Model S and waiting with bated breath to see where this company is going and praying with you and for you, that it succeeds beyond your dreams.",
+      "textZh": "在座那些目前以开公交车为职业的人，请帮我们大家一个忙，离这个人远远的。要是实在没办法，就撞那条狗。容我说一句，马斯克先生，你分享了这么多，我真是感激不尽。我非常希望。以后能再次请你来，一起关注 SpaceX 和 Tesla 的进展，因为我好奇得不得了，而且我知道，也有非常多的人同样好奇；他们才刚刚开始发现，在过去6年里你的生活中都发生了什么——就 SpaceX 而言；在上一辆 Roadster，更确切地说，以及现在 Model S 这过去几年里——大家都屏息等待着，想看看这家公司将走向何方，并与你一同祈祷，也为你祈祷，愿它取得超越你梦想的成功。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0312",
+      "speakerEn": "Elon Musk",
+      "startSec": 3068.72,
+      "textEn": "Thanks. Actually, you know what? You haven't touched on any personal stuff, which is fine, but, you know, I",
+      "textZh": "谢谢。其实，你知道吗？你还没有触及任何私人方面的事情，这没关系，不过，你知道，我",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0313",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3073.32,
+      "textEn": "didn't want to, but I'm happy to go there.",
+      "textZh": "本来不想谈，但我很乐意谈这个。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0314",
+      "speakerEn": "Elon Musk",
+      "startSec": 3075.76,
+      "textEn": "What would you like to talk about? Well, there is a common misperception which does sort of drive me crazy a little bit. Okay.",
+      "textZh": "你想谈什么？嗯，有一种常见的误解，确实有点把我逼疯了。好。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0315",
+      "speakerEn": "Elon Musk",
+      "startSec": 3084.09,
+      "textEn": "You know, I sort of. My wife and I are getting. Or my ex Wife and I are getting divorced and we been there. Yeah, yeah.",
+      "textZh": "你知道，我算是。我妻子和我正在。或者说，我前妻和我正在离婚，我们已经经历过了。对，对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0316",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3094.77,
+      "textEn": "So sorry.",
+      "textZh": "太遗憾了。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0317",
+      "speakerEn": "Elon Musk",
+      "startSec": 3095.93,
+      "textEn": "The divorce filing took place in sort of June of last year, and so it takes a while for these things to get done.",
+      "textZh": "离婚申请大概是在去年6月提出的，所以这些事情办完需要一段时间。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0318",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3100.97,
+      "textEn": "Boy, does it.",
+      "textZh": "可不是嘛。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0319",
+      "speakerEn": "Elon Musk",
+      "startSec": 3101.69,
+      "textEn": "Yeah. And although my ex wife, to her credit, made it clear in her blog that the marriage was over for reasons that had nothing to do with anyone else, in fact, she wanted to get divorced at least as much as I did, if not more.",
+      "textZh": "是的。而且值得肯定的是，我的前妻在她的博客中明确说明，这段婚姻结束的原因与其他任何人都无关；事实上，她至少和我一样想离婚，如果不是比我更想的话。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0320",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3119.14,
+      "textEn": "That takes a little stress and guilt away. Sure.",
+      "textZh": "那多少能减轻一点压力和内疚感。当然。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0321",
+      "speakerEn": "Elon Musk",
+      "startSec": 3122.1,
+      "textEn": "Right.",
+      "textZh": "对。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0322",
+      "speakerEn": "Elon Musk",
+      "startSec": 3125.54,
+      "textEn": "There have been a few articles which have said that I left my wife and five kids for someone else.",
+      "textZh": "有几篇文章说，我为了别人离开了妻子和5个孩子。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0323",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3131.3,
+      "textEn": "I'm glad you brought this up. I wasn't about to go there, but for God's sakes, let's clear a little air here. That would be very frustrating to me as well if that was in press releases and articles written about me when I was trying to change the face of the automobile business. But, yeah, let's talk about it.",
+      "textZh": "我很高兴你提到了这件事。我本来不打算谈这个，但看在上帝的分上，我们来澄清一下吧。如果我正试图改变汽车行业的面貌，而新闻稿和介绍我的文章里却这么写，我也会感到非常沮丧。不过，是的，我们来谈谈吧。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0324",
+      "speakerEn": "Elon Musk",
+      "startSec": 3147.64,
+      "textEn": "Well, it's. Whatever you'd like to share. If I read that about someone, I would think, what a dick.",
+      "textZh": "嗯，这个。你想分享什么都可以。如果我读到关于某个人的这种说法，我会想，真是个混蛋。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0325",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3151.84,
+      "textEn": "All right.",
+      "textZh": "好吧。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0326",
+      "speakerEn": "Elon Musk",
+      "startSec": 3153.76,
+      "textEn": "And that would be true if it were true. But actually it's not, because I would never leave my kids. In fact, I see them five days a week.",
+      "textZh": "如果这是真的，那这种想法确实没错。但实际上不是，因为我绝不会离开我的孩子。事实上，我每周有5天会见到他们。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0327",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3162.08,
+      "textEn": "They keep you from sleeping. We talked about that before. Yeah, yeah. What are the age range of these five children of yours?",
+      "textZh": "他们让你睡不了觉。我们之前谈过这个。是的，是的。你的这5个孩子年龄分别多大？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0328",
+      "speakerEn": "Elon Musk",
+      "startSec": 3169.53,
+      "textEn": "Well, the twins are turning five and the triplets are two and a half. Wow.",
+      "textZh": "嗯，双胞胎就要5岁了，三胞胎2岁半。哇。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0329",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3175.45,
+      "textEn": "Twins and triplets.",
+      "textZh": "双胞胎和三胞胎。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0330",
+      "speakerEn": "Elon Musk",
+      "startSec": 3176.61,
+      "textEn": "Yeah.",
+      "textZh": "是的。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0331",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3177.05,
+      "textEn": "That makes the five.",
+      "textZh": "这样就是5个。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0332",
+      "speakerEn": "Elon Musk",
+      "startSec": 3178.01,
+      "textEn": "Wow.",
+      "textZh": "哇。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0333",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3178.65,
+      "textEn": "Wow.",
+      "textZh": "哇。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0334",
+      "speakerEn": "Elon Musk",
+      "startSec": 3182.97,
+      "textEn": "So, anyway, it's just a point of clarification. There was an article. I think there have been a few articles where that's sort of been mentioned as an offhand comment. In fact, they weren't even. There were positive articles. They just mentioned it sort of off the cuff, and they were corrected in the online version. But, you know, it's difficult sometimes correct these perceptions. On the surface of it may seem that I left my wife or someone else, but I didn't.",
+      "textZh": "所以，无论如何，这只是澄清一下。有过一篇文章。我想有几篇文章把这件事当作随口一提的评论提到过。事实上，它们甚至不是。那些是正面的文章。它们只是顺口提到了这件事，而且在网络版中得到了更正。但是，你知道，有时很难纠正这些看法。表面上看，可能像是我离开了妻子或某个别人，但我没有。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0335",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3210.64,
+      "textEn": "Well, this is the problem that comes with the limelight. You see, you've gone beyond your profession and your expertise and your business life, and you're now being scrutinized for your personal life. And I do know a great deal about that from, of course, the business that I chose many years ago. And it's never fair, it's never balanced, and it's always about selling an article or a paper or a magazine and whatever it takes to throw you under that bus, if we may go back to that unfortunate spot, they will do it.",
+      "textZh": "嗯，这就是身处聚光灯下所带来的问题。你看，你受到的关注已经超出了你的职业、专业领域和商业生活，现在你的私生活也开始受到审视。当然，因为我多年前选择的这个行业，我对此非常了解。而这从来都不公平，从来都不均衡，而且始终都是为了卖出一篇文章、一份报纸或一本杂志；只要能把你扔到那辆公交车下面，如果我们可以回到那个不幸的说法，他们就会这么做。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0336",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3243.79,
+      "textEn": "And I am more than happy to offer you this form to clear any air in regards to, to this at any time. Because a lot of times, quite frankly, people in show business, they're sort of taught to stay away from it. You know what, don't just leave it. They're going to write whatever they want to write. And I think that it's pretty damn courageous to sit here and say, you know what, this is what's being said about me and I don't appreciate it.",
+      "textZh": "而且我非常乐意随时让你借助这种形式，澄清任何与这件事有关的问题。因为很多时候，坦率地说，演艺界的人多少会被教导要避开这种事。你知道吗，别，就让它去吧。他们想写什么就会写什么。而我认为，坐在这里说，你知道吗，外界就是这么说我的，而我对此不满，这真是相当他妈勇敢。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0337",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3266.61,
+      "textEn": "So I commend you for that.",
+      "textZh": "所以我对此表示赞赏。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0338",
+      "speakerEn": "Elon Musk",
+      "startSec": 3267.57,
+      "textEn": "Well, I think it's a correct. I'm certainly not someone who is. I mean, I'm no saint, but I, I'll say.",
+      "textZh": "嗯，我觉得这是正确的。我当然不是那种……我的意思是，我不是圣人，但我，我会这么说。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0339",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3276.44,
+      "textEn": "Well, I didn't know. Say,",
+      "textZh": "嗯，我不知道。说吧，",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0340",
+      "speakerEn": "Elon Musk",
+      "startSec": 3280.04,
+      "textEn": "but I generally try to do the right thing and, and you know, so, and so like, like I said, if people actually were to say, go look at my ex wife's blog or something, they'd know, okay, the marriage came to an end because do a little more research, grew apart and just wasn't working and we're making each other unhappy. So. But there are people that always know to do that. And so anyway, well, thank you.",
+      "textZh": "但我通常会努力做正确的事，而且，而且你知道，所以，而且就像，就像我说的，如果人们真的愿意，比如去看看我前妻的博客之类的，他们就会知道，好吧，这段婚姻走到了尽头，是因为——再多查一点资料——我们渐行渐远了，就是维持不下去了，而且我们让彼此都不开心。所以。但总有人知道要这么做。总之，嗯，谢谢你。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0341",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3304.51,
+      "textEn": "Thank you very much for sharing all of that. I really genuinely appreciate it and I think the people watching appreciate it as much. The whole idea of the show was to not just be an infomercial about a film or a project or the design of an electric car. It was really about getting to know the people behind their work and their lives and what it takes to, in some cases, to make history. And so on that level, I thank you very much.",
+      "textZh": "非常感谢你分享这一切。我真的由衷感激，我想观看节目的人也同样感激。这个节目的整个构想，并不只是要做一则关于某部电影、某个项目或电动汽车设计的电视购物广告。它真正想做的是了解作品背后的人，了解他们的生活，以及在某些情况下创造历史需要付出什么。所以在这个层面上，我非常感谢你。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0342",
+      "speakerEn": "Elon Musk",
+      "startSec": 3332.6,
+      "textEn": "All right, well, thanks for having me.",
+      "textZh": "好的，嗯，谢谢你邀请我来。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0343",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3333.76,
+      "textEn": "Yeah, thank you, Mr. Elon Musk. And I want to not only thank him, but my first guest, Jason Antoun. This has been a remarkable day and evening for me and for this show on many levels. And I want to take the opportunity this time, unlike the previous times, of thanking my crew because for some reason we're wrapping up all the equipment after the show. And the first thing that crosses my mind is I didn't thank everyone.",
+      "textZh": "好的，谢谢你，埃隆·马斯克先生。我不仅要感谢他，还要感谢我的第一位嘉宾杰森·安通。无论对我还是对这个节目而言，今天从白天到晚上在许多层面上都非同寻常。这一次，与之前不同，我想借这个机会感谢我的工作人员，因为不知为什么，我们总是在节目结束后收拾所有设备。而我首先想到的就是，我没有感谢大家。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0344",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3369.479,
+      "textEn": "So Jason Calacanis, thanks for nothing. Let's start there. Then we go over to Tyler and Crude and Jamie and Jason McIntyre and Kate Shorter and Professor Chen, I like to call him. And where's Jacob? Is he out there crawling around somewhere? You're not getting any credit. I'm not thanking you. And Gypsy Kinnear from across the country lines into Canada and Josh, who he sent here today to help out. And I want to thank all of you who are insistent on watching us live and contributed.",
+      "textZh": "所以杰森·卡拉卡尼斯，什么都不谢你。就从这里开始。然后是泰勒、克鲁德、杰米、杰森·麦金泰尔、凯特·肖特，还有我喜欢称为陈教授的那位。雅各布在哪儿？他是不是正在外面什么地方爬来爬去？你得不到任何表扬。我才不感谢你。还有身处国境线另一边加拿大的吉普赛·金尼尔，以及他今天派来这里帮忙的乔希。我还要感谢所有坚持观看我们直播并作出贡献的人。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0345",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3406.05,
+      "textEn": "I did not put you on the spot to play the Larry King game. I'm not sure I should let you slide. Did you contemplate that at all?",
+      "textZh": "我没有当场逼你玩拉里·金游戏。我不确定是否该让你就这么过关。你有没有考虑过这件事？",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0346",
+      "speakerEn": "Elon Musk",
+      "startSec": 3415.33,
+      "textEn": "I'm not 100% sure how one plays the Larry King game.",
+      "textZh": "我并非 100% 确定拉里·金游戏要怎么玩。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0347",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3418.89,
+      "textEn": "Okay, well, I'll tell you what.",
+      "textZh": "好的，嗯，我跟你说吧。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0348",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3423.81,
+      "textEn": "I'm going to insist that you come back with a Larry King game prepared. I'm going to let you off the hook on this one because I feel like I've more than pressed my luck with your appearance here and I thank you for your time. I sincerely do.",
+      "textZh": "我一定要让你准备好一个拉里·金游戏再回来。这次我就放你一马，因为我觉得这次请你来做客，我已经够得寸进尺了。感谢你抽出时间。我是真心的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0349",
+      "speakerEn": "Elon Musk",
+      "startSec": 3438.67,
+      "textEn": "All right. You're welcome.",
+      "textZh": "好的。不客气。",
+      "speakerZh": "埃隆·马斯克"
+    },
+    {
+      "id": "p-0350",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3440.51,
+      "textEn": "Okay. So thanks to everyone involved and thank you for watching. And please join us again. My guest next week on Easter Sunday, he's called Yid Vicious, the pit bull of stand up comedy, Bobby Slayton. I got myself a funny Jew for Easter. That's what I did. I also got the star of an amazing documentary called Super High Me, a great, great talent, Mr. Doug Benson. We just lined up a few other new guests. I'm very excited.",
+      "textZh": "好的。那么感谢所有参与其中的人，也感谢各位观看。请再次收看我们的节目。下周复活节星期日，我的嘉宾名叫伊德·维舍斯，单口喜剧界的斗牛犬，鲍比·斯莱顿。我给自己找了个搞笑的犹太人来过复活节。我就是这么干的。我还请到了精彩纪录片《Super High Me》的主演，一位非常、非常有才华的人，道格·本森先生。我们刚刚还敲定了另外几位新嘉宾。我非常兴奋。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0351",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3468.09,
+      "textEn": "If you're a fan of the runaway hit Mad Men, the Golden Globe winning star of that show, Jon Hamm has agreed to join us. It'll either be the 19th or 26th, but on the 19th for certain, the Academy Award winning writer of the Usual Suspects. Not a bad film, so I've been told.",
+      "textZh": "如果你是爆款剧集《广告狂人》的粉丝，该剧金球奖获奖主演乔恩·哈姆已经同意来做客。要么是19日，要么是26日，但可以确定的是，19日会有《非常嫌疑犯》的奥斯卡获奖编剧。听说那部电影还不错。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0352",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3491.54,
+      "textEn": "Felicia Day, the beginning of May. Those of you who enjoy the Guild online and everything that it's becoming there beyond a lot of great other people who have said yes. And I'll be making more announcements. Thank you for all your involvement and help. Don't forget our contest. We skipped three degrees of Kevin Pollack. We'll get back to that next week. And don't forget your suggestions for the Larry King game. And thank you for all your questions.",
+      "textZh": "费利西亚·戴，5月初。喜欢网络剧《公会》以及它正在发展成的一切的各位，除此之外，还有很多很棒的人已经答应了。我还会公布更多消息。感谢大家的参与和帮助。别忘了我们的竞赛。我们跳过了“凯文·波拉克的3度关系”。下周会继续。也别忘了为“拉里·金游戏”提出建议。感谢大家提出的所有问题。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0353",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3517.37,
+      "textEn": "I'm sorry we didn't get to them. And I'll see you next week. Okay.",
+      "textZh": "很抱歉没能回答这些问题。下周见。好的。",
+      "speakerZh": "凯文·波拉克"
+    },
+    {
+      "id": "p-0354",
+      "speakerEn": "Kevin Pollak",
+      "startSec": 3542.97,
+      "textEn": "Sam.",
+      "textZh": "萨姆。",
+      "speakerZh": "凯文·波拉克"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-13T06:43:30.697Z",
+    "reviewedAt": "2026-09-13T07:20:16.315Z"
+  },
+  "fetchedAt": "2026-09-12T07:16:40.373Z",
+  "transcriptSource": "$undefined",
+  "sourceHash": "fd9239c315a83ec7eac5e914c952d36f8ddfb34d6f286b17165dfaf05a350537"
+}

@@ -1,0 +1,480 @@
+---
+import { getCollection } from "astro:content";
+import { ChevronLeft, ChevronRight } from "@lucide/astro";
+import ArchiveFilters from "../components/ArchiveFilters.astro";
+import ArchiveSearch from "../components/ArchiveSearch.astro";
+import VideoCard from "../components/VideoCard.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { videoYear } from "../lib/display";
+import type { VideoType } from "../lib/types";
+
+const entries = await getCollection("videos");
+const videos = entries.map((entry) => entry.data).sort((a, b) => b.date.localeCompare(a.date));
+const years = [...new Set(videos.map((video) => videoYear(video.date)))].sort().reverse();
+const organizations = [...new Set(videos.map((video) => video.org).filter(Boolean) as string[])]
+  .sort((a, b) => a.localeCompare(b, "zh-CN"));
+const typeCounts = videos.reduce<Partial<Record<VideoType, number>>>((counts, video) => {
+  counts[video.type] = (counts[video.type] || 0) + 1;
+  return counts;
+}, {});
+
+const description = "检索伊隆·马斯克的公开视频、访谈、主题演讲与中文实录。按时间、类别和机构浏览，并随时切回英文原文。";
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: "马斯克中文档案",
+  description,
+  inLanguage: "zh-CN",
+  numberOfItems: videos.length,
+};
+---
+
+<BaseLayout description={description} jsonLd={jsonLd} excludeFromSearch>
+  <section class="archive-intro">
+    <div class="shell intro-grid">
+      <div class="intro-copy">
+        <h1>马斯克中文档案</h1>
+        <p>把散落在互联网里的访谈、演讲和会议记录，整理成一座可以检索、对照与引用的中文影像库。</p>
+      </div>
+      <dl class="archive-facts" aria-label="档案统计">
+        <div>
+          <dt>收录影像</dt>
+          <dd>{videos.length}</dd>
+        </div>
+        <div>
+          <dt>时间范围</dt>
+          <dd>{years.length ? `${years.at(-1)} 至 ${years[0]}` : "整理中"}</dd>
+        </div>
+        <div>
+          <dt>资料版本</dt>
+          <dd>2026.09</dd>
+        </div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="archive-catalog shell" aria-labelledby="catalog-title">
+    <div class="search-row">
+      <div>
+        <h2 id="catalog-title">影像目录</h2>
+      </div>
+      <ArchiveSearch />
+    </div>
+
+    <ArchiveFilters {years} {organizations} {typeCounts} total={videos.length} />
+
+    <div class="results-heading" id="archive-results" tabindex="-1">
+      <p aria-live="polite"><strong data-result-count>{videos.length}</strong> 条记录</p>
+      <p class="result-page" data-result-page></p>
+    </div>
+
+    {videos.length > 0 ? (
+      <div class="archive-list" data-video-list data-pagefind-ignore>
+        {videos.map((video) => (
+          <VideoCard video={video} />
+        ))}
+      </div>
+    ) : (
+      <div class="empty-catalog">
+        <h2>档案正在整理</h2>
+        <p>视频目录尚未导入。完成首次同步后，记录会出现在这里。</p>
+      </div>
+    )}
+
+    <div class="no-results" data-no-results hidden>
+      <h2>没有符合条件的记录</h2>
+      <p>更换类别、年份或正文状态后再试。</p>
+    </div>
+
+    <nav class="pagination" aria-label="目录分页" data-pagination hidden>
+      <button type="button" data-page-prev>
+        <ChevronLeft size={18} stroke-width={1.8} aria-hidden="true" />
+        上一页
+      </button>
+      <span data-page-label>第 1 页</span>
+      <button type="button" data-page-next>
+        下一页
+        <ChevronRight size={18} stroke-width={1.8} aria-hidden="true" />
+      </button>
+    </nav>
+  </section>
+
+  <script>
+    const PAGE_SIZE = 24;
+    const form = document.querySelector<HTMLFormElement>("[data-filter-form]");
+    const list = document.querySelector<HTMLElement>("[data-video-list]");
+    const count = document.querySelector<HTMLElement>("[data-result-count]");
+    const resultPage = document.querySelector<HTMLElement>("[data-result-page]");
+    const noResults = document.querySelector<HTMLElement>("[data-no-results]");
+    const pagination = document.querySelector<HTMLElement>("[data-pagination]");
+    const prev = document.querySelector<HTMLButtonElement>("[data-page-prev]");
+    const next = document.querySelector<HTMLButtonElement>("[data-page-next]");
+    const pageLabel = document.querySelector<HTMLElement>("[data-page-label]");
+    const heading = document.querySelector<HTMLElement>("#archive-results");
+
+    if (form && list && count && resultPage && noResults && pagination && prev && next && pageLabel) {
+      const cards = Array.from(list.querySelectorAll<HTMLElement>("[data-video-card]"));
+      cards.forEach((card, index) => card.dataset.order = String(index));
+      let page = 1;
+
+      const allowed = (name: string, value: string) => {
+        return Array.from(form.elements).some((element) => {
+          if (element instanceof HTMLInputElement) {
+            return element.name === name && element.value === value;
+          }
+          if (element instanceof HTMLSelectElement && element.name === name) {
+            return Array.from(element.options).some((option) => option.value === value);
+          }
+          return false;
+        });
+      };
+
+      const readUrl = () => {
+        const params = new URLSearchParams(window.location.search);
+        const type = params.get("type") || "all";
+        const year = params.get("year") || "all";
+        const org = params.get("org") || "all";
+        const body = params.get("body") || "all";
+        const sort = params.get("sort") || "newest";
+
+        const typeInput = form.querySelector<HTMLInputElement>(`input[name="type"][value="${CSS.escape(allowed("type", type) ? type : "all")}"]`);
+        if (typeInput) typeInput.checked = true;
+        for (const [name, value] of [["year", year], ["org", org], ["body", body], ["sort", sort]]) {
+          const select = form.elements.namedItem(name);
+          if (select instanceof HTMLSelectElement) select.value = allowed(name, value) ? value : select.options[0].value;
+        }
+        page = Math.max(1, Number.parseInt(params.get("page") || "1", 10) || 1);
+      };
+
+      const state = () => {
+        const data = new FormData(form);
+        return {
+          type: String(data.get("type") || "all"),
+          year: String(data.get("year") || "all"),
+          org: String(data.get("org") || "all"),
+          body: String(data.get("body") || "all"),
+          sort: String(data.get("sort") || "newest"),
+        };
+      };
+
+      const updateUrl = () => {
+        const values = state();
+        const params = new URLSearchParams();
+        for (const [name, value] of Object.entries(values)) {
+          const defaultValue = name === "sort" ? "newest" : "all";
+          if (value !== defaultValue) params.set(name, value);
+        }
+        if (page > 1) params.set("page", String(page));
+        const query = params.toString();
+        history.replaceState(null, "", `${window.location.pathname}${query ? `?${query}` : ""}`);
+      };
+
+      const render = (syncUrl = true) => {
+        const values = state();
+        const matches = cards.filter((card) => {
+          return (values.type === "all" || card.dataset.type === values.type)
+            && (values.year === "all" || card.dataset.year === values.year)
+            && (values.org === "all" || card.dataset.org === values.org)
+            && (values.body === "all" || card.dataset.body === values.body);
+        });
+
+        matches.sort((a, b) => {
+          const direction = values.sort === "oldest" ? 1 : -1;
+          const dateOrder = (a.dataset.date || "").localeCompare(b.dataset.date || "") * direction;
+          return dateOrder || Number(a.dataset.order) - Number(b.dataset.order);
+        });
+        matches.forEach((card) => list.append(card));
+
+        const pages = Math.ceil(matches.length / PAGE_SIZE);
+        page = Math.min(Math.max(page, 1), Math.max(pages, 1));
+        const first = (page - 1) * PAGE_SIZE;
+        const visible = new Set(matches.slice(first, first + PAGE_SIZE));
+        cards.forEach((card) => card.hidden = !visible.has(card));
+
+        count.textContent = String(matches.length);
+        resultPage.textContent = pages > 0 ? `第 ${page} / ${pages} 页` : "";
+        noResults.hidden = matches.length !== 0;
+        pagination.hidden = pages <= 1;
+        prev.disabled = page <= 1;
+        next.disabled = page >= pages;
+        pageLabel.textContent = `第 ${page} / ${Math.max(pages, 1)} 页`;
+        if (syncUrl) updateUrl();
+      };
+
+      form.addEventListener("change", () => {
+        page = 1;
+        render();
+      });
+      form.addEventListener("reset", () => {
+        window.requestAnimationFrame(() => {
+          page = 1;
+          render();
+        });
+      });
+      prev.addEventListener("click", () => {
+        page -= 1;
+        render();
+        heading?.focus({ preventScroll: true });
+        heading?.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+      next.addEventListener("click", () => {
+        page += 1;
+        render();
+        heading?.focus({ preventScroll: true });
+        heading?.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+      window.addEventListener("popstate", () => {
+        readUrl();
+        render(false);
+      });
+
+      readUrl();
+      render(false);
+    }
+  </script>
+</BaseLayout>
+
+<style>
+  .archive-intro {
+    border-bottom: 1px solid var(--line-dark);
+    background: var(--surface);
+  }
+
+  .intro-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.5fr) minmax(390px, 0.8fr);
+    gap: 72px;
+    align-items: end;
+    min-height: 304px;
+    padding-block: 65px 52px;
+  }
+
+  .intro-copy h1 {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 5rem;
+    font-weight: 680;
+    line-height: 1.02;
+    white-space: nowrap;
+  }
+
+  .intro-copy p {
+    max-width: 55ch;
+    margin: 28px 0 0;
+    color: var(--muted);
+    font-family: var(--serif);
+    font-size: 1.02rem;
+    line-height: 1.8;
+  }
+
+  .archive-facts {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0;
+    border-block: 1px solid var(--line);
+  }
+
+  .archive-facts div {
+    min-width: 0;
+    padding: 17px 13px;
+    border-inline-end: 1px solid var(--line);
+  }
+
+  .archive-facts div:last-child {
+    border-inline-end: 0;
+  }
+
+  .archive-facts dt {
+    margin-bottom: 6px;
+    color: var(--muted);
+    font-size: 0.73rem;
+  }
+
+  .archive-facts dd {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 630;
+    white-space: nowrap;
+  }
+
+  .archive-catalog {
+    padding-top: 54px;
+  }
+
+  .search-row {
+    display: grid;
+    grid-template-columns: minmax(220px, 0.65fr) minmax(380px, 1.35fr);
+    gap: 48px;
+    align-items: end;
+  }
+
+  .search-row h2 {
+    margin: 0 0 5px;
+    font-family: var(--serif);
+    font-size: 1.75rem;
+    line-height: 1.2;
+  }
+
+  .search-row p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+
+  .results-heading {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    align-items: center;
+    min-height: 68px;
+    scroll-margin-top: 18px;
+    color: var(--muted);
+    font-size: 0.86rem;
+  }
+
+  .results-heading:focus {
+    outline: 0;
+  }
+
+  .results-heading p {
+    margin: 0;
+  }
+
+  .results-heading strong {
+    color: var(--ink);
+    font-size: 1rem;
+  }
+
+  .archive-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+  }
+
+  .empty-catalog,
+  .no-results {
+    border-block: 1px solid var(--line-dark);
+    padding: 70px 20px;
+    text-align: center;
+  }
+
+  .empty-catalog h2,
+  .no-results h2 {
+    margin: 0 0 8px;
+    font-family: var(--serif);
+    font-size: 1.45rem;
+  }
+
+  .empty-catalog p,
+  .no-results p {
+    margin: 0;
+    color: var(--muted);
+  }
+
+  .pagination {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    margin-top: 34px;
+    border-block: 1px solid var(--line-dark);
+  }
+
+  .pagination[hidden] {
+    display: none;
+  }
+
+  .pagination button {
+    display: inline-flex;
+    gap: 8px;
+    align-items: center;
+    width: max-content;
+    min-height: 54px;
+    border: 0;
+    background: transparent;
+    font-size: 0.88rem;
+    font-weight: 580;
+  }
+
+  .pagination button:last-child {
+    justify-self: end;
+  }
+
+  .pagination button:hover:not(:disabled) {
+    color: var(--launch);
+  }
+
+  .pagination button:disabled {
+    color: var(--line-dark);
+    cursor: not-allowed;
+  }
+
+  .pagination span {
+    color: var(--muted);
+    font-size: 0.8rem;
+  }
+
+  @media (max-width: 1160px) {
+    .intro-grid {
+      grid-template-columns: 1fr;
+      gap: 42px;
+    }
+
+    .archive-list {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .intro-grid {
+      min-height: 0;
+      padding-block: 48px 38px;
+    }
+
+    .intro-copy h1 {
+      font-size: 3rem;
+    }
+
+    .archive-facts {
+      grid-template-columns: 1fr;
+    }
+
+    .archive-facts div {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      border-inline-end: 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .archive-facts div:last-child {
+      border-bottom: 0;
+    }
+
+    .search-row {
+      grid-template-columns: 1fr;
+      gap: 22px;
+    }
+
+    .archive-catalog {
+      padding-top: 40px;
+    }
+  }
+
+  @media (max-width: 440px) {
+    .intro-copy h1 {
+      font-size: 2.7rem;
+    }
+  }
+
+  @media (max-width: 380px) {
+    .intro-copy h1 {
+      font-size: 2.4rem;
+    }
+  }
+
+  @media (max-width: 340px) {
+    .intro-copy h1 {
+      font-size: 2.15rem;
+    }
+  }
+</style>
