@@ -188,6 +188,7 @@ function analyzeNumericValues(value: string): NumericAnalysis {
     /\bFY\s*'?\d{2}\b/i.test(value) ||
     /[’']\d{2}\b/.test(value) ||
     /\bH[12]\b/i.test(value);
+  const hasRepeatedScaledShorthand = /\b(\d+(?:\.\d+)?)\s+(thousand|million|billion|trillion)\b[\s\S]{0,800}\b\1\b(?!\s+(?:thousand|million|billion|trillion))/i.test(value);
   let comparable = value;
   comparable = comparable.replace(
     /\b(\d{1,3}),\s+(\d{3})\b/g,
@@ -357,6 +358,20 @@ function analyzeNumericValues(value: string): NumericAnalysis {
       return " ";
     },
   );
+  comparable = comparable.replace(
+    /\b(first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth)\s+(?=(?:analyst\s+)?question\b)/gi,
+    (_match, ordinal: string) => {
+      tokens.push(`number:${episodeOrdinals[ordinal.toLocaleLowerCase("en-US") as keyof typeof episodeOrdinals]}`);
+      return " ";
+    },
+  );
+  comparable = comparable.replace(
+    /\btop\s+(one|two|three|four|five|six|seven|eight|nine|ten)\b/gi,
+    (_match, number: string) => {
+      tokens.push(`number:${WORD_NUMBERS[number.toLocaleLowerCase("en-US")]}`);
+      return "top";
+    },
+  );
   comparable = comparable.replace(/\bone[-\s]+time(?=\s+items?\b)/gi, () => {
     tokens.push("number:1");
     return " ";
@@ -373,6 +388,20 @@ function analyzeNumericValues(value: string): NumericAnalysis {
       return " ";
     },
   );
+  comparable = comparable.replace(
+    /\b(first|second|third|fourth)[-\s]+quarters?\b/gi,
+    (_match, ordinal: string) => {
+      const quarter = { first: "1", second: "2", third: "3", fourth: "4" }[
+        ordinal.toLocaleLowerCase("en-US")
+      ];
+      tokens.push(`quarter:${quarter}`);
+      return " ";
+    },
+  );
+  comparable = comparable.replace(
+    /\bone\s+quarter(?=\s+(?:versus|compared\s+(?:to|with))\b[^.!?]{0,80}\b(?:the\s+)?(?:other|another)\s+quarter\b)/gi,
+    "reporting period",
+  );
   comparable = comparable.replace(/\bsize\s+of\s+(?:about\s+)?a\s+quarter\b/gi, () => {
     tokens.push("number:25");
     return "coin";
@@ -383,7 +412,7 @@ function analyzeNumericValues(value: string): NumericAnalysis {
     return " ";
   });
   comparable = comparable.replace(
-    /\b(?:(?:use|using)\s+only\s+a\s+quarter\b|(?:only\s+)?(?:a|about)\s+quarter(?=\s+as\s+much\b)|quarter(?=\s+of\s+(?:people|the\s+population)\b))/gi,
+    /\b(?:(?:use|using)\s+only\s+a\s+quarter\b|(?:only\s+)?(?:a|about)\s+quarter(?=\s+(?:as\s+much\b|(?:or|and)\s+\d+(?:\.\d+)?%))|quarter(?=\s+of\s+(?:people|the\s+population)\b))/gi,
     () => {
       tokens.push("number:1");
       tokens.push("number:4");
@@ -490,7 +519,7 @@ function analyzeNumericValues(value: string): NumericAnalysis {
     tokens.push(`quarter:${quarter}`);
     return " ";
   });
-  comparable = comparable.replace(/\b([1-4])Q\b/gi, (_match, quarter: string) => {
+  comparable = comparable.replace(/\b([1-4])\s*Q\b/gi, (_match, quarter: string) => {
     tokens.push(`quarter:${quarter}`);
     return " ";
   });
@@ -509,6 +538,13 @@ function analyzeNumericValues(value: string): NumericAnalysis {
       const numeric = /^\d+$/.test(number) ? Number(number) : parseChineseSmallInteger(number);
       tokens.push(`number:${numeric}`);
       return " ";
+    },
+  );
+  comparable = comparable.replace(
+    /前\s*([一二两三四五六七八九十])(?=(?:名|个|家|大|强|位|项|种|的|$))/g,
+    (_match, number: string) => {
+      tokens.push(`number:${number === "十" ? 10 : CHINESE_DIGITS[number]}`);
+      return "前";
     },
   );
   comparable = comparable.replace(
@@ -770,6 +806,11 @@ function analyzeNumericValues(value: string): NumericAnalysis {
       return " ";
     },
   );
+  comparable = comparable.replace(/加倍(?:押注|投入|努力|专注|坚持|强化|固守|推进)/g, "专注");
+  comparable = comparable.replace(/(?:翻|加)倍/g, () => {
+    tokens.push("number:2");
+    return " ";
+  });
   comparable = comparable.replace(/([一二两三四])\s*个?\s*数量级/g, (_match, number: string) => {
     tokens.push(`number:${CHINESE_DIGITS[number]}`);
     return " ";
@@ -941,7 +982,7 @@ function analyzeNumericValues(value: string): NumericAnalysis {
     /\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\b/i.test(residual);
   return {
     values: tokens.sort(),
-    ambiguity: hasBrokenOrRepeatedScale || hasSharedScaleRange || hasComplexNumberExpression
+    ambiguity: hasBrokenOrRepeatedScale || hasSharedScaleRange || hasComplexNumberExpression || hasRepeatedScaledShorthand
       ? "all"
       : hasUnparsedNumberWords || hasUnparsedMonth
         ? "extras"

@@ -2940,3 +2940,64 @@ describe("translation pipeline", () => {
     ).toThrow("--limit must be a positive integer");
   });
 });
+
+describe("financial transcript numeric integrity", () => {
+  it("distinguishes reporting quarters from fractions", () => {
+    expect(
+      compareNumericIntegrity(
+        "You can't just look at one quarter versus the other quarter in terms of churn.",
+        "不能只按季度环比观察流失率。",
+      ).level,
+    ).not.toBe("error");
+  });
+
+  it("recognizes spoken and written quarter labels", () => {
+    expect(
+      compareNumericIntegrity(
+        "Q1 is often the first quarter of the year.",
+        "第一季度通常是全年的第一季度。",
+      ).level,
+    ).toBe("ok");
+    expect(compareNumericIntegrity("early 1 Q 2023", "2023 年第一季度初").level)
+      .toBe("ok");
+  });
+
+  it("aligns ranked company counts and non-idiomatic doubling", () => {
+    expect(compareNumericIntegrity("the top five companies", "排名前五的公司").level)
+      .toBe("ok");
+    expect(compareNumericIntegrity("Top nine for the Falcon Heavy side", "前九").level)
+      .toBe("ok");
+    expect(
+      compareNumericIntegrity(
+        "doubling down on autonomy, but doubling is not enough",
+        "加倍押注自动驾驶，但仅仅加倍还不够",
+      ).level,
+    ).toBe("ok");
+  });
+
+  it("recognizes numbered questions in earnings calls", () => {
+    expect(
+      compareNumericIntegrity(
+        "The first question is followed by the second question.",
+        "第一个问题之后是第二个问题。",
+      ).level,
+    ).toBe("ok");
+    expect(compareNumericIntegrity("the first questions from retail investors", "首先回答散户投资者的问题").level)
+      .not.toBe("error");
+  });
+
+  it("handles percentage restatements and carried magnitude units", () => {
+    expect(
+      compareNumericIntegrity(
+        "It probably costs a quarter or 20% of the other car.",
+        "它的成本可能是另一辆车的四分之一，也就是 20%。",
+      ).level,
+    ).toBe("ok");
+    expect(
+      compareNumericIntegrity(
+        "The indication is 1.8 million, and we're saying 1.8 because demand varies.",
+        "指引是 180 万辆；我们说 180 万辆，是因为需求会变化。",
+      ).level,
+    ).toBe("warning");
+  });
+});

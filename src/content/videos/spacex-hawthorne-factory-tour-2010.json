@@ -15,14 +15,34 @@
   "thumbnailUrl": "https://i.ytimg.com/vi/yFbrK_sRV9Q/hqdefault.jpg",
   "org": "SpaceX",
   "durationSec": 193,
-  "contentKind": "none",
-  "segments": [],
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "startSec": 0,
+      "textEn": "All [Music] right, welcome to SpaceX. Uh, here we are in the lobby. It's very white right now, but there are actually some some cool uh elements coming in soon that will make it less white. In the front of the building, we have our engineering offices and and space for about 300 people per floor. And we've got a total of about three floors that we can open. Right now, only the first floor is occupied. Um we try to aim for something which is a very open plan uh to maximize communication and make it sort of you know fairly nicel looking. Uh this place used to be quite dismal. That's that's my office over there. Actually we really try to minimize the number of offices that we have because doors limit communication. Everyone at the company with the exception of a few people in like HR and finance actually um are in cubes uh including your vice presidents over there. There's Gwen at her cube.",
+      "textZh": "好吧，[音乐]欢迎来到 SpaceX。呃，我们现在在大厅。这里现在非常白，不过实际上很快会加入一些很酷的，呃，元素，让它不那么白。大楼前部是我们的工程办公室，每层可容纳约 300 人。我们总共大约有 3 层可以启用。目前只有第 1 层有人办公。嗯，我们力求采用非常开放的布局，呃，以最大限度地促进沟通，也让这里看起来算是，你知道，相当漂亮。呃，这地方以前相当阴沉。那边就是我的办公室。实际上，我们确实尽量减少办公室的数量，因为门会限制沟通。公司里除了人力资源和财务等部门的少数人以外，所有人其实，嗯，都在隔间里办公，呃，包括那边的各位副总裁。格温就在她的隔间里。"
+    },
+    {
+      "id": "p-0002",
+      "startSec": 56.16,
+      "textEn": "Um, I should have cleaned up if I were coming. Although this is really reality, I guess. I'm responsible for sales. I'm in charge of uh making sure that there's revenue here in the company and we're working on lots of Falcon 1 deals, Falcon 9 deals, and Dragon deals. So, this is just a little area where people can meet and um and have sort of an impromptu meeting. Um, obviously also very open. Um, I think it's actually quite helpful to have this openness because then you can sort of see what people are working on in their computers. Um like what Matt McCun here is is doing. Um what are you working on there? Uh I'm making a uh assembly documentation for the uh Draco. Okay. RCS. David is is driving the development of our inspace thruster which is called Draco. Um and um there's a little piece of it or that's just a temp that's just a sample spun cone. Yeah. So yeah, we're doing all our Texas testing at our facility down there. We got a new vacuum system.",
+      "textZh": "嗯，如果我要来，我本该收拾一下。不过我想，这才是真实情况。我负责销售。我负责，呃，确保公司有收入，我们正在推进许多 Falcon 1、Falcon 9 和 Dragon 的交易。所以，这只是一个供大家见面以及，嗯，进行某种临时会议的小区域。嗯，显然也非常开放。嗯，我觉得这种开放实际上很有帮助，因为这样你就能看到大家在电脑上做什么。嗯，比如这里的马特·麦坎正在做的事。嗯，你在那里做什么？呃，我正在为，呃，Draco 制作一份装配文档。好的。RCS。大卫正在推动我们名为 Draco 的太空推进器的开发。嗯，而且，嗯，这里有它的一个小部件，或者那只是一个临时的——那只是一个旋压锥体样品。对。所以，是的，我们所有的得州测试都在我们那里的设施中进行。我们添置了一个新的真空系统。"
+    },
+    {
+      "id": "p-0003",
+      "startSec": 120.96,
+      "textEn": "So kind of going back and forth between there kind of progress along. Right. So this the direct engine is what is used in our Dragon spacecraft and also in the upper stage of of Falcon 9 for orbital maneuvering and re-entry. This is uh our meeting room, VIP meeting room for uh when we meet with our customers and um if a CEO of a customer comes through or something like that. It's kind of cool because it's got this glass that um that goes opaque and we put a motion sensor on it. So as you walk in the glass goes opaque. We we named our copper frames after the great um rocket engineers and great scientists related to space. So we think they they really deserve the credit for you know enabling us to become a space fairing civilization. So we're fairly um science and engineering centric. Um we have some some conference rooms named after astronauts too but but we try to focus more on the the people that actually designed and built the rocket.",
+      "textZh": "所以就是在两边来回跑，随着进展推进。对。所以，这台直连发动机用于我们的 Dragon 航天器，也用于 Falcon 9 的上面级，执行轨道机动和再入。这是，呃，我们的会议室、VIP 会议室，呃，用于会见客户，以及，嗯，如果某位客户的 CEO 来访之类的情况。它挺酷的，因为这里装了这种玻璃，嗯，可以变得不透明，而且我们在上面安装了运动传感器。所以当你走进去时，玻璃就会变得不透明。我们用伟大的，嗯，火箭工程师和与太空有关的伟大科学家的名字来命名我们的铜制框架。所以我们认为，正是他们让我们能够成为一个航天文明，他们确实应该获得赞誉。所以我们相当，嗯，以科学和工程为中心。嗯，我们也有一些会议室以宇航员命名，但我们尽量更多地关注那些真正设计和制造火箭的人。"
+    }
+  ],
   "translation": {
     "status": "reviewed",
     "model": "gpt-5.6-sol",
-    "translatedAt": "2026-09-12T20:18:18.367Z",
-    "reviewedAt": "2026-09-12T20:23:54.670Z"
+    "translatedAt": "2026-09-14T02:20:07.467Z",
+    "reviewedAt": "2026-09-14T05:58:09.397Z"
   },
   "fetchedAt": "2026-09-12T07:16:26.397Z",
-  "sourceHash": "36a4bb9a4f09e4e76ab863190648206c7d1cf2a5e5fa84c33709fbacd67c8916"
+  "sourceHash": "b84d280e7ddf24c118b88ca09b6199b770f2a803d4f8e112c80a823ff94d142c",
+  "transcriptSource": "https://www.youtube.com/watch?v=yFbrK_sRV9Q"
 }

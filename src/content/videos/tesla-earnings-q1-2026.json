@@ -15,14 +15,346 @@
   "thumbnailUrl": "https://i.ytimg.com/vi/qO7T5zgRvXM/hqdefault.jpg",
   "org": "Tesla",
   "durationSec": 3920,
-  "contentKind": "none",
-  "segments": [],
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "startSec": 0.65,
+      "textEn": "[music] [music] [music] [music] [music]",
+      "textZh": "[音乐] [音乐] [音乐] [音乐] [音乐]"
+    },
+    {
+      "id": "p-0002",
+      "startSec": 108.73,
+      "textEn": "[music] [music] [music]",
+      "textZh": "[音乐] [音乐] [音乐]"
+    },
+    {
+      "id": "p-0003",
+      "startSec": 250.87,
+      "textEn": "[music] [music] [music] [music] [music]",
+      "textZh": "[音乐] [音乐] [音乐] [音乐] [音乐]"
+    },
+    {
+      "id": "p-0004",
+      "startSec": 382.52,
+      "textEn": "[music] [music] >> Good afternoon, everyone, and welcome to Tesla's first quarter 2026 Q&A webcast. My name is Travis Axelrod, head of investor relations, and I'm joined today by Elon Musk, Vaibhav Taneja, and a number of other executives. Our Q1 results were announced at about 3:00 p.m. Central Time in the update deck we published at the same link as this webcast. During this call, we will discuss our business outlook and make forward-looking statements. These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most",
+      "textZh": "[音乐] [音乐] >> 大家下午好，欢迎参加Tesla 2026年第一季度问答网络直播。我叫特拉维斯·阿克塞尔罗德，是投资者关系主管。今天与我一同出席的有埃隆·马斯克、维布哈夫·塔内贾以及其他多位高管。我们已于美国中部时间下午3:00左右，在与本次网络直播相同的链接上发布的更新演示文稿中公布了第一季度业绩。在本次电话会议期间，我们将讨论业务展望并作出前瞻性陈述。这些评论基于我们截至今天的预测和预期。由于多项风险和不确定因素，包括我们最近的"
+    },
+    {
+      "id": "p-0005",
+      "startSec": 457.6,
+      "textEn": "recent filings with the SEC. During the question and answer portion of today's call, please limit yourself to one question and one follow-up. Please use the raise hand button to join the question queue. Before we jump into Q&A, Elon has some opening remarks. Elon. >> Uh thank you. So, uh I think we've got a very exciting year ahead of us with 2026. Uh we're going to be substantially increasing our um investments in the future, so should expect to see significant uh a very significant increase in capital expenditures, uh but I think well justified for a sub- substantially increased future revenue stream. Um and obviously Tesla is not alone in this. I think you've seen uh in most, if not all, um certainly the major technology companies uh substantially increasing their capital investments. Um and uh and and we're going to be doing the same. I think it's uh it's it's going to pay off in a in a very big So, we're investing in and improving um our core technologies, battery powertrain, uh AI software, AI training, uh chip design, uh manufacturing expan- you know, laying",
+      "textZh": "SEC申报文件中提到的风险和不确定因素，实际事件或结果可能存在重大差异。在今天电话会议的问答环节，请将提问限制为1个问题和1个追问。请使用举手按钮加入提问队列。在进入问答环节之前，埃隆有一些开场发言。埃隆。>> 呃，谢谢。那么，呃，我认为2026年我们面前将是非常令人兴奋的一年。呃，我们将大幅增加对未来的，嗯，投资，因此应该会看到资本支出显著地，呃，非常显著地增加；但我认为，为了大幅、大幅增加未来收入流，这是完全合理的。嗯，显然Tesla并非唯一一家这样做的公司。我想你们已经看到，呃，在大多数、即便不是所有，嗯，至少是主要科技公司中，呃，它们都在大幅增加资本投资。嗯，而，呃，而、而我们也会这样做。我认为这，呃，这、这将以一种非常大的——所以，我们正在投资并改进，嗯，我们的核心技术、电池动力总成、呃，AI软件、AI训练、呃，芯片设计、呃，制造扩——你知道，奠定"
+    },
+    {
+      "id": "p-0006",
+      "startSec": 534.16,
+      "textEn": "the groundwork for significantly increased manuf- manufacturing production. Um we are also uh it strengthening our supply chain across the board, uh batteries, energy, AI silicon, everything. Um and uh laying the groundwork, like I said, for what we expect to be a significant increase in vehicle production in the future, and of course uh a very significant increase, well, uh actually releasing Optimus, um but increasing our internal production for testing, um and then probably being able to have Optimus be useful outside of Tesla sometime next year. Um as you've heard me say a few times, I think Optimus will be uh our biggest product, not just Tesla's biggest product ever, but it's probably the biggest product ever. Um and uh and I remain convinced of that conclusion. Um So, uh on the article side, it's always I think worth noting that a Tesla car is incredibly incredi- incredible value for money, and they're",
+      "textZh": "显著提高制——制造产量的基础。嗯，我们还在，呃，它全面加强我们的供应链，呃，电池、能源、AI芯片，一切。嗯，而且，呃，正如我所说，为我们预计未来车辆产量将显著增加奠定基础；当然，呃，还会非常显著地增加，嗯，呃，实际上是发布Optimus，嗯，但会增加我们的内部产量用于测试，嗯，然后可能会在明年某个时候让Optimus能够在Tesla之外发挥作用。嗯，正如你们听我说过几次的那样，我认为Optimus将是，呃，我们最大的产品，不仅是Tesla有史以来最大的产品，而且很可能是有史以来最大的产品。嗯，而，呃，而我仍然确信这个结论。嗯，所以，呃，在文章方面，我认为始终值得指出的是，一辆Tesla汽车物超所值到了难以置信、难以置信——难以置信的程度，而且它们"
+    },
+    {
+      "id": "p-0007",
+      "startSec": 609.32,
+      "textEn": "they're all autonomy ready, depending on what uh uh part of the world you're in. The uh supervised full self-driving is getting extremely good. Um we have uh just started production of Cybertruck, um and we'll begin production of our semi-truck soon. Um now, I should say uh whenever you have a new product, uh with with with a completely new supply chain, new everything, uh it's always a stretched-out S-curve, so you should expect that initial production of Cybertruck and semi will be very slow, uh but then ramping up uh and and going kind of exponential towards uh the end of the year and certainly next year. And uh in fact, we'll be ramping up production of of all vehicles uh in all factories uh to the best of our of our ability through the balance of this year. Um on the energy front, uh the United States and the whole world will need a lot of energy storage to meet growing electricity demand.",
+      "textZh": "它们全都已为自动驾驶做好准备，具体取决于你位于世界的哪个，呃，呃，地区。呃，受监督的完全自动驾驶正变得极其出色。嗯，我们，呃，刚刚开始生产Cybertruck，嗯，并将很快开始生产我们的半挂卡车。嗯，现在，我应该说，呃，每当你推出一种新产品，呃，采用、采用、采用全新的供应链，一切都是新的，呃，它总会呈现一条拉长的S曲线，所以你们应该预期Cybertruck和半挂卡车的初期产量会非常低，呃，但随后会逐步提升，呃，并在接近年底时呈某种指数式增长，明年当然也会如此。而且，呃，事实上，在今年剩余时间里，我们会在所有工厂尽我们、我们的最大能力提高所有车辆的产量。嗯，在能源方面，呃，美国和全世界将需要大量储能，以满足不断增长的电力需求。"
+    },
+    {
+      "id": "p-0008",
+      "startSec": 674,
+      "textEn": "Uh demand demand for our mega pack is very strong, uh and we're excited to begin production of mega pack 3 later this year in our new world-class factory outside Houston. Uh for full self-driving and robo-taxi, uh version 4 14.3 was a major architectural update and and we have a whole pipeline of of major improvements to full self-driving that uh that that we we believe will um lead to unsupervised full self-driving um being available anywhere in the world that it is legal to do so. Um and then and then there's a version 15 hopefully later this hopefully by the end of this year but certainly by early next year. Um and that will be a complete overhaul of the software software architecture and will run on AI 4. Um It's uh and and that at that point we're really just uh increasing the safety level of FSD uh above human safety level even more,",
+      "textZh": "呃，市场对我们mega pack的需求、需求非常强劲；呃，我们很高兴能于今年晚些时候在休斯敦郊外的新建世界级工厂开始生产mega pack 3。呃，对于完全自动驾驶和机器人出租车，呃，版本4 14.3是一次重大的架构更新，而且、而且我们还有一整套针对完全自动驾驶的、的重大改进，呃，我们、我们、我们相信这些改进将，嗯，使无监督的完全自动驾驶，嗯，能够在世界上任何法律允许的地方使用。嗯，然后、然后还有版本15，希望在今年晚些时候，希望在今年年底前推出，但肯定会在明年年初前推出。嗯，而这将是对软件、软件架构的彻底改造，并将在AI 4上运行。嗯，它，呃，而且、而且到那时，我们实际上只是，呃，在人类安全水平之上进一步提高FSD的安全水平，"
+    },
+    {
+      "id": "p-0009",
+      "startSec": 750.44,
+      "textEn": "meaning I think even within version 14 we're significantly safer than than human but uh V15 will will take that to another level. Um we've expanded robot taxi data to Dallas and Houston uh using the same software as Austin and the Bay Area. And um the limiting factor for expansion uh is really uh rigorous validation, making sure things are completely safe. We don't want to have a single uh accident or injury with the expansion of robot taxi and we have to the credit of the team not had a single one to date. Uh and then Optimus, we're preparing Fremont for start of production later this year with with Optimus. Again, totally new supply chain, totally new technology, so therefore it's a the production S curve is always very slow in the beginning, but uh will ramp up to significant numbers next year.",
+      "textZh": "也就是说，我认为即使在版本14中，我们也明显比、比人类更安全，但，呃，V15会、会把这一点提升到另一个层次。嗯，我们已经使用与奥斯汀和湾区相同的软件，将机器人出租车数据扩展到达拉斯和休斯敦。而且，嗯，扩张的限制因素，呃，实际上是，呃，严格验证，确保一切完全安全。我们不希望机器人出租车扩张过程中发生哪怕1起，呃，事故或伤害；值得肯定的是，团队迄今为止没有发生过哪怕1起。呃，然后是Optimus，我们正在为弗里蒙特做好准备，以便在今年晚些时候开始生产Optimus。同样，这是全新的供应链、全新的技术，因此它的生产S曲线一开始总是非常缓慢，但，呃，明年会提高到可观的数量。"
+    },
+    {
+      "id": "p-0010",
+      "startSec": 813.96,
+      "textEn": "And we're constructing a second Optimus factory in at our Giga Texas location. Um and that will probably start production around summer next year. Um the B3 Optimus design is uh almost ready to demonstrate. I think we want to just make sure it's like polished. Uh like it works functionally, but uh there's some aesthetic elements uh that need to be finalized. And um I think probably middle of this year we should be able to uh show it off. Um we're also a little hesitant to show B3 off because we find our competitors do a frame-by-frame analysis whenever we release something and copy everything they possibly can. So, I think there's some value to you know, not showing new technology until it's uh close to production. Um The uh congratulations to again to the uh Tesla AI chip team for taping out AI5. That's going to be a great chip. I think probably the best AI uh",
+      "textZh": "而且我们正在我们的得克萨斯超级工厂所在地建设第2座Optimus工厂。嗯，那座工厂可能会在明年夏季前后开始生产。嗯，B3 Optimus的设计，呃，几乎已准备好进行展示。我想我们只是想确保它足够完善。呃，比如说，它在功能上可以运行，但，呃，还有一些美学元素，呃，需要最终确定。而且，嗯，我想大概在今年年中，我们应该能够，呃，展示它。嗯，我们也有点不愿展示B3，因为我们发现，每当我们发布某些东西时，竞争对手都会逐帧分析，并尽其所能地复制一切。所以，我认为，你知道，在新技术，呃，接近投产之前不展示它，还是有一些价值的。嗯，再次，呃，祝贺Tesla AI芯片团队完成AI5流片。那将是一款很棒的芯片。我认为它可能是最好的AI，呃，"
+    },
+    {
+      "id": "p-0011",
+      "startSec": 889.6,
+      "textEn": "inference chip for edge compute that exists. Um I certainly unequivocally I think unequivocally the best value for money. Um team did a great job, and we're al- already uh have a lot of momentum for designing AI6, and we've begun to discuss uh ideas for Dojo 3. Um so, this is all very exciting. Um We've we've also uh uh finalized plans for the uh chip um fab the the research chip fab on the Giga Texas campus and we'll start construction of of that uh this year. Um in conclusion uh Tesla's working on a lot of large ambitious projects. They're all very very challenging, but I think they're going to be revolutionary. Uh and this is what the team does best, solve the hardest problems and build amazing products. And I'd like to thank the Tesla team for all their hard work. And thank you to all of our supporters.",
+      "textZh": "现有的边缘计算推理芯片。嗯，我当然毫不含糊地认为，毫不含糊地认为它最物有所值。嗯，团队做得非常出色，而且我们已——已经在AI6的设计上积累了很大势头，并且已经开始讨论，呃，Dojo 3的构想。嗯，所以，这一切都非常令人兴奋。嗯，我们、我们也已经，呃，呃，最终确定了在得克萨斯超级工厂园区建设芯片，嗯，晶圆厂，即研究芯片晶圆厂的计划，并将于今年开始建设，建设它。嗯，总而言之，呃，Tesla正在开展许多大型且雄心勃勃的项目。它们全都非常、非常具有挑战性，但我认为它们将具有革命性。呃，而这正是团队最擅长的事情：解决最困难的问题并打造令人惊叹的产品。我想感谢Tesla团队的辛勤工作。也感谢我们所有的支持者。"
+    },
+    {
+      "id": "p-0012",
+      "startSec": 954.52,
+      "textEn": ">> Great. Uh thank you very much, Elon. Uh and Vaibhav also has some opening remarks. >> Thanks, Travis. So, 2026 has had an has had an interesting start, not just for us, but I think the world in general. On the autos business, we have seen a resurgence in demand in EMEA and certain countries like France and Germany showing over 150% quarter-over-quarter growth in deliveries. In APAC, we've witnessed growth in South Korea and Japan, again in terms of deliveries. Even out here in the US, we've seen a slight growth in terms of quarter-over- quarter deliveries. On the order backlog front, we ended the quarter with the highest Q1 order backlog in over 2 years. Whilst the recent increase in gas prices has had a positive impact on the order rate, this improvement started before the uptrend in gas prices. This is due to the work done by the Tesla team in bringing more compelling and affordable vehicles to market.",
+      "textZh": ">> 很好。呃，非常感谢你，埃隆。呃，Vaibhav 也有一些开场发言。>> 谢谢，Travis。那么，2026年有了一个有了一个有趣的开端，不仅对我们如此，我认为对整个世界也是如此。在汽车业务方面，我们看到欧洲、中东和非洲地区的需求复苏，法国和德国等某些国家的交付量环比增长超过150%。在亚太地区，我们见证了韩国和日本的增长，同样是就交付量而言。即使在美国这里，我们也看到交付量环比略有增长。在订单积压方面，本季度结束时，我们的第一季度订单积压量达到2年多来的最高水平。尽管近期汽油价格上涨对订单率产生了积极影响，但这种改善在汽油价格开始上升之前就已出现。这归功于 Tesla 团队为向市场推出更具吸引力且价格更实惠的车辆所做的工作。"
+    },
+    {
+      "id": "p-0013",
+      "startSec": 1016.52,
+      "textEn": "10 years back when we launched Model 3 in the US with the promise of $35,000 starting price, which if you adjust today for inflation, translates to about $48,000 in today's dollar terms, the starting price of Model 3 today is way less than that, while the product is way more compelling from where it started. Given this setup, we're focused on increasing our overall production volume, something that we already started in Q1. This volume increase is evidenced by the Gigaberlin reaching a record output of over 61,000 units in Q1. We plan to keep growing volumes further, not just in Berlin, but across all our factories. Our biggest limiter continues to be our battery pack capacity, and we are actively working on resolving that. Auto margins, excluding credits, improved sequentially from 17.9% to 19.2%.",
+      "textZh": "10年前，当我们在美国推出 Model 3，并承诺起售价为35,000美元时，如果按今天的通胀进行调整，相当于以今天的美元计算约48,000美元，而如今 Model 3 的起售价远低于这一水平，同时产品也比刚开始时更具吸引力。鉴于这一情况，我们专注于提高整体产量，而这项工作已经在第一季度启动。这一产量增长体现在柏林超级工厂第一季度产量超过61,000辆，创下纪录。我们计划进一步提高产量，不仅是在柏林，而且涵盖我们所有的工厂。我们最大的制约因素仍然是电池包产能，我们正在积极努力解决这一问题。不计积分的汽车毛利率从17.9%环比提高至19.2%。"
+    },
+    {
+      "id": "p-0014",
+      "startSec": 1076.24,
+      "textEn": "Note that we've had certain one-time benefits from warranty true-downs around 230 million and some relief on tariffs. We have not realized any benefit from the recent Supreme Court ruling on iPad tariffs, as there is still a lot of uncertainty around the final outcome. Both tariffs and sustained high interest rates continue to add to our automotive costs. Interest rates and subvention costs are recognized up front. If interest rates continue to rise, our cost of subvention will continue to impact auto margins. On the FSD adoption front, we continue to see improvement, reaching nearly 1.3 million paid customers globally. The bulk of the growth came from subscriptions, while up-front purchases only increased 7% as we removed the purchase option in some markets in Q1. We recently received approvals for FSD in Netherlands. This sets up us well for a EU-wide approval later in Q2.",
+      "textZh": "请注意，我们获得了某些一次性收益，其中包括约2.30亿美元的保修准备金下调，以及一些关税减免。我们尚未从最高法院近期针对 iPad 关税的裁决中获得任何收益，因为最终结果仍存在很大不确定性。关税和持续的高利率都在继续增加我们的汽车成本。利率和补贴成本会预先确认。如果利率继续上升，我们的补贴成本将继续影响汽车毛利率。在 FSD 采用方面，我们继续看到改善，全球付费客户已接近130万。大部分增长来自订阅，而由于我们在第一季度取消了部分市场的购买选项，预先购买仅增长7%。我们最近在荷兰获得了 FSD 批准。这为我们在第二季度晚些时候获得欧盟范围内的批准奠定了良好基础。"
+    },
+    {
+      "id": "p-0015",
+      "startSec": 1139.64,
+      "textEn": "And, you know, we're just gated by how the regulators go about it. Additionally, we've also received approvals in China. Uh the broader approval is still not there, but we're working with the regulators in the country and we're hoping that we can get approval by Q3. With these approvals coming through, we expect the broader adoption of the software in the existing fleet and incremental demand for our vehicles. With all this in mind, we have evolved our vehicle sales strategy where we now emphasize FSD as a product and vehicle as only the delivery mechanism. As we have noted previously, the energy storage business is inherently lumpy, tied to customer deployment timelines. In Q1, we deployed 6 8.8 gigawatt hour of energy storage, a 38% sequential decline. However, we still expect 2026 deployments to be higher than 2025.",
+      "textZh": "而且，你知道，我们只是受制于监管机构如何推进这件事。此外，我们也在中国获得了批准。呃，更广泛的批准仍未到位，但我们正在与该国的监管机构合作，并希望能在第三季度之前获得批准。随着这些批准陆续到位，我们预计该软件在现有车队中的采用会更加广泛，并为我们的车辆带来增量需求。考虑到这一切，我们已经调整了车辆销售策略，现在我们强调 FSD 是产品，而车辆只是交付机制。正如我们此前指出的，储能业务本质上具有波动性，与客户的部署时间表相关。第一季度，我们部署了6 8.8吉瓦时的储能产品，环比下降38%。不过，我们仍预计2026年的部署量将高于2025年。"
+    },
+    {
+      "id": "p-0016",
+      "startSec": 1203.8,
+      "textEn": "We set yet another record with gross margins in this business over 39 and a half percent due to some one-time benefits from certain tariff recognitions of more than 250 million from certain tariffs which were paid in prior quarters. On a normalized basis, we continue to expect energy compression from here with increasing competition and tariff impacts. As previously discussed, tariffs in this business can have outsized impacts as most of the battery cells are procured from China. Our order backlog for this business is robust and we're doing our best to build not based on not just based on existing demand, but also on expected demand. Services and others improved sequentially from 8.8% to 9.2%. This includes a collection of efforts meant to support our customers like service centers, used cars, paid supercharging, part sales, insurance, and even our robotaxi business. We're making deliberate investments in the infrastructure to help the robotaxi in the future.",
+      "textZh": "我们再次创下纪录，这项业务的毛利率超过39.5%，原因是确认了超过2.50亿美元的某些一次性关税收益，这些关税是在之前几个季度支付的。按正常化口径计算，随着竞争加剧和关税影响，我们继续预计能源压缩将从现在开始出现。正如此前讨论的，由于大多数电芯从中国采购，关税可能会对这项业务产生格外显著的影响。这项业务的订单积压很强劲，我们正在尽最大努力安排生产，不是基于不只是基于现有需求，还基于预期需求。服务及其他业务的毛利率从8.8%环比提高至9.2%。其中包括一系列旨在为客户提供支持的业务，例如服务中心、二手车、付费超级充电、零部件销售、保险，甚至还有我们的 Robotaxi 业务。我们正在有计划地投资基础设施，以便将来为 Robotaxi 提供支持。"
+    },
+    {
+      "id": "p-0017",
+      "startSec": 1269.76,
+      "textEn": "We grew the robotaxi fleet quarter over quarter and we expect to keep ramping the fleet as we accelerate and get into other geographies. On operating expenses side, we we did increase sequentially from a full quarter stock-based compensation expense for the 2025's CEO compensation plan, for which one milestone is still deemed probable. Additionally, our spend on AI-related initiatives, including expense on development of our own AI 5 chip and new products like Cybertruck, Semi, Optimus, and Megapack, etc., continue to be at a elevated levels and we expect this trend to continue for the full year 2026. Net income was impacted from mark-to-market charges on on our Bitcoin holdings, which depreciated 22% as compared to the last quarter, and the unfavorable impact of FX primarily from our large intercompany borrowings.",
+      "textZh": "Robotaxi 车队规模环比增长，随着我们加速推进并进入其他地区，我们预计将继续扩大车队规模。在运营费用方面，由于2025年 CEO 薪酬计划产生了一个完整季度的股份支付费用，我们的运营费用确实环比增加，该计划仍有一个里程碑被认为很可能实现。此外，我们在人工智能相关项目上的支出，包括自主研发 AI 5 芯片的费用，以及 Cybertruck、Semi、Optimus 和 Megapack 等新产品的支出，继续处于较高水平，我们预计这一趋势将在整个2026年持续。净利润受到我们所持比特币按市值计价费用的影响，其价值较上一季度下跌22%，同时还受到汇率的不利影响，后者主要源于我们大额的公司间借款。"
+    },
+    {
+      "id": "p-0018",
+      "startSec": 1331.48,
+      "textEn": "On free cash flow, we ended the quarter with just over 1.4 billion. As Elon mentioned, we are in a very big capital in investment phase, which is going to start now and would last a couple of years. So, based on that, our current expectation for 2025 2026 is over 25 billion of CapEx. And, you know, just to remind you, we are paying for six factories which were going to go into operation. Some have already started, some would go into operation later part of this year. We're further increasing our investment in AI-related initiatives, including the AI infrastructure, to support robotaxi and the launch of Optimus. We've already started placing orders for the research semiconductor flat fab in Austin and for solar manufacturing equipment. While this may seem a lot and we will have the impact of negative free cash flow for the rest of the year, we believe this is the right strategy to position the company for the next era.",
+      "textZh": "在自由现金流方面，本季度结束时我们的自由现金流略高于14亿。正如埃隆提到的，我们正处于一个规模非常大的资本投资阶段，这一阶段现在即将开始，并将持续几年。因此，基于这一点，我们目前对2025 2026年的预期是资本支出超过250亿。而且，你知道，提醒一下，我们正在为6座即将投入运营的工厂支付费用。其中一些已经启动，另一些将在今年晚些时候投入运营。我们正在进一步增加对人工智能相关项目的投资，包括支持 Robotaxi 和 Optimus 推出的人工智能基础设施。我们已经开始为奥斯汀的研究半导体平板晶圆厂以及太阳能制造设备下单。虽然这看起来可能很多，而且今年剩余时间里我们将受到自由现金流为负的影响，但我们认为，这是让公司为下一个时代做好定位的正确战略。"
+    },
+    {
+      "id": "p-0019",
+      "startSec": 1393.64,
+      "textEn": "We'll make such investments in a very capital efficient manner. We are actively working on our mission of building a future of amazing abundance. However, that requires not just a lot of investment, but an immense amount of execution. The future is going to be great and the whole Tesla team is rising to the occasion to make this a reality. I would like to end by thanking the Tesla team, our customers, investors, and vendors for having confidence in us on this journey. Thanks. >> Thank you very much, Vaibhav. Uh now we're going to go to investor questions, uh starting with a question from say.com. >> [clears throat] >> The first question is, uh when will we have the Optimus 3 reveal, uh which we already uh touched on, um but the rest of the question is, uh when will Optimus production start since we ended the Model uh X and S production earlier this uh than mid-year, and then uh what's the expected Optimus production rate exiting this year, and what are the initial targeted skills?",
+      "textZh": "我们将以资本效率非常高的方式进行此类投资。我们正在积极推进我们的使命，即建设一个极度富足的未来。然而，这不仅需要大量投资，还需要极其强大的执行力。未来将会非常美好，整个 Tesla 团队正在迎接挑战，将其变为现实。最后，我要感谢 Tesla 团队、我们的客户、投资者和供应商在这段旅程中对我们的信任。谢谢。>> 非常感谢你，Vaibhav。呃，现在我们将进入投资者问答环节，呃，首先是来自 say.com 的一个问题。>> [清嗓子] >> 第一个问题是，呃，我们什么时候会发布 Optimus 3，呃，这一点我们已经呃谈到过，嗯，但问题的其余部分是，呃，既然我们在今年早于年中的时候结束了 Model 呃 X 和 S 的生产，那么 Optimus 的生产何时开始，接着呃，到今年年底时 Optimus 的预期生产速率是多少，以及最初针对的是哪些技能？"
+    },
+    {
+      "id": "p-0020",
+      "startSec": 1456.92,
+      "textEn": ">> Well, as I was saying, >> [clears throat] >> what we found is that when we've unveiled first Optimus versions, we've Optimus versions, we found that our competitors literally do a frame-by-frame analysis and copy everything we're doing. So, I think we want to push the Optimus 3 um unveil maybe closer to production. Uh start of production is um we're assuming is somewhere you know, somewhere around the late July, August time frame. Um and um I mean, just to just to inject some reality into these questions since these questions are are not you know so if we're we're the describe of this question does not fully understand what happens with a production line. Um the the last uh SX production will be in early May. Um but you have to look at the entire upstream portion of the production line.",
+      "textZh": ">> 嗯，正如我刚才所说，>> [清嗓子] >> 我们发现，当我们发布首批 Optimus 版本时，我们发布 Optimus 版本时，我们发现竞争对手简直会逐帧分析并复制我们所做的一切。所以，我认为我们可能希望把 Optimus 3 的嗯发布推迟到更接近投产的时候。呃，我们假定开始生产的时间大概是，你知道，大概在7月下旬、8月这个时间段。嗯，而且嗯，我是说，只是要只是要给这些问题注入一些现实情况，因为这些问题并不是，你知道，所以如果我们我们这个问题的描述者并未完全理解生产线是怎么回事。嗯，最后一批呃 SX 将于5月初生产。但你必须审视生产线的整个上游部分。"
+    },
+    {
+      "id": "p-0021",
+      "startSec": 1516.72,
+      "textEn": "So you you have to start with you know cells, battery packs, um you know motor production, all the parts production. And so we've been dismantling the uh SX production line um you know from the you know more base level parts base more basic level parts to as you get to more larger sub-assemblies, you you you start dismantling the line from the small parts first not not from the final assembly first. So if the final assembly line will um that that'll be dismantled next month and the uh after the last of the uh SX vehicle's done. Now you can't you can't dismantle some gigantic production line like overnight. It takes uh uh at least a few months to do so. Um and then uh you you've got to install a new production line um and you've got to provide all of the the wiring and communication uh you know test out the machines um of of the new production line for Optimus. So that that also takes several months. Um so frankly if if we're able to go from um stopping production on one line dismantling that entire line,",
+      "textZh": "所以你你必须从，你知道，电芯、电池包，嗯，你知道，电机生产、所有零部件的生产开始。因此，我们一直在拆除呃 SX 生产线，嗯，你知道，从那些，你知道，更底层的零部件基础更基础层级的零部件开始，当进入更大型的分总成时，你你你要先从小零部件开始拆除生产线，而不是不是先从总装开始。所以，如果总装线将嗯，那条线将在下个月拆除，并在最后一辆呃 SX 车辆完成之后。现在，你不可能你不可能在一夜之间拆除某条庞大的生产线。这样做需要呃呃至少几个月。嗯，然后呃你你还得安装一条新生产线，嗯，而且还得提供所有布线和通信，呃，你知道，测试 Optimus 新生产线的嗯机器。所以，这也需要几个月。嗯，所以坦率地说，如果如果我们能够从嗯停止一条生产线的生产、拆除整条生产线，"
+    },
+    {
+      "id": "p-0022",
+      "startSec": 1593.12,
+      "textEn": "reinstalling a whole new line, and turning that on in a matter of 4 months uh that is a an insanely fast speed. Uh I I don't think any other company on Earth has ever done that before. Just to put things into perspective and inject some reality into uh the the situation here. Um I don't know what the production rate of Optimus will be this year. It is impossible to predict these things. Um the When you have a uh brand new product and an entire new entirely new production line and the and you have 10,000 unique items, all of which have to go right to ramp production. It'll move as fast It'll move as fast as the least lucky, slowest, dumbest part in the entire 10,000. Um and this is a Optimus uh is is a completely new product with a completely new production line. Um so uh it's uh it's just literally impossible to predict.",
+      "textZh": "重新安装一整条新生产线，并在4个月内将其启动，呃，那是一个快得惊人的速度。呃我我认为地球上没有任何其他公司曾经做到过这一点。只是为了正确看待问题，并给呃这里的这个情况注入一些现实情况。嗯，我不知道今年 Optimus 的生产速率会是多少。这些事情不可能预测。嗯，当你拥有一个呃全新的产品和一条完全新的全新生产线，而且而且你有10,000个独特项目时，要提高产量，所有项目都必须顺利。它前进得有多快，它前进得有多快，将取决于整个10,000个项目中最不走运、最慢、最笨的那个。嗯，而这是一个 Optimus 呃是是一个完全崭新的产品，采用完全崭新的生产线。嗯，所以呃，这呃简直就是不可能预测的。"
+    },
+    {
+      "id": "p-0023",
+      "startSec": 1664,
+      "textEn": "Um ex- except that I I I I think it will be quite slow at first. Um as we iron out the 10,000 plus unique items that have to be sold for Optimus to um reach volume production. Um initial skills will be obviously we're going to start with with simple skills um in the factory and and then build up from there. >> Great. Thank you, Elon. Uh the next question is what milestones are you targeting for unsupervised FSD and robotaxi expansion beyond Austin this year and how will that drive recurring revenue? >> Um well, we we certainly hope to be have uh unsupervised FSD or {slash} robot taxi um operating >> [clears throat] >> you know, in I don't know. Uh in those North American states by the end of this year. Um",
+      "textZh": "呃，除——除了我我我我认为一开始会相当缓慢。呃，因为我们要解决 Optimus 达到量产所必须处理的 10,000 多个独特项目。呃，最初的技能显然会是，我们将从工厂里的简单技能开始，呃，然后在此基础上逐步提升。>> 很好。谢谢你，埃隆。呃，下一个问题是：对于今年在奥斯汀以外地区扩展无监督 FSD 和 Robotaxi，你们设定了哪些里程碑？这将如何推动经常性收入？>> 呃，嗯，我们当然希望到今年年底，能让无监督 FSD 或 {slash} Robotaxi，呃，在——>> [清嗓子] >> 你知道，我不知道。呃，在那些北美州份投入运营。呃"
+    },
+    {
+      "id": "p-0024",
+      "startSec": 1741.2,
+      "textEn": "Initially, you know, we're we're we're we're taking it very We're taking a very cautious approach to the rollout here. Like we do we haven't had any injuries and certainly no fatalities to date with the the unsupervised unsupervised FSD and robot taxi expansion. We we want to keep it that way. And so, um I I don't I think probably uh unsupervised FSD or robot taxi revenue will not be super material this year, but I do think it will be material it'll be material probably in a significant way next year. >> Great. Thank you very much. Uh the next question is, when do you expect FSD unsupervised to reach customer cars? >> Um I'm I'm just guessing here, but probably in the fourth quarter. Um It's it's difficult to release this like to everyone everywhere all at once because we we do want to make sure that they're not",
+      "textZh": "最初，你知道，我们我们我们我们正以非常——我们正以非常谨慎的方式在这里推进部署。就像我们确实——迄今为止，无监督、无监督 FSD 和 Robotaxi 的扩展没有造成任何人受伤，当然也没有任何人死亡。我们我们希望继续保持这样。所以，呃，我我不——我认为无监督 FSD 或 Robotaxi 的收入今年可能不会特别可观，但我确实认为明年它会变得可观，可能会在很大程度上变得可观。>> 很好。非常感谢。呃，下一个问题是：你预计无监督 FSD 何时会进入客户的车辆？>> 呃，我我这里只是在猜，但可能是在第四季度。呃，这很——很难像这样一次性向所有地方的所有人发布，因为我们我们确实想确保不会有"
+    },
+    {
+      "id": "p-0025",
+      "startSec": 1816.64,
+      "textEn": "unique situations in a city that you know, particularly complex intersection or you know, actually they they tend to be places where where people get into accidents a lot. Um because because they're just you know, perhaps there's an un- like I said, an unsafe intersection or bad road markings or um you know, a lot of weather challenges. So, so I think we would release unsupervised gradually to the customer fleet but you know to Yeah. Um as we feel like a particular geography is confirmed to be safe. >> Great. Uh >> [clears throat] >> and uh the next question is how will hardware three cars reach unsupervised FSD? >> Uh unfortunately, hardware three I I I wish it were otherwise but hardware three is simply does not have the capability to achieve unsupervised FSD. Um you know, we we did think at one point it it it would have that but uh relative to to hardware four, it has only 1/8 of the memory bandwidth of hardware four.",
+      "textZh": "一座城市里的独特情况，你知道，特别复杂的十字路口，或者，你知道，实际上它们往往是人们经常发生事故的地方。呃，因为因为它们就是，你知道，也许有一个不——就像我说的，一个不安全的十字路口，或者糟糕的道路标线，或者，呃，你知道，许多天气方面的挑战。所以，所以我认为我们会逐步向客户车队发布无监督功能，但是，你知道，对。呃，当我们认为某个特定地理区域已被确认安全时。>> 很好。呃 >> [清嗓子] >> 以及，呃，下一个问题是：Hardware 3 车辆将如何实现无监督 FSD？>> 呃，很遗憾，Hardware 3，我我我希望情况并非如此，但 Hardware 3 就是没有能力实现无监督 FSD。呃，你知道，我们我们确实曾一度认为它它它能够做到，但，呃，与 Hardware 4 相比，它的内存带宽只有 Hardware 4 的 1/8。"
+    },
+    {
+      "id": "p-0026",
+      "startSec": 1891.32,
+      "textEn": "And and memory bandwidth is one of the key uh elements needed for unsupervised FSD. And it's it's just generally I think that's needed for for AI. If you for if you're doing an order aggressive transformer, memory bandwidth is the choke point. So, um you know, for for customers that have bought uh FSD, >> [clears throat] >> um what we're offering is essentially a trade-in like a discounted trade-in for cars that have um AI four hardware. Um And um and and we'll also be offering the ability to uh upgrade the car, to replace the uh computer. And you also need to replace the cameras, unfortunately, um to go to hardware four. Um so, to do this efficiently, we're we're going to have to set up uh like kind of micro factories or small factories uh in major um metropolitan areas in order to do it efficiently. If cuz if it's done just at the service center, it's it is extremely slow to do so and inefficient. So, we we basically need like",
+      "textZh": "而且而且，内存带宽是无监督 FSD 所需的关键，呃，要素之一。而且它——我认为，一般来说，这是 AI 所需要的。如果你——如果你在做有序激进型 Transformer，内存带宽就是瓶颈。所以，呃，你知道，对于购买了，呃，FSD 的客户，>> [清嗓子] >> 呃，我们提供的本质上是置换，比如以优惠价格置换配备，呃，AI 4 硬件的车辆。呃，而且，呃，而且而且我们还将提供升级车辆、更换，呃，计算机的能力。而且很遗憾，你还需要更换摄像头，呃，才能升级到 Hardware 4。呃，所以，为了高效完成这件事，我们我们将不得不在主要的，呃，大都市地区设立，呃，类似微型工厂或小型工厂的设施，以便高效完成。因为如果只在服务中心做，这——这样做会极其缓慢且低效。所以，我们我们基本上需要类似"
+    },
+    {
+      "id": "p-0027",
+      "startSec": 1967,
+      "textEn": "many production lines to to make the change. Um and um I I do think over time it's going to make sense for us to convert all hardware 3 cars to hardware 4 because that's what enables them to enter the robotaxi fleet and have unsupervised FSD. >> Uh and for what [clears throat] it's worth, in the meantime, we're going to also release a V14 version for hardware 3. This will be a digital version of the same V14 software that we released for hardware 4. And people should be able to start the drives from park state and basically have all the features that V14 for hardware 4 has. And that's expected to come end of June. >> Great. Thank you very much. The next question is what enabled you to finish the AI 5 tape out early and were there any changes to the original vision? Last week Elon said AI 5 will go into Optimus and the supercomputer, but 1 month ago said it would go into the robotaxi. Has AI 5 been dropped from the vehicle road map?",
+      "textZh": "许多生产线来来完成更换。呃，而且，呃，我我确实认为，随着时间推移，把所有 Hardware 3 车辆转换为 Hardware 4 对我们来说会是合理的，因为这能让它们进入 Robotaxi 车队，并拥有无监督 FSD。>> 呃，另外，不管这是否[清嗓子]值得一提，在此期间，我们还将为 Hardware 3 发布 V14 版本。这将是我们为 Hardware 4 发布的同一套 V14 软件的数字版本。人们应该能够从驻车状态开始行程，并且基本上拥有 Hardware 4 版 V14 所具备的所有功能。预计会在 6 月底推出。>> 很好。非常感谢。下一个问题是：是什么让你们得以提前完成 AI 5 流片？原始构想是否有任何变化？上周埃隆表示 AI 5 将用于 Optimus 和超级计算机，但 1 个月前又说它将用于 Robotaxi。AI 5 已从车辆路线图中移除了吗？"
+    },
+    {
+      "id": "p-0028",
+      "startSec": 2036.08,
+      "textEn": ">> Well, the reason AI 5 tape out finished early was because the team worked incredibly hard to make it happen. And we just over time we we gathered a lot of momentum. Um but we we did have to work every weekend for 6 months straight including up every holiday. So, it was a lot of sacrifice by the team and and I was there of course myself every weekend. Uh and uh you know, fortunately we didn't encounter any major we didn't make any major mistakes that were at least that we're aware of that required um pushing out the tape out. So, that that just the team just got did a great job and worked incredibly hard is the reason. Um uh Yeah, I do expect that AI 5 will go into Optimus and into the data center um because it it's it's looking uh like we'll be able to achieve um unsupervised self-driving with uh AI 4 that is far greater than human safety levels.",
+      "textZh": ">> 嗯，AI 5 流片提前完成，是因为团队付出了难以置信的努力来促成此事。而且随着时间推移，我们我们积累了很大的势头。呃，但我们我们确实不得不连续 6 个月每个周末都工作，包括每个节假日。所以，团队作出了很大的牺牲，而且而且我本人当然每个周末也都在那里。呃，而且，呃，你知道，幸运的是，我们没有遇到任何重大——我们没有犯下任何重大错误，至少没有我们所知的、需要，呃，推迟流片的错误。所以，原因就是——团队就是干得非常出色，并且付出了难以置信的努力。呃，呃，对，我确实预计 AI 5 将用于 Optimus 和数据中心，呃，因为目前看来，我们将能够用，呃，AI 4 实现无监督自动驾驶，而且安全水平远高于人类。"
+    },
+    {
+      "id": "p-0029",
+      "startSec": 2109.16,
+      "textEn": "So, um which means it's it's it's it's not certainly not immediately needed in in the car. Um I at some point I think it will make sense for us to switch to AI 5 in the car, but that's it but there's not a pressing issue to do so. Um So, but at some point the AI 4 hardware is going to get like so old that it's like okay, uh you know, the only reason they're keeping the factory open is for AI 4. Um We we are planning an AI 4 uh upgrade uh to use uh newer generation RAM. Uh so, it'll it'll go from uh 16 GB to I think 32 GB uh per SOC. So, total of 64 GB. Um and um probably a 10% increase in compute in in in in sort of in trillions of operations per second and in memory bandwidth. So, that's uh AI 4.1 or AI 4 plus probably uh goes into production middle of next year, I think. Depends",
+      "textZh": "所以，呃，这意味着它它它它当然不是汽车眼下迫切需要的。呃，我认为在某个时候，在车上转用 AI 5 对我们来说会是合理的，但就这样——但目前没有迫切的问题要求这样做。呃，所以，但是在某个时候，AI 4 硬件会变得非常老旧，以至于就像，好吧，呃，你知道，他们让工厂继续运营的唯一原因就是 AI 4。呃，我们我们正在规划一次 AI 4，呃，升级，呃，改用，呃，新一代 RAM。呃，所以，每个 SOC 的容量将从，呃，16 GB 增加到我想是 32 GB。所以总计 64 GB。呃，而且，呃，以每秒数万亿次运算衡量的算力和内存带宽可能会提高 10%，在在在在某种意义上。所以，这就是，呃，AI 4.1，或者可能叫 AI 4 Plus，呃，我想会在明年年中投产。取决于"
+    },
+    {
+      "id": "p-0030",
+      "startSec": 2185.88,
+      "textEn": "It's It's uh depends on on uh Samsung's doing the modifications for us, so it sort of depends on on when they're able to finish that finish those modifications and bring it to production. >> Great. Uh the next question is uh now that FSD has been approved in the Netherlands and is expected to launch across Europe this summer, can you discuss your robotaxi strategy for the region? >> Well, we're probably jumping the gun here on um robotaxi in Europe since uh it is took us an immense amount of time just to get supervised self-driving approved in Europe. And uh you know, these uh we don't control the regulators, you know, it's uh we're pushing as hard as we can, but but that's it's ultimately up to the to the uh governments in Europe and the EU to decide what uh what to do. Um So, uh yeah, as it is, we're well, we've only been approved in Netherlands. We expect to be approved approved in a lot of other countries.",
+      "textZh": "这——这，呃，取决于，呃，三星正在为我们进行修改，所以某种程度上取决于他们何时能够完成那个——完成那些修改并将其投入生产。>> 很好。呃，下一个问题是，呃，既然 FSD 已在荷兰获批，并预计于今年夏天在整个欧洲推出，你能谈谈你们在该地区的 Robotaxi 战略吗？>> 嗯，我们现在谈欧洲的，呃，Robotaxi 可能有点操之过急，因为，呃，我们仅仅为了让有监督自动驾驶在欧洲获批，就花费了极其漫长的时间。而且，呃，你知道，这些——呃，我们无法控制监管机构，你知道，这——呃，我们正在尽最大努力推动，但但这最终取决于欧洲各国政府和欧盟决定要，呃，要怎么做。呃，所以，呃，对，就目前而言，我们——嗯，我们只在荷兰获得了批准。我们预计会在许多其他国家获批、获批。"
+    },
+    {
+      "id": "p-0031",
+      "startSec": 2254.76,
+      "textEn": "And I think the um supervised FSD goes to Brussels for EU review um in May, yeah. So, um And obviously then the the next thing beyond that is to um aim for unsupervised self-driving or robotaxi in Europe. Uh I actually don't know what the time frame for that is. It it would be somewhat at the mercy of the regulators as to when that approval would would take place. >> And from a technology standpoint, um what we deployed in Netherlands and Europe is the same exact architecture uh and the training procedure and so on, except it had more Europe data Um, I suspect that the thing will be true for unsupervised FSD as well. Whatever we use to solve in the US will work in other places in the rest of the world, too, uh, provided we were able to add the data from the local regions. >> Great. The next question is, uh, given the recent NHTSA incident filings, can you update us on the robot taxi safety data?",
+      "textZh": "而且我认为，呃，有监督 FSD 会在 5 月送交布鲁塞尔接受欧盟审查，对。所以，呃，而且显然，再下一步就是，呃，争取在欧洲实现无监督自动驾驶或 Robotaxi。呃，我其实不知道这方面的时间表是什么。何时能获得那项批准，将在某种程度上受制于监管机构。>> 而且从技术角度看，呃，我们在荷兰和欧洲部署的是完全相同的架构，呃，以及训练流程等等，只不过加入了更多欧洲数据。呃，我怀疑同样的情况也适用于无监督 FSD。无论我们用什么方法解决美国的问题，它也会在世界其他地方奏效，呃，前提是我们能够加入当地地区的数据。>> 很好。下一个问题是，呃，鉴于 NHTSA 最近的事故申报，你能介绍一下 Robotaxi 安全数据的最新情况吗？"
+    },
+    {
+      "id": "p-0032",
+      "startSec": 2323.16,
+      "textEn": "If safety validation remains the primary bottleneck, why not deploy thousands of vehicles to accelerate removal of the safety driver? Yeah, Ashok, do you want to take that? >> Yeah, uh, we are increasing the amount of, uh, our QA fleet, but we also want to use, uh, the customer fleet to, um, give us, uh, the useful metrics back so that we can scale it safely. Like you don't mention, we are absolutely focused on safety, uh, and so far we have zero, uh, incidents, um, and that's what the NHTSA filing also shows. Uh, in addition to, um, safety, we are also solving some of these, uh, so-called scaling issues. For example, you do not want the robot taxi to be stuck blocking in intersections, uh, or don't want to be dropping people off at, uh, slightly incorrect locations, and so on. So, we're simultaneously solving the long tail of safety, uh, by monitoring the metrics across the entire Tesla customer vehicle fleet, which are, you know, uh, is close to driving 10 billion miles on FSD, uh, in the next, uh, few weeks, uh, and also scaling up the amount of QA fleet that we have across the entire US to accelerate our safety validation, uh, while also scaling, uh, the",
+      "textZh": "如果安全验证仍是主要瓶颈，为什么不部署数千辆汽车来加快移除安全驾驶员？对，Ashok，你想回答这个问题吗？>> 对，呃，我们正在增加，呃，QA 车队的规模，但我们也希望利用，呃，客户车队来，呃，向我们反馈，呃，有用的指标，以便我们能够安全地扩大规模。就像你没有提到的那样，我们绝对专注于安全，呃，到目前为止，我们有 0 起，呃，事故，呃，这也是 NHTSA 申报所显示的。呃，除了，呃，安全之外，我们还在解决其中一些，呃，所谓的规模化问题。例如，你不希望 Robotaxi 卡住并堵在十字路口，呃，也不希望把人送到，呃，略微不正确的位置，等等。所以，我们正在同时解决安全问题的长尾部分，呃，方式是监测整个 Tesla 客户车辆车队的指标，而该车队，你知道，呃，在接下来的，呃，几周内，使用 FSD 的行驶里程将接近 100 亿英里，呃，同时也扩大我们遍布全美的 QA 车队规模，以加快我们的安全验证，呃，同时也扩大，呃，"
+    },
+    {
+      "id": "p-0033",
+      "startSec": 2391.52,
+      "textEn": "rest of the factors that can, um, you know, throttle the, um, uh, increase of unsupervised vehicles. >> All right. Uh, the next question is, is V, uh, 14.3 still the last piece of the puzzle to enable, uh, large-scale unsupervised FSD and robot taxi, or do we have to wait until V15? >> Well, um No, I I I I think 14.3 is is is last piece of the puzzle uh for unsupervised FSD. Now, the the question is like degrees of safety. Um like how to safety and convenience, I suppose. Um We have a lot of known improvements. Um like major archi- architectural improvements that we know would improve the probability of safety significantly. So, I think it's it's not going to make sense for us to deploy you know, unsupervised FSD or robotaxi at large scale when we we know that there are major architectural improvements to the software that can improve safety.",
+      "textZh": "其余可能，呃，你知道，限制，呃，呃，无监督车辆数量增长的因素。>> 好的。呃，下一个问题是，V，呃，14.3 是否仍是实现，呃，大规模无监督 FSD 和 Robotaxi 的最后一块拼图，还是我们必须等到 V15？>> 嗯，呃，不，我我我我认为 14.3 是——是——是无监督 FSD 的最后一块拼图。现在，问题在于安全程度。呃，比如如何——我想是安全性和便利性。呃，我们有许多已知的改进。呃，比如我们知道会显著提高安全概率的重大架构——架构改进。所以，我认为，当我们我们知道软件存在能够提高安全性的重大架构改进时，大规模部署，你知道，无监督 FSD 或 Robotaxi 是——是没有意义的。"
+    },
+    {
+      "id": "p-0034",
+      "startSec": 2466.52,
+      "textEn": "Um So, so I think we're we're we're going to want to uh finish writing that software, validate it, and release it before uh going to large scale unsupervised FSD. Depending on what large scale means. I mean, we we we are we of course, as I mentioned earlier, uh doing unsupervised FSD in three cities, and we'll expand on it to like say probably a dozen states or more later this year. Um so, kind of depends on what your definition of large scale is. Um But, I I do think it it wouldn't it wouldn't be right for us to go go to go go to like very large scale unsupervised FSD when we know that there are software improvements in the pipeline that would improve safety. >> Yep, and I'd like to note that the version of robotaxi that's running in Austin and Dallas, Houston, etc., those are essentially 14.3 variants.",
+      "textZh": "嗯，所以，所以我认为我们会想要，呃，完成那款软件的编写，验证它，并在，呃，大规模推出无监督 FSD 之前发布它。这取决于“大规模”是什么意思。我的意思是，正如我之前提到的，我们我们我们当然正在3个城市开展无监督 FSD，而且今年晚些时候我们会将其扩展到，比如说，大概12个州或更多州。嗯，所以，这有点取决于你对“大规模”的定义。嗯，但是，我我确实认为，当我们知道还有一些正在推进的软件改进能够提高安全性时，我们就去去，去去大规模，比如超大规模推出无监督 FSD，那那是不合适的。>> 对，而且我想指出，目前在奥斯汀和达拉斯、休斯敦等地运行的 robotaxi 版本，本质上是 14.3 的变体。"
+    },
+    {
+      "id": "p-0035",
+      "startSec": 2527.2,
+      "textEn": "Um and it's obviously safe, that why we're able to launch in those cities and we continue to expand based on the V13 uh sorry, V14.3 base um for a while until V15 lands. And V15 is going to be a major upgrade. >> Yeah. Okay, thank you. Um the next two questions we've already answered uh about robo-taxi uh rollout um and uh the data that that we're observing. So, uh we will end on the last question, which is uh what is Tesla doing to scale the energy generation business with solar? Residential roof deployments have stalled. Will Tesla move to regional solar and battery farms, perhaps coupled to superchargers? Uh will we deploy solar through utilities? >> Yeah, the overall US residential solar market is going through a bit of a correction after the loss of the homeowner tax credit last year, but we still see strong demand shaping up for the second half of the year.",
+      "textZh": "嗯，而且它显然是安全的，这就是为什么我们能够在那些城市推出它；我们会继续以 V13，呃，抱歉，以 V14.3 为基础进行扩展，持续一段时间，直到 V15 落地。而 V15 将会是一次重大升级。>> 是的。好的，谢谢。嗯，接下来的2个问题我们已经回答过了，呃，是关于 robotaxi，呃，推广，嗯，以及，呃，我们观察到的数据。所以，呃，我们将以最后一个问题结束，也就是，呃，Tesla 正在采取什么措施，通过太阳能扩大能源生产业务？住宅屋顶部署已经停滞。Tesla 是否会转向区域性太阳能和电池农场，或许与超级充电站结合？呃，我们会通过公用事业公司部署太阳能吗？>> 是的，在去年房主税收抵免取消后，美国住宅太阳能市场整体正在经历一定程度的调整，但我们仍然看到今年下半年的需求正在强劲成形。"
+    },
+    {
+      "id": "p-0036",
+      "startSec": 2588,
+      "textEn": "Tesla introduced a lease product this year that allows us to capture the tax credit ourselves and offer competitive pricing for homeowners. We have also debuted our own solar panel with superior performance and aesthetics, uh as well as our own best-in-class uh mounting system, that gives us a fully integrated home energy ecosystem. We believe We strongly believe that solar and storage markets globally will continue to grow at both residential and utility scale, and we will continue to invest in that growth. >> Great. Thank you, Mike. Uh so, now we're going to move on to analyst questions. Uh the first question is going to come from uh Will Stein at Truist. Uh Will, please feel free to unmute yourself when you're ready. >> Hi, can you hear me? >> Yes. Yes, we can. >> Okay, great. Thanks for taking my question. Um considering the various parties involved in the Terafab project, um I'm hoping you can provide uh some details for investors about which party is going to take responsibility for each aspect of that project, funding it, designing it, uh building it, operating, taking production, and the like. Uh I would love to hear some some more details.",
+      "textZh": "Tesla 今年推出了一款租赁产品，使我们能够自行获取税收抵免，并为房主提供有竞争力的价格。我们还首次推出了自有太阳能电池板，具备卓越的性能和美观度，呃，以及我们自有的同类最佳，呃，安装系统，这让我们拥有了一个完全一体化的家庭能源生态系统。我们相信，我们坚信，全球太阳能和储能市场将继续在住宅和公用事业规模上增长，而我们将继续为这种增长投资。>> 很好。谢谢你，迈克。呃，那么，现在我们将进入分析师提问环节。呃，第1个问题将来自 Truist 的，呃，威尔·斯坦。呃，威尔，准备好后请随时取消静音。>> 嗨，你们能听到我吗？>> 能。能，我们可以。>> 好的，很好。感谢回答我的问题。嗯，考虑到参与 Terafab 项目的各方，嗯，我希望你能向投资者提供，呃，一些细节，说明哪一方将负责该项目的各个方面，包括为其提供资金、设计它、呃，建造它、运营、承接产出等等。呃，我很想听到一些一些更多细节。"
+    },
+    {
+      "id": "p-0037",
+      "startSec": 2666.64,
+      "textEn": ">> Yeah, so >> [clears throat] >> we're we're still working out the um the details of the Terafab de- uh deployment. Um in in the near term uh Tesla will be um building the uh the research fab uh at on our Giga Texas campus. Um This is something we expect to be probably you know a $3 billion-ish in an initiative. Um and capable of maybe a few thousand wafers per month. Uh but it's really intended to try out ideas, research fab. Um both both in terms of maybe we have some ideas for improving the fundamental technology of how chips are made. Um and some of the the some new physics we'd like to test out. Um but but we also want to test out the ability to um to see if something is working in production. So, you need kind of like a few thousand wafers starts a month uh to make sure that a production process is sound.",
+      "textZh": ">> 是的，那么 >> [清嗓子] >> 我们我们仍在敲定，嗯，Terafab 部-，呃，部署的细节。嗯，在在近期，呃，Tesla 将，嗯，在我们的得州超级工厂园区建造，呃，研发晶圆厂。嗯，我们预计这可能是，你知道，一项约30亿美元的计划。嗯，而且产能可能是每月几千片晶圆。呃，但它实际上旨在试验想法，是一座研发晶圆厂。嗯，包括包括，也许我们有一些想法，可以改进芯片制造方式的基础技术。嗯，还有一些，一些我们想测试的新物理学。嗯，但但我们也想测试，嗯，验证某项技术是否能在生产中运行的能力。所以，你需要大概每月投片几千片晶圆，呃，以确保生产工艺是可靠的。"
+    },
+    {
+      "id": "p-0038",
+      "startSec": 2739.2,
+      "textEn": "Um and and uh and then on SpaceX is uh ca- uh going to take care of like the initial phase of the the the scaled-up Terafab. Um and um that that's that's what we've figured out thus far. Uh um you know, any any kind of intercompany thing has to be approved by both the SpaceX and Tesla board of directors. It's got to go through a conflict resolution. It's It's going to have a lot of unfortunately a lot of complexity because we've got to make sure Tesla shareholders are served and SpaceX shareholders are served and strike the right balance there. Uh, so it it it takes a while to work through the the the kind of independent director uh reviews on on this. So that that's basically what what we've figured out thus far is Tesla's doing the research fab, SpaceX doing the initial part of the large-scale terrafab.",
+      "textZh": "嗯，而且而且，呃，然后 SpaceX 会，呃，会负责，比如扩建后的 Terafab 的的的初始阶段。嗯，而且，嗯，那那是我们迄今已经确定的事情。呃，嗯，你知道，任何任何形式的公司间事项都必须得到 SpaceX 和 Tesla 两家公司董事会的批准。它必须经过利益冲突解决程序。不幸的是，它它会有很多、很多复杂性，因为我们必须确保 Tesla 股东的利益得到保障，SpaceX 股东的利益也得到保障，并在其中取得适当的平衡。呃，所以，要完成独立董事对这件事的的的那类，呃，审查，需要一些时间。所以，那基本上就是我们迄今已经确定的内容：Tesla 负责研发晶圆厂，SpaceX 负责大型 Terafab 的初始部分。"
+    },
+    {
+      "id": "p-0039",
+      "startSec": 2802.04,
+      "textEn": "And um And then we've got to figure out the rest. >> Yeah, and And what about Intel's involvement? >> [sighs] >> Uh, yeah, so uh Intel is uh excited to partner with us on um the some of the core manufac- turing technologies. Um So uh we're planning to use Intel's 14A uh uh process. Uh, which is uh state-of-the-art and in fact not yet totally complete. Um So but uh given that by the time terrafab scales up uh 14A will be probably fairly mature or ready for prime time. Um 14A seems like the right move. Um and uh we're we have a great relationship with Intel. Um A lot of respect for um the CEO, the CTO, and the the new team there. Um So we think it's it's going to be a a great partnership. >> Yeah, and the other thing on the research fab, I think we've said it before, we plan to do memory, logic, everything in the same place.",
+      "textZh": "然后，嗯，然后我们还得弄清楚其余部分。>> 是的，那么 Intel 的参与呢？>> [叹气] >> 呃，是的，那么，呃，Intel 很高兴能在，嗯，一些核心制造技术方面与我们合作。嗯，所以，呃，我们计划使用 Intel 的 14A，呃，呃，工艺。呃，这是一项，呃，最先进的工艺，事实上还没有完全完成。嗯，所以，但是，呃，考虑到等 Terafab 扩大规模时，呃，14A 可能已经相当成熟，或者已准备好正式投入使用。嗯，14A 似乎是正确的选择。嗯，而且，呃，我们我们与 Intel 关系很好。嗯，我们非常尊重，嗯，那里的首席执行官、首席技术官以及那支那支新团队。嗯，所以我们认为这这将会是一项一项很棒的合作。>> 是的，关于研发晶圆厂的另一件事，我想我们以前说过，我们计划在同一个地方做存储、逻辑，做一切。"
+    },
+    {
+      "id": "p-0040",
+      "startSec": 2874.44,
+      "textEn": "Including mask because we want to have a quick iteration loop so that we can see and basically scale the technologies which we're trying to bring up. >> Yeah, I I think this will be unique in the world or at least I'm not aware of any a place where you'd you have um the lithography mask uh creation the and and then logic, memory, and packaging in in under one roof, in one building. Um that's that's about the fastest I could possibly imagine doing recursive uh research and development. And and being able to try out some pretty radical ideas. Some of which have, you know, you know, it's kind of long shot stuff, but if these some of these long shots pan out would be radical improvements in the way chips work. >> Great. Uh the next question is going to come from Pierre at New Street. Uh Pierre, please feel free to unmute yourself.",
+      "textZh": "包括掩模，因为我们希望建立一个快速迭代循环，这样我们就能看到并基本上扩展我们正在努力发展起来的技术。>> 是的，我我认为这在世界上将是独一无二的，或者至少我不知道还有任何一个地方，能让你把嗯光刻掩模的制造，以及以及逻辑、存储和封装都放在同一屋檐下、同一栋建筑里。嗯，这这差不多是我所能想象的进行递归式研发的最快方式。并且并且能够尝试一些相当激进的想法。其中一些，你知道，你知道，算是成功希望渺茫的东西，但如果这些希望渺茫的尝试中有一些成功了，将会从根本上改进芯片的工作方式。>> 很好。呃，下一个问题将来自 New Street 的 Pierre。呃，Pierre，请随时取消静音。"
+    },
+    {
+      "id": "p-0041",
+      "startSec": 2938.36,
+      "textEn": ">> Uh hey, thanks a lot for taking my question. Um the quick one first on the FSD adoption. So, you have 180,000 new uh new users, paying users this quarter. And I compare that to your overall installed base, it's might be 15%, but then if I shrink that to the US to North America where most of them are, it's probably more like 30, 35%. And I'm trying to And I compare [clears throat] that to you probably sold about 100,000 cars in North America in the quarter. So, you're winning twice more uh FSD users than you're selling cars. Um and then if I add to that picture the fact that I guess it's mostly hardware 4 uh owners who subscribe to FSD, it sounds like most drivers in the North America who have hardware for would already be using FSD. Is that the right way to think about it? And the kind of like success FSD is meeting today, is that is that is that the right way to think about it?",
+      "textZh": ">> 呃，你好，非常感谢你们回答我的问题。嗯，先快速问一下 FSD 的采用情况。所以，本季度你们有 180,000 名新的，呃，新的用户、付费用户。而我把这个数字与你们的整体装机基数相比，可能是 15%，但如果我把范围缩小到美国、缩小到北美，也就是其中大多数用户所在的地方，那可能更接近 30%、35%。而我正试图，而且我把这个数字[清嗓子]与你们本季度可能在北美销售了大约 100,000 辆汽车相比。所以，你们获得的 FSD 用户是汽车销量的两倍。嗯，然后，如果我再把我猜测主要是硬件用于的车主订阅 FSD 这一事实加入这幅图景，那么听起来，北美拥有硬件用于的驾驶者中，大多数应该已经在使用 FSD。这样理解对吗？还有 FSD 如今正在取得的这种成功，这这这是不是正确的理解方式？"
+    },
+    {
+      "id": "p-0042",
+      "startSec": 3004.48,
+      "textEn": ">> Yeah, I I think you're thinking about it the right way, Pierre. And the other thing which I'll share is that uh you know, you can't just look at one quarter versus the other quarter in terms of churn, but we are actually seeing churn of subscribers also coming down. Which again is a reflection of the product is getting better. And obviously, if subscriptions are going up, that is a good metric. The other thing also to note is that we are seeing customers actually drive longer. Which again, you could correlate it. That's why you have lesser churn because people are liking the product. And if I mean, I've said this before, if I just use my own personal behavior, right? I literally get in the car, I press a button, and it just goes and earlier I used to park. Now I don't even have to park. And that is the experience which we want everybody to get. And that's why you're starting seeing it in the numbers come through.",
+      "textZh": ">> 是的，我我认为你的理解方式是对的，Pierre。我要分享的另一件事是，呃，你知道，就用户流失而言，你不能只看一个季度与另一个季度的对比，但我们确实也看到订阅用户的流失率正在下降。这同样反映出产品正在变得更好。显然，如果订阅量在上升，那就是一个好的指标。另外还要注意的是，我们看到客户实际上开得更久了。同样，你可以把两者联系起来。这就是用户流失减少的原因，因为人们喜欢这款产品。而且，如果，我的意思是，我以前说过，如果只看我自己的个人行为，对吧？我确实就是上车，按一下按钮，然后它就直接走了，而以前我还得停车。现在我甚至都不必停车。这就是我们希望每个人都能获得的体验。也正因如此，你们开始看到它体现在数字上。"
+    },
+    {
+      "id": "p-0043",
+      "startSec": 3069.08,
+      "textEn": ">> Excellent. Thank you. And if I may, maybe a quick follow-up, completely different. It's more on the the Optimus architecture. And and you talked about the partnership with XAI. And And Greg, I was wondering if you can share with us anything about how the system to um intelligence is going to be implemented. Is that going to be on board on chips inside uh Optimus, or if we should think uh about like your fleet of like a million Optimus being produced a year uh actually driving very significant inference demand in data centers as well for for system to thinking. >> Um well, we think we can put a lot of intelligence locally in the robot and and uh and certainly needs to be enough intelligence that if the robot gets uh disconnected, like if it's a bad cellular signal or there isn't Wi-Fi, you know, Optimus can't just get stuck. Um it needs to have enough local intelligence that it can still do useful things.",
+      "textZh": ">> 太好了。谢谢。如果可以的话，也许再快速追问一个完全不同的问题。更多是关于 Optimus 架构的。你们谈到了与 xAI 的合作。而且而且 Greg，我想知道你能否与我们分享一些关于系统到智能将如何实施的信息。它会在 Optimus 内部的芯片上运行吗，还是说我们应该设想一下，你们每年实际生产的大约 100 万台 Optimus 组成的队伍，也会为了为了系统到思考而在数据中心产生非常显著的推理需求。>> 嗯，我们认为可以把大量智能放在机器人本地，而且而且它肯定需要具备足够的智能，这样如果机器人失去连接，比如蜂窝信号不好或者没有 Wi-Fi，你知道，Optimus 不能就那样卡住。嗯，它需要有足够的本地智能，以便仍然能够做有用的事情。"
+    },
+    {
+      "id": "p-0044",
+      "startSec": 3135.04,
+      "textEn": "Uh you know, even if it loses connection, kind of like the car. Like the car does not need any cellular or Wi-Fi connection to be able to drive safely. Um Now, uh I guess you can think of like Optimus needs kind of a a manager to tell it what tell it what to do and it broadly speaking, like if, you know, otherwise it's going to keep doing the same thing it did before. Um So, you know, I think you need kind of a an orchestration AI, which uh you know, Grok would be good for orchestration. Um And uh and then for you know, for Optimus's voice, you know, having um a low-latency intelligent voice AI, Grok is actually very good for that. So, if you want to talk to Optimus and have kind of a you know, a Grok-level conversation, you you you kind of need to to connect to a Grok-level AI for for that.",
+      "textZh": "呃，你知道，即使它失去连接，有点像汽车。汽车不需要任何蜂窝网络或 Wi-Fi 连接也能安全驾驶。嗯，现在，呃，我想你可以认为 Optimus 需要某种某种管理者来告诉它该做什么，告诉它该做什么；大体来说，比如，如果，你知道，否则它就会继续做之前所做的同一件事。嗯，所以，你知道，我认为你需要某种一种编排 AI，而呃，你知道，Grok 会很适合做编排。嗯，然后，呃，至于你知道，至于 Optimus 的声音，你知道，拥有嗯一个低延迟的智能语音 AI，Grok 实际上非常擅长这一点。所以，如果你想与 Optimus 交谈，并进行某种，你知道，Grok 水平的对话，你你你就有点需要为此连接到一个 Grok 水平的 AI。"
+    },
+    {
+      "id": "p-0045",
+      "startSec": 3196.8,
+      "textEn": "Um But uh but I would expect the amount the amount of interaction apart from like, you know, the voice voice stuff and asking complicated questions of the robot that necessarily needs a a large AI model to answer, uh the you know, Grok would probably have about as much interaction with Optimus as a manager would have with the people on their team. So, in meaning meaning uh Optimus could probably work for, you know, several several hours um without any management oversight. >> Great. Uh the next question is going to come from Dan at Barclays. Uh Dan, please uh feel free to unmute yourself. >> Great. Uh good evening. Thank you for taking questions. Um Elon, your your chip suppliers generally uh generate pretty good economics on the chip they sell. Um your approach has historically been on vertical integration. Part of that has been to get better economics. So, I know the the longer-term goal of terrafab is to get the supply you need, but how much of terrafab's also motivated to get better economics on your mid-term",
+      "textZh": "嗯，但是呃但是我预计，除了比如，你知道，语音语音方面的事情，以及向机器人提出那些必然需要一个大型 AI 模型才能回答的复杂问题之外，互动量，这个，你知道，Grok 与 Optimus 的互动可能大约相当于一名管理者与其团队成员的互动量。所以，意思意思是，呃，Optimus 或许可以在没有任何管理监督的情况下工作，你知道，好几个好几个小时。>> 很好。呃，下一个问题将来自 Barclays 的 Dan。呃，Dan，请呃随时取消静音。>> 很好。呃，晚上好。感谢你们回答问题。嗯，Elon，你们的芯片供应商通常，呃，在他们销售的芯片上获得相当不错的经济效益。嗯，你们历来的做法是垂直整合。其中一部分是为了获得更好的经济效益。所以，我知道 terrafab 的更长期目标是获得你们所需的供应，但 terrafab 在多大程度上也是为了让你们的中期"
+    },
+    {
+      "id": "p-0046",
+      "startSec": 3272.76,
+      "textEn": "chip purch- purchases? And how long is it going to take to ramp to get to yield that achieves that type of economic parity? >> Um no, I mean terrafab is is not some sort of uh mechanism for to generate leverage over our chip suppliers. Uh it's just literally we we don't see a path to having enough uh efficient quantity of AI chips down the road as we scale production to high levels. Um It it the just the the rate at which the industry is growing um in logic, but even more so in memory, uh is just doesn't you know, we we we just we just anticipate hitting the wall if if we don't uh >> [clears throat] >> make chips ourselves. So, uh that's that's the reason for the ter- terrafab. Um I think that we do have some ideas for how to make um maybe radically better AI chips. Um And the these are kind of research ideas are, you know, which means like uh long shot, but if long shot pays off, it's a maybe a giant improvement.",
+      "textZh": "芯片购——采购获得更好的经济效益？产能爬坡需要多长时间，才能达到实现这种经济效益平价的良率？>> 嗯，不，我的意思是，terrafab 并不是某种，呃，用来对我们的芯片供应商形成杠杆的机制。呃，确实就只是，随着我们把产量扩大到很高的水平，我们看不到未来能获得足够数量的高效 AI 芯片的路径。嗯，这个这个，只是行业在逻辑芯片方面的增长速度，嗯，但存储方面甚至更甚，呃，就是不，你知道，我们我们我们只是，我们只是预计，如果我们不，呃，>> [清嗓子] >> 自己制造芯片，就会撞墙。所以，呃，这这就是建设 ter- terrafab 的原因。嗯，我认为，对于如何制造嗯也许会从根本上更好的 AI 芯片，我们确实有一些想法。嗯，而这些算是研究构想，你知道，这意味着，比如，呃，希望渺茫，但如果这个希望渺茫的尝试成功了，它可能会带来巨大的改进。"
+    },
+    {
+      "id": "p-0047",
+      "startSec": 3347.68,
+      "textEn": "And um it's just easier to do that if we have our own research lab and and and are developing our own production technologies. Um so And if you look sort of long term at you know, say having AI satellites um making chips for those, there's just there's not just no way in hell the existing industry can keep up with that. It's impossible. >> All right, and our next question is going to come from Mark at Goldman Sachs. Uh Mark, please uh feel free to unmute yourself. >> Uh yes, uh good afternoon. Thank you very much for taking my question. Uh I recognize the importance of FSD and that FSD can help to drive vehicle sales and and I just see some of the um improvements on the FSD technology more recently with version 14. Um however, I'm also hoping to understand if the company's view on new vehicle models has evolved. And I ask given that you only posted on X recently that Tesla could develop a family vehicle. There's also been some past discussion about a compact vehicle.",
+      "textZh": "而且，嗯，如果我们拥有自己的研究实验室，并且并且并且正在开发自己的生产技术，这件事就更容易做到。嗯，所以，而且如果你从某种长期角度看，你知道，比如说拥有 AI 卫星，嗯，为那些卫星制造芯片，那么现有行业他妈的根本就不可能跟上。那是不可能的。>> 好的，我们的下一个问题将来自 Goldman Sachs 的 Mark。呃，Mark，请呃随时取消静音。>> 呃，是的，呃，下午好。非常感谢你们回答我的问题。呃，我认识到 FSD 的重要性，也认识到 FSD 可以帮助推动汽车销售，而且而且我也看到了最近第 14 版 FSD 技术的一些嗯改进。嗯，不过，我也希望了解公司对新车型的看法是否发生了变化。我这样问，是因为你最近只是在 X 上发帖称，Tesla 可以开发一款家庭用车。过去也有过一些关于紧凑型汽车的讨论。"
+    },
+    {
+      "id": "p-0048",
+      "startSec": 3414.76,
+      "textEn": ">> Well, I mean Cybercab is the compact vehicle. It's actually I mean it's very roomy, but it's a two it's a two-person vehicle. And we do think probably most of our production long term will be Cybercab because 90% of miles driven are with two or one or two people. So it would mean that you know, you'd want to vast majority of your production to be Cybercab. Um Then um but over time it's going to make sense for our whole lineup to be autonomous vehicles of different sizes. And I I did talk a bit about this um when we did the kind of AI day in LA at uh Warner Brothers and you know, showed like this is our current lineup and this is what you know, some idea of what our future lineup will be, which is that it's going to be almost entirely autonomous. In fact, long-term, the only manually driven car will be the the new Tesla Roadster.",
+      "textZh": ">> 嗯，我的意思是，Cybercab 就是紧凑型汽车。它其实，我的意思是，它非常宽敞，但它是一辆双，它是一辆双人汽车。而且我们确实认为，从长期来看，我们的大部分产量可能都会是 Cybercab，因为 90% 的行驶里程中，车内都是两人或一人或两人。所以这意味着，你知道，你会希望你绝大部分的产量都是 Cybercab。嗯，然后，嗯，不过随着时间推移，让我们的整个产品阵容都成为不同尺寸的自动驾驶汽车将是合理的。而且我我确实稍微谈过这件事，嗯，当时我们在洛杉矶的呃 Warner Brothers 举办了某种 AI 日活动，并且，你知道，展示了类似这样的内容：这是我们当前的产品阵容，而这是，你知道，对我们未来产品阵容的一些设想，也就是说，它将几乎完全由自动驾驶汽车组成。事实上，从长期来看，唯一需要手动驾驶的汽车将是这款新的 Tesla Roadster。"
+    },
+    {
+      "id": "p-0049",
+      "startSec": 3471.84,
+      "textEn": "Uh speaking of which we may be able to debut that in a month or so. Um It requires a lot of testing uh and validation before we can uh actually have a demo and not you know, have something go wrong with the demo. Uh but I think it will be one of the most exciting product unveils ever. Um I'm not sure it I I I don't think it moves the needle massively from a revenue standpoint, so but it is very cool. Um I think I think it might be one of the most spectacular demos ever. >> All right, Mark, did you have a follow-up question? >> Uh yeah, thanks, Vaibhav. My other question was on batteries and the company mentioned batteries as a constraint on its uh growth. Can you speak more to how Tesla expects to resolve this and to what extent that might come from ramping up your own LFP and 4680 battery cell manufacturing or is this something that you would expect to resolve primarily with increased uh sourcing from suppliers? Thank you.",
+      "textZh": "呃，说到这个，我们也许能在大约 1 个月后让它首次亮相。嗯，在我们真正进行演示并且不至于，你知道，让演示出问题之前，它需要大量测试，呃，还有验证。呃，但我认为这将会是有史以来最令人兴奋的产品发布之一。嗯，我不确定它，我我我不认为从营收角度看，它会极大地改变局面，所以，但它确实非常酷。嗯，我认为我认为它可能会是有史以来最壮观的演示之一。>> 好的，Mark，你还有追问吗？>> 呃，有，谢谢，Vaibhav。我的另一个问题是关于电池的，公司提到电池是其呃增长的一项制约因素。你能否进一步谈谈 Tesla 预计将如何解决这个问题，以及其中有多大程度可能来自扩大你们自己的 LFP 和 4680 电芯制造，还是说你们预计这个问题将主要通过增加从供应商处的呃采购来解决？谢谢。"
+    },
+    {
+      "id": "p-0050",
+      "startSec": 3537.12,
+      "textEn": ">> Yeah, so at the moment, I think the limiter is not the cells itself, it's the battery pack capacity. And you know, we're like I said in my opening remarks, we're actively working on resolving this. There's more capacity being added as we speak and I'll let Lars add a few more things to it. >> Yeah, thanks, Vaibhav. Um as you guys may have seen in in Berlin, we started launching uh Model Y battery pack with our in-house 4680 cells um a few months ago and that is ramping up nicely adding [clears throat] to Berlin's output and helping with the demand surge that we've seen in Europe as well. We're adding additional capacity in our Reno facility sort of retooling it as it's been building packs now for you know almost 10 years and in order to put in some more efficient lines and get you know additional output out there.",
+      "textZh": ">> 是的，所以目前，我认为限制因素不是电芯本身，而是电池包产能。而且你知道，就像我在开场发言中说的那样，我们正在积极努力解决这个问题。就在我们说话的时候，更多产能正在增加，我会让拉尔斯再补充几点。>> 是的，谢谢，Vaibhav。嗯，正如大家可能已经在柏林看到的那样，我们几个月前开始推出采用自研4680电芯的Model Y电池包，嗯，目前产能爬坡进展顺利，正在为柏林的产量提供增量，并且也有助于应对我们在欧洲看到的需求激增。我们正在为里诺工厂增加额外产能，算是在对它进行设备改造，因为它生产电池包至今已经有，你知道，差不多10年了，目的是安装一些效率更高的生产线，并在那里获得，你知道，更多产出。"
+    },
+    {
+      "id": "p-0051",
+      "startSec": 3587.44,
+      "textEn": "And then you know we continue to have growth in China as well ramping in-house LFP module production and battery packs associated with that. So all of those things are happening now and in in the next months and that's you know really plans we laid out a few months back to increase that that output with the growing demand. >> All right, thank you guys. And our next analyst is going to be Colin from Wells Fargo. Colin, please feel free to unmute yourself. >> Oh great. Thanks for taking my questions. You moved the safety driver in Austin and you're now expanding into Alice in Houston. What are the key safety metrics that you're tracking that gives you confidence that robo-taxi is safe enough to expand is it sort of miles per intervention miles per accident per fatality and and where do you stand on that now?",
+      "textZh": "然后，你知道，我们在中国也继续增长，正在提高自研LFP模组以及相关电池包的产量。所以，所有这些事情目前都在进行，并会在接下来几个月里推进，而这就是，你知道，我们几个月前制定的计划，目的是随着需求增长提高那个、那个产量。>> 好的，谢谢各位。我们的下一位分析师是来自富国银行的Colin。Colin，请随时取消静音。>> 哦，太好了。谢谢你们回答我的问题。你们撤掉了奥斯汀的安全驾驶员，现在正扩展到爱丽丝和休斯敦。你们正在追踪哪些关键安全指标，让你们有信心认为机器人出租车已经足够安全、可以扩展？是类似每次干预的里程数、每次事故的里程数、每次死亡事故的里程数吗？而你们目前处于什么水平？"
+    },
+    {
+      "id": "p-0052",
+      "startSec": 3644.32,
+      "textEn": ">> Yeah, >> [clears throat] >> we track basically all the metrics that you mentioned. We have a pretty large QA fleet spread across all of the United States and then we you know look at any intervention that could happen and then sort of simulate both in practice and also in our simulators that are very very good nowadays using neural networks as what would have happened and then based on all these analysis in the end make the call to expand and so far all of the expansions have gone according to our expectations. >> A lot of the limiting a lot of what limits wider deployment of robo-taxi are actually not safety issues, but uh convenience issues or or the car basically gets paranoid and gets stuck. Um like sometimes it gets cuz it's it's programmed for maximum safety. So, the problem is that then it sometimes just uh gets scared to do things. So, like it sometimes gets scared to cross railroads, for example, um or it'll get stuck at uh you know, a a a light where it does uh the light the light never changes from red or I mean, there was one kind of amusing situation where a whole bunch of",
+      "textZh": ">> 是的，>> [清嗓子] >> 我们基本上会追踪你提到的所有指标。我们有一支相当庞大的 QA 车队，分布在美国各地，然后我们，你知道，会研究任何可能发生的干预，然后既在实践中模拟，也在我们如今非常非常出色的模拟器中模拟，利用神经网络来判断本来会发生什么，然后最终根据所有这些分析决定是否扩大范围，而到目前为止，所有扩展都符合我们的预期。>> 限制 Robotaxi 更广泛部署的很多因素，实际上并不是安全问题，而是，呃，便利性问题，或者说车辆基本上变得疑神疑鬼，然后卡住。嗯，比如有时候它会这样，因为它被设定为最大限度确保安全。所以问题在于，它有时就是，呃，不敢做某些事。比如，它有时不敢穿越铁路，举例来说，嗯，或者它会卡在，呃，你知道，一个、一个、一个信号灯那里，那个灯，那个灯一直不从红灯变化，或者，我是说，有一次挺有意思的情况，一大群"
+    },
+    {
+      "id": "p-0053",
+      "startSec": 3719.36,
+      "textEn": "um road taxis got stuck in the left turn lane in Austin because I kid you not a Waymo had crashed into a bus. Um and so they could not turn left because the Waymo had crashed into the bus. And so you had this like long line of like I don't know a dozen or more a dozen road taxis that were waiting for the bus to move, but the bus was never going to move because the Waymo had crashed into the bus. So, so that obviously drives people crazy if there's a whole bunch of road taxis blocking the whole road. Um so it's a it's a ton of ton of things like that. That's the single biggest thing is is just the car being scared to move or getting kind of stuck in situations like that. Uh we've also had literal infinite loops where you know, the car might want to make a turn into a road, but there's construction and then it goes around the block, tries to turn into the road with construction, goes around the block, tries to turn in the road.",
+      "textZh": "嗯，公路出租车在奥斯汀的左转车道里卡住了，因为我真没开玩笑，一辆 Waymo 撞上了一辆公交车。嗯，所以它们无法左转，因为那辆 Waymo 撞上了公交车。于是就出现了这样一条长队，比如，我不知道，有12辆左右或更多，12辆公路出租车在等公交车移动，但公交车永远不可能移动，因为 Waymo 已经撞上了公交车。所以，如果有一大群公路出租车把整条路堵住，那显然会把人逼疯。嗯，所以有一大堆、一大堆这样的事情。最大的问题就是车辆不敢移动，或者在这样的情况下有点卡住。呃，我们也遇到过真正的无限循环，你知道，车辆可能想转进一条路，但那里正在施工，然后它绕街区一圈，再尝试转进那条施工中的道路，又绕街区一圈，再尝试转进那条路。"
+    },
+    {
+      "id": "p-0054",
+      "startSec": 3779.92,
+      "textEn": "Um and and so you have to stop the infinite looping, the literal infinite looping. Um So, that those are actually and this that that those are by far the um issues that we have to resolve as opposed to direct safety issues. >> Got it. >> Great. >> And then >> Did you have a follow-up question? >> Yeah, just last year I asked about, you know, FSD and camera and the issues with sun glare, and you noted that there was a breakthrough with direct photon counting that addressed this issue. But a month ago there was a NHTSA filing saying that they haven't received an update when the solution was deployed and the number of vehicles uh is this did it require a retrofit of the camera? Is this fully deployed? I guess I'm just curious since the filing mentioned it. >> Yeah, first I want to say we did, uh you know, change the cameras at some months ago and those are out, and the NHTSA filing is referring to like older vehicles. We always work directly with NHTSA um on all of the issues that they raise with us, and there there's they're asking for quite a bit of information, and you know, we're complying with that in a as timely a manner as possible.",
+      "textZh": "嗯，然后，然后你必须阻止这种无限循环，真正的无限循环。嗯，所以，那些实际上，而且这个，那个，那些远远是，嗯，我们必须解决的问题，而不是直接的安全问题。>> 明白了。>> 很好。>> 然后 >> 你还有后续问题吗？>> 有，去年我问过，你知道，FSD 和摄像头，以及阳光眩光的问题，而你提到直接光子计数方面取得了一项突破，解决了这个问题。但1个月前有一份 NHTSA 文件称，他们尚未收到有关解决方案何时部署以及车辆数量的更新，呃，这是否需要改装摄像头？这是否已经全面部署？我想我只是有些好奇，因为文件中提到了这件事。>> 是的，首先我想说，我们确实，呃，你知道，在几个月前更换了摄像头，那些已经推出了，而 NHTSA 文件指的是，比如，较旧的车辆。对于 NHTSA 向我们提出的所有问题，我们始终直接与他们合作，而且他们，他们要求提供相当多的信息，而你知道，我们正在尽可能及时地配合提供。"
+    },
+    {
+      "id": "p-0055",
+      "startSec": 3847.92,
+      "textEn": "And so, um we expect to resolve that and any of the other investigations in in short order. >> Yeah, and we have also implemented stricter measures for the um the visibility of the camera. So, in recent software builds, if the camera's not able to see things clearly because of, you know, residue build-up or whatever you, um then the FSD won't be available for those cars. >> It just needs you you have to clean the inside of the windscreen. >> Great. Um that unfortunately is all the time we have uh today. Uh we appreciate everyone's questions, and we look forward to talking to you next quarter. Thank you very much, and goodbye. >> I'm a gangsta. >> [music] >> I'm a gangsta.",
+      "textZh": "所以，嗯，我们预计会很快解决该问题以及其他任何调查。>> 是的，而且我们还针对，嗯，摄像头的可视性实施了更严格的措施。所以，在最近的软件版本中，如果摄像头因为，你知道，残留物堆积或随便什么原因，嗯，而无法清楚地看到东西，那么这些车辆将无法使用 FSD。>> 只需要，你、你必须清洁挡风玻璃内侧。>> 很好。嗯，很遗憾，这就是我们今天，呃，所剩的全部时间。呃，我们感谢大家提出的问题，并期待下个季度与你们交流。非常感谢，再见。>> 我是个黑帮分子。>> [音乐] >> 我是个黑帮分子。"
+    }
+  ],
   "translation": {
     "status": "reviewed",
     "model": "gpt-5.6-sol",
-    "translatedAt": "2026-09-12T07:38:13.099Z",
-    "reviewedAt": "2026-09-12T07:44:37.243Z"
+    "translatedAt": "2026-09-14T03:41:50.006Z",
+    "reviewedAt": "2026-09-14T05:58:09.397Z"
   },
   "fetchedAt": "2026-09-12T07:09:24.833Z",
-  "sourceHash": "141d33113055a0790cdd3cb5160f83a05825ace932a943a65de3f83a41be50bb"
+  "sourceHash": "e7d152174295a2ff007eac90dbdc61099b3cde14d53fddfa2a5e7dacce22604b",
+  "transcriptSource": "https://www.youtube.com/watch?v=qO7T5zgRvXM"
 }
