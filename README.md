@@ -44,6 +44,13 @@ Cloudflare Pages 配置：
 
 采集和翻译只在本地运行。Cloudflare 构建不需要、也不应配置 ChatGPT/Codex 登录凭据。
 
+## 搜索与机器读取
+
+- `/sitemap-index.xml` 收录 canonical HTML 页面及真实内容更新时间，`/video-sitemap.xml` 收录可嵌入视频。
+- `/archive.json` 提供 271 条双语元数据；每条详情另有 `/videos/{slug}.md` Markdown 版本。
+- `/llms.txt` 枚举机器可读入口和全部档案，HTML 详情页通过 `rel="alternate"` 指向对应 Markdown。
+- robots 优先允许 AI 搜索和用户请求式读取，并通过 `Content-Signal` 表达不用于训练的偏好；已知训练爬虫 GPTBot、ClaudeBot 与 CCBot 被禁止。
+
 ## 内容边界
 
 - 视频仅从原平台嵌入，不下载、不镜像。
@@ -60,3 +67,5 @@ Cloudflare Pages 配置：
 - `npm run validate`：验证来源、结构、翻译状态与生产配置。
 - `npm run test:e2e`：在桌面 Chrome 与 390px Chromium 手机视口运行浏览器验收。
 - `npm run build`：验证、测试、Astro 静态构建并生成 Pagefind 索引。
+- `npm run test:seo`：验证 canonical、结构化数据、机器可读入口与 sitemap 产物。
+- `npm run seo:indexnow`：构建部署完成后，将 sitemap 中的 canonical URL 提交给 IndexNow。

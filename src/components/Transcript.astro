@@ -31,7 +31,10 @@ const { video, canSeek = false } = Astro.props;
 
     <div data-lang-block="zh">
       {video.segments.map((segment, index) => (
-        <article class:list={["transcript-segment", { dialogue: video.contentKind === "dialogue" }]}>
+        <article
+          id={segment.id}
+          class:list={["transcript-segment", { dialogue: video.contentKind === "dialogue" }]}
+        >
           <header>
             <h3 id={`segment-${index + 1}`}>{segment.speakerZh || segment.speakerEn || `第 ${index + 1} 段`}</h3>
             {segment.startSec !== undefined && canSeek && (
@@ -51,7 +54,10 @@ const { video, canSeek = false } = Astro.props;
 
     <div data-lang-block="en" data-pagefind-ignore hidden lang="en">
       {video.segments.map((segment, index) => (
-        <article class:list={["transcript-segment", { dialogue: video.contentKind === "dialogue" }]}>
+        <article
+          id={`${segment.id}-en`}
+          class:list={["transcript-segment", { dialogue: video.contentKind === "dialogue" }]}
+        >
           <header>
             <h3 id={`segment-en-${index + 1}`}>{segment.speakerEn || segment.speakerZh || `Paragraph ${index + 1}`}</h3>
             {segment.startSec !== undefined && canSeek && (

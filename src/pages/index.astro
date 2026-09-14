@@ -5,7 +5,8 @@ import ArchiveFilters from "../components/ArchiveFilters.astro";
 import ArchiveSearch from "../components/ArchiveSearch.astro";
 import VideoCard from "../components/VideoCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { videoYear } from "../lib/display";
+import { videoThumbnail, videoYear } from "../lib/display";
+import { buildCollectionJsonLd } from "../lib/seo";
 import type { VideoType } from "../lib/types";
 
 const entries = await getCollection("videos");
@@ -19,17 +20,19 @@ const typeCounts = videos.reduce<Partial<Record<VideoType, number>>>((counts, vi
 }, {});
 
 const description = "检索伊隆·马斯克的公开视频、访谈、主题演讲与中文实录。按时间、类别和机构浏览，并随时切回英文原文。";
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  name: "马斯克中文档案",
-  description,
-  inLanguage: "zh-CN",
-  numberOfItems: videos.length,
-};
+const canonical = new URL("/", Astro.site || Astro.url.origin).toString();
+const jsonLd = buildCollectionJsonLd(videos, canonical, description);
+const socialImage = videos[0] ? videoThumbnail(videos[0]) : undefined;
 ---
 
-<BaseLayout description={description} jsonLd={jsonLd} excludeFromSearch>
+<BaseLayout
+  description={description}
+  canonical={canonical}
+  image={socialImage}
+  imageAlt={videos[0] ? `${videos[0].titleZh || videos[0].titleEn} 视频缩略图` : undefined}
+  jsonLd={jsonLd}
+  excludeFromSearch
+>
   <section class="archive-intro">
     <div class="shell intro-grid">
       <div class="intro-copy">

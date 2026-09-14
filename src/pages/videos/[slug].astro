@@ -15,50 +15,53 @@ import {
   videoThumbnail,
   videoYear,
 } from "../../lib/display";
+import { buildDetailJsonLd, buildDetailMetaTitles, isHttpUrl } from "../../lib/seo";
 import type { VideoEntry } from "../../lib/types";
 
 export async function getStaticPaths() {
   const entries = await getCollection("videos");
-  return entries.map((entry) => ({ params: { slug: entry.data.slug }, props: { video: entry.data } }));
+  const metaTitles = buildDetailMetaTitles(entries.map((entry) => entry.data));
+  return entries.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { video: entry.data, metaTitle: metaTitles.get(entry.data.slug) },
+  }));
 }
 
 interface Props {
   video: VideoEntry;
+  metaTitle: string;
 }
 
-const { video } = Astro.props;
+const { video, metaTitle } = Astro.props;
 const title = video.titleZh || video.titleEn;
 const description = video.summaryZh || video.summaryEn || `${title}的中文实录与英文原文。`;
 const thumbnail = videoThumbnail(video);
 const embedUrl = privacyEmbedUrl(video.embedUrl);
 const statusLabel = TRANSLATION_LABELS[video.translation.status];
-const jsonLd = embedUrl
-  ? {
-      "@context": "https://schema.org",
-      "@type": "VideoObject",
-      name: title,
-      alternateName: video.titleEn,
-      description,
-      uploadDate: video.date,
-      thumbnailUrl: thumbnail,
-      embedUrl,
-      contentUrl: video.sourceUrl,
-      inLanguage: ["zh-CN", "en"],
-      isBasedOn: video.archiveUrl,
-    }
-  : {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      headline: title,
-      alternativeHeadline: video.titleEn,
-      description,
-      datePublished: video.date,
-      inLanguage: ["zh-CN", "en"],
-      isBasedOn: [video.sourceUrl, video.archiveUrl],
-    };
+const canonical = new URL(`/videos/${video.slug}/`, Astro.site || Astro.url.origin).toString();
+const modified = video.translation.reviewedAt || video.translation.translatedAt || video.fetchedAt;
+const transcriptSource = isHttpUrl(video.transcriptSource)
+  && ![video.sourceUrl, video.archiveUrl].includes(video.transcriptSource)
+  ? video.transcriptSource
+  : undefined;
+const hasStructuredVideo = Boolean(embedUrl && thumbnail);
+const jsonLd = buildDetailJsonLd(video, { canonical, description, thumbnail, embedUrl });
 ---
 
-<BaseLayout title={title} description={description} image={thumbnail} jsonLd={jsonLd}>
+<BaseLayout
+  title={metaTitle}
+  description={description}
+  image={thumbnail}
+  imageAlt={`${title} 视频缩略图`}
+  canonical={canonical}
+  ogType={hasStructuredVideo ? "video.other" : "article"}
+  videoEmbedUrl={embedUrl}
+  videoDuration={video.durationSec}
+  datePublished={video.date}
+  dateModified={modified}
+  markdownAlternate={`/videos/${video.slug}.md`}
+  jsonLd={jsonLd}
+>
   <article
     class="detail-page"
     id="detail-top"
@@ -93,18 +96,25 @@ const jsonLd = embedUrl
     <div class="detail-layout shell">
       <aside class="media-column" aria-label="视频与来源">
         <LazyVideo embedUrl={video.embedUrl} thumbnailUrl={thumbnail} sourceUrl={video.sourceUrl} title={title} />
-        <div class="source-actions">
-          <a href={video.sourceUrl} target="_blank" rel="noreferrer">
+        <div class="source-actions" style={`--source-count: ${transcriptSource ? 3 : 2}`}>
+          <a href={video.sourceUrl} target="_blank" rel="cite external noreferrer">
             <ExternalLink size={16} stroke-width={1.8} aria-hidden="true" />
             原始来源
           </a>
-          <a href={video.archiveUrl} target="_blank" rel="noreferrer">
+          <a href={video.archiveUrl} target="_blank" rel="cite external noreferrer">
             <FileText size={16} stroke-width={1.8} aria-hidden="true" />
             英文档案页
           </a>
+          {transcriptSource && (
+            <a href={transcriptSource} target="_blank" rel="cite external noreferrer">
+              <FileText size={16} stroke-width={1.8} aria-hidden="true" />
+              文字记录来源
+            </a>
+          )}
         </div>
         <dl class="record-note">
           <div><dt>资料编号</dt><dd>{video.id}</dd></div>
+          {video.sourceLabel && <div><dt>来源标注</dt><dd>{video.sourceLabel}</dd></div>}
           <div><dt>正文类型</dt><dd>{CONTENT_LABELS[video.contentKind]}</dd></div>
           <div><dt>翻译状态</dt><dd><span class="status" data-status={video.translation.status}>{statusLabel}</span></dd></div>
         </dl>
@@ -183,7 +193,7 @@ const jsonLd = embedUrl
 
   .source-actions {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(var(--source-count, 2), minmax(0, 1fr));
     border: 1px solid var(--line-dark);
     border-top: 0;
     background: var(--surface);
@@ -197,6 +207,7 @@ const jsonLd = embedUrl
     min-height: 46px;
     border-inline-end: 1px solid var(--line);
     font-size: 0.8rem;
+    text-align: center;
     text-decoration: none;
   }
 
@@ -301,6 +312,19 @@ const jsonLd = embedUrl
     .detail-layout {
       gap: 34px;
       padding-top: 28px;
+    }
+
+    .source-actions {
+      grid-template-columns: 1fr;
+    }
+
+    .source-actions a {
+      border-inline-end: 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .source-actions a:last-child {
+      border-bottom: 0;
     }
 
     .reading-tools {

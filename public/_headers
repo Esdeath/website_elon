@@ -3,9 +3,28 @@
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: DENY
   Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=()
+  Content-Signal: search=yes, ai-input=yes, ai-train=no
+
+/archive.json
+  X-Robots-Tag: noindex, follow
+
+/llms.txt
+  X-Robots-Tag: noindex, follow
+
+/videos/*.md
+  X-Robots-Tag: noindex, follow
 
 /fonts/*
   Cache-Control: public, max-age=31536000, immutable
 
 /_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/pagefind/index/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/pagefind/fragment/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/pagefind/filter/*
   Cache-Control: public, max-age=31536000, immutable
