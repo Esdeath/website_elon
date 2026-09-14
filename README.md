@@ -27,7 +27,7 @@ npm run sync
 
 ```bash
 PUBLIC_SITE_URL=https://elon.ayaseeri.com \
-PUBLIC_CONTACT_EMAIL=rights@example.com \
+PUBLIC_CONTACT_EMAIL=807267531@qq.com \
 npm run build
 ```
 
