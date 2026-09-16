@@ -1,0 +1,41 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import VideoCard from "../../components/VideoCard.astro";
+import { TYPE_LABELS } from "../../lib/display";
+import { sortVideosNewest } from "../../lib/archive-formats";
+import { buildCollectionJsonLd } from "../../lib/seo";
+import { VIDEO_TYPES, type VideoEntry, type VideoType } from "../../lib/types";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("videos");
+  return VIDEO_TYPES.flatMap((type) => {
+    const videos = sortVideosNewest(entries.map((entry) => entry.data).filter((video) => video.type === type));
+    return videos.length ? [{ params: { type }, props: { type, videos } }] : [];
+  });
+}
+interface Props { type: VideoType; videos: VideoEntry[]; }
+const { type, videos } = Astro.props;
+const title = `马斯克${TYPE_LABELS[type]}档案`;
+const description = `收录 ${videos.length} 条伊隆·马斯克${TYPE_LABELS[type]}资料，时间从 ${videos.at(-1)!.date} 至 ${videos[0].date}，提供内容摘要、可用的中英文实录与原始来源链接。`;
+const canonical = new URL(`/categories/${type}/`, Astro.site || Astro.url.origin).toString();
+const jsonLd = buildCollectionJsonLd(videos, canonical, description, title);
+---
+<BaseLayout {title} {description} {canonical} {jsonLd} excludeFromSearch>
+  <section class="shell category-page" aria-labelledby="category-title">
+    <nav aria-label="面包屑"><a href="/">影像目录</a> / {TYPE_LABELS[type]}</nav>
+    <h1 id="category-title">{title}</h1>
+    <p>{description}</p>
+    <p>中文内容由机器翻译生成，引用前请核对英文原文和原始来源。<a href="/about/">了解资料整理方式</a></p>
+    <div class="category-list">
+      {videos.map((video) => <VideoCard {video} />)}
+    </div>
+  </section>
+</BaseLayout>
+<style>
+  .category-page { padding-top: 40px; }
+  nav, .category-page > p { color: var(--muted); }
+  h1 { font-family: var(--serif); font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.25; }
+  .category-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; margin-top: 32px; }
+  @media (max-width: 1160px) { .category-list { grid-template-columns: 1fr; } }
+</style>

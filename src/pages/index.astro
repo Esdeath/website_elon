@@ -7,6 +7,8 @@ import VideoCard from "../components/VideoCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { videoThumbnail, videoYear } from "../lib/display";
 import { buildCollectionJsonLd } from "../lib/seo";
+import { TYPE_LABELS } from "../lib/display";
+import { VIDEO_TYPES } from "../lib/types";
 import type { VideoType } from "../lib/types";
 
 const entries = await getCollection("videos");
@@ -63,6 +65,12 @@ const socialImage = videos[0] ? videoThumbnail(videos[0]) : undefined;
       </div>
       <ArchiveSearch />
     </div>
+
+    <nav class="category-links" aria-label="分类档案">
+      {VIDEO_TYPES.filter((type) => typeCounts[type]).map((type) => (
+        <a href={`/categories/${type}/`}>{TYPE_LABELS[type]}档案（{typeCounts[type]}）</a>
+      ))}
+    </nav>
 
     <ArchiveFilters {years} {organizations} {typeCounts} total={videos.length} />
 
@@ -238,6 +246,7 @@ const socialImage = videos[0] ? videoThumbnail(videos[0]) : undefined;
 </BaseLayout>
 
 <style>
+  .category-links { display: flex; flex-wrap: wrap; gap: 12px 24px; margin-block: 24px; font-size: 0.85rem; }
   .archive-intro {
     border-bottom: 1px solid var(--line-dark);
     background: var(--surface);

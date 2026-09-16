@@ -150,10 +150,11 @@ export function buildCollectionJsonLd(
   videos: VideoEntry[],
   canonical: string,
   description: string,
+  name = SITE_NAME,
 ): JsonLdObject {
   const ids = entityIds(canonical);
   const modified = videos
-    .flatMap((video) => [video.translation.reviewedAt, video.fetchedAt])
+    .flatMap((video) => [video.translation.reviewedAt, video.translation.translatedAt, video.fetchedAt])
     .filter((value): value is string => Boolean(value))
     .sort()
     .at(-1);
@@ -170,7 +171,7 @@ export function buildCollectionJsonLd(
         "@type": "CollectionPage",
         "@id": collectionId,
         url: canonical,
-        name: SITE_NAME,
+        name,
         description,
         inLanguage: "zh-CN",
         isPartOf: { "@id": ids.website },

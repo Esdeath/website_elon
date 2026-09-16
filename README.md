@@ -51,6 +51,16 @@ Cloudflare Pages 配置：
 - `/llms.txt` 枚举机器可读入口和全部档案，HTML 详情页通过 `rel="alternate"` 指向对应 Markdown。
 - robots 优先允许 AI 搜索和用户请求式读取，并通过 `Content-Signal` 表达不用于训练的偏好；已知训练爬虫 GPTBot、ClaudeBot 与 CCBot 被禁止。
 
+## SEO 与 GEO 维护
+
+- `/categories/{type}/` 是五类资料的静态目录，每个目录有独立标题、摘要、canonical 和 CollectionPage / ItemList 结构化数据，所有记录链接直接出现在 HTML 中。
+- 首页链接到分类目录；详情页链接到同类资料，优先展示同机构记录；目录自动加入 sitemap，并使用实际资料处理时间作为 lastmod。
+- 详情页提供资料更新时间、永久链接、Markdown 入口和中文段落引用链接。Markdown 中的引用链接回到 HTML 对应段落，便于核对来源。
+- `/about/` 说明资料来源、机器翻译和引用方式。机器可读格式是辅助入口，不保证任何搜索引擎收录或 AI 引用。
+- 部署后在 Google Search Console / Bing Webmaster Tools 验证域名并提交 `/sitemap-index.xml` 和 `/video-sitemap.xml`；检查抓取、索引和引用数据。现有 `seo:indexnow` 命令可在部署完成后提交 URL。
+- `npm run build` 会验证全部详情页和分类页的 canonical、结构化数据、引用链接、sitemap 与机器可读入口。
+- 实施参考：[Google AI 搜索指南](https://developers.google.com/search/docs/appearance/ai-features)、[Bing 网站管理员指南](https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a)。
+
 ## 内容边界
 
 - 视频仅从原平台嵌入，不下载、不镜像。

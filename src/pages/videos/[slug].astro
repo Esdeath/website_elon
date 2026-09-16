@@ -23,16 +23,25 @@ export async function getStaticPaths() {
   const metaTitles = buildDetailMetaTitles(entries.map((entry) => entry.data));
   return entries.map((entry) => ({
     params: { slug: entry.data.slug },
-    props: { video: entry.data, metaTitle: metaTitles.get(entry.data.slug) },
+    props: {
+      video: entry.data,
+      metaTitle: metaTitles.get(entry.data.slug),
+      related: entries.map((item) => item.data)
+        .filter((video) => video.slug !== entry.data.slug && video.type === entry.data.type)
+        .sort((a, b) => Number(b.org === entry.data.org) - Number(a.org === entry.data.org)
+          || b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug))
+        .slice(0, 4),
+    },
   }));
 }
 
 interface Props {
   video: VideoEntry;
   metaTitle: string;
+  related: VideoEntry[];
 }
 
-const { video, metaTitle } = Astro.props;
+const { video, metaTitle, related } = Astro.props;
 const title = video.titleZh || video.titleEn;
 const description = video.summaryZh || video.summaryEn || `${title}的中文实录与英文原文。`;
 const thumbnail = videoThumbnail(video);
@@ -76,7 +85,7 @@ const jsonLd = buildDetailJsonLd(video, { canonical, description, thumbnail, emb
         </a>
         <p class="meta-line">
           <time datetime={video.date} data-pagefind-meta="date[datetime]">{formatDate(video.date)}</time>
-          <span>{TYPE_LABELS[video.type]}</span>
+          <a href={`/categories/${video.type}/`}>{TYPE_LABELS[video.type]}</a>
           {video.org && <span data-pagefind-filter="org">{video.org}</span>}
           {video.durationSec !== undefined && <span>{formatDuration(video.durationSec)}</span>}
         </p>
@@ -134,13 +143,35 @@ const jsonLd = buildDetailJsonLd(video, { canonical, description, thumbnail, emb
           </section>
         )}
 
+        <section class="citation-note" aria-labelledby="citation-title" data-pagefind-ignore>
+          <h2 id="citation-title">引用这份档案</h2>
+          <p>{title}（{video.date}），马斯克中文档案。</p>
+          <p>资料更新：<time datetime={modified}>{formatDate(modified.slice(0, 10))}</time>。中文为机器翻译，引用具体观点时请核对英文原文与原始来源。</p>
+          <p><a href={canonical}>永久链接</a> · <a href={`/videos/${video.slug}.md`}>Markdown 全文</a> · <a href="/rights/">纠错与来源说明</a></p>
+        </section>
+
         <Transcript {video} canSeek={Boolean(embedUrl)} />
+
+        {related.length > 0 && (
+          <nav class="related-records" aria-labelledby="related-title" data-pagefind-ignore>
+            <h2 id="related-title">更多{TYPE_LABELS[video.type]}资料</h2>
+            <ul>{related.map((item) => (
+              <li><a href={`/videos/${item.slug}/`}>{item.titleZh || item.titleEn}</a> <time datetime={item.date}>{item.date}</time></li>
+            ))}</ul>
+            <a href={`/categories/${video.type}/`}>浏览全部{TYPE_LABELS[video.type]}档案</a>
+          </nav>
+        )}
       </div>
     </div>
   </article>
 </BaseLayout>
 
 <style>
+  .citation-note, .related-records { margin-top: 32px; padding-block: 20px; border-top: 1px solid var(--line); font-size: 0.85rem; overflow-wrap: anywhere; }
+  .citation-note h2, .related-records h2 { font-family: var(--serif); font-size: 1.2rem; }
+  .citation-note p, .related-records time { color: var(--muted); }
+  .related-records li { margin-block: 12px; }
+
   .detail-page {
     --media-width: minmax(380px, 0.92fr);
   }

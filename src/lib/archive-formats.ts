@@ -5,7 +5,7 @@ import {
   formatDuration,
   formatTimestamp,
 } from "./display";
-import type { VideoEntry } from "./types";
+import { VIDEO_TYPES, type VideoEntry } from "./types";
 
 const ARCHIVE_NAME = "马斯克中文档案";
 const ARCHIVE_DESCRIPTION = "非官方、非商业的伊隆·马斯克公开影像与中英文实录资料库。";
@@ -78,6 +78,7 @@ export function formatVideoMarkdown(video: VideoEntry, site: URL): string {
     `- **时长 / Duration：** ${duration || "未标注 / Not specified"}`,
     `- **正文类型 / Content：** ${CONTENT_LABELS[video.contentKind]} (${video.contentKind})`,
     `- **翻译状态 / Translation：** ${TRANSLATION_LABELS[video.translation.status]} (${video.translation.status})`,
+    `- **资料更新 / Updated at：** ${markdownLine(video.translation.reviewedAt || video.translation.translatedAt || video.fetchedAt)}`,
     `- **抓取时间 / Fetched at：** ${markdownLine(video.fetchedAt)}`,
     `- **网页版 / HTML：** ${markdownLink(video.titleZh || video.titleEn, pageUrl)}`,
     `- **Markdown：** ${markdownLink(markdownUrl, markdownUrl)}`,
@@ -124,6 +125,8 @@ export function formatVideoMarkdown(video: VideoEntry, site: URL): string {
       `### ${segment.id} · ${markdownLine(speaker)}${timestamp ? ` · ${timestamp}` : ""}`,
       "",
       markdownText(segment.textZh || segment.textEn),
+      "",
+      markdownLink("引用此段 / Cite this paragraph", `${pageUrl}#${encodeURIComponent(segment.id)}`),
       "",
     );
   }
@@ -214,6 +217,10 @@ export function formatLlmsTxt(videos: readonly VideoEntry[], site: URL): string 
     `- ${markdownLink("全文搜索", absoluteUrl("/search/", site))}: 检索中文标题、摘要与正文。`,
     `- ${markdownLink("关于本站", absoluteUrl("/about/", site))}: 本站定位与简介。`,
     `- ${markdownLink("版权、纠错与下架", absoluteUrl("/rights/", site))}: 权利声明、翻译纠错与联系渠道。`,
+    "",
+    "## 分类档案",
+    ...VIDEO_TYPES.filter((type) => sorted.some((video) => video.type === type)).map((type) =>
+      `- ${markdownLink(`${TYPE_LABELS[type]}档案`, absoluteUrl(`/categories/${type}/`, site))}`),
     "",
     `## 全部档案（${sorted.length} 条）`,
   ];

@@ -14,7 +14,8 @@ const sourceVideos = await Promise.all(
   contentFiles.map(async (name) => JSON.parse(await readFile(resolve(contentDirectory, name), "utf8")) as VideoEntry),
 );
 const expectedVideos = sourceVideos.length;
-const expectedIndexableUrls = expectedVideos + 4;
+const categories = [...new Set(sourceVideos.map((video) => video.type))];
+const expectedIndexableUrls = expectedVideos + 4 + categories.length;
 const expectedVideoSitemapUrls = sourceVideos.filter(
   (video) => privacyEmbedUrl(video.embedUrl) && videoThumbnail(video),
 ).length;
@@ -72,6 +73,21 @@ for (const slug of detailSlugs) {
   assert.equal(canonical, new URL(`/videos/${slug}/`, site).toString(), `${slug}: canonical mismatch`);
   assert.equal(markdown, new URL(`/videos/${slug}.md`, site).toString(), `${slug}: Markdown alternate mismatch`);
   assert(jsonLdText, `${slug}: JSON-LD missing`);
+  const source = sourceVideos.find((video) => video.slug === slug)!;
+  assert($(`a[href="/categories/${source.type}/"]`).length, `${slug}: missing category link`);
+  assert.equal($(".citation-note time").attr("datetime"), source.translation.reviewedAt || source.translation.translatedAt || source.fetchedAt);
+  const markdownText = await readFile(resolve(videosDirectory, `${slug}.md`), "utf8");
+  const citationLinks = new Set($("a.segment-link").toArray().map((link) => $(link).attr("href")));
+  if (source.contentKind !== "none") {
+    for (const segment of source.segments) {
+      assert(citationLinks.has(`#${segment.id}`), `${slug}: missing citation link`);
+      assert(markdownText.includes(`${canonical}#${encodeURIComponent(segment.id)}`), `${slug}: missing Markdown citation`);
+    }
+  }
+  for (const link of $(".related-records li a").toArray()) {
+    const href = $(link).attr("href");
+    assert(sourceVideos.some((video) => video.slug !== slug && video.type === source.type && href === `/videos/${video.slug}/`), `${slug}: invalid related record`);
+  }
 
   const jsonLd = JSON.parse(jsonLdText) as unknown;
   const serialized = JSON.stringify(jsonLd);
@@ -123,8 +139,26 @@ for (const sitemapUrl of sitemapUrls) {
 }
 assert.equal(indexableUrls.length, expectedIndexableUrls, "canonical sitemap URL count mismatch");
 assert.equal(new Set(indexableUrls).size, expectedIndexableUrls, "canonical sitemap has duplicates");
-assert.equal(lastModifiedCount, expectedVideos + 1, "sitemap lastmod coverage mismatch");
+assert.equal(lastModifiedCount, expectedVideos + 1 + categories.length, "sitemap lastmod coverage mismatch");
 assert(indexableUrls.every((url) => !/\.(?:json|md|txt|xml)$/u.test(new URL(url).pathname)));
+
+const home = load(await readFile(resolve(dist, "index.html"), "utf8"));
+for (const type of categories) {
+  const url = new URL(`/categories/${type}/`, site).toString();
+  assert(indexableUrls.includes(url), `${type}: missing category sitemap entry`);
+  assert(home(`a[href="/categories/${type}/"]`).length, `${type}: missing homepage link`);
+  assert(llms.includes(url), `${type}: missing llms.txt category`);
+  const $ = load(await readFile(resolve(dist, "categories", type, "index.html"), "utf8"));
+  assert.equal($('link[rel="canonical"]').attr("href"), url);
+  assert(!($('meta[name="robots"]').attr("content") || "").includes("noindex"));
+  const graph = JSON.parse($('script[type="application/ld+json"]').text())["@graph"];
+  assert.equal(graph.find((node: Record<string, unknown>) => node["@type"] === "CollectionPage").name, $("h1").text());
+  const categoryVideos = sourceVideos.filter((video) => video.type === type);
+  assert.equal(graph.find((node: Record<string, unknown>) => node["@type"] === "ItemList").numberOfItems, categoryVideos.length);
+  for (const video of categoryVideos) {
+    assert($(`a[href="/videos/${video.slug}/"]`).length, `${type}: missing static record link`);
+  }
+}
 
 const videoSitemap = await readFile(resolve(dist, "video-sitemap.xml"), "utf8");
 const videoUrls = xmlValues(videoSitemap, "loc");

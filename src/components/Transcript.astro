@@ -36,6 +36,7 @@ const { video, canSeek = false } = Astro.props;
           class:list={["transcript-segment", { dialogue: video.contentKind === "dialogue" }]}
         >
           <header>
+            <a class="segment-link" href={`#${segment.id}`} aria-label={`引用第 ${index + 1} 段`}>段落 {index + 1} ↗</a>
             <h3 id={`segment-${index + 1}`}>{segment.speakerZh || segment.speakerEn || `第 ${index + 1} 段`}</h3>
             {segment.startSec !== undefined && canSeek && (
               <button type="button" data-seek={segment.startSec} title="跳到视频中的这个位置">
@@ -100,6 +101,7 @@ const { video, canSeek = false } = Astro.props;
 </script>
 
 <style>
+  .segment-link { display: inline-block; margin-bottom: 8px; color: var(--muted); font-size: 0.73rem; }
   .transcript-heading {
     display: flex;
     justify-content: space-between;
@@ -214,6 +216,7 @@ const { video, canSeek = false } = Astro.props;
 
     .transcript-segment header {
       display: flex;
+      flex-wrap: wrap;
       justify-content: space-between;
       gap: 18px;
       align-items: center;
