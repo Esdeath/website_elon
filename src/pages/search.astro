@@ -4,6 +4,7 @@ import { Search } from "@lucide/astro";
 import ArchiveSearch from "../components/ArchiveSearch.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { TYPE_LABELS } from "../lib/display";
+import { BOOK } from "../lib/book";
 
 const entries = await getCollection("videos");
 const fallbackRecords = entries.map(({ data }) => ({
@@ -14,6 +15,14 @@ const fallbackRecords = entries.map(({ data }) => ({
   org: data.org || "",
   url: `/videos/${data.slug}/`,
 }));
+fallbackRecords.push({
+  title: BOOK.title,
+  summary: BOOK.description,
+  type: "电子书",
+  date: "",
+  org: "",
+  url: BOOK.path,
+});
 const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
 ---
 

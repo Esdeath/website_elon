@@ -71,6 +71,9 @@ const server = createServer(async (request, response) => {
   }
 });
 
+// Keep connections alive while Pagefind processes the preceding large query results.
+server.keepAliveTimeout = 60_000;
+
 await new Promise<void>((resolvePromise, reject) => {
   server.once("error", reject);
   server.listen(0, "127.0.0.1", resolvePromise);
@@ -127,7 +130,23 @@ try {
       `Pagefind did not return a Chinese transcript result at its segment anchor: ${diagnostics.join("; ")}`,
     );
   }
+  const bookQuery = "效用曲线";
+  const bookSearch = await pagefind.search(bookQuery, { excerptLength: 34 });
+  const bookResults = await Promise.all(
+    bookSearch.results.map((item: { data: () => Promise<any> }) => item.data()),
+  );
+  const book = bookResults.find((record: any) => String(record.url).includes("/books/first-principles/"));
+  const bookExcerpt = book?.sub_results?.find((result: any) => String(result.plain_excerpt).includes(bookQuery));
+  if (!bookExcerpt || !String(bookExcerpt.url).endsWith("/books/first-principles/#chapter-01-question-01")) {
+    throw new Error(`Pagefind did not return the book's full text at its question anchor: ${JSON.stringify({
+      query: bookQuery,
+      resultCount: bookResults.length,
+      bookUrl: book?.url,
+      excerptUrl: bookExcerpt?.url,
+    })}`);
+  }
   console.log(`[pagefind] ${passed.length} Chinese transcript queries returned exact segment anchors`);
+  console.log("[pagefind] book full-text query returned its exact question anchor");
 } finally {
   await new Promise<void>((resolvePromise, reject) => {
     server.close((error) => error ? reject(error) : resolvePromise());

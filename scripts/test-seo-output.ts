@@ -15,7 +15,9 @@ const sourceVideos = await Promise.all(
 );
 const expectedVideos = sourceVideos.length;
 const categories = [...new Set(sourceVideos.map((video) => video.type))];
-const expectedIndexableUrls = expectedVideos + 4 + categories.length;
+const expectedIndexableUrls = expectedVideos + 5 + categories.length;
+const bookPath = "/books/first-principles/";
+const bookUrl = new URL(bookPath, site).toString();
 const expectedVideoSitemapUrls = sourceVideos.filter(
   (video) => privacyEmbedUrl(video.embedUrl) && videoThumbnail(video),
 ).length;
@@ -143,6 +145,50 @@ assert.equal(lastModifiedCount, expectedVideos + 1 + categories.length, "sitemap
 assert(indexableUrls.every((url) => !/\.(?:json|md|txt|xml)$/u.test(new URL(url).pathname)));
 
 const home = load(await readFile(resolve(dist, "index.html"), "utf8"));
+const book = load(await readFile(resolve(dist, "books/first-principles/index.html"), "utf8"));
+const sourceBook = load(await readFile(resolve("src/data/books/first-principles.html"), "utf8"));
+assert.equal(book('link[rel="canonical"]').attr("href"), bookUrl, "book canonical mismatch");
+assert(!book('meta[name="robots"]').attr("content")?.includes("noindex"), "book must be indexable");
+assert(indexableUrls.includes(bookUrl), "book missing from canonical sitemap");
+assert(llms.includes(bookUrl), "book missing from llms.txt");
+assert(home(`.book-feature a[href="${bookPath}"]`).length, "book missing from homepage");
+assert(home(`nav[aria-label="主导航"] a[href="${bookPath}"]`).length, "book missing from main navigation");
+const bookJsonLd = book('script[type="application/ld+json"]').toArray().map((script) => JSON.parse(book(script).text()));
+assert(jsonLdTypes(bookJsonLd).includes("Book"), "book JSON-LD missing");
+assert.equal(book('.chapter[id^="chapter-"]').length, 20, "book chapter count mismatch");
+assert.equal(book(".question-title").length, 903, "book question count mismatch");
+assert.equal(book(".answer").length, 903, "book answer count mismatch");
+assert.equal(book(".bibliography li").length, 92, "book bibliography count mismatch");
+assert.equal(book(".chapter#sources").length, 1, "book source appendix missing");
+
+const bookIds = book("[id]").toArray().map((element) => book(element).attr("id"));
+assert.equal(new Set(bookIds).size, bookIds.length, "book contains duplicate anchors");
+for (const link of book('a[href^="#"]').toArray()) {
+  const anchor = decodeURIComponent(book(link).attr("href")!.slice(1));
+  assert(anchor && bookIds.includes(anchor), `book link has no target: #${anchor}`);
+}
+const normalizedText = (value: string) => value.replace(/\s+/gu, " ").trim();
+for (const selector of [".question-title", ".answer", ".chapter-body > p", ".chapter-body > h2", ".bibliography li"]) {
+  assert.deepEqual(
+    book(selector).toArray().map((element) => normalizedText(book(element).text())),
+    sourceBook(selector).toArray().map((element) => normalizedText(sourceBook(element).text())),
+    `book changed original content: ${selector}`,
+  );
+}
+for (const selector of [".chapter[id]", ".question-title[id]", ".bibliography li[id]"]) {
+  assert.deepEqual(
+    book(selector).toArray().map((element) => book(element).attr("id")),
+    sourceBook(selector).toArray().map((element) => sourceBook(element).attr("id")),
+    `book changed original anchors: ${selector}`,
+  );
+}
+for (const selector of [".source-ref a", ".bibliography a"]) {
+  assert.deepEqual(
+    book(selector).toArray().map((element) => book(element).attr("href")),
+    sourceBook(selector).toArray().map((element) => sourceBook(element).attr("href")),
+    `book changed original source links: ${selector}`,
+  );
+}
 for (const type of categories) {
   const url = new URL(`/categories/${type}/`, site).toString();
   assert(indexableUrls.includes(url), `${type}: missing category sitemap entry`);
@@ -184,5 +230,5 @@ assert.equal(
 
 console.log(
   `[seo] ${expectedVideos} unique detail pages, ${markdownFiles.length} Markdown alternates, ` +
-  `${indexableUrls.length} canonical URLs, ${videoUrls.length} videos`,
+  `${indexableUrls.length} canonical URLs, ${videoUrls.length} videos, 1 complete book`,
 );

@@ -51,6 +51,13 @@ Cloudflare Pages 配置：
 - `/llms.txt` 枚举机器可读入口和全部档案，HTML 详情页通过 `rel="alternate"` 指向对应 Markdown。
 - robots 优先允许 AI 搜索和用户请求式读取，并通过 `Content-Signal` 表达不用于训练的偏好；已知训练爬虫 GPTBot、ClaudeBot 与 CCBot 被禁止。
 
+## 在线读书
+
+- 顶部「读书」、首页书籍入口及页脚指向 `/books/first-principles/`，可阅读《第一性原理：马斯克创业与管理问答录》。
+- 原始合订本保存在 `src/data/books/first-principles.html`，构建时保留正文和来源，生成带有稳定锚点的阅读页；不依赖仓库外的原文件。
+- 阅读页提供章节目录、全书搜索、字号调节和继续阅读。字号与阅读位置保存在当前浏览器；链接中的章节或问答位置优先于历史记录。
+- 书籍正文加入 Pagefind 全文搜索，阅读页加入 sitemap 和 `llms.txt`。
+
 ## SEO 与 GEO 维护
 
 - `/categories/{type}/` 是五类资料的静态目录，每个目录有独立标题、摘要、canonical 和 CollectionPage / ItemList 结构化数据，所有记录链接直接出现在 HTML 中。

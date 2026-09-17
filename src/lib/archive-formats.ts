@@ -6,6 +6,7 @@ import {
   formatTimestamp,
 } from "./display";
 import { VIDEO_TYPES, type VideoEntry } from "./types";
+import { BOOK } from "./book";
 
 const ARCHIVE_NAME = "马斯克中文档案";
 const ARCHIVE_DESCRIPTION = "非官方、非商业的伊隆·马斯克公开影像与中英文实录资料库。";
@@ -214,6 +215,7 @@ export function formatLlmsTxt(videos: readonly VideoEntry[], site: URL): string 
     "",
     "## 主要页面",
     `- ${markdownLink("影像目录", absoluteUrl("/", site))}: 按类别、年份、机构与正文状态浏览。`,
+    `- ${markdownLink(BOOK.title, absoluteUrl(BOOK.path, site))}: ${BOOK.chapterCount} 章、${BOOK.questionCount} 组问答，支持目录跳转与全书搜索。`,
     `- ${markdownLink("全文搜索", absoluteUrl("/search/", site))}: 检索中文标题、摘要与正文。`,
     `- ${markdownLink("关于本站", absoluteUrl("/about/", site))}: 本站定位与简介。`,
     `- ${markdownLink("版权、纠错与下架", absoluteUrl("/rights/", site))}: 权利声明、翻译纠错与联系渠道。`,

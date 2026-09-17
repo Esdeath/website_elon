@@ -1,9 +1,11 @@
 ---
 import { Search } from "@lucide/astro";
+import { BOOK } from "../lib/book";
 
 const currentPath = Astro.url.pathname;
 const links = [
   { href: "/", label: "影像目录" },
+  { href: BOOK.path, label: "读书" },
   { href: "/about/", label: "关于" },
   { href: "/rights/", label: "版权与纠错" },
 ];

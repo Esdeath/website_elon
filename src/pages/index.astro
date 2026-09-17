@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import { ChevronLeft, ChevronRight } from "@lucide/astro";
 import ArchiveFilters from "../components/ArchiveFilters.astro";
 import ArchiveSearch from "../components/ArchiveSearch.astro";
+import BookFeature from "../components/BookFeature.astro";
 import VideoCard from "../components/VideoCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { videoThumbnail, videoYear } from "../lib/display";
@@ -57,6 +58,8 @@ const socialImage = videos[0] ? videoThumbnail(videos[0]) : undefined;
       </dl>
     </div>
   </section>
+
+  <BookFeature />
 
   <section class="archive-catalog shell" aria-labelledby="catalog-title">
     <div class="search-row">

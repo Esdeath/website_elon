@@ -376,7 +376,8 @@ input[type="radio"] + label {
   .primary-nav a {
     flex: 1 0 auto;
     min-height: 44px;
-    min-width: 104px;
+    min-width: 0;
+    padding-inline: 12px;
     border-inline-start: 0;
     border-inline-end: 1px solid var(--line);
   }

@@ -1,0 +1,58 @@
+---
+import originalBook from "../../../data/books/first-principles.html?raw";
+import { BOOK } from "../../../lib/book";
+import { prepareBook } from "../../../lib/book-content";
+import { serializeJsonLd } from "../../../lib/json-ld";
+import { SITE_NAME } from "../../../lib/seo";
+import readerStyles from "../../../styles/book-reader.css?raw";
+
+const { html, css } = prepareBook(originalBook);
+const canonical = new URL(BOOK.path, Astro.site || Astro.url.origin).toString();
+const pageTitle = `${BOOK.title}｜${SITE_NAME}`;
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": `${canonical}#book`,
+  name: BOOK.title,
+  description: BOOK.description,
+  url: canonical,
+  inLanguage: "zh-CN",
+  bookFormat: "https://schema.org/EBook",
+  isAccessibleForFree: true,
+  about: { "@type": "Person", name: "Elon Musk" },
+  isPartOf: { "@type": "WebSite", name: SITE_NAME, url: new URL("/", canonical).toString() },
+};
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content="#f6f6f3" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={BOOK.description} />
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:type" content="book" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={BOOK.description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={BOOK.description} />
+    <script is:inline type="application/ld+json" set:html={serializeJsonLd(jsonLd)} />
+    <style is:inline set:html={css} />
+    <style is:inline set:html={readerStyles} />
+  </head>
+  <body>
+    <Fragment set:html={html} />
+    <script>
+      import "../../../scripts/book-reader";
+    </script>
+  </body>
+</html>
