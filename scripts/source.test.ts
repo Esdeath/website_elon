@@ -13,6 +13,7 @@ import {
   thumbnailForVideo,
   transcriptNeedsHtmlFallback,
 } from "./source";
+import type { BuildVideoOptions, SourceIndexEntry } from "./source";
 
 const fixtureUrl = (name: string) => new URL(`./fixtures/${name}`, import.meta.url);
 const fixture = (name: string) => readFile(fixtureUrl(name), "utf8");
@@ -261,5 +262,95 @@ describe("media normalization and persistence merge", () => {
       "",
     ]);
     expect(next.translation.status).toBe("pending");
+  });
+});
+
+describe("supplemental YouTube caption persistence", () => {
+  const index: SourceIndexEntry = {
+    id: "earnings-video",
+    type: "earnings",
+    date: "2026-04-22",
+    title: "An earnings call",
+    url: "https://elonmuskarchive.org/video/earnings-video",
+    source: "https://www.youtube.com/watch?v=abcDEF12345",
+  };
+  const options: BuildVideoOptions = {
+    fetchedAt: "2026-09-17T00:00:00.000Z",
+    snapshotId: "2026-09-17",
+    transcript: { contentKind: "none", segments: [] },
+    detail: { contentKind: "none", segments: [] },
+  };
+  const withCaptions = (): VideoEntry => {
+    const entry = buildVideoEntry(index, {
+      ...options,
+      transcript: {
+        ...parseTranscriptText("Supplemental caption text."),
+        transcriptSource: index.source,
+      },
+    });
+    return {
+      ...entry,
+      titleZh: "财报电话会",
+      segments: entry.segments.map((segment) => ({ ...segment, textZh: "补充字幕。" })),
+      translation: { status: "reviewed", reviewedAt: "2026-09-17" },
+    };
+  };
+
+  it("retains supplemental captions, their provenance, translations and hash when the archive has no text", () => {
+    const existing = withCaptions();
+    const refreshed = buildVideoEntry(index, {
+      ...options,
+      transcript: { contentKind: "none", segments: [], transcriptSource: "assemblyai" },
+    }, existing);
+
+    expect(refreshed.contentKind).toBe("article");
+    expect(refreshed.segments).toEqual(existing.segments);
+    expect(refreshed.transcriptSource).toBe(existing.transcriptSource);
+    expect(refreshed.titleZh).toBe(existing.titleZh);
+    expect(refreshed.translation).toEqual(existing.translation);
+    expect(refreshed.sourceHash).toBe(existing.sourceHash);
+  });
+
+  it("recognizes equivalent YouTube source URLs", () => {
+    const existing = withCaptions();
+    const refreshed = buildVideoEntry({ ...index, source: "https://youtu.be/abcDEF12345?t=10" }, options, existing);
+
+    expect(refreshed.segments).toEqual(existing.segments);
+    expect(refreshed.transcriptSource).toBe(existing.transcriptSource);
+  });
+
+  it.each(["transcript", "detail"] as const)("prefers newly available archive %s text over supplemental captions", (source) => {
+    const existing = withCaptions();
+    const refreshed = buildVideoEntry(index, {
+      ...options,
+      [source]: {
+        ...parseTranscriptText("A corrected transcript from the archive."),
+        transcriptSource: "assemblyai",
+      },
+    }, existing);
+
+    expect(refreshed.segments[0].textEn).toBe("A corrected transcript from the archive.");
+    expect(refreshed.segments[0].textZh).toBe("");
+    expect(refreshed.transcriptSource).toBe("assemblyai");
+    expect(refreshed.translation.status).toBe("pending");
+    expect(refreshed.sourceHash).not.toBe(existing.sourceHash);
+  });
+
+  it.each([
+    { name: "entry identity", index: { id: "different-entry" } },
+    { name: "source video", index: { source: "https://www.youtube.com/watch?v=otherVideo1" } },
+    { name: "embedded video", detail: { embedUrl: "https://www.youtube.com/embed/otherVideo1" } },
+    { name: "caption video", existing: { transcriptSource: "https://www.youtube.com/watch?v=otherVideo1" } },
+    { name: "archive transcript", existing: { transcriptSource: "assemblyai" } },
+  ])("does not retain captions for a mismatched $name", (change) => {
+    const refreshed = buildVideoEntry(
+      { ...index, ...change.index },
+      { ...options, detail: { contentKind: "none", segments: [], ...change.detail } },
+      { ...withCaptions(), ...change.existing },
+    );
+
+    expect(refreshed.contentKind).toBe("none");
+    expect(refreshed.segments).toEqual([]);
+    expect(refreshed.transcriptSource).toBeUndefined();
   });
 });

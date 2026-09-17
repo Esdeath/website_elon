@@ -631,6 +631,36 @@ export function mergeExistingTranslations(
   return merged;
 }
 
+function supplementalTranscriptMatchesVideo(
+  index: SourceIndexEntry,
+  embedUrl: string | undefined,
+  existing: VideoEntry | undefined,
+): existing is VideoEntry {
+  if (
+    !existing ||
+    existing.id !== index.id ||
+    existing.contentKind === "none" ||
+    !existing.segments.length
+  ) {
+    return false;
+  }
+
+  // youtube-captions.ts records the caption video's URL as transcriptSource.
+  // Only reuse it while both the archive entry and its video still match.
+  const captionId = youtubeIdFromUrl(existing.transcriptSource);
+  const oldSourceId = youtubeIdFromUrl(existing.sourceUrl);
+  const newSourceId = youtubeIdFromUrl(index.source);
+  const sameSource = oldSourceId && newSourceId
+    ? oldSourceId === newSourceId
+    : existing.sourceUrl === index.source;
+  return Boolean(
+    sameSource &&
+    captionId &&
+    captionId === (youtubeIdFromUrl(existing.embedUrl) ?? oldSourceId) &&
+    captionId === (youtubeIdFromUrl(embedUrl) ?? newSourceId),
+  );
+}
+
 export function buildVideoEntry(
   index: SourceIndexEntry,
   options: BuildVideoOptions,
@@ -638,14 +668,20 @@ export function buildVideoEntry(
 ): VideoEntry {
   const transcript = options.transcript;
   const detail = options.detail;
-  const content =
-    transcript && transcript.contentKind !== "none"
-      ? transcript
-      : detail && detail.contentKind !== "none"
-        ? detail
-        : { contentKind: "none" as const, segments: [] };
   const candidateEmbed = transcript?.embedUrl ?? detail?.embedUrl;
   const embedUrl = normalizeEmbedUrl(index.source, candidateEmbed);
+  const supplementalTranscript = supplementalTranscriptMatchesVideo(index, embedUrl, existing)
+    ? existing
+    : undefined;
+  const content =
+    transcript && transcript.contentKind !== "none" && transcript.segments.length
+      ? transcript
+      : detail && detail.contentKind !== "none" && detail.segments.length
+        ? detail
+        : supplementalTranscript ?? { contentKind: "none" as const, segments: [] };
+  const transcriptSource = content === supplementalTranscript
+    ? supplementalTranscript?.transcriptSource
+    : transcript?.transcriptSource ?? detail?.transcriptSource;
   const thumbnailUrl = thumbnailForVideo(
     index.source,
     embedUrl,
@@ -677,12 +713,7 @@ export function buildVideoEntry(
     segments: content.segments,
     translation: { status: "pending" },
     fetchedAt: options.fetchedAt,
-    ...(transcript?.transcriptSource ?? detail?.transcriptSource
-      ? {
-          transcriptSource:
-            transcript?.transcriptSource ?? detail?.transcriptSource,
-        }
-      : {}),
+    ...(transcriptSource ? { transcriptSource } : {}),
   };
   const next: VideoEntry = {
     ...withoutHash,

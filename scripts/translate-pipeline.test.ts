@@ -273,6 +273,41 @@ describe("translation pipeline", () => {
     ).toBe("ok");
   });
 
+  it.each([
+    ["Nov. 25", "11月25日"],
+    ["Nov.25", "11月25日"],
+    ["nov 25", "11月25日"],
+    ["25 Sept. 2026", "2026年9月25日"],
+    ["On Jan. 2, we launched Falcon 9.", "1月2日，我们发射了猎鹰9号。"],
+  ])("normalizes abbreviated date %s", (source, translation) => {
+    expect(compareNumericIntegrity(source, translation).level).toBe("ok");
+  });
+
+  it("accepts the abbreviated launch date with an implicit Chinese classifier", () => {
+    expect(compareNumericIntegrity(
+      "A new space era dawns today, Nov. 25, with Falcon 9.",
+      "随着猎鹰9号于今天（11月25日）发射，一个新的太空时代开启。",
+    ).level).toBe("warning");
+  });
+
+  it("does not interpret a speaker introduced as Feb as February", () => {
+    expect(compareNumericIntegrity(
+      "And next we have some remarks from Feb. Uh, go ahead.",
+      "接下来，费布会讲几句。呃，请开始。",
+    ).level).toBe("ok");
+    expect(compareNumericIntegrity("From Feb. 25", "从2月25日起").level).toBe("ok");
+    expect(compareNumericIntegrity("From Feb. 25", "从3月25日起").level).toBe("error");
+  });
+
+  it.each([
+    ["Nov. 25", "12月25日"],
+    ["Nov. 25", "11月26日"],
+    ["On Jan. 2, we launched Falcon 9.", "1月2日，我们发射了猎鹰8号。"],
+    ["We met Jan and discussed launches.", "我们见了简并讨论发射。新增1次发射。"],
+  ])("still rejects changed or invented numbers around %s", (source, translation) => {
+    expect(compareNumericIntegrity(source, translation).level).toBe("error");
+  });
+
   it("allows repeated endpoints to use explicit Chinese classifiers", () => {
     expect(
       compareNumericIntegrity(
@@ -728,6 +763,42 @@ describe("translation pipeline", () => {
       .toBe("ok");
     expect(compareNumericIntegrity("We should double and triple the clicks.", "我们应该增加点击次数。").level)
       .toBe("error");
+  });
+
+  it("accepts double click on it as a request to elaborate", () => {
+    expect(compareNumericIntegrity(
+      "Jason Calacanis: Double click on it.",
+      "杰森·卡拉卡尼斯：详细说说。",
+    ).level).toBe("ok");
+    expect(compareNumericIntegrity(
+      "Double click on that. Revenue was 25 million.",
+      "展开讲讲。营收是2500万。",
+    ).level).toBe("ok");
+  });
+
+  it.each(["深入说说。", "展开解释。", "详细解释。", "具体聊聊。"])(
+    "accepts the elaboration wording %s",
+    (translation) => {
+      expect(compareNumericIntegrity("Double click on it.", translation).level).toBe("ok");
+    },
+  );
+
+  it("preserves literal clicks and checks other figures beside the idiom", () => {
+    expect(compareNumericIntegrity("Double click on it.", "双击它。").level).toBe("ok");
+    expect(compareNumericIntegrity("Double click on it.", "双击展开说说。").level).toBe("ok");
+    expect(compareNumericIntegrity("Double click on the button.", "点击按钮。").level).toBe("error");
+    expect(compareNumericIntegrity(
+      "Double click on this button, then discuss the details.",
+      "点击这个按钮，然后详细讨论。",
+    ).level).toBe("error");
+    expect(compareNumericIntegrity(
+      "Double click on that. Revenue was 25 million.",
+      "展开讲讲。营收是2600万。",
+    ).level).toBe("error");
+    expect(compareNumericIntegrity(
+      "Double click on it. Production doubled.",
+      "详细说说。产量增加了。",
+    ).level).toBe("error");
   });
 
   it("recognizes a counted Chinese points phrase", () => {

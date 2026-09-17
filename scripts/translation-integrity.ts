@@ -11,6 +11,18 @@ const MONTHS = new Map<string, string>([
   ["October", "10"],
   ["November", "11"],
   ["December", "12"],
+  ["Jan", "1"],
+  ["Feb", "2"],
+  ["Mar", "3"],
+  ["Apr", "4"],
+  ["Jun", "6"],
+  ["Jul", "7"],
+  ["Aug", "8"],
+  ["Sep", "9"],
+  ["Sept", "9"],
+  ["Oct", "10"],
+  ["Nov", "11"],
+  ["Dec", "12"],
 ]);
 
 const QUARTERS = new Map<string, string>([
@@ -101,35 +113,46 @@ function scaleDecimal(raw: string, power: number): string {
 }
 
 function normalizeDateMonths(value: string): string {
-  const monthPattern = /\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\b/gi;
+  const monthPattern = /\b(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)\b\.?/gi;
   return value.replace(monthPattern, (month: string, offset: number, source: string) => {
+    const monthName = month.replace(/\.$/, "");
     const before = source.slice(Math.max(0, offset - 28), offset);
     const after = source.slice(offset + month.length, offset + month.length + 28);
-    if (month.toLocaleLowerCase("en-US") === "may") {
+    if (monthName.toLocaleLowerCase("en-US") === "may") {
       const hasExplicitDateLead =
         /\b(?:in|on|since|by|until|through|during|from|to|last|next|this|early|late|mid|of|after|before)\s+$/i.test(
           before,
         );
       const followsModalSubject =
-        month === "may" &&
+        monthName === "may" &&
         /\b(?:this|it|that|we|you|they|i|he|she|who|which)\s+$/i.test(before) &&
         !/^\s*(?:[,./-]|\d)/.test(after);
       if (
         /^\s+Musk\b/i.test(after) ||
         /^\s+(?:be|have|not)\b/i.test(after) ||
-        (month === "may" && /^\s+\d/.test(after) && !hasExplicitDateLead) ||
+        (monthName === "may" && /^\s+\d/.test(after) && !hasExplicitDateLead) ||
         followsModalSubject
       ) {
         return month;
       }
     }
-    if (month === "march" && /\bto\s+$/i.test(before)) return month;
-    const hasDateContext =
-      /\b(?:in|on|since|by|until|through|during|from|to|last|next|this|early|late|mid|of|after|before)\s+$/i.test(before) ||
+    if (monthName === "march" && /\bto\s+$/i.test(before)) return month;
+    const hasNumericDateContext =
       /\d{1,2}(?:st|nd|rd|th)?(?:\s+of)?\s*$/i.test(before) ||
-      /^\s+(?:(?:of\s+)?\d{1,4}(?:st|nd|rd|th)?\b|last\b|next\b|this\b)/i.test(after);
-    const canonical = `${month[0].toLocaleUpperCase("en-US")}${month.slice(1).toLocaleLowerCase("en-US")}`;
-    return hasDateContext ? MONTHS.get(canonical) ?? month : month;
+      /^\s*(?:of\s+)?\d{1,4}(?:st|nd|rd|th)?\b/i.test(after);
+    // Short forms can also be names (for example, "remarks from Feb.").
+    // Require an adjacent day or year before interpreting an abbreviation.
+    if (
+      /^(?:Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)$/i.test(monthName) &&
+      !hasNumericDateContext
+    ) return month;
+    const hasDateContext =
+      hasNumericDateContext ||
+      /\b(?:in|on|since|by|until|through|during|from|to|last|next|this|early|late|mid|of|after|before)\s+$/i.test(before) ||
+      /^\s*(?:last|next|this)\b/i.test(after);
+    const canonical = `${monthName[0].toLocaleUpperCase("en-US")}${monthName.slice(1).toLocaleLowerCase("en-US")}`;
+    // Keep compact dates such as Nov.25 from becoming the decimal 11.25.
+    return hasDateContext ? `${MONTHS.get(canonical) ?? month} ` : month;
   });
 }
 
@@ -998,7 +1021,15 @@ export function compareNumericIntegrity(
   source: string,
   translation: string,
 ): NumericComparison {
-  const sourceAnalysis = analyzeNumericValues(source);
+  // A request to elaborate can use "double click on it" metaphorically; keep
+  // literal UI clicks numeric unless the translation explicitly asks for detail.
+  const translatedAsElaboration =
+    /(?:详细|具体|展开|深入|仔细)(?:地)?(?:说|讲|谈|聊|解释|探讨|讨论|分析)/.test(translation) &&
+    !/(?:双(?:击|点击)|(?:两|二|2)\s*次\s*点击|点击\s*(?:两|二|2)\s*次)/.test(translation);
+  const sourceForNumbers = translatedAsElaboration
+    ? source.replace(/\bdouble[-\s]+click\s+on\s+(?:it|this|that)\b(?=\s*(?:[.!?]|$))/gi, "elaborate")
+    : source;
+  const sourceAnalysis = analyzeNumericValues(sourceForNumbers);
   const translationValues = normalizedNumericValues(translation);
   const sourceValues = sourceAnalysis.values;
   if (JSON.stringify(sourceValues) === JSON.stringify(translationValues)) {

@@ -47,7 +47,7 @@ Cloudflare Pages 配置：
 ## 搜索与机器读取
 
 - `/sitemap-index.xml` 收录 canonical HTML 页面及真实内容更新时间，`/video-sitemap.xml` 收录可嵌入视频。
-- `/archive.json` 提供 271 条双语元数据；每条详情另有 `/videos/{slug}.md` Markdown 版本。
+- `/archive.json` 提供全部档案的双语元数据；每条详情另有 `/videos/{slug}.md` Markdown 版本。
 - `/llms.txt` 枚举机器可读入口和全部档案，HTML 详情页通过 `rel="alternate"` 指向对应 Markdown。
 - robots 优先允许 AI 搜索和用户请求式读取，并通过 `Content-Signal` 表达不用于训练的偏好；已知训练爬虫 GPTBot、ClaudeBot 与 CCBot 被禁止。
 
@@ -77,7 +77,7 @@ Cloudflare Pages 配置：
 
 ## 主要脚本
 
-- `npm run sync:fetch`：获取精确的 271 条基线目录与详情正文。
+- `npm run sync:fetch`：获取源站当前目录与详情正文，新增记录并更新已变化的内容。
 - `npm run sync:translate`：使用当前 ChatGPT/Codex 账号分块翻译。
 - `npm run sync:review`：对中英段落做独立复核并应用修正。
 - `--resume`：用于从上次中断处继续；日常更新请不带此参数运行 `npm run sync`，以便重新检查源站变化。

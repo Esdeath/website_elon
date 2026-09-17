@@ -1,8 +1,17 @@
 import { expect, test, type Page } from "@playwright/test";
+import { readFileSync, readdirSync } from "node:fs";
+import type { VideoEntry } from "../../src/lib/types";
+
+const VIDEO_DIRECTORY = new URL("../../src/content/videos/", import.meta.url);
+const VIDEO_FILES = readdirSync(VIDEO_DIRECTORY).filter((name) => name.endsWith(".json"));
+const EXPECTED_VIDEO_COUNT = VIDEO_FILES.length;
+const VIDEO_ENTRIES = VIDEO_FILES.sort()
+  .map((name) => JSON.parse(readFileSync(new URL(name, VIDEO_DIRECTORY), "utf8")) as VideoEntry);
+const NO_BODY_ENTRY = VIDEO_ENTRIES
+  .find((video) => video.contentKind === "none" && video.translation.status === "reviewed");
 
 const TIMED_VIDEO = "/videos/falcon-9-droneship-landing-2016-04-08/";
 const NO_EMBED_VIDEO = "/videos/forbes-jim-clash-2014/";
-const NO_BODY_VIDEO = "/videos/npc-luncheon-2011/";
 
 async function expectNoHorizontalOverflow(page: Page) {
   const dimensions = await page.evaluate(() => ({
@@ -52,7 +61,7 @@ test("首页筛选写入 URL，清除后恢复完整目录", async ({ page }) =>
   await page.goto("/");
 
   const resultCount = page.locator("[data-result-count]");
-  await expect(resultCount).toHaveText("271");
+  await expect(resultCount).toHaveText(String(EXPECTED_VIDEO_COUNT));
   await expect(page.locator("[data-video-card]:not([hidden])")).toHaveCount(24);
 
   await page.getByRole("radio", { name: /^访谈/ }).check();
@@ -65,16 +74,27 @@ test("首页筛选写入 URL，清除后恢复完整目录", async ({ page }) =>
 
   await page.locator('select[name="body"]').selectOption("none");
   await expect.poll(() => new URL(page.url()).searchParams.get("body")).toBe("none");
-  const bodyStates = await page
-    .locator("[data-video-card]:not([hidden])")
-    .evaluateAll((cards) => cards.map((card) => card.getAttribute("data-body")));
-  expect(bodyStates.length).toBeGreaterThan(0);
-  expect(new Set(bodyStates)).toEqual(new Set(["none"]));
+  await expect.poll(() => new URL(page.url()).searchParams.get("type")).toBe("interview");
+  const expectedNoBodyCount = VIDEO_ENTRIES
+    .filter((video) => video.type === "interview" && video.contentKind === "none").length;
+  await expect(resultCount).toHaveText(String(expectedNoBodyCount));
+  const noBodyCards = page.locator("[data-video-card]:not([hidden])");
+  if (expectedNoBodyCount === 0) {
+    await expect(noBodyCards).toHaveCount(0);
+    await expect(page.locator("[data-no-results]")).toBeVisible();
+    await expect(page.getByRole("heading", { name: "没有符合条件的记录" })).toBeVisible();
+  } else {
+    await expect(noBodyCards).toHaveCount(Math.min(expectedNoBodyCount, 24));
+    const bodyStates = await noBodyCards
+      .evaluateAll((cards) => cards.map((card) => card.getAttribute("data-body")));
+    expect(new Set(bodyStates)).toEqual(new Set(["none"]));
+    await expect(page.locator("[data-no-results]")).toBeHidden();
+  }
 
   await page.getByRole("button", { name: "清除" }).click();
   await expect.poll(() => new URL(page.url()).search).toBe("");
   await expect(page.getByRole("radio", { name: /^全部/ })).toBeChecked();
-  await expect(resultCount).toHaveText("271");
+  await expect(resultCount).toHaveText(String(EXPECTED_VIDEO_COUNT));
 });
 
 test("分享链接恢复筛选与排序状态", async ({ page }) => {
@@ -198,7 +218,8 @@ test("详情保留原始来源和英文档案外链", async ({ page }) => {
 });
 
 test("无正文记录仍显示真实翻译状态", async ({ page }) => {
-  await page.goto(NO_BODY_VIDEO);
+  test.skip(!NO_BODY_ENTRY, "当前内容集合没有已校对且无正文的记录，无法验收此状态。");
+  await page.goto(`/videos/${NO_BODY_ENTRY!.slug}/`);
 
   await expect(page.locator(".record-note").getByText("暂无正文", { exact: true })).toBeVisible();
   await expect(page.locator(".record-note").getByText("已校对", { exact: true })).toBeVisible();

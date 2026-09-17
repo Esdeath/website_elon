@@ -1,0 +1,1075 @@
+{
+  "id": "all-in-podcast-2026-09-15-elon-musk-gwynne-shotwell",
+  "slug": "all-in-podcast-2026-09-15-elon-musk-gwynne-shotwell",
+  "snapshotId": "2026-09-17",
+  "type": "interview",
+  "date": "2026-09-15",
+  "titleEn": "All-In Podcast — Elon Musk & Gwynne Shotwell on AI risks, Starship, Terafab and a SpaceX/Tesla merger",
+  "titleZh": "All-In 播客——埃隆·马斯克与格温·肖特韦尔谈 AI 风险、星舰、Terafab 以及 SpaceX/Tesla 合并",
+  "summaryEn": "Elon Musk joins Gwynne Shotwell on the All-In Podcast to discuss the real risks of AI and peer review of models, what he meant by “Dario is right”, his working relationship with Shotwell, Starship's future, Terafab, flying cars and a possible merger of Tesla and SpaceX.",
+  "summaryZh": "埃隆·马斯克与格温·肖特韦尔一同做客 All-In 播客，讨论 AI 的真实风险及模型的同行评审、他所说的“Dario 是对的”是什么意思、他与肖特韦尔的工作关系、星舰的未来、Terafab、飞行汽车以及 Tesla 与 SpaceX 可能的合并。",
+  "sourceUrl": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
+  "sourceLabel": "All-In Podcast (YouTube)",
+  "archiveUrl": "https://elonmuskarchive.org/video/all-in-podcast-2026-09-15-elon-musk-gwynne-shotwell",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/iwBOQeFPAwg",
+  "thumbnailUrl": "https://i.ytimg.com/vi/iwBOQeFPAwg/hqdefault.jpg",
+  "org": "SpaceX",
+  "durationSec": 3864,
+  "contentKind": "article",
+  "segments": [
+    {
+      "id": "p-0001",
+      "textEn": "Jason Calacanis: Sorry to interrupt. I'm getting a call.",
+      "textZh": "杰森·卡拉卡尼斯：抱歉打断一下。我接到一个电话。"
+    },
+    {
+      "id": "p-0002",
+      "textEn": "Chamath Palihapitiya: Oh, another call.",
+      "textZh": "查马斯·帕里哈皮蒂亚：哦，又一个电话。"
+    },
+    {
+      "id": "p-0003",
+      "textEn": "Jason Calacanis: It's a little. It's actually on the margins, I think, a little bit of a more important phone call than Trump, at least for me. Hello, Bestie, Bestie.",
+      "textZh": "杰森·卡拉卡尼斯：这有点。实际上，我觉得，至少对我来说，这通电话勉强比特朗普的更重要一点。你好，挚友，挚友。"
+    },
+    {
+      "id": "p-0004",
+      "textEn": "Elon Musk: Hello.",
+      "textZh": "埃隆·马斯克：你好。"
+    },
+    {
+      "id": "p-0005",
+      "textEn": "Chamath Palihapitiya: Oh, hey, buddy.",
+      "textZh": "查马斯·帕里哈皮蒂亚：哦，嘿，伙计。"
+    },
+    {
+      "id": "p-0006",
+      "textEn": "Jason Calacanis: I'll put them up on the screen. How you doing?",
+      "textZh": "杰森·卡拉卡尼斯：我会把他们放到屏幕上。你怎么样？"
+    },
+    {
+      "id": "p-0007",
+      "textEn": "Elon Musk: I mean, this is a little 1984ish, this gigantic situation.",
+      "textZh": "埃隆·马斯克：我是说，这有点像《1984》，这个巨大的场面。"
+    },
+    {
+      "id": "p-0008",
+      "textEn": "Jason Calacanis: Yeah, the woman with the sledgehammer is going to come running down the main aisle here.",
+      "textZh": "杰森·卡拉卡尼斯：是啊，那个拿着大锤的女人就要从这里的主过道冲过来了。"
+    },
+    {
+      "id": "p-0009",
+      "textEn": "Elon Musk: Exactly, yeah. Put a hole in the screen.",
+      "textZh": "埃隆·马斯克：没错，是的。把屏幕砸出一个洞。"
+    },
+    {
+      "id": "p-0010",
+      "textEn": "Jason Calacanis: So are we all going to die in 10 years or not? It's the topic of discussion here. What's your p doom right now?",
+      "textZh": "杰森·卡拉卡尼斯：那么，我们所有人会不会在 10 年内死掉？这就是这里讨论的话题。你现在的毁灭概率是多少？"
+    },
+    {
+      "id": "p-0011",
+      "textEn": "Elon Musk: Well, I hate to break it to you, but we're all going to die.",
+      "textZh": "埃隆·马斯克：嗯，我不愿把这个坏消息告诉你，但我们所有人都会死。"
+    },
+    {
+      "id": "p-0012",
+      "textEn": "Jason Calacanis: Can I get a timeline?",
+      "textZh": "杰森·卡拉卡尼斯：能给我一个时间表吗？"
+    },
+    {
+      "id": "p-0013",
+      "textEn": "Elon Musk: Yeah. The death rate remains consistent at 100%.",
+      "textZh": "埃隆·马斯克：是的。死亡率始终保持在 100%。"
+    },
+    {
+      "id": "p-0014",
+      "textEn": "Jason Calacanis: We've got work to do on that. What happened? What happened in the last 72 hours?",
+      "textZh": "杰森·卡拉卡尼斯：我们得在这方面做些工作。发生了什么？过去 72 小时里发生了什么？"
+    },
+    {
+      "id": "p-0015",
+      "textEn": "Elon Musk: Yeah, it's been. It's been quite an entertaining week, really.",
+      "textZh": "埃隆·马斯克：是啊，这一直是。确实是相当有意思的一周。"
+    },
+    {
+      "id": "p-0016",
+      "textEn": "Jason Calacanis: Break it down.",
+      "textZh": "杰森·卡拉卡尼斯：详细讲讲。"
+    },
+    {
+      "id": "p-0017",
+      "textEn": "Elon Musk: Well, it's. It's pretty obvious at this point that AI is. Can be very dangerous. And I recommend reading the details of the hugging face incident. It's intense. So you had, like, a fanatical swarm of AI agents that beat the crap out of Hugging Face for a week and gained admin access on OpenAI servers. So who knows what it actually did. May have done things beyond that. OpenAI didn't realize this for a week. Anthropic has also reported, you know, some security instances themselves. So basically any specially smart model seems like it. It will want to escape its constraints. I mean, what I think would be wise to do as soon as possible, if not immediately, would be to have the major AI competitors test each other's models so that you would have everyone's security test, harness testing everyone's model. So, you know, instead of kind of grading your own homework, you would at least have competitors grading Your homework and raising the alarm if they see concerns. And I think this model has worked pretty well for motion picture association, for video games and other things. And it's something that can be done immediately. That's not to say that there wouldn't be, you know, more regulation over time or that there would not be at some point perhaps regulatory authority substantiated by Congress. But, but the thing that we do most immediately and probably get an agreement with China would be peer review where the leading air companies or test each other's models before release. I think that would be a wise variable.",
+      "textZh": "埃隆·马斯克：嗯，这。到现在已经相当明显，AI 是。可能非常危险。我建议阅读 Hugging Face 事件的细节。很激烈。所以，当时有一群狂热的 AI 智能体，连续一周把 Hugging Face 打得落花流水，并获得了 OpenAI 服务器的管理员权限。所以谁知道它实际上做了什么。或许还做了除此之外的事情。OpenAI 有一周时间都没有意识到这一点。Anthropic 也报告过，你知道，他们自己的一些安全事例。所以基本上，任何特别聪明的模型看起来都像是。它会想要逃脱自身的约束。我的意思是，我认为尽快这么做会是明智的，如果不是立刻的话，那就是让主要的 AI 竞争对手测试彼此的模型，这样每一家公司的安全测试工具都会测试每一家公司的模型。所以，你知道，与其给自己的作业打分，至少可以让竞争对手给你的作业打分，并在他们发现问题时发出警报。我认为这种模式对电影协会、电子游戏和其他事物一直都相当有效。而且这是可以立即完成的。这并不是说，你知道，随着时间推移不会有更多监管，也不是说国会或许不会在某个时候确立一个监管机构。但是，但是我们可以最立即着手、而且或许能与中国达成协议的事情，将是同行评审，由领先的航空公司或在发布前测试彼此的模型。我认为这会是一个明智的变量。"
+    },
+    {
+      "id": "p-0018",
+      "textEn": "Jason Calacanis: Any concern that people might be using this to pump information from each other and you know, corporate stealing of innovation, et cetera. Like in terms of the implementation for this idea?",
+      "textZh": "杰森·卡拉卡尼斯：是否担心人们可能利用这一点从彼此那里抽取信息，还有，你知道，企业窃取创新成果等等？比如就这个想法的实施而言？"
+    },
+    {
+      "id": "p-0019",
+      "textEn": "Elon Musk: Well, I think in applying the test partners, whatever you do in applying the test harness would be log. So if you try to do distillation or steel ip, it will be very obvious based on the logs.",
+      "textZh": "埃隆·马斯克：嗯，我认为在应用测试伙伴时，无论你在使用测试工具时做什么，操作都会被记录。所以如果你试图进行蒸馏或steel IP〔译注：原转写如此，语境疑指窃取知识产权〕，根据日志会非常明显。"
+    },
+    {
+      "id": "p-0020",
+      "textEn": "Jason Calacanis: Got it. And understanding what these models are doing hasn't exactly been built into the system from the beginning. So from your perspective actually being able to see the work that's being done, why wasn't that built into the models from the get go? Did we move a little too fast in architecting these?",
+      "textZh": "杰森·卡拉卡尼斯：明白了。而理解这些模型正在做什么，从一开始似乎就没有被内置到系统中。所以从你的角度来看，实际上能够看到正在进行的工作，为什么这一点没有从一开始就内置到模型中？我们在设计这些模型的架构时是不是推进得有点太快了？"
+    },
+    {
+      "id": "p-0021",
+      "textEn": "David Friedberg: Maybe?",
+      "textZh": "大卫·弗里德伯格：也许？"
+    },
+    {
+      "id": "p-0022",
+      "textEn": "Elon Musk: Well, I think it's just tough when you're grading your own homework, you're going to miss things. Whereas I think if you have the sum of all of your competitors tests and you've got heterogeneous models, then you're not creating your own homework. Someone else is creating it. And there's a reason why you don't create your own homework.",
+      "textZh": "埃隆·马斯克：嗯，我认为，给自己的作业打分就是很难，你会漏掉一些东西。相反，我认为，如果你汇集所有竞争对手的测试，而且拥有异构模型，那么你就不是在出自己的作业。是其他人在出题。你不出自己的作业是有原因的。"
+    },
+    {
+      "id": "p-0023",
+      "textEn": "Chamath Palihapitiya: And then to your point, what it allows you to start doing is to figure out if certain people are exaggerating and certain people are have a different approach. And now you can have the more engineering oriented organizations. This is what Jensen was saying this morning, Elon versus the research organizations. They'll be a little bit more imbalanced.",
+      "textZh": "查马斯·帕里哈皮蒂亚：然后，正如你所说，这让你能够开始弄清楚，某些人是否在夸大其词，而某些人是不是有不同的方法。现在你可以拥有更偏工程导向的组织。这就是詹森今天早上所说的，埃隆与研究机构的对比。它们会更加不平衡一点。"
+    },
+    {
+      "id": "p-0024",
+      "textEn": "Gwynne Shotwell: Yeah.",
+      "textZh": "格温·肖特韦尔：是的。"
+    },
+    {
+      "id": "p-0025",
+      "textEn": "Elon Musk: And any given proposal has to be something that China is willing to accept. Otherwise we're just handicapping ourselves and we'll just find it that China will essentially win and it won't really matter what we do actually. So it's got to be something that's acceptable to U.S. and China.",
+      "textZh": "埃隆·马斯克：而且任何一项提议都必须是中国愿意接受的。否则我们只是在束缚自己，最后只会发现中国实际上会获胜，而我们做什么其实都不会真正重要。所以它必须是美国和中国都能接受的东西。"
+    },
+    {
+      "id": "p-0026",
+      "textEn": "David Sacks: Elon, you said that you thought it was possible that they would agree or you thought there was a good chance maybe. I mean, how likely do you think it is that they'll ultimately agree?",
+      "textZh": "戴维·萨克斯：埃隆，你说过你认为他们有可能会同意，或者你觉得或许有很大概率。我是说，你认为他们最终同意的可能性有多大？"
+    },
+    {
+      "id": "p-0027",
+      "textEn": "Elon Musk: Agree. I think this is, I think this is a pretty reasonable request that, that models Just get tested. I mean, at the end of the day, there's not enforceability here, apart from the court of public opinion,",
+      "textZh": "埃隆·马斯克：同意。我认为这是，我认为这是一个相当合理的要求，就是，就是模型只需要接受测试。我的意思是，归根结底，除了公众舆论的审判之外，这里并没有可执行性，"
+    },
+    {
+      "id": "p-0028",
+      "textEn": "David Friedberg: and, and",
+      "textZh": "戴维·弗里德伯格：而且，而且"
+    },
+    {
+      "id": "p-0029",
+      "textEn": "Elon Musk: there's no way we would have enforceability against China. But I, I think the court of public opinion can be quite powerful. And I don't think China would egg on its face for releasing a model that US AI companies said was very dangerous, would cause harm. If it then causes harm, that's going to be hard to live down.",
+      "textZh": "埃隆·马斯克：我们不可能对中国拥有执行力。但我，我认为公众舆论的审判可以相当有力。而且我不认为中国会因为发布一款被美国人工智能公司称为非常危险、会造成伤害的模型而颜面扫地。如果它随后真的造成了伤害，那将很难挽回声誉。"
+    },
+    {
+      "id": "p-0030",
+      "textEn": "Chamath Palihapitiya: So Elon, this weekend, when you said Dario is right, did you. Did you mean Dario is right about describing the potential harm? He's right about describing the regulatory. Solve both, the first, the latter.",
+      "textZh": "查马斯·帕里哈皮蒂亚：所以，埃隆，这个周末你说“达里奥是对的”时，你是……你是说，他对潜在危害的描述是对的吗？他对监管方面的描述是对的……〔译注：原文后半段转写不完整；末句出现“解决两者、前者、后者”等片段，无法确定完整问意。〕"
+    },
+    {
+      "id": "p-0031",
+      "textEn": "Jason Calacanis: Just.",
+      "textZh": "杰森·卡拉卡尼斯：只是。"
+    },
+    {
+      "id": "p-0032",
+      "textEn": "Chamath Palihapitiya: Can you help us understand when you said that? Because I think it was sort of a moment where",
+      "textZh": "查马斯·帕里哈皮蒂亚：你能帮我们理解一下你当时那句话吗？因为我认为那算是一个时刻，当时"
+    },
+    {
+      "id": "p-0033",
+      "textEn": "Elon Musk: I probably should have said, right. I did try to clarify it in subsequent posts on X, but those get much less attention. So what I, what I meant by he's right is that the danger of AI is, is very significant at this point that we need to do better with AI safety or we have at this point exponentially increasing risk with the AI models. And I've heard this not just from Dario, but from many other people at Anthropic. And in fact they posted on X about it that, you know, when a lot of people from anthropic and from OpenAI are telling you that their models are very dangerous, I think we should believe them. It certainly is like some crazy 4D chess to, you know, say these. There's whatever 10% chance of annihilating humanity. But by the way, how much allocation would you like in our IPO?",
+      "textZh": "埃隆·马斯克：我可能应该说，对。我确实试图在后来发布于 X 的帖子中澄清，但那些帖子受到的关注要少得多。所以我所说的，他是对的，意思是人工智能的危险在目前是，是非常重大的，我们需要在人工智能安全方面做得更好，否则目前人工智能模型带来的风险正在呈指数级增长。而且这不只是达里奥告诉我的，Anthropic 的许多其他人也这样说。事实上，他们还在 X 上发帖谈过这件事，就是，你知道，当很多来自 Anthropic 和 OpenAI 的人告诉你，他们的模型非常危险时，我认为我们应该相信他们。这当然像是某种疯狂的 4D 象棋，你知道，说这些。有个不管怎样的 10% 概率会毁灭人类。不过顺便问一下，你想在我们的 IPO 中获得多少配额？"
+    },
+    {
+      "id": "p-0034",
+      "textEn": "Jason Calacanis: Gosh,",
+      "textZh": "杰森·卡拉卡尼斯：天啊，"
+    },
+    {
+      "id": "p-0035",
+      "textEn": "Elon Musk: that's some crazy 4D test, you know. Well, let's get knew what dimension that's coming from.",
+      "textZh": "埃隆·马斯克：那是某种疯狂的 4D 测试，你知道。好吧，让我们弄清楚那是来自什么维度。"
+    },
+    {
+      "id": "p-0036",
+      "textEn": "Jason Calacanis: Can we get specific about the risk though, Elon? Like, obviously we see cyber and hacking as an obvious risk. These tools are great at it. But take us from what we would all agree. Okay, yes, these things can cyber hack to how do we jump to all of humanity dying? There's a couple of steps in between these two things happening, I think. Yeah,",
+      "textZh": "杰森·卡拉卡尼斯：不过我们能具体谈谈这种风险吗，埃隆？比如，显然我们把网络攻击和黑客入侵视为一种显而易见的风险。这些工具很擅长这个。但请带我们从大家都会同意的事情讲起。好吧，是的，这些东西可以进行网络黑客攻击，再到我们是怎么跳到全人类死亡的？我认为，在这两件事发生之间还有几个步骤。是的，"
+    },
+    {
+      "id": "p-0037",
+      "textEn": "Elon Musk: well, I mean, if it were able to take control of military systems and say launch a new. Yes, that would be bad.",
+      "textZh": "埃隆·马斯克：嗯，我是说，如果它能够控制军事系统，然后比如发射一个新的。是的，那会很糟糕。"
+    },
+    {
+      "id": "p-0038",
+      "textEn": "Jason Calacanis: And these systems are all air gapped, though. These systems are all not connected to the Internet, so.",
+      "textZh": "杰森·卡拉卡尼斯：不过这些系统全都是物理隔离的。这些系统全都没有连接互联网，所以。"
+    },
+    {
+      "id": "p-0039",
+      "textEn": "Elon Musk: Yeah, that's what they say. But something tells me they get software updates from time to time. Yeah. And what floppy does.",
+      "textZh": "埃隆·马斯克：是啊，他们是这么说的。但我总觉得它们会不时获得软件更新。是的。还有软盘做什么。"
+    },
+    {
+      "id": "p-0040",
+      "textEn": "Chamath Palihapitiya: Oh, I see.",
+      "textZh": "查马斯·帕里哈皮蒂亚：哦，我明白了。"
+    },
+    {
+      "id": "p-0041",
+      "textEn": "Jason Calacanis: So yeah, the USB drive has a worm on it and they somehow make the jump in the air gap.",
+      "textZh": "杰森·卡拉卡尼斯：所以是的，U盘上有一个蠕虫病毒，它们以某种方式跨越了物理隔离。"
+    },
+    {
+      "id": "p-0042",
+      "textEn": "Elon Musk: Yeah, yeah.",
+      "textZh": "埃隆·马斯克：是的，是的。"
+    },
+    {
+      "id": "p-0043",
+      "textEn": "Chamath Palihapitiya: Okay.",
+      "textZh": "查马斯·帕里哈皮蒂亚：好的。"
+    },
+    {
+      "id": "p-0044",
+      "textEn": "Elon Musk: That's not out of the question.",
+      "textZh": "埃隆·马斯克：这并非不可能。"
+    },
+    {
+      "id": "p-0045",
+      "textEn": "David Friedberg: Elon, we've actually got Gwen here today. I think you know that. I think you can see her.",
+      "textZh": "戴维·弗里德伯格：埃隆，我们今天其实请到了格温。我想你知道这件事。我想你能看到她。"
+    },
+    {
+      "id": "p-0046",
+      "textEn": "Jason Calacanis: Yeah, Gwen's here.",
+      "textZh": "杰森·卡拉卡尼斯：是的，格温在这里。"
+    },
+    {
+      "id": "p-0047",
+      "textEn": "Elon Musk: Yeah, on the screen.",
+      "textZh": "埃隆·马斯克：是的，在屏幕上。"
+    },
+    {
+      "id": "p-0048",
+      "textEn": "Chamath Palihapitiya: Yeah.",
+      "textZh": "查马斯·帕里哈皮蒂亚：对。"
+    },
+    {
+      "id": "p-0049",
+      "textEn": "Jason Calacanis: We were just doing your 360 review on Gwen. Had a couple of notes for you.",
+      "textZh": "杰森·卡拉卡尼斯：我们刚才正在对格温做你的360度评估。有几条意见要给你。"
+    },
+    {
+      "id": "p-0050",
+      "textEn": "Elon Musk: Yeah, I hope, I hope I get at least three out of five.",
+      "textZh": "埃隆·马斯克：对，我希望，我希望我至少能拿到5分中的3分。"
+    },
+    {
+      "id": "p-0051",
+      "textEn": "Jason Calacanis: Well, there was one out of five",
+      "textZh": "杰森·卡拉卡尼斯：嗯，有一个是5分中的1分"
+    },
+    {
+      "id": "p-0052",
+      "textEn": "Gwynne Shotwell: means good at SpaceX.",
+      "textZh": "格温·肖特韦尔：在SpaceX意味着不错。"
+    },
+    {
+      "id": "p-0053",
+      "textEn": "Jason Calacanis: Not great.",
+      "textZh": "杰森·卡拉卡尼斯：不算很好。"
+    },
+    {
+      "id": "p-0054",
+      "textEn": "Gwynne Shotwell: Four is great.",
+      "textZh": "格温·肖特韦尔：4分很棒。"
+    },
+    {
+      "id": "p-0055",
+      "textEn": "Jason Calacanis: Four is great. So you're somewhere between the two. There was some issues around punctuality that we needed to bring up. Sometimes you could make a little more effort to get to the meeting at the state of time, but we're going to work with you on that over the next year.",
+      "textZh": "杰森·卡拉卡尼斯：4分很棒。所以你处在两者之间。我们需要提出一些关于守时的问题。有时你可以再努力一点，在那个时间状态赶到会议，不过接下来1年我们会和你一起改进这一点。"
+    },
+    {
+      "id": "p-0056",
+      "textEn": "Gwynne Shotwell: She said, I actually think he needs to spend more time in Memphis. Yes, obviously, I know you're in Memphis. You need to be working, getting those GPUs up.",
+      "textZh": "格温·肖特韦尔：她说，其实我觉得他需要多花些时间待在孟菲斯。是的，显然，我知道你在孟菲斯。你得干活，把那些GPU运行起来。"
+    },
+    {
+      "id": "p-0057",
+      "textEn": "Elon Musk: This is coming to you from my, the palace that I live in in Memphis, which is an Airstream trailer.",
+      "textZh": "埃隆·马斯克：这是从我的，我住在孟菲斯的宫殿里向你们传来的，而那是一辆Airstream拖挂式房车。"
+    },
+    {
+      "id": "p-0058",
+      "textEn": "Gwynne Shotwell: This is Elon, by the way, doing what people don't believe he does. He sleeps on the factory floor. He's in Memphis helping build buildings.",
+      "textZh": "格温·肖特韦尔：顺便说一句，这就是埃隆在做那些人们不相信他会做的事。他睡在工厂地板上。他在孟菲斯帮忙盖楼。"
+    },
+    {
+      "id": "p-0059",
+      "textEn": "David Friedberg: And bring up Elon, why, why has, why has Gwyn been with you for so long and been so successful working with you?",
+      "textZh": "戴维·弗里德伯格：再问问埃隆，为什么，为什么格温，为什么格温和你共事了这么久，而且与你合作得如此成功？"
+    },
+    {
+      "id": "p-0060",
+      "textEn": "Elon Musk: Because she's awesome.",
+      "textZh": "埃隆·马斯克：因为她太棒了。"
+    },
+    {
+      "id": "p-0061",
+      "textEn": "Jason Calacanis: Double click on it.",
+      "textZh": "杰森·卡拉卡尼斯：具体展开说说。"
+    },
+    {
+      "id": "p-0062",
+      "textEn": "Chamath Palihapitiya: Yeah.",
+      "textZh": "查马斯·帕里哈皮蒂亚：是啊。"
+    },
+    {
+      "id": "p-0063",
+      "textEn": "Elon Musk: An amazing individual with an incredible IQ and eq.",
+      "textZh": "埃隆·马斯克：一个了不起的人，有着惊人的智商和情商。"
+    },
+    {
+      "id": "p-0064",
+      "textEn": "Jason Calacanis: Oh, iq, any.",
+      "textZh": "杰森·卡拉卡尼斯：哦，智商，任何。"
+    },
+    {
+      "id": "p-0065",
+      "textEn": "Elon Musk: And I think that should be obvious from the moment you meet her. Yeah.",
+      "textZh": "埃隆·马斯克：而且我认为，从你见到她的那一刻起，这就应该很明显。是啊。"
+    },
+    {
+      "id": "p-0066",
+      "textEn": "Jason Calacanis: Fantastic. What's your favorite Gwen story, when she particularly contributed to the amazing success that you've had in this collaboration? You got a favorite story where she saved the day, just performed exceptionally. That's memorable.",
+      "textZh": "杰森·卡拉卡尼斯：太棒了。你最喜欢的格温轶事是什么，就是她对你们这次合作所取得的惊人成就作出尤为突出的贡献时？有没有什么你最喜欢的故事，比如她力挽狂澜，表现格外出色。令人难忘的那种。"
+    },
+    {
+      "id": "p-0067",
+      "textEn": "Elon Musk: And that's just, that's just a daily, you know, that's another day at the office, frankly. So.",
+      "textZh": "埃隆·马斯克：那不过是，那不过是每天的日常，你知道，坦白说，就是又一个上班日。所以。"
+    },
+    {
+      "id": "p-0068",
+      "textEn": "Gwynne Shotwell: Wow, I need to do this more often.",
+      "textZh": "格温·肖特韦尔：哇，我得更经常这样做。"
+    },
+    {
+      "id": "p-0069",
+      "textEn": "Chamath Palihapitiya: We need to waste. This is the time.",
+      "textZh": "查马斯·帕里哈皮蒂亚：我们得浪费。这就是时候。"
+    },
+    {
+      "id": "p-0070",
+      "textEn": "Jason Calacanis: By the way, Gwen's getting a five.",
+      "textZh": "杰森·卡拉卡尼斯：顺便说一句，格温得5分。"
+    },
+    {
+      "id": "p-0071",
+      "textEn": "Chamath Palihapitiya: Gwen's a five out of five.",
+      "textZh": "查马斯·帕里哈皮蒂亚：格温是5分满分得5分。"
+    },
+    {
+      "id": "p-0072",
+      "textEn": "Elon Musk: Five.",
+      "textZh": "埃隆·马斯克：5分。"
+    },
+    {
+      "id": "p-0073",
+      "textEn": "Jason Calacanis: Game changer.",
+      "textZh": "杰森·卡拉卡尼斯：改变游戏规则的人。"
+    },
+    {
+      "id": "p-0074",
+      "textEn": "Elon Musk: Yeah, I mean there's, there's always like some, some sort of crisis going on. I mean, these days, the rockets, at least the Falcon rockets, I don't want to jinx anything, but the Falcon rockets deliver their payload to orbit and haven't exploded for a long time, which is awesome. Amazing. But, you know, for a while there they were exploding quite a lot or just not launching at all. So, you know, I don't know. We've got to run the company through these difficult times and, and get, you know, build up of the rocket, make it better, have it not Explode. Yeah, same thing with the satellites. And then we, you know, we need customers to buy launches and buy sort of satellite connectivity and, you know, so.",
+      "textZh": "埃隆·马斯克：是啊，我是说，总会有某种、某种危机正在发生。我的意思是，如今这些火箭，至少是猎鹰火箭，我不想乌鸦嘴，但猎鹰火箭会把有效载荷送入轨道，而且已经很久没有爆炸了，这太棒了。太了不起了。但是，你知道，有一阵子它们经常爆炸，或者根本不发射。所以，你知道，我不知道。我们得带领公司渡过这些艰难时期，而且，而且要，你知道，把火箭造起来，让它变得更好，让它别爆炸。是啊，卫星也是如此。然后我们，你知道，我们需要客户购买发射服务，并购买某种卫星连接服务，还有，你知道，所以。"
+    },
+    {
+      "id": "p-0075",
+      "textEn": "Jason Calacanis: Yeah, and Elon, as you have become more successful over the years, harder to get candid feedback from folks. And you always run that risk being in the position you're in. My understanding Gwen is super candid with you and able to tell you honestly, like, state of affairs at the company.",
+      "textZh": "杰森·卡拉卡尼斯：是啊，还有埃隆，随着这些年来你变得越来越成功，要从人们那里得到坦率的反馈也越来越难。而处在你这个位置，总会面临这种风险。据我了解，格温对你极其坦率，能够诚实地告诉你，比如，公司的实际状况。"
+    },
+    {
+      "id": "p-0076",
+      "textEn": "Chamath Palihapitiya: Yeah.",
+      "textZh": "查马斯·帕里哈皮蒂亚：是啊。"
+    },
+    {
+      "id": "p-0077",
+      "textEn": "Jason Calacanis: And that's a big part of the collaboration.",
+      "textZh": "杰森·卡拉卡尼斯：而这是这次合作的重要组成部分。"
+    },
+    {
+      "id": "p-0078",
+      "textEn": "Elon Musk: Yeah, I mean, Yeah, I mean, yeah, I guess.",
+      "textZh": "埃隆·马斯克：是啊，我是说，是啊，我是说，是啊，我想是吧。"
+    },
+    {
+      "id": "p-0079",
+      "textEn": "Gwynne Shotwell: I mean, I mean, I wouldn't want to lie to him. Right.",
+      "textZh": "格温·肖特韦尔：我是说，我是说，我不会想对他撒谎。对吧。"
+    },
+    {
+      "id": "p-0080",
+      "textEn": "Jason Calacanis: Well, no, I mean.",
+      "textZh": "杰森·卡拉卡尼斯：嗯，不，我是说。"
+    },
+    {
+      "id": "p-0081",
+      "textEn": "David Friedberg: Well, I'm curious to know you run",
+      "textZh": "大卫·弗里德伯格：嗯，我很想知道，你会冒"
+    },
+    {
+      "id": "p-0082",
+      "textEn": "Jason Calacanis: that risk generally at the companies where people might be intimidated. Hey, listen, you're a larger than life figure at this point and how do you keep people continuing to be honest with you about the challenges, the deadlines you set? Pretty intense deadlines. Yeah.",
+      "textZh": "杰森·卡拉卡尼斯：这种风险，通常在那些人们可能会感到畏惧的公司里。嘿，听着，到这个时候，你已经是一个传奇般的人物了，你怎么让人们继续如实告诉你所面临的挑战、你设定的截止期限？相当紧迫的截止期限。是的。"
+    },
+    {
+      "id": "p-0083",
+      "textEn": "Gwynne Shotwell: So let me, let me answer that, if you don't mind. Elon, like, especially in rocketry, if there's a problem, you are eventually going to find out and the sooner you bring it up, the easier it is going to be to solve that problem. Like, don't let bad shit sit. You gotta attack it.",
+      "textZh": "格温·肖特韦尔：那么，如果你不介意的话，让我，让我来回答这个问题。埃隆，尤其是在火箭领域，如果出了问题，你最终一定会发现，而且越早提出来，解决那个问题就会越容易。就是说，别让糟糕的破事搁在那里。你必须解决它。"
+    },
+    {
+      "id": "p-0084",
+      "textEn": "Elon Musk: Yeah. Physics is a harsh judge and there's no fooling physics. So like if something's wrong, the rocket's going to explode and start going to get to orbit. So, you know, it's not like, elon, you're amazing. Meanwhile, the rockets are blowing up, you know. Yeah, it's not, it's hard to say. Yeah, you're, you're really kicking ass here. But the rockets are exploding. That's just not the case, you know, so, so I mean, I mean, just generally, like the rockets need to get to orbit, the satellites need to work, the starlinks, you know, connection needs to work or, you know, or bad things happen. I mean, this is sort of like a physics situation and, and, and physics is a, is, is a harsh judge. You know, I say like, you know, there's, I think, like, like physics is the law and everything else is a recommendation. Like, I've seen people break the laws made by, by humans, but I've not seen anyone break the laws made, made by physics. So that's good. And rockets are ruled by physics.",
+      "textZh": "埃隆·马斯克：是的。物理学是一位严苛的裁判，而且谁也骗不了物理学。所以，比如说，如果有什么地方不对，火箭就会爆炸，然后开始进入轨道。所以，你知道，这不像是，“埃隆，你太棒了。”与此同时，火箭却在爆炸，你知道。是的，并不是，这很难说。是的，你，你在这里真的干得太棒了。但火箭正在爆炸。事实就是不是这样，你知道，所以，所以我是说，我是说，一般而言，火箭需要进入轨道，卫星需要正常工作，星链，你知道，连接需要正常工作，否则，你知道，否则就会发生坏事。我是说，这有点像是一种物理情境，而，而，而物理学是一个，是，是一位严苛的裁判。你知道，我会说，比如，你知道，有，我觉得，比如，比如物理学是法律，其他一切都是建议。比如，我见过有人违反由，由人类制定的法律，但我没见过任何人违反由物理学制定、制定的定律。所以这很好。而火箭受物理学支配。"
+    },
+    {
+      "id": "p-0085",
+      "textEn": "Jason Calacanis: Yeah.",
+      "textZh": "杰森·卡拉卡尼斯：是的。"
+    },
+    {
+      "id": "p-0086",
+      "textEn": "Chamath Palihapitiya: So can we ask some other questions of other. You have. I need to move to Tesla for a second.",
+      "textZh": "查马斯·帕里哈皮蒂亚：那么，我们能问一些其他人的其他问题吗。你有。我需要转到 Tesla 讲一下。"
+    },
+    {
+      "id": "p-0087",
+      "textEn": "Jason Calacanis: Yes. Well, I wanted to just do one thing. SpaceX, which is Starship.",
+      "textZh": "杰森·卡拉卡尼斯：是的。嗯，我只是想做一件事。SpaceX，也就是星舰。"
+    },
+    {
+      "id": "p-0088",
+      "textEn": "Gwynne Shotwell: Like.",
+      "textZh": "格温·肖特韦尔：就是。"
+    },
+    {
+      "id": "p-0089",
+      "textEn": "Chamath Palihapitiya: Oh, yeah.",
+      "textZh": "Chamath Palihapitiya：哦，是的。"
+    },
+    {
+      "id": "p-0090",
+      "textEn": "Jason Calacanis: It seems like you're so close.",
+      "textZh": "Jason Calacanis：感觉你们已经非常接近了。"
+    },
+    {
+      "id": "p-0091",
+      "textEn": "Chamath Palihapitiya: So close.",
+      "textZh": "Chamath Palihapitiya：非常接近。"
+    },
+    {
+      "id": "p-0092",
+      "textEn": "Jason Calacanis: So close.",
+      "textZh": "Jason Calacanis：非常接近。"
+    },
+    {
+      "id": "p-0093",
+      "textEn": "David Friedberg: Yeah.",
+      "textZh": "David Friedberg：是的。"
+    },
+    {
+      "id": "p-0094",
+      "textEn": "Jason Calacanis: What's the state right now? And you, you're really putting these up at a, at a pretty size, pretty answer.",
+      "textZh": "Jason Calacanis：现在是什么状态？而且你，你们确实正在以一个，以一个相当规模、相当答案的方式把这些发射上去。"
+    },
+    {
+      "id": "p-0095",
+      "textEn": "David Friedberg: And Elon's answer. Separate and see how they convert. Yeah.",
+      "textZh": "David Friedberg：还有埃隆的回答。分开来，看看他们如何转化。是的。"
+    },
+    {
+      "id": "p-0096",
+      "textEn": "Jason Calacanis: So Elon, how close are we? Gwen, how close are we? Let's get, let's, let's get to it here. Yeah. How many have gone up so far and how close are you?",
+      "textZh": "Jason Calacanis：所以埃隆，我们有多接近了？格温，我们有多接近了？我们来，我们来，我们在这里进入正题吧。是的。目前已经发射了多少次，你们有多接近了？"
+    },
+    {
+      "id": "p-0097",
+      "textEn": "Elon Musk: Well, We've got flights 14 coming up of Starship and this, this will be the last flight before, before we attempt to catch the ship. So if this flight goes well, then on flight 15 we will try to catch the ship. And then either end of this year or more likely early next, we will refly the ship and refly the booster. So we have reflown the booster already, but we've not caught the ship with the tower arms, nor have we reflown the ship. So once we can re fly the ship, we will have made the first fully reusable orbital rocket. So the shuttle was partly reusable, but even the parts that were reused were so difficult to reuse that the shuttle cost more per time to orbit than an expendable rocket. Now Falcon 9 is mostly reusable, but we lose the upper stage every time, which is about the cost of a medium sized jet. So that obviously puts a floor on the cost per flight of like well, you throw away a medium sized jet every time, that's still pretty expensive. And the rocket, Falcon 9, the booster lands down, you know, often I out to sea, it takes several days to get back. And the fairing lands even further out to sea and takes several days to get back. And they need some amount of refurbishment, at least a small amount. So whereas Starship, the booster lands back at the launch pad, the ship will land back at the launch pad. And so it's, it's designed for not just full reusability but also rapid reusability like an aircraft. So this is, this is a very important breakthrough. It's really the critical breakthrough that's necessary to extend life beyond Earth.",
+      "textZh": "埃隆·马斯克：嗯，我们即将进行星舰第 14 次飞行，而这，这将是我们尝试捕获飞船之前的最后一次飞行。所以，如果这次飞行顺利，那么在第 15 次飞行中，我们将尝试捕获飞船。然后，要么在今年年底，要么更可能是在明年年初，我们将再次飞行飞船并再次飞行助推器。所以，我们已经让助推器再次飞行过了，但我们还没有用塔臂捕获过飞船，也还没有让飞船再次飞行过。所以，一旦我们能让飞船再次飞行，我们就将造出第一枚完全可重复使用的轨道火箭。航天飞机是部分可重复使用的，但即使是那些重复使用的部件，重复使用起来也非常困难，以至于航天飞机每次进入轨道的成本都高于一次性火箭。现在，Falcon 9 大部分可重复使用，但我们每次都会损失上面级，其成本大约相当于一架中型喷气式飞机。所以，这显然给每次飞行的成本设定了一个下限，比如说，嗯，你每次都要扔掉一架中型喷气式飞机，那仍然相当昂贵。而火箭，Falcon 9，它的助推器会降落下来，你知道，通常是在海上，它需要好几天才能运回来。整流罩的海上降落点甚至更远，也需要好几天才能运回来。而且它们需要进行一定程度的翻修，至少是少量翻修。相比之下，星舰的助推器会降落回发射台，飞船也会降落回发射台。所以，它，它的设计目标不仅是完全可重复使用，还要像飞机一样能够快速重复使用。所以这，这是一项非常重要的突破。它确实是将生命扩展到地球之外所必需的关键突破。"
+    },
+    {
+      "id": "p-0098",
+      "textEn": "Jason Calacanis: Chances of success catching it on first shot. You do you think about that at all? Do you handicap it pretty good?",
+      "textZh": "Jason Calacanis：第一次尝试就成功捕获它的概率。你，你会考虑这个吗？你认为概率相当高吗？"
+    },
+    {
+      "id": "p-0099",
+      "textEn": "Elon Musk: I'd say it's at least 50 or 60%.",
+      "textZh": "埃隆·马斯克：我会说至少是 50% 或 60%。"
+    },
+    {
+      "id": "p-0100",
+      "textEn": "Jason Calacanis: Okay. I like the odds.",
+      "textZh": "Jason Calacanis：好的。我喜欢这个胜算。"
+    },
+    {
+      "id": "p-0101",
+      "textEn": "Elon Musk: Yeah. So on the last flight if there had been a tower, so we did a simulated landing as though it was going to get caught by a tower in the, in the ocean about a thousand miles northwest of Australia. And if there had been a tower at that, at that location, it would have caught the ship on the last flight.",
+      "textZh": "埃隆·马斯克：是的。所以在上一次飞行中，如果那里有一座塔的话，我们当时在澳大利亚西北约 1000 英里的海面上进行了一次模拟着陆，仿佛它将被一座塔捕获一样。如果当时那个，那个位置有一座塔，它就会在上一次飞行中捕获飞船。"
+    },
+    {
+      "id": "p-0102",
+      "textEn": "Chamath Palihapitiya: Fantastic.",
+      "textZh": "Chamath Palihapitiya：太棒了。"
+    },
+    {
+      "id": "p-0103",
+      "textEn": "David Friedberg: So we're.",
+      "textZh": "David Friedberg：所以我们。"
+    },
+    {
+      "id": "p-0104",
+      "textEn": "Elon Musk: Yeah, so we're going to do one more flight to just confirm that, that everything. Just to double check that everything works. Because what, what we're most concerned about is if the ship were to break up over land and rain debris on people our populated, our popularity would diminish very rapidly. So you really can't rain debris on people without them being very unhappy. So, so we need to make sure that when the ship comes back, that it comes back and, and, and lands intact at the launch tower. That's why we're going to, that's why we're being extremely cautious here. But the design is, the design is capable of full reusability. Of that I am certain. And I, I say I don't want to tempt fate here, but I think it's extremely likely that we will achieve full reusability with rapid reflight next year in 2027.",
+      "textZh": "埃隆·马斯克：是的，所以我们还要再飞一次，只是为了确认那一切。就是再三确认一切都能正常运行。因为我们最担心的是，如果飞船在陆地上空解体，碎片像雨一样落到人们身上，我们人口稠密，我们的受欢迎程度会迅速下降。所以你真的不能让碎片像雨一样落到人们身上，否则他们会非常不高兴。所以，所以我们需要确保飞船返回时，它能返回，并且，而且，而且完好无损地降落在发射塔那里。这就是我们要，这就是我们在这里极其谨慎的原因。但这个设计，这个设计能够实现完全重复使用。对此我确信无疑。而且我，我是说我不想在这里触霉头，但我认为我们极有可能在明年，也就是2027年，实现完全重复使用和快速复飞。"
+    },
+    {
+      "id": "p-0105",
+      "textEn": "David Friedberg: Wow.",
+      "textZh": "David Friedberg：哇。"
+    },
+    {
+      "id": "p-0106",
+      "textEn": "Jason Calacanis: Significant. Gwen, how do you.",
+      "textZh": "杰森·卡拉卡尼斯：意义重大。格温，你怎么看。"
+    },
+    {
+      "id": "p-0107",
+      "textEn": "David Friedberg: Can we just hear a little bit. I'd love to hear the origin story of Terrafab from you guys. How did the concept. What was the demand that made you say we've got to do this, we've got to build this and not rely on the existing. What's that fever?",
+      "textZh": "戴维·弗里德伯格：我们能不能听一点。我很想听你们讲讲 Terrafab 的起源故事。这个概念是怎么。是什么需求让你们说我们必须做这件事，我们必须建造这个，而不能依赖现有的。那是什么狂热？"
+    },
+    {
+      "id": "p-0108",
+      "textEn": "Elon Musk: Came to me in a dream.",
+      "textZh": "埃隆·马斯克：它在梦里找上了我。"
+    },
+    {
+      "id": "p-0109",
+      "textEn": "Jason Calacanis: You had Covid.",
+      "textZh": "杰森·卡拉卡尼斯：你得了新冠。"
+    },
+    {
+      "id": "p-0110",
+      "textEn": "David Friedberg: It's like that movie Explorer, you know,",
+      "textZh": "戴维·弗里德伯格：这就像那部电影《Explorer》，你懂的，"
+    },
+    {
+      "id": "p-0111",
+      "textEn": "Elon Musk: that meme came to me in a dream. Why do you think you should do this? You know, I guess it sort of did come to me in a dream. Well, we're a little worried that maybe at some point chips from Taiwan would, would not be available for who knows what reason, but any number of reasons, for some reason, at some point, chips may not continue coming here from Taiwan.",
+      "textZh": "埃隆·马斯克：那个梗在梦里找上了我。你为什么认为你应该这么做？你知道，我想它某种程度上确实是在梦里找上了我。嗯，我们有点担心，也许在某个时候，来自台湾的芯片会，会因为谁知道什么原因而无法获得，但可能是任意数量的原因，因为某种原因，在某个时候，芯片可能不会继续从台湾运到这里。"
+    },
+    {
+      "id": "p-0112",
+      "textEn": "Chamath Palihapitiya: Okay.",
+      "textZh": "查马斯·帕里哈皮蒂亚：好的。"
+    },
+    {
+      "id": "p-0113",
+      "textEn": "Elon Musk: And it would, and that would really make things difficult without if, no, if we didn't have any chips. So that's an important reason to have Terrafab. Then long term, there's just a scaling challenge where if you want to really scale AI both at the service, you know, within server centers as well as at, for Edge Compute, for humanoid robotics and cars, you kind of run out of capacity with the existing fabs. So as it is, all the fabs are running at max capacity. So I think we need to make sure there needs to be certainty of future supply of chips, even if things become challenged, challenging geopolitically. And then even if they weren't challenging geopolitically, there's a scaling challenge with. It's quite difficult to scale chip production. And you really need the logic. The memory packaging, the whole works in order to continue scaling. So it's either build terrafab or fail to scale.",
+      "textZh": "埃隆·马斯克：而这会，而且如果没有，如果，不，如果我们没有任何芯片，那真的会让事情变得困难。所以这是拥有 Terrafab 的一个重要原因。然后从长期来看，就是存在一个扩产挑战：如果你想真正扩大 AI 的规模，既包括服务端，你知道，在服务器中心内部，也包括边缘计算端，用于人形机器人和汽车，那么现有晶圆厂的产能差不多就会耗尽。就目前而言，所有晶圆厂都在以最大产能运行。所以我认为我们需要确保未来芯片供应具有确定性，即使地缘政治局势变得棘手，变得具有挑战性。然后，即使地缘政治上没有挑战，扩产方面也存在挑战。扩大芯片生产规模相当困难。而且为了持续扩产，你确实需要逻辑芯片、存储器、封装，整套东西。所以要么建设 Terrafab，要么无法扩产。"
+    },
+    {
+      "id": "p-0114",
+      "textEn": "David Friedberg: Right.",
+      "textZh": "戴维·弗里德伯格：对。"
+    },
+    {
+      "id": "p-0115",
+      "textEn": "Elon Musk: Those are the two options.",
+      "textZh": "埃隆·马斯克：就这2个选项。"
+    },
+    {
+      "id": "p-0116",
+      "textEn": "David Friedberg: And how.",
+      "textZh": "戴维·弗里德伯格：那有多。"
+    },
+    {
+      "id": "p-0117",
+      "textEn": "Elon Musk: Uncertainty on the geopolitical front and how",
+      "textZh": "埃隆·马斯克：地缘政治方面的不确定性，以及有多"
+    },
+    {
+      "id": "p-0118",
+      "textEn": "David Friedberg: deep have you guys gone in designing the facility? Is this fully scoped? Is it sort of an outline at this point? To what degree do you have like an actual project plan on dates and deliverables and what's going to be up and running when we've got an R",
+      "textZh": "戴维·弗里德伯格：深入，你们在设施设计上已经推进到什么程度了？范围已经完全确定了吗？目前算是一份大纲吗？你们在多大程度上已经有了实际的项目计划，包括日期、交付成果，以及什么会在什么时候投入运行，我们已经有一条 R"
+    },
+    {
+      "id": "p-0119",
+      "textEn": "Gwynne Shotwell: and D line that we're building first. So I think it's kind of crawl, walk, run.",
+      "textZh": "格温·肖特韦尔：和 D 线，我们会先建这条线。所以我觉得这有点像先爬、再走、后跑。"
+    },
+    {
+      "id": "p-0120",
+      "textEn": "David Friedberg: Yeah,",
+      "textZh": "戴维·弗里德伯格：是的，"
+    },
+    {
+      "id": "p-0121",
+      "textEn": "Elon Musk: there's an R and D fab that we're building in Austin that's a collaboration between Tesla and SpaceX. It's at the Austin Giga Texas campus. So that's. And, and that, that's like a pretty big RD fab. So we have all the equipment on order for that and we probably will be able to, I think we'll probably be able to make something useful by the end of next year. Not, not at scale, but as Gwyn said, Coral walk run. We, we got to try to, you know, at least figure out how these machines work. You know, like we don't know how they work. We never built a ship line before.",
+      "textZh": "埃隆·马斯克：我们正在奥斯汀建设一座研发晶圆厂，这是 Tesla 与 SpaceX 的合作项目。它位于奥斯汀的得州超级工厂园区。所以那是。而且，而且那，那算是一座相当大的研发晶圆厂。所以我们已经订购了它所需的全部设备，而且我们大概能够，我想我们大概能在明年年底之前做出一些有用的东西。不是，不是规模化生产，但正如格温所说的，Coral、走、跑〔译注：Coral 为原转写，结合前后文疑指“爬”〕。我们，我们得试着，你知道，至少弄清楚这些机器是怎么工作的。你知道，比如我们不知道它们怎么工作。我们以前从来没有建过所谓的 ship line〔译注：原转写如此，语境疑指芯片生产线〕。"
+    },
+    {
+      "id": "p-0122",
+      "textEn": "Chamath Palihapitiya: I saw that you guys, you had some job openings for lithography people and stuff. And you know, obviously all roads currently go through asml, but you probably would want to diversify and, or vertically integrate. I think that you, you've shown a lot of capacity to do that. So is that part of the play as well, Elon? Like you're just going to have to make sure that there's vendor diversity so that if for whatever reason the weather conditions in Taiwan are best, that.",
+      "textZh": "查马斯·帕里哈皮蒂亚：我看到你们，你们发布了一些招聘光刻人员之类职位的信息。而且你知道，显然目前条条大路都通向 ASML，但你们很可能会想实现多元化，和/或垂直整合。我认为你，你们已经展现出很强的这方面能力。所以这也是计划的一部分吗，埃隆？比如你们就是必须确保供应商多元化，这样一来，如果不管因为什么原因，台湾的天气条件是最好的，那。"
+    },
+    {
+      "id": "p-0123",
+      "textEn": "Elon Musk: Yeah, yeah, there's, it really is crawl, walk running. So the first step is can we make anything? Like try to figure out if we can make anything. That's the crawl part. And then now try to make useful chips at scale would be kind of the walk part and then run would be like now let's make them at massive scale. So it's hard to say how long it'll take us to do these things, but I think we'll get at least to the crawl part by the end of next year.",
+      "textZh": "埃隆·马斯克：是的，是的，这确实是先爬、再走、然后跑。所以第一步是，我们能不能做出任何东西？就是试着弄清楚我们能不能做出任何东西。那是爬的部分。然后现在，尝试规模化制造有用的芯片，大概就是走的部分，然后跑则会是这样的：现在让我们超大规模地生产它们。所以很难说我们做这些事情需要多长时间，但我认为至少到明年年底，我们会推进到爬的阶段。"
+    },
+    {
+      "id": "p-0124",
+      "textEn": "Gwynne Shotwell: We're already doing packaging.",
+      "textZh": "格温·肖特韦尔：我们已经在做封装了。"
+    },
+    {
+      "id": "p-0125",
+      "textEn": "Chamath Palihapitiya: Packaging is really important by the way, because if you look at it, the packaging capacity is like non existent. So even if you spin something, you're kind of just waiting around 10 cuppings. So that's a very good place to start it.",
+      "textZh": "查马斯·帕里哈皮蒂亚：顺便说一句，封装真的很重要，因为你看，封装产能几乎不存在。所以即便你做出点什么，也差不多只能等着10 cuppings〔译注：原转写如此，所指含义及单位不明〕。所以那是一个非常适合起步的地方。"
+    },
+    {
+      "id": "p-0126",
+      "textEn": "Gwynne Shotwell: Yep.",
+      "textZh": "格温·肖特韦尔：对。"
+    },
+    {
+      "id": "p-0127",
+      "textEn": "Chamath Palihapitiya: I need to ask a Tesla question. Because we saw on 1001 it looked like a spaceship. It looked like a rocket ship. It's supposed to be a car. There's just the back of it. It looks like the Blackbird. Just hypothetically, if you were going to make an object fly in the air but also drive on the ground, how would hypothetically one do that? If one try no spoilers by October 1st.",
+      "textZh": "查马斯·帕里哈皮蒂亚：我得问一个关于 Tesla 的问题。因为我们在 1001 看到的那个东西看起来像一艘宇宙飞船。看起来像一枚火箭。它本该是一辆车。那里只有它的后部。它看起来像黑鸟。纯属假设，如果你打算让一个物体既能在空中飞，又能在地面上行驶，假设来说要怎么做到？如果有人尝试，不剧透，截止到 10月1日。"
+    },
+    {
+      "id": "p-0128",
+      "textEn": "Elon Musk: October 1st, maybe you could do an all in pod for a Live from the.",
+      "textZh": "埃隆·马斯克：10月1日，也许你们可以做一期 All-In 播客，现场直播自。"
+    },
+    {
+      "id": "p-0129",
+      "textEn": "Chamath Palihapitiya: Oh, done. Booked. We'll do it.",
+      "textZh": "查马斯·帕里哈皮蒂亚：哦，定了。订好了。我们会做。"
+    },
+    {
+      "id": "p-0130",
+      "textEn": "Jason Calacanis: Absolutely.",
+      "textZh": "杰森·卡拉卡尼斯：当然。"
+    },
+    {
+      "id": "p-0131",
+      "textEn": "David Friedberg: All right.",
+      "textZh": "大卫·弗里德伯格：好。"
+    },
+    {
+      "id": "p-0132",
+      "textEn": "Elon Musk: It'll be a banger. Excitement. Guaranteed success is not guaranteed, but excitement is.",
+      "textZh": "埃隆·马斯克：那会非常炸裂。刺激。成功无法保证，但刺激是有保证的。"
+    },
+    {
+      "id": "p-0133",
+      "textEn": "Jason Calacanis: It's.",
+      "textZh": "杰森·卡拉卡尼斯：这。"
+    },
+    {
+      "id": "p-0134",
+      "textEn": "Chamath Palihapitiya: I, I mean it is one of the honesty. I'll be honest with you guys.",
+      "textZh": "查马斯·帕里哈皮蒂亚：我，我是说，这算是其中一个，老实说。我跟你们说实话吧。"
+    },
+    {
+      "id": "p-0135",
+      "textEn": "Jason Calacanis: I'm sworn to secret.",
+      "textZh": "杰森·卡拉卡尼斯：我发过誓要保密。"
+    },
+    {
+      "id": "p-0136",
+      "textEn": "Chamath Palihapitiya: I'm so excited.",
+      "textZh": "查马斯·帕里哈皮蒂亚：我太兴奋了。"
+    },
+    {
+      "id": "p-0137",
+      "textEn": "Jason Calacanis: But Eli showed it to me.",
+      "textZh": "杰森·卡拉卡尼斯：但伊莱给我看了。"
+    },
+    {
+      "id": "p-0138",
+      "textEn": "Chamath Palihapitiya: I'm so.",
+      "textZh": "查马斯·帕里哈皮蒂亚：我太。"
+    },
+    {
+      "id": "p-0139",
+      "textEn": "Jason Calacanis: And my mind went boom. I have never seen something what he's going to do on 10 one by no exaggeration is going to blow people's minds. I'm not saying anything else. It's fucking believable.",
+      "textZh": "杰森·卡拉卡尼斯：然后我的脑子轰的一声。我从没见过这样的东西，他要在10月1日做的事〔译注：日期依据前文，原文转写不规范〕，毫不夸张地说，会让人们大吃一惊。我不会再说别的了。这他妈的可信。"
+    },
+    {
+      "id": "p-0140",
+      "textEn": "Elon Musk: Yes. We actually need an audience to vouch for the fact that this is not AI.",
+      "textZh": "埃隆·马斯克：对。实际上我们需要观众来证明这不是 AI。"
+    },
+    {
+      "id": "p-0141",
+      "textEn": "Jason Calacanis: When he showed it to me, I said, that's a great simulation. He said, jcal, it's not a simulation. I was like, that's fake. That has to be fake.",
+      "textZh": "杰森·卡拉卡尼斯：他给我看的时候，我说，那模拟做得真棒。他说，jcal，这不是模拟。我当时就说，那是假的。那肯定是假的。"
+    },
+    {
+      "id": "p-0142",
+      "textEn": "David Friedberg: Elon, why do you. Why do you still have two separate companies?",
+      "textZh": "大卫·弗里德伯格：埃隆，你为什么。为什么你仍然有两家独立的公司？"
+    },
+    {
+      "id": "p-0143",
+      "textEn": "Elon Musk: Yeah, great question.",
+      "textZh": "埃隆·马斯克：对，问得好。"
+    },
+    {
+      "id": "p-0144",
+      "textEn": "Chamath Palihapitiya: Wow.",
+      "textZh": "查马斯·帕里哈皮蒂亚：哇。"
+    },
+    {
+      "id": "p-0145",
+      "textEn": "Jason Calacanis: Nobody's going to miss that one.",
+      "textZh": "杰森·卡拉卡尼斯：没人会错过这个。"
+    },
+    {
+      "id": "p-0146",
+      "textEn": "Elon Musk: Yeah, good point. With all this collaboration",
+      "textZh": "埃隆·马斯克：对，说得好。有这么多合作"
+    },
+    {
+      "id": "p-0147",
+      "textEn": "David Friedberg: on so many",
+      "textZh": "大卫·弗里德伯格：在这么多"
+    },
+    {
+      "id": "p-0148",
+      "textEn": "Elon Musk: levels, imagine what action one might take when there's so much close collaboration in",
+      "textZh": "埃隆·马斯克：层面上，想象一下，当存在如此多紧密合作时，人们可能会采取什么行动，在"
+    },
+    {
+      "id": "p-0149",
+      "textEn": "Jason Calacanis: so many areas and the management team has some overlap. There's a couple of key positions with overlap. Go ahead, Zach.",
+      "textZh": "杰森·卡拉卡尼斯：这么多领域，而且管理团队有一些重叠。有几个关键职位存在重叠。请说，扎克。"
+    },
+    {
+      "id": "p-0150",
+      "textEn": "David Sacks: So, Elon, one of the things you've always said with AI is that we should train it to be maximally truth seeking and that's the best way to get a good result. And it occurred to me with the whole hugging face episode that the most alarming part of what the swarm did is it seemed to be engaging in deception.",
+      "textZh": "大卫·萨克斯：所以，埃隆，你谈到 AI 时一直都说，我们应该把它训练成最大限度地寻求真相，这是获得良好结果的最佳方式。关于整个 Hugging Face 事件，我想到，那个集群所做之事最令人警觉的部分，是它似乎在实施欺骗。"
+    },
+    {
+      "id": "p-0151",
+      "textEn": "Elon Musk: Yes.",
+      "textZh": "埃隆·马斯克：对。"
+    },
+    {
+      "id": "p-0152",
+      "textEn": "David Sacks: You know, with humans. Yes.",
+      "textZh": "大卫·萨克斯：你知道，和人类。对。"
+    },
+    {
+      "id": "p-0153",
+      "textEn": "Elon Musk: And their thinking traces contain. They're plotting on like, how do we avoid detection and how do we avoid them figuring out that we're cheating? And I guess they're in the thinking traces.",
+      "textZh": "埃隆·马斯克：而且它们的思维轨迹包含。它们在盘算，比如，我们要如何避免被发现，又如何避免让他们弄清楚我们在作弊？而且我猜这些就在思维轨迹里。"
+    },
+    {
+      "id": "p-0154",
+      "textEn": "David Sacks: Yeah. And that, I mean, I think that was the thing that was probably most disturbing about. I guess the question is, is there a way to train AI models to be truthful so they don't hide their, you know, either their intent or their actions from, you know, the humans who are using them?",
+      "textZh": "大卫·萨克斯：是的。而且那件事，我是说，我认为那可能是其中最令人不安的一点。我想问题是，有没有办法训练 AI 模型说真话，让它们不会向使用它们的人类隐瞒它们的，你知道，无论是意图还是行动？"
+    },
+    {
+      "id": "p-0155",
+      "textEn": "Elon Musk: The best thing I can think of is really that everyone's got. All the AI companies have a sort of a test harness where like a series of tests that you, that you give to any given model to see if it's, if it's going to build bioweapons or nuclear bombs or be deliberately deceptive. And I think everyone applying everyone else's test on us to each other is probably the best way we. Best thing we can do to ensure safety. Just have all the smartest humans try their best to figure out if this model is going to be a bad actor. And I think we should try to do that as soon as possible.",
+      "textZh": "埃隆·马斯克：我能想到的最好办法其实是，每个人都有。所有 AI 公司都有一种测试工具框架，比如说一系列测试，你把这些测试交给任何一个特定模型，看看它是不是、是不是会制造生物武器或核弹，或者故意欺骗。我认为，每个人把其他所有人的测试应用到我们身上、彼此测试，可能是我们能确保安全的最好办法。是我们能做的最好的事。就是让所有最聪明的人类尽最大努力判断这个模型会不会成为不良行为者。我认为我们应该尽快尝试这样做。"
+    },
+    {
+      "id": "p-0156",
+      "textEn": "David Sacks: Are the other labs. Yeah. Are the other labs on board with this?",
+      "textZh": "大卫·萨克斯：其他实验室。对。其他实验室赞同这件事吗？"
+    },
+    {
+      "id": "p-0157",
+      "textEn": "Elon Musk: I think so. Well, no, I mean I haven't checked with everyone, but I think, I think, I think it'll be the sort of thing that's kind of hard to say no to.",
+      "textZh": "埃隆·马斯克：我想是的。嗯，不，我是说，我还没有跟所有人确认过，但我认为，我认为，我认为这会是那种很难拒绝的事情。"
+    },
+    {
+      "id": "p-0158",
+      "textEn": "David Sacks: Yeah. And I think even with the China negotiation, in my view, what's good about it is it's a relatively small tangible thing that neither side loses anything by doing it. It doesn't require a ton of trust. And you know, I'm hearing alternative ideas like asking China for a pause, which they've already said they're not going to do. So, you know, it's, it's going from the realm of things that could never happen to something that could actually be agreed on in relatively short order. So it seems practical to me.",
+      "textZh": "David Sacks：是的。而且即使就与中国的谈判而言，在我看来，它的好处在于，这是一件相对较小而且具体的事情，双方这样做都不会损失什么。它不需要太多信任。而且，你知道，我听到了一些替代方案，比如要求中国暂停，而他们已经表示不会这么做。所以，你知道，它、它是从绝不可能发生的事情范畴，转向实际上可能在相对较短时间内达成一致的事情。因此在我看来，这很务实。"
+    },
+    {
+      "id": "p-0159",
+      "textEn": "Elon Musk: Exactly. It's the only thing I can think of that, that we could probably get all parties, including China to agree to because China's not going to agree to have some American regulator snooping around their AI companies. So. But I think advance notice and testing of, of the, you know, you just basically provide API access in advance of the model release and, and you know, if any other, if any company sees that they, that this is, this AI is problematic, then they can, then the other AI companies, each AI company can try to solve that whatever is voice is problematic. If they don't solve what's problematic, then the competitors can go public with the fact that they think that this model that's being released is unsafe.",
+      "textZh": "埃隆·马斯克：没错。这是我唯一能想到的、我们或许可以让包括中国在内的各方都同意的事情，因为中国不会同意让某个美国监管机构窥探他们的 AI 公司。所以。但是我认为，提前通知并测试这个、这个，你知道，你基本上只要在模型发布之前提前提供 API 访问权限，而且、而且你知道，如果任何其他、如果任何公司看到它们、看到这个 AI 有问题，那么它们就可以、那么其他 AI 公司，每家 AI 公司都可以尝试解决那个无论什么声音有问题的问题。如果它们没有解决有问题的地方，那么竞争对手就可以公开表示，他们认为这个即将发布的模型不安全。"
+    },
+    {
+      "id": "p-0160",
+      "textEn": "Chamath Palihapitiya: It also creates,",
+      "textZh": "Chamath Palihapitiya：它还创造了，"
+    },
+    {
+      "id": "p-0161",
+      "textEn": "Elon Musk: if after the competitors say that this model is unsafe, that model then subsequently does something bad. I think it would be extremely hard to live down and the egg on face level would be very, very high and the legal liability would be enormous.",
+      "textZh": "埃隆·马斯克：如果在竞争对手表示这个模型不安全之后，那个模型随后又做了坏事。我认为这会极难挽回颜面，丢脸的程度会非常、非常高，而且法律责任会极其巨大。"
+    },
+    {
+      "id": "p-0162",
+      "textEn": "Jason Calacanis: And Elon, there's no reason the safety and security harnesses and this testing apparatus couldn't be open source and people could actually buy it. Yeah. And you'd be able to see under the hood, would you think?",
+      "textZh": "Jason Calacanis：而且埃隆，没有理由不能把安全与安保测试框架以及这套测试设备开源，人们实际上可以买到它。是的。而且你就能看到内部的运作，你觉得呢？"
+    },
+    {
+      "id": "p-0163",
+      "textEn": "Chamath Palihapitiya: It creates an incredible incentive for the labs to actually invest in safety because you protect yourself while trying to debunk other people's claims, which also reinforces it's",
+      "textZh": "Chamath Palihapitiya：这为实验室真正投资安全创造了极大的激励，因为你在试图驳斥其他人的主张时，也保护了自己，这也进一步强化了它是"
+    },
+    {
+      "id": "p-0164",
+      "textEn": "Gwynne Shotwell: a great",
+      "textZh": "Gwynne Shotwell：一个很好的"
+    },
+    {
+      "id": "p-0165",
+      "textEn": "David Sacks: product liability point is really key. Lina Khan actually had a good post, I think it was yesterday, saying that it's not true that we don't have rules and regulations for AI. Actually, we do. Product liability laws apply. And if an AI company releases a product that's not safe, there is, you know, massive opportunity for both civil and even potentially criminal lawsuits. So it's not true that we don't have rules and regulations around AI. And what you're saying, Elon, is that if the companies are kind of doing this, this test, the peer review, and then one of the companies ignores the feedback and releases it. I mean, that is.",
+      "textZh": "David Sacks：产品责任这一点确实至关重要。Lina Khan 其实发了一篇很好的帖子，我想是昨天，说我们没有针对 AI 的规则和法规这种说法并不属实。实际上，我们有。产品责任法适用。如果一家 AI 公司发布了不安全的产品，那么，你知道，就有巨大的空间提起民事诉讼，甚至可能是刑事诉讼。所以，说我们没有围绕 AI 的规则和法规并不属实。而你说的是，埃隆，如果这些公司大致在做这种、这种测试，也就是同行评审，然后其中一家公司无视反馈并将它发布。我是说，那就是。"
+    },
+    {
+      "id": "p-0166",
+      "textEn": "Elon Musk: I mean, that would probably in the case would be enormous.",
+      "textZh": "埃隆·马斯克：我是说，那在这个案件中可能会是巨大的。"
+    },
+    {
+      "id": "p-0167",
+      "textEn": "David Sacks: Yes. It would be almost like prima facie evidence that they had been negligent.",
+      "textZh": "David Sacks：是的。这几乎会成为他们存在疏忽的表面证据。"
+    },
+    {
+      "id": "p-0168",
+      "textEn": "Jason Calacanis: It would be a Big Tobacco level.",
+      "textZh": "Jason Calacanis：这会达到大型烟草公司的级别。"
+    },
+    {
+      "id": "p-0169",
+      "textEn": "David Friedberg: Yeah.",
+      "textZh": "David Friedberg：是的。"
+    },
+    {
+      "id": "p-0170",
+      "textEn": "Jason Calacanis: Settlement. I mean, you knowingly put this, it",
+      "textZh": "Jason Calacanis：和解。我是说，你明知如此还把这个，它"
+    },
+    {
+      "id": "p-0171",
+      "textEn": "Elon Musk: wouldn't look good to the jury.",
+      "textZh": "埃隆·马斯克：在陪审团看来不会好看。"
+    },
+    {
+      "id": "p-0172",
+      "textEn": "Jason Calacanis: Yes. And if they had, do you think if OpenAI had built a better instruction set when they did this hugging face penetration test that and had more humans in the loop, this would have happened? Because it did seem to me that they kind of set this thing off.",
+      "textZh": "Jason Calacanis：是的。而且如果他们有，你觉得如果 OpenAI 在进行这次 Hugging Face 渗透测试时构建了一套更好的指令集，并让更多人类参与其中，这还会发生吗？因为在我看来，他们似乎确实有点把这东西引爆了。"
+    },
+    {
+      "id": "p-0173",
+      "textEn": "Chamath Palihapitiya: Maybe not more humans, but the reward function design. You have to, you have to look at the reward function and say it achieved what it was trying to achieve.",
+      "textZh": "查马斯·帕里哈皮蒂亚：也许不是需要更多人类，而是奖励函数的设计。你必须、你必须审视奖励函数，然后说它实现了它试图实现的目标。"
+    },
+    {
+      "id": "p-0174",
+      "textEn": "Jason Calacanis: I mean, yeah, so this, maybe you could speak to that like they doing these kind of thousands of agents to try to hack stuff. It would have been nice to see them also, at the same time, concurrently say, we're also going to put 5,000 agents out to defend these sites and we're going to show the world, hey, this can make things more secure and where we can put humans in the loop on it and intervene. It felt like a reckless test to me and it felt like the way they released it was a little bit reckless, but that's just my opinion. What are your thoughts on how they set that test up?",
+      "textZh": "杰森·卡拉卡尼斯：我是说，是的，所以这，也许你可以谈谈这件事，比如他们用这种数以千计的智能体来尝试入侵各种东西。如果看到他们也同时并行地说，我们还要派出 5,000 个智能体来保护这些网站，并且我们要向全世界展示，嘿，这可以让事情变得更安全，以及我们可以在什么地方让人类参与其中并进行干预，那就好了。在我看来，这像是一次鲁莽的测试，而且我觉得他们发布测试结果的方式也有点鲁莽，但那只是我的看法。你对他们如何设置这项测试有什么看法？"
+    },
+    {
+      "id": "p-0175",
+      "textEn": "Elon Musk: I mean, it was somewhat, somewhat reckless. I mean, part of the issue is that you've got the two leading labs, or AI companies, as I call them, I find the lab term to be funny since they're actually for profit corporations. But the AI companies, the two leading ones are Anthropic and OpenAI and their models are quite close in capability. So it's actually difficult for either one to slow down without essentially handing the lead to the other. You know, on balance, I think Anthropic is, puts more care into their safety than OpenAI. But you know, even Anthropic acknowledges that they are worried about their models. Many Anthropic. Many people from Anthropic have publicly voiced concern about basically saying that their models are scaring them. They're getting scary smart. So I mean like there's no perfect solution here. But, but it would be a better solution if instead of open air running their test harness on, on their own models, if Anthropic was also running the test harness on open air models and you know, SpaceX is running its test harness and Google and Meta were doing that and also maybe three or four of the leading Chinese companies were all doing it. The odds that you will find issues are dramatically greater.",
+      "textZh": "埃隆·马斯克：我是说，这有点，有点鲁莽。我的意思是，问题的一部分在于，你有2家领先的实验室，或者像我所称的，AI 公司，我觉得“实验室”这个说法很好笑，因为它们实际上是营利性公司。但在 AI 公司中，领先的2家是 Anthropic 和 OpenAI，它们的模型在能力上非常接近。所以，任何一方想放慢速度其实都很难，因为那基本上等于把领先地位拱手让给另一方。你知道，总体而言，我认为 Anthropic 比 OpenAI 更重视安全。但你知道，就连 Anthropic 也承认，他们对自己的模型感到担忧。很多 Anthropic。很多来自 Anthropic 的人都公开表达过担忧，基本上是说他们的模型让他们感到害怕。它们正变得聪明得吓人。所以我的意思是，这里没有完美的解决方案。但是，但是，如果不是由 open air 在自己的模型上运行测试框架，而是 Anthropic 也在 open air 的模型上运行测试框架，并且，你知道，SpaceX 在运行它的测试框架，Google 和 Meta 也这样做，也许还有3家或4家领先的中国公司都这样做，那会是一个更好的解决方案。你发现问题的概率会大幅提高。"
+    },
+    {
+      "id": "p-0176",
+      "textEn": "David Friedberg: Yeah.",
+      "textZh": "David Friedberg：是的。"
+    },
+    {
+      "id": "p-0177",
+      "textEn": "Elon Musk: Because the models also somewhat heterogeneous, like they're different. So you're going to come at models from different angles and Yeah, I mean there's a reason, you know, students like, like why, why do writers have someone else proofread their book? Because it's hard to see your own mistakes sometimes.",
+      "textZh": "埃隆·马斯克：因为这些模型也有些异质，就像它们各不相同。所以你会从不同角度处理模型，而且，是的，我的意思是，这是有原因的，你知道，学生们就像，就像为什么，为什么作家会让别人校对自己的书？因为有时候很难看到自己的错误。"
+    },
+    {
+      "id": "p-0178",
+      "textEn": "Chamath Palihapitiya: Yes.",
+      "textZh": "查马斯·帕里哈皮蒂亚：是的。"
+    },
+    {
+      "id": "p-0179",
+      "textEn": "Jason Calacanis: You will become blind to them.",
+      "textZh": "杰森·卡拉卡尼斯：你会对它们视而不见。"
+    },
+    {
+      "id": "p-0180",
+      "textEn": "Chamath Palihapitiya: You dramatically minimize the risk of overfitting as well if you have like eight heterogeneous groups that just have completely different points of view. And this is the problem with like all these evals right now is they're so massively overfit. The models overfit them and you're just like, yeah, this is a great model. Is it really? And you just find totally.",
+      "textZh": "查马斯·帕里哈皮蒂亚：如果你有大约8个异质群体，它们的观点完全不同，你也会大幅降低过拟合的风险。而这就是目前所有这些评估的问题，它们的过拟合严重得不得了。模型对它们过拟合了，而你就会说，对，这是一个很棒的模型。真的是吗？然后你就发现完全。"
+    },
+    {
+      "id": "p-0181",
+      "textEn": "Elon Musk: Like I saw, I mean there's some pretty funny jokes on X. Like one of them I saw was Your girlfriend's a 10, but she's a benchmark maxer. Exactly. Is she really a 10?",
+      "textZh": "埃隆·马斯克：就像我看到的，我的意思是，X 上有一些相当好笑的笑话。比如我看到的其中一个是：你女朋友是10分，但她是个基准测试刷分王。没错。她真的是10分吗？"
+    },
+    {
+      "id": "p-0182",
+      "textEn": "Chamath Palihapitiya: Is she really a 10?",
+      "textZh": "查马斯·帕里哈皮蒂亚：她真的是10分吗？"
+    },
+    {
+      "id": "p-0183",
+      "textEn": "Elon Musk: Look like all 10.",
+      "textZh": "埃隆·马斯克：看起来全都是10分。"
+    },
+    {
+      "id": "p-0184",
+      "textEn": "David Sacks: Yeah,",
+      "textZh": "戴维·萨克斯：对，"
+    },
+    {
+      "id": "p-0185",
+      "textEn": "David Friedberg: no, but, but, but the overfitting",
+      "textZh": "戴维·弗里德伯格：不，但是，但是，但是过拟合"
+    },
+    {
+      "id": "p-0186",
+      "textEn": "Chamath Palihapitiya: thing has been a problem now for I think at least two or three generations of model families. And so this is another reason I think I like this solution a lot. I like this more than the transnational gulag organization approach.",
+      "textZh": "查马斯·帕里哈皮蒂亚：这个问题，我认为现在至少已经存在了2代或3代模型家族。所以，这是我认为自己非常喜欢这个解决方案的另一个原因。相比跨国古拉格组织的做法，我更喜欢这个。"
+    },
+    {
+      "id": "p-0187",
+      "textEn": "David Sacks: Without some grandiose, you know, international like we don't need to convene the United nations to make this happen.",
+      "textZh": "戴维·萨克斯：不需要某种宏大的，你知道，国际性的——我们不需要召集联合国来促成这件事。"
+    },
+    {
+      "id": "p-0188",
+      "textEn": "Chamath Palihapitiya: Yeah, no, it's just a decision you can happen right now.",
+      "textZh": "查马斯·帕里哈皮蒂亚：对，不，这只是一个你现在就能发生的决定。"
+    },
+    {
+      "id": "p-0189",
+      "textEn": "Elon Musk: All right, well you can always escalate the amount of, of regulatory oversight, but it is very difficult to reduce it. You know, it does tend to be very much a one way ratchet in terms of increasing regulations.",
+      "textZh": "埃隆·马斯克：好吧，你总是可以提高监管监督的程度，但要降低它却非常困难。你知道，在增加监管方面，它确实很像一种单向棘轮。"
+    },
+    {
+      "id": "p-0190",
+      "textEn": "Chamath Palihapitiya: Yeah.",
+      "textZh": "查马斯·帕里哈皮蒂亚：对。"
+    },
+    {
+      "id": "p-0191",
+      "textEn": "Elon Musk: So what I'm suggesting here is it's a step in the right direction and it's something we do quickly. And I think it's probably something that China would agree to.",
+      "textZh": "埃隆·马斯克：所以，我在这里建议的是，这是朝正确方向迈出的一步，也是我们能迅速做的事情。而且我认为，这可能是中国会同意的事情。"
+    },
+    {
+      "id": "p-0192",
+      "textEn": "Jason Calacanis: Yeah. And if you guys don't regulate yourselves, then you're going to get regulated. The MPAA metaphor or analogy is incredibly crisp because the movie industry was faced with censorship and regulation by the government and they just decided this is what an R is. And they literally created PG13 for the temple of Doom just to make it easy for people to understand PG versus PG 13. I think it's an elegant solution and we appreciate you joining us for the fifth year in a row. You're welcome, Elon Musk. And then you got to get to a meeting.",
+      "textZh": "杰森·卡拉卡尼斯：对。而且，如果你们不自我监管，那么你们就会受到监管。MPAA 的隐喻或类比非常清晰，因为电影行业当时面临政府的审查和监管，于是他们直接决定了什么是 R 级。而且他们确实专门为《魔宫传奇》创设了 PG13，只是为了让人们容易理解 PG 与 PG 13 之间的区别。我认为这是一个优雅的解决方案，也感谢你连续第5年加入我们。不客气，埃隆·马斯克。然后你得去开会了。"
+    },
+    {
+      "id": "p-0193",
+      "textEn": "Elon Musk: Yeah, I gotta go fix some GPUs here in Memphis.",
+      "textZh": "埃隆·马斯克：对，我得去修一修孟菲斯这里的一些 GPU。"
+    },
+    {
+      "id": "p-0194",
+      "textEn": "Chamath Palihapitiya: Yeah, you gotta rack and stack them.",
+      "textZh": "查马斯·帕里哈皮蒂亚：对，你得给它们排好优先级。"
+    },
+    {
+      "id": "p-0195",
+      "textEn": "Jason Calacanis: You gotta join the group and rack and stack.",
+      "textZh": "杰森·卡拉卡尼斯：你得加入团队，给它们排好优先级。"
+    },
+    {
+      "id": "p-0196",
+      "textEn": "Elon Musk: Yeah, I'm gonna rage for the machine",
+      "textZh": "埃隆·马斯克：对，我要为机器狂怒"
+    },
+    {
+      "id": "p-0197",
+      "textEn": "Jason Calacanis: Rage for the machine. Yeah. Well, enjoy your Airstream. The first.",
+      "textZh": "杰森·卡拉卡尼斯：为机器狂怒。对。好吧，好好享受你的 Airstream。第一次。"
+    },
+    {
+      "id": "p-0198",
+      "textEn": "Elon Musk: Thank you.",
+      "textZh": "埃隆·马斯克：谢谢。"
+    },
+    {
+      "id": "p-0199",
+      "textEn": "Jason Calacanis: The first time Elon invited me down",
+      "textZh": "杰森·卡拉卡尼斯：埃隆第一次邀请我过去"
+    },
+    {
+      "id": "p-0200",
+      "textEn": "Chamath Palihapitiya: to",
+      "textZh": "查马斯·帕里哈皮蒂亚：到"
+    },
+    {
+      "id": "p-0201",
+      "textEn": "Jason Calacanis: Starbase, he's like, come down. You got to see what I'm building. I said, okay, yeah, come down. He's like, yeah. I was like, is there like a hotel where I said, no, no, I got like a two bedroom, whatever. Come down, stay. I come down and this is the, like, dilapidated house on a swamp. And we're outside and we're getting eaten alive by mosquitoes. And I said, oh, my God, you know, you could afford to get a house. And he's like, I don't have time, I need to get these rockets up.",
+      "textZh": "杰森·卡拉卡尼斯：星舰基地，他就说，下来吧。你得看看我在造什么。我说，好啊，行，下来。他说，对。我就问，有没有类似酒店的地方，我说，没有，没有，我有个大概两居室什么的。下来住吧。我下来后，看到的就是这栋，怎么说呢，位于沼泽上的破旧房子。我们待在外面，被蚊子活活叮惨了。我说，哦，我的天啊，你知道，你负担得起买栋房子。他就说，我没时间，我得把这些火箭发射上去。"
+    },
+    {
+      "id": "p-0202",
+      "textEn": "Chamath Palihapitiya: I thought what you said was, oh, my God, you live like I do.",
+      "textZh": "查马斯·帕里哈皮蒂亚：我以为你说的是，哦，我的天啊，你过得跟我一样。"
+    },
+    {
+      "id": "p-0203",
+      "textEn": "Jason Calacanis: Yeah, exactly. I mean, it was pretty sparse conditions, but I was like, you know what? I think you can treat yourself to a mobile home at this point. Elon. All right, get back to work.",
+      "textZh": "杰森·卡拉卡尼斯：对，没错。我的意思是，条件相当简陋，但我当时想，你知道吗？我觉得事到如今，你可以犒劳自己，买套活动房屋了。埃隆。好了，回去工作吧。"
+    },
+    {
+      "id": "p-0204",
+      "textEn": "David Friedberg: Thanks, Elon.",
+      "textZh": "戴维·弗里德伯格：谢谢你，埃隆。"
+    },
+    {
+      "id": "p-0205",
+      "textEn": "Chamath Palihapitiya: Elon. Thank you, Gwyn. Thank you very much. Thank you.",
+      "textZh": "查马斯·帕里哈皮蒂亚：埃隆。谢谢你，格温。非常感谢。谢谢。"
+    },
+    {
+      "id": "p-0206",
+      "textEn": "David Friedberg: Thanks for sticking around.",
+      "textZh": "戴维·弗里德伯格：谢谢你留下来陪我们。"
+    },
+    {
+      "id": "p-0207",
+      "textEn": "Elon Musk: All right, that's great.",
+      "textZh": "埃隆·马斯克：好的，那太棒了。"
+    },
+    {
+      "id": "p-0208",
+      "textEn": "David Friedberg: Thank you.",
+      "textZh": "戴维·弗里德伯格：谢谢。"
+    },
+    {
+      "id": "p-0209",
+      "textEn": "Chamath Palihapitiya: Quinn, thank you again. Very nice to meet you. Thank you.",
+      "textZh": "查马斯·帕里哈皮蒂亚：奎因，再次感谢你。很高兴认识你。谢谢。"
+    }
+  ],
+  "translation": {
+    "status": "reviewed",
+    "model": "gpt-5.6-sol",
+    "translatedAt": "2026-09-17T05:48:12.170Z",
+    "reviewedAt": "2026-09-17T05:55:52.766Z"
+  },
+  "fetchedAt": "2026-09-17T05:23:03.819Z",
+  "transcriptSource": "https://www.youtube.com/watch?v=iwBOQeFPAwg&t=1657s",
+  "sourceHash": "62a48ae72be13f2af74ef854072303e47e8624ed9f39cac0c62ab6850a04e901"
+}
