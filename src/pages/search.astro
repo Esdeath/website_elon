@@ -5,6 +5,7 @@ import ArchiveSearch from "../components/ArchiveSearch.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { TYPE_LABELS } from "../lib/display";
 import { BOOK } from "../lib/book";
+import { getChineseTranscripts, transcriptPath } from "../lib/transcripts";
 
 const entries = await getCollection("videos");
 const fallbackRecords = entries.map(({ data }) => ({
@@ -14,7 +15,17 @@ const fallbackRecords = entries.map(({ data }) => ({
   date: data.date,
   org: data.org || "",
   url: `/videos/${data.slug}/`,
+  collection: "影像档案",
 }));
+fallbackRecords.push(...getChineseTranscripts(entries.map(({ data }) => data)).map((video) => ({
+  title: video.titleZh,
+  summary: video.summaryZh,
+  type: TYPE_LABELS[video.type],
+  date: video.date,
+  org: video.org || "",
+  url: transcriptPath(video),
+  collection: "中文文字稿",
+})));
 fallbackRecords.push({
   title: BOOK.title,
   summary: BOOK.description,
@@ -22,6 +33,7 @@ fallbackRecords.push({
   date: "",
   org: "",
   url: BOOK.path,
+  collection: "电子书",
 });
 const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
 ---
@@ -36,6 +48,13 @@ const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
     </header>
 
     <ArchiveSearch />
+
+    <label class="search-scope">搜索范围
+      <select name="scope" aria-label="搜索范围">
+        <option value="all">全部内容</option>
+        <option value="transcripts">中文文字稿</option>
+      </select>
+    </label>
 
     <div class="search-status" aria-live="polite" data-search-status>
       输入关键词开始搜索
@@ -57,6 +76,7 @@ const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
       date: string;
       org: string;
       url: string;
+      collection: string;
       excerpt?: string;
     }
 
@@ -70,6 +90,7 @@ const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
     const next = document.querySelector<HTMLButtonElement>("[data-search-next]");
     const pageText = document.querySelector<HTMLElement>("[data-search-page]");
     const source = document.querySelector<HTMLScriptElement>("#fallback-search-records");
+    const scope = document.querySelector<HTMLSelectElement>('select[name="scope"]');
     const fallback: SearchRecord[] = source?.textContent ? JSON.parse(source.textContent) : [];
     let currentResults: SearchRecord[] = [];
     let page = 1;
@@ -86,7 +107,7 @@ const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
       link.className = "result-link";
       title.textContent = item.title;
       meta.className = "result-meta";
-      meta.textContent = [item.date ? formatSearchDate(item.date) : "", item.type, item.org].filter(Boolean).join(" / ");
+      meta.textContent = [item.date ? formatSearchDate(item.date) : "", item.collection, item.type, item.org].filter(Boolean).join(" / ");
       excerpt.className = "result-excerpt";
       if (item.excerpt) excerpt.innerHTML = item.excerpt;
       else excerpt.textContent = item.summary || "打开记录查看详细内容。";
@@ -105,6 +126,7 @@ const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
     const updateUrl = (query: string) => {
       const params = new URLSearchParams();
       if (query) params.set("q", query);
+      if (scope?.value === "transcripts") params.set("scope", "transcripts");
       if (page > 1) params.set("page", String(page));
       history.replaceState(null, "", `${location.pathname}${params.size ? `?${params}` : ""}`);
     };
@@ -128,6 +150,8 @@ const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
     const searchFallback = (query: string) => {
       const terms = query.toLocaleLowerCase("zh-CN").split(/\s+/).filter(Boolean);
       return fallback.filter((item) => {
+        if (scope?.value === "transcripts" && item.collection !== "中文文字稿") return false;
+        if (scope?.value !== "transcripts" && item.collection === "中文文字稿") return false;
         const haystack = `${item.title} ${item.summary} ${item.type} ${item.org}`.toLocaleLowerCase("zh-CN");
         return terms.every((term) => haystack.includes(term));
       });
@@ -147,11 +171,16 @@ const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
         const pagefindPath = "/pagefind/pagefind.js";
         const pagefind = await import(/* @vite-ignore */ pagefindPath);
         await pagefind.init();
-        const response = await pagefind.search(query, { excerptLength: 34 });
+        const response = await pagefind.search(query, {
+          excerptLength: 34,
+          ...(scope?.value === "transcripts" ? { filters: { collection: "中文文字稿" } } : {}),
+        });
         const loaded = await Promise.all(response.results.map((result: { data: () => Promise<any> }) => result.data()));
         if (id !== requestId) return;
         const terms = query.toLocaleLowerCase("zh-CN").split(/\s+/).filter(Boolean);
-        currentResults = loaded.map((item: any) => {
+        // The video archive already contains the same text; show each source once in all-content searches.
+        const unique = scope?.value === "transcripts" ? loaded : loaded.filter((item: any) => !new URL(String(item.url), location.origin).pathname.startsWith("/transcripts/"));
+        currentResults = unique.map((item: any) => {
           const subResults = item.sub_results || [];
           const exactSubResult = subResults.find((sub: any) => {
             const excerpt = String(sub.plain_excerpt || "").toLocaleLowerCase("zh-CN");
@@ -166,6 +195,7 @@ const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
             date: item.meta?.date || "",
             org: item.filters?.org?.[0] || "",
             url,
+            collection: item.filters?.collection?.[0] || "影像档案",
             excerpt: selected?.excerpt || item.excerpt,
           };
         });
@@ -180,6 +210,7 @@ const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
       event.preventDefault();
       performSearch(input?.value.trim() || "");
     });
+    scope?.addEventListener("change", () => performSearch(input?.value.trim() || ""));
     prev?.addEventListener("click", () => {
       page -= 1;
       render(input?.value.trim() || "");
@@ -193,18 +224,22 @@ const fallbackJson = JSON.stringify(fallbackRecords).replaceAll("<", "\\u003c");
     window.addEventListener("popstate", () => {
       const params = new URLSearchParams(location.search);
       const query = params.get("q") || "";
+      if (scope) scope.value = params.get("scope") === "transcripts" ? "transcripts" : "all";
       if (input) input.value = query;
       performSearch(query, Number.parseInt(params.get("page") || "1", 10) || 1);
     });
 
     const params = new URLSearchParams(location.search);
     const initialQuery = params.get("q") || "";
+    if (scope) scope.value = params.get("scope") === "transcripts" ? "transcripts" : "all";
     if (input) input.value = initialQuery;
     performSearch(initialQuery, Number.parseInt(params.get("page") || "1", 10) || 1);
   </script>
 </BaseLayout>
 
 <style>
+  .search-scope { display: flex; align-items: center; gap: 12px; margin-top: 18px; color: var(--muted); font-size: 0.86rem; }
+  .search-scope select { min-height: 42px; border: 1px solid var(--line-dark); border-radius: 4px; padding: 8px 12px; background: var(--surface); }
   .search-page {
     max-width: 920px;
     padding-top: 64px;

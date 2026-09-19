@@ -5,6 +5,7 @@ import { BOOK } from "../lib/book";
 const currentPath = Astro.url.pathname;
 const links = [
   { href: "/", label: "影像目录" },
+  { href: "/transcripts/", label: "中文文字稿" },
   { href: BOOK.path, label: "读书" },
   { href: "/about/", label: "关于" },
   { href: "/rights/", label: "版权与纠错" },
@@ -12,6 +13,7 @@ const links = [
 
 const isCurrent = (href: string) => {
   if (href === "/") return currentPath === "/" || currentPath.startsWith("/videos/");
+  if (href === "/transcripts/") return currentPath.startsWith(href);
   return currentPath === href;
 };
 ---

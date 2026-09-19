@@ -7,6 +7,7 @@ import {
 } from "./display";
 import { VIDEO_TYPES, type VideoEntry } from "./types";
 import { BOOK } from "./book";
+import { getChineseTranscripts, hasChineseTranscript, transcriptPath } from "./transcripts";
 
 const ARCHIVE_NAME = "马斯克中文档案";
 const ARCHIVE_DESCRIPTION = "非官方、非商业的伊隆·马斯克公开影像与中英文实录资料库。";
@@ -172,6 +173,10 @@ export function createArchiveIndex(videos: readonly VideoEntry[], site: URL) {
         slug: video.slug,
         url: absoluteUrl(`/videos/${video.slug}/`, site),
         markdownUrl: absoluteUrl(`/videos/${video.slug}.md`, site),
+        ...(hasChineseTranscript(video) ? {
+          transcriptUrl: absoluteUrl(transcriptPath(video), site),
+          transcriptMarkdownUrl: absoluteUrl(`/transcripts/${video.slug}.md`, site),
+        } : {}),
         snapshotId: video.snapshotId,
         date: video.date,
         type: video.type,
@@ -201,6 +206,7 @@ export function createArchiveIndex(videos: readonly VideoEntry[], site: URL) {
 
 export function formatLlmsTxt(videos: readonly VideoEntry[], site: URL): string {
   const sorted = sortVideosNewest(videos);
+  const transcripts = getChineseTranscripts(videos);
   const lines = [
     `# ${ARCHIVE_NAME}`,
     "",
@@ -215,6 +221,7 @@ export function formatLlmsTxt(videos: readonly VideoEntry[], site: URL): string 
     "",
     "## 主要页面",
     `- ${markdownLink("影像目录", absoluteUrl("/", site))}: 按类别、年份、机构与正文状态浏览。`,
+    `- ${markdownLink("中文文字稿", absoluteUrl("/transcripts/", site))}: ${transcripts.length} 篇独立中文阅读页，保留原始段落锚点与来源，并提供纯中文正文 Markdown。`,
     `- ${markdownLink(BOOK.title, absoluteUrl(BOOK.path, site))}: ${BOOK.chapterCount} 章、${BOOK.questionCount} 组问答，支持目录跳转与全书搜索。`,
     `- ${markdownLink("全文搜索", absoluteUrl("/search/", site))}: 检索中文标题、摘要与正文。`,
     `- ${markdownLink("关于本站", absoluteUrl("/about/", site))}: 本站定位与简介。`,
@@ -236,6 +243,13 @@ export function formatLlmsTxt(videos: readonly VideoEntry[], site: URL): string 
     const pageUrl = absoluteUrl(`/videos/${video.slug}/`, site);
     lines.push(
       `- ${markdownLink(video.titleZh || video.titleEn, markdownUrl)}: ${details} · ${markdownLink("网页版", pageUrl)} · English: ${markdownLine(video.titleEn)}`,
+    );
+  }
+
+  lines.push("", `## 中文文字稿（${transcripts.length} 篇）`);
+  for (const video of transcripts) {
+    lines.push(
+      `- ${markdownLink(video.titleZh, absoluteUrl(`/transcripts/${video.slug}.md`, site))}: ${markdownLine(video.date)} · ${TYPE_LABELS[video.type]} · ${markdownLink("中文阅读页", absoluteUrl(transcriptPath(video), site))}`,
     );
   }
 

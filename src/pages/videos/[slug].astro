@@ -17,6 +17,7 @@ import {
 } from "../../lib/display";
 import { buildDetailJsonLd, buildDetailMetaTitles, isHttpUrl } from "../../lib/seo";
 import type { VideoEntry } from "../../lib/types";
+import { hasChineseTranscript, transcriptPath } from "../../lib/transcripts";
 
 export async function getStaticPaths() {
   const entries = await getCollection("videos");
@@ -130,6 +131,11 @@ const jsonLd = buildDetailJsonLd(video, { canonical, description, thumbnail, emb
       </aside>
 
       <div class="reading-column">
+        {hasChineseTranscript(video) && (
+          <a class="standalone-transcript" href={transcriptPath(video)}>
+            <FileText size={18} stroke-width={1.8} aria-hidden="true" /> 阅读独立中文文字稿
+          </a>
+        )}
         <div class="reading-tools">
           <LanguageSwitch />
           <p><ShieldCheck size={16} stroke-width={1.8} aria-hidden="true" /> 机器翻译，已尽力保留原意与数字</p>
@@ -167,6 +173,7 @@ const jsonLd = buildDetailJsonLd(video, { canonical, description, thumbnail, emb
 </BaseLayout>
 
 <style>
+  .standalone-transcript { display: flex; align-items: center; gap: 10px; width: fit-content; margin-bottom: 24px; color: var(--signal); font-size: 0.9rem; }
   .citation-note, .related-records { margin-top: 32px; padding-block: 20px; border-top: 1px solid var(--line); font-size: 0.85rem; overflow-wrap: anywhere; }
   .citation-note h2, .related-records h2 { font-family: var(--serif); font-size: 1.2rem; }
   .citation-note p, .related-records time { color: var(--muted); }

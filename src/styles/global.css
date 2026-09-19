@@ -356,7 +356,7 @@ input[type="radio"] + label {
   padding-block: 76px 20px;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 900px) {
   :root {
     --shell: min(100% - 28px, 1280px);
   }
@@ -404,6 +404,10 @@ input[type="radio"] + label {
   .prose h1 {
     font-size: 2.35rem;
   }
+}
+
+@media (max-width: 540px) {
+  .primary-nav a { padding-inline: 10px; font-size: 0.82rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {

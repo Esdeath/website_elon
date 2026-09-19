@@ -98,7 +98,7 @@ try {
     );
     const expected = records.find(
       (record: any) =>
-        String(record.url).includes(fixture.slug) &&
+        String(record.url).includes(`/videos/${fixture.slug}/`) &&
         String(record.content).includes(fixture.query),
     );
     const matchingSubResult = expected?.sub_results?.find((subResult: any) =>
@@ -146,6 +146,19 @@ try {
     })}`);
   }
   console.log(`[pagefind] ${passed.length} Chinese transcript queries returned exact segment anchors`);
+  for (const fixture of passed) {
+    const result = await pagefind.search(fixture.query, { filters: { collection: "中文文字稿" }, excerptLength: 34 });
+    const records = await Promise.all(result.results.map((item: { data: () => Promise<any> }) => item.data()));
+    if (!records.length || records.some((record: any) => !new URL(record.url, "http://localhost").pathname.startsWith("/transcripts/"))) {
+      throw new Error(`Scoped transcript search returned missing or non-transcript results for ${fixture.query}`);
+    }
+    const record = records.find((item: any) => String(item.url).includes(`/transcripts/${fixture.slug}/`));
+    const match = record?.sub_results?.find((item: any) => String(item.plain_excerpt).includes(fixture.query));
+    if (String(match?.url).split("#")[1] !== fixture.anchor) {
+      throw new Error(`Chinese article search did not link to ${fixture.slug}#${fixture.anchor}`);
+    }
+  }
+  console.log(`[pagefind] ${passed.length} scoped Chinese article queries returned exact segment anchors`);
   console.log("[pagefind] book full-text query returned its exact question anchor");
 } finally {
   await new Promise<void>((resolvePromise, reject) => {

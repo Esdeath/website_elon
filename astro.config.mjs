@@ -2,10 +2,12 @@ import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import { readdir, readFile } from "node:fs/promises";
 import { includeInSitemap } from "./src/lib/sitemap";
+import { hasChineseTranscript } from "./src/lib/transcripts";
 
 const site = process.env.PUBLIC_SITE_URL || "https://elon.ayaseeri.com";
 const videoDirectory = new URL("./src/content/videos/", import.meta.url);
 const videoLastModified = new Map();
+const transcriptLastModified = new Map();
 const categoryLastModified = new Map();
 
 for (const filename of await readdir(videoDirectory)) {
@@ -14,12 +16,14 @@ for (const filename of await readdir(videoDirectory)) {
   const lastModified = entry.translation?.reviewedAt || entry.translation?.translatedAt || entry.fetchedAt;
   if (entry.slug && lastModified && Number.isFinite(Date.parse(lastModified))) {
     videoLastModified.set(entry.slug, lastModified);
+    if (hasChineseTranscript(entry)) transcriptLastModified.set(entry.slug, lastModified);
     const previous = categoryLastModified.get(entry.type);
     if (!previous || Date.parse(lastModified) > Date.parse(previous)) categoryLastModified.set(entry.type, lastModified);
   }
 }
 
 const collectionLastModified = [...videoLastModified.values()].sort().at(-1);
+const transcriptCollectionLastModified = [...transcriptLastModified.values()].sort().at(-1);
 
 export default defineConfig({
   site,
@@ -30,8 +34,11 @@ export default defineConfig({
       serialize(item) {
         const pathname = new URL(item.url).pathname;
         const videoMatch = /^\/videos\/([^/]+)\/?$/.exec(pathname);
+        const transcriptMatch = /^\/transcripts\/([^/]+)\/?$/.exec(pathname);
         let lastModified;
         if (videoMatch) lastModified = videoLastModified.get(decodeURIComponent(videoMatch[1]));
+        else if (transcriptMatch) lastModified = transcriptLastModified.get(decodeURIComponent(transcriptMatch[1]));
+        else if (pathname === "/transcripts/" || pathname === "/transcripts") lastModified = transcriptCollectionLastModified;
         else if (pathname.startsWith("/categories/")) lastModified = categoryLastModified.get(pathname.split("/")[2]);
         else if (pathname === "/") lastModified = collectionLastModified;
         if (lastModified) item.lastmod = new Date(lastModified);

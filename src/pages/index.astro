@@ -11,9 +11,11 @@ import { buildCollectionJsonLd } from "../lib/seo";
 import { TYPE_LABELS } from "../lib/display";
 import { VIDEO_TYPES } from "../lib/types";
 import type { VideoType } from "../lib/types";
+import { getChineseTranscripts } from "../lib/transcripts";
 
 const entries = await getCollection("videos");
 const videos = entries.map((entry) => entry.data).sort((a, b) => b.date.localeCompare(a.date));
+const transcriptCount = getChineseTranscripts(videos).length;
 const years = [...new Set(videos.map((video) => videoYear(video.date)))].sort().reverse();
 const organizations = [...new Set(videos.map((video) => video.org).filter(Boolean) as string[])]
   .sort((a, b) => a.localeCompare(b, "zh-CN"));
@@ -60,6 +62,14 @@ const socialImage = videos[0] ? videoThumbnail(videos[0]) : undefined;
   </section>
 
   <BookFeature />
+
+  <section class="transcript-feature shell" aria-labelledby="transcript-feature-title">
+    <div>
+      <h2 id="transcript-feature-title"><a href="/transcripts/">中文文字稿</a></h2>
+      <p>将影像中的访谈、演讲与对谈整理为 {transcriptCount} 篇独立文章，逐篇阅读全文。</p>
+    </div>
+    <a class="button secondary" href="/transcripts/">浏览 {transcriptCount} 篇文字稿</a>
+  </section>
 
   <section class="archive-catalog shell" aria-labelledby="catalog-title">
     <div class="search-row">
@@ -249,6 +259,12 @@ const socialImage = videos[0] ? videoThumbnail(videos[0]) : undefined;
 </BaseLayout>
 
 <style>
+  .transcript-feature { display: flex; justify-content: space-between; align-items: center; gap: 24px; margin-top: 24px; padding: 28px; border-left: 4px solid var(--signal); background: var(--surface); }
+  .transcript-feature h2 { margin: 0; font-family: var(--serif); font-size: 1.6rem; }
+  .transcript-feature h2 a { text-decoration: none; }
+  .transcript-feature p { margin: 10px 0 0; color: var(--muted); line-height: 1.8; }
+  .transcript-feature .button { flex-shrink: 0; }
+  @media (max-width: 720px) { .transcript-feature { align-items: start; flex-direction: column; padding: 22px; } }
   .category-links { display: flex; flex-wrap: wrap; gap: 12px 24px; margin-block: 24px; font-size: 0.85rem; }
   .archive-intro {
     border-bottom: 1px solid var(--line-dark);

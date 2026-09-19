@@ -1,0 +1,188 @@
+---
+import { getCollection } from "astro:content";
+import { ArrowLeft, FileDown, Printer } from "@lucide/astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { TYPE_LABELS, TRANSLATION_LABELS, formatDate, formatTimestamp, videoYear } from "../../lib/display";
+import { buildDetailMetaTitles, isHttpUrl } from "../../lib/seo";
+import { getChineseTranscripts, transcriptPath, transcriptStats } from "../../lib/transcripts";
+import { buildTranscriptJsonLd } from "../../lib/transcript-seo";
+import type { VideoEntry } from "../../lib/types";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("videos");
+  const transcripts = getChineseTranscripts(entries.map(({ data }) => data));
+  const titles = buildDetailMetaTitles(transcripts);
+  return transcripts.map((video, index) => ({
+    params: { slug: video.slug },
+    props: { video, metaTitle: titles.get(video.slug), previous: transcripts[index - 1], next: transcripts[index + 1] },
+  }));
+}
+
+interface Props { video: VideoEntry; metaTitle: string; previous?: VideoEntry; next?: VideoEntry; }
+const { video, metaTitle, previous, next } = Astro.props;
+const stats = transcriptStats(video);
+const canonical = new URL(transcriptPath(video), Astro.site || Astro.url.origin).toString();
+const description = `${video.date}，${video.titleZh}的中文文字稿。${video.summaryZh}`;
+const modified = video.translation.reviewedAt || video.translation.translatedAt || video.fetchedAt;
+const transcriptSource = isHttpUrl(video.transcriptSource) && ![video.sourceUrl, video.archiveUrl].includes(video.transcriptSource) ? video.transcriptSource : undefined;
+---
+
+<BaseLayout title={`${metaTitle}｜中文文字稿`} {description} {canonical} ogType="article" datePublished={video.date} dateModified={modified}
+  markdownAlternate={`/transcripts/${video.slug}.md`} jsonLd={buildTranscriptJsonLd(video, canonical, description)}>
+  <article class="transcript-reader" id="reading-top" data-pagefind-body data-pagefind-filter="collection:中文文字稿">
+    <header class="reader-head">
+      <a class="back-link" href="/transcripts/" data-pagefind-ignore><ArrowLeft size={16} aria-hidden="true" /> 全部中文文字稿</a>
+      <p class="meta-line">
+        <time datetime={video.date} data-pagefind-meta="date[datetime]">{formatDate(video.date)}</time>
+        <span data-pagefind-filter={`type:${TYPE_LABELS[video.type]}`}>{TYPE_LABELS[video.type]}</span>
+        {video.org && <span data-pagefind-filter="org">{video.org}</span>}
+      </p>
+      <h1 data-pagefind-meta="title" data-pagefind-filter={`year:${videoYear(video.date)}`}>{video.titleZh}</h1>
+      <p class="reader-stats" data-pagefind-ignore>{stats.characterCount.toLocaleString("zh-CN")} 字 <span>约 {stats.readingMinutes} 分钟</span> <span>{video.segments.length} 个段落</span></p>
+    </header>
+
+    <div class="reader-toolbar" data-pagefind-ignore>
+      <a class="video-link" href={`/videos/${video.slug}/`}>查看影像与英文</a>
+      <div class="reader-actions">
+        <div class="font-tools" data-reader-controls hidden role="group" aria-label="阅读字号">
+          <button type="button" data-font-change="-1" aria-label="缩小字号">A−</button>
+          <output data-font-label aria-live="polite">标准</output>
+          <button type="button" data-font-change="1" aria-label="放大字号">A+</button>
+        </div>
+        <a href={`/transcripts/${video.slug}.md`} download={`${video.slug}.md`} class="reader-download"><FileDown size={16} aria-hidden="true" /> 下载文字稿</a>
+        <button type="button" class="reader-print" data-reader-print hidden><Printer size={16} aria-hidden="true" /> 打印</button>
+      </div>
+    </div>
+
+    <div class="reader-body">
+      {video.summaryZh && <section class="reader-summary" aria-labelledby="summary-title">
+        <h2 id="summary-title">内容摘要</h2>
+        <p>{video.summaryZh}</p>
+      </section>}
+      <p class="translation-note" data-pagefind-ignore>中文内容由机器翻译生成，{TRANSLATION_LABELS[video.translation.status]}。引用时请核对<a href={`/videos/${video.slug}/?lang=en`}>英文原文与影像</a>。</p>
+      <section class="reader-transcript" aria-labelledby="body-title">
+        <h2 class="body-title" id="body-title">中文正文</h2>
+        {video.segments.map((segment, index) => (
+          <section class="reading-segment" id={segment.id} data-segment-id={segment.id}>
+            <h3 id={`segment-${index + 1}`}>
+              <span>{segment.speakerZh || segment.speakerEn || `第 ${index + 1} 段`}</span>
+              <a href={`#${segment.id}`} aria-label={`引用第 ${index + 1} 段`} data-pagefind-ignore>
+                {formatTimestamp(segment.startSec) || `段落 ${index + 1}`}<span aria-hidden="true"> #</span>
+              </a>
+            </h3>
+            <p>{segment.textZh}</p>
+          </section>
+        ))}
+      </section>
+    </div>
+
+    <footer class="reader-sources" data-pagefind-ignore>
+      <h2>来源与引用</h2>
+      <p>{video.titleZh}（{video.date}），马斯克中文档案。</p>
+      <p>资料更新：<time datetime={modified}>{formatDate(modified.slice(0, 10))}</time>。本文保留影像档案中已有的中文记录。</p>
+      <ul>
+        <li><a href={video.sourceUrl} target="_blank" rel="cite external noreferrer">原始来源{video.sourceLabel ? `：${video.sourceLabel}` : ""}</a></li>
+        <li><a href={video.archiveUrl} target="_blank" rel="cite external noreferrer">英文档案页</a></li>
+        {transcriptSource && <li><a href={transcriptSource} target="_blank" rel="cite external noreferrer">文字记录来源</a></li>}
+        <li><a href={canonical}>本文永久链接</a></li>
+        <li><a href="/rights/">版权与纠错</a></li>
+      </ul>
+      <a class="return-top" href="#reading-top">返回顶部</a>
+    </footer>
+
+    <nav class="reader-neighbors" aria-label="相邻文字稿" data-pagefind-ignore>
+      {previous ? <a href={transcriptPath(previous)} rel="prev"><span>上一篇</span><strong>{previous.titleZh}</strong></a> : <div />}
+      {next ? <a href={transcriptPath(next)} rel="next"><span>下一篇</span><strong>{next.titleZh}</strong></a> : <div />}
+    </nav>
+  </article>
+  <script>
+    const reader = document.querySelector<HTMLElement>(".transcript-reader");
+    if (reader) {
+      const sizes = [17, 19, 21, 23];
+      const names = ["紧凑", "标准", "大字", "特大"];
+      let index = 1;
+      try {
+        const stored = localStorage.getItem("transcript-font-size");
+        const saved = stored === null ? -1 : sizes.indexOf(Number(stored));
+        if (saved >= 0) index = saved;
+      } catch { /* Reading controls remain usable without browser storage. */ }
+      const buttons = [...reader.querySelectorAll<HTMLButtonElement>("[data-font-change]")];
+      const applySize = () => {
+        reader.style.setProperty("--reading-size", `${sizes[index]}px`);
+        const label = reader.querySelector<HTMLOutputElement>("[data-font-label]");
+        if (label) label.textContent = names[index];
+        buttons.forEach((button) => button.disabled = Number(button.dataset.fontChange) < 0 ? index === 0 : index === sizes.length - 1);
+      };
+      buttons.forEach((button) => button.addEventListener("click", () => {
+        index = Math.max(0, Math.min(sizes.length - 1, index + Number(button.dataset.fontChange)));
+        applySize();
+        try { localStorage.setItem("transcript-font-size", String(sizes[index])); } catch { /* Optional preference. */ }
+      }));
+      reader.querySelector<HTMLElement>("[data-reader-controls]")!.hidden = false;
+      const print = reader.querySelector<HTMLButtonElement>("[data-reader-print]")!;
+      print.hidden = false;
+      print.addEventListener("click", () => window.print());
+      applySize();
+    }
+  </script>
+</BaseLayout>
+
+<style>
+  .transcript-reader { --reading-size: 19px; width: min(850px, calc(100% - 48px)); margin-inline: auto; padding-top: 40px; }
+  .reader-head { padding-block: 0 28px; }
+  .back-link { display: inline-flex; align-items: center; gap: 7px; margin-bottom: 38px; color: var(--muted); font-size: 0.85rem; text-decoration: none; }
+  .reader-head h1 { margin: 18px 0 22px; font-family: var(--serif); font-size: clamp(1.9rem, 4vw, 3rem); line-height: 1.5; overflow-wrap: anywhere; }
+  .reader-stats { display: flex; flex-wrap: wrap; gap: 10px 22px; margin: 0; color: var(--muted); font-size: 0.83rem; }
+  .reader-toolbar { position: sticky; top: 0; z-index: 10; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 20px; padding-block: 12px; border-block: 1px solid var(--line-dark); background: var(--paper); font-size: 0.81rem; }
+  .video-link { color: var(--signal); }
+  .reader-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; }
+  .font-tools { display: flex; align-items: center; gap: 10px; }
+  .font-tools button { width: 36px; height: 36px; border: 1px solid var(--line); border-radius: 3px; background: var(--surface); }
+  .font-tools button:disabled { opacity: 0.4; cursor: default; }
+  .font-tools output { color: var(--muted); font-size: 0.75rem; }
+  .reader-download, .reader-print { display: inline-flex; align-items: center; gap: 5px; min-height: 36px; }
+  .reader-print { border: 0; padding: 0; background: none; font-size: inherit; }
+  [hidden] { display: none; }
+  .reader-body { padding-top: 32px; }
+  .reader-summary { padding: 22px 26px; background: var(--signal-soft); }
+  .reader-summary h2 { margin: 0 0 12px; color: var(--signal); font-size: 0.86rem; }
+  .reader-summary p { margin: 0; font-family: var(--serif); font-size: var(--reading-size); line-height: 2; white-space: pre-line; }
+  .translation-note { margin: 20px 0 38px; color: var(--muted); font-size: 0.8rem; line-height: 1.9; }
+  .body-title { margin: 0 0 26px; font-family: var(--serif); font-size: 1.45rem; }
+  .reading-segment { padding-block: 0 28px; scroll-margin-top: 100px; }
+  .reading-segment h3 { display: flex; justify-content: space-between; gap: 20px; align-items: baseline; margin: 0 0 10px; font-size: 0.84rem; line-height: 1.6; }
+  .reading-segment h3[id] { scroll-margin-top: 130px; }
+  .reading-segment h3 > span { overflow-wrap: anywhere; }
+  .reading-segment h3 a { flex-shrink: 0; color: var(--muted); font-size: 0.73rem; font-weight: 400; text-decoration: none; font-variant-numeric: tabular-nums; }
+  .reading-segment h3 a:hover { text-decoration: underline; }
+  .reading-segment:target { border-left: 3px solid var(--signal); padding-left: 18px; }
+  .reading-segment > p { margin: 0; font-family: var(--serif); font-size: var(--reading-size); line-height: 2.05; white-space: pre-line; overflow-wrap: anywhere; }
+  .reader-sources { border-top: 1px solid var(--line-dark); margin-top: 28px; padding-top: 26px; color: var(--muted); font-size: 0.84rem; line-height: 1.9; overflow-wrap: anywhere; }
+  .reader-sources h2 { color: var(--ink); font-family: var(--serif); font-size: 1.25rem; }
+  .reader-sources ul { padding-left: 20px; }
+  .reader-sources li { margin-bottom: 6px; }
+  .return-top { display: inline-block; margin-top: 12px; }
+  .reader-neighbors { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 30px; margin-top: 38px; border-top: 1px solid var(--line); padding-top: 24px; }
+  .reader-neighbors a { text-decoration: none; overflow-wrap: anywhere; }
+  .reader-neighbors span { display: block; margin-bottom: 10px; color: var(--muted); font-size: 0.8rem; }
+  .reader-neighbors strong { font-family: var(--serif); font-weight: 400; line-height: 1.8; }
+  .reader-neighbors a:hover strong { text-decoration: underline; }
+  @media (max-width: 540px) {
+    .transcript-reader { width: calc(100% - 36px); padding-top: 26px; }
+    .back-link { margin-bottom: 28px; }
+    .reader-toolbar { gap: 6px; }
+    .reader-actions { width: 100%; justify-content: space-between; gap: 10px; }
+    .reader-summary { padding: 18px; }
+    .reader-neighbors { gap: 24px; grid-template-columns: 1fr; }
+    .reading-segment { scroll-margin-top: 130px; }
+  }
+  @media print {
+    :global(.site-header), :global(.site-footer), :global(.skip-link), .back-link, .reader-toolbar, .reader-neighbors, .return-top { display: none; }
+    .transcript-reader { width: 100%; padding-top: 0; --reading-size: 12pt !important; }
+    .reader-head h1 { font-size: 22pt; }
+    .reader-summary { padding: 0; background: none; }
+    .reading-segment h3 { break-after: avoid; }
+    .reading-segment h3 a { display: none; }
+    :global(body) { background: white; }
+  }
+</style>

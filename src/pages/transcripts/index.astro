@@ -1,0 +1,131 @@
+---
+import { getCollection } from "astro:content";
+import { Search, ChevronLeft, ChevronRight } from "@lucide/astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { TYPE_LABELS, videoYear } from "../../lib/display";
+import { getChineseTranscripts, transcriptPath, transcriptStats } from "../../lib/transcripts";
+import { buildTranscriptCollectionJsonLd } from "../../lib/transcript-seo";
+
+const entries = await getCollection("videos");
+const transcripts = getChineseTranscripts(entries.map(({ data }) => data));
+const years = [...new Set(transcripts.map((video) => videoYear(video.date)))].sort().reverse();
+const description = `${transcripts.length} 篇马斯克中文文字稿，整理影像目录中访谈、演讲、财报会议与线上对谈的已有中文记录，按类别、年份和关键词查找，独立阅读与下载。`;
+const canonical = new URL("/transcripts/", Astro.site || Astro.url.origin).toString();
+---
+
+<BaseLayout title="中文文字稿" {description} {canonical} jsonLd={buildTranscriptCollectionJsonLd(transcripts, canonical, description)} excludeFromSearch>
+  <section class="transcript-catalog shell" aria-labelledby="catalog-title">
+    <header class="catalog-intro">
+      <h1 id="catalog-title">中文文字稿</h1>
+      <p>从影像中，回到文字。</p>
+      <p class="catalog-description">{transcripts.length} 篇访谈、演讲与对谈的中文记录。每篇独立阅读，保留已有正文、发言者、时间戳与原始来源。</p>
+      <a class="fulltext-link" href="/search/?scope=transcripts">搜索文字稿全文 <Search size={15} aria-hidden="true" /></a>
+    </header>
+
+    <form class="transcript-filters" data-transcript-filters role="search" aria-label="筛选中文文字稿">
+      <label class="catalog-query">
+        <span>查找文字稿</span>
+        <input type="search" name="q" placeholder="搜索标题、摘要或机构" autocomplete="off" />
+      </label>
+      <label><span>类别</span><select name="type">
+        <option value="all">全部类别</option>
+        {Object.entries(TYPE_LABELS).map(([type, label]) => <option value={type}>{label}</option>)}
+      </select></label>
+      <label><span>年份</span><select name="year">
+        <option value="all">全部年份</option>
+        {years.map((year) => <option value={year}>{year} 年</option>)}
+      </select></label>
+      <label><span>排序</span><select name="sort">
+        <option value="newest">时间：最新</option>
+        <option value="oldest">时间：最早</option>
+      </select></label>
+      <button type="reset">清除筛选</button>
+    </form>
+    <noscript><p>下方列出全部 {transcripts.length} 篇文字稿。开启 JavaScript 后可使用筛选和分页，也可使用浏览器的页面查找。</p></noscript>
+
+    <div class="catalog-results" id="transcript-results" tabindex="-1">
+      <p aria-live="polite">共 <strong data-transcript-count>{transcripts.length}</strong> 篇文字稿</p>
+      <span data-transcript-page></span>
+    </div>
+    <div class="transcript-list" data-transcript-list>
+      {transcripts.map((video) => {
+        const stats = transcriptStats(video);
+        return (
+          <article class="transcript-card" data-transcript-card data-type={video.type} data-year={videoYear(video.date)} data-date={video.date}
+            data-search={`${video.titleZh} ${video.summaryZh} ${video.org || ""} ${TYPE_LABELS[video.type]}`.toLocaleLowerCase("zh-CN")}>
+            <div class="card-date"><time datetime={video.date}>{video.date}</time><span>{TYPE_LABELS[video.type]}</span></div>
+            <div class="card-text">
+              <h2><a href={transcriptPath(video)}>{video.titleZh}</a></h2>
+              {video.summaryZh && <p>{video.summaryZh}</p>}
+              <div class="card-details">
+                {video.org && <span>{video.org}</span>}
+                <span>{stats.characterCount.toLocaleString("zh-CN")} 字</span>
+                <span>约 {stats.readingMinutes} 分钟</span>
+              </div>
+            </div>
+          </article>
+        );
+      })}
+    </div>
+    <div class="catalog-empty" data-transcript-empty hidden>
+      <h2>没有找到符合条件的文字稿</h2>
+      <p>试试其他关键词，或清除筛选后浏览全部文章。</p>
+    </div>
+    <nav class="catalog-pagination" aria-label="文字稿分页" data-transcript-pagination hidden>
+      <button type="button" data-transcript-prev><ChevronLeft size={17} aria-hidden="true" /> 上一页</button>
+      <span data-transcript-page-label></span>
+      <button type="button" data-transcript-next>下一页 <ChevronRight size={17} aria-hidden="true" /></button>
+    </nav>
+  </section>
+  <script src="../../scripts/transcript-catalog.ts"></script>
+</BaseLayout>
+
+<style>
+  .transcript-catalog { max-width: 1060px; padding-top: 60px; }
+  .catalog-intro { max-width: 740px; padding-bottom: 42px; }
+  h1 { margin: 0 0 24px; font-family: var(--serif); font-size: clamp(2.5rem, 5vw, 4rem); line-height: 1.3; }
+  .catalog-intro > p { margin: 10px 0; font-family: var(--serif); font-size: 1.2rem; }
+  .catalog-intro .catalog-description { max-width: 38em; color: var(--muted); font-family: var(--sans); font-size: 0.98rem; line-height: 1.9; }
+  .fulltext-link { display: inline-flex; align-items: center; gap: 8px; margin-top: 14px; color: var(--signal); font-size: 0.9rem; }
+  .transcript-filters { display: grid; grid-template-columns: minmax(200px, 2fr) repeat(3, minmax(115px, 1fr)) auto; gap: 14px; align-items: end; padding-block: 24px; border-block: 1px solid var(--line-dark); }
+  .transcript-filters label { display: grid; gap: 8px; min-width: 0; }
+  .transcript-filters label > span { color: var(--muted); font-size: 0.8rem; }
+  input, select, button { min-height: 44px; border: 1px solid var(--line-dark); border-radius: 4px; padding: 8px 12px; background: var(--surface); font-size: 0.87rem; }
+  input, select { width: 100%; min-width: 0; }
+  button:hover { border-color: var(--ink); }
+  .catalog-results { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding-block: 22px; color: var(--muted); font-size: 0.85rem; scroll-margin-top: 20px; }
+  .catalog-results p { margin: 0; }
+  .catalog-results strong { color: var(--ink); }
+  .transcript-card { display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 30px; padding-block: 28px 32px; border-top: 1px solid var(--line); }
+  .transcript-card[hidden], [hidden] { display: none; }
+  .card-date { display: flex; flex-direction: column; gap: 9px; padding-top: 5px; color: var(--muted); font-size: 0.83rem; font-variant-numeric: tabular-nums; }
+  .card-date span { color: var(--signal); }
+  .card-text { min-width: 0; }
+  .card-text h2 { margin: 0; font-family: var(--serif); font-size: 1.4rem; line-height: 1.6; overflow-wrap: anywhere; }
+  .card-text h2 a { text-decoration: none; }
+  .card-text h2 a:hover { text-decoration: underline; }
+  .card-text > p { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; margin: 12px 0; color: var(--muted); font-size: 0.94rem; line-height: 1.9; }
+  .card-details { display: flex; flex-wrap: wrap; gap: 8px 20px; margin-top: 14px; color: var(--muted); font-size: 0.78rem; }
+  .catalog-empty { padding: 60px 0; text-align: center; }
+  .catalog-empty h2 { font-family: var(--serif); font-size: 1.4rem; }
+  .catalog-empty p { color: var(--muted); }
+  .catalog-pagination { display: flex; justify-content: space-between; align-items: center; gap: 16px; border-top: 1px solid var(--line-dark); padding-top: 24px; }
+  .catalog-pagination[hidden] { display: none; }
+  .catalog-pagination button { display: inline-flex; align-items: center; gap: 4px; }
+  .catalog-pagination span { color: var(--muted); font-size: 0.82rem; }
+  .catalog-pagination button:disabled { color: var(--muted); opacity: 0.5; cursor: default; }
+  @media (max-width: 850px) {
+    .transcript-filters { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .catalog-query { grid-column: 1 / 3; }
+    .transcript-filters button { grid-column: 3; grid-row: 1; }
+  }
+  @media (max-width: 540px) {
+    .transcript-catalog { padding-top: 36px; }
+    .catalog-intro { padding-bottom: 28px; }
+    .transcript-filters { gap: 12px 8px; }
+    input, select, button { padding-inline: 8px; font-size: 0.8rem; }
+    .transcript-card { grid-template-columns: 1fr; gap: 12px; padding-block: 24px; }
+    .card-date { flex-direction: row; gap: 16px; padding: 0; }
+    .card-text h2 { font-size: 1.25rem; }
+  }
+</style>

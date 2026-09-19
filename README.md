@@ -48,8 +48,17 @@ Cloudflare Pages 配置：
 
 - `/sitemap-index.xml` 收录 canonical HTML 页面及真实内容更新时间，`/video-sitemap.xml` 收录可嵌入视频。
 - `/archive.json` 提供全部档案的双语元数据；每条详情另有 `/videos/{slug}.md` Markdown 版本。
+- 可用中文记录另带 `transcriptUrl` 和 `transcriptMarkdownUrl`，分别指向独立中文阅读页与中文 Markdown。
 - `/llms.txt` 枚举机器可读入口和全部档案，HTML 详情页通过 `rel="alternate"` 指向对应 Markdown。
 - robots 优先允许 AI 搜索和用户请求式读取，并通过 `Content-Signal` 表达不用于训练的偏好；已知训练爬虫 GPTBot、ClaudeBot 与 CCBot 被禁止。
+
+## 中文文字稿
+
+- `/transcripts/` 将影像目录中的中文正文整理为独立模块，当前共 273 篇；每篇有 `/transcripts/{slug}/` 阅读页和 `/transcripts/{slug}.md` 中文 Markdown。
+- 构建时直接复用 `src/content/videos/*.json` 的中文标题、摘要和 `segments[].textZh`，保留原段落 `id` 与来源。无需维护另一份翻译副本，影像记录更新后文字稿同步更新，避免版本漂移。
+- 文字稿仅收录具有完整可用中文正文的记录，不用英文回填缺失翻译；目录数量随实际可用记录变化。
+- 中文目录与每篇文章均有独立 canonical、结构化数据和 sitemap 更新时间，`llms.txt` 提供全部中文 Markdown 入口。
+- `npm run test:seo` 检查所有中文阅读页和 Markdown 的数量、正文完整性、段落锚点、来源、canonical 与索引入口。
 
 ## 在线读书
 
